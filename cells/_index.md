@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Excel Sheet Generator & Converter Solution" h2="On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality." logoImageSrc="https://www.aspose.com/templates/brand/images/cells/aspose_cells-brand.png" imageAlt="Aspose.Cells Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Excel Sheet Generator & Converter Solution" h2="On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality." logoImageSrc="/headers/aspose_cells-brand.png" imageAlt="Aspose.Cells Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
