@@ -11,47 +11,47 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.png" productLink="/cells/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.png" productLink="/cells/curl/" >}}
 Access Excel & OpenOffice spreadsheets hosted on the cloud for processing & conversion using cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.png" productLink="/cells/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
 Build cloud-based spreadsheet generator & converter apps using Cloud SDK for C#, ASP.NET or other .NET related language.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.png" productLink="/cells/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
 Enable your Java cloud apps to access, read, write & process Excel worksheets hosted on the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_cells-for-php.png" productLink="/cells/php" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_cells-for-php.png" productLink="/cells/php/" >}}
 Generate, view, merge, split & convert XLSX & ODS spreadsheets in the cloud via PHP REST SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Android" imgSrc="/sdk/aspose_cells-for-android.png" productLink="/cells/android" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Android" imgSrc="/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
 Rapidly develop Excel & OpenOffice spreadsheet generator & encryption apps for Android devices using REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cells-for-python.png" productLink="/cells/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cells-for-python.png" productLink="/cells/python/" >}}
 Python REST SDK to access cloud Excel sheets & ODS files for reading, editing & converting within your Python apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_cells-for-ruby.png" productLink="/cells/ruby/" >}}
 Enable your Ruby cloud apps to view, encrypt, modify, convert & export Excel spreadsheets hosted on the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cells-for-node.png" productLink="/cells/nodejs" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cells-for-node.png" productLink="/cells/python/" >}}
 Easily integrate Microsoft Excel & OpenOffice spreadsheet processing functionality into your Node.js cloud apps via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_cells-for-perl.png" productLink="/cells/perl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_cells-for-perl.png" productLink="/cells/perl/" >}}
 Assists your cloud-based Perl apps to access & manipulate XLSX & ODS sheets on the cloud, without any 3rd party software.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_cells-for-swift.png" productLink="/cells/swift" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
 Easily build your own cloud-based Excel & OpenOffice file generator & exporter in Swift programming language.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Go" imgSrc="/sdk/aspose_cells-for-go.png" productLink="/cells/go" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Go" imgSrc="/sdk/aspose_cells-for-go.png" productLink="/cells/go/" >}}
 Get the power to Generate, Modify, Process or Convert Microsoft Excel & OpenOffice spreadsheet via Go language on any platform.
 {{< /blocks/products/pf/product >}}
 

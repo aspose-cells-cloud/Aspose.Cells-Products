@@ -298,25 +298,25 @@ url: /swift
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cells/curl" imgSrc="/sdk/aspose_cells-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/net" imgSrc="/sdk/aspose_cells-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/java" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/php" imgSrc="/sdk/aspose_cells-for-android.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-android.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/cells/android" imgSrc="/sdk/aspose_cells-for-php.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-php.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/python" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go" imgSrc="/sdk/aspose_cells-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.png" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

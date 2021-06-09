@@ -11,19 +11,19 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.png" productLink="/cells/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.png" productLink="/cells/curl/" >}}
 Access, process & manipulate cloud-based spreadsheets using cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.png" productLink="/cells/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
 Enhance your .NET cloud applications to generate, view, & convert Excel sheets in C# or other .NET supported language.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.png" productLink="/cells/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
 Build cloud Excel & OpenOffice spreadsheet generator & exporter apps in Java via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/cells/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/cells/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
@@ -37,7 +37,7 @@ Speed-up development of web-based or desktop applications for spreadsheet manipu
 Java API library for building native apps to generate, convert, protect & print Excel & OpenOffice spreadsheets.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" productLink="https://products.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" productLink="https://products.aspose.com/cells/cpp/" >}}
 Easily build C++ applications to Create, parse, view & convert Microsoft Excel (XLSX) & OpenOffice (ODS) documents.
 {{< /blocks/products/pf/product >}}
 
