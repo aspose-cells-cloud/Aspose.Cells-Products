@@ -1,18 +1,19 @@
 ﻿---
-title: Easy REST API to Build Spreadsheet Processing Android Apps 
+title: REST API to Build Excel Apps for Android 
 description: Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert worksheets 
 weight: 20
 url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert worksheets." logoImageSrc="/headers/aspose_cells-for-android.png?v2?v2" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert worksheets." logoImageSrc="/headers/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Android" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.Cells Cloud SDK for Android assists you in developing Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) and OpenOffice (ODS) Spreadsheet processing applications for Android devices. Aspose.Cells Cloud SDK for Android is offered under an MIT license and is based on Aspose.Cells REST API.</p>
 <p>Aspose.Cells Cloud SDK for Android enables your Android code to access cloud spreadsheet documents and manipulate workbooks, worksheets, individual cells, rows and columns. Your Android program will be able to extract barcodes from worksheet pictures, apply auto-filters (date filter, icon filter, dynamic filter), access charts, apply conditional formatting, and programmatically configure spreadsheet page setup.</p>
 <p>Aspose.Cells Cloud SDK for Android allows you to work with OleObjects, ListObjects, pivot tables, ranges, shapes, and tasks within Excel and ODS worksheets, without installing any third-party software.</p>
 <p>Aspose.Cells Cloud SDK for Android can also assist you in creating spreadsheet converter apps for Android-based mobile devices, as it allows to convert Microsoft Excel, OpenOffice, SpreadsheetML, CSV, TSV, TXT (TabDelimited), HTML, MHTML, SXC, FODS to other supported formats, such as, PDF, XPS, TIFF, SVG, DIF and MD (Markdown).</p>
@@ -287,7 +288,7 @@ url: /android
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells Cloud SDK for Android?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -304,15 +305,15 @@ url: /android
 	
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-android.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-php.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.png" platform="Android" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}

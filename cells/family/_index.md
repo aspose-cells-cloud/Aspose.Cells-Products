@@ -39,7 +39,7 @@ Python REST SDK to access cloud Excel sheets & ODS files for reading, editing & 
 Enable your Ruby cloud apps to view, encrypt, modify, convert & export Excel spreadsheets hosted on the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cells-for-node.png" productLink="/cells/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cells-for-node.png" productLink="/cells/nodejs/" >}}
 Easily integrate Microsoft Excel & OpenOffice spreadsheet processing functionality into your Node.js cloud apps via REST API.
 {{< /blocks/products/pf/product >}}
 
@@ -69,7 +69,6 @@ Get the power to Generate, Modify, Process or Convert Microsoft Excel & OpenOffi
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/cells" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
