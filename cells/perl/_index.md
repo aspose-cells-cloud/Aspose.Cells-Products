@@ -6,7 +6,7 @@ url: /perl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Perl REST SDK for Excel Files" h2="Create, read, write, merge, split, encrypt, and convert Microsoft Excel & OpenOffice spreadsheets in the cloud." logoImageSrc="/headers/aspose_cells-for-perl.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Perl REST SDK for Excel Spreadsheets" h2="Create, read, write, merge, split, encrypt, and convert Microsoft Excel & OpenOffice spreadsheets in the cloud." logoImageSrc="/headers/aspose_cells-for-perl.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Perl" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Perl" >}}
 

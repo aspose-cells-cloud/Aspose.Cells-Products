@@ -6,7 +6,7 @@ url: /swift
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Swift SDK to Generate & Convert Cloud Spreadsheets" h2="REST API to fetch, process, encrypt, convert & export Microsoft & OpenOffice spreadsheets on the cloud via Swift SDK." logoImageSrc="/headers/aspose_cells-for-swift.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Swift SDK to Generate & Convert Excel Spreadsheets" h2="REST API to fetch, process, encrypt, convert & export Microsoft & OpenOffice spreadsheets on the cloud via Swift SDK." logoImageSrc="/headers/aspose_cells-for-swift.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Swift" >}}
 

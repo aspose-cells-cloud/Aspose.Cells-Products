@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Excel File Reader, Viewer & Converter Apps in Ruby" h2="Enhances your Ruby applications to process and manipulate Microsoft Excel & OpenOffice spreadsheets in the cloud." logoImageSrc="/headers/aspose_cells-for-ruby.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Excel File Reader, Viewer & Converter Apps via Ruby" h2="Enhances your Ruby applications to process and manipulate Microsoft Excel & OpenOffice spreadsheets in the cloud." logoImageSrc="/headers/aspose_cells-for-ruby.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Ruby" >}}
 

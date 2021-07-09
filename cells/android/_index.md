@@ -6,7 +6,7 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert worksheets." logoImageSrc="/headers/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert apps." logoImageSrc="/headers/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
 

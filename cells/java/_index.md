@@ -6,7 +6,7 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java SDK to Create & Modify Excel Files" h2="Provides seamless integration of Excel & OpenOffice spreadsheet processing features into cloud-based Java applications." logoImageSrc="/headers/aspose_cells-for-java.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java SDK to Create & Modify Excel Files via REST API" h2="Provides seamless integration of Excel & OpenOffice spreadsheet processing features into cloud-based Java applications." logoImageSrc="/headers/aspose_cells-for-java.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" >}}
 
