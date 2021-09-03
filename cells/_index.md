@@ -37,7 +37,7 @@ Speed-up development of web-based or desktop applications for spreadsheet manipu
 Java API library for building native apps to generate, convert, protect & print Excel & OpenOffice spreadsheets.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" productLink="https://products.aspose.com/cells/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp/" >}}
 Easily build C++ applications to Create, parse, view & convert Microsoft Excel (XLSX) & OpenOffice (ODS) documents.
 {{< /blocks/products/pf/product >}}
 
