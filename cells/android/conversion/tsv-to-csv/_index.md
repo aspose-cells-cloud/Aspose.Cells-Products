@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to CSV on Android 
-description: Automate Excel File Manipulation Operations with Cloud API & Open Source Android SDK
+description: Automate Excel File Manipulation Operations such as Creation, Editing and Conversion with Cloud API & Open Source Android SDK
 url: /android/conversion/tsv-to-csv/
 family: cells
 platformtag: android
@@ -8,7 +8,7 @@ feature: conversion
 informat: TSV
 outformat: CSV
 platform: Android
-otherformats: HTML XLSM XLT XLTM DIF XLTX SVG XML TIFF ODS PDF XLSX 
+otherformats: XLSB MD PDF XLTX XML XPS FODS MHTML TXT XLSM CSV XLSX SXC XLTM DIF SVG 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -17,29 +17,31 @@ otherformats: HTML XLSM XLT XLTM DIF XLTX SVG XML TIFF ODS PDF XLSX
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="TSV to CSV Conversion in Android Apps" %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota as well as ClientId & ClientSecret
-1. Initialize ~~~CellsApi~~~ with ClientId, ClientSecret, BaseURL & API version
-1. Upload TSV file to default Cloud Storage with ~~~CellsApiUtil.Upload~~~
-1. Call ~~~CellsApi.cellsSaveAsPostDocumentSaveAs~~~ to convert workbook to CSV format
+1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
+1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
+1. Upload TSV file to default Cloud Storage with ```CellsApiUtil.Upload``` method
+1. Call ```CellsApi.cellsWorkbookGetWorkbook``` to get the resultant CSV file
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for Android source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) to compile the SDK yourself or head to the Repository if you are interested in JAR files. 
+Get Excel Cloud SDK for ANDROID source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
 
-Also have a look at Swagger-based (API Reference)[https://apireference.aspose.cloud/cells/] to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Android: TSV to CSV Conversion" gistPath="" %}}
 ```java
-// for complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
 try {
-    CellsApi api = new CellsApi(CellsApiUtil.GetClientId(),CellsApiUtil.GetClientSecret(),CellsApiUtil.GetAPIVersion(),CellsApiUtil.GetBaseUrl());
-    String name = "template.tsv";
-    Boolean isAutoFitRows = true;
-	Boolean isAutoFitColumns = true;
+    CellsApi api = new CellsApi(CellsApiUtil.GetClientId(), CellsApiUtil.GetClientSecret(), CellsApiUtil.GetAPIVersion(), CellsApiUtil.GetBaseUrl());
+    String name = BOOK1;
+    String password = null;
+    Boolean isAutoFit = true;
+    Boolean onlySaveTable = true;
+    String format = "CSV";
     String folder = TEMPFOLDER;
     CellsApiUtil.Upload(api, folder, name);
-    File response = api.cellsSaveAsPostDocumentSaveAs(name, null, "output.csv", isAutoFitRows, isAutoFitColumns, folder, null);
+    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
 }
 catch (Exception e) {
     e.printStackTrace();
@@ -47,7 +49,8 @@ catch (Exception e) {
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/about-file-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
