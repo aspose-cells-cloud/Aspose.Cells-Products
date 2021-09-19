@@ -39,7 +39,6 @@ dataFolder := "../../data/"
 remoteFolder := "GoFiles"
 name := "template.txt"
 newFileName := "output.html"
-
 //Instantiate Aspose Cells API SDK
 CellsAPI := NewCellsApiService(apiKey, appSid, apiServer)
 args := new(UploadFileOpts)
@@ -51,12 +50,9 @@ if err == nil {
 	args1.Name = name
 	args1.Newfilename = remoteFolder + "/" + newFileName
 	args1.Folder = remoteFolder
-
-	response, httpResponse, err := CellsAPI.CellsSaveAsPostDocumentSaveAs(args1)
-}
+	response, httpResponse, err := CellsAPI.CellsSaveAsPostDocumentSaveAs(args1) }
 if err != nil {
-	fmt.Println(err)
-}
+	fmt.Println(err) }
 ```
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
