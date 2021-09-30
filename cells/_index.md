@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Excel Sheet Generator & Converter Solution" h2="On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality." logoImageSrc="/headers/aspose_cells-brand.png" imageAlt="Aspose.Cells Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Excel Sheet Generator & Converter Solution" h2="On-premise & Cloud APIs to seamlessly enhance your native, web & cloud apps to provide spreadsheet processing functionality." logoImageSrc="/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.png" productLink="/cells/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="/sdk/aspose_cells-for-curl.svg" productLink="/cells/curl/" >}}
 Access, process & manipulate cloud-based spreadsheets using cURL via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.png" productLink="/cells/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
 Enhance your .NET cloud applications to generate, view, & convert Excel sheets in C# or other .NET supported language.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.png" productLink="/cells/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
 Build cloud Excel & OpenOffice spreadsheet generator & exporter apps in Java via REST API.
 {{< /blocks/products/pf/product >}}
 

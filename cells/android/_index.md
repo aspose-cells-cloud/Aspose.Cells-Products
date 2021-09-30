@@ -6,11 +6,11 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert apps." logoImageSrc="/headers/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Spreadsheet Processing Android Apps via REST API" h2="Android REST SDK to create cloud-based Excel & OpenOffice spreadsheets, merge, split, view, encrypt & convert apps." logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Cells Cloud SDK for Android assists you in developing Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) and OpenOffice (ODS) Spreadsheet processing applications for Android devices. Aspose.Cells Cloud SDK for Android is offered under an MIT license and is based on Aspose.Cells REST API.</p>
@@ -37,7 +37,7 @@ url: /android
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.png" alt="Android SDK to manipulate Spreadsheets"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Android SDK to manipulate Spreadsheets"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -57,7 +57,7 @@ url: /android
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.png" alt="Spreadsheet manipulation via Android"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-android.svg" alt="Spreadsheet manipulation via Android"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -299,25 +299,25 @@ url: /android
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Excel Viewer & Converter Apps via C# REST SDK" h2="Easy SDKs for C#, ASP.NET & other .NET supported languages to develop cloud-based apps for processing Excel & OpenOffice spreadsheets." logoImageSrc="/headers/aspose_cells-for-net.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Excel Viewer & Converter Apps via C# REST SDK" h2="Easy SDKs for C#, ASP.NET & other .NET supported languages to develop cloud-based apps for processing Excel & OpenOffice spreadsheets." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Cells Cloud SDK for .NET enhances the capability of your .NET applications by seamlessly integrating spreadsheet processing features that allow your cloud-based programs to access and modify workbooks, worksheets, spreadsheets, rows as well as individual cells, without installing any third-party software. Aspose.Cells Cloud SDK for .NET is distributed under an MIT license.</p>
@@ -36,7 +36,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.png" alt="Go SDK for Excel & OpenOffice Spreadsheets"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.svg" alt="Go SDK for Excel & OpenOffice Spreadsheets"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -56,7 +56,7 @@ url: /net
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.png" alt="Excel SDK .NET"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-net.svg" alt="Excel SDK .NET"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -280,25 +280,25 @@ url: /net
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

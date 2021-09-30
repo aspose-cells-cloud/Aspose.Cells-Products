@@ -6,11 +6,11 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process & Convert Spreadsheets in Cloud via PHP SDK" h2="Spreadsheet manipulation REST API to generate, view, modify, encrypt & manage Excel & OpenOffice files." logoImageSrc="/headers/aspose_cells-for-php.png" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process & Convert Spreadsheets in Cloud via PHP SDK" h2="Spreadsheet manipulation REST API to generate, view, modify, encrypt & manage Excel & OpenOffice files." logoImageSrc="/headers/aspose_cells-for-php.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Cells Cloud SDK for PHP is built for developers to assist them in enhancing their cloud-based spreadsheet generator, viewer and converter apps programmed in PHP. Our Excel document processor cloud SDK is based on Aspose.Cells REST API. Aspose.Cells Cloud SDK for PHP is available under an MIT license.</p>
@@ -36,7 +36,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-php.png" alt="PHP Excel SDK"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-php.svg" alt="PHP Excel SDK"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -56,7 +56,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cells-for-php.png" alt="PHP Cloud Excel"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cells-for-php.svg" alt="PHP Cloud Excel"><header>Aspose.Cells</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -299,25 +299,25 @@ url: /php
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/curl/" imgSrc="/sdk/aspose_cells-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="/sdk/aspose_cells-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="/sdk/aspose_cells-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php/" imgSrc="/sdk/aspose_cells-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/android/" imgSrc="/sdk/aspose_cells-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python/" imgSrc="/sdk/aspose_cells-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/ruby/" imgSrc="/sdk/aspose_cells-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs/" imgSrc="/sdk/aspose_cells-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.png" platform="Swift" >}}
-	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.png" platform="Go" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/perl/" imgSrc="/sdk/aspose_cells-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/swift/" imgSrc="/sdk/aspose_cells-for-swift.svg" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/cells/go/" imgSrc="/sdk/aspose_cells-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
