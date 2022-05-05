@@ -13,7 +13,7 @@ url: /perl/conversion/xlsb-to-xml/
 {{% blocks/products/pf/agp/feature-section-col title="XLSB to XML Conversion in Cloud SDK for Perl " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```CellsApi.CellsWorkbookPutConvertWorkbook``` method to get the resultant XML stream
+1. Call ```cells_workbook_put_convert_workbook``` method to get the resultant XML stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
@@ -25,23 +25,27 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 {{% blocks/products/pf/agp/code-autogen title="Perl Code for XLSB to XML Conversion" gistPath="" %}}
 ```perl
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
-    my $client = AsposeCellsCloud::ApiClient->new( 
-        AsposeCellsCloud::Configuration->new('base_url' =>'https://api.aspose.cloud/',
-        'api_version' => 'v3.0', client_id => $ENV{'ProductClientId'}, 
-        client_secret =>  $ENV{'ProductClientSecret'}));
-    my $api = AsposeCellsCloud::CellsApi->new($client);
-    my $format = 'xml'; # replace NULL with a proper value
-    my $password = undef; # replace NULL with a proper value
-    my $out_path = undef; # replace NULL with a proper value
-    my $Book1_data =undef;
-    my @fileinfos = stat(get_path(file=>"Book1.xlsb"));
+    use strict;
+    use warnings;
+    use utf8; 
+    use File::Slurp;
+    use AsposeCellsCloud::CellsApi;
+    my $config = AsposeCellsCloud::Configuration->new( client_id => $ENV{'ProductClientId'}, client_secret => $ENV{'ProductClientSecret'});
+    my $instance = AsposeCellsCloud::CellsApi->new(AsposeCellsCloud::ApiClient->new( $config));
+    my $format = "xml";
+    my $Book1Data = undef;
+    my $result =undef;
+    my @fileinfos = stat("Book1.xlsb");
     my $filelength = $fileinfos[7];
-    open(DATA, "<".get_path(file=>"Book1.xlsb")) or die "file.txt  can not open, $!";
+    open(DATA, '<', "Book1.xlsb") or die "file can not open, $!";
     binmode(DATA);
-    read (DATA, $Book1_data, $filelength);
-    close (DATA);    
-    my $folder = $TEMPFOLDER; # replace NULL with a proper value
-    $result = $api->cells_workbook_put_convert_workbook( workbook => $Book1_data, format => $format, password => $password, out_path => $out_path,folder =>$folder);
+    read (DATA, $Book1Data, $filelength);
+    close (DATA); 
+    $result = $instance->cells_workbook_put_convert_workbook(workbook => $Book1Data, format => $format);
+    open(my $fh, '>', "Dest.xml") or die "Could not open file!";
+    binmode $fh;
+    print $fh $result;
+    close $fh;
 ```
 
 {{% /blocks/products/pf/agp/code-autogen %}}
