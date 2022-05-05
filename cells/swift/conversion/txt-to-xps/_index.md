@@ -1,65 +1,75 @@
 ---
-title: Convert TXT to XPS via Swift 
-description: Create, Edit or Convert Excel files with REST API & Open Source Swift SDK
+title: Convert TXT to XPS via Swift
+description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
 url: /swift/conversion/txt-to-xps/
-family: cells
-platformtag: swift
-feature: conversion
-informat: TXT
-outformat: XPS
-platform: Swift
-otherformats: XLTM PDF CSV MD XML SXC XLSX DIF XLSM XLTX TIFF ODS XPS HTML TSV MHTML 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TXT to XPS with Swift" h2="Read, Edit & Export Excel data to other formats like XPS with Open Source Cloud SDK for Swift">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TXT to  XPS in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Swift">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="TXT to XPS Conversion in the Cloud" %}}
+{{% blocks/products/pf/agp/feature-section-col title="TXT to XPS Conversion in Cloud SDK for Swift " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```SaveOptions``` as per desired output format
-1. Upload TXT file to default Cloud Storage with ```uploadFile``` method
-1. Call ```CellsAPI.cellsSaveAsPostDocumentSaveAs``` method to get the resultant XPS file
+1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
+1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant XPS stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Swift SDK" %}}
-Get Excel Cloud SDK for Swift source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Swift Code for TXT to XPS Conversion" gistPath="" %}}
 ```swift
-// For complete examples and data files, please go https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift
-let expectation = self.expectation(description: "cellsSaveAsPostDocumentSaveAs")
-let name:String = "template.txt"
-let saveOptions:SaveOptions? = XpsSaveOptions(enableHTTPCompression: nil, saveFormat: "xps", clearData: nil, cachedFileFolder: nil, validateMergedAreas: nil, refreshChartCache: nil, createDirectory: nil, sortNames: nil, calculateFormula: nil, checkFontCompatibility: nil, onePagePerSheet: nil, compliance: nil, defaultFont: nil, printingPageType: nil, imageType: nil, desiredPPI: nil, jpegQuality: nil, securityOptions: nil)
-let newfilename:String = "output.xps"
-let isAutoFitRows:Bool? = true
-let isAutoFitColumns:Bool? = true
-let folder:String = "Temp"
-let storage:String? = nil
-uploadFile(name: name) 
-{
-	CellsAPI.cellsSaveAsPostDocumentSaveAs(name: name, saveOptions: saveOptions, newfilename: newfilename, isAutoFitRows: isAutoFitRows, isAutoFitColumns: isAutoFitColumns, folder: folder, storage: storage)
-	{
-		(response, error) in
-		guard error == nil else 
-		{
-			let errorinfo = self.GetErrorDataInfo(error: error as! ErrorResponse)
-			print("error info: \(errorinfo!)")
-			XCTFail("error cellsSaveAsPostDocumentSaveAs")
-			return
-		}
-		if let response = response 
-		{
-			XCTAssertEqual(response.code, 200)
-			expectation.fulfill()
-		}
-	}
-}
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
+    import AsposeCellsCloud
+    let expectation1 = self.expectation(description: "checkAuth")
+    AsposeCellsCloudAPI.clientId = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    AsposeCellsCloudAPI.clientSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    AuthAspose.checkAuth()
+    {
+        (authError) in
+        guard authError == nil else {
+            XCTFail("error checkAuth")
+            return
+        }
+        expectation1.fulfill()
+    }
+    self.waitForExpectations(timeout: testTimeout, handler: nil)        
+    let expectation = self.expectation(description: "PutConvert")
+    let workbook:String = "Book1.txt"
+    let format:String? = "xps"     
+    let url1: URL? = getURL(workbook)
+    let filedata = NSData(contentsOfFile: url1!.path)
+    let password:String? = nil
+    let outPath:String? = nil
+    CellsAPI.cellsWorkbookPutConvertWorkbook(file: url1!, format: format, password: password, outPath: outPath)
+    {
+        (response, error) in
+        guard error == nil else {
+            let errorinfo = self.GetErrorDataInfo(error: error as! ErrorResponse)
+            print("error info: \(errorinfo!)")
+            XCTFail("error PutConvert")
+            return
+        }            
+        if let response = response {
+            //response is a Data of file, we may write it down and check it.
+            let fileName = "dest.xps"
+            let filePath = NSHomeDirectory()
+            let fileManager = FileManager.default
+            let path = "\(filePath)/tmp/\(fileName)"
+            fileManager.createFile(atPath: path, contents:nil, attributes:nil)
+            let handle = FileHandle(forWritingAtPath:path)
+            handle?.write(response as Data)
+            expectation.fulfill()
+        }
+    }
+    self.waitForExpectations(timeout: testTimeout, handler: nil)
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}

@@ -57,7 +57,7 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
         }            
         if let response = response {
             //response is a Data of file, we may write it down and check it.
-            let fileName = "testcellsWorkbookPutConvertWorkbook.pdf"
+            let fileName = "dest.jpg"
             let filePath = NSHomeDirectory()
             let fileManager = FileManager.default
             let path = "\(filePath)/tmp/\(fileName)"
