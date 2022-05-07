@@ -24,7 +24,7 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 
 {{% blocks/products/pf/agp/code-autogen title="Python Code for NUMBERS to SQL Conversion" gistPath="" %}}
 ```python
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
     import os
     import shutil
     from asposecellscloud.apis.cells_api import CellsApi
