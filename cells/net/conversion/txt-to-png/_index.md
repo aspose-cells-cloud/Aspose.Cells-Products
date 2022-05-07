@@ -1,19 +1,19 @@
 ---
-title: Convert TXT to PNG via C#
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+title: Convert TXT to PNG via .NET
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /net/conversion/txt-to-png/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TXT to  PNG in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for C#">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TXT to  PNG in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for .NET">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="TXT to PNG Conversion in Cloud SDK for C# " %}}
+{{% blocks/products/pf/agp/feature-section-col title="TXT to PNG Conversion in Cloud SDK for .NET " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```CellsApi.CellsWorkbookPutConvertWorkbook``` method to get the resultant PNG stream
+1. Call ```CellsWorkbookPutConvertWorkbook``` method to get the resultant PNG stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
@@ -25,20 +25,20 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 {{% blocks/products/pf/agp/code-autogen title="Net Code for TXT to PNG Conversion" gistPath="" %}}
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-string name = "Book1.txt";
-string format = "png";
-string password = null;
-string outPath = null;
-string storageName = null;
-string destFile = "Book1.png";
-CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
-{
-    using (Stream outStream = File.OpenWrite(destFile))
+    string name = "Book1.txt";
+    string format = "png";
+    string password = null;
+    string outPath = null;
+    string storageName = null;
+    string destFile = "Book1.png";
+    CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    using (Stream stream = cellsApi.CellsWorkbookPutConvertWorkbook(File.OpenRead(name), format, password, outPath, storageName))
     {
-        stream.CopyTo(outStream);
+        using (Stream outStream = File.OpenWrite(destFile))
+        {
+            stream.CopyTo(outStream);
+        }
     }
-}
 ```
 
 {{% /blocks/products/pf/agp/code-autogen %}}

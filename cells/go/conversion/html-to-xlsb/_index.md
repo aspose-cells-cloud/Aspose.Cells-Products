@@ -1,59 +1,58 @@
 ---
-title: Convert HTML to XLSB via Go 
-description: Create, Edit or Convert Excel files with REST API & Open Source Go SDK
+title: Convert HTML to XLSB via Go
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /go/conversion/html-to-xlsb/
-family: cells
-platformtag: go
-feature: conversion
-informat: HTML
-outformat: XLSB
-platform: Go
-otherformats: DIF MHTML FODS PDF XLT CSV TXT XLTX TSV SXC XLTM XLS XPS XLSB XLSM SVG 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert HTML to XLSB with Go" h2="Read, Edit & Export Excel data to other formats like XLSB with Open Source Cloud SDK for Go">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert HTML to  XLSB in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Go">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="HTML to XLSB Conversion in the Cloud" %}}
+{{% blocks/products/pf/agp/feature-section-col title="HTML to XLSB Conversion in Cloud SDK for Go " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApiService``` with API Key, App SID & Server
-1. Upload HTML file to default Cloud Storage with ```CellsAPI.UploadFile``` method
-1. Call ```CellsSaveAsPostDocumentSaveAs``` method to get the resultant XLSB file
+1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
+1. Call ```CellsWorkbookPutConvertWorkbook``` method to get the resultant XLSB stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Go SDK" %}}
-Get Excel Cloud SDK for Go source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-go) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-go) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Go Code for HTML to XLSB Conversion" gistPath="" %}}
 ```go
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go
-apiKey := "XXXXX" //sepcify App Key
-appSid := "XXXXX" //sepcify App SID
-apiServer := "https://api.aspose.cloud/v3.0"
-dataFolder := "../../data/"
-remoteFolder := "GoFiles"
-name := "template.html"
-newFileName := "output.xlsb"
-//Instantiate Aspose Cells API SDK
-CellsAPI := NewCellsApiService(apiKey, appSid, apiServer)
-args := new(UploadFileOpts)
-args.Path = remoteFolder + "/" + name
-file := os.Open(dataFolder + "/" + name)
-_, _, err = CellsAPI.UploadFile(file, args)
-if err == nil {
-	args1 := new(CellsSaveAsPostDocumentSaveAsOpts)
-	args1.Name = name
-	args1.Newfilename = remoteFolder + "/" + newFileName
-	args1.Folder = remoteFolder
-	response, httpResponse, err := CellsAPI.CellsSaveAsPostDocumentSaveAs(args1) }
-if err != nil {
-	fmt.Println(err) }
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
+    package main
+    import (
+	    "os"
+	    asposecellscloud "github.com/aspose-cells-cloud/aspose-cells-cloud-go/v22"
+    )
+    func main() {
+	    instance := asposecellscloud.NewCellsApiService(os.Getenv("ProductClientId"), os.Getenv("ProductClientSecret"))
+	    file, err := os.Open("Book1.html")
+	    if err != nil {
+		    return
+	    }
+	    convertWorkbookOpts := new(asposecellscloud.CellsWorkbookPutConvertWorkbookOpts)
+	    convertWorkbookOpts.Format = "xlsb"
+	    value, response, err1 := instance.CellsWorkbookPutConvertWorkbook(file, convertWorkbookOpts)
+	    if err1 != nil {
+		    return
+	    }
+	    file1, err2 := os.Create("Dest.xlsb")
+	    if err2 != nil {
+		    return
+	    }
+	    if _, err3 := file1.Write(value); err3 != nil {
+		    return
+	    }
+	    file1.Close()
+    }
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}

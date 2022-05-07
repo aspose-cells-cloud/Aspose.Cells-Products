@@ -1,52 +1,57 @@
 ---
-title: Convert HTML to ODS in the Cloud via Java 
-description: Create, Edit or Convert Excel files with REST API & Open Source Java SDK
+title: Convert HTML to ODS via Java
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /java/conversion/html-to-ods/
-family: cells
-platformtag: java
-feature: conversion
-informat: HTML
-outformat: ODS
-platform: Java
-otherformats: ODS XLSM TIFF XML DIF TXT XLSX SVG XLTX XLTM SXC XLSB FODS CSV MD PDF 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert HTML to ODS with Java" h2="Automate Excel & OpenOffice file conversion with open source Cloud SDK for Java">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert HTML to  ODS in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Java">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Simple HTML to ODS Conversion" %}}
+{{% blocks/products/pf/agp/feature-section-col title="HTML to ODS Conversion in Cloud SDK for Java " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload HTML file to default Cloud Storage with ```CellsApi.Upload``` method
-1. Call ```CellsApi.cellsWorkbookGetWorkbook``` to get the resultant ODS file
+1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant ODS stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Java SDK" %}}
-Get Excel Cloud SDK for Java source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Java Code to Convert HTML to ODS" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Java Code for HTML to ODS Conversion" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
-try {
-    CellsApi api = new CellsApi(System.getenv("CellsCloudTestClientId"), System.getenv("CellsCloudTestClientSecret"), "v3.0", System.getenv("CellsCloudTestApiBaseUrl"));
-    String name = BOOK1;
-    String password = null;
-    Boolean isAutoFit = true;
-    Boolean onlySaveTable = true;
-    String format = "ODS";
-    String folder = TEMPFOLDER;
-    api.uploadFile( folder +"/"+ name, new File("c:\\TestData\\" + name) , null);
-    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
-}
-catch (Exception e) {
-    e.printStackTrace();
-}
+    import java.io.File;
+    import com.aspose.cloud.cells.api.*;
+    public class Conversion {
+        public static void main(String[] args) {
+            String name =  "Book1.html";
+            String format = "ods";
+            String password = null;
+            String outPath = null;
+            String destFile = "DestFile.ods";
+            try {
+                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                if(response.canRead())
+                {
+                    if(response.exists()){
+                        response.renameTo(new File(destFile));
+                    }                
+                }
+            }
+            catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
+        }
+    }
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}

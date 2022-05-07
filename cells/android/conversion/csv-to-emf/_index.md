@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to EMF via Android
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /android/conversion/csv-to-emf/
 ---
 

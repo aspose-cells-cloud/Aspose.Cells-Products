@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PNG via Go
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /go/conversion/csv-to-png/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XML to GIF via PHP
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /php/conversion/xml-to-gif/
 ---
 

@@ -1,53 +1,38 @@
 ---
-title: Convert from Excel XML to ODS via Python 
-description: Create, Edit or Convert Excel files with REST API & Open Source Python SDK
+title: Convert XML to ODS via Python
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /python/conversion/xml-to-ods/
-family: cells
-platformtag: python
-feature: conversion
-informat: XML
-outformat: ODS
-platform: Python
-otherformats: XLSM ODS XPS XLTX DIF CSV MD XLSX XLTM PDF FODS SVG TSV SXC TIFF XLSB 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XML to ODS with Python" h2="Read, Edit & Export Excel data to other formats with open source Cloud SDK for Python">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XML to  ODS in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Python">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XML to ODS Conversion with Python" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XML to ODS Conversion in Cloud SDK for Python " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload XML file to default Cloud Storage with ```CellsApi.upload_file``` method
-1. Call ```CellsApi.cells_save_as_post_document_save_as``` method to get the resultant ODS file
+1. Call ```cells_workbook_put_convert_workbook``` method to get the resultant ODS stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Python SDK" %}}
-Get Excel Cloud SDK for Python source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Python Code for XML to ODS Conversion" gistPath="" %}}
 ```python
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python
-import os
-import sys
-import asposecellscloud
-from asposecellscloud.apis.cells_api import CellsApi
-api  = asposecellscloud.apis.cells_api.CellsApi(os.getenv('CellsCloudClientId'), os.getenv('CellsCloudClientSecret'), "v3.0" ,os.getenv('CellsCloudApiBaseUrl'))
-
-name ='template.xml'    
-saveOptions = None
-newfilename = "output.ods"
-isAutoFitRows= True
-isAutoFitColumns= True
-folder = "temp"
-result = api.upload_file(folder + '/' + name,  "c:/TestData/" + name)
- 
-result = api.cells_save_as_post_document_save_as(name, save_options=saveOptions, newfilename=(folder +'/' + newfilename), is_auto_fit_rows=isAutoFitRows, is_auto_fit_columns=isAutoFitColumns, folder=folder)
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
+    import os
+    import shutil
+    from asposecellscloud.apis.cells_api import CellsApi
+    cells_api = CellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    file1 = cells_api.cells_workbook_put_convert_workbook("Book1.xml",format="ods")
+    shutil.move(file1, "destFile.ods")     
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}

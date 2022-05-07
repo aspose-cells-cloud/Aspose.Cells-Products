@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF via PHP
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /php/conversion/numbers-to-pdf/
 ---
 

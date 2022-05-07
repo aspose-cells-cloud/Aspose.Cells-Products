@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to HTML via Android
-description: Create, Edit or Convert Excel files with Cloud API & Open Source .NET SDK
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /android/conversion/xlsx-to-html/
 ---
 
