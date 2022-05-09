@@ -10,7 +10,7 @@ url: /android/export/listobject-to-tiff/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt Listobject to TIFF file in Cloud SDK for Android " %}}
+{{% blocks/products/pf/agp/feature-section-col title="Export Listobject to TIFF file in Cloud SDK for Android " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
 1. Call ```postExport``` method to get the resultant TIFF stream

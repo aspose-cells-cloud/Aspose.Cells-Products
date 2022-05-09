@@ -10,7 +10,7 @@ url: /go/export/listobject-to-jpg/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt Listobject to JPG file in Cloud SDK for Go " %}}
+{{% blocks/products/pf/agp/feature-section-col title="Export Listobject to JPG file in Cloud SDK for Go " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
 1. Call ```PostExport``` method to get the resultant JPG stream

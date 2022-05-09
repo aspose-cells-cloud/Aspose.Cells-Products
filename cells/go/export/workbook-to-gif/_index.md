@@ -10,7 +10,7 @@ url: /go/export/workbook-to-gif/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt Workbook to GIF file in Cloud SDK for Go " %}}
+{{% blocks/products/pf/agp/feature-section-col title="Export Workbook to GIF file in Cloud SDK for Go " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
 1. Call ```PostExport``` method to get the resultant GIF stream

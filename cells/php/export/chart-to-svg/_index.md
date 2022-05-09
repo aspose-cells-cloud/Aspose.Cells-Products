@@ -10,7 +10,7 @@ url: /php/export/chart-to-svg/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt Chart to SVG file in Cloud SDK for PHP " %}}
+{{% blocks/products/pf/agp/feature-section-col title="Export Chart to SVG file in Cloud SDK for PHP " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
 1. Call ```postExport``` method to get the resultant SVG stream
