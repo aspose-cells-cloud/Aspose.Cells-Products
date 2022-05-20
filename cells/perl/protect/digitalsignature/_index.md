@@ -1,6 +1,6 @@
 ---
-title: Cloud file digital signature in Cloud 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc digital signature. Spreadsheets digital signature by the Cells Cloud API.
+title: Cloud spreadsheets digital signature in Cloud 
+description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt local spreadsheets with password by the Cells Cloud API.
 url: /perl/protect/digital-signature/
 ---
 
@@ -22,7 +22,7 @@ Have a look at the [developer guide](https://docs.aspose.cloud/cells/developer-g
 Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Workbook/PostDigitalSignature) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Perl Code for encryption local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-DigitalSignature.pl" %}}
+{{% blocks/products/pf/agp/code-autogen title="Perl code for decrypting cloud spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-DigitalSignature.pl" %}}
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}

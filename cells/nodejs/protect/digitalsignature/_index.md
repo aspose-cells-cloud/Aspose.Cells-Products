@@ -1,6 +1,6 @@
 ---
-title: Cloud file digital signature in Cloud 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc digital signature. Spreadsheets digital signature by the Cells Cloud API.
+title: Cloud spreadsheets digital signature in Cloud 
+description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt local spreadsheets with password by the Cells Cloud API.
 url: /nodejs/protect/digital-signature/
 ---
 
@@ -13,7 +13,7 @@ url: /nodejs/protect/digital-signature/
 {{% blocks/products/pf/agp/feature-section-col title="Cloud spreadsheets digital signature by Cloud SDK for NodeJS" %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```postProtect``` method to digital signature for workbook on local spreadsheets
+1. Call ```cellsWorkbookPostDigitalSignature``` method to digital signature for workbook on local spreadsheets
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
@@ -22,7 +22,7 @@ Have a look at the [developer guide](https://docs.aspose.cloud/cells/developer-g
 Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Workbook/PostDigitalSignature) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="NodeJS Code for encryption local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-DigitalSignature.js" %}}
+{{% blocks/products/pf/agp/code-autogen title="NodeJS code for decrypting cloud spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-DigitalSignature.js" %}}
 {{% /blocks/products/pf/agp/code-autogen %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
