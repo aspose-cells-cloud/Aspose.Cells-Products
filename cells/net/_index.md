@@ -4,7 +4,6 @@ description: SDKs for C#, ASP.NET & other .NET supported languages to develop cl
 weight: 70
 url: /net
 ---
-{{< cells-annotation >}}
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="Build Excel Viewer & Converter Apps via C# REST SDK" h2="Easy SDKs for C#, ASP.NET & other .NET supported languages to develop cloud-based apps for processing Excel & OpenOffice spreadsheets." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
