@@ -1,64 +1,42 @@
 ---
-title: Convert from Excel XLSM to PDF via Ruby 
-description: Create, Edit or Convert Excel files with REST API & Open Source Ruby SDK
+title: Convert XLSM to PDF via Ruby
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /ruby/conversion/xlsm-to-pdf/
-family: cells
-platformtag: ruby
-feature: conversion
-informat: XLSM
-outformat: PDF
-platform: Ruby
-otherformats: FODS HTML SVG PDF XPS TXT XLS CSV TIFF XLT MHTML DIF XLSX XLTM XLSB SXC 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSM to PDF with Ruby" h2="Read, Edit & Export Excel data to other formats with open source Cloud SDK for Ruby">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLSM to  PDF in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Ruby">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLSM to PDF Conversion with Ruby" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLSM to PDF Conversion in Cloud SDK for Ruby " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload XLSM file to default Cloud Storage with ```CellsApi.upload_file``` method
-1. Call ```CellsApi.cells_save_as_post_document_save_as``` method to get the resultant PDF file
+1. Call ```cells_workbook_put_convert_workbook``` method to get the resultant PDF stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & Ruby SDK" %}}
-Get Excel Cloud SDK for Ruby source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Ruby Code for XLSM to PDF Conversion" gistPath="" %}}
 ```ruby
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby
-
-require 'aspose_cells_cloud'
-
-class Workbook
-  include AsposeCellsCloud
-  def initialize
-    @instance =  AsposeCellsCloud::CellsApi.new($client_id, $client_secret, $api_version, $baseurl) 
-  end
-  
-  # Convert document and save result to storage
-  def post_document_save_as
-    name = $BOOK1
-    save_options = nil
-    newfilename = 'output.pdf'
-    is_auto_fit_rows = true
-    is_auto_fit_columns = true
-    folder = $TEMPFOLDER
-    result = @instance.upload_file( folder + "/" + name, ::File.open(File.expand_path("data/" + name), "r") {|io| io.read(io.size) })
-    expect(result.uploaded.size).to  be > 0
-    result = @instance.cells_save_as_post_document_save_as(name, { :save_options=>save_options, :newfilename=>(folder + "/" + newfilename), :is_auto_fit_rows=>is_auto_fit_rows, :is_auto_fit_columns=>is_auto_fit_columns, :folder=>folder})
-  end
-end
-
-workbook = Workbook.new()
-puts workbook.post_document_save_as
+# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
+    describe 'cells_save_as_post_document_save_as test' do
+    it "should work" do
+        @instance = AsposeCellsCloud::CellsApi.new($client_id,$client_secret,"v3.0","https://api.aspose.cloud/")
+        name = "BOOK1.xlsm"
+        format = 'pdf'
+        @instance.cells_workbook_put_convert_workbook( ::File.open(File.expand_path("data/"+name),"r")  {|io| io.read(io.size) },{:format=>format})     
+    end
+    end
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
+{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=xlsm  outputformat=pdf  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}

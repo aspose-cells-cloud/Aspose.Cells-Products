@@ -1,49 +1,48 @@
 ---
-title: Convert XLT to SVG in the Cloud via PHP 
-description: Create, Edit or Convert Excel files with REST API & Open Source PHP SDK
+title: Convert XLT to SVG via PHP
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
 url: /php/conversion/xlt-to-svg/
-family: cells
-platformtag: php
-feature: conversion
-informat: XLT
-outformat: SVG
-platform: PHP
-otherformats: XPS SVG XLSB MHTML XLSX ODS MD PDF DIF XLTX TIFF TXT FODS SXC XML TSV 
 ---
 
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLT to SVG with PHP" h2="Automate Excel & OpenOffice file conversion with open source Cloud SDK for PHP">}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert XLT to  SVG in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for PHP">}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Quickly Convert XLT to SVG via PHP" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLT to SVG Conversion in Cloud SDK for PHP " %}}
 1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
 1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Upload XLT file to default Cloud Storage with ```CellsApi.uploadFile``` method
-1. Call ```CellsApi.cellsSaveAsPostDocumentSaveAs``` to get the resultant SVG file
+1. Call ```cellsWorkbookPutConvertWorkBook``` method to get the resultant SVG stream
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel API & PHP SDK" %}}
-Get Excel Cloud SDK for PHP source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
+{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
+Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) for alternative download options. 
 
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
+Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="PHP Code for XLT to SVG Conversion" gistPath="" %}}
 ```php
-
-# For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php
-
-$name ='template.xlt';    
-$saveOptions = null;
-$newfilename = "output.svg";
-$isAutoFitRows= 'true';
-$isAutoFitColumns= 'true';
-$folder = "Temp";
-CellsApi::ready( $this->instance, $name, $folder );
-$result = $this->instance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename, $isAutoFitRows, $isAutoFitColumns, $folder);
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\CellsApi;
+    $instance = new CellsApi(getenv("ProductClientId"),getenv("ProductClientSecret"));
+    $path ='Book1.xlt';    
+    $format ='svg';
+    $password = null;
+    $outPath = null;      
+    $result = $this->instance->cellsWorkbookPutConvertWorkBook($path ,$format, $password,  $outPath);
+    $size = $result->getSize();
+    $content  = $result->fread($size);
+    $file = fopen("destfile.svg", 'w');
+    fwrite($file,$content);
+    fclose($file);
 ```
+
 {{% /blocks/products/pf/agp/code-autogen %}}
+{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=xlt  outputformat=svg  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
