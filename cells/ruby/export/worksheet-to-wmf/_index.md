@@ -41,6 +41,7 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 ```
 
 {{% /blocks/products/pf/agp/code-autogen %}}
+{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat="xlsx;*.xls;*.csv;*.ods"  OutputFormat=wmf  ExportObjectType=worksheet %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}

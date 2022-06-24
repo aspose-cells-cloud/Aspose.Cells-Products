@@ -57,6 +57,7 @@ public class Export {
 ```
 
 {{% /blocks/products/pf/agp/code-autogen %}}
+{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat="xlsx;*.xls;*.csv;*.ods"  OutputFormat=pptx  ExportObjectType=workbook %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
