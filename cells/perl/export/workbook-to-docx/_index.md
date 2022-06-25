@@ -43,7 +43,7 @@ close $fh;
 ```
 
 {{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat="xlsx,*.xls,*.csv,*.txt,*.ods"  OutputFormat=docx  ExportObjectType=workbook %}}
+{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=docx  ExportObjectType=workbook %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 {{< blocks/products/pf/agp/faq-autogen >}}
 {{< blocks/products/pf/agp/other-supported-autogen >}}
