@@ -1,14 +1,14 @@
 ---
-title: Conversion 
-description: Aspose.Cells Cloud REST API support conversion excel files to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /conversion/
+title: Save As 
+description: Aspose.Cells Cloud REST API support save excel files as kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+url: /saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Conversion" h2="Aspose.Cells Cloud SDKs support all kinds of developed languages to file format conversion which more than 30+ file formats." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Save As" h2="Aspose.Cells Cloud SDKs support all kinds of languages to save workbooks as other formats which more than 30+ file formats." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  %}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/saveas  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
@@ -61,17 +61,17 @@ url: /conversion/
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Popular Conversions" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/java/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Csv" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Conversion Xlsx to Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx to Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Conversion Xlsx to Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/php/saveas/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Conversion Xlsx to Csv" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
