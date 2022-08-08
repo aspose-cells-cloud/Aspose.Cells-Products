@@ -1,62 +1,67 @@
 ---
-title: Convert GIF to BMP via Android
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
+title: GIF to BMP Convert API for Android 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /android/conversion/gif-to-bmp/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert GIF to  BMP in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Android">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to convert GIF to BMP" h2="Android library to convert GIF to BMP" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Android. This is a professional solution to convert GIF to BMP and other document formats online using Android." urlsection="conversion/gif-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="GIF to BMP Conversion in Cloud SDK for Android " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant BMP stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Android Code for GIF to BMP Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a GIF file to BMP in Android" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from GIF to BMP is a complex task. All GIF to BMP format transitions is performed by our Android SDK while maintaining the source GIF spreadsheet's main structural and logical content. Our Android library is a professional solution to convert GIF to BMP files online. This Cloud SDK gives Android developers powerful functionality and perfect BMP output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to convert GIF to BMP format" gistPath="" %}}
+ 
 ```java
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
-    import java.io.File;
-    import com.aspose.cloud.cells.api.*;
-    public class Conversion {
-        public static void main(String[] args) {
-            String name =  "Book1.gif";
-            String format = "bmp";
-            String password = null;
-            String outPath = null;
-            String destFile = "DestFile.bmp";
-            try {
-                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
-                if(response.canRead())
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
+        import java.io.File;
+        import com.aspose.cloud.cells.api.*;
+        public class Conversion {
+            public static void main(String[] args) {
+                String name =  "Book1.gif";
+                String format = "bmp";
+                String password = null;
+                String outPath = null;
+                String destFile = "DestFile.bmp";
+                try {
+                    CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                    if(response.canRead())
+                    {
+                        if(response.exists()){
+                            response.renameTo(new File(destFile));
+                        }                
+                    }
+                }
+                catch(Exception exception )
                 {
-                    if(response.exists()){
-                        response.renameTo(new File(destFile));
-                    }                
+                    System.out.print(exception);
                 }
             }
-            catch(Exception exception )
-            {
-                System.out.print(exception);
-            }
         }
-    }
 ```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to convert  GIF to BMP" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsWorkbookPutConvertWorkbook method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Android 7 or newer</li>
+<li>Java(TM) SE Runtime Environment</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=gif  outputformat=bmp  %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

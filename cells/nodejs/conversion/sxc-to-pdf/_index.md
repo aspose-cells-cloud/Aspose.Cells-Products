@@ -1,28 +1,22 @@
 ---
-title: Convert SXC to PDF via NodeJS
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
+title: SXC to PDF Convert API for NodeJS 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /nodejs/conversion/sxc-to-pdf/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert SXC to  PDF in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for NodeJS">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to convert SXC to PDF" h2="NodeJS library to convert SXC to PDF" p="Use Cells Conversion REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to convert SXC to PDF and other document formats online using NodeJS." urlsection="conversion/sxc-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="SXC to PDF Conversion in Cloud SDK for NodeJS " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant PDF stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="NodeJS Code for SXC to PDF Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a SXC file to PDF in NodeJS" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from SXC to PDF is a complex task. All SXC to PDF format transitions is performed by our NodeJS SDK while maintaining the source SXC spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to convert SXC to PDF files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect PDF output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to convert SXC to PDF format" gistPath="" %}}
+ 
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
     const { CellsApi, CellsWorkbook_PutConvertWorkbookRequest } = require("asposecellscloud");
@@ -31,21 +25,30 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     var path = require('path');
     const cellsApi = new CellsApi(process.env.ProductClientId, process.env.ProductClientSecret);
     var req = new CellsWorkbook_PutConvertWorkbookRequest({
-      file: fs.createReadStream(localPath + "datasource.sxc"),
-      format: "pdf",
+        file: fs.createReadStream(localPath + "datasource.sxc"),
+        format: "pdf",
     });
     cellsApi.cellsWorkbookPutConvertWorkbook(req)
-      .then((result) => {
+        .then((result) => {
         console.log(result)
     });
-
 ```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to convert  SXC to PDF" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsWorkbookPutConvertWorkbook method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>node v6.17.1 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=sxc  outputformat=pdf  %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

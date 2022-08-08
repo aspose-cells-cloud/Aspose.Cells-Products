@@ -1,62 +1,67 @@
 ---
-title: Convert TXT to JSON via Android
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
+title: TXT to JSON Convert API for Android 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /android/conversion/txt-to-json/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert TXT to  JSON in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for Android">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to convert TXT to JSON" h2="Android library to convert TXT to JSON" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Android. This is a professional solution to convert TXT to JSON and other document formats online using Android." urlsection="conversion/txt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="TXT to JSON Conversion in Cloud SDK for Android " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant JSON stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Android Code for TXT to JSON Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a TXT file to JSON in Android" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from TXT to JSON is a complex task. All TXT to JSON format transitions is performed by our Android SDK while maintaining the source TXT spreadsheet's main structural and logical content. Our Android library is a professional solution to convert TXT to JSON files online. This Cloud SDK gives Android developers powerful functionality and perfect JSON output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to convert TXT to JSON format" gistPath="" %}}
+ 
 ```java
-// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
-    import java.io.File;
-    import com.aspose.cloud.cells.api.*;
-    public class Conversion {
-        public static void main(String[] args) {
-            String name =  "Book1.txt";
-            String format = "json";
-            String password = null;
-            String outPath = null;
-            String destFile = "DestFile.json";
-            try {
-                CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
-                File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
-                if(response.canRead())
+    // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
+        import java.io.File;
+        import com.aspose.cloud.cells.api.*;
+        public class Conversion {
+            public static void main(String[] args) {
+                String name =  "Book1.txt";
+                String format = "json";
+                String password = null;
+                String outPath = null;
+                String destFile = "DestFile.json";
+                try {
+                    CellsApi cellsApi = new CellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"));
+                    File response = cellsApi.cellsWorkbookPutConvertWorkbook(new File(name), format, password, outPath, null,null);            
+                    if(response.canRead())
+                    {
+                        if(response.exists()){
+                            response.renameTo(new File(destFile));
+                        }                
+                    }
+                }
+                catch(Exception exception )
                 {
-                    if(response.exists()){
-                        response.renameTo(new File(destFile));
-                    }                
+                    System.out.print(exception);
                 }
             }
-            catch(Exception exception )
-            {
-                System.out.print(exception);
-            }
         }
-    }
 ```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to convert  TXT to JSON" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsWorkbookPutConvertWorkbook method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Android 7 or newer</li>
+<li>Java(TM) SE Runtime Environment</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=txt  outputformat=json  %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

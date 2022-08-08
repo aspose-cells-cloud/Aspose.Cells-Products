@@ -1,28 +1,22 @@
 ---
-title: Convert BMP to CSV via NodeJS
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Create, Edit, Render or Convert spreadsheet in the Cloud.
+title: BMP to CSV Convert API for NodeJS 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /nodejs/conversion/bmp-to-csv/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convert BMP to  CSV in the Cloud" h2="Excel & OpenOffice spreadsheet conversion with open source Cloud SDK for NodeJS">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to convert BMP to CSV" h2="NodeJS library to convert BMP to CSV" p="Use Cells Conversion REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to convert BMP to CSV and other document formats online using NodeJS." urlsection="conversion/bmp-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="BMP to CSV Conversion in Cloud SDK for NodeJS " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsWorkbookPutConvertWorkbook``` method to get the resultant CSV stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="NodeJS Code for BMP to CSV Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a BMP file to CSV in NodeJS" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
+<br/>
+Converting file formats from BMP to CSV is a complex task. All BMP to CSV format transitions is performed by our NodeJS SDK while maintaining the source BMP spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to convert BMP to CSV files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect CSV output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to convert BMP to CSV format" gistPath="" %}}
+ 
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
     const { CellsApi, CellsWorkbook_PutConvertWorkbookRequest } = require("asposecellscloud");
@@ -31,21 +25,30 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     var path = require('path');
     const cellsApi = new CellsApi(process.env.ProductClientId, process.env.ProductClientSecret);
     var req = new CellsWorkbook_PutConvertWorkbookRequest({
-      file: fs.createReadStream(localPath + "datasource.bmp"),
-      format: "csv",
+        file: fs.createReadStream(localPath + "datasource.bmp"),
+        format: "csv",
     });
     cellsApi.cellsWorkbookPutConvertWorkbook(req)
-      .then((result) => {
+        .then((result) => {
         console.log(result)
     });
-
 ```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to convert  BMP to CSV" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsWorkbookPutConvertWorkbook method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>node v6.17.1 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-conversion  inputformat=bmp  outputformat=csv  %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
