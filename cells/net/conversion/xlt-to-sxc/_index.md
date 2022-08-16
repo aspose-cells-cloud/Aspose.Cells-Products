@@ -9,7 +9,7 @@ url: /net/conversion/xlt-to-sxc/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLT to SXC" h2="C# library to convert XLT to SXC" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLT to SXC and other document formats online using C#." urlsection="conversion/xlt-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLT file to SXC in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLT file to SXC in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLT to SXC is a complex task. All XLT to SXC format transitions is performed by our C# SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLT to SXC files online. This Cloud SDK gives C# developers powerful functionality and perfect SXC output.

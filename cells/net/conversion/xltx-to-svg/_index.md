@@ -9,7 +9,7 @@ url: /net/conversion/xltx-to-svg/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLTX to SVG" h2="C# library to convert XLTX to SVG" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLTX to SVG and other document formats online using C#." urlsection="conversion/xltx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLTX file to SVG in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLTX file to SVG in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLTX to SVG is a complex task. All XLTX to SVG format transitions is performed by our C# SDK while maintaining the source XLTX spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLTX to SVG files online. This Cloud SDK gives C# developers powerful functionality and perfect SVG output.

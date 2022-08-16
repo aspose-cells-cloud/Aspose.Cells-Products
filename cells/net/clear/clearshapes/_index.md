@@ -1,32 +1,38 @@
 ---
 title: Clear shapes on the local workbook in Cloud 
-description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt local spreadsheets with password by the Cells Cloud API.
+description: Cloud APIs & SDKs for clearing shapes on Microsoft Excel & OpenOffice Calc. Clear shapes on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /net/clear/clear-shapes/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Clear shapes on the local workbook in Cloud" h2="Excel & OpenOffice spreadsheet Clear shapes by open-source Cloud SDK for .NET">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/clear-shapes/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Clear shapes on local spreadsheet by Cloud SDK for Net" %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```PostClearObjects``` method to Clear shapes on the local workbook
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/clear  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects  apimethod=POST %}}
+<br/>
+Clearing shapes on local Microsoft Excel and OpenOffice Calc spreadsheet is a complex task. Clearing shapes on local Microsoft Excel and OpenOffice Calc spreadsheet transitions is performed by our C# SDK while maintaining the source spreadsheet's main structural and logical content. Our C# library is a professional solution to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet online. This Cloud SDK gives C# developers powerful functionality and perfect API.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Net code for clearing shapes on local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Shape.cs" %}}
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to clear shapes " >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call PostClearObjects method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>NET Framework 4.5.2 or newer</li>
+<li>Net Standard 2.0 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/releases) for alternative download options. 
-Have a look at the [developer guide](https://docs.aspose.cloud/cells/developer-guide/) API Reference to know more about the [clear shapes on the local workbook](https://docs.aspose.cloud/cells/clear/).
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{< /blocks/products/cells/cells-cloud-section >}}
 
-{{% blocks/products/pf/agp/code-autogen title="Net code for clearing shapes on local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Shape.cs" %}}
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

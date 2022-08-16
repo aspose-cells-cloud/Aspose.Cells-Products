@@ -1,52 +1,57 @@
 ---
-title: Export Worksheet to ODS file via Python
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export WORKSHEET to ODS from spreadsheet using Python  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /python/export/worksheet-to-ods/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Worksheet to ODS file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for Python">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to export WORKSHEET to ODS file" h2="Python library to export WORKSHEET to ODS file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Python. This is a professional solution to export WORKSHEET to ODS format file from spreadsheet online using Python." urlsection="export/worksheet-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Worksheet to ODS file in Cloud SDK for Python " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```post_export``` method to get the resultant ODS stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Python Code for WORKSHEET to ODS Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to ODS format file in Python" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export WORKSHEET object to ODS file from spreadsheet is a complex task. Export WORKSHEET to ODS format transitions is performed by our Python SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Python library is a professional solution to export WORKSHEET objects to ODS format files online. This Cloud SDK gives Python developers powerful functionality and perfect ODS output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to export WORKSHEET to ODS format from spreadsheet" gistPath="" %}}
+  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
-import os
-import base64
-from asposecellscloud.apis.light_cells_api import LightCellsApi
-cells_api = LightCellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
-files ={ 
-    "myDocument.xlsx" :  "c:/myDocument.xlsx",
-    "Book1.xlsx" :  "c:/Book1.xlsx" 
-    }
-result = cells_api.post_export(files ,"worksheet","ods")
-base64_string  = result.files[0].file_content
-base64_bytes = base64_string.encode("ascii")
-sample_string_bytes = base64.b64decode(base64_bytes)
-f = open(result.files[0].filename, 'w+b')
-f.write(sample_string_bytes)
-f.close()    
+    import os
+    import base64
+    from asposecellscloud.apis.light_cells_api import LightCellsApi
+    cells_api = LightCellsApi(os.getenv('ProductClientId'),os.getenv('ProductClientSecret'))
+    files ={ 
+        "myDocument.xlsx" :  "c:/myDocument.xlsx",
+        "Book1.xlsx" :  "c:/Book1.xlsx" 
+        }
+    result = cells_api.post_export(files ,"worksheet","ods")
+    base64_string  = result.files[0].file_content
+    base64_bytes = base64_string.encode("ascii")
+    sample_string_bytes = base64.b64decode(base64_bytes)
+    f = open(result.files[0].filename, 'w+b')
+    f.write(sample_string_bytes)
+    f.close()    
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to export  WORKSHEET to ODS" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call post_export method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Python 2.7 or newer</li>
+<li>Python 3.10 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=ods  ExportObjectType=worksheet %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

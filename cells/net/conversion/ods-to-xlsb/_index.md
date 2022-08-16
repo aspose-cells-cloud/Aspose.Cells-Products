@@ -9,7 +9,7 @@ url: /net/conversion/ods-to-xlsb/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert ODS to XLSB" h2="C# library to convert ODS to XLSB" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert ODS to XLSB and other document formats online using C#." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a ODS file to XLSB in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a ODS file to XLSB in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from ODS to XLSB is a complex task. All ODS to XLSB format transitions is performed by our C# SDK while maintaining the source ODS spreadsheet's main structural and logical content. Our C# library is a professional solution to convert ODS to XLSB files online. This Cloud SDK gives C# developers powerful functionality and perfect XLSB output.

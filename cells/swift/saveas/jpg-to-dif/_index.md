@@ -1,28 +1,22 @@
 ---
-title: Save JPG as DIF via Swift
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Save workbook as kinds of format file in the Cloud.
+title: Save JPG as DIF API for Swift 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /swift/saveas/jpg-to-dif/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Save JPG file as  DIF file in the Cloud" h2="Excel & OpenOffice spreadsheet saveas with open source Cloud SDK for Swift">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to save JPG as DIF" h2="Swift library to save JPG as DIF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Swift. This is a professional solution to save JPG as DIF and other document formats online using Swift." urlsection="saveas/jpg-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Save JPG file as DIF file in Cloud SDK for Swift " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsSaveAsPostDocumentSaveAs``` method to get the resultant DIF file
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Swift Code for saving JPG as DIF " gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JPG file as DIF in Swift" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
+<br/>
+Saving file formats from JPG as DIF is a complex task. All JPG to DIF format transitions is performed by our Swift SDK while maintaining the source JPG spreadsheet's main structural and logical content. Our Swift library is a professional solution to save JPG as DIF files online. This Cloud SDK gives Swift developers powerful functionality and perfect DIF output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Swift using REST API to save JPG as DIF format" gistPath="" %}}
+  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
     import AsposeCellsCloud
@@ -58,11 +52,23 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     }
     self.waitForExpectations(timeout: testTimeout, handler: nil)
 ```
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Swift API to save  JPG as DIF" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>macOS Monterey 12.4</li>
+<li>Swift 4.2</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

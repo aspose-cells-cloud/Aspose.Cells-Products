@@ -1,52 +1,56 @@
 ---
-title: Export Worksheet to SQL file via Perl
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export WORKSHEET to SQL from spreadsheet using Perl  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /perl/export/worksheet-to-sql/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Worksheet to SQL file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for Perl">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to export WORKSHEET to SQL file" h2="Perl library to export WORKSHEET to SQL file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Perl. This is a professional solution to export WORKSHEET to SQL format file from spreadsheet online using Perl." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Worksheet to SQL file in Cloud SDK for Perl " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```post_export``` method to get the resultant SQL stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Perl Code for WORKSHEET to SQL Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to SQL format file in Perl" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export WORKSHEET object to SQL file from spreadsheet is a complex task. Export WORKSHEET to SQL format transitions is performed by our Perl SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Perl library is a professional solution to export WORKSHEET objects to SQL format files online. This Cloud SDK gives Perl developers powerful functionality and perfect SQL output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to export WORKSHEET to SQL format from spreadsheet" gistPath="" %}}
+  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
-use strict;
-use warnings;
-use utf8; 
-use File::Slurp;
-use MIME::Base64;
-use AsposeCellsCloud::LightCellsApi;
-my $config = AsposeCellsCloud::Configuration->new( client_id => $ENV{'ProductClientId'}, client_secret => $ENV{'ProductClientSecret'});
-my $instance = AsposeCellsCloud::LightCellsApi->new(AsposeCellsCloud::ApiClient->new( $config));
-my $filemap = { 'Book1.xlsx' => '~/TestData/Book1.xlsx', 'myDocument.xlsx' => ~/TestData/myDocument.xlsx'};
-my $result = $instance->post_export(file => $filemap , object_type => 'worksheet',format => 'sql');
-my $decoded = decode_base64($result->{'files'}[0]->{'file_content'});
-open(my $fh, '>',$result->{'files'}[0]->{'filename'}) or die "Could not open file!";
-binmode $fh;
-print $fh $decoded;
-close $fh;
+    use strict;
+    use warnings;
+    use utf8; 
+    use File::Slurp;
+    use MIME::Base64;
+    use AsposeCellsCloud::LightCellsApi;
+    my $config = AsposeCellsCloud::Configuration->new( client_id => $ENV{'ProductClientId'}, client_secret => $ENV{'ProductClientSecret'});
+    my $instance = AsposeCellsCloud::LightCellsApi->new(AsposeCellsCloud::ApiClient->new( $config));
+    my $filemap = { 'Book1.xlsx' => '~/TestData/Book1.xlsx', 'myDocument.xlsx' => ~/TestData/myDocument.xlsx'};
+    my $result = $instance->post_export(file => $filemap , object_type => 'worksheet',format => 'sql');
+    my $decoded = decode_base64($result->{'files'}[0]->{'file_content'});
+    open(my $fh, '>',$result->{'files'}[0]->{'filename'}) or die "Could not open file!";
+    binmode $fh;
+    print $fh $decoded;
+    close $fh;
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to export  WORKSHEET to SQL" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call post_export method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Perl 5</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=sql  ExportObjectType=worksheet %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

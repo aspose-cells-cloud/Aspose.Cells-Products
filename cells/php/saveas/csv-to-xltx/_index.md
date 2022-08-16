@@ -1,28 +1,22 @@
 ---
-title: Save CSV as XLTX via PHP
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Save workbook as kinds of format file in the Cloud.
+title: Save CSV as XLTX API for PHP 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /php/saveas/csv-to-xltx/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Save CSV file as  XLTX file in the Cloud" h2="Excel & OpenOffice spreadsheet save as with open source Cloud SDK for PHP">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to save CSV as XLTX" h2="PHP library to save CSV as XLTX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in PHP. This is a professional solution to save CSV as XLTX and other document formats online using PHP." urlsection="saveas/csv-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Save CSV file as XLTX file in Cloud SDK for PHP " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cellsSaveAsPostDocumentSaveAs``` method to get the resultant XLTX file
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP Code for saving CSV as XLTX " gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as XLTX in PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
+<br/>
+Saving file formats from CSV as XLTX is a complex task. All CSV to XLTX format transitions is performed by our PHP SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our PHP library is a professional solution to save CSV as XLTX files online. This Cloud SDK gives PHP developers powerful functionality and perfect XLTX output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to save CSV as XLTX format" gistPath="" %}}
+  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
     $apiInstance = new CellsApi( getenv("ProductClientId"),getenv("ProductClientSecret") );
@@ -35,11 +29,22 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     $folder = "Temp";
     $result = $apiInstance->cellsSaveAsPostDocumentSaveAs($name, $saveOptions, $newfilename,$isAutoFitRows, $isAutoFitColumns, $folder);
 ```
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to save  CSV as XLTX" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>PHP 7.4 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

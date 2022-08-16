@@ -9,7 +9,7 @@ url: /net/conversion/html-to-gif/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert HTML to GIF" h2="C# library to convert HTML to GIF" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert HTML to GIF and other document formats online using C#." urlsection="conversion/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a HTML file to GIF in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a HTML file to GIF in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from HTML to GIF is a complex task. All HTML to GIF format transitions is performed by our C# SDK while maintaining the source HTML spreadsheet's main structural and logical content. Our C# library is a professional solution to convert HTML to GIF files online. This Cloud SDK gives C# developers powerful functionality and perfect GIF output.

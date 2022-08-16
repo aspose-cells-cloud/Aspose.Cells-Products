@@ -9,7 +9,7 @@ url: /net/conversion/emf-to-ods/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert EMF to ODS" h2="C# library to convert EMF to ODS" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert EMF to ODS and other document formats online using C#." urlsection="conversion/emf-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a EMF file to ODS in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a EMF file to ODS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from EMF to ODS is a complex task. All EMF to ODS format transitions is performed by our C# SDK while maintaining the source EMF spreadsheet's main structural and logical content. Our C# library is a professional solution to convert EMF to ODS files online. This Cloud SDK gives C# developers powerful functionality and perfect ODS output.

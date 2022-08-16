@@ -9,7 +9,7 @@ url: /net/conversion/xlt-to-xlsb/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLT to XLSB" h2="C# library to convert XLT to XLSB" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLT to XLSB and other document formats online using C#." urlsection="conversion/xlt-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLT file to XLSB in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLT file to XLSB in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLT to XLSB is a complex task. All XLT to XLSB format transitions is performed by our C# SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLT to XLSB files online. This Cloud SDK gives C# developers powerful functionality and perfect XLSB output.

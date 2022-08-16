@@ -9,7 +9,7 @@ url: /net/conversion/xltx-to-mhtml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLTX to MHTML" h2="C# library to convert XLTX to MHTML" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLTX to MHTML and other document formats online using C#." urlsection="conversion/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLTX file to MHTML in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLTX file to MHTML in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLTX to MHTML is a complex task. All XLTX to MHTML format transitions is performed by our C# SDK while maintaining the source XLTX spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLTX to MHTML files online. This Cloud SDK gives C# developers powerful functionality and perfect MHTML output.

@@ -9,7 +9,7 @@ url: /net/conversion/json-to-svg/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert JSON to SVG" h2="C# library to convert JSON to SVG" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert JSON to SVG and other document formats online using C#." urlsection="conversion/json-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a JSON file to SVG in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a JSON file to SVG in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from JSON to SVG is a complex task. All JSON to SVG format transitions is performed by our C# SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our C# library is a professional solution to convert JSON to SVG files online. This Cloud SDK gives C# developers powerful functionality and perfect SVG output.

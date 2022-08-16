@@ -1,59 +1,64 @@
 ---
-title: Export Listobject to DOCX file via .NET
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export LISTOBJECT to DOCX from spreadsheet using C#  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /net/export/listobject-to-docx/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Listobject to DOCX file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for .NET">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to export LISTOBJECT to DOCX file" h2="C# library to export LISTOBJECT to DOCX file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Net. This is a professional solution to export LISTOBJECT to DOCX format file from spreadsheet online using C#." urlsection="export/listobject-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Listobject to DOCX file in Cloud SDK for .NET " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```PostExport``` method to get the resultant DOCX stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Net Code for LISTOBJECT to DOCX Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to DOCX format file in C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export LISTOBJECT object to DOCX file from spreadsheet is a complex task. Export LISTOBJECT to DOCX format transitions is performed by our C# SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our C# library is a professional solution to export LISTOBJECT objects to DOCX format files online. This Cloud SDK gives C# developers powerful functionality and perfect DOCX output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to export LISTOBJECT to DOCX format from spreadsheet" gistPath="" %}}
+  
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
-string format = "docx";
-string objectType ="listobject";
-LightCellsApi lightCellsApi =
-    new LightCellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
-IDictionary<string ,Stream> files = new  Dictionary<string ,Stream>();
-files.Add("Book1.xlsx" , File.OpenRead("Book1.xlsx"));
-files.Add("myDocument.xlsx", File.OpenRead("myDocument.xlsx"));
-var filesResult = lightCellsApi.PostExport(files, objectType, format);
-foreach (var file in filesResult.Files)
-{
-    string v = file.FileContent;
-    string filename = file.Filename;
-    byte[] workbookData = System.Convert.FromBase64String(v);
-    MemoryStream memoryStream = new MemoryStream(workbookData, 0, workbookData.Length);
-    memoryStream.Seek(0, SeekOrigin.Begin);
-    using (FileStream fileStream = File.Create( filename))
+    string format = "docx";
+    string objectType ="listobject";
+    LightCellsApi lightCellsApi =
+        new LightCellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
+    IDictionary<string ,Stream> files = new  Dictionary<string ,Stream>();
+    files.Add("Book1.xlsx" , File.OpenRead("Book1.xlsx"));
+    files.Add("myDocument.xlsx", File.OpenRead("myDocument.xlsx"));
+    var filesResult = lightCellsApi.PostExport(files, objectType, format);
+    foreach (var file in filesResult.Files)
     {
-        fileStream.Position = 0;
-        memoryStream.CopyTo(fileStream);
-        fileStream.Close();
+        string v = file.FileContent;
+        string filename = file.Filename;
+        byte[] workbookData = System.Convert.FromBase64String(v);
+        MemoryStream memoryStream = new MemoryStream(workbookData, 0, workbookData.Length);
+        memoryStream.Seek(0, SeekOrigin.Begin);
+        using (FileStream fileStream = File.Create( filename))
+        {
+            fileStream.Position = 0;
+            memoryStream.CopyTo(fileStream);
+            fileStream.Close();
+        }
     }
-}
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to export  LISTOBJECT to DOCX" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call PostExport method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>NET Framework 4.5.2 or newer</li>
+<li>Net Standard 2.0 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=docx  ExportObjectType=listobject %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

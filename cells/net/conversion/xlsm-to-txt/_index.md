@@ -9,7 +9,7 @@ url: /net/conversion/xlsm-to-txt/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLSM to TXT" h2="C# library to convert XLSM to TXT" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLSM to TXT and other document formats online using C#." urlsection="conversion/xlsm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLSM file to TXT in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLSM file to TXT in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLSM to TXT is a complex task. All XLSM to TXT format transitions is performed by our C# SDK while maintaining the source XLSM spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLSM to TXT files online. This Cloud SDK gives C# developers powerful functionality and perfect TXT output.

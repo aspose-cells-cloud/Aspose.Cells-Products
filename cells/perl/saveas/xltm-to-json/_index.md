@@ -1,28 +1,22 @@
 ---
-title: Save XLTM as JSON via Perl
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Save workbook as kinds of format file in the Cloud.
+title: Save XLTM as JSON API for Perl 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /perl/saveas/xltm-to-json/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Save XLTM file as  JSON file in the Cloud" h2="Excel & OpenOffice spreadsheet save as with open source Cloud SDK for Perl">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save XLTM as JSON" h2="Perl library to save XLTM as JSON" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save XLTM as JSON and other document formats online using Perl." urlsection="saveas/xltm-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Save XLTM file as JSON file in Cloud SDK for Perl " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```cells_save_as_post_document_save_as``` method to get the resultant JSON file
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Perl Code for saving XLTM as JSON " gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTM file as JSON in Perl" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
+<br/>
+Saving file formats from XLTM as JSON is a complex task. All XLTM to JSON format transitions is performed by our Perl SDK while maintaining the source XLTM spreadsheet's main structural and logical content. Our Perl library is a professional solution to save XLTM as JSON files online. This Cloud SDK gives Perl developers powerful functionality and perfect JSON output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save XLTM as JSON format" gistPath="" %}}
+  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
     my $config = AsposeCellsCloud::Configuration->new( client_id => $ENV{'ProductClientId'}, client_secret => $ENV{'ProductClientSecret'});
@@ -31,13 +25,24 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     my $save_options = undef;
     my $folder = 'CellsTests';
     my $newfilename = 'Book1Saveas.json';
-    my $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
+    $result = $instance->cells_save_as_post_document_save_as(name => $name,save_options => $save_options, newfilename => $newfilename, folder => $folder);
 ```
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  XLTM as JSON" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Perl 5</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

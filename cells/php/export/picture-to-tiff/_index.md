@@ -1,51 +1,55 @@
 ---
-title: Export Picture to TIFF file via PHP
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export PICTURE to TIFF from spreadsheet using PHP  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /php/export/picture-to-tiff/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Picture to TIFF file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for PHP">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to export PICTURE to TIFF file" h2="PHP library to export PICTURE to TIFF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in PHP. This is a professional solution to export PICTURE to TIFF format file from spreadsheet online using PHP." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Picture to TIFF file in Cloud SDK for PHP " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```postExport``` method to get the resultant TIFF stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="PHP Code for PICTURE to TIFF Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export PICTURE object to TIFF format file in PHP" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export PICTURE object to TIFF file from spreadsheet is a complex task. Export PICTURE to TIFF format transitions is performed by our PHP SDK while maintaining the source PICTURE spreadsheet's main structural and logical content. Our PHP library is a professional solution to export PICTURE objects to TIFF format files online. This Cloud SDK gives PHP developers powerful functionality and perfect TIFF output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to export PICTURE to TIFF format from spreadsheet" gistPath="" %}}
+  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
-<?php
-require_once('vendor\autoload.php');
-use \Aspose\Cells\Cloud\Api\LightCellsApi;
-$cells = new LightCellsApi( getenv("ProductClientId"),getenv("ProductClientSecret") );
-$files = array (
-    'DataSource' =>  "C:/datasource.xlsx",
-    'AssemblyTest' => "C:/assemblytest.xlsx"
-);
-$result = $cells->postExport( $files,'picture', 'tiff' );
-$filename = $result->getFiles()[0]->getFilename() ;
-$fileData = $result->getFiles()[0]->getFileContent() ;
-$ptr = fopen($filename, 'wb');
-fwrite($ptr, base64_decode($fileData));
-fclose($ptr);
+    <?php
+    require_once('vendor\autoload.php');
+    use \Aspose\Cells\Cloud\Api\LightCellsApi;
+    $cells = new LightCellsApi( getenv("ProductClientId"),getenv("ProductClientSecret") );
+    $files = array (
+        'DataSource' =>  "C:/datasource.xlsx",
+        'AssemblyTest' => "C:/assemblytest.xlsx"
+    );
+    $result = $cells->postExport( $files,'picture', 'tiff' );
+    $filename = $result->getFiles()[0]->getFilename() ;
+    $fileData = $result->getFiles()[0]->getFileContent() ;
+    $ptr = fopen($filename, 'wb');
+    fwrite($ptr, base64_decode($fileData));
+    fclose($ptr);
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to export  PICTURE to TIFF" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call postExport method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>PHP 7.4 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=tiff  ExportObjectType=picture %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

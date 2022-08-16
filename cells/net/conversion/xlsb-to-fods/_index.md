@@ -9,7 +9,7 @@ url: /net/conversion/xlsb-to-fods/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert XLSB to FODS" h2="C# library to convert XLSB to FODS" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert XLSB to FODS and other document formats online using C#." urlsection="conversion/xlsb-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLSB file to FODS in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a XLSB file to FODS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from XLSB to FODS is a complex task. All XLSB to FODS format transitions is performed by our C# SDK while maintaining the source XLSB spreadsheet's main structural and logical content. Our C# library is a professional solution to convert XLSB to FODS files online. This Cloud SDK gives C# developers powerful functionality and perfect FODS output.

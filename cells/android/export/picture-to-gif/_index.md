@@ -1,66 +1,71 @@
 ---
-title: Export Picture to GIF file via Android
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export PICTURE to GIF from spreadsheet using Android  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /android/export/picture-to-gif/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Picture to GIF file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for Android">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to export PICTURE to GIF file" h2="Android library to export PICTURE to GIF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Android. This is a professional solution to export PICTURE to GIF format file from spreadsheet online using Android." urlsection="export/picture-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Picture to GIF file in Cloud SDK for Android " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```postExport``` method to get the resultant GIF stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Android Code for PICTURE to GIF Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export PICTURE object to GIF format file in Android" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export PICTURE object to GIF file from spreadsheet is a complex task. Export PICTURE to GIF format transitions is performed by our Android SDK while maintaining the source PICTURE spreadsheet's main structural and logical content. Our Android library is a professional solution to export PICTURE objects to GIF format files online. This Cloud SDK gives Android developers powerful functionality and perfect GIF output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to export PICTURE to GIF format from spreadsheet" gistPath="" %}}
+  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
-import java.io.*;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Base64;
-import com.aspose.cloud.cells.api.*;
-import com.aspose.cloud.cells.model.*;
-public class Export {
-    public static void main(String[] args) {
-        String format = "gif";
-        String objectType = "picture";
-        HashMap<String,File> fileMap = new HashMap<String,File>();
-        fileMap.put("Book1.xlsx" ,new File("C:\Book1.xlsx") );
-        fileMap.put("myDocument.xlsx" ,new File("C:\myDocument.xlsx") );
-        try {
-            LightCellsApi cellsApi = new LightCellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"),"v3.0","https://api.aspose.cloud");
-            FilesResult response = cellsApi.postExport(fileMap,objectType, format,null);            
-            List<FileInfo> files = response.getFiles();
-            String filename = files.get(0).getFilename();
-            String fileContent = files.get(0).getFileContent();
-            byte[] data = Base64.getDecoder().decode(fileContent);
-            OutputStream outputStream = new FileOutputStream(filename);
-            outputStream.write(data,0,data.length);
-            outputStream.close();
-        }catch(Exception exception )
-        {
-            System.out.print(exception);
+    import java.io.*;
+    import java.util.HashMap;
+    import java.util.List;
+    import java.util.Base64;
+    import com.aspose.cloud.cells.api.*;
+    import com.aspose.cloud.cells.model.*;
+    public class Export {
+        public static void main(String[] args) {
+            String format = "gif";
+            String objectType = "picture";
+            HashMap<String,File> fileMap = new HashMap<String,File>();
+            fileMap.put("Book1.xlsx" ,new File("C:\Book1.xlsx") );
+            fileMap.put("myDocument.xlsx" ,new File("C:\myDocument.xlsx") );
+            try {
+                LightCellsApi cellsApi = new LightCellsApi(System.getenv("ProductClientId"), System.getenv("ProductClientSecret"),"v3.0","https://api.aspose.cloud");
+                FilesResult response = cellsApi.postExport(fileMap,objectType, format,null);            
+                List<FileInfo> files = response.getFiles();
+                String filename = files.get(0).getFilename();
+                String fileContent = files.get(0).getFileContent();
+                byte[] data = Base64.getDecoder().decode(fileContent);
+                OutputStream outputStream = new FileOutputStream(filename);
+                outputStream.write(data,0,data.length);
+                outputStream.close();
+            }catch(Exception exception )
+            {
+                System.out.print(exception);
+            }
         }
     }
-}
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to export  PICTURE to GIF" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call postExport method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>Android 7 or newer</li>
+<li>Java(TM) SE Runtime Environment</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=gif  ExportObjectType=picture %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

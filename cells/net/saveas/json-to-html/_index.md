@@ -1,28 +1,22 @@
 ---
-title: Save JSON as HTML via .NET
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Save workbook as kinds of format file in the Cloud.
+title: Save JSON as HTML API for C# 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /net/saveas/json-to-html/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Save JSON file as  HTML file in the Cloud" h2="Excel & OpenOffice spreadsheet save as with open source Cloud SDK for .NET">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save JSON as HTML" h2="C# library to save JSON as HTML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save JSON as HTML and other document formats online using C#." urlsection="saveas/json-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Save JSON file as HTML file in Cloud SDK for .NET " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```CellsSaveAsPostDocumentSaveAs``` method to get the resultant HTML file
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-net) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Net Code for saving JSON as HTML " gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as HTML in C#" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
+<br/>
+Saving file formats from JSON as HTML is a complex task. All JSON to HTML format transitions is performed by our C# SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our C# library is a professional solution to save JSON as HTML files online. This Cloud SDK gives C# developers powerful functionality and perfect HTML output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save JSON as HTML format" gistPath="" %}}
+  
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
     string name = "Book1.json";
@@ -31,11 +25,23 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
     CellsApi cellsApi = new CellsApi(Environment.GetEnvironmentVariable("ProductClientId"), Environment.GetEnvironmentVariable("ProductClientSecret"));
     SaveResponse saveResponse = cellsApi.CellsSaveAsPostDocumentSaveAs(name, null, newfilename, null,null,folder);
 ```
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  JSON as HTML" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>NET Framework 4.5.2 or newer</li>
+<li>Net Standard 2.0 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

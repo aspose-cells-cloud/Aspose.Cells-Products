@@ -9,7 +9,7 @@ url: /net/conversion/gif-to-xps/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert GIF to XPS" h2="C# library to convert GIF to XPS" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert GIF to XPS and other document formats online using C#." urlsection="conversion/gif-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a GIF file to XPS in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a GIF file to XPS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from GIF to XPS is a complex task. All GIF to XPS format transitions is performed by our C# SDK while maintaining the source GIF spreadsheet's main structural and logical content. Our C# library is a professional solution to convert GIF to XPS files online. This Cloud SDK gives C# developers powerful functionality and perfect XPS output.

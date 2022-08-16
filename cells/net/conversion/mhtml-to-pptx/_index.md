@@ -9,7 +9,7 @@ url: /net/conversion/mhtml-to-pptx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert MHTML to PPTX" h2="C# library to convert MHTML to PPTX" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert MHTML to PPTX and other document formats online using C#." urlsection="conversion/mhtml-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a MHTML file to PPTX in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a MHTML file to PPTX in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from MHTML to PPTX is a complex task. All MHTML to PPTX format transitions is performed by our C# SDK while maintaining the source MHTML spreadsheet's main structural and logical content. Our C# library is a professional solution to convert MHTML to PPTX files online. This Cloud SDK gives C# developers powerful functionality and perfect PPTX output.

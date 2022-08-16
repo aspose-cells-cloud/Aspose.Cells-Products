@@ -9,7 +9,7 @@ url: /net/conversion/sxc-to-dif/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to convert SXC to DIF" h2="C# library to convert SXC to DIF" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Net. This is a professional solution to convert SXC to DIF and other document formats online using C#." urlsection="conversion/sxc-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a SXC file to DIF in Net" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a SXC file to DIF in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
 Converting file formats from SXC to DIF is a complex task. All SXC to DIF format transitions is performed by our C# SDK while maintaining the source SXC spreadsheet's main structural and logical content. Our C# library is a professional solution to convert SXC to DIF files online. This Cloud SDK gives C# developers powerful functionality and perfect DIF output.

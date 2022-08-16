@@ -1,57 +1,60 @@
 ---
-title: Export Worksheet to SQL file via NodeJS
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Export workbok or interanl object to kinds of format file in the Cloud.
+title: Export WORKSHEET to SQL from spreadsheet using NodeJS  API 
+description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /nodejs/export/worksheet-to-sql/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Export Worksheet to SQL file in the Cloud" h2="Excel & OpenOffice spreadsheet export with open source Cloud SDK for NodeJS">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to export WORKSHEET to SQL file" h2="NodeJS library to export WORKSHEET to SQL file" p="Use Cells Export REST API to export spreadsheet internal object workflows in NodeJS. This is a professional solution to export WORKSHEET to SQL format file from spreadsheet online using NodeJS." urlsection="export/worksheet-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Export Worksheet to SQL file in Cloud SDK for NodeJS " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```LightCellsAPI``` with Client Id, Client Secret, Base URL & API version
-1. Call ```postExport``` method to get the resultant SQL stream
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node) to compile the SDK yourself or head to the [Releases](https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/releases) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="NodeJS Code for WORKSHEET to SQL Conversion" gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to SQL format file in NodeJS" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
+<br/>
+Export WORKSHEET object to SQL file from spreadsheet is a complex task. Export WORKSHEET to SQL format transitions is performed by our NodeJS SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to export WORKSHEET objects to SQL format files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect SQL output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to export WORKSHEET to SQL format from spreadsheet" gistPath="" %}}
+  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
-const { LightCellsApi, PostExportRequest } = require("asposecellscloud");
-const localPath = "C:/";
-var fs = require('fs');
-var path = require('path');
-
-const cellsApi = new LightCellsApi(process.env.ProductClientId, process.env.ProductClientSecret);
-const AssemblyTestXlsx = "assemblytest.xlsx";
-var dataAssemblyTestXlsx =fs.createReadStream(localPath  + AssemblyTestXlsx);
-const DataSourceXlsx = "datasource.xlsx";
-var dataDataSourceXlsx =fs.createReadStream(localPath  + DataSourceXlsx);
-var req = new PostExportRequest({
-  file:{AssemblyTestXlsx:dataAssemblyTestXlsx ,DataSourceXlsx:dataDataSourceXlsx },
-  objectType : "worksheet",
-  format: "sql",
-});
-cellsApi.postExport(req)
-  .then((result) => {
-    let buff = new Buffer(result.body.files[0].fileContent, 'base64');
-    fs.writeFileSync(result.body.files[0].filename, buff);
-});
+    const { LightCellsApi, PostExportRequest } = require("asposecellscloud");
+    const localPath = "C:/";
+    var fs = require('fs');
+    var path = require('path');
+    const cellsApi = new LightCellsApi(process.env.ProductClientId, process.env.ProductClientSecret);
+    const AssemblyTestXlsx = "assemblytest.xlsx";
+    var dataAssemblyTestXlsx =fs.createReadStream(localPath  + AssemblyTestXlsx);
+    const DataSourceXlsx = "datasource.xlsx";
+    var dataDataSourceXlsx =fs.createReadStream(localPath  + DataSourceXlsx);
+    var req = new PostExportRequest({
+      file:{AssemblyTestXlsx:dataAssemblyTestXlsx ,DataSourceXlsx:dataDataSourceXlsx },
+      objectType : "worksheet",
+      format: "sql",
+    });
+    cellsApi.postExport(req)
+      .then((result) => {
+        let buff = new Buffer(result.body.files[0].fileContent, 'base64');
+        fs.writeFileSync(result.body.files[0].filename, buff);
+    });
 ```
+   
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to export  WORKSHEET to SQL" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call postExport method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>node v6.17.1 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{% blocks/products/cells/cells-cloud-api-run-export  InputFormat=".xlsx,.xls,.csv,.txt,.ods"  OutputFormat=sql  ExportObjectType=worksheet %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,28 +1,22 @@
 ---
-title: Save XLTM as XPS via Go
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Save workbook as kinds of format file in the Cloud.
+title: Save XLTM as XPS API for Go 
+description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
 url: /go/saveas/xltm-to-xps/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Save XLTM file as  XPS file in the Cloud" h2="Excel & OpenOffice spreadsheet save as with open source Cloud SDK for Go">}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to save XLTM as XPS" h2="Go library to save XLTM as XPS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Go. This is a professional solution to save XLTM as XPS and other document formats online using Go." urlsection="saveas/xltm-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Save XLTM file as XPS file in Cloud SDK for Go " %}}
-1. Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details
-1. Initialize ```CellsApi``` with Client Id, Client Secret, Base URL & API version
-1. Call ```CellsSaveAsPostDocumentSaveAs``` method to get the resultant XPS file
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Get Started with Excel REST API" %}}
-Get Excel Cloud SDK for .NET source code from [GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-go) to compile the SDK yourself or head to the [Releases](https://releases.aspose.cloud/) for alternative download options. 
-
-Also have a look at Swagger-based [API Reference](https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs) to know more about the [Excel REST API](https://products.aspose.cloud/cells/curl/).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-autogen title="Go Code for saving XLTM as XPS " gistPath="" %}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTM file as XPS in Go" >}}
+{{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/{name}/SaveAs  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs  apimethod=POST %}}
+<br/>
+Saving file formats from XLTM as XPS is a complex task. All XLTM to XPS format transitions is performed by our Go SDK while maintaining the source XLTM spreadsheet's main structural and logical content. Our Go library is a professional solution to save XLTM as XPS files online. This Cloud SDK gives Go developers powerful functionality and perfect XPS output.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Go using REST API to save XLTM as XPS format" gistPath="" %}}
+  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
     instance := asposecellscloud.NewCellsApiService(os.Getenv("ProductClientId"), os.Getenv("ProductClientSecret"))
@@ -35,11 +29,22 @@ Also have a look at Swagger-based [API Reference](https://apireference.aspose.cl
 	    println(err1)
     }
 ```
+  
+{{% /blocks/products/cells/cells-cloud-code-div  %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Go API to save  XLTM as XPS" >}}
+<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="System Requirements" >}}
+<li>go version go1.13.0 or newer</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
 
-{{% /blocks/products/pf/agp/code-autogen %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-{{< blocks/products/pf/agp/faq-autogen >}}
-{{< blocks/products/pf/agp/other-supported-autogen >}}
-{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/cells/cells-cloud-section >}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
