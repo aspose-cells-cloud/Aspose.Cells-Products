@@ -55,6 +55,10 @@ Easily build your own cloud-based Excel & OpenOffice file generator & exporter i
 Get the power to Generate, Modify, Process or Convert Microsoft Excel & OpenOffice spreadsheet via Go language on any platform.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for CPP" imgSrc="/sdk/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
+Get the power to Generate, Modify, Process or Convert Microsoft Excel & OpenOffice spreadsheet via Go language on any platform.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
