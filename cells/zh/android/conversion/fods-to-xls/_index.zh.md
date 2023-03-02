@@ -1,0 +1,55 @@
+﻿---
+title: 在 Android 上将 FODS 转换为 XLS
+description: 使用云 API 和开源 Android SDK 自动化 Excel 文件操作操作，例如创建、编辑和转换
+url: /zh/android/conversion/fods-to-xls/
+family: cells
+platformtag: android
+feature: conversion
+informat: FODS
+outformat: XLS
+platform: Android
+otherformats: HTML XLSX DIF SVG MD XLSB XPS XLTM XML CSV ODS TSV MHTML XLSM XLTX FODS 
+---
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="在云端将 FODS 转换为 XLS" h2="使用适用于 Android 的开源 Cloud SDK 转换 Excel 和 OpenOffice 电子表格" >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Android 应用程序中的 FODS 到 XLS 转换" %}}
+1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息
+1. 使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 ```CellsApi```
+1. 使用 ```CellsApiUtil.Upload``` 方法将 FODS 文件上传到默认云存储
+1. 拨打```CellsApi.cellsWorkbookGetWorkbook```获取生成的XLS文件
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel REST API" %}}
+从 获取 Excel Cloud SDK for ANDROID 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)替代下载选项。
+
+也可以看看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-autogen title="Android：FODS 到 XLS 转换" gistPath="" %}}
+```java
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
+try {
+    CellsApi api = new CellsApi(CellsApiUtil.GetClientId(), CellsApiUtil.GetClientSecret(), CellsApiUtil.GetAPIVersion(), CellsApiUtil.GetBaseUrl());
+    String name = BOOK1;
+    String password = null;
+    Boolean isAutoFit = true;
+    Boolean onlySaveTable = true;
+    String format = "XLS";
+    String folder = TEMPFOLDER;
+    CellsApiUtil.Upload(api, folder, name);
+    File response = api.cellsWorkbookGetWorkbook(name, password, format, isAutoFit, onlySaveTable, folder, null, null);
+}
+catch (Exception e) {
+    e.printStackTrace();
+}
+```
+{{% /blocks/products/pf/agp/code-autogen %}}
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/faq-autogen >}}
+{{< blocks/products/pf/agp/other-supported-autogen >}}
+{{< blocks/products/pf/agp/about-file-autogen >}}
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
