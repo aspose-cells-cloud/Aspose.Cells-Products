@@ -8,34 +8,47 @@ url: /zh/conversion/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" apimethod="PUT" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook" apimethod="PUT" apiname="Conversion" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
-<div class="diagram1 d2  d1-cloud">
-<div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i>输入格式</header><ul>
-<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-<li><b>开发办公室：</b> Ods, Fods, Ots</li>
-<li><b>XML：</b>电子表格 ML、Xml</li>
-<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
-<li><b>网址：</b> HTML, MHTML</li>
-<li><b>图片：</b> PNG、JPG、GIF、EMF</li>
-<li><b>其他：</b> PDF、Json、Markdown</li>
-</ul></div>
-<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>输出格式</header><ul>
-<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-<li><b>Microsoft字/PowerPoint：</b>文档、Pptx</li>
-<li><b>开发办公室：</b> Ods, Fods, Ots</li>
-<li><b>XML：</b>电子表格 ML、Xml</li>
-<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
-<li><b>网址：</b> HTML, MHTML</li>
-<li><b>图片：</b> Png、Jpg、Gif、Emf、Svg、Tiff</li>
-<li><b>其他：</b> PDF、Xps、Dif、Json、Markdown、Sql</li>
-</ul></div>
-</div>
-<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
-</div>
+	{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
+	<div class="diagram1 d2  d1-cloud">
+	<div class="d1-row">
+	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i>输入格式</header><ul>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>开发办公室：</b> Ods, Fods, Ots</li>
+	<li><b>XML：</b>电子表格 ML、Xml</li>
+	<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
+	<li><b>网址：</b> HTML, MHTML</li>
+	<li><b>图片：</b> PNG、JPG、GIF、EMF</li>
+	<li><b>其他：</b> PDF、Json、Markdown</li>
+	</ul></div>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>输出格式</header><ul>
+	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
+	<li><b>Microsoft字/PowerPoint：</b>文档、Pptx</li>
+	<li><b>开发办公室：</b> Ods, Fods, Ots</li>
+	<li><b>XML：</b>电子表格 ML、Xml</li>
+	<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
+	<li><b>网址：</b> HTML, MHTML</li>
+	<li><b>图片：</b> Png、Jpg、Gif、Emf、Svg、Tiff</li>
+	<li><b>其他：</b>PDF、Xps、Dif、Json、Markdown、Sql</li>
+	</ul></div>
+	</div>
+	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
+	</div>
+	{{< /blocks/products/pf/product-card-row >}}
+{{< blocks/products/pf/product-card-row title="热门操作" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 CSV" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-json/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 CSV" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}
@@ -60,19 +73,7 @@ url: /zh/conversion/
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="Swift 开发工具包" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="热门操作" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="将 Xlsx 转换为 CSV" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Pdf" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 Json" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="将 Xlsx 转换为 CSV" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
-{{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}

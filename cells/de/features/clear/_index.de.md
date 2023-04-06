@@ -1,54 +1,28 @@
 ﻿---
-title: Save As 
-description: Aspose.Cells Cloud REST API supports saving excel files as kinds of format files. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /de/saveas/
+title: Clear Objects 
+description: Aspose.Cells Cloud REST API supports clear inner objects in an Excel file. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+url: /de/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Save As" h2="Aspose.Cells Cloud SDK supports saving workbooks as other formats. The supported file formats have more than 30+ file formats." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Clear Objects" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/saveas" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" apiname="" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" apiname="Clear Objects" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
-	<div class="diagram1 d2  d1-cloud">
-	<div class="d1-row">
-	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i> Input Format</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>OpenOffice:</b> Ods, Fods, Ots</li>
-	<li><b>Xml:</b>SpreadsheetML, Xml</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
-	<li><b>Images:</b> Png, Jpg, Gif, Emf</li>
-	<li><b>Other:</b> Pdf, Json, Markdown</li>
-	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Output Format</header><ul>
-	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
-	<li><b>OpenOffice:</b> Ods, Fods, Ots</li>
-	<li><b>Xml:</b>SpreadsheetML, Xml</li>
-	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
-	<li><b>Web:</b> Html, Mhtml</li>
-	<li><b>Images:</b> Png, Jpg, Gif, Emf, Svg, Tiff</li>
-	<li><b>Other:</b> Pdf, Xps, Dif, Json, Markdown, Sql</li>
-	</ul></div>
-	</div>
-	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
-	</div>
-	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="Popular Operates" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Clear content in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/clear/content/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Clear charts in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/clear/charts/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Go" title="Clear styles in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/styles/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx to Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Clear hyperlinks in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/hyperlinks/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Clear duplicaterows in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/clear/duplicaterows/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Node" title="Clear blankrows in multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/clear/blankrows/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Supported Develop Languages" >}}

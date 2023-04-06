@@ -1,14 +1,14 @@
 ﻿---
-title: Save As 
-description: Aspose.Cells Cloud REST API supports saving excel files as kinds of format files. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /de/saveas/
+title: Merge 
+description: Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+url: /fr/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Save As" h2="Aspose.Cells Cloud SDK supports saving workbooks as other formats. The supported file formats have more than 30+ file formats." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Merge" h2="Aspose.Cells Cloud SDK supports merge multiple Excel files into an Excel file.." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/saveas" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" apiname="" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" apiname="Merge" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
@@ -38,17 +38,7 @@ url: /de/saveas/
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="Popular Operates" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx to Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="Save Xlsx as Csv" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Merge multiple Excel files" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/merge/multi-files/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Supported Develop Languages" >}}

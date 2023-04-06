@@ -1,14 +1,14 @@
 ﻿---
-title: 另存为
-description: Aspose.Cells Cloud REST API 支持将excel文件保存为各种格式文件。 SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/saveas/
+title: 合并
+description: Aspose.Cells Cloud REST API支持将多个Excel文件合并为一个Excel文件。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+url: /zh/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="另存为" h2="Aspose.Cells Cloud SDK 支持将工作簿保存为其他格式。支持的文件格式有 30 多种文件格式。" logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="合并" h2="Aspose.Cells Cloud SDK支持将多个Excel文件合并为一个Excel文件.." logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/saveas" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" apiname="" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" apiname="Merge" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
 	{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
@@ -38,17 +38,7 @@ url: /zh/saveas/
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="热门操作" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 另存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="合并多个 Excel 文件" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/merge/multi-files/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}

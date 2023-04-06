@@ -8,8 +8,24 @@ url: /zh/protect/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" apiname="Encryption" %}}
+
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" apiname="Unlock" %}}
+
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/digitalsignature" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostDigitalSignature" apimethod="POST" apiname="Digital Signature" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/product-card-row title="热门操作" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="用密码解密" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Go" title="电子签名" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/protect/digital-signature/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="解密云文件" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/protect/decrypt-cloud-file-with-password/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="加密云文件" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/protect/encrypt-cloud-file-with-password/" >}}
+
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="用密码加密" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/protect/encrypt-with-password/" >}}
+{{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="安卓开发工具包" imgSrc="/cells/sdk/aspose_cells-for-android.png" productLink="/cells/android/" >}}
@@ -33,17 +49,7 @@ url: /zh/protect/
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud" title="Swift 开发工具包" imgSrc="/cells/sdk/aspose_cells-for-swift.png" productLink="/cells/swift/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="热门操作" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="用密码解密" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/net/protect/decrypt-with-password/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Go" title="电子签名" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/go/protect/digital-signature/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="解密云文件" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/java/protect/decrypt-cloud-file-with-password/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="加密云文件" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/php/protect/encrypt-cloud-file-with-password/" >}}
-
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="用密码加密" imgSrc="/cells/app-logos/aspose_conversion-app.png" productLink="/cells/python/protect/encrypt-with-password/" >}}
-{{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}

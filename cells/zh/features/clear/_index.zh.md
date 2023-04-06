@@ -1,54 +1,28 @@
 ﻿---
-title: 另存为
-description: Aspose.Cells Cloud REST API 支持将excel文件保存为各种格式文件。 SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
-url: /zh/saveas/
+title: 清除对象
+description: Aspose.Cells Cloud REST API 支持清除 Excel 文件中的内部对象。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+url: /zh/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="另存为" h2="Aspose.Cells Cloud SDK 支持将工作簿保存为其他格式。支持的文件格式有 30 多种文件格式。" logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="清除对象" h2="Aspose.Cells Cloud SDK支持清除Excel文件中的内容、样式、图表、表格、背景等。" logoImageSrc="/product-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/saveas" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" apiname="" %}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clearobjects" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" apiname="Clear Objects" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-	{{< blocks/products/pf/product-card-row title="支持的文件格式" >}}
-	<div class="diagram1 d2  d1-cloud">
-	<div class="d1-row">
-	<div class="d1-col d1-left"><header><i class="fa fa-mail-forward"> </i>输入格式</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>开发办公室：</b> Ods, Fods, Ots</li>
-	<li><b>XML：</b>电子表格 ML、Xml</li>
-	<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
-	<li><b>网址：</b> HTML, MHTML</li>
-	<li><b>图片：</b> PNG、JPG、GIF、EMF</li>
-	<li><b>其他：</b> PDF、Json、Markdown</li>
-	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>输出格式</header><ul>
-	<li><b>Microsoft Excel:</b>Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft字/PowerPoint：</b>文档、Pptx</li>
-	<li><b>开发办公室：</b> Ods, Fods, Ots</li>
-	<li><b>XML：</b>电子表格 ML、Xml</li>
-	<li><b>文本：</b> Csv、Tsv、Txt（制表符分隔）</li>
-	<li><b>网址：</b> HTML, MHTML</li>
-	<li><b>图片：</b> Png、Jpg、Gif、Emf、Svg、Tiff</li>
-	<li><b>其他：</b>PDF、Xps、Dif、Json、Markdown、Sql</li>
-	</ul></div>
-	</div>
-	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
-	</div>
-	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="热门操作" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 另存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="清除多个 Excel 文件中的内容" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/clear/content/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="清除多个 Excel 文件中的图表" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/java/clear/charts/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Java" title="将 Xlsx 保存为 CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/java/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Go" title="清除多个 Excel 文件中的样式" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/styles/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Pdf" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="清除多个文件中的超链接 Excel" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/clear/hyperlinks/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 Json" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="清除多个 Excel 文件中的重复行" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/php/clear/duplicaterows/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for PHP" title="将 Xlsx 保存为 CSV" imgSrc="/cells/app-logos/cells_cloud_saveas.svg" productLink="/cells/php/saveas/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Node" title="清除多个Excel文件中的空白行" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/node/clear/blankrows/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="支持的开发语言" >}}
