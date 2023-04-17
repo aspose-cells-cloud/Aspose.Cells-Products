@@ -8,9 +8,9 @@ url: /fr/nodejs/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/pf/product-card-row title="Clear Objects Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Clear Objects Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/clear" >}} 
-{{< /blocks/products/pf/product-card-row >}}
+{{< /blocks/products/cells/cells-cloud-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}

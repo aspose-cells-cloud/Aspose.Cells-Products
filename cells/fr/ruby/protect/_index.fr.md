@@ -8,9 +8,9 @@ url: /fr/ruby/protect/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/pf/product-card-row title="Protect Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protect Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/protect" >}} 
-{{< /blocks/products/pf/product-card-row >}}
+{{< /blocks/products/cells/cells-cloud-card-row >}}
 
 
 {{< /blocks/products/pf/main-container >}}
