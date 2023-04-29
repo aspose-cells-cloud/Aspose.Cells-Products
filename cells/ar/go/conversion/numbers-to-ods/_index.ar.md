@@ -1,0 +1,65 @@
+﻿---
+title:  أرقام لتحويل ODS API إلى Go
+description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+url: /ar/go/conversion/numbers-to-ods/
+---
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل الأرقام إلى ODS" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى ODS" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل الأرقام إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-ods/" >}}
+{{< blocks/products/pf/main-container >}}
+
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى ODS في Go" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+يعد تحويل تنسيقات الملفات من الأرقام إلى نظام الوثائق الرسمية مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى ODS بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج ODS مثالي.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل الأرقام إلى تنسيق ODS" gistPath="" %}}
+ 
+```go
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
+    package main
+    import (
+	    "os"
+	    asposecellscloud "github.com/aspose-cells-cloud/aspose-cells-cloud-go/v22"
+    )
+    func main() {
+	    instance := asposecellscloud.NewCellsApiService(os.Getenv("ProductClientId"), os.Getenv("ProductClientSecret"))
+	    file, err := os.Open("Book1.numbers")
+	    if err != nil {
+		    return
+	    }
+	    convertWorkbookOpts := new(asposecellscloud.CellsWorkbookPutConvertWorkbookOpts)
+	    convertWorkbookOpts.Format = "ods"
+	    value, response, err1 := instance.CellsWorkbookPutConvertWorkbook(file, convertWorkbookOpts)
+	    if err1 != nil {
+		    return
+	    }
+	    file1, err2 := os.Create("Dest.ods")
+	    if err2 != nil {
+		    return
+	    }
+	    if _, err3 := file1.Write(value); err3 != nil {
+		    return
+	    }
+	    file1.Close()
+    }
+```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Go API لتحويل الأرقام إلى ODS" >}}
+<li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
+<li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
+<li>استدعاء طريقة CellsWorkbookPutConvertWorkbook للحصول على الدفق الناتج</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="متطلبات النظام" >}}
+<li>انتقل إلى الإصدار go1.13.0 أو أحدث</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
