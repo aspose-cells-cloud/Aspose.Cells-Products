@@ -1,0 +1,52 @@
+﻿---
+title:  XML'den TIFF'e NodeJS için API'e Dönüştür
+description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+url: /tr/nodejs/conversion/xml-to-tiff/
+---
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i TIFF\'e dönüştürmek için NodeJS API" h2="XML\'i TIFF\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, NodeJS kullanarak XML\'i TIFF\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-tiff/" >}}
+{{< blocks/products/pf/main-container >}}
+
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını NodeJS\'de TIFF\'e dönüştürün" >}}
+{{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
+<br/>
+Dosya biçimlerini XML'den TIFF'e dönüştürmek karmaşık bir iştir. Tüm XML - TIFF biçimi geçişleri, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XML'i çevrimiçi olarak TIFF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+<br/>
+<br/>
+{{% blocks/products/cells/cells-cloud-code-div title="XML\'i TIFF biçimine dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+ 
+```js
+// For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
+    const { CellsApi, CellsWorkbook_PutConvertWorkbookRequest } = require("asposecellscloud");
+    const localPath = "../TestData/source/";
+    var fs = require('fs');
+    var path = require('path');
+    const cellsApi = new CellsApi(process.env.ProductClientId, process.env.ProductClientSecret);
+    var req = new CellsWorkbook_PutConvertWorkbookRequest({
+        file: fs.createReadStream(localPath + "datasource.xml"),
+        format: "tiff",
+    });
+    cellsApi.cellsWorkbookPutConvertWorkbook(req)
+        .then((result) => {
+        console.log(result)
+    });
+```
+ 
+{{% /blocks/products/cells/cells-cloud-code-div %}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XML\'i TIFF\'e dönüştürmek için API Düğümü nasıl kullanılır?" >}}
+<li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
+<li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
+<li>Ortaya çıkan akışı almak için cellsWorkbookPutConvertWorkbook yöntemini çağırın</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+<br/>
+<br/>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="sistem gereksinimleri" >}}
+<li>düğüm v6.17.1 veya daha yenisi</li>
+{{< /blocks/products/cells/cells-cloud-section-list >}}
+
+{{< /blocks/products/cells/cells-cloud-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
