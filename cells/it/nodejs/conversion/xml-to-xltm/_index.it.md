@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XML a XLTM API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XML in un file in formato XLTM.
 url: /it/nodejs/conversion/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/nodejs/conversion/xml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XML in XLTM in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XML a XLTM è un compito complesso. Tutte le transizioni di formato da XML a XLTM vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria NodeJS è una soluzione professionale per convertire file XML in XLTM online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLTM.
+La conversione dei formati di file da XML a XLTM è un compito complesso. Tutte le transizioni di formato da XML a XLTM vengono eseguite dal nostro NodeJS SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria NodeJS è una soluzione professionale per convertire file XML in XLTM online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per convertire XML in formato XLTM" gistPath="" %}}

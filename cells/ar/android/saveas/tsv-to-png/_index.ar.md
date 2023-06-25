@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TSV كـ PNG API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق TSV كملف بتنسيق PNG.
 url: /ar/android/saveas/tsv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TSV كـ PNG" h2="مكتبة Android لحفظ TSV كـ PNG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ TSV كـ PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/tsv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TSV كـ PNG" h2="مكتبة Android لحفظ TSV كـ PNG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TSV كـ PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/tsv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بالشكل PNG في Android" >}}

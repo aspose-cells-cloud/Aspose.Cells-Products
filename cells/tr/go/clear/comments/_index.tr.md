@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc üzerindeki yorumları temizlem
 url: /tr/go/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları silmek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki yorumları temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları silmek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki yorumları temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki yorumları temizle - REST\'e Git API" >}}

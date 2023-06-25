@@ -1,19 +1,19 @@
 ﻿---
 title:  BMP in XPS Konvertieren Sie API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um eine Datei im Format BMP in eine Datei im Format XPS zu konvertieren.
 url: /de/go/conversion/bmp-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um BMP in XPS umzuwandeln" h2="Gehen Sie in die Bibliothek, um BMP in XPS umzuwandeln" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um BMP in XPS und andere Dokumentformate online mit Go zu konvertieren." urlsection="conversion/bmp-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um BMP in XPS umzuwandeln" h2="Gehen Sie zur Bibliothek, um BMP in XPS zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um BMP in XPS und andere Dokumentformate online mit Go zu konvertieren." urlsection="conversion/bmp-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in XPS in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in XPS ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu XPS werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um BMP-Dateien online in XPS-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in XPS ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu XPS werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von BMP- in XPS-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von BMP in das Format XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren des Formats BMP in das Format XPS" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -48,10 +48,10 @@ Das Konvertieren von Dateiformaten von BMP in XPS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um BMP in XPS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um BMP in XPS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

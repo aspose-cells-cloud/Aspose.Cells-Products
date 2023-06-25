@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till SQL Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i TXT-format till fil i SQL-format.
 url: /sv/android/conversion/txt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

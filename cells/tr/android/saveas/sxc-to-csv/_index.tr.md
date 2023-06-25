@@ -1,6 +1,6 @@
 ﻿---
-title:  Android için SXC'yi CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Android için SXC'yi CSV API olarak kaydedin
+description:  SXC biçim dosyasını CSV biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/sxc-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir SXC dosyasını CSV olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini SXC'den CSV olarak kaydetmek karmaşık bir iştir. Tüm SXC'den CSV formatına geçişler, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi olarak CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+Dosya biçimlerini SXC'den CSV olarak kaydetmek karmaşık bir iştir. Tüm SXC'den CSV formatına geçişler, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi olarak CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SXC\'yi CSV formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

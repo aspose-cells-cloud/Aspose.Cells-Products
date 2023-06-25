@@ -1,6 +1,6 @@
 ﻿---
-title: PNG إلى XLSM تحويل API ل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  PNG إلى XLSM تحويل API ل Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLSM.
 url: /ar/perl/conversion/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: ODS'den TIFF'e PHP için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  ODS'den TIFF'e PHP için API'i dönüştürün
+description:  ODS biçim dosyasını TIFF biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/ods-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

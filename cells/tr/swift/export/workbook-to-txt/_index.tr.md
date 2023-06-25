@@ -10,7 +10,7 @@ url: /tr/swift/export/workbook-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Swift\'de TXT format dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan TXT dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u TXT biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak TXT biçimindeki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+ÇALIŞMA KİTABI nesnesini elektronik tablodan TXT dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u TXT formatına aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak TXT biçimindeki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan TXT biçimine dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da ODS a XLS API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato ODS in un file in formato XLS.
 url: /it/android/conversion/ods-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/conversion/ods-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file ODS in XLS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da ODS a XLS è un'attività complessa. Tutte le transizioni dal formato ODS al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo ODS di origine. La nostra libreria Android è una soluzione professionale per convertire file ODS in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output XLS perfetto.
+La conversione dei formati di file da ODS a XLS è un'attività complessa. Tutte le transizioni dal formato ODS al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo ODS di origine. La nostra libreria Android è una soluzione professionale per convertire file ODS in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire ODS in formato XLS" gistPath="" %}}

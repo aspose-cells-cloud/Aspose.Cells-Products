@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa valideringar på Microsoft
 url: /sv/go/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Gå till Rensa för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning klarar valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Gå till Rensa för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning klarar valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Gå REST API" >}}

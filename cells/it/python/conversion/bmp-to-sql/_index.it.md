@@ -1,6 +1,6 @@
 ﻿---
-title: BMP in SQL Converti API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  BMP in SQL Converti API per Python
+description: Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato BMP in un file in formato SQL.
 url: /it/python/conversion/bmp-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

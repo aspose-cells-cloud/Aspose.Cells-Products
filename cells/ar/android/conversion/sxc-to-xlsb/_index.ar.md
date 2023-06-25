@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC إلى XLSB تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق SXC إلى ملف بتنسيق XLSB.
 url: /ar/android/conversion/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/android/conversion/sxc-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLSB في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XLSB بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Android الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى XLSB عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج XLSB مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XLSB بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات SXC إلى XLSB عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج XLSB مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل SXC إلى تنسيق XLSB" gistPath="" %}}

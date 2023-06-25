@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить PNG как XML API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения PNG в виде XML" h2="Библиотека Swift для сохранения PNG в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения PNG в виде XML и других форматов документов онлайн с помощью Swift." urlsection="saveas/png-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения PNG в формате XML" h2="Библиотека Swift для сохранения PNG в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения PNG в виде XML и других форматов документов онлайн с помощью Swift." urlsection="saveas/png-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG в виде XML — сложная задача. Все переходы формата PNG в формат XML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в виде файлов XML в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XML.
+Сохранение форматов файлов с PNG в виде XML — сложная задача. Все переходы формата PNG в формат XML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в виде файлов XML в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения PNG в формате XML" gistPath="" %}}

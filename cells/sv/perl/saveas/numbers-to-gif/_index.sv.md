@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som GIF API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara NUMBERS-formatfilen som GIF-formatfil.
 url: /sv/perl/saveas/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

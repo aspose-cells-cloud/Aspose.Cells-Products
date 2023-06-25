@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML'den XLS'ye Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: MHTML'den XLS'ye Dönüştürme API için Perl
+description:  MHTML biçim dosyasını XLS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/mhtml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

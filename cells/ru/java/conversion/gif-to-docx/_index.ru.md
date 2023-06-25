@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в DOCX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата GIF в файл формата DOCX.
 url: /ru/java/conversion/gif-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

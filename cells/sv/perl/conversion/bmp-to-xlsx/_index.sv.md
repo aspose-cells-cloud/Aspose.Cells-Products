@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till XLSX Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera BMP filformat till XLSX format fil.
 url: /sv/perl/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

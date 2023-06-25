@@ -1,6 +1,6 @@
 ﻿---
-title: Lägg till vattenstämpel för lokal arbetsbok i Cloud
-description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Lägg till vattenstämpel för lokal arbetsbok i Cloud
+description: Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

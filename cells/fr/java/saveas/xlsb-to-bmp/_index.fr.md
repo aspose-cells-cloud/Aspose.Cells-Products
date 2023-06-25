@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez XLSB sous BMP API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format XLSB en tant que fichier au format BMP.
 url: /fr/java/saveas/xlsb-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer XLSB sous BMP" h2="Bibliothèque Java pour enregistrer XLSB sous BMP" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB sous BMP et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/xlsb-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer XLSB sous BMP" h2="Bibliothèque Java pour enregistrer XLSB sous BMP" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB sous BMP et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/xlsb-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB sous BMP dans Java" >}}

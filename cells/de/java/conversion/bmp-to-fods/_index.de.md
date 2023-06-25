@@ -1,19 +1,19 @@
 ﻿---
-title:  BMP in FODS konvertieren API for Java
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  BMP in FODS Konvertieren Sie API in for Java
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im BMP-Format in eine FODS-Formatdatei.
 url: /de/java/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API um BMP in FODS umzuwandeln" h2="Java-Bibliothek zum Konvertieren von BMP in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um BMP mithilfe von Java online in FODS und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um BMP in FODS umzuwandeln" h2="Java-Bibliothek zur Konvertierung von BMP in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit Java in FODS und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in Java in FODS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in FODS in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in FODS ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu FODS werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP beibehalten wird. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP online in FODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet Java-Entwicklern leistungsstarke Funktionen und eine perfekte FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in FODS ist eine komplexe Aufgabe. Alle Übergänge vom BMP- zum FODS-Format werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP online in FODS-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von BMP in das FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zur Konvertierung von BMP in das FODS-Format" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -48,15 +48,15 @@ Das Konvertieren von Dateiformaten von BMP in FODS ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um BMP in FODS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

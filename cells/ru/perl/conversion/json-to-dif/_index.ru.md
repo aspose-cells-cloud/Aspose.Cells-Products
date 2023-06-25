@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование JSON в DIF API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата JSON в файл формата DIF.
 url: /ru/perl/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования JSON в DIF" h2="Perl библиотека для преобразования JSON в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации JSON в DIF и другие форматы документов с использованием Perl." urlsection="conversion/json-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования JSON в DIF" h2="Perl библиотека для преобразования JSON в DIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации JSON в DIF и другие форматы документов с использованием Perl." urlsection="conversion/json-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в DIF в Perl" >}}

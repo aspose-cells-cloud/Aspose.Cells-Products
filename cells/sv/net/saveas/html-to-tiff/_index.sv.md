@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som TIFF API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för C# för att spara HTML filformat som TIFF filformat.
 url: /sv/net/saveas/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

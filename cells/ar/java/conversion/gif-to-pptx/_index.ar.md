@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى PPTX - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بصيغة GIF إلى ملف بصيغة PPTX.
 url: /ar/java/conversion/gif-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

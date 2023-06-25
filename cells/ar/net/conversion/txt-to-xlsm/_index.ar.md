@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى XLSM - تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق TXT إلى ملف بتنسيق XLSM.
 url: /ar/net/conversion/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

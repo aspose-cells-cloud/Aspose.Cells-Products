@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez EMF en tant que XML API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format EMF en tant que fichier au format XML.
 url: /fr/php/saveas/emf-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

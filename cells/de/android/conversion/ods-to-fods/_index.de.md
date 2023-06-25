@@ -1,16 +1,16 @@
 ﻿---
-title:  ODS zu FODS konvertieren API für Android
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  ODS zu FODS Konvertieren API für Android
+description:  Verwenden von Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im ODS-Format in eine Datei im FODS-Format.
 url: /de/android/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von ODS in FODS" h2="Android-Bibliothek zum Konvertieren von ODS in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von ODS in FODS und andere Dokumentformate mit Android." urlsection="conversion/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von ODS in FODS" h2="Android-Bibliothek zum Konvertieren von ODS in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in FODS und andere Dokumentformate mit Android." urlsection="conversion/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in FODS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in FODS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu FODS werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der ODS-Quelltabelle beibehalten wird. Unsere Android-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von ODS- in FODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in FODS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu FODS werden von unserem Android SDK durchgeführt, wobei der Hauptstruktur- und Logikinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in FODS-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von ODS in das FODS-Format" gistPath="" %}}
@@ -48,15 +48,15 @@ Das Konvertieren von Dateiformaten von ODS in FODS ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um ODS in FODS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

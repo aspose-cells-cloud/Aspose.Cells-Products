@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLSB come CSV API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLSB come CSV API per Android
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSB come file in formato CSV.
 url: /it/android/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

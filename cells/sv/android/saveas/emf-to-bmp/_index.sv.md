@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara EMF som BMP API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara EMF som BMP API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara fil i formatet EMF som fil i formatet BMP.
 url: /sv/android/saveas/emf-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

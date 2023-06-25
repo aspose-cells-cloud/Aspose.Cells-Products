@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как FODS API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата PNG в виде файла формата FODS.
 url: /ru/php/saveas/png-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/png-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как FODS в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как FODS — сложная задача. Все переходы формата PNG в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека PHP — это профессиональное решение для сохранения PNG в виде файлов FODS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и отличные результаты FODS.
+Сохранение форматов файлов с PNG как FODS — сложная задача. Все переходы формата PNG в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека PHP — это профессиональное решение для сохранения PNG в виде файлов FODS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения PNG в формате FODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTM как JPG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLTM в виде файла формата JPG.
 url: /ru/net/saveas/xltm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/xltm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM в формате JPG по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде JPG — сложная задача. Все переходы из формата XLTM в формат JPG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения XLTM в виде файлов JPG онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из XLTM в виде JPG — сложная задача. Все переходы XLTM в формат JPG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения XLTM в виде файлов JPG онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLTM в формате JPG" gistPath="" %}}

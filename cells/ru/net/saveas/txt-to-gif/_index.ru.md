@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TXT как GIF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата TXT в формате GIF.
 url: /ru/net/saveas/txt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

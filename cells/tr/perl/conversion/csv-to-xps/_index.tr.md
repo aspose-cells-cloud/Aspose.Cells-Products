@@ -1,6 +1,6 @@
 ﻿---
 title:  XPS için CSV'yi Perl için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı XPS formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Perl kullanılıyor.
 url: /tr/perl/conversion/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

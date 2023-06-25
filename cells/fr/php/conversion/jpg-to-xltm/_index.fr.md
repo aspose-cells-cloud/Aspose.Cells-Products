@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en XLTM API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format JPG en fichier au format XLTM.
 url: /fr/php/conversion/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

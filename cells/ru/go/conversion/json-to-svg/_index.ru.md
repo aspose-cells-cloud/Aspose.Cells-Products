@@ -1,10 +1,10 @@
 ﻿---
 title:  JSON в SVG Конвертировать API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата JSON в файл формата SVG.
 url: /ru/go/conversion/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите API, чтобы преобразовать JSON в SVG." h2="Библиотека Go для преобразования JSON в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования JSON в SVG и другие форматы документов онлайн с помощью Go." urlsection="conversion/json-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по адресу API, чтобы преобразовать JSON в SVG." h2="Библиотека Go для преобразования JSON в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования JSON в SVG и другие форматы документов онлайн с помощью Go." urlsection="conversion/json-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в SVG в Go" >}}

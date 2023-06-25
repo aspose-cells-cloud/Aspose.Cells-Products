@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ PPTX API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XML كملف بتنسيق PPTX.
 url: /ar/nodejs/saveas/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/nodejs/saveas/xml-to-pptx/
 يعد حفظ تنسيقات الملفات من XML كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XML كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لحفظ XML بتنسيق PPTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XML بتنسيق PPTX" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

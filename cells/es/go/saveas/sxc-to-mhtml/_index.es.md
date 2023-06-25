@@ -1,13 +1,13 @@
 ﻿---
 title:  Guardar SXC como MHTML API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato SXC como archivo de formato MHTML.
 url: /es/go/saveas/sxc-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para guardar SXC como MHTML" h2="Vaya a la biblioteca para guardar SXC como MHTML" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar SXC como MHTML y otros formatos de documentos en línea usando Go." urlsection="saveas/sxc-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo SXC como MHTML en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo SXC como MHTML en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de SXC como MHTML es una tarea compleja. Todas las transiciones de formato SXC a MHTML son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Go es una solución profesional para guardar SXC como archivos MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida MHTML perfecta.

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XPS API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara PNG filformat som XPS filformat.
 url: /sv/php/saveas/png-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

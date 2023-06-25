@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF إلى TIFF تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: GIF إلى TIFF تحويل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق GIF إلى ملف بتنسيق TIFF.
 url: /ar/perl/conversion/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

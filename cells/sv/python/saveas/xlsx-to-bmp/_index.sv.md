@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som BMP API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLSX-formatfil som BMP-fil.
 url: /sv/python/saveas/xlsx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

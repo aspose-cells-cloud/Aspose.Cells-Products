@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS إلى PPTX قم بالتحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق ODS إلى ملف بتنسيق PPTX.
 url: /ar/net/conversion/ods-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar MHTML como DOCX API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar MHTML como DOCX API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato MHTML como archivo de formato DOCX.
 url: /es/android/saveas/mhtml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

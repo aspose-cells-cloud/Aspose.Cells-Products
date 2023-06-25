@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование ODS в WMF API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование ODS в WMF API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата ODS в файл формата WMF.
 url: /ru/perl/conversion/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

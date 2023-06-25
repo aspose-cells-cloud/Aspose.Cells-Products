@@ -4,7 +4,7 @@ description: Облачные API и SDK для защиты Microsoft Excel и 
 url: /ru/php/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="PHP библиотека для защиты облака Microsoft Excel и таблица OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в PHP. Это профессиональное решение защищает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей, используя PHP." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="PHP библиотека для защиты облака Microsoft Excel и таблица OpenOffice Calc с паролем" p="Используйте Cells Protect REST API, чтобы защитить облако Microsoft Excel и openoffice Calc -таблица с рабочими потоками пароля в PHP. Это профессиональное решение защищает облако Microsoft Excel и OpenFip Offife CalcSshice Calcselet Online с помощью паролей с использованием 07617481." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите облако Microsoft Excel и электронную таблицу OpenOffice Calc паролем — PHP REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XLTX API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara fil i PNG-format som fil i XLTX-format.
 url: /sv/python/saveas/png-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

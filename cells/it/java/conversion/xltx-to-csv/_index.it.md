@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XLTX a CSV API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato XLTX in un file in formato CSV.
 url: /it/java/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

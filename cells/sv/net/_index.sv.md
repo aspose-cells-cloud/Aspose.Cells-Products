@@ -1,6 +1,6 @@
 ﻿---
 title:  Läs, skriv, visa och konvertera kalkylark (via C# REST SDK)
-description: "SDK:er för C#, ASP.NET och andra .NET stödda språk för att utveckla molnbaserade appar för bearbetning av Excel och OpenOffice-kalkylblad"
+description: " SDK:er för C#, ASP.NET och andra .NET stödda språk för att utveckla molnbaserade appar för bearbetning av Excel och OpenOffice-kalkylblad"
 weight: 70
 url: /sv/net
 ---
@@ -125,7 +125,7 @@ url: /sv/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Lägg till ett ListObject på en angiven plats i filen Excel
+ Lägg till ett ListObject på en angiven plats i filen Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ Lägg till ett ListObject på en angiven plats i filen Excel
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sammanfatta data för stora ListObject eller tabell med pivottabell
+Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ Lägg till ett ListObject på en angiven plats i filen Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. Det är allt! Du är redo att använda Aspose.Cells Cloud SDK for .NET.
+och få din ansökningsinformation. Det är allt! Du är redo att använda Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET innehåller alla funktioner för att skapa, redigera och konvertera kalkylblad till andra populära filformat.

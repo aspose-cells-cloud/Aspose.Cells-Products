@@ -1,6 +1,6 @@
 ﻿---
-title:  НОМЕРА в WMF Преобразование API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: НОМЕРА в WMF Преобразование API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата WMF.
 url: /ru/perl/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

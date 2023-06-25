@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как SXC API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата ODS в виде файла формата SXC.
 url: /ru/ruby/saveas/ods-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/ods-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как SXC в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде SXC — сложная задача. Все переходы от формата ODS к формату SXC выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод SXC.
+Сохранение форматов файлов из ODS в виде SXC — сложная задача. Все переходы от формата ODS к формату SXC выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения ODS в формате SXC" gistPath="" %}}

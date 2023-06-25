@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XLS a GIF API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLS in un file in formato GIF.
 url: /it/go/conversion/xls-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

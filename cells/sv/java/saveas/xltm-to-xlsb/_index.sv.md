@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som XLSB API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLTM-formatfil som XLSB-formatfil.
 url: /sv/java/saveas/xltm-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

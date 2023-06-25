@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصفوف الفارغة على Micro
 url: /ar/android/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصفوف الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصفوف الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Android REST API" >}}

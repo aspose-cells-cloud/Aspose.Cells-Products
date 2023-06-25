@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC till TSV Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i SXC-format till fil i TSV-format.
 url: /sv/net/conversion/sxc-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

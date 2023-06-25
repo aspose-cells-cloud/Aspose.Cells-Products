@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSM au format GIF API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XLSM en tant que fichier au format GIF.
 url: /fr/php/saveas/xlsm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Rensa dubbletter av rader i den lokala arbetsboken i Cloud
-description: "Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc. Rensa dubbletter av rader på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+title: Rensa dubbletter av rader i den lokala arbetsboken med PHP i molnet
+description: " Cloud API:er och SDK:er för att rensa dubblettrader på Microsoft Excel & OpenOffice Calc med PHP. Rensa dubblettrader på lokala kalkylark med Cells Cloud API SDK för 481611"
 url: /sv/php/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Clear REST API för att rensa dubblettrader på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i PHP. Den här professionella lösningen rensar dubblettrader på lokala 07615704 och CalOffice Open-kalkylblad 3761514 76173481." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="PHP Rensa för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Clear REST API för att rensa dubblettrader på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i PHP. Den här professionella lösningen rensar dubblettrader på lokala 07615704 och CalOffice Open-kalkylblad 3761514 76173481." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa dubbletter av rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - PHP REST API" >}}

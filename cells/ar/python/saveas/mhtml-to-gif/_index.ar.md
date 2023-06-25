@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML بصيغة GIF API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق MHTML كملف بتنسيق GIF.
 url: /ar/python/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

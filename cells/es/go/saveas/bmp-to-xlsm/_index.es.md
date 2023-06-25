@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como XLSM API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato BMP como archivo de formato XLSM.
 url: /es/go/saveas/bmp-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TSV باسم WMF API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف TSV كملف بتنسيق WMF.
 url: /ar/ruby/saveas/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ TSV كـ WMF" h2="مكتبة روبي لحفظ TSV كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ TSV بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/tsv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لحفظ TSV كـ WMF" h2="مكتبة روبي لحفظ TSV كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لحفظ TSV كـ WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Ruby." urlsection="saveas/tsv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV كملف WMF في Ruby" >}}

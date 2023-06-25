@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование CSV в XLS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата CSV в файл формата XLS.
 url: /ru/net/conversion/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в XLS" h2="C# библиотека для преобразования CSV в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации CSV в XLS и другие форматы документов по телефону C#." urlsection="conversion/csv-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в XLS" h2="C# библиотека для преобразования CSV в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования CSV в XLS и другие форматы документов онлайн по телефону C#." urlsection="conversion/csv-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLS по номеру C#." >}}

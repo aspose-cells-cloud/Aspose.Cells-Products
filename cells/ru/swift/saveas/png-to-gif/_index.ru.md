@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить PNG как GIF API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить PNG в формате GIF" h2="Библиотека Swift для сохранения PNG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения PNG в виде GIF и других форматов документов онлайн с помощью Swift." urlsection="saveas/png-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить PNG в формате GIF" h2="Библиотека Swift для сохранения PNG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения PNG в формате GIF и других форматов документов в Интернете с помощью Swift." urlsection="saveas/png-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG в формате GIF в Swift." >}}

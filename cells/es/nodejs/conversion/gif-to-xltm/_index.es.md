@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF a XLTM Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato GIF a un archivo de formato XLTM.
 url: /es/nodejs/conversion/gif-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

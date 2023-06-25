@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX a PNG Converti API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XLSX a PNG Converti API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato XLSX nel file in formato PNG.
 url: /it/php/conversion/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

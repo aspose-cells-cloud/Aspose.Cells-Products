@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en GIF API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format XML en fichier au format GIF.
 url: /fr/go/conversion/xml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

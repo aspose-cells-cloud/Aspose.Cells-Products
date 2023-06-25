@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как JPG API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата CSV в виде файла формата JPG.
 url: /ru/nodejs/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/csv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV в формате JPG в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы формата CSV в формат JPG выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JPG.
+Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы из формата CSV в формат JPG выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения CSV в формате JPG" gistPath="" %}}

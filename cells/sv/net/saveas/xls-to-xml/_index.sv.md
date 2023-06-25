@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLS som XML API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLS-formatfil som XML-formatfil.
 url: /sv/net/saveas/xls-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

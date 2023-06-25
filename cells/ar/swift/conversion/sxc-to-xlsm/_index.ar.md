@@ -1,10 +1,10 @@
 ﻿---
 title:  SXC إلى XLSM - تحويل API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/conversion/sxc-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل SXC إلى XLSM" h2="مكتبة سويفت لتحويل SXC إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل SXC إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/sxc-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل SXC إلى XLSM" h2="مكتبة سريعة لتحويل SXC إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل SXC إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/sxc-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLSM في Swift" >}}

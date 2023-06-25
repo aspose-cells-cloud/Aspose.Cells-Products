@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование XLTX в FODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLTX в FODS API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLTX в файл формата FODS.
 url: /ru/perl/conversion/xltx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

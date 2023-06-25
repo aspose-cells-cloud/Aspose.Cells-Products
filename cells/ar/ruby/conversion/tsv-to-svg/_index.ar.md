@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى SVG تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TSV إلى ملف بتنسيق SVG.
 url: /ar/ruby/conversion/tsv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

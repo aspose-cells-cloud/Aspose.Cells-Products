@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-ta
 url: /tr/net/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için C# API" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için temizleyin" p="Cells Yerel Microsoft Excel ve C#\'deki OpenOffice Calc hesap tablosu iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri C# kullanarak temizler." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için C# API" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için temizleyin" p="Cells Yerel Microsoft Excel ve C#\'deki OpenOffice Calc hesap tablosu iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri C# kullanarak temizler." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizle - C# REST API" >}}

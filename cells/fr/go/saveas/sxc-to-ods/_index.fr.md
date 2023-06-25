@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez SXC sous ODS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format SXC en tant que fichier au format ODS.
 url: /fr/go/saveas/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

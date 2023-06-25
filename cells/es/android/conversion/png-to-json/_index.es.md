@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG a JSON Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato PNG a un archivo de formato JSON.
 url: /es/android/conversion/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/conversion/png-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a JSON en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a JSON es una tarea compleja. Todas las transiciones de formato PNG a JSON son realizadas por nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca de Android es una solución profesional para convertir PNG a archivos JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Android una funcionalidad poderosa y una salida JSON perfecta.
+Convertir formatos de archivo de PNG a JSON es una tarea compleja. Todas las transiciones de formato PNG a JSON se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca de Android es una solución profesional para convertir PNG a archivos JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Android una funcionalidad poderosa y una salida JSON perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir PNG a formato JSON" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez HTML en tant que XML API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format HTML en tant que fichier au format XML.
 url: /fr/nodejs/saveas/html-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer HTML au format XML" h2="Bibliothèque NodeJS pour enregistrer HTML au format XML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer HTML au format XML et d\'autres formats de document en ligne à l\'aide de NodeJS." urlsection="saveas/html-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer HTML au format XML" h2="Bibliothèque NodeJS pour enregistrer HTML au format XML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer HTML au format XML et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/html-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier HTML au format XML dans NodeJS" >}}

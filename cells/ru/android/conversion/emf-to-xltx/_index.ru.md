@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование EMF в XLTX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата EMF в файл формата XLTX.
 url: /ru/android/conversion/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/emf-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл EMF в XLTX на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов EMF в XLTX. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из EMF в XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов EMF в XLTX. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования EMF в формат XLTX" gistPath="" %}}

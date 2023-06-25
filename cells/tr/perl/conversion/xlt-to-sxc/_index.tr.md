@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'den SXC'ye Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını SXC biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/perl/conversion/xlt-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Perl\'de bir XLT dosyasını SXC\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den SXC'ye dönüştürmek karmaşık bir iştir. XLT'den SXC'ye tüm format geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, XLT'yi çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
+Dosya formatlarını XLT'den SXC'ye dönüştürmek karmaşık bir iştir. Tüm XLT'den SXC formatına geçişler, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, XLT'yi çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi SXC formatına dönüştürmek için REST API\'i kullanan Perl\'deki kod örneği" gistPath="" %}}

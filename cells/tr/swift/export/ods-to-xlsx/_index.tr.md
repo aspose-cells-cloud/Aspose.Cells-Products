@@ -8,7 +8,7 @@ url: /tr/swift/export/ods-to-xlsx/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" Swift için Bulut SDK\'sında ODS\'yi XLSX dosyasına aktarma" %}}
+{{% blocks/products/pf/agp/feature-section-col title=" Swift için Cloud SDK\'da ODS\'yi XLSX dosyasına aktarın" %}}
 1.  adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları
 1. ```CellsApi```'i İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlat
 1. Ortaya çıkan XLSX akışını almak için ```cellsWorkbookPutConvertWorkbook``` yöntemini çağırın

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till TSV Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera ODS-formatfil till TSV-formatfil.
 url: /sv/android/conversion/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

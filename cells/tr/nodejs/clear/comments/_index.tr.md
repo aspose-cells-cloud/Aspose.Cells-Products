@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc üzerindeki yorumları temizlem
 url: /tr/nodejs/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki yorumları temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki yorumları temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizle - NodeJS REST API" >}}

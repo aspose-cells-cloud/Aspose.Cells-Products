@@ -1,10 +1,10 @@
 ﻿---
 title:  XML'i Swift için XLS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/xml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i XLS olarak kaydetmek için Swift API" h2="XML\'i XLS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift\'i kullanarak XML\'i XLS ve diğer belge biçimleri olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i XLS olarak kaydetmek için Swift API" h2="XML\'i XLS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XML\'i XLS olarak ve diğer belge formatlarını çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını Swift\'de XLS olarak kaydedin" >}}

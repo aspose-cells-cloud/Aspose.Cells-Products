@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLS в WMF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLS в файл формата WMF.
 url: /ru/android/conversion/xls-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/xls-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в WMF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в WMF — сложная задача. Все переходы между форматами XLS и WMF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLS в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод WMF.
+Преобразование форматов файлов из XLS в WMF — сложная задача. Все переходы между форматами XLS и WMF выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLS в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLS в формат WMF" gistPath="" %}}

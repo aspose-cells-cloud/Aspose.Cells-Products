@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie JSON als GIF API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern einer Datei im JSON-Format als Datei im GIF-Format.
 url: /de/ruby/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um JSON als GIF zu speichern" h2="Ruby-Bibliothek zum Speichern von JSON als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um JSON als GIF und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/json-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von JSON als GIF" h2="Ruby-Bibliothek zum Speichern von JSON als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um JSON als GIF und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/json-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JSON-Datei als GIF in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus JSON als GIF ist eine komplexe Aufgabe. Alle Formatübergänge von JSON zu GIF werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der JSON-Quelltabelle beibehalten werden. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um JSON als GIF-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Speichern von Dateiformaten von JSON als GIF ist eine komplexe Aufgabe. Alle Übergänge vom JSON- zum GIF-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um JSON als GIF-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von JSON im GIF-Format" gistPath="" %}}
@@ -34,14 +34,14 @@ Das Speichern von Dateiformaten aus JSON als GIF ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um JSON als GIF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

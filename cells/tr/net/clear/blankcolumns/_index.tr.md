@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc üzerinde boş sütunları temiz
 url: /tr/net/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizlemek için" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki boş sütunları ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarındaki boş sütunları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları C# kullanarak temizler." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizlemek için" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki boş sütunları ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarındaki boş sütunları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları C# kullanarak temizler." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunları temizleyin - C# REST API" >}}

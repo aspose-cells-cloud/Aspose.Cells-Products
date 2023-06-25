@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer XLTX au format CSV API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer XLTX au format CSV API pour PHP
+description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XLTX en tant que fichier au format CSV.
 url: /fr/php/saveas/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

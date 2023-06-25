@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC a JPG Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato SXC a un archivo de formato JPG.
 url: /es/android/conversion/sxc-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/conversion/sxc-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo SXC a JPG en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de SXC a JPG es una tarea compleja. Todas las transiciones de formato SXC a JPG son realizadas por nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos SXC a JPG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida JPG perfecta.
+Convertir formatos de archivo de SXC a JPG es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato SXC a JPG mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos SXC a JPG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida JPG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir SXC a formato JPG" gistPath="" %}}

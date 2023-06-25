@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ ODS كـ HTML API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ ODS كـ HTML API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق ODS كملف بتنسيق HTML.
 url: /ar/nodejs/saveas/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

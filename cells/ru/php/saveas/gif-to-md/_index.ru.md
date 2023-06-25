@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как MD API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата GIF как файла формата MD.
 url: /ru/php/saveas/gif-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/gif-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как MD в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде MD — сложная задача. Все переходы формата GIF в формат MD выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для сохранения файлов GIF в формате MD в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из GIF в виде MD — сложная задача. Все переходы формата GIF в формат MD выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для сохранения GIF-файлов в формате MD в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения GIF в формате MD" gistPath="" %}}

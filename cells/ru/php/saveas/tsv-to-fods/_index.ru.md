@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить TSV как FODS API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить TSV как FODS API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата TSV в виде файла формата FODS.
 url: /ru/php/saveas/tsv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

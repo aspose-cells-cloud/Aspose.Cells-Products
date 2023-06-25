@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS en WMF Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: ODS en WMF Convertir API pour PHP
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format ODS en fichier au format WMF.
 url: /fr/php/conversion/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

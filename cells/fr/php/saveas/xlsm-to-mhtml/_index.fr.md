@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSM sous MHTML API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLSM en tant que fichier au format MHTML.
 url: /fr/php/saveas/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

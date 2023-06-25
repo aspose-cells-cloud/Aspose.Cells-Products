@@ -1,6 +1,6 @@
 ﻿---
-title: تصدير LISTOBJECT إلى PNG من جدول البيانات باستخدام NodeJS API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  تصدير LISTOBJECT إلى PNG من جدول البيانات باستخدام NodeJS API
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/nodejs/export/listobject-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to GIF - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  باستخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق GIF.
 url: /ar/go/conversion/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

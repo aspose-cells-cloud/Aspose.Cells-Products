@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JPG как PDF API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JPG как файла формата PDF.
 url: /ru/perl/saveas/jpg-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

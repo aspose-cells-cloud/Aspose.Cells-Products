@@ -1,6 +1,6 @@
 ﻿---
 title:  NÚMEROS a ODS Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato NUMBERS a un archivo de formato ODS.
 url: /es/python/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/python/conversion/numbers-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo NUMBERS a ODS en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a ODS es una tarea compleja. Todas las transiciones de formato NUMBERS a ODS se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos NUMBERS a ODS en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida ODS perfecta.
+Convertir formatos de archivo de NUMBERS a ODS es una tarea compleja. Todas las transiciones de formato de NUMBERS a ODS se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Python es una solución profesional para convertir archivos NUMBERS a ODS en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida ODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir NÚMEROS a formato ODS" gistPath="" %}}

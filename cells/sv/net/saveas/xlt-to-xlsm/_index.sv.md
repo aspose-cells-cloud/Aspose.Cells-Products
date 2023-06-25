@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLT som XLSM API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLT som XLSM API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLT-formatfil som XLSM-formatfil.
 url: /sv/net/saveas/xlt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

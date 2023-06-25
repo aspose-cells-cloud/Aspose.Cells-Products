@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в XLSX Конвертировать API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата PNG в файл формата XLSX.
 url: /ru/go/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

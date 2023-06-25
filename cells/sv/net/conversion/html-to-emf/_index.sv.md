@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till EMF Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera HTML filformat till EMF filformat.
 url: /sv/net/conversion/html-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

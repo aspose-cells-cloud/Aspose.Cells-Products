@@ -1,14 +1,14 @@
 ﻿---
-title:  Очистить объекты
-description: Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Очистить объекты с Android
+description:  Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/android/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Очистить объекты с Android" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Ссылки расширения «Очистить объекты»" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Очистить объекты с помощью ссылок расширения Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

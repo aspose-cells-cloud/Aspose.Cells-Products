@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer les numéros sous SVG API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS en tant que fichier au format SVG.
 url: /fr/android/saveas/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

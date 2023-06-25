@@ -4,13 +4,13 @@ description: Облачные API и SDK для защиты Microsoft Excel и 
 url: /ru/nodejs/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека NodeJS для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение защищает облако Microsoft Excel и электронную таблицу OpenOffice Calc в Интернете с помощью паролей с использованием NodeJS." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека NodeJS для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение защищает облако Microsoft Excel и электронную таблицу OpenOffice Calc в Интернете с помощью паролей с использованием NodeJS." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защита облака Microsoft Excel и электронной таблицы OpenOffice Calc с помощью пароля — NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-Защита облачной таблицы паролем — сложная задача. Наш NodeJS SDK защищает облачную электронную таблицу с помощью переходов паролей, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы. Наша библиотека NodeJS — это профессиональное решение для онлайн-защиты облачных электронных таблиц с помощью пароля. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и совершенный API.
+Защита облачной таблицы паролем — сложная задача. Наш NodeJS SDK защищает облачную таблицу с переходом паролей, сохраняя при этом основное структурное и логическое содержимое исходной таблицы. Наша библиотека NodeJS — это профессиональное решение для онлайн-защиты облачных электронных таблиц с помощью пароля. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и совершенный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код CPP для облачных таблиц шифрования" gistPath="https://gist.github.com/e82de2e4189bc27ae92abf73c36b4df0.js?file=Examples-Node.js-SDK-Workbook-EncryptWorkbook-1.js" %}}

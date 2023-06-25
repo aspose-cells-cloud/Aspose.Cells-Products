@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till SXC Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera XLSX-formatfil till SXC-formatfil.
 url: /sv/java/conversion/xlsx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

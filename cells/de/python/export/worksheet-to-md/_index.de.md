@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie das ARBEITSBLATT aus der Tabelle mit Python API nach MD
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title: Exportieren Sie ARBEITSBLATT aus der Tabelle mit Python API nach MD
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/python/export/worksheet-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Exportieren des ARBEITSBLATTS in eine MD-Datei" h2="Python Bibliothek zum Exportieren von WORKSHEET in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in MD-Format-Dateien aus Tabellenkalkulationen online mit Python." urlsection="export/worksheet-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Exportieren von ARBEITSBLATT in eine MD-Datei" h2="Python-Bibliothek zum Exportieren von ARBEITSBLATT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine MD-Formatdatei aus einer Tabellenkalkulation online mit Python." urlsection="export/worksheet-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im MD-Format in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die MD-Formatdatei Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts in eine MD-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKSHEET in MD-Formatübergänge wird von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKSHEET-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im MD-Format zu exportieren. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Der Export von WORKSHEET in das MD-Format wird von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von WORKSHEET in das MD-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von WORKSHEET in das MD-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +37,10 @@ Das Exportieren eines WORKSHEET-Objekts in eine MD-Datei aus einer Tabellenkalku
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um WORKSHEET nach MD zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um ARBEITSBLATT in MD zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

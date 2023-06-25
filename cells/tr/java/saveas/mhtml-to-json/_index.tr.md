@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML'yi JSON API for Java olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  MHTML biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/java/saveas/mhtml-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Java\'de JSON olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini MHTML'den JSON olarak kaydetmek karmaşık bir görevdir. Tüm MHTML'den JSON biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, MHTML'yi çevrimiçi JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıkışı sağlar.
+Dosya biçimlerini MHTML'den JSON olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den JSON biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, MHTML'yi çevrimiçi JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi JSON formatı olarak kaydetmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}

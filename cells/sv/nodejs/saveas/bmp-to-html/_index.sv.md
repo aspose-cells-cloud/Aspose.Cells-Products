@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som HTML API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara BMP filformat som HTML filformat.
 url: /sv/nodejs/saveas/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

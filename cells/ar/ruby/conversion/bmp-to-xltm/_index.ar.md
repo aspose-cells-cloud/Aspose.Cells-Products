@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP إلى XLTM تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLTM.
 url: /ar/ruby/conversion/bmp-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

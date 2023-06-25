@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JSON come SQL API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato JSON come file in formato SQL.
 url: /it/go/saveas/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/go/saveas/json-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JSON come SQL in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da JSON come SQL è un'attività complessa. Tutte le transizioni dal formato JSON a SQL vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo JSON di origine. La nostra libreria Go è una soluzione professionale per salvare JSON come file SQL online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output SQL perfetto.
+Il salvataggio dei formati di file da JSON come SQL è un'attività complessa. Tutte le transizioni dal formato JSON a SQL vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Go è una soluzione professionale per salvare JSON come file SQL online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output SQL perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare JSON come formato SQL" gistPath="" %}}

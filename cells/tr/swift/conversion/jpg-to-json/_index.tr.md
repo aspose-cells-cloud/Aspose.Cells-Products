@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için JPG'den JSON'a Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/jpg-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/jpg-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Swift\'de JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini JPG'den JSON'a dönüştürmek karmaşık bir iştir. Tüm JPG'den JSON biçimine geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, JPG'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya biçimlerini JPG'den JSON'a dönüştürmek karmaşık bir iştir. Tüm JPG'den JSON biçimine geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, JPG'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi JSON biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

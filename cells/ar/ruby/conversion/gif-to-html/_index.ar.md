@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى HTML تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق GIF إلى ملف بتنسيق HTML.
 url: /ar/ruby/conversion/gif-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/gif-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى HTML في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من GIF إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى HTML بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى HTML عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج HTML مثالي.
+يعد تحويل تنسيقات الملفات من GIF إلى HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى HTML بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعتبر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى HTML عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج HTML مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل GIF إلى تنسيق HTML" gistPath="" %}}

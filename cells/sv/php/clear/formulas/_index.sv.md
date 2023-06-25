@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa formler på Microsoft Excel
 url: /sv/php/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att rensa formler på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="PHP Rensa för att rensa formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa formler på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i PHP. Denna professionella lösning klarar formler på lokala Microsoft Microsoft 376153481 Microsoft Microsoft OpenOffice 381616 och 481616 och OpenOffice 381616 och 481616. ." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API för att rensa formler på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="PHP Rensa för att rensa formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa formler på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i PHP. Denna professionella lösning klarar formler på lokala Microsoft Microsoft 376153481 Microsoft Microsoft OpenOffice 381616 och 481616 och OpenOffice 381616 och 481616. ." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - PHP REST API" >}}

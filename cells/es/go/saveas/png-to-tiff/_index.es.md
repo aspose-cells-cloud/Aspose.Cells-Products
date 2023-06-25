@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde PNG como TIFF API para Ir
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato PNG como archivo de formato TIFF.
 url: /es/go/saveas/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

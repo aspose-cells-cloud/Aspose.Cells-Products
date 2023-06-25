@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som HTML API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för C# för att spara fil i XLSB-format som fil i HTML-format.
 url: /sv/net/saveas/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

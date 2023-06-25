@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLT в XML API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLT в XML" h2="Библиотека Swift для преобразования XLT в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLT в XML и другие форматы документов с помощью Swift." urlsection="conversion/xlt-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLT в XML" h2="Библиотека Swift для преобразования XLT в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLT в XML и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlt-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в XML является сложной задачей. Все переходы формата XLT в XML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в XML. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XML.
+Преобразование форматов файлов из XLT в XML является сложной задачей. Все переходы формата XLT в XML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLT в XML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLT в формат XML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI Swift için PPTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/numbers-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Swift\'de PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini PPTX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan PPTX'e format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+NUMBERS dosya biçimlerini PPTX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan PPTX'e biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SAYILARI PPTX formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

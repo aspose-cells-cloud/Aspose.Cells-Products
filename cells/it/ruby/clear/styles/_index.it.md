@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare gli stili su Microsoft Excel e Open
 url: /it/ruby/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare gli stili nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare gli stili nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

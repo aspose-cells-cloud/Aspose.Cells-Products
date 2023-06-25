@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till EMF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i TXT-format till fil i EMF-format.
 url: /sv/java/conversion/txt-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

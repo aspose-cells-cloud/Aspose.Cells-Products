@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva NUMERI come XLTX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato NUMBERS come file in formato XLTX.
 url: /it/php/saveas/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

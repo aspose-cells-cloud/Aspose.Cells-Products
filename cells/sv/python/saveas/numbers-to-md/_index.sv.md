@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som MD API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara NUMBERS-formatfilen som MD-fil.
 url: /sv/python/saveas/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

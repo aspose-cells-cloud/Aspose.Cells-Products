@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF'ten SXC'ye Dönüştürme API for Swift
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/gif-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir GIF dosyasını Swift\'de SXC\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını GIF'ten SXC'ye dönüştürmek karmaşık bir iştir. Tüm GIF'ten SXC formatına geçişler, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, GIF'i çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıktısı sağlar.
+Dosya biçimlerini GIF'ten SXC'ye dönüştürmek karmaşık bir iştir. Tüm GIF'ten SXC formatına geçişler, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, GIF'i çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="GIF\'i SXC biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

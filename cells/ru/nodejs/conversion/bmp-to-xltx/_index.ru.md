@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP в XLTX Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата BMP в файл формата XLTX.
 url: /ru/nodejs/conversion/bmp-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/bmp-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в XLTX в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в XLTX — сложная задача. Все переходы формата BMP в формат XLTX выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов BMP в XLTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из BMP в XLTX — сложная задача. Все переходы формата BMP в формат XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов BMP в XLTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования BMP в формат XLTX" gistPath="" %}}

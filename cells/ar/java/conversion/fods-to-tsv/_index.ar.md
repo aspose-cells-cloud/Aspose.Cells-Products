@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل FODS إلى TSV في السحابة via Java
+title:  تحويل FODS إلى TSV في السحابة via Java
 description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Java SDK
 url: /ar/java/conversion/fods-to-tsv/
 family: cells

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som CSV API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara JPG-formatfil som CSV-formatfil.
 url: /sv/go/saveas/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

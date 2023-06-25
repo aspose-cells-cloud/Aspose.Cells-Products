@@ -1,10 +1,10 @@
 ﻿---
-title: SXC a XLT Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  SXC a XLT Convertir API para PHP
+description: Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato SXC a un archivo de formato XLT.
 url: /es/php/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir SXC a XLT" h2="PHP biblioteca para convertir SXC a XLT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir SXC a XLT y otros formatos de documentos en línea usando PHP." urlsection="conversion/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir SXC a XLT" h2="PHP biblioteca para convertir SXC a XLT" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir SXC a XLT y otros formatos de documentos en línea usando PHP." urlsection="conversion/sxc-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo SXC a XLT en PHP" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование JPG в TSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата JPG в файл формата TSV.
 url: /ru/android/conversion/jpg-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования JPG в TSV" h2="Библиотека Android для преобразования JPG в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования JPG в TSV и другие форматы документов онлайн с помощью Android." urlsection="conversion/jpg-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования JPG в TSV" h2="Библиотека Android для преобразования JPG в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для онлайн-конвертации JPG в TSV и другие форматы документов с помощью Android." urlsection="conversion/jpg-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в TSV на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в TSV — сложная задача. Все переходы между форматами JPG и TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов JPG в TSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из JPG в TSV — сложная задача. Все переходы между форматами JPG и TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов JPG в TSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования JPG в формат TSV" gistPath="" %}}

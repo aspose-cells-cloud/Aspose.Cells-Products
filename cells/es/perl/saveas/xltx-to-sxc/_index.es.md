@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar XLTX como SXC API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar XLTX como SXC API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato XLTX como archivo de formato SXC.
 url: /es/perl/saveas/xltx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

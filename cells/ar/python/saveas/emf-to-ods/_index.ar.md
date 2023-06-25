@@ -1,6 +1,6 @@
 ﻿---
-title: احفظ EMF كـ ODS API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ EMF كـ ODS API مقابل Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق EMF كملف بتنسيق ODS.
 url: /ar/python/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

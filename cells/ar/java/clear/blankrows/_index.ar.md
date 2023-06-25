@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصفوف الفارغة على Micro
 url: /ar/java/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Java امسح لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Java. هذا الحل الاحترافي يمسح الصفوف الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Java امسح لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Java. هذا الحل الاحترافي يمسح الصفوف الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف الفارغة في جدول بيانات Microsoft Excel و OpenOffice Calc المحلي - Java REST API" >}}

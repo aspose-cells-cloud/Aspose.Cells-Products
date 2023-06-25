@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ JPG API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق MHTML كملف بتنسيق JPG.
 url: /ar/ruby/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

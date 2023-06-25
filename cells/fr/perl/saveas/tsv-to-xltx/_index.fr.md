@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez TSV sous XLTX API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez TSV sous XLTX API pour Perl
+description:  Utilisation de Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format TSV en tant que fichier au format XLTX.
 url: /fr/perl/saveas/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

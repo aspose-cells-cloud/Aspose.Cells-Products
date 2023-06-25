@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer JSON au format XML API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format JSON en tant que fichier au format XML.
 url: /fr/go/saveas/json-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

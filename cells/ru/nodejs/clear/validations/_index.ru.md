@@ -1,10 +1,10 @@
 ﻿---
 title:  Очистить проверки локальной книги в облаке
-description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/nodejs/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки проверки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="NodeJS Clear, чтобы очистить валидацию для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием NodeJS." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки проверки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="NodeJS Clear, чтобы очистить валидацию для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием NodeJS." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}

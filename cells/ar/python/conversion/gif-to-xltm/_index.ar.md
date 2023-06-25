@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى XLTM - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق GIF إلى ملف تنسيق XLTM.
 url: /ar/python/conversion/gif-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

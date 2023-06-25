@@ -1,16 +1,16 @@
 ﻿---
 title:  PNG в SVG Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата PNG в файл формата SVG.
 url: /ru/python/conversion/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования PNG в SVG" h2="библиотека Python для преобразования PNG в SVG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования PNG в SVG и другие форматы документов в Интернете с использованием Python." urlsection="conversion/png-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования PNG в SVG" h2="Python библиотека для преобразования PNG в SVG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования PNG в SVG и другие форматы документов в Интернете с использованием Python." urlsection="conversion/png-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в SVG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в SVG — сложная задача. Все переходы форматов с PNG на SVG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов PNG в SVG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат SVG.
+Преобразование форматов файлов из PNG в SVG — сложная задача. Все переходы форматов с PNG на SVG выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов PNG в SVG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования формата PNG в формат SVG" gistPath="" %}}

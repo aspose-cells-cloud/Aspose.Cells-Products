@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML a XLT Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: HTML a XLT Convertir API para Ruby
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato HTML a un archivo de formato XLT.
 url: /es/ruby/conversion/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

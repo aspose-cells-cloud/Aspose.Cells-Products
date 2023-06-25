@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som HTML API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLTX-formatfil som HTML-formatfil.
 url: /sv/java/saveas/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

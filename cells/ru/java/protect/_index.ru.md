@@ -1,14 +1,14 @@
 ﻿---
-title:  Защищать
-description:  Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и книги с цифровой подписью. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Защитите с Java
+description:  Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и цифровые подписи книг с Java. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/java/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Защищать" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и книги с цифровой подписью. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Защитите с Java" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и цифровые подписи книг с Java. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Защитить ссылки расширения" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Защитите с помощью ссылок расширения Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

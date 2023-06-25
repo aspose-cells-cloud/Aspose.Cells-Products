@@ -1,10 +1,10 @@
 ﻿---
-title:  Decrittografa fogli di calcolo locali con password in Cloud
+title: Decrittografa fogli di calcolo locali con password in Cloud
 description:  API cloud e SDK per Microsoft Excel e sblocco di OpenOffice Calc. Fogli di calcolo decrittografati dal Cells Cloud API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/net/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="C# libreria per decifrare locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt Rest API per decrittografare Local Microsoft Excel e foglio di calcolo Calc -office con flussi di lavoro password in C#. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice Calcs Onlines con password online con password online con password di 076176176" urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="C# libreria per decifrare locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt Rest API per decrittografare Local Microsoft Excel e foglio di calcolo Calc -office con flussi di lavoro password in C#. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice Calcs Onlines con password online con password online con password di 076176176" urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Decrittografa il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password - C# REST API" >}}

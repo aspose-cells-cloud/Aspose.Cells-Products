@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till DOCX Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i formatet PNG till fil i DOCX-format.
 url: /sv/php/conversion/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

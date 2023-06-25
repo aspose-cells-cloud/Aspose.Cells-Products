@@ -1,16 +1,16 @@
 ﻿---
-title:  PNG in TXT Konvertieren Sie API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in TXT Konvertieren Sie API in Perl
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um eine Datei im PNG-Format in eine TXT-Formatdatei zu konvertieren.
 url: /de/perl/conversion/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um PNG in TXT umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von PNG in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um PNG mithilfe von Perl online in TXT und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von PNG in TXT" h2="Perl-Bibliothek zum Konvertieren von PNG in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Perl in TXT und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in TXT in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in TXT ist eine komplexe Aufgabe. Alle Übergänge vom PNG- zum TXT-Format werden von unserem Perl-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PNG-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um PNG online in TXT-Dateien zu konvertieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in TXT ist eine komplexe Aufgabe. Alle Übergänge vom PNG- zum TXT-Format werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um PNG online in TXT-Dateien zu konvertieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von PNG in das TXT-Format" gistPath="" %}}
@@ -43,10 +43,10 @@ Das Konvertieren von Dateiformaten von PNG in TXT ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um PNG in TXT umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um PNG in TXT zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,10 @@
 ﻿---
-title:  Crypter la feuille de calcul locale avec un mot de passe dans le cloud
-description:  API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc. Chiffrez les feuilles de calcul locales avec un mot de passe par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Crypter la feuille de calcul locale avec un mot de passe avec Ruby in Cloud
+description:  API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc avec Ruby. Chiffrez les feuilles de calcul locales avec un mot de passe par le SDK Cells Cloud API pour Ruby.
 url: /fr/ruby/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour protéger les feuilles de calcul locales Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Ruby. Cette solution professionnelle protège Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe utilisant Ruby." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Ruby pour protéger les feuilles de calcul locales Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Ruby. Cette solution professionnelle protège Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe utilisant Ruby." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Protégez la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec un mot de passe - Ruby REST API" >}}

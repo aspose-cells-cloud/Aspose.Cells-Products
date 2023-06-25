@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez NUMBERS au format CSV API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format NUMBERS en tant que fichier au format CSV.
 url: /fr/go/saveas/numbers-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

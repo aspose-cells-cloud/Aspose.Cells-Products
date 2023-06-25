@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLTX как EMF API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLTX как файла формата EMF.
 url: /ru/nodejs/saveas/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить XLTX как EMF" h2="Библиотека NodeJS для сохранения XLTX как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как EMF и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xltx-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить XLTX как EMF" h2="Библиотека NodeJS для сохранения XLTX как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как EMF и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/xltx-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как EMF в NodeJS." >}}

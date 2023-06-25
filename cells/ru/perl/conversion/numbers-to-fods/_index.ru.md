@@ -1,6 +1,6 @@
 ﻿---
-title: НОМЕРА в FODS Преобразовать API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  НОМЕРА в FODS Преобразовать API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата FODS.
 url: /ru/perl/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

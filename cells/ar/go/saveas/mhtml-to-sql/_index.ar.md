@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ SQL API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق MHTML كملف تنسيق SQL.
 url: /ar/go/saveas/mhtml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование SXC в XLT API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата SXC в файл формата XLT.
 url: /ru/go/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

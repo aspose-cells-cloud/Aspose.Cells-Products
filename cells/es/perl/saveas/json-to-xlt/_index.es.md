@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde JSON como XLT API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato JSON como archivo de formato XLT.
 url: /es/perl/saveas/json-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLT в XML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLT в файл формата XML.
 url: /ru/nodejs/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

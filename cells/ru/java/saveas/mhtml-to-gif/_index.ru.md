@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как GIF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата MHTML в виде файла формата GIF.
 url: /ru/java/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/mhtml-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML в формате GIF в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде GIF — сложная задача. Все переходы форматов MHTML в GIF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения файлов MHTML в формате GIF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из MHTML в виде GIF — сложная задача. Все переходы форматов MHTML в GIF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения файлов MHTML в формате GIF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения MHTML в формате GIF" gistPath="" %}}

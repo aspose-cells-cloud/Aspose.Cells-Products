@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML إلى XLSB - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق MHTML إلى ملف بتنسيق XLSB.
 url: /ar/ruby/conversion/mhtml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'i MHTML'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go'yu kullanarak PNG biçimindeki dosyayı MHTML biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/go/conversion/png-to-mhtml/
 Dosya biçimlerini PNG'den MHTML'ye dönüştürmek karmaşık bir iştir. PNG'den MHTML formatına tüm geçişler, kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, PNG'i çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i MHTML biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PNG\'i MHTML formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

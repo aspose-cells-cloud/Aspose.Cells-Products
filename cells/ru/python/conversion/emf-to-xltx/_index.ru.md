@@ -1,6 +1,6 @@
 ﻿---
-title: EMF в XLTX Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  EMF в XLTX Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата EMF в файл формата XLTX.
 url: /ru/python/conversion/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/emf-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в XLTX в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов EMF в XLTX. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLTX.
+Преобразование форматов файлов из EMF в XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов EMF в XLTX. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования EMF в формат XLTX" gistPath="" %}}

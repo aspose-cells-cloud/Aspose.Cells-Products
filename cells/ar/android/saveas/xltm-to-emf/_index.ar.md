@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTM كـ EMF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق XLTM كملف بتنسيق EMF.
 url: /ar/android/saveas/xltm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTM كـ EMF" h2="مكتبة Android لحفظ XLTM كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTM كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltm-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTM كـ EMF" h2="مكتبة Android لحفظ XLTM كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTM كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltm-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بالشكل EMF في Android" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLSX como XML API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/saveas/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/saveas/xlsx-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLSX como XML en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XLSX como XML es una tarea compleja. Todas las transiciones de formato XLSX a XML se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLSX como archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XML perfecta.
+Guardar formatos de archivo de XLSX como XML es una tarea compleja. Todas las transiciones de formato XLSX a XML son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Swift es una solución profesional para guardar XLSX como archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XML perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar XLSX como formato XML" gistPath="" %}}

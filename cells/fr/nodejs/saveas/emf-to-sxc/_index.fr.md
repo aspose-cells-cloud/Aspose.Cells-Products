@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez EMF en tant que SXC API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format EMF en tant que fichier au format SXC.
 url: /fr/nodejs/saveas/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer EMF en tant que SXC" h2="Bibliothèque NodeJS pour enregistrer EMF en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format SXC et d\'autres formats de document en ligne à l\'aide de NodeJS." urlsection="saveas/emf-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer EMF en tant que SXC" h2="Bibliothèque NodeJS pour enregistrer EMF en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format SXC et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/emf-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier EMF en tant que SXC dans NodeJS" >}}

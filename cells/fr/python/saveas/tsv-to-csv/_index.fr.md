@@ -1,10 +1,10 @@
 ﻿---
-title:  Enregistrer TSV sous CSV API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer TSV sous CSV API pour Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format TSV en tant que fichier au format CSV.
 url: /fr/python/saveas/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer TSV au format CSV" h2="Bibliothèque Python pour enregistrer TSV au format CSV" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format CSV et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/tsv-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer TSV au format CSV" h2="Bibliothèque Python pour enregistrer TSV au format CSV" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format CSV et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/tsv-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TSV au format CSV au Python" >}}

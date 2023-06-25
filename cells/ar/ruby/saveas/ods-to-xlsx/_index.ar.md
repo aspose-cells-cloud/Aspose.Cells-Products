@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ODS كـ XLSX API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق ODS كملف بتنسيق XLSX.
 url: /ar/ruby/saveas/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

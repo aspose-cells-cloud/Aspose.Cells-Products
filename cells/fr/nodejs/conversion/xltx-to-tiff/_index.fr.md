@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX en TIFF Convertir API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: XLTX en TIFF Convertir API pour NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format XLTX en fichier au format TIFF.
 url: /fr/nodejs/conversion/xltx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/nodejs/conversion/xltx-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en TIFF dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLTX en TIFF est une tâche complexe. Toutes les transitions de format XLTX vers TIFF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLTX vers TIFF. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie TIFF parfaite.
+La conversion des formats de fichiers XLTX en TIFF est une tâche complexe. Toutes les transitions de format XLTX vers TIFF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLTX en fichiers TIFF. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie TIFF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir XLTX au format TIFF" gistPath="" %}}

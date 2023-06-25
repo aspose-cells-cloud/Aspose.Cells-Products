@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till EMF Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till EMF Konvertera API till PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i MHTML-format till fil i EMF-format.
 url: /sv/php/conversion/mhtml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

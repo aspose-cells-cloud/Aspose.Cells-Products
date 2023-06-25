@@ -1,6 +1,6 @@
 ﻿---
-title:  XML'i Perl için ODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XML'i Perl için ODS API olarak kaydedin
+description:  XML biçim dosyasını ODS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

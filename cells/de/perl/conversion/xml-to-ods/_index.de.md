@@ -1,16 +1,16 @@
 ﻿---
-title:  XML in ODS konvertieren API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XML zu ODS Konvertieren Sie API in Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer XML-Formatdatei in eine ODS-Formatdatei.
 url: /de/perl/conversion/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von XML in ODS" h2="Perl Bibliothek zum Konvertieren von XML in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XML in ODS und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von XML in ODS" h2="Perl-Bibliothek zum Konvertieren von XML in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in ODS und andere Dokumentformate mit Perl." urlsection="conversion/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in ODS in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Die Konvertierung von Dateiformaten von XML nach ODS ist eine komplexe Aufgabe. Alle XML-zu-ODS-Formatübergänge werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von XML- in ODS-Dateien. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von XML nach ODS ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum ODS-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in ODS-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von XML in das ODS-Format" gistPath="" %}}
@@ -44,9 +44,9 @@ Die Konvertierung von Dateiformaten von XML nach ODS ist eine komplexe Aufgabe. 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API zum Konvertieren von XML in ODS" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

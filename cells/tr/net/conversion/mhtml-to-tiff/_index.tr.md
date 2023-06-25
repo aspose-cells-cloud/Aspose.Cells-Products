@@ -1,6 +1,6 @@
 ﻿---
-title:  TIFF için MHTML'yi C# için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TIFF için MHTML'yi C# için API'e dönüştür
+description:  MHTML biçim dosyasını TIFF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

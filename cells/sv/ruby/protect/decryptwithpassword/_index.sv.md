@@ -1,10 +1,10 @@
 ﻿---
-title:  Dekryptera lokala kalkylblad med lösenord i molnet
+title: Dekryptera lokala kalkylblad med lösenord i molnet
 description: " Cloud API:er och SDK:er för Microsoft Excel och OpenOffice Calc-upplåsning. Kalkylark dekrypterar med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/ruby/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Ruby-bibliotek för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Decrypt REST API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Ruby. Denna professionella lösning dekrypterar lokala Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord med Ruby." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Ruby-bibliotek för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Decrypt REST API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Ruby. Denna professionella lösning dekrypterar lokala Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord med Ruby." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dekryptera lokalt Microsoft Excel och OpenOffice Calc kalkylblad med lösenord - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить MHTML как DIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить MHTML как DIF API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата MHTML в виде файла формата DIF.
 url: /ru/android/saveas/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

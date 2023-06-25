@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG a TIFF Convertir API por C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JPG a TIFF Convertir API por C#
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato JPG a un archivo de formato TIFF.
 url: /es/net/conversion/jpg-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

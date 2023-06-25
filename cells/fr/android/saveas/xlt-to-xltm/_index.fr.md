@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT sous XLTM API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLT en tant que fichier au format XLTM.
 url: /fr/android/saveas/xlt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

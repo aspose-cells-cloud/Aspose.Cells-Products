@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som XLSM API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara NUMBERS-formatfilen som XLSM-formatfil.
 url: /sv/ruby/saveas/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

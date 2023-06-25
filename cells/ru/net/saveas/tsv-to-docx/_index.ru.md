@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TSV как DOCX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата TSV в виде файла формата DOCX.
 url: /ru/net/saveas/tsv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как DOCX по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из TSV в виде DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения TSV в формате DOCX" gistPath="" %}}

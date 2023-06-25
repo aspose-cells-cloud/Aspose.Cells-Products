@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TSV a SQL API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato TSV a un archivo de formato SQL.
 url: /es/nodejs/conversion/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/conversion/tsv-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo TSV a SQL en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de TSV a SQL es una tarea compleja. Todas las transiciones de formato TSV a SQL se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TSV de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos TSV a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida SQL perfecta.
+Convertir formatos de archivo de TSV a SQL es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato TSV a SQL mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TSV de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos TSV a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida SQL perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para convertir TSV a formato SQL" gistPath="" %}}

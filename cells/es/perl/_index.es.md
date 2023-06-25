@@ -159,7 +159,7 @@ Funciones avanzadas de manipulación de hojas de cálculo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Resumir datos de ListObject o Table grandes con Pivot Table
+Resumir datos de ListObject o Table grandes con Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ Funciones avanzadas de manipulación de hojas de cálculo
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Eliminar OleObjects específicos o todos de la hoja de trabajo
+ Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">

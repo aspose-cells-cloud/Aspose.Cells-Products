@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как XLTX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата GIF в формате файла XLTX.
 url: /ru/nodejs/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XML som EMF API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XML-formatfil som EMF-fil.
 url: /sv/perl/saveas/xml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

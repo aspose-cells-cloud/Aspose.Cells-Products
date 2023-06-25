@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как SQL API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата NUMBERS в виде файла формата SQL.
 url: /ru/java/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/numbers-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SQL в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения NUMBERS в формате SQL" gistPath="" %}}

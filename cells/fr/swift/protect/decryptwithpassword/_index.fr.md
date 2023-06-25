@@ -1,6 +1,6 @@
 ﻿---
-title:  Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
-description: API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
+description:  API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/protect/decrypt-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" %}}
 <br/>
-Déchiffrer une feuille de calcul locale avec un mot de passe est une tâche complexe. Le décryptage d'une feuille de calcul locale avec des transitions de mot de passe est effectué par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Swift est une solution professionnelle pour décrypter les feuilles de calcul locales avec un mot de passe en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et un API parfait.
+Déchiffrer une feuille de calcul locale avec un mot de passe est une tâche complexe. Le décryptage d'une feuille de calcul locale avec des transitions de mot de passe est effectué par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Swift est une solution professionnelle pour déchiffrer des feuilles de calcul locales avec un mot de passe en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et un API parfait.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code Swift pour décrypter les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Unlock.swift" %}}

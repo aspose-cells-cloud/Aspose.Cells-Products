@@ -1,16 +1,16 @@
 ﻿---
-title:  XML-zu-MHTML-Konvertierung API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XML in MHTML konvertieren API für Go
+description:  Verwenden von Aspose.Cells Cloud SDK für Go zum Konvertieren einer XML-Formatdatei in eine MHTML-Formatdatei.
 url: /de/go/conversion/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML in MHTML zu konvertieren" h2="Gehen Sie zur Bibliothek, um XML in MHTML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XML in MHTML und andere Dokumentformate mit Go." urlsection="conversion/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML in MHTML zu konvertieren" h2="Gehen Sie zur Bibliothek, um XML in MHTML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in MHTML und andere Dokumentformate mit Go." urlsection="conversion/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in MHTML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML in MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu MHTML werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von XML- in MHTML-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte MHTML-Ausgabe.
+Das Konvertieren von Dateiformaten von XML in MHTML ist eine komplexe Aufgabe. Alle XML-zu-MHTML-Formatübergänge werden von unserem Go SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XML-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in MHTML-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XML in das MHTML-Format" gistPath="" %}}
@@ -48,10 +48,10 @@ Das Konvertieren von Dateiformaten von XML in MHTML ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Verwendung von Go API zum Konvertieren von XML in MHTML" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API zum Konvertieren von XML in MHTML" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

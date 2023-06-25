@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB'den PDF'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSB'den PDF'e Perl için API'i dönüştürün
+description:  XLSB formatındaki dosyayı PDF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/xlsb-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

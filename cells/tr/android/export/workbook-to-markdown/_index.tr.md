@@ -1,10 +1,10 @@
 ﻿---
 title:  Android API kullanarak ÇALIŞMA KİTABI'nı e-tablodan MARKDOWN'a aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/android/export/workbook-to-markdown/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı MARKDOWN dosyasına aktarmak için Android API" h2="WORKBOOK\'u MARKDOWN dosyasına aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak ÇALIŞMA KİTABI\'nı elektronik tablodan MARKDOWN formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-markdown/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA KİTABI\'nı MARKDOWN dosyasına aktarmak için Android API" h2="WORKBOOK\'u MARKDOWN dosyasına aktarmak için Android kütüphanesi" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak ÇALIŞMA KİTABI\'nı elektronik tablodan MARKDOWN formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/workbook-to-markdown/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Android\'de MARKDOWN format dosyasına aktarın" >}}

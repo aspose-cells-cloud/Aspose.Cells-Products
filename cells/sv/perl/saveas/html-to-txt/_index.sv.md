@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som TXT API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara HTML filformat som fil i TXT-format.
 url: /sv/perl/saveas/html-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den FODS'ye Dönüştür API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/png-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/conversion/png-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını C#\'de FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm PNG'den FODS formatına geçişler, C# SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, PNG'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını PNG'den FODS'ye dönüştürmek karmaşık bir iştir. PNG'den FODS biçimine geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, PNG'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PNG\'i FODS formatına dönüştürmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

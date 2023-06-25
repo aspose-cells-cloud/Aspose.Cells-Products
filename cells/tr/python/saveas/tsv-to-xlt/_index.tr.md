@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'yi Python için XLT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV biçim dosyasını XLT biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/python/saveas/tsv-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Python\'de XLT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini TSV'den XLT olarak kaydetmek karmaşık bir görevdir. Tüm TSV'den XLT formatına geçişler, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, TSV'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya biçimlerini TSV'den XLT olarak kaydetmek karmaşık bir iştir. Tüm TSV'den XLT formatına geçişler, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, TSV'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi XLT formatı olarak kaydetmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}

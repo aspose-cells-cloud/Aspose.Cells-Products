@@ -1,10 +1,10 @@
 ﻿---
 title:  ODS en JPG Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format ODS en fichier au format JPG.
 url: /fr/python/conversion/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir ODS en JPG" h2="Python bibliothèque pour convertir ODS en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir ODS en JPG et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/ods-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir ODS en JPG" h2="Python bibliothèque pour convertir ODS en JPG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir ODS en JPG et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/ods-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en JPG en Python" >}}

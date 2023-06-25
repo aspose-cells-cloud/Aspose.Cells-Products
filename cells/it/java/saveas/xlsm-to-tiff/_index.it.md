@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come TIFF API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato XLSM come file in formato TIFF.
 url: /it/java/saveas/xlsm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

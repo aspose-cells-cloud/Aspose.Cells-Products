@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar TXT como CSV API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar TXT como CSV API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato TXT como archivo de formato CSV.
 url: /es/python/saveas/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

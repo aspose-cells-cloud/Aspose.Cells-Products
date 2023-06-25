@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى JPG - تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSX إلى ملف بتنسيق JPG.
 url: /ar/perl/conversion/xlsx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

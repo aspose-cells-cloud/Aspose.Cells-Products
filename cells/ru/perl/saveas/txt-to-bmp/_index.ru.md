@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как BMP API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата TXT как файла формата BMP.
 url: /ru/perl/saveas/txt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

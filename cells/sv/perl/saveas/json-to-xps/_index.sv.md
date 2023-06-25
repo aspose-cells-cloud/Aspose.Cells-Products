@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som XPS API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara fil i JSON-format som fil i XPS-format.
 url: /sv/perl/saveas/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

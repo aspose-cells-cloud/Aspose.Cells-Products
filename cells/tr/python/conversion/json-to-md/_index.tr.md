@@ -1,6 +1,6 @@
 ﻿---
 title:  Python için JSON'dan MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını MD biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/json-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

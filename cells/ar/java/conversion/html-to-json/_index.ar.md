@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى JSON تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق HTML إلى ملف بتنسيق JSON.
 url: /ar/java/conversion/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/java/conversion/html-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى JSON في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى JSON بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. مكتبتنا Java هي حل احترافي لتحويل HTML إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى JSON بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل HTML إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل HTML إلى تنسيق JSON" gistPath="" %}}

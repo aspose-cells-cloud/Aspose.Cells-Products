@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i Ruby için PPTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını PPTX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/bmp-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="BMP dosyasını Ruby\'de PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya formatlarını PPTX olarak kaydetmek karmaşık bir iştir. BMP'den PPTX formatına tüm geçişler, kaynak BMP elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, BMP'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+BMP'den dosya formatlarını PPTX olarak kaydetmek karmaşık bir iştir. BMP'den PPTX biçimine tüm geçişler, kaynak BMP elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, BMP'i çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i PPTX formatı olarak kaydetmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

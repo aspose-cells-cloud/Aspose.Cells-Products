@@ -1,37 +1,37 @@
 ﻿---
-title:  REST API 为 Android 构建 Excel 应用程序
-description: 用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换工作表的 Android REST SDK
+title: REST API 构建 Excel Android 应用程序
+description: Android REST SDK 用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换工作表
 weight: 20
 url: /zh/android
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="构建电子表格处理 Android 应用程序 via REST API" h2="用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换应用程序的 Android REST SDK。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="构建电子表格处理 Android 应用程序 via REST API" h2="Android REST SDK 用于创建基于云的 Excel 和 OpenOffice 电子表格、合并、拆分、查看、加密和转换应用程序。" logoImageSrc="/headers/aspose_cells-for-android.svg" pfName="Aspose.Cells" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="SDK for Android" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-android.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for Android 助您开发 Microsoft Excel （XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 电子表格处理应用程序，适用于 Android 设备。 Aspose.Cells 适用于 Android 的 Cloud SDK 根据 MIT 许可提供，并基于 Aspose.Cells REST API。</p>
-<p>Aspose.Cells 适用于 Android 的 Cloud SDK 使您的 Android 代码能够访问云电子表格文档并操作工作簿、工作表、单个单元格、行和列。您的 Android 程序将能够从工作表图片中提取条形码、应用自动过滤器（日期过滤器、图标过滤器、动态过滤器）、访问图表、应用条件格式以及以编程方式配置电子表格页面设置。</p>
-<p>Aspose.Cells 适用于 Android 的 Cloud SDK 允许您在 Excel 和 ODS 工作表中使用 OleObjects、ListObjects、数据透视表、范围、形状和任务，而无需安装任何第三方软件。</p>
-<p>Aspose.Cells 适用于 Android 的 Cloud SDK 还可以帮助您为基于 Android 的移动设备创建电子表格转换器应用程序，因为它允许将 Microsoft Excel、OpenOffice、SpreadsheetML、CSV、TSV、TXT（TabDelimited）、HTML、MHTML、SXC、FODS 转换为其他支持的格式，例如 PDF、XPS、TIFF、SVG、DIF 和 MD (Markdown)。</p>
+<p>Aspose.Cells Cloud SDK for Android 可帮助您开发适用于 Android 设备的 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 电子表格处理应用程序。 Aspose.Cells 适用于 Android 的 Cloud SDK 根据 MIT 许可证提供，基于 Aspose.Cells REST API。</p>
+<p>Aspose.Cells Cloud SDK for Android 使您的 Android 代码能够访问云电子表格文档并操作工作簿、工作表、单个单元格、行和列。您的 Android 程序将能够从工作表图片中提取条形码、应用自动过滤器（日期过滤器、图标过滤器、动态过滤器）、访问图表、应用条件格式以及以编程方式配置电子表格页面设置。</p>
+<p>Aspose.Cells Android 版 Cloud SDK 允许您在 Excel 和 ODS 工作表中使用 OleObjects、ListObjects、数据透视表、范围、形状和任务，而无需安装任何第三方软件。</p>
+<p>Aspose.Cells Cloud SDK for Android 还可以帮助您为基于 Android 的移动设备创建电子表格转换器应用程序，因为它允许将 Microsoft Excel、OpenOffice、SpreadsheetML、CSV、TSV、TXT (TabDelimited)、HTML、MHTML、SXC、FODS 转换为其他支持的格式，例如 PDF、XPS、TIFF、SVG、DIF 和 MD (Markdown)。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells Cloud 可以执行所有电子表格操作任务。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells 云可以执行所有电子表格操作任务。" >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-table"> </i>概述</header><ul><li>使用表格</li>
-<li>使用细胞</li>
+<li>与细胞一起工作</li>
 <li>使用图表</li>
 <li>使用超链接</li>
 <li>使用数据透视表</li>
-<li>使用图片和形状</li>
+<li>处理图片和形状</li>
 <li>使用验证</li>
 </ul></div>
 <!--/right--></div>
@@ -48,10 +48,10 @@ url: /zh/android
 <li><b>开发办公室：</b>消耗臭氧层物质</li>
 <li><b>电子表格ML：</b> XML</li>
 <li><b>文本：</b> CSV、TSV、TXT（制表符分隔）</li>
-<li><b>网址：</b> HTML, MHTML</li>
+<li><b>网址：</b> HTML，MHTML</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>仅输入</header><ul><li>SXC, 食物</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>仅输入</header><ul><li>SXC、FODS</li>
 </ul><header><i class="fa  fa-mail-forward"> </i>仅输出</header><ul><li>DIF、PDF、XPS、TIFF、SVG、MD（降价）</li>
 </ul></div>
 <!--/right--></div>
@@ -84,7 +84,7 @@ url: /zh/android
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-添加具有列表自定义条件的过滤器
+添加具有自定义列表条件的过滤器
     </p>
    </div>
    <div class="col-lg-4">
@@ -105,7 +105,7 @@ url: /zh/android
     <em class="fa fa-copy ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-在工作表中添加、更新和删除图表
+添加、更新和删除工作表中的图表
     </p>
    </div>
    <div class="col-lg-4">
@@ -126,7 +126,7 @@ url: /zh/android
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-添加或删除条件格式的单元格区域
+添加或删除单元格区域以进行条件格式设置
     </p>
    </div>
    <div class="col-lg-4">
@@ -140,7 +140,7 @@ url: /zh/android
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-在Excel文件的指定位置添加一个ListObject
+在Excel文件的指定位置添加ListObject
     </p>
    </div>
    <div class="col-lg-4">
@@ -154,7 +154,7 @@ url: /zh/android
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将 ListObject 或表格转换为一系列单元格
+将 ListObject 或表格转换为单元格范围
     </p>
    </div>
    <div class="col-lg-4">
@@ -182,14 +182,14 @@ url: /zh/android
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-插入或删除，水平或垂直分页符
+插入或删除、水平或垂直分页符
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-操纵页面设置、页眉和页脚
+操作页面设置、页眉和页面设置页脚
     </p>
    </div>
    <div class="col-lg-4">
@@ -232,38 +232,38 @@ url: /zh/android
 开始使用 Excel 电子表格处理 SDK
     </h2>
     <p>
-为了开始使用 Aspose.Cells Cloud SDK for Android，您不需要安装任何东西。您需要做的就是在
+为了开始使用 Aspose.Cells Cloud SDK for Android，您无需安装任何东西。您所需要做的就是创建一个帐户
      <a href="https://dashboard.aspose.cloud/#/apps">
-Aspose 云
+云 Aspose
      </a>
-并获取您的申请信息。一旦你有了 App SID &amp;密钥，您可以在任何支持 REST API 的平台上使用 Aspose.Cells Cloud SDK for Android。 Aspose.Cells 适用于 Android 的 Cloud SDK 为您提供创建、编辑和转换电子表格的所有功能。它还允许您从电子表格中提取数据以进行进一步处理或存储。
+并获取您的申请信息。一旦您获得了应用程序 SID 和key，您就可以在任何支持 REST API 的平台上使用 Aspose.Cells Cloud SDK for Android。 Aspose.Cells Cloud SDK for Android 为您提供创建、编辑和转换电子表格的所有功能。它还允许您从电子表格中提取数据以进行进一步处理或存储。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-处理工作簿 via Cloud SDK
+处理工作簿 via 云SDK
     </h2>
     <p>
- Aspose.Cells 适用于 Android 的 Cloud SDK 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度，将数据导入工作簿，计算工作簿中的所有公式，通过提供精确策略等设置公式计算设置，使用智能标记，将工作簿从请求内容转换为另一种格式，应用密码以允许内容修改。
+ Aspose.Cells Cloud SDK for Android 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Cloud SDK 处理工作表
+用于处理工作表的 Cloud SDK
     </h2>
     <p>
-使用 Aspose.Cells Cloud SDK for Android，您可以删除工作表中的特定行或所有行，按单元格名称获取工作表单元格数据或单元格样式，按索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格，复制工作表列和行，对工作表行和列进行分组，隐藏工作表行和列，设置工作表列和行样式，将 HTMLSTRING 值设置到单元格中，设置单元格范围值并修改许多其他工作表设置。
+使用Aspose.Cells Cloud SDK for Android，您可以删除工作表中的特定行或所有行，按单元格名称获取工作表单元格数据或单元格样式，按索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格，复制工作表列和行，对工作表行和列进行分组，隐藏工作表行和列，设置工作表列和行样式，将 HTMLSTRING 值设置到单元格中，设置单元格范围值并修改许多其他工作表设置。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-利用数据透视表和数据透视表的力量范围
+利用数据透视表和数据透视表的强大功能范围
     </h2>
     <p>
-Aspose.Cells 适用于 Android 的 Cloud SDK 允许您将数据透视表添加到工作表中、在数据透视表中添加或删除数据透视字段、添加或删除数据透视表索引的数据透视过滤器、更新数据透视表的单元格样式以及将数据透视表的数据计算到单元格。
+Aspose.Cells Cloud SDK for Android 允许您将数据透视表添加到工作表中、在数据透视表中添加或删除数据透视表字段、添加或删除数据透视表索引的数据透视过滤器、更新数据透视表的单元格样式以及计算数据透视表的数据到单元格。
     </p>
     <p>
-Aspose.Cells 适用于 Android 的 Cloud SDK 还可用于通过范围名称或行列索引获取范围内的单元格列表、设置范围的列宽、将一系列单元格合并为一个单元格、将当前范围移动到目标范围、设置在单元格范围周围勾勒边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，并在工作表中复制范围。
+Aspose.Cells Cloud SDK for Android 还可用于通过范围名称或行列索引获取范围内的单元格列表、设置范围的列宽、将范围内的单元格合并为单个单元格、将当前范围移动到目标范围、设置围绕一系列单元格绘制边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，然后在工作表中复制范围。
     </p>
    </div>
   </div>
@@ -277,7 +277,7 @@ Aspose.Cells 适用于 Android 的 Cloud SDK 还可用于通过范围名称或�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-android" >}}
-{{< blocks/products/pf/slr-element name="API 参考资料" href="https://apireference.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://apireference.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -287,7 +287,7 @@ Aspose.Cells 适用于 Android 的 Cloud SDK 还可用于通过范围名称或�
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells Cloud SDK for Android？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells Android 云 SDK？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="安全" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

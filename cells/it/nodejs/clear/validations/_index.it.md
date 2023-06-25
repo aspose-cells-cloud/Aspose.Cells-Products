@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione delle convalide su Microsoft 
 url: /it/nodejs/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convalide chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

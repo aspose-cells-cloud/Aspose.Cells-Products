@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till HTML Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera BMP filformat till HTML filformat.
 url: /sv/php/conversion/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

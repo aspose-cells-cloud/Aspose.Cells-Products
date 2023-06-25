@@ -1,6 +1,6 @@
 ﻿---
-title:  Ruby için BMP'den GIF'e Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Ruby için BMP'den GIF'e Dönüştür API
+description:  BMP formatındaki dosyayı GIF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

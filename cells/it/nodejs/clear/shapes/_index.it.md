@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le forme su Microsoft Excel e OpenOf
 url: /it/nodejs/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le forme sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le forme sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Forme chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

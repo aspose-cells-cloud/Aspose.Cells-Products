@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare colonne vuote su Microsoft Excel e O
 url: /it/ruby/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le colonne vuote nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Ruby. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le colonne vuote nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Ruby. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

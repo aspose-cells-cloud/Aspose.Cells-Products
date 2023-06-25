@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en ODS API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format JPG en fichier au format ODS.
 url: /fr/perl/conversion/jpg-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

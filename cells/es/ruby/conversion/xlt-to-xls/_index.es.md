@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT a XLS API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLT a un archivo de formato XLS.
 url: /es/ruby/conversion/xlt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/conversion/xlt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XLT a XLS en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLT a XLS es una tarea compleja. Todas las transiciones de formato XLT a XLS se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLT a XLS en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLS perfecta.
+Convertir formatos de archivo de XLT a XLS es una tarea compleja. Todas las transiciones de formato XLT a XLS son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLT a XLS en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir formato XLT a XLS" gistPath="" %}}

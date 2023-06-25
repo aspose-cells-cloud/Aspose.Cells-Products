@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как ODS API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата MHTML в качестве файла формата ODS.
 url: /ru/java/saveas/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/mhtml-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как ODS в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде ODS — сложная задача. Все переходы между форматами MHTML и ODS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения MHTML в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из MHTML в виде ODS — сложная задача. Все переходы формата MHTML в формат ODS выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения MHTML в виде файлов ODS в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения MHTML в формате ODS" gistPath="" %}}

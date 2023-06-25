@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как MD API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSM в виде файла формата MD.
 url: /ru/ruby/saveas/xlsm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/xlsm-to-md/
 Сохранение форматов файлов из XLSM в виде MD — сложная задача. Все переходы из формата XLSM в формат MD выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для сохранения XLSM в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLSM в формате MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLSM в формате MD" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

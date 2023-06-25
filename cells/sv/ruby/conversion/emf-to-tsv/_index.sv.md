@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till TSV Convert API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera EMF filformat till TSV format fil.
 url: /sv/ruby/conversion/emf-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

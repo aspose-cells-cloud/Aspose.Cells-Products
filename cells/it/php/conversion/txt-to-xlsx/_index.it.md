@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da TXT a XLSX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato TXT in un file in formato XLSX.
 url: /it/php/conversion/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

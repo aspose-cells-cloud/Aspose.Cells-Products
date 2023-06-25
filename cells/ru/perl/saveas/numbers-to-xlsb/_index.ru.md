@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить НОМЕРА как XLSB API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить НОМЕРА как XLSB API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата NUMBERS в виде файла формата XLSB.
 url: /ru/perl/saveas/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

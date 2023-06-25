@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى CSV تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق TSV إلى ملف تنسيق CSV.
 url: /ar/python/conversion/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

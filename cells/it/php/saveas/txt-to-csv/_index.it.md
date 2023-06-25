@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva TXT come CSV API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva TXT come CSV API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato TXT come file in formato CSV.
 url: /it/php/saveas/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

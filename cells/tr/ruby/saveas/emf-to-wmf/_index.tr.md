@@ -1,10 +1,10 @@
 ﻿---
 title:  Ruby için EMF'i WMF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını WMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/emf-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i WMF olarak kaydetmek için Ruby API" h2="EMF\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak çevrimiçi olarak EMF\'i WMF ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i WMF olarak kaydetmek için Ruby API" h2="EMF\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak EMF\'i WMF ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını Ruby\'de WMF olarak kaydedin" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTM как DOCX API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLTM в виде файла формата DOCX.
 url: /ru/python/saveas/xltm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/xltm-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как DOCX по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде DOCX — сложная задача. Все переходы из формата XLTM в формат DOCX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для сохранения XLTM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLTM в виде DOCX — сложная задача. Все переходы из формата XLTM в формат DOCX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для сохранения XLTM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XLTM в формате DOCX" gistPath="" %}}

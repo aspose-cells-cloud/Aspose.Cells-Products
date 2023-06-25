@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JSON как GIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JSON в виде файла формата GIF.
 url: /ru/android/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения JSON в формате GIF" h2="Библиотека Android для сохранения JSON в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения JSON в виде GIF и других форматов документов онлайн с помощью Android." urlsection="saveas/json-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения JSON в формате GIF" h2="Библиотека Android для сохранения JSON в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения JSON в формате GIF и других форматов документов онлайн с помощью Android." urlsection="saveas/json-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение файла JSON в формате GIF в Android" >}}

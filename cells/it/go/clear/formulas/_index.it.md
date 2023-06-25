@@ -4,7 +4,7 @@ description: API cloud e SDK per la cancellazione delle formule su Microsoft Exc
 url: /it/go/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai Cancella per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le formule nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Go. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai Cancella per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le formule nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Go. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Chiare formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Go REST API" >}}

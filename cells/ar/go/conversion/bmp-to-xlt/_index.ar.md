@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP إلى XLT تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLT.
 url: /ar/go/conversion/bmp-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

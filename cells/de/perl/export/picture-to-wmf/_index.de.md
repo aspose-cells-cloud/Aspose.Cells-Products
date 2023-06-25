@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie PICTURE aus der Tabelle mit Perl API nach WMF
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie BILD aus der Tabellenkalkulation nach WMF mit Perl API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/perl/export/picture-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren von PICTURE in eine WMF-Datei" h2="Perl Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Perl zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE-Dateien in das WMF-Format aus Tabellenkalkulationen online mit Perl." urlsection="export/picture-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um BILD in eine WMF-Datei zu exportieren" h2="Perl-Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Perl zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine WMF-Formatdatei zu exportieren, indem Sie Perl verwenden." urlsection="export/picture-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Datei im WMF-Format in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die WMF-Formatdatei Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren von PICTURE-Objekten in eine WMF-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von BILD zu WMF-Formatübergängen wird von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BILD-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im WMF-Format zu exportieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
+Das Exportieren eines PICTURE-Objekts aus einer Tabellenkalkulation in eine WMF-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von PICTURE in das WMF-Format werden von unserem SDK Perl durchgeführt, wobei der Hauptstruktur- und logische Inhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Bibliothek Perl ist eine professionelle Lösung zum Online-Export von PICTURE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von PICTURE in das WMF-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von PICTURE aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -37,10 +37,10 @@ Das Exportieren von PICTURE-Objekten in eine WMF-Datei aus einer Tabelle ist ein
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um BILD nach WMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um PICTURE nach WMF zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как PNG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата NUMBERS как файла формата PNG.
 url: /ru/net/saveas/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/numbers-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как PNG в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как PNG — сложная задача. Все преобразования форматов NUMBERS в PNG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов PNG онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение форматов файлов из NUMBERS как PNG — сложная задача. Все преобразования форматов NUMBERS в PNG выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов PNG онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения NUMBERS в формате PNG" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP إلى EMF قم بتحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق BMP إلى ملف بتنسيق EMF.
 url: /ar/go/conversion/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

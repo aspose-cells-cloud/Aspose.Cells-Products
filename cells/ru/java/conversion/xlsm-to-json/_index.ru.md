@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLSM в JSON API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSM в файл формата JSON.
 url: /ru/java/conversion/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSM в JSON" h2="Java библиотека для преобразования XLSM в JSON" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSM в JSON и другие форматы документов с использованием Java." urlsection="conversion/xlsm-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSM в JSON" h2="Java библиотека для преобразования XLSM в JSON" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSM в JSON и другие форматы документов с использованием Java." urlsection="conversion/xlsm-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в JSON в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в JSON — сложная задача. Все переходы между форматами XLSM и JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSM в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из XLSM в JSON — сложная задача. Все переходы XLSM в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSM в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSM в формат JSON" gistPath="" %}}

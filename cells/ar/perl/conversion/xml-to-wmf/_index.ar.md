@@ -1,6 +1,6 @@
 ﻿---
-title: تحويل XML إلى WMF API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  تحويل XML إلى WMF API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XML إلى ملف بتنسيق WMF.
 url: /ar/perl/conversion/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

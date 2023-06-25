@@ -1,6 +1,6 @@
 ﻿---
-title:  تحويل ODS إلى JSON API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  ODS to JSON Convert API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق ODS إلى ملف بتنسيق JSON.
 url: /ar/android/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

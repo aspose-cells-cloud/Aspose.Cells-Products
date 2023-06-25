@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i PNG olarak kaydet C# için API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: EMF biçim dosyasını PNG biçim dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

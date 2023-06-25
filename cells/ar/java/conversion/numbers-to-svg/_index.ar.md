@@ -1,10 +1,10 @@
 ﻿---
 title:  الأرقام إلى SVG تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق SVG.
 url: /ar/java/conversion/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى SVG" h2="مكتبة Java لتحويل الأرقام إلى SVG" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى SVG" h2="مكتبة Java لتحويل الأرقام إلى SVG" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل الأرقام إلى SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى SVG في Java" >}}

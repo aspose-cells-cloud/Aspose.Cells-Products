@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/perl/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Perl مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Perl. هذا الحل الاحترافي يمسح الجداول المحورية على Excel Microsoft المحلي و OpenOffice Calc باستخدام Perl." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Perl مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Perl. هذا الحل الاحترافي يمسح الجداول المحورية على Excel Microsoft المحلي و OpenOffice Calc باستخدام Perl." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Perl REST API" >}}

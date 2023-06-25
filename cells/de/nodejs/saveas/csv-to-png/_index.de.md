@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie CSV als PNG API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im CSV-Format als Datei im Format PNG zu speichern.
 url: /de/nodejs/saveas/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von CSV als PNG" h2="NodeJS-Bibliothek zum Speichern von CSV als PNG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um CSV als PNG und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/csv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um CSV als PNG zu speichern" h2="NodeJS-Bibliothek zum Speichern von CSV als PNG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als PNG und anderen Dokumentformaten mit NodeJS." urlsection="saveas/csv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als PNG in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus CSV als PNG ist eine komplexe Aufgabe. Alle Formatübergänge von CSV zu PNG werden von unserem NodeJS SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-CSV-Tabelle beibehalten werden. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um CSV als PNG-Dateien online zu speichern. Dieses Cloud-SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Speichern von Dateiformaten aus CSV als PNG ist eine komplexe Aufgabe. Alle CSV-Formatübergänge in das PNG-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um CSV als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von CSV im PNG-Format" gistPath="" %}}
@@ -34,9 +34,9 @@ Das Speichern von Dateiformaten aus CSV als PNG ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um CSV als PNG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

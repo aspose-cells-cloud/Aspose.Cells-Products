@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG a WMF Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: PNG a WMF Convertir API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato PNG a un archivo de formato WMF.
 url: /es/android/conversion/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV in CSV Converti API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato TSV in un file in formato CSV.
 url: /it/php/conversion/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

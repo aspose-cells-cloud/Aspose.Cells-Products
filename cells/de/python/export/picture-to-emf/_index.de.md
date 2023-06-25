@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie PICTURE nach EMF aus der Tabelle mit Python API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie BILD aus der Tabellenkalkulation nach EMF mit Python API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/python/export/picture-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Exportieren von BILD in die Datei EMF" h2="Python-Bibliothek zum Exportieren von BILD in die EMF-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Python zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE-Dateien in das Format EMF aus Tabellenkalkulationen online mit Python." urlsection="export/picture-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um BILD in die Datei EMF zu exportieren" h2="Python-Bibliothek zum Exportieren von BILD in die Datei EMF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Python zu exportieren. Dies ist eine professionelle Lösung, um PICTURE online aus einer Tabellenkalkulation in eine Datei im EMF-Format zu exportieren, indem Sie Python verwenden." urlsection="export/picture-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei EMF in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts in die Datei EMF aus der Tabelle ist eine komplexe Aufgabe. Der Export von BILD zu EMF-Formatübergängen wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BILD-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im EMF-Format zu exportieren. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte EMF-Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei EMF ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das EMF-Format wird von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format EMF zu exportieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von PICTURE in das EMF-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Exportieren von PICTURE in das Format EMF aus der Tabellenkalkulation" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -37,10 +37,10 @@ Das Exportieren des PICTURE-Objekts in die Datei EMF aus der Tabelle ist eine ko
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um BILD nach EMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um PICTURE nach EMF zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

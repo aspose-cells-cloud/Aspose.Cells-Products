@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLT как WMF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLT как WMF API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLT в виде файла формата WMF.
 url: /ru/python/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

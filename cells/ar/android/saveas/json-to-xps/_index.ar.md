@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ JSON باسم XPS API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JSON كملف بتنسيق XPS.
 url: /ar/android/saveas/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JSON كـ XPS" h2="مكتبة Android لحفظ JSON باسم XPS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ JSON كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JSON كـ XPS" h2="مكتبة Android لحفظ JSON باسم XPS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JSON كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم XPS في Android" >}}

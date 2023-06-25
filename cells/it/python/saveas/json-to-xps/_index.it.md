@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JSON come XPS API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato JSON come file in formato XPS.
 url: /it/python/saveas/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

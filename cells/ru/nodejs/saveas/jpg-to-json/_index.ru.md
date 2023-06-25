@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как JSON API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JPG в виде файла формата JSON.
 url: /ru/nodejs/saveas/jpg-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JPG в формате JSON" h2="Библиотека NodeJS для сохранения JPG как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JPG в формате JSON и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/jpg-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JPG в формате JSON" h2="Библиотека NodeJS для сохранения JPG как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JPG как JSON и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/jpg-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как JSON в NodeJS" >}}

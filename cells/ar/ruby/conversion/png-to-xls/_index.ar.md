@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى XLS تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLS.
 url: /ar/ruby/conversion/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/png-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف PNG إلى XLS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى تنسيق XLS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLS مثالي.
+يعد تحويل تنسيقات الملفات من PNG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى XLS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل PNG إلى تنسيق XLS" gistPath="" %}}

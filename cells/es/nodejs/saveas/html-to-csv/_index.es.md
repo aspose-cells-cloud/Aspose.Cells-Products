@@ -1,6 +1,6 @@
 ﻿---
-title: Guarde HTML como CSV API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  Guarde HTML como CSV API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato HTML como archivo de formato CSV.
 url: /es/nodejs/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez TSV sous XLTM API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format TSV en tant que fichier au format XLTM.
 url: /fr/php/saveas/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer TSV sous XLTM" h2="Bibliothèque PHP pour enregistrer TSV sous XLTM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format XLTM et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer TSV sous XLTM" h2="Bibliothèque PHP pour enregistrer TSV sous XLTM" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format XLTM et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV sous XLTM dans PHP" >}}

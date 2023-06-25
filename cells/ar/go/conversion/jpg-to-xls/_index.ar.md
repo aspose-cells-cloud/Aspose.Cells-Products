@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى XLS - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLS.
 url: /ar/go/conversion/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/go/conversion/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى XLS في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى XLS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLS مثالي.
+يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى XLS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل JPG إلى تنسيق XLS" gistPath="" %}}

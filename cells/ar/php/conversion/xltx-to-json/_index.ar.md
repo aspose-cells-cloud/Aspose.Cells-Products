@@ -1,10 +1,10 @@
 ﻿---
-title:  XLTX إلى JSON تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTX إلى JSON تحويل API إلى PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLTX إلى ملف بتنسيق JSON.
 url: /ar/php/conversion/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLTX إلى JSON" h2="PHP مكتبة لتحويل XLTX إلى JSON" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل XLTX إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xltx-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLTX إلى JSON" h2="PHP مكتبة لتحويل XLTX إلى JSON" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLTX إلى JSON وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xltx-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى JSON في PHP" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till GIF Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera XLSX-formatfil till GIF-formatfil.
 url: /sv/android/conversion/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

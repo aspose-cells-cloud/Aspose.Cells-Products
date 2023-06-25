@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG à FODS Convertir API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Java pour convertir le fichier au format PNG en fichier au format FODS.
 url: /fr/java/conversion/png-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT إلى CSV - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLT إلى ملف بتنسيق CSV.
 url: /ar/ruby/conversion/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

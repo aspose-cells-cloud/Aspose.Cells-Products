@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'i Perl için SQL API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını SQL biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/perl/saveas/xltx-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Perl\'de SQL olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLTX'ten SQL olarak kaydetmek karmaşık bir görevdir. Tüm XLTX'ten SQL formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, XLTX'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya biçimlerini XLTX'ten SQL olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten SQL formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, XLTX'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i SQL formatı olarak kaydetmek için REST API kullanan Perl\'deki kod örneği" gistPath="" %}}

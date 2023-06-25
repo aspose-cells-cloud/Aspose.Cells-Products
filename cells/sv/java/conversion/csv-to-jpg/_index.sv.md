@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV till JPG Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK for Java för att konvertera en CSV-fil till en JPG-fil.
 url: /sv/java/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

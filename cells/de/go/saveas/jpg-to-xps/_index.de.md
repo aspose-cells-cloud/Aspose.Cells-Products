@@ -1,19 +1,19 @@
 ﻿---
-title:  Speichern Sie JPG als XPS API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  Speichern Sie JPG unter XPS API für Go
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im JPG-Format als Datei im Format XPS zu speichern.
 url: /de/go/saveas/jpg-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um JPG als XPS zu speichern" h2="Gehen Sie in die Bibliothek, um JPG als XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um JPG als XPS und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/jpg-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um JPG als XPS zu speichern" h2="Gehen Sie zur Bibliothek, um JPG unter XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um JPG als XPS und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/jpg-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei als XPS in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JPG-Datei unter dem Namen XPS in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus JPG als XPS ist eine komplexe Aufgabe. Alle Formatübergänge von JPG zu XPS werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um JPG als XPS-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Speichern von Dateiformaten aus JPG als XPS ist eine komplexe Aufgabe. Alle JPG-Formatübergänge in das XPS-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um JPG-Dateien im Format XPS online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von JPG im XPS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von JPG im Format XPS" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -32,8 +32,8 @@ Das Speichern von Dateiformaten aus JPG als XPS ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um JPG als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

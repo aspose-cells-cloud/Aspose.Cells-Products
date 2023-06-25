@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ HTML API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق EMF كملف بتنسيق HTML.
 url: /ar/python/saveas/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

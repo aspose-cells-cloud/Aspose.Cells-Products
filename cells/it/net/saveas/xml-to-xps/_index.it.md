@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XML come XPS API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato XML come file in formato XPS.
 url: /it/net/saveas/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

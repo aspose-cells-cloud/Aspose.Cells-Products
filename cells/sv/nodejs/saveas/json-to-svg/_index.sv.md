@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som SVG API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara JSON-formatfilen som SVG-formatfil.
 url: /sv/nodejs/saveas/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

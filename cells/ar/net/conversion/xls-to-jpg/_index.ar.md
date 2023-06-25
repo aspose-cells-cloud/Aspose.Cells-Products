@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى JPG - تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLS إلى ملف بتنسيق JPG.
 url: /ar/net/conversion/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir CSV en SXC API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  CSV en SXC Convertir API pour Go
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format CSV en fichier au format SXC.
 url: /fr/go/conversion/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JSON en XLSM API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format JSON en fichier au format XLSM.
 url: /fr/android/conversion/json-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

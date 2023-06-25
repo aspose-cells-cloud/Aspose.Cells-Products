@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TSV как XLTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата TSV как файла формата XLTX.
 url: /ru/go/saveas/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/tsv-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV как XLTX — сложная задача. Все переходы формата TSV в формат XLTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения файлов TSV в формате XLTX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из TSV как XLTX — сложная задача. Все переходы форматов TSV в XLTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения файлов TSV в формате XLTX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения TSV в формате XLTX" gistPath="" %}}

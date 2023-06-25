@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK nach XPS aus der Tabelle mit Perl API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie WORKBOOK aus der Tabelle nach XPS mit Perl API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/perl/export/workbook-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren von WORKBOOK in die Datei XPS" h2="Perl-Bibliothek zum Exportieren von WORKBOOK in XPS-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Perl zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im XPS-Format aus Tabellenkalkulation online mit Perl." urlsection="export/workbook-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren der Arbeitsmappe in die Datei XPS" h2="Perl-Bibliothek zum Exportieren von WORKBOOK in die Datei XPS" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Perl zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine XPS-Formatdatei aus einer Tabellenkalkulation online mit Perl." urlsection="export/workbook-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die Formatdatei XPS in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKBOOK-Objekts in die Datei XPS aus der Tabelle ist eine komplexe Aufgabe. Der Export von WORKBOOK in XPS-Formatübergänge wird von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKBOOK-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um WORKBOOK-Objekte online in Dateien im XPS-Format zu exportieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei XPS ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKBOOK in das XPS-Format werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im XPS-Format. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von WORKBOOK in das Format XPS aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von WORKBOOK in das XPS-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -38,9 +38,9 @@ Das Exportieren des WORKBOOK-Objekts in die Datei XPS aus der Tabelle ist eine k
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um WORKBOOK nach XPS zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

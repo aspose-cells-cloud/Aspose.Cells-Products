@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование PNG в XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата PNG в файл формата XML.
 url: /ru/java/conversion/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования PNG в XML" h2="Java библиотека для преобразования PNG в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования PNG в XML и другие форматы документов онлайн с использованием Java." urlsection="conversion/png-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования PNG в XML" h2="библиотека Java для преобразования PNG в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования PNG в XML и другие форматы документов онлайн с использованием Java." urlsection="conversion/png-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в XML в Java" >}}

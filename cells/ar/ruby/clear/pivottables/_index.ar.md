@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/ruby/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لمسح الجداول المحورية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="روبي مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بإزالة الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لمسح الجداول المحورية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="روبي مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بإزالة الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}

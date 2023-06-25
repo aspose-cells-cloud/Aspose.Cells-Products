@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON إلى PDF حوّل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JSON إلى PDF حوّل API إلى C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق JSON إلى ملف بتنسيق PDF.
 url: /ar/net/conversion/json-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

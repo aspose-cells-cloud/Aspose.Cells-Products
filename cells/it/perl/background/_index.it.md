@@ -1,14 +1,14 @@
 ﻿---
-title:  Sfondo
-description: Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Impostare lo sfondo con Perl
+description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel con Perl. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/perl/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Sfondo" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Impostare lo sfondo con Perl" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel con Perl. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Collegamenti di estensione in background" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Impostare lo sfondo con i collegamenti di estensione Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

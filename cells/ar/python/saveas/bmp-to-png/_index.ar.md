@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ BMP كـ PNG API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق BMP كملف بتنسيق PNG.
 url: /ar/python/saveas/bmp-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ HTML API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق JPG كملف بتنسيق HTML.
 url: /ar/python/saveas/jpg-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

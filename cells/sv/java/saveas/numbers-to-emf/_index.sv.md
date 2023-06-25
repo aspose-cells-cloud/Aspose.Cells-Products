@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som EMF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som EMF-fil.
 url: /sv/java/saveas/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till JPG Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera fil i BMP-format till JPG-fil.
 url: /sv/java/conversion/bmp-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

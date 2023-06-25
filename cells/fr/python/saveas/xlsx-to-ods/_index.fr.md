@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez XLSX sous ODS API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLSX sous ODS API pour Python
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSX en tant que fichier au format ODS.
 url: /fr/python/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

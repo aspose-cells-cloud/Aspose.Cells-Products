@@ -1,10 +1,10 @@
 ﻿---
 title:  НОМЕРА в XLT Преобразовать API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата NUMBERS в файл формата XLT.
 url: /ru/python/conversion/numbers-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для конвертации NUMBERS в XLT" h2="Python библиотека для преобразования NUMBERS в XLT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации NUMBERS в XLT и другие форматы документов с использованием Python." urlsection="conversion/numbers-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для конвертации NUMBERS в XLT" h2="Python библиотека для преобразования NUMBERS в XLT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации NUMBERS в XLT и другие форматы документов с использованием Python." urlsection="conversion/numbers-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XLT в Python" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ الأرقام باسم JSON API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق NUMBERS كملف بتنسيق JSON.
 url: /ar/android/saveas/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ الأرقام كـ JSON" h2="مكتبة Android لحفظ NUMBERS بتنسيق JSON" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ NUMBERS بتنسيق JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/numbers-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ الأرقام كـ JSON" h2="مكتبة Android لحفظ NUMBERS بتنسيق JSON" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ NUMBERS بتنسيق JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/numbers-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS بتنسيق JSON في Android" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till PPTX Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XLS-formatfil till PPTX-formatfil.
 url: /sv/nodejs/conversion/xls-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

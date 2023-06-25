@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc üzerinde formülleri temizlemek
 url: /tr/go/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki formülleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizler." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki formülleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizler." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki formülleri temizleyin - REST API\'e gidin" >}}

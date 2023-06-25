@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in DIF Converti API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato HTML in un file in formato DIF.
 url: /it/java/conversion/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

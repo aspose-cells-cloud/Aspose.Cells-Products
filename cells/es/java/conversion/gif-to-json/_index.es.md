@@ -1,10 +1,10 @@
 ﻿---
 title:  GIF a JSON Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato GIF a un archivo de formato JSON.
 url: /es/java/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir GIF a JSON" h2="Java biblioteca para convertir GIF a JSON" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir GIF a JSON y otros formatos de documentos en línea usando Java." urlsection="conversion/gif-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir GIF a JSON" h2="Java biblioteca para convertir GIF a JSON" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir GIF a JSON y otros formatos de documentos en línea usando Java." urlsection="conversion/gif-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo GIF a JSON en Java" >}}

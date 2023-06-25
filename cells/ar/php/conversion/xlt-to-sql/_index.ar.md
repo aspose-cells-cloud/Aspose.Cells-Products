@@ -1,6 +1,6 @@
 ﻿---
-title: XLT إلى SQL - تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLT إلى SQL - تحويل API لـ PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLT إلى ملف بتنسيق SQL.
 url: /ar/php/conversion/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

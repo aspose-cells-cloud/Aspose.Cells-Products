@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som PPTX API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Python för att spara PNG filformat som PPTX format fil.
 url: /sv/python/saveas/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

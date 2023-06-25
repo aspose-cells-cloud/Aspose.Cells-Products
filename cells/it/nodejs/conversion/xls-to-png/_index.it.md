@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS in PNG Converti API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XLS nel file in formato PNG.
 url: /it/nodejs/conversion/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLT как JPG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLT в виде файла формата JPG.
 url: /ru/net/saveas/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLT в формате JPG" h2="C# библиотека для сохранения XLT в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLT в формате JPG и других форматах документов в Интернете с использованием C#." urlsection="saveas/xlt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XLT в формате JPG" h2="C# библиотека для сохранения XLT в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLT в формате JPG и других форматах документов в Интернете с использованием C#." urlsection="saveas/xlt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT в формате JPG по адресу C#." >}}

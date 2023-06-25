@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать XLTM в TSV API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLTM в файл формата TSV.
 url: /ru/go/conversion/xltm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

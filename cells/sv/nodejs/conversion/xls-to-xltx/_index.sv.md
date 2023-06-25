@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS till XLTX Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XLS-formatfil till XLTX-formatfil.
 url: /sv/nodejs/conversion/xls-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

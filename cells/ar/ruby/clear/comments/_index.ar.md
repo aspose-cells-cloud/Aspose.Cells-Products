@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح التعليقات على Microsoft Exc
 url: /ar/ruby/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Ruby Clear لمسح التعليقات على جدول بيانات Microsoft Excel و OpenOffice Calc المحلي" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Ruby Clear لمسح التعليقات على جدول بيانات Microsoft Excel و OpenOffice Calc المحلي" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Ruby REST API" >}}

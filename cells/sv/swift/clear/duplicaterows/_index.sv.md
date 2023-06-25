@@ -1,6 +1,6 @@
 ﻿---
 title:  Rensa dubbletter av rader i den lokala arbetsboken i Cloud
-description: "Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc. Rensa dubbletter av rader på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+description: " Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc. Rensa dubbletter av rader på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

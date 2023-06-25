@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML in TSV Converti API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  MHTML in TSV Converti API per C#
+description: Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato MHTML in un file in formato TSV.
 url: /it/net/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

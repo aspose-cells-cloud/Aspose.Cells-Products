@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ HTML API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق GIF كملف بتنسيق HTML.
 url: /ar/perl/saveas/gif-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

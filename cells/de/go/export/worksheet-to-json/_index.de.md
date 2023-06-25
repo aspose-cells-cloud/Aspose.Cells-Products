@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie WORKSHEET aus der Tabelle mit Go API nach JSON
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation in JSON mit Go API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/go/export/worksheet-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um WORKSHEET in eine JSON-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um WORKSHEET in eine JSON-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im JSON-Format aus einer Online-Tabelle mit Go." urlsection="export/worksheet-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um ARBEITSBLATT in eine JSON-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um WORKSHEET in eine JSON-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im JSON-Format aus einer Tabellenkalkulation online mit Go." urlsection="export/worksheet-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im JSON-Format in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine JSON-Formatdatei in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKSHEET-Objekts in eine JSON-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von WORKSHEET in JSON-Formatübergänge wird von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKSHEET-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im JSON-Format zu exportieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte JSON-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine JSON-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das JSON-Format werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Exportieren von WORKSHEET in das JSON-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Exportieren von WORKSHEET aus einer Tabellenkalkulation in das JSON-Format" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -57,8 +57,8 @@ Das Exportieren des WORKSHEET-Objekts in eine JSON-Datei aus einer Tabelle ist e
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um WORKSHEET in JSON zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

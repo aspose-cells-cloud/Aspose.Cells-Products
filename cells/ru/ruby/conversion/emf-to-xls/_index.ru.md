@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF в XLS Преобразование API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата XLS.
 url: /ru/ruby/conversion/emf-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования EMF в XLS" h2="Библиотека Ruby для преобразования EMF в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования EMF в XLS и другие форматы документов онлайн с помощью Ruby." urlsection="conversion/emf-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования EMF в XLS" h2="Библиотека Ruby для преобразования EMF в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования EMF в XLS и другие форматы документов онлайн с использованием Ruby." urlsection="conversion/emf-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в XLS в Ruby" >}}

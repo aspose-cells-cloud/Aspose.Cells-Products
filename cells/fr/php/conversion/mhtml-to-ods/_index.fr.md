@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML en ODS Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  MHTML en ODS Convertir API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format MHTML en fichier au format ODS.
 url: /fr/php/conversion/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

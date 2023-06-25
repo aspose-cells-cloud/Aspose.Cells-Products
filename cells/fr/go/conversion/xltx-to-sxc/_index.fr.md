@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX en SXC API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLTX en fichier au format SXC.
 url: /fr/go/conversion/xltx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

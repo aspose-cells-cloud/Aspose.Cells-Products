@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in JPG Converti API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato PNG in un file in formato JPG.
 url: /it/ruby/conversion/png-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

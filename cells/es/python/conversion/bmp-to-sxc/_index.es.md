@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP a SXC Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato BMP a un archivo de formato SXC.
 url: /es/python/conversion/bmp-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/python/conversion/bmp-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo BMP a SXC en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de BMP a SXC es una tarea compleja. Todas las transiciones de formato BMP a SXC se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca Python es una solución profesional para convertir BMP a archivos SXC en línea. Este SDK de la nube ofrece a los desarrolladores de Python una potente funcionalidad y un resultado SXC perfecto.
+Convertir formatos de archivo de BMP a SXC es una tarea compleja. Todas las transiciones de formato BMP a SXC se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca Python es una solución profesional para convertir BMP a archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Python una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir BMP al formato SXC" gistPath="" %}}

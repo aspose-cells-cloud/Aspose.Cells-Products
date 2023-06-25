@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XML как WMF API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как WMF API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML в виде файла формата WMF.
 url: /ru/php/saveas/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

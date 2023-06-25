@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLS som XLTM API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLS-formatfil som XLTM-formatfil.
 url: /sv/php/saveas/xls-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

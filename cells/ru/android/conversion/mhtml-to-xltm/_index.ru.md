@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в XLTM API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата MHTML в файл формата XLTM.
 url: /ru/android/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/mhtml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLTM в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLTM — сложная задача. Все переходы форматов MHTML в XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTM. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и превосходный результат в формате XLTM.
+Преобразование форматов файлов из MHTML в XLTM — сложная задача. Все переходы форматов MHTML в XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTM. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования MHTML в формат XLTM" gistPath="" %}}

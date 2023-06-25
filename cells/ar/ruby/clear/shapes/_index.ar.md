@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأشكال على Microsoft Excel & 
 url: /ar/ruby/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby مسح لمسح الأشكال في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby مسح لمسح الأشكال في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Ruby REST API" >}}

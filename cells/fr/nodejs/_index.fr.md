@@ -12,7 +12,7 @@ url: /fr/nodejs
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-node" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK pour Node.js permet à vos applications basées sur le cloud de lire des feuilles de calcul Excel, d'exporter des classeurs XLSX, de convertir des documents Microsoft Excel et OpenOffice en PDF, XPS, TIFF, Markdown (MD), DIF, SVG, XML (SpreadsheetML), CSV , TSV, HTML et d'autres formats pris en charge, sans installer de logiciel tiers.</p>
+<p>Aspose.Cells Cloud SDK pour Node.js permet à vos applications basées sur le cloud de lire des feuilles de calcul Excel, d'exporter des classeurs XLSX, de convertir des documents Microsoft Excel et OpenOffice en PDF, XPS, TIFF, Markdown (MD), DIF, SVG, XML (feuille de calcul ML), CSV , TSV, HTML et d'autres formats pris en charge, sans installer de logiciel tiers.</p>
 <p>Aspose.Cells Le SDK Cloud pour Node.js tire ses fonctionnalités robustes du REST Aspose.Cells sous-jacent API et permet à votre code Node.js de fonctionner avec la mise en forme conditionnelle Excel, les filtres automatiques, les formes automatiques, les graphiques, les OleObjects, les sauts de page, les ListObjects, les tableaux croisés dynamiques, tâches et gammes. Utilisez des commandes Node.js simples pour créer, mettre à jour, chiffrer, fusionner, protéger par mot de passe, exporter et convertir par programmation des fichiers XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM et ODS vers d'autres formats pris en charge.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -42,7 +42,7 @@ url: /fr/nodejs
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -145,7 +145,7 @@ url: /fr/nodejs
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">
@@ -230,11 +230,11 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
  Premiers pas avec le SDK de traitement de feuille de calcul Excel
     </h2>
     <p>
- Pour démarrer avec Aspose.Cells Cloud SDK for Node.js, vous n'avez rien à installer. Il vous suffit de créer un compte sur
+Pour démarrer avec Aspose.Cells Cloud SDK for Node.js, vous n'avez rien à installer. Il vous suffit de créer un compte sur
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
-et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Node.js sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Node.js vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+ et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Node.js sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Node.js vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,7 +242,7 @@ et obtenez les informations de votre candidature. Une fois que vous avez l'App S
  Traitement des classeurs via SDK Cloud
     </h2>
     <p>
- Aspose.Cells Le SDK Cloud pour Node.js vous permet de créer, de diviser, de fusionner, de rechercher et de remplacer du texte, de protéger par mot de passe, d'exporter vers un format de fichier pris en charge, de lire les éléments de texte du classeur, d'ajuster automatiquement les lignes du classeur tout en ignorant les éléments masqués, de chiffrer le mot de passe du classeur et de fournir longueur de la clé de cryptage, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
+Aspose.Cells Le SDK Cloud pour Node.js vous permet de créer, de diviser, de fusionner, de rechercher et de remplacer du texte, de protéger par mot de passe, d'exporter vers un format de fichier pris en charge, de lire les éléments de texte du classeur, d'ajuster automatiquement les lignes du classeur tout en ignorant les éléments masqués, de chiffrer le mot de passe du classeur et de fournir longueur de la clé de cryptage, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
     </p>
    </div>
    <div class="col-lg-12">
@@ -258,7 +258,7 @@ SDK Cloud pour traiter les feuilles de calcul
  Tirez parti de la puissance des tableaux croisés dynamiques &amp; Gammes
     </h2>
     <p>
- Aspose.Cells Le SDK Cloud pour Node.js vous permet d'ajouter un tableau croisé dynamique dans la feuille de calcul, d'ajouter ou de supprimer des champs croisés dynamiques dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule du tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules. .
+ Aspose.Cells Le SDK Cloud pour Node.js vous permet d'ajouter un tableau croisé dynamique dans la feuille de calcul, d'ajouter ou de supprimer des champs croisés dynamiques dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule pour le tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules. .
     </p>
     <p>
 Aspose.Cells Le SDK Cloud pour Node.js peut également être utilisé pour obtenir une liste de cellules dans une plage par nom de plage ou index de colonne de ligne, définir la largeur de colonne de la plage, combiner une plage de cellules en une seule cellule, déplacer la plage actuelle vers la plage de destination , définit la bordure de contour autour d'une plage de cellules., définit la hauteur de ligne de la plage, définit le style de la plage, dissocie les cellules fusionnées de cette plage, met une valeur dans la plage et convertit son type de données, et copie la plage dans la feuille de calcul.

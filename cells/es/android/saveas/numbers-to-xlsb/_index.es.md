@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar NÚMEROS como XLSB API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato NUMBERS como archivo de formato XLSB.
 url: /es/android/saveas/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/saveas/numbers-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como XLSB en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como XLSB es una tarea compleja. Todas las transiciones de formato NUMBERS a XLSB se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos XLSB en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLSB perfecta.
+Guardar formatos de archivo de NUMBERS como XLSB es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato NUMBERS a XLSB mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca de Android es una solución profesional para guardar NÚMEROS como archivos XLSB en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLSB perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar NÚMEROS como formato XLSB" gistPath="" %}}

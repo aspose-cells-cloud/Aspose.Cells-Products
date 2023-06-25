@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLTX как JPG API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX в формате JPG" h2="Библиотека Swift для сохранения XLTX в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTX в виде JPG и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltx-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить XLTX в формате JPG" h2="Библиотека Swift для сохранения XLTX в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTX в виде JPG и других форматов документов в Интернете с использованием Swift." urlsection="saveas/xltx-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как JPG в Swift" >}}

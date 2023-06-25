@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG в PPTX Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование PNG в PPTX API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата PNG в файл формата PPTX.
 url: /ru/ruby/conversion/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

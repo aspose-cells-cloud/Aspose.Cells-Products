@@ -1,6 +1,6 @@
 ﻿---
-title:  TXT a JSON Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: TXT a JSON Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato TXT a un archivo de formato JSON.
 url: /es/php/conversion/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

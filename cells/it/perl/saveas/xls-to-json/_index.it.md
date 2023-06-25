@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLS come JSON API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLS come JSON API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato XLS come file in formato JSON.
 url: /it/perl/saveas/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

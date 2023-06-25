@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara PNG som SVG API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara PNG som SVG API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara fil i formatet PNG som fil i formatet SVG.
 url: /sv/android/saveas/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

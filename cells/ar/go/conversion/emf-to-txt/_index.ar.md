@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى TXT تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق EMF إلى ملف بتنسيق TXT.
 url: /ar/go/conversion/emf-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

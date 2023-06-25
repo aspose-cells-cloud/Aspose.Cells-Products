@@ -13,7 +13,7 @@ url: /fr/python
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK pour Python vous aide à développer des applications de création, de visualisation, de fusion, de séparation, de cryptage et de conversion de feuille de calcul cloud dans le langage de programmation Python. Aspose.Cells Le SDK Cloud pour Python est distribué sous une licence MIT et est alimenté par Aspose.Cells REST API sous-jacent.</p>
-<p>Aspose.Cells Cloud SDK pour Python permet à votre code Python d'exécuter des fonctions de niveau basique à avancé sur Microsoft Excel et les feuilles de calcul OpenOffice hébergées sur le stockage cloud. Utilisez votre programme Python pour travailler avec des tableaux croisés dynamiques, travailler avec XML (SpreadsheetML), lire des fichiers Excel dans le cloud via Python, convertir XLSX en HTML, CSV, PDF, XPS, MD (Markdown), DIF, TIFF et d'autres formats de fichiers pris en charge.</p>
+<p>Aspose.Cells Cloud SDK pour Python permet à votre code Python d'exécuter des fonctions de niveau basique à avancé sur Microsoft Excel et les feuilles de calcul OpenOffice hébergées sur le stockage cloud. Utilisez votre programme Python pour travailler avec des tableaux croisés dynamiques, travailler avec XML (SpreadsheetML), lire des fichiers Excel dans le cloud via Python, convertir XLSX en HTML, CSV, PDF, XPS, MD (Markdown), DIF, 0761123 481 et autres formats de fichiers pris en charge.</p>
 <p>Aspose.Cells Cloud SDK pour Python permet à vos programmes Python de créer plusieurs feuilles de calcul, de gérer des feuilles de calcul, des classeurs, la configuration des feuilles, d'appliquer une mise en forme conditionnelle, de gérer des tâches, des formules, des filtres automatiques, des Oleobjects, des ListObjects et d'autres entités de feuille de calcul Excel, sans installer de tiers logiciel.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -43,7 +43,7 @@ url: /fr/python
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -146,7 +146,7 @@ url: /fr/python
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">

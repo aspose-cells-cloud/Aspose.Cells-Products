@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON باسم WMF API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق JSON كملف بتنسيق WMF.
 url: /ar/go/saveas/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

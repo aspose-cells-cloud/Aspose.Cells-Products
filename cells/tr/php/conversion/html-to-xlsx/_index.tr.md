@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'den XLSX'e PHP için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  HTML biçim dosyasını XLSX biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/html-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/php/conversion/html-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını PHP\'de XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını HTML'den XLSX'e dönüştürmek karmaşık bir iştir. HTML'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, HTML'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+Dosya formatlarını HTML'den XLSX'e dönüştürmek karmaşık bir iştir. HTML'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, HTML'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="HTML\'i XLSX formatına dönüştürmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}

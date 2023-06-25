@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till FODS Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Android för att konvertera XLSX-formatfil till FODS-formatfil.
 url: /sv/android/conversion/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,13 +4,13 @@ description: Облачные API и SDK для очистки фигур на M
 url: /ru/go/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить фигуры в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение позволяет очищать фигуры на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Go." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить фигуры в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение позволяет очищать фигуры на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Go." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фигуры в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — сложная задача. Очистка фигур в локальных переходах электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки фигур в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам Go мощную функциональность и совершенный API.
+Очистка фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — сложная задача. Очистка фигур на локальных переходах электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки фигур в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Go для очистки фигур в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Shape.go" %}}

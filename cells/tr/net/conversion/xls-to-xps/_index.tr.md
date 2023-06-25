@@ -1,6 +1,6 @@
 ﻿---
-title: XLS'den XPS'e C# için API'i dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLS'den XPS'e C# için API'i dönüştür
+description:  XLS biçim dosyasını XPS biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xls-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

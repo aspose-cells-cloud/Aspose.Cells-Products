@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/go/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بإزالة الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بإزالة الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

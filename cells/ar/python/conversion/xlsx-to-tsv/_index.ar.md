@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى TSV تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSX إلى ملف بتنسيق TSV.
 url: /ar/python/conversion/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

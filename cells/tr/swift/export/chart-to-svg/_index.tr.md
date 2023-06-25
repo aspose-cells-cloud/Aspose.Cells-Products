@@ -10,7 +10,7 @@ url: /tr/swift/export/chart-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini Swift\'de SVG biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-CHART nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir görevdir. CHART'ı SVG biçimine dışa aktarma geçişleri, kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, CHART nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+CHART nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir iştir. CHART'ı SVG biçimine dışa aktarma geçişleri, kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, CHART nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı e-tablodan SVG biçimine dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}

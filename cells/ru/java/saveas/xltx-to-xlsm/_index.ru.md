@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLTX как XLSM API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLTX в виде файла формата XLSM.
 url: /ru/java/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить XLTX как XLSM" h2="Java библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с помощью Java." urlsection="saveas/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить XLTX как XLSM" h2="Java библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с использованием Java." urlsection="saveas/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSM по адресу Java." >}}

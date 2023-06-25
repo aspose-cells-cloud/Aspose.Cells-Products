@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML a SXC Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: MHTML a SXC Convertir API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato MHTML a un archivo de formato SXC.
 url: /es/android/conversion/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

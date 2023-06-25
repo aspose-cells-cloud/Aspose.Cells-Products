@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ PNG API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق GIF كملف بتنسيق PNG.
 url: /ar/perl/saveas/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLS как TXT API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLS в виде файла формата TXT.
 url: /ru/nodejs/saveas/xls-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xls-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как TXT в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в TXT — сложная задача. Все переходы формата XLS в TXT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TXT.
+Сохранение форматов файлов из XLS в TXT — сложная задача. Все переходы между форматами XLS и TXT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLS в формате TXT" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ XLS API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق XML كملف بتنسيق XLS.
 url: /ar/ruby/saveas/xml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

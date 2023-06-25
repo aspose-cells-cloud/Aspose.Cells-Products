@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как SQL API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/ods-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как SQL в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде SQL — сложная задача. Все переходы между форматами ODS и SQL выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения ODS в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из ODS в виде SQL — сложная задача. Все переходы формата ODS в формат SQL выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для сохранения ODS в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения ODS в формате SQL" gistPath="" %}}

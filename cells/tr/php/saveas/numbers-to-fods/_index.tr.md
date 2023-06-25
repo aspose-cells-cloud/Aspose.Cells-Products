@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI PHP için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for PHP kullanılarak NUMBERS biçim dosyasını FODS biçim dosyası olarak kaydedin.
 url: /tr/php/saveas/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование JSON в WMF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата JSON в файл формата WMF.
 url: /ru/net/conversion/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в WMF" h2="C# библиотека для преобразования JSON в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации JSON в WMF и другие форматы документов по телефону C#." urlsection="conversion/json-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в WMF" h2="C# библиотека для преобразования JSON в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования JSON в WMF и другие форматы документов онлайн с использованием C#." urlsection="conversion/json-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в WMF в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в WMF — сложная задача. Все переходы между форматами JSON и WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов JSON в WMF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из JSON в WMF — сложная задача. Все переходы между форматами JSON и WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов JSON в WMF. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования JSON в формат WMF" gistPath="" %}}

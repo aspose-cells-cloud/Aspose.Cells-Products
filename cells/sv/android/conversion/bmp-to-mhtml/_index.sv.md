@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till MHTML Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera BMP filformat till MHTML format fil.
 url: /sv/android/conversion/bmp-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som PDF API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för C# för att spara XLT-formatfil som PDF-fil.
 url: /sv/net/saveas/xlt-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

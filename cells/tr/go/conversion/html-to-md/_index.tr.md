@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'den MD'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go'yu kullanarak HTML biçimindeki dosyayı MD biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

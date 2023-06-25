@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/nodejs/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki net çizelgeleri." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki net çizelgeleri." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda grafikleri temizleyin - NodeJS REST API" >}}

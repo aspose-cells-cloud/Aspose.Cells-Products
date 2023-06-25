@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP à EMF Convertir API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Java pour convertir le fichier au format BMP en fichier au format EMF.
 url: /fr/java/conversion/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

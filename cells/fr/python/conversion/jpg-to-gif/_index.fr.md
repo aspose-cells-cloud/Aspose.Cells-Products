@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en GIF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format JPG en fichier au format GIF.
 url: /fr/python/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

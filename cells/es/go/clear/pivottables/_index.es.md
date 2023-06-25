@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar tablas dinámicas en Microsoft Exc
 url: /es/go/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar tablas dinámicas en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar las tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar tablas dinámicas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra las tablas dinámicas en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar tablas dinámicas en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar las tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar tablas dinámicas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra las tablas dinámicas en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir a REST API" >}}

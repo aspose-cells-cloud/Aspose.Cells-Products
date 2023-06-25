@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in MD Converti API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato BMP in un file in formato MD.
 url: /it/go/conversion/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

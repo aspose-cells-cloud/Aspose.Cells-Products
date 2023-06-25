@@ -1,16 +1,16 @@
 ﻿---
-title: Преобразование SXC в XLT API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование SXC в XLT API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата SXC в файл формата XLT.
 url: /ru/perl/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования SXC в XLT" h2="Perl библиотека для преобразования SXC в XLT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации SXC в XLT и другие форматы документов с использованием Perl." urlsection="conversion/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования SXC в XLT" h2="Perl библиотека для преобразования SXC в XLT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации SXC в XLT и другие форматы документов с использованием Perl." urlsection="conversion/sxc-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XLT в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в XLT — сложная задача. Все переходы формата SXC в формат XLT выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в XLT. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Преобразование форматов файлов из SXC в XLT — сложная задача. Все переходы между форматами SXC и XLT выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в XLT. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования SXC в формат XLT" gistPath="" %}}

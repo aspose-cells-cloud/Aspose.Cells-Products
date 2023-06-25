@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните XML как MD API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XML как файла формата MD.
 url: /ru/net/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML как MD" h2="C# библиотека для сохранения XML как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в виде MD и других форматов документов в Интернете по телефону C#." urlsection="saveas/xml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML как MD" h2="C# библиотека для сохранения XML как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в виде MD и других форматов документов в Интернете с использованием C#." urlsection="saveas/xml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде MD — сложная задача. Все переходы формата XML в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека C# — это профессиональное решение для сохранения XML в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из XML в виде MD — сложная задача. Все переходы формата XML в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека C# — это профессиональное решение для сохранения XML в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XML в формате MD" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى WMF - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLSM إلى ملف بتنسيق WMF.
 url: /ar/go/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

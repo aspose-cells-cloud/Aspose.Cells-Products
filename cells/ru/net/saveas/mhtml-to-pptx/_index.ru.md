@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как PPTX API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата MHTML как файла формата PPTX.
 url: /ru/net/saveas/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/mhtml-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как PPTX в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде PPTX — сложная задача. Все переходы между форматами MHTML и PPTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения MHTML в виде файлов PPTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
+Сохранение форматов файлов из MHTML в виде PPTX — сложная задача. Все переходы между форматами MHTML и PPTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения файлов MHTML в формате PPTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения MHTML в формате PPTX" gistPath="" %}}

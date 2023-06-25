@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX till CSV Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i XLTX-format till fil i CSV-format.
 url: /sv/android/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

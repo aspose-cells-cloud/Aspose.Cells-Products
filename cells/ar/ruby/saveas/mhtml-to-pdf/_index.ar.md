@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ PDF API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق MHTML كملف تنسيق PDF.
 url: /ar/ruby/saveas/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/saveas/mhtml-to-pdf/
 يعد حفظ تنسيقات الملفات من MHTML لأن PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PDF بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج PDF مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لحفظ MHTML بتنسيق PDF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ MHTML بتنسيق PDF" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

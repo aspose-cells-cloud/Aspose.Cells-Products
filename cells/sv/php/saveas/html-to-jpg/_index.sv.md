@@ -1,6 +1,6 @@
 ﻿---
 title: Spara HTML som JPG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för PHP för att spara HTML filformat som JPG-format.
 url: /sv/php/saveas/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

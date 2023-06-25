@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в TSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата GIF в файл формата TSV.
 url: /ru/nodejs/conversion/gif-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/gif-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в TSV в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов GIF в TSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов GIF в TSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования GIF в формат TSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer EMF sous XLSB API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer EMF sous XLSB API pour Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format EMF au format XLSB.
 url: /fr/android/saveas/emf-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

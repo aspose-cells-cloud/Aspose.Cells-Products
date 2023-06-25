@@ -1,16 +1,16 @@
 ﻿---
 title:  Enregistrer CSV sous MHTML API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format MHTML.
 url: /fr/android/saveas/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer CSV en MHTML" h2="Bibliothèque Android pour enregistrer CSV en MHTML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format MHTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/csv-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format MHTML dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format MHTML sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant que MHTML est une tâche complexe. Toutes les transitions de format CSV vers MHTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MHTML parfaite.
+L'enregistrement de formats de fichiers CSV au format MHTML est une tâche complexe. Toutes les transitions de format CSV vers MHTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MHTML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer CSV au format MHTML" gistPath="" %}}

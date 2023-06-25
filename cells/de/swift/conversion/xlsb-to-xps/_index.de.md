@@ -1,19 +1,19 @@
 ﻿---
-title:  XLSB zu XPS Wandeln Sie API für Swift um
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSB in XPS Konvertieren Sie API für Swift
+description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
 url: /de/swift/conversion/xlsb-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XLSB in XPS umzuwandeln" h2="Swift-Bibliothek zum Konvertieren von XLSB in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XLSB online mit Swift in XPS und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsb-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von XLSB in XPS" h2="Swift-Bibliothek zum Konvertieren von XLSB in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in XPS und andere Dokumentformate mit Swift." urlsection="conversion/xlsb-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSB-Datei in Swift in XPS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSB in XPS ist eine komplexe Aufgabe. Alle Formatübergänge von XLSB zu XPS werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLSB-Dateien online in XPS-Dateien zu konvertieren. Dieses Cloud-SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSB in XPS ist eine komplexe Aufgabe. Alle XLSB-Formatübergänge in das XPS-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSB-Dateien in XPS-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLSB in das XPS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von XLSB in das Format XPS" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -65,16 +65,16 @@ Das Konvertieren von Dateiformaten von XLSB in XPS ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um XLSB in XPS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie XLSB mit Swift API in XPS" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>macOS Monterey 12.4</li>
-<li>Schnell 4.2</li>
+<li>Swift 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

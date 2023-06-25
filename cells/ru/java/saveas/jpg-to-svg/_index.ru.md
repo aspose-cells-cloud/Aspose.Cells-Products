@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как SVG API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата JPG как файла формата SVG.
 url: /ru/java/saveas/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: HTML till SQL Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  HTML till SQL Konvertera API för Python
+description: Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i HTML-format till fil i SQL-format.
 url: /sv/python/conversion/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

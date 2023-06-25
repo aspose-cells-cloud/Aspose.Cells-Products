@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar ODS como WMF API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  Guarde ODS como WMF API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato ODS como archivo de formato WMF.
 url: /es/perl/saveas/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

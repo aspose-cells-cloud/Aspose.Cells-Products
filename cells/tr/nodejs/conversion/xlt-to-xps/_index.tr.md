@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'den XPS'e NodeJS için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını XPS biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlt-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını NodeJS\'de XPS\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den XPS'e dönüştürmek karmaşık bir iştir. XLT'den XPS'e tüm biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLT'yi çevrimiçi olarak XPS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
+Dosya formatlarını XLT'den XPS'e dönüştürmek karmaşık bir iştir. XLT'den XPS'e tüm biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLT'yi çevrimiçi olarak XPS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi XPS formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

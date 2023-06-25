@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ XLT API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق JPG كملف بتنسيق XLT.
 url: /ar/php/saveas/jpg-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

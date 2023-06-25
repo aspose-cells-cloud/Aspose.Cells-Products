@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать TSV в MD API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата TSV в файл формата MD.
 url: /ru/go/conversion/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/tsv-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в MD в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в MD — сложная задача. Все переходы между форматами TSV и MD выполняются с помощью нашего Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов TSV в MD. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
+Преобразование форматов файлов из TSV в MD — сложная задача. Все переходы формата TSV в формат MD выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов TSV в MD. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования TSV в формат MD" gistPath="" %}}

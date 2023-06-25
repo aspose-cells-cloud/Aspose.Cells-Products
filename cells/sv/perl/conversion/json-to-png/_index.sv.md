@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON till PNG Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: JSON till PNG Konvertera API till Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i JSON-format till fil i PNG-format.
 url: /sv/perl/conversion/json-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

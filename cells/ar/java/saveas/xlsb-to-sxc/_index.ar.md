@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSB كـ SXC API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSB كملف بتنسيق SXC.
 url: /ar/java/saveas/xlsb-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSB كـ SXC" h2="مكتبة Java لحفظ XLSB كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSB كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSB كـ SXC" h2="مكتبة Java لحفظ XLSB كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSB كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كـ SXC في Java" >}}

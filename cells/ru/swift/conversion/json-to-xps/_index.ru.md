@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON в XPS Преобразование API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/json-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в XPS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в XPS — сложная задача. Все переходы формата JSON в формат XPS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации JSON в файлы XPS. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
+Преобразование форматов файлов из JSON в XPS — сложная задача. Все переходы формата JSON в формат XPS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов JSON в файлы XPS. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования JSON в формат XPS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى XLS تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLS.
 url: /ar/ruby/conversion/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/html-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى XLS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى تنسيق XLS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLS مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى XLS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل HTML إلى تنسيق XLS" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните TSV как EMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TSV как файла формата EMF.
 url: /ru/ruby/saveas/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения TSV как EMF" h2="Библиотека Ruby для сохранения TSV как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV как EMF и других форматов документов онлайн с использованием Ruby." urlsection="saveas/tsv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить TSV как EMF" h2="Библиотека Ruby для сохранения TSV как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV как EMF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/tsv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как EMF в Ruby." >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/tsv-to-emf/
 Сохранение форматов файлов из TSV как EMF — сложная задача. Все переходы формата TSV в формат EMF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения файлов TSV в формате EMF онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод EMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения TSV в формате EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TSV в формате EMF" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

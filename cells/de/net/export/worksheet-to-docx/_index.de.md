@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT nach DOCX aus der Tabelle mit C# API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach DOCX mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren des ARBEITSBLATTS in eine DOCX-Datei" h2="C# Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTERN in DOCX-Formatdateien aus Tabellenkalkulationen online unter Verwendung von C#." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" h2="C#-Bibliothek zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine DOCX-Formatdatei aus einer Tabellenkalkulation online unter Verwendung von C#." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine DOCX-Formatdatei in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKSHEET in das DOCX-Format wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKSHEET-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im DOCX-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte DOCX-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das DOCX-Format werden von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das DOCX-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von ARBEITSBLATT aus der Tabellenkalkulation in das DOCX-Format" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,9 +44,9 @@ Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkal
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um WORKSHEET nach DOCX zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ARBEITSBLATT nach DOCX zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

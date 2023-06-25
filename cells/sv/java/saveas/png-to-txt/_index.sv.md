@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som TXT API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara PNG filformat som fil i TXT-format.
 url: /sv/java/saveas/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

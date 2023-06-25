@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som ODS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara CSV-formatfil som ODS-formatfil.
 url: /sv/java/saveas/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar GIF como DOCX API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato GIF como archivo de formato DOCX.
 url: /es/nodejs/saveas/gif-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ Guardar formatos de archivo desde GIF como DOCX es una tarea compleja. Todas las
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el Nodo API para guardar GIF como DOCX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para guardar GIF como DOCX" >}}
 <li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
 <li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>

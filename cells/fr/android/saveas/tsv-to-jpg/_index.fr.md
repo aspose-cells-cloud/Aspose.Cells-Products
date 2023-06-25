@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer TSV au format JPG API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format TSV en tant que fichier au format JPG.
 url: /fr/android/saveas/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer TSV au format JPG" h2="Bibliothèque Android pour enregistrer TSV au format JPG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer TSV au format JPG et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/tsv-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TSV au format JPG dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TSV au format JPG sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de TSV au format JPG est une tâche complexe. Toutes les transitions de format TSV vers JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers TSV au format JPG. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.

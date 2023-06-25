@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTM в XLS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLTM в файл формата XLS.
 url: /ru/go/conversion/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/xltm-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в XLS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в XLS — сложная задача. Все переходы от формата XLTM к формату XLS выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLTM в XLS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLS.
+Преобразование форматов файлов из XLTM в XLS — сложная задача. Все переходы от формата XLTM к формату XLS выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLTM в XLS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLTM в формат XLS" gistPath="" %}}

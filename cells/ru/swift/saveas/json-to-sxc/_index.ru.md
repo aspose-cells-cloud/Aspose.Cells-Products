@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как SXC API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/json-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/json-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как SXC в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде SXC — сложная задача. Все переходы формата JSON в формат SXC выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для сохранения JSON в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод SXC.
+Сохранение форматов файлов из JSON в виде SXC — сложная задача. Все переходы между форматами JSON и SXC выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для сохранения JSON в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения JSON в формате SXC" gistPath="" %}}

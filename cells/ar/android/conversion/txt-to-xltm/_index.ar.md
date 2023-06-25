@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى XLTM - تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق TXT إلى ملف بتنسيق XLTM.
 url: /ar/android/conversion/txt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

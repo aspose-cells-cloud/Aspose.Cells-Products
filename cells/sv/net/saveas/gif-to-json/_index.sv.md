@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara GIF som JSON API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara GIF-formatfil som JSON-formatfil.
 url: /sv/net/saveas/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON كـ SQL API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق JSON كملف بتنسيق SQL.
 url: /ar/java/saveas/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

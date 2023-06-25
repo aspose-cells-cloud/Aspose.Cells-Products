@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP till ODS Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: BMP till ODS Konvertera API for Java
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera BMP filformat till ODS format fil.
 url: /sv/java/conversion/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

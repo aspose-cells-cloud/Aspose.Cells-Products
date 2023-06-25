@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ODS كـ DIF API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق ODS كملف بتنسيق DIF.
 url: /ar/go/saveas/ods-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

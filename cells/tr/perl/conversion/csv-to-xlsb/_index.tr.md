@@ -1,6 +1,6 @@
 ﻿---
-title: Perl için CSV'den XLSB'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Perl için CSV'den XLSB'ye Dönüştürme API
+description:  CSV biçimli dosyayı XLSB biçimli dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

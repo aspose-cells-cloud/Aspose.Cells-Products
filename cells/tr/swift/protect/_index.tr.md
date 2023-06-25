@@ -1,6 +1,6 @@
 ﻿---
 title:  Korumak
-description:  Aspose.Cells Cloud REST API, şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description: Aspose.Cells Cloud REST API, şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

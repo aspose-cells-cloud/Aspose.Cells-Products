@@ -1,10 +1,10 @@
 ﻿---
 title:  JSON إلى SQL - تحويل API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/conversion/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لتحويل JSON إلى SQL" h2="مكتبة Swift لتحويل JSON إلى SQL" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل JSON إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/json-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API لتحويل JSON إلى SQL" h2="مكتبة Swift لتحويل JSON إلى SQL" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Swift. هذا حل احترافي لتحويل JSON إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="conversion/json-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى SQL في Swift" >}}

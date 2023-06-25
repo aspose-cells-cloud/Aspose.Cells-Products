@@ -1,13 +1,13 @@
 ﻿---
 title:  قم بتصدير CHART إلى PDF من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/net/export/chart-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لتصدير المخطط البياني إلى ملف PDF" h2="مكتبة C# لتصدير المخطط البياني إلى ملف PDF" p="استخدم Cells Export REST API لتصدير مسارات عمل العناصر الداخلية لجدول البيانات في Net. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق PDF من جدول بيانات عبر الإنترنت باستخدام C#." urlsection="export/chart-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق PDF بتنسيق C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق PDF في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 يعد تصدير كائن CHART إلى ملف PDF من جدول البيانات مهمة معقدة. تصدير المخطط البياني إلى PDF يتم إجراء انتقالات تنسيق بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات المخطط. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات المخطط البياني إلى ملفات بتنسيق PDF عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج PDF مثالي.

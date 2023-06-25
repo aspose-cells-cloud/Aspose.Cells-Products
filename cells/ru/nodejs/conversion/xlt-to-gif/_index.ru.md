@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLT в GIF API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLT в файл формата GIF.
 url: /ru/nodejs/conversion/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в GIF" h2="Библиотека NodeJS для преобразования XLT в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLT в GIF и другие форматы документов с использованием NodeJS." urlsection="conversion/xlt-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в GIF" h2="Библиотека NodeJS для преобразования XLT в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLT в GIF и другие форматы документов с помощью NodeJS." urlsection="conversion/xlt-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в GIF в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в GIF — сложная задача. Все переходы форматов XLT в GIF выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLT в GIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод GIF.
+Преобразование форматов файлов из XLT в GIF — сложная задача. Все переходы форматов XLT в GIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLT в GIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLT в формат GIF" gistPath="" %}}

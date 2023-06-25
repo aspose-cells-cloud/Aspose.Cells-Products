@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSM как ODS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSM в виде файла формата ODS.
 url: /ru/android/saveas/xlsm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlsm-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как ODS в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде ODS — сложная задача. Все переходы между форматами XLSM и ODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для сохранения XLSM в виде файлов ODS онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод ODS.
+Сохранение форматов файлов из XLSM в виде ODS — сложная задача. Все переходы между форматами XLSM и ODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для сохранения XLSM в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSM в формате ODS" gistPath="" %}}

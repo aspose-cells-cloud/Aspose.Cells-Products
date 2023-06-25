@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام بالشكل PDF API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق NUMBERS كملف بتنسيق PDF.
 url: /ar/ruby/saveas/numbers-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

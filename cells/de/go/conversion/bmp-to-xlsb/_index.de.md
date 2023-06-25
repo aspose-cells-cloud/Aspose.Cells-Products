@@ -1,16 +1,16 @@
 ﻿---
-title:  BMP in XLSB konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  BMP in XLSB Konvertieren Sie API für Go
+description: Verwenden Sie Aspose.Cells Cloud SDK für Go, um eine Datei im BMP-Format in eine XLSB-Formatdatei zu konvertieren.
 url: /de/go/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um BMP in XLSB umzuwandeln" h2="Gehen Sie in die Bibliothek, um BMP in XLSB umzuwandeln" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit Go in XLSB und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um BMP in XLSB umzuwandeln" h2="Gehen Sie zur Bibliothek, um BMP in XLSB zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von BMP in XLSB und andere Dokumentformate mit Go." urlsection="conversion/bmp-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie in Go eine BMP-Datei in XLSB" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in Go in XLSB" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in XLSB ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu XLSB werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um BMP online in XLSB-Dateien umzuwandeln. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und perfekte XLSB-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in XLSB ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum XLSB-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von BMP- in XLSB-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von BMP in das XLSB-Format" gistPath="" %}}
@@ -48,10 +48,10 @@ Das Konvertieren von Dateiformaten von BMP in XLSB ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um BMP in XLSB umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um BMP in XLSB zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

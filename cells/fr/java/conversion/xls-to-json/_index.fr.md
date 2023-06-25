@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir XLS en JSON API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format XLS en fichier au format JSON.
 url: /fr/java/conversion/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir XLS en JSON" h2="bibliothèque Java pour convertir XLS en JSON" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir XLS en JSON et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/xls-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir XLS en JSON" h2="bibliothèque Java pour convertir XLS en JSON" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir XLS en JSON et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/xls-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLS en JSON en Java" >}}

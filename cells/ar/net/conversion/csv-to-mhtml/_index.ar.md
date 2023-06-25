@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى MHTML - تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق CSV إلى ملف بتنسيق MHTML.
 url: /ar/net/conversion/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

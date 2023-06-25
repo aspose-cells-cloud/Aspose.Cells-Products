@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer MHTML sous ODS API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format MHTML en tant que fichier au format ODS.
 url: /fr/ruby/saveas/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer MHTML en tant qu\'ODS" h2="bibliothèque Ruby pour enregistrer MHTML en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format ODS et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/mhtml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer MHTML en tant qu\'ODS" h2="Bibliothèque Ruby pour enregistrer MHTML en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format ODS et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/mhtml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML en tant qu\'ODS dans Ruby" >}}

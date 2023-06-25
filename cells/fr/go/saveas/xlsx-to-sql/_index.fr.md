@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSX sous SQL API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XLSX en tant que fichier au format SQL.
 url: /fr/go/saveas/xlsx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

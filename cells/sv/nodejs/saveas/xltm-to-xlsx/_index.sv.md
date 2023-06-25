@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som XLSX API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTM-formatfil som XLSX-formatfil.
 url: /sv/nodejs/saveas/xltm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى XPS قم بالتحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLTX إلى ملف بتنسيق XPS.
 url: /ar/ruby/conversion/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

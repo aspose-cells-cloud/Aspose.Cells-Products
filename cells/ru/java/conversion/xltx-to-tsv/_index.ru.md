@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTX в TSV API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLTX в файл формата TSV.
 url: /ru/java/conversion/xltx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/xltx-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в TSV в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в TSV — сложная задача. Все переходы от формата XLTX к формату TSV выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTX в TSV. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из XLTX в TSV — сложная задача. Все переходы от формата XLTX к формату TSV выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTX в TSV. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLTX в формат TSV" gistPath="" %}}

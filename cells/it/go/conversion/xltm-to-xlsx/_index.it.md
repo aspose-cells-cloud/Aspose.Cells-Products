@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTM a XLSX API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLTM in un file in formato XLSX.
 url: /it/go/conversion/xltm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/go/conversion/xltm-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLTM in XLSX in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLTM a XLSX è un'attività complessa. Tutte le transizioni di formato da XLTM a XLSX vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLTM di origine. La nostra libreria Go è una soluzione professionale per convertire i file XLTM in XLSX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSX.
+La conversione dei formati di file da XLTM a XLSX è un'attività complessa. Tutte le transizioni di formato da XLTM a XLSX vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Go è una soluzione professionale per convertire i file XLTM in XLSX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Vai utilizzando REST API per convertire XLTM in formato XLSX" gistPath="" %}}

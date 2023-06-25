@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG в SVG Конвертировать API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: JPG в SVG Конвертировать API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата JPG в файл формата SVG.
 url: /ru/python/conversion/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

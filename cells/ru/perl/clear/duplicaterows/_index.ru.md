@@ -1,10 +1,10 @@
 ﻿---
-title:  Удаление повторяющихся строк в локальной книге в облаке
-description: Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Удалите повторяющиеся строки в локальной книге с помощью Perl в облаке
+description:  Облачные API и SDK для очистки повторяющихся строк в Microsoft Excel и OpenOffice Calc с Perl. Удаление повторяющихся строк в локальных электронных таблицах с помощью облачного SDK Cells API для Perl
 url: /ru/perl/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Perl Очистить, чтобы удалить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки повторяющихся строк в рабочих процессах локальных Microsoft Excel и электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение удаляет повторяющиеся строки в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Perl." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Perl Очистить, чтобы удалить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки повторяющихся строк в рабочих процессах локальных Microsoft Excel и электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение очищает повторяющиеся строки в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Perl ." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Perl REST API" >}}

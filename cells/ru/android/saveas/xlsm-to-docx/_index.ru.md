@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSM как DOCX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSM в виде файла формата DOCX.
 url: /ru/android/saveas/xlsm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlsm-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM в формате DOCX на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для сохранения XLSM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLSM в виде DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека для Android — это профессиональное решение для сохранения XLSM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSM в формате DOCX" gistPath="" %}}

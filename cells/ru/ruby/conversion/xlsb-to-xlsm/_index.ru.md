@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLSB в XLSM API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLSB в файл формата XLSM.
 url: /ru/ruby/conversion/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования XLSB в XLSM" h2="Библиотека Ruby для преобразования XLSB в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации XLSB в XLSM и другие форматы документов с использованием Ruby." urlsection="conversion/xlsb-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования XLSB в XLSM" h2="Библиотека Ruby для преобразования XLSB в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации XLSB в XLSM и других форматов документов с использованием Ruby." urlsection="conversion/xlsb-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XLSM в Ruby" >}}

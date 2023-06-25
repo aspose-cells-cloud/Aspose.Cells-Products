@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصور على Microsoft Excel & Open
 url: /ar/ruby/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby مسح لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي صور واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby مسح لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي صور واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to FODS Convert API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق FODS.
 url: /ar/android/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

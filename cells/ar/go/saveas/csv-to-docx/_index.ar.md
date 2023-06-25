@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV باسم DOCX API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق CSV كملف بتنسيق DOCX.
 url: /ar/go/saveas/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

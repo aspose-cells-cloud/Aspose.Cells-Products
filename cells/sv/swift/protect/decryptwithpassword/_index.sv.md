@@ -1,5 +1,5 @@
 ﻿---
-title:  Dekryptera lokala kalkylblad med lösenord i molnet
+title: Dekryptera lokala kalkylblad med lösenord i molnet
 description: " Cloud API:er och SDK:er för Microsoft Excel och OpenOffice Calc-upplåsning. Kalkylark dekrypterar med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/swift/protect/decrypt-with-password/
 ---

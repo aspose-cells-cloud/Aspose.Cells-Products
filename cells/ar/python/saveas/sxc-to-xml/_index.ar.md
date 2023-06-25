@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ XML API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق SXC كملف بتنسيق XML.
 url: /ar/python/saveas/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

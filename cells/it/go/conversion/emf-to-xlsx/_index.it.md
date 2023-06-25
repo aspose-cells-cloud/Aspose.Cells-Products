@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF a XLSX Converti API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato EMF in un file in formato XLSX.
 url: /it/go/conversion/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

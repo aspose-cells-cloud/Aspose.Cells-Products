@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ XLSX API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق GIF كملف بتنسيق XLSX.
 url: /ar/go/saveas/gif-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

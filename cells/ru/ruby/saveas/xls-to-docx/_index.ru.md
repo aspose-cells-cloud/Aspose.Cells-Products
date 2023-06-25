@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLS как DOCX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLS в виде файла формата DOCX.
 url: /ru/ruby/saveas/xls-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xls-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как DOCX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в виде DOCX — сложная задача. Все переходы между форматами XLS и DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLS в виде DOCX — сложная задача. Все переходы формата XLS в формат DOCX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLS в формате DOCX" gistPath="" %}}

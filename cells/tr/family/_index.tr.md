@@ -1,5 +1,5 @@
 ﻿---
-title:  Cloud Elektronik Tablo Oluşturucu ve Dönüştürücü SDK'ları ve REST API'leri
+title: Cloud Elektronik Tablo Oluşturucu ve Dönüştürücü SDK'ları ve REST API'leri
 description:  Popüler diller için SDK'lar, bulutta barındırılan Excel ve OpenOffice elektronik tablolarını okumak, değiştirmek ve dönüştürmek için uygulamalarınıza sorunsuz entegrasyon sağlar
 weight: 10
 url: /tr/family

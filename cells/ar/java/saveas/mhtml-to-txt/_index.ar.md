@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ MHTML كـ TXT API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق MHTML كملف بتنسيق TXT.
 url: /ar/java/saveas/mhtml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ MHTML كـ TXT" h2="Java مكتبة لحفظ MHTML كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ MHTML كـ TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ MHTML كـ TXT" h2="Java مكتبة لحفظ MHTML كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ MHTML كـ TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/mhtml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم TXT في Java" >}}

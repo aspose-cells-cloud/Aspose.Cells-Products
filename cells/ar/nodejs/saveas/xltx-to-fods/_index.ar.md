@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ FODS API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLTX كملف بتنسيق FODS.
 url: /ar/nodejs/saveas/xltx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

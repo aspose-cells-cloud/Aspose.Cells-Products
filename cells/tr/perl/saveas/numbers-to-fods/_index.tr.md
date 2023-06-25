@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Perl için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Perl kullanılarak NUMBERS biçim dosyasını FODS biçim dosyası olarak kaydedin.
 url: /tr/perl/saveas/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

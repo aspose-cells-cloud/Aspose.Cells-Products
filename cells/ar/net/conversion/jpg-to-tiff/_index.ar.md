@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى TIFF حوّل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JPG إلى TIFF حوّل API إلى C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق JPG إلى ملف بتنسيق TIFF.
 url: /ar/net/conversion/jpg-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

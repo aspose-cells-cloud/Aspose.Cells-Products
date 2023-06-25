@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى WMF - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSB إلى ملف بتنسيق WMF.
 url: /ar/ruby/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

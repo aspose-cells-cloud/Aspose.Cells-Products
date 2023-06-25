@@ -1,6 +1,6 @@
 ﻿---
-title: EMF إلى GIF تحويل API عن PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  EMF إلى GIF تحويل API عن PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق EMF إلى ملف بتنسيق GIF.
 url: /ar/php/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

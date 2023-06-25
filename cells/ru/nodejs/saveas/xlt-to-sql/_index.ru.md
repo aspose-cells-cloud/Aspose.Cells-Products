@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLT как SQL API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLT в виде файла формата SQL.
 url: /ru/nodejs/saveas/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

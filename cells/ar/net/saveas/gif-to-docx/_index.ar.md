@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ DOCX API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق GIF كملف بتنسيق DOCX.
 url: /ar/net/saveas/gif-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

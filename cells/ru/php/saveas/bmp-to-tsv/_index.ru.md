@@ -1,16 +1,16 @@
 ﻿---
 title: Сохранить BMP как TSV API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата BMP в виде файла формата TSV.
 url: /ru/php/saveas/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить BMP как TSV" h2="Библиотека PHP для сохранения BMP как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения BMP в формате TSV и других форматах документов в Интернете с использованием PHP." urlsection="saveas/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить BMP как TSV" h2="PHP библиотека для сохранения BMP как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения BMP в формате TSV и других форматах документов в Интернете с использованием PHP." urlsection="saveas/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как TSV в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим пакетом SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения BMP в формате TSV" gistPath="" %}}

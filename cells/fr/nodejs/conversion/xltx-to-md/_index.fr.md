@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX en MD API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format XLTX en fichier au format MD.
 url: /fr/nodejs/conversion/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
-title: HTML zu WMF Konvertieren Sie API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  HTML in WMF Konvertieren Sie API in Python
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine Datei im HTML-Format in eine WMF-Formatdatei zu konvertieren.
 url: /de/python/conversion/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API um HTML in WMF umzuwandeln" h2="Python-Bibliothek zum Konvertieren von HTML in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von HTML in WMF und andere Dokumentformate unter Verwendung von Python." urlsection="conversion/html-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von HTML in WMF" h2="Python-Bibliothek zum Konvertieren von HTML in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Python in WMF und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in WMF in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in WMF ist eine komplexe Aufgabe. Alle Übergänge vom HTML- zum WMF-Format werden von unserem Python-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der HTML-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um HTML online in WMF-Dateien zu konvertieren. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in WMF ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum WMF-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um HTML online in WMF-Dateien zu konvertieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von HTML in das WMF-Format" gistPath="" %}}
@@ -28,10 +28,10 @@ Das Konvertieren von Dateiformaten von HTML in WMF ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um HTML in WMF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um HTML in WMF zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

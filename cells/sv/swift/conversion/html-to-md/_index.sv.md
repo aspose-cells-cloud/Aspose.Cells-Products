@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till MD Convert API för Swift
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
 url: /sv/swift/conversion/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

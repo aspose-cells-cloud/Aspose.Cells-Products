@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS till EMF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera NUMBERS-formatfilen till EMF-formatfilen.
 url: /sv/nodejs/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

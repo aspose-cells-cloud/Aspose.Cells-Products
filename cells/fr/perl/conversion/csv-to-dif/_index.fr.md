@@ -1,10 +1,10 @@
 ﻿---
 title:  Conversion CSV en DIF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format CSV en fichier au format DIF.
 url: /fr/perl/conversion/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir CSV en DIF" h2="bibliothèque Perl pour convertir CSV en DIF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir CSV en DIF et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/csv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir CSV en DIF" h2="bibliothèque Perl pour convertir CSV en DIF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir CSV en DIF et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/csv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en DIF en Perl" >}}

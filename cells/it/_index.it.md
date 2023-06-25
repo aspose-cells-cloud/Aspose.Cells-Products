@@ -19,7 +19,7 @@ Migliora le tue applicazioni cloud .NET per generare, visualizzare e convertire 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="SDK cloud for Java" imgSrc="/sdk/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Crea cloud Excel e generatore di fogli di calcolo OpenOffice ed app di esportazione in Java via REST API.
+Crea app cloud Excel e generatore di fogli di calcolo OpenOffice ed esportatore in Java via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="/cells/family/" innerText="Visualizza tutte le API a basso codice" >}}

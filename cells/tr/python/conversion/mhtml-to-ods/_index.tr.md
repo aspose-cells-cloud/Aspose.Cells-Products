@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML'den ODS'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  MHTML'den ODS'ye Dönüştürme API için Python
+description:  MHTML formatındaki dosyayı ODS formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

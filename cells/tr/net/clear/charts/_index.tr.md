@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/net/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki tabloları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki grafikleri ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve C#\'i kullanarak OpenOffice Calc elektronik tablosundaki grafikleri temizler." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için" h2="C# Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki tabloları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki grafikleri ve C#\'deki OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve C#\'i kullanarak OpenOffice Calc elektronik tablosundaki grafikleri temizler." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Hesap Tablosu - C# REST API üzerindeki grafikleri temizle" >}}

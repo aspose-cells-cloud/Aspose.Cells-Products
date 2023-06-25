@@ -1,13 +1,13 @@
 ﻿---
 title:  احفظ ODS كـ BMP API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق ODS كملف بتنسيق BMP.
 url: /ar/python/saveas/ods-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ المواد المستنفدة للأوزون كـ BMP" h2="مكتبة Python لحفظ نظام الوثائق الرسمية كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ ODS كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/ods-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بالشكل BMP في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كـ BMP في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS كـ BMP مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى BMP بواسطة SDK Python مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبتنا Python هي حل احترافي لحفظ ODS كملفات BMP عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج BMP مثالي.

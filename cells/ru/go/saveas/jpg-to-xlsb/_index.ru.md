@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XLSB API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата JPG в виде файла формата XLSB.
 url: /ru/go/saveas/jpg-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

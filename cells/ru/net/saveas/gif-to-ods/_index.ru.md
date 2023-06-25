@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как ODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата GIF в виде файла формата ODS.
 url: /ru/net/saveas/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/gif-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните GIF-файл как ODS по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде ODS — сложная задача. Все переходы формата GIF в формат ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека C# — это профессиональное решение для сохранения GIF в формате ODS в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из GIF в виде ODS — сложная задача. Все переходы формата GIF в формат ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека C# — это профессиональное решение для сохранения GIF в формате ODS в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения GIF в формате ODS" gistPath="" %}}

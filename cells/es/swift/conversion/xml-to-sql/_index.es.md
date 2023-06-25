@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML a SQL API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/conversion/xml-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XML a SQL en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XML a SQL es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato XML a SQL mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XML a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida SQL perfecta.
+Convertir formatos de archivo de XML a SQL es una tarea compleja. Todas las transiciones de formato XML a SQL son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XML a SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida SQL perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir XML a formato SQL" gistPath="" %}}

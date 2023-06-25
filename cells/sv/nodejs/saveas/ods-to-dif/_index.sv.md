@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara ODS som DIF API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara ODS-formatfil som DIF-formatfil.
 url: /sv/nodejs/saveas/ods-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/nodejs/saveas/ods-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en ODS-fil som DIF i NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från ODS som DIF är en komplex uppgift. Alla ODS- till DIF-formatövergångar utförs av vår NodeJS SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara ODS som DIF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
+Att spara filformat från ODS som DIF är en komplex uppgift. Alla ODS- till DIF-formatövergångar utförs av vår NodeJS SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt NodeJS-bibliotek är en professionell lösning för att spara ODS som DIF-filer online. Denna Cloud SDK ger NodeJS-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i NodeJS med REST API för att spara ODS som DIF-format" gistPath="" %}}

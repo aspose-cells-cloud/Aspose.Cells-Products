@@ -1,10 +1,10 @@
 ﻿---
 title:  TXT إلى PPTX - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق TXT إلى ملف بتنسيق PPTX.
 url: /ar/java/conversion/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل TXT إلى PPTX" h2="Java مكتبة لتحويل TXT إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل TXT إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/txt-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل TXT إلى PPTX" h2="Java مكتبة لتحويل TXT إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل TXT إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/txt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى PPTX في Java" >}}

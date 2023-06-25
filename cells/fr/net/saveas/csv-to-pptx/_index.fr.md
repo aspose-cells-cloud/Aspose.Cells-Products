@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez CSV sous PPTX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format CSV en tant que fichier au format PPTX.
 url: /fr/net/saveas/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

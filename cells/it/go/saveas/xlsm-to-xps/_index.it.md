@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come XPS API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLSM come file in formato XPS.
 url: /it/go/saveas/xlsm-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى FODS - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق JPG إلى ملف بتنسيق FODS.
 url: /ar/java/conversion/jpg-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

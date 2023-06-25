@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TSV в DIF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата TSV в файл формата DIF.
 url: /ru/java/conversion/tsv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/tsv-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в DIF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в DIF — сложная задача. Все переходы форматов TSV в DIF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов TSV в DIF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из TSV в DIF — сложная задача. Все переходы между форматами TSV и DIF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов TSV в DIF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования TSV в формат DIF" gistPath="" %}}

@@ -1,16 +1,16 @@
 ﻿---
 title: Сохранить BMP как TSV API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата BMP в виде файла формата TSV.
 url: /ru/perl/saveas/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить BMP как TSV" h2="Библиотека Perl для сохранения BMP как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения BMP в формате TSV и других форматах документов в Интернете с использованием Perl." urlsection="saveas/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить BMP как TSV" h2="Perl библиотека для сохранения BMP как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения BMP в формате TSV и других форматах документов в Интернете с использованием Perl." urlsection="saveas/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как TSV в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим пакетом SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения BMP в формате TSV" gistPath="" %}}

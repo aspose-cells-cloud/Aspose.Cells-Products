@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som EMF API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för C# för att spara fil i XLSB-format som fil i EMF-format.
 url: /sv/net/saveas/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

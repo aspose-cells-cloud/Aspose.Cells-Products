@@ -1,6 +1,6 @@
 ﻿---
-title: Salva PNG come CSV API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Salva PNG come CSV API per NodeJS
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato PNG come file in formato CSV.
 url: /it/nodejs/saveas/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

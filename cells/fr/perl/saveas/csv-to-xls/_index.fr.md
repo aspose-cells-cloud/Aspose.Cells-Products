@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer CSV sous XLS API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format CSV en tant que fichier au format XLS.
 url: /fr/perl/saveas/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

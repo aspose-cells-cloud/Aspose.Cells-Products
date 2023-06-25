@@ -1,16 +1,16 @@
 ﻿---
-title:  XML-zu-SQL-Konvertierung API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XML in SQL konvertieren API für Go
+description:  Verwenden von Aspose.Cells Cloud SDK für Go zum Konvertieren einer XML-Formatdatei in eine SQL-Formatdatei.
 url: /de/go/conversion/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML in SQL zu konvertieren" h2="Gehen Sie zur Bibliothek, um XML in SQL zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XML in SQL und andere Dokumentformate mit Go." urlsection="conversion/xml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML in SQL zu konvertieren" h2="Gehen Sie zur Bibliothek, um XML in SQL zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in SQL und andere Dokumentformate mit Go." urlsection="conversion/xml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in Go in SQL" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML in SQL ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu SQL werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von XML- in SQL-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte SQL-Ausgabe.
+Das Konvertieren von Dateiformaten von XML nach SQL ist eine komplexe Aufgabe. Alle XML-zu-SQL-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in SQL-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XML in das SQL-Format" gistPath="" %}}
@@ -48,10 +48,10 @@ Das Konvertieren von Dateiformaten von XML in SQL ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Verwendung von Go API zum Konvertieren von XML in SQL" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API zum Konvertieren von XML in SQL" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

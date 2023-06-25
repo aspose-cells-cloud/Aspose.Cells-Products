@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTX come XLTM API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XLTX come file in formato XLTM.
 url: /it/ruby/saveas/xltx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

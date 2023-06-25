@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT в BMP Конвертировать API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/txt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/txt-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в BMP в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в BMP — сложная задача. Все переходы формата TXT в формат BMP выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TXT в BMP. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод BMP.
+Преобразование форматов файлов из TXT в BMP — сложная задача. Все переходы формата TXT в формат BMP выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов TXT в файлы BMP. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования TXT в формат BMP" gistPath="" %}}

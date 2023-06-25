@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar comentarios en Microsoft Excel y 
 url: /es/go/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar los comentarios en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar los comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar los comentarios sobre los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra los comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Go." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar los comentarios en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar los comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar los comentarios sobre los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra los comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Go." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir REST API" >}}

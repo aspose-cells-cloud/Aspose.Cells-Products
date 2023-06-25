@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TSV в DOCX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата TSV в файл формата DOCX.
 url: /ru/android/conversion/tsv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в DOCX на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в DOCX. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из TSV в DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов TSV в DOCX. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования TSV в формат DOCX" gistPath="" %}}

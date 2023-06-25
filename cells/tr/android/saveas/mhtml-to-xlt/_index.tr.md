@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için MHTML'yi XLT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: MHTML biçim dosyasını XLT biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/mhtml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/mhtml-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Android\'de XLT olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini MHTML'den XLT olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XLT biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, MHTML'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya biçimlerini MHTML'den XLT olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XLT biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, MHTML'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XLT biçimi olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

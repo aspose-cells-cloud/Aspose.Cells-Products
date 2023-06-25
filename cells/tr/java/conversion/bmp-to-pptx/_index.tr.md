@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP'den PPTX'e Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: BMP'den PPTX'e Dönüştür API for Java
+description:  BMP formatındaki dosyayı PPTX formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come XPS API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato XLT come file in formato XPS.
 url: /it/nodejs/saveas/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

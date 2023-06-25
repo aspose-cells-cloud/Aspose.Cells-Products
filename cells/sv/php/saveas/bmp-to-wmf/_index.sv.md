@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som WMF API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara BMP filformat som WMF format fil.
 url: /sv/php/saveas/bmp-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

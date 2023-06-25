@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Android için XLTX API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını XLTX biçim dosyası olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/saveas/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/numbers-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir NUMBERS dosyasını XLTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini XLTX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan XLTX'e format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
+NUMBERS dosya biçimlerini XLTX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan XLTX'e biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'i XLTX formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

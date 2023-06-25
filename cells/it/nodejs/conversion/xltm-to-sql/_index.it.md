@@ -1,6 +1,6 @@
 ﻿---
-title:  Conversione da XLTM a SQL API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Conversione da XLTM a SQL API per NodeJS
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XLTM in un file in formato SQL.
 url: /it/nodejs/conversion/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

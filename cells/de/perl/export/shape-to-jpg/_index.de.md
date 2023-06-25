@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie SHAPE in JPG aus der Tabelle mit Perl API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie SHAPE aus der Tabelle mit Perl API in JPG
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/perl/export/shape-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren von SHAPE in eine JPG-Datei" h2="Perl Bibliothek zum Exportieren von SHAPE in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Perl zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von SHAPE-Dateien im JPG-Format aus Tabellenkalkulationen online mit Perl." urlsection="export/shape-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren von SHAPE in eine JPG-Datei" h2="Perl-Bibliothek zum Exportieren von SHAPE in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Perl zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online aus einer Tabellenkalkulation in eine JPG-Formatdatei mit Perl zu exportieren." urlsection="export/shape-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die Datei im JPG-Format in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die JPG-Formatdatei Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren von SHAPE-Objekten in eine JPG-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von SHAPE in das JPG-Format wird von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im JPG-Format zu exportieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen im SHAPE-Format in das JPG-Format wird von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im JPG-Format zu exportieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von SHAPE in das JPG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von SHAPE in das JPG-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -38,9 +38,9 @@ Das Exportieren von SHAPE-Objekten in eine JPG-Datei aus einer Tabelle ist eine 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um SHAPE in JPG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

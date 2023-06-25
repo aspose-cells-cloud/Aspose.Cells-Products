@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM'den PNG'e PHP için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLTM'den PNG'e PHP için API'i dönüştürün
+description:  XLTM biçim dosyasını PNG biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/xltm-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

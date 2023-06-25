@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как JPG API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата CSV в виде файла формата JPG.
 url: /ru/go/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/csv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как JPG в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы формата CSV в формат JPG выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате JPG.
+Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы формата CSV в формат JPG выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения CSV в формате JPG" gistPath="" %}}

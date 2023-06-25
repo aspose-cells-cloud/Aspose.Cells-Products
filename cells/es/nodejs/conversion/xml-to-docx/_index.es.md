@@ -1,6 +1,6 @@
 ﻿---
 title:  XML a DOCX Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato XML a un archivo de formato DOCX.
 url: /es/nodejs/conversion/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/conversion/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XML a DOCX en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XML a DOCX es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato XML a DOCX mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos XML a DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida DOCX perfecta.
+Convertir formatos de archivo de XML a DOCX es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato XML a DOCX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos XML a DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida DOCX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para convertir XML a formato DOCX" gistPath="" %}}

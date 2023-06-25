@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG a PPTX Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato PNG a un archivo de formato PPTX.
 url: /es/net/conversion/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

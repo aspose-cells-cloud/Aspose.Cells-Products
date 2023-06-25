@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM إلى MD تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLTM إلى ملف بتنسيق MD.
 url: /ar/java/conversion/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

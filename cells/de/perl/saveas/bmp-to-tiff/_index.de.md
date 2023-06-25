@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie BMP als TIFF API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im Format BMP als Datei im Format TIFF zu speichern.
 url: /de/perl/saveas/bmp-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um BMP als TIFF zu speichern" h2="Perl-Bibliothek zum Speichern von BMP als TIFF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um BMP als TIFF und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/bmp-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um BMP als TIFF zu speichern" h2="Perl-Bibliothek, um BMP als TIFF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um BMP als TIFF und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/bmp-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als TIFF in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu TIFF werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BMP-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um BMP als TIFF-Dateien online zu speichern. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu TIFF werden von unserem Perl SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um BMP als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von BMP im TIFF-Format" gistPath="" %}}
@@ -30,9 +30,9 @@ Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um BMP als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

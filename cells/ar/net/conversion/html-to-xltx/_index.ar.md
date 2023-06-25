@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى XLTX تحويل API ل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLTX.
 url: /ar/net/conversion/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

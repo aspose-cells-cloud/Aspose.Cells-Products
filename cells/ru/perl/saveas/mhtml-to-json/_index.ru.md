@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как JSON API для Perl.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата MHTML в виде файла формата JSON.
 url: /ru/perl/saveas/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/mhtml-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как JSON в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде JSON — сложная задача. Все переходы формата MHTML в формат JSON выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для сохранения MHTML в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов из MHTML в виде JSON — сложная задача. Все переходы формата MHTML в формат JSON выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для сохранения MHTML в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения MHTML в формате JSON" gistPath="" %}}

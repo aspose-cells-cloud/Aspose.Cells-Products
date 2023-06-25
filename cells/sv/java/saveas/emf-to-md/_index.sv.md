@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som MD API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara EMF filformat som fil i MD-format.
 url: /sv/java/saveas/emf-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

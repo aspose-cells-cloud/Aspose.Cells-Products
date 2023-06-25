@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez XLSB sous XLSM API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLSB en tant que fichier au format XLSM.
 url: /fr/net/saveas/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLSB en XLSM" h2="bibliothèque C# pour enregistrer XLSB en XLSM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format XLSM et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/xlsb-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLSB en XLSM" h2="bibliothèque C# pour enregistrer XLSB en XLSM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format XLSM et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/xlsb-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB en tant que XLSM dans C#" >}}

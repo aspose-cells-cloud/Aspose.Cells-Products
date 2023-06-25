@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كـ XLSM API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق TXT كملف بتنسيق XLSM.
 url: /ar/php/saveas/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

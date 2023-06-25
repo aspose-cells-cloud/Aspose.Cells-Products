@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar objetos de lista en Microsoft Exce
 url: /es/android/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

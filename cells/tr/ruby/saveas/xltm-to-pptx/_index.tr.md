@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLTM'yi PPTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTM biçim dosyasını PPTX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/xltm-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/xltm-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTM dosyasını Ruby\'de PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLTM'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLTM'den PPTX'e format geçişleri, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLTM'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+Dosya formatlarını XLTM'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLTM'den PPTX'e biçim geçişleri, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLTM'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de XLTM\'yi PPTX formatı olarak kaydetmek için REST API kullanan kod örneği" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TXT باسم DIF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TXT كملف بتنسيق DIF.
 url: /ar/android/saveas/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كـ DIF" h2="مكتبة Android لحفظ TXT كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كـ DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كـ DIF" h2="مكتبة Android لحفظ TXT كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كـ DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT كملف DIF في Android" >}}

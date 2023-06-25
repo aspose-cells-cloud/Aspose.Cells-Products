@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TXT كـ SXC API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TXT كملف بتنسيق SXC.
 url: /ar/android/saveas/txt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كـ SXC" h2="مكتبة Android لحفظ TXT كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كـ SXC" h2="مكتبة Android لحفظ TXT كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT باسم SXC في Android" >}}

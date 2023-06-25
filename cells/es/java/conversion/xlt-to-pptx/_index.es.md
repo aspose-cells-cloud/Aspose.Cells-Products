@@ -1,10 +1,10 @@
 ﻿---
 title:  XLT a PPTX Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato XLT a un archivo de formato PPTX.
 url: /es/java/conversion/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir XLT a PPTX" h2="Java biblioteca para convertir XLT a PPTX" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir XLT a PPTX y otros formatos de documentos en línea usando Java." urlsection="conversion/xlt-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir XLT a PPTX" h2="Java biblioteca para convertir XLT a PPTX" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir XLT a PPTX y otros formatos de documentos en línea usando Java." urlsection="conversion/xlt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLT a PPTX en Java" >}}

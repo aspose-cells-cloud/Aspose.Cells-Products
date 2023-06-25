@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei contenuti su Microsoft Ex
 url: /it/php/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="PHP Cancella per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare il contenuto sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in PHP. Questa soluzione professionale cancella il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando PHP." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="PHP Cancella per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare il contenuto sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in PHP. Questa soluzione professionale cancella il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando PHP." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - PHP REST API" >}}

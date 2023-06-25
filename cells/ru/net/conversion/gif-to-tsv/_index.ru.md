@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование GIF в TSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата GIF в файл формата TSV.
 url: /ru/net/conversion/gif-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования GIF в TSV" h2="C# библиотека для преобразования GIF в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования GIF в TSV и другие форматы документов онлайн с помощью C#." urlsection="conversion/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования GIF в TSV" h2="C# библиотека для преобразования GIF в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации GIF в TSV и другие форматы документов по телефону C#." urlsection="conversion/gif-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в TSV по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов GIF в TSV. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из GIF в TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов GIF в TSV. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования GIF в формат TSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как DOCX API для Swift.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/sxc-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/sxc-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как DOCX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде DOCX — сложная задача. Все переходы формата SXC в формат DOCX выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для сохранения SXC в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из SXC в виде DOCX — сложная задача. Все переходы формата SXC в формат DOCX выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для сохранения SXC в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения SXC в формате DOCX" gistPath="" %}}

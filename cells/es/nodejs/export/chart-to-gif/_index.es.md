@@ -1,10 +1,10 @@
 ﻿---
 title:  Exporte CHART a GIF desde una hoja de cálculo usando NodeJS API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/nodejs/export/chart-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para exportar CHART a archivo GIF" h2="Biblioteca NodeJS para exportar CHART a archivo GIF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en NodeJS. Esta es una solución profesional para exportar CHART a un archivo de formato GIF desde una hoja de cálculo en línea usando NodeJS." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para exportar CHART a archivo GIF" h2="Biblioteca NodeJS para exportar CHART a archivo GIF" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en NodeJS. Esta es una solución profesional para exportar un archivo de formato CHART a GIF desde una hoja de cálculo en línea usando NodeJS." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato GIF en NodeJS" >}}

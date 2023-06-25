@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTM как MD API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLTM как файла формата MD.
 url: /ru/go/saveas/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xltm-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как MD в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде MD — сложная задача. Все переходы от формата XLTM к формату MD выполняются нашим Go SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов из XLTM в виде MD — сложная задача. Все переходы от формата XLTM к формату MD выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLTM в формате MD" gistPath="" %}}

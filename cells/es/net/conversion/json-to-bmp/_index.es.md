@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON a BMP Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JSON a BMP Convertir API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir archivos de formato JSON a archivos de formato BMP.
 url: /es/net/conversion/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

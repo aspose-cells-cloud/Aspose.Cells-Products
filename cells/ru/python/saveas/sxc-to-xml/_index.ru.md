@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата SXC в виде файла формата XML.
 url: /ru/python/saveas/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/sxc-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как XML в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде XML — сложная задача. Все переходы формата SXC в формат XML выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для сохранения SXC в виде файлов XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из SXC в формате XML — сложная задача. Все переходы формата SXC в формат XML выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для сохранения SXC в виде файлов XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения SXC в формате XML" gistPath="" %}}

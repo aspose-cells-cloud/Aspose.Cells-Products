@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى PPTX تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLSB إلى ملف بتنسيق PPTX.
 url: /ar/net/conversion/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

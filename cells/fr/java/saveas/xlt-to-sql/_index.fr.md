@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT sous SQL API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format XLT en tant que fichier au format SQL.
 url: /fr/java/saveas/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

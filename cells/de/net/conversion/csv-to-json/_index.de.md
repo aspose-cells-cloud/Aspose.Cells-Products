@@ -1,16 +1,16 @@
 ﻿---
-title:  CSV in JSON Konvertieren Sie API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  CSV in JSON Konvertieren Sie API in C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im CSV-Format in eine Datei im JSON-Format.
 url: /de/net/conversion/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um CSV in JSON zu konvertieren" h2="C#-Bibliothek zum Konvertieren von CSV in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von CSV in JSON und andere Dokumentformate online mit C#." urlsection="conversion/csv-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von CSV in JSON" h2="C#-Bibliothek zum Konvertieren von CSV in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von CSV in JSON und andere Dokumentformate unter C#." urlsection="conversion/csv-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in C# in JSON" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in JSON in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in JSON ist eine komplexe Aufgabe. Alle Formatübergänge von CSV zu JSON werden von unserem C# SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-CSV-Tabelle beibehalten werden. Unsere C#-Bibliothek ist eine professionelle Lösung, um CSV-Dateien online in JSON-Dateien zu konvertieren. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in JSON ist eine komplexe Aufgabe. Alle CSV-zu-JSON-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in JSON-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von CSV in das JSON-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von CSV in JSON ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um CSV in JSON zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Konvertieren von CSV in JSON" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

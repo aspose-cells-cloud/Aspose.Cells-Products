@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить NUMBERS как JSON API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата NUMBERS в виде файла формата JSON.
 url: /ru/ruby/saveas/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/numbers-to-json/
 Сохранение форматов файлов из NUMBERS в виде JSON — сложная задача. Все переходы NUMBERS в формат JSON выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для сохранения NUMBERS в виде файлов JSON онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения NUMBERS в формате JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения NUMBERS в формате JSON" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

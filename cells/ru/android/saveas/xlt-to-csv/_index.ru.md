@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLT как CSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLT как CSV API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLT в виде файла формата CSV.
 url: /ru/android/saveas/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

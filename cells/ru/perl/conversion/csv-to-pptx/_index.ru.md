@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование CSV в PPTX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата CSV в файл формата PPTX.
 url: /ru/perl/conversion/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования CSV в PPTX" h2="Perl библиотека для преобразования CSV в PPTX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации CSV в PPTX и другие форматы документов с использованием Perl." urlsection="conversion/csv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в PPTX по номеру Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в PPTX в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из CSV в PPTX — сложная задача. Все переходы между форматами CSV и PPTX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов CSV в PPTX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод PPTX.

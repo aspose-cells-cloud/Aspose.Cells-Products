@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в XPS Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата EMF в файл формата XPS.
 url: /ru/nodejs/conversion/emf-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

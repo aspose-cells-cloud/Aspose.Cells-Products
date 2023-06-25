@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLTM sous TIFF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format TIFF.
 url: /fr/android/saveas/xltm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/android/saveas/xltm-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTM sous TIFF dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTM sous le nom TIFF est une tâche complexe. Toutes les transitions de format XLTM vers TIFF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne les fichiers XLTM sous le nom TIFF. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TIFF parfaite.
+L'enregistrement des formats de fichiers à partir de XLTM sous le nom TIFF est une tâche complexe. Toutes les transitions de format XLTM vers TIFF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne les fichiers XLTM sous le nom TIFF. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TIFF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLTM au format TIFF" gistPath="" %}}

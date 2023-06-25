@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar ODS como XLSX API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar ODS como XLSX API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato ODS como archivo de formato XLSX.
 url: /es/php/saveas/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

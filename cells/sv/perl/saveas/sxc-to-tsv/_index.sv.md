@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara SXC som TSV API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara SXC som TSV API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara SXC-formatfil som TSV-formatfil.
 url: /sv/perl/saveas/sxc-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

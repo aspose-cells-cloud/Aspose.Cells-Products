@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSB كـ MHTML API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSB كملف بتنسيق MHTML.
 url: /ar/java/saveas/xlsb-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните JSON как MHTML API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JSON в виде файла формата MHTML.
 url: /ru/nodejs/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JSON как MHTML" h2="Библиотека NodeJS для сохранения JSON как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JSON как MHTML и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/json-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения JSON как MHTML" h2="Библиотека NodeJS для сохранения JSON как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения JSON в виде MHTML и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/json-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как MHTML в NodeJS." >}}

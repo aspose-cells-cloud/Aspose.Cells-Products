@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование HTML в PPTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата HTML в файл формата PPTX.
 url: /ru/go/conversion/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать HTML в PPTX." h2="Перейти к библиотеке для преобразования HTML в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования HTML в PPTX и другие форматы документов онлайн с помощью Go." urlsection="conversion/html-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать HTML в PPTX." h2="Перейти к библиотеке для преобразования HTML в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации HTML в PPTX и другие форматы документов с помощью Go." urlsection="conversion/html-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл HTML в PPTX в Go" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى GIF تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSM إلى ملف بتنسيق GIF.
 url: /ar/python/conversion/xlsm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/python/conversion/xlsm-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى GIF في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعتبر مكتبتنا Python حلاً احترافيًا لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج GIF مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبتنا Python هي حل احترافي لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج GIF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل XLSM إلى تنسيق GIF" gistPath="" %}}

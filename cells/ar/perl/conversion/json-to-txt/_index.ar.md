@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى TXT - تحويل API عن Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق JSON إلى ملف بتنسيق TXT.
 url: /ar/perl/conversion/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в MD API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата MHTML в файл формата MD.
 url: /ru/go/conversion/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

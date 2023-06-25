@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLS как TSV API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLS в виде файла формата TSV.
 url: /ru/go/saveas/xls-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xls-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как TSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в виде TSV — сложная задача. Все переходы между форматами XLS и TSV выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате TSV онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TSV.
+Сохранение форматов файлов из XLS в виде TSV — сложная задача. Все переходы между форматами XLS и TSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате TSV онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLS в формате TSV" gistPath="" %}}

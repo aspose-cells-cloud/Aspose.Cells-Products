@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как TXT API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLTX в виде файла формата TXT.
 url: /ru/python/saveas/xltx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

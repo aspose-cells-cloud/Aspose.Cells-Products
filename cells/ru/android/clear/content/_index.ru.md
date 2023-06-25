@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки содержим
 url: /ru/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Android Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение очищает контент на локальном телефоне Microsoft Excel и в электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Android Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение очищает контент на локальном телефоне Microsoft Excel и в электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — Android REST API" >}}

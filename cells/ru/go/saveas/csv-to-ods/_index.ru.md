@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как ODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата CSV в качестве файла формата ODS.
 url: /ru/go/saveas/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

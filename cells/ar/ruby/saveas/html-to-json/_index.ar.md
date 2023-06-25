@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ JSON API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق HTML كملف بتنسيق JSON.
 url: /ar/ruby/saveas/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

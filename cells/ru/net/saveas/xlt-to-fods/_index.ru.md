@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLT как FODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLT как FODS API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLT в качестве файла формата FODS.
 url: /ru/net/saveas/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

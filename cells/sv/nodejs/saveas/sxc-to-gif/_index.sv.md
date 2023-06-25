@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara SXC som GIF API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara SXC-formatfil som GIF-formatfil.
 url: /sv/nodejs/saveas/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

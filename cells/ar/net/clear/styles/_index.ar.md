@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الأنماط على Microsoft Excel &
 url: /ar/net/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="C# مسح لمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في C#. هذا الحل الاحترافي واضح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام C#." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="C# مسح لمسح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في C#. هذا الحل الاحترافي واضح الأنماط على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام C#." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - C# REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Android için NUMBERS'i XML'e Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Android için NUMBERS'i XML'e Dönüştür API
+description:  NUMBERS biçim dosyasını XML biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

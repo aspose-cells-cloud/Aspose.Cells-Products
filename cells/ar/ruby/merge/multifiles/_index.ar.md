@@ -1,10 +1,10 @@
 ﻿---
-title:  دمج ملفات Excel متعددة في ملف.
-description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة. دمج ملفات Excel متعددة في ملف بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  دمج Excel عدة ملفات في ملف باستخدام Ruby.
+description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة مع Ruby
 url: /ar/ruby/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لدمج Excel ملفات متعددة في ملف." h2="مكتبة روبي لدمج Excel ملفات متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Ruby. يدمج هذا الحل الاحترافي عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لدمج Excel ملفات متعددة في ملف." h2="مكتبة روبي لدمج Excel ملفات متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Ruby. يدمج هذا الحل الاحترافي عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - Ruby REST API" >}}

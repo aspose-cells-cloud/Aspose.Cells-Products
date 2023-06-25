@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML بصيغة GIF API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XML كملف بتنسيق GIF.
 url: /ar/php/saveas/xml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

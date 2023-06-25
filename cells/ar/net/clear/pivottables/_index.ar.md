@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/net/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="C# مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات C#. هذا الحل الاحترافي يمسح الجداول المحورية على Excel Microsoft المحلي و OpenOffice Calc باستخدام C#." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="C# مسح لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات C#. هذا الحل الاحترافي يمسح الجداول المحورية على Excel Microsoft المحلي و OpenOffice Calc باستخدام C#." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - C# REST API" >}}

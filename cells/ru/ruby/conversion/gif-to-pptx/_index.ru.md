@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в PPTX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата GIF в файл формата PPTX.
 url: /ru/ruby/conversion/gif-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/gif-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в PPTX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в PPTX — сложная задача. Все переходы формата GIF в формат PPTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов GIF в PPTX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
+Преобразование форматов файлов из GIF в PPTX — сложная задача. Все переходы формата GIF в PPTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов GIF в PPTX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования GIF в формат PPTX" gistPath="" %}}

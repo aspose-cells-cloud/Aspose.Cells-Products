@@ -1,16 +1,16 @@
 ﻿---
 title:  احفظ ODS كـ MHTML API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق ODS كملف بتنسيق MHTML.
 url: /ar/android/saveas/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ ODS كـ MHTML" h2="مكتبة Android لحفظ ODS كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ ODS بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ ODS كـ MHTML" h2="مكتبة Android لحفظ ODS كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ ODS بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بصيغة MHTML في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من ODS كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MHTML بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة Android الخاصة بنا هي حل احترافي لحفظ ODS كملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من ODS كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى MHTML بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ODS كملفات MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج MHTML مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ ODS بتنسيق MHTML" gistPath="" %}}

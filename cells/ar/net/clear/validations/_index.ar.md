@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح عمليات التحقق على Micros
 url: /ar/net/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح عمليات التحقق على جدول بيانات Excel Excel Microsoft المحلي و OpenOffice Calc" h2="C# امسح لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في C#. هذا الحل الاحترافي يمسح عمليات التحقق على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام C#." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لمسح عمليات التحقق على جدول بيانات Excel Excel Microsoft المحلي و OpenOffice Calc" h2="C# امسح لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في C#. هذا الحل الاحترافي يمسح عمليات التحقق على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام C#." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح عمليات التحقق من صحة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - C# REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как WMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSX в виде файла формата WMF.
 url: /ru/ruby/saveas/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xlsx-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как WMF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде WMF — сложная задача. Все переходы форматов XLSX в WMF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из XLSX в виде WMF — сложная задача. Все переходы форматов XLSX в WMF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLSX в формате WMF" gistPath="" %}}

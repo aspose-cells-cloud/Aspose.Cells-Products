@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ SXC كـ CSV API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ SXC كـ CSV API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق SXC كملف بتنسيق CSV.
 url: /ar/perl/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

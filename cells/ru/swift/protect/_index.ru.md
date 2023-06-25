@@ -1,10 +1,10 @@
 ﻿---
 title:  Защищать
-description:  Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и книги с цифровой подписью. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description: Aspose.Cells Cloud REST API поддерживает книги для расшифровки, шифрования и цифровой подписи. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Защищать" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и книги с цифровой подписью. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Защищать" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает книги для расшифровки, шифрования и цифровой подписи. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som XLTM API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLT-formatfil som XLTM-formatfil.
 url: /sv/java/saveas/xlt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

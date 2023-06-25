@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva ODS come JSON API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato ODS come file in formato JSON.
 url: /it/ruby/saveas/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

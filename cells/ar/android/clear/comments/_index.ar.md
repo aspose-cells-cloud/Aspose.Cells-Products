@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح التعليقات على Microsoft Exc
 url: /ar/android/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يوضح هذا الحل الاحترافي التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Android." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يوضح هذا الحل الاحترافي التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Android." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

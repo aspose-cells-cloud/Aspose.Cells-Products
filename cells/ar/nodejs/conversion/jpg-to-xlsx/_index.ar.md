@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى XLSX - تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLSX.
 url: /ar/nodejs/conversion/jpg-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

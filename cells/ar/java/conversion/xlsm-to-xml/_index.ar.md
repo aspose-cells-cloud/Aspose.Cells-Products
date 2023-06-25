@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLSM إلى XML API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSM إلى ملف بتنسيق XML.
 url: /ar/java/conversion/xlsm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

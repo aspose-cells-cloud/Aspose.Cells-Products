@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование NUMBERS в XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование NUMBERS в XML API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата NUMBERS в файл формата XML.
 url: /ru/python/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

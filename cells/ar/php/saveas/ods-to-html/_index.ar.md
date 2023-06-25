@@ -1,13 +1,13 @@
 ﻿---
 title:  احفظ ODS كـ HTML API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق ODS كملف بتنسيق HTML.
 url: /ar/php/saveas/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ المواد المستنفدة للأوزون كـ HTML" h2="مكتبة PHP لحفظ نظام الوثائق الرسمية كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ ODS كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/ods-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بالشكل HTML في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كـ HTML في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS كـ HTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى HTML بواسطة SDK PHP مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبتنا PHP هي حل احترافي لحفظ ODS كملفات HTML عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج HTML مثالي.

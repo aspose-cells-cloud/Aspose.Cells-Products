@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les commentaires sur Microsoft Excel
 url: /fr/go/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Go. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Go. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Go REST API" >}}

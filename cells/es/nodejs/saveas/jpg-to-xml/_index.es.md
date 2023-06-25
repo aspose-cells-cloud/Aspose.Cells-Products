@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar JPG como XML API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato JPG como archivo de formato XML.
 url: /es/nodejs/saveas/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/saveas/jpg-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo JPG como XML en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de JPG como XML es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato JPG a XML mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar JPG como archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XML perfecta.
+Guardar formatos de archivo de JPG como XML es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato JPG a XML mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar JPG como archivos XML en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XML perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar JPG como formato XML" gistPath="" %}}

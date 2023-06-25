@@ -1,10 +1,10 @@
 ﻿---
-title:  Преобразование XLT в JSON API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLT в JSON API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLT в файл формата JSON.
 url: /ru/net/conversion/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLT в JSON" h2="C# библиотека для преобразования XLT в JSON" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации XLT в JSON и другие форматы документов по телефону C#." urlsection="conversion/xlt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLT в JSON" h2="C# библиотека для преобразования XLT в JSON" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования XLT в JSON и другие форматы документов онлайн с помощью C#." urlsection="conversion/xlt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в JSON в C#" >}}

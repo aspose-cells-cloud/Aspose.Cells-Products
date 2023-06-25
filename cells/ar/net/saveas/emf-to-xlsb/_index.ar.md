@@ -1,6 +1,6 @@
 ﻿---
-title: وفر EMF كـ XLSB API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  وفر EMF كـ XLSB API مقابل C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق EMF كملف بتنسيق XLSB.
 url: /ar/net/saveas/emf-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

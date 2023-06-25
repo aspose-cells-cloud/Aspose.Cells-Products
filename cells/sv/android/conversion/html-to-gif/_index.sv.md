@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till GIF Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera HTML filformat till GIF-format fil.
 url: /sv/android/conversion/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

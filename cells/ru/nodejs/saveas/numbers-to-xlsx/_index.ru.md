@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохранить NUMBERS как XLSX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить NUMBERS как XLSX API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата NUMBERS в виде файла формата XLSX.
 url: /ru/nodejs/saveas/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения NUMBERS как XLSX" h2="Библиотека NodeJS для сохранения NUMBERS в формате XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения NUMBERS в формате XLSX и других форматах документов в Интернете с использованием NodeJS." urlsection="saveas/numbers-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XLSX в NodeJS." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате XLSX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как XLSX — сложная задача. Все переходы формата NUMBERS в формат XLSX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLSX.
+Сохранение форматов файлов из NUMBERS как XLSX — сложная задача. Все переходы NUMBERS в формат XLSX выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения NUMBERS в формате XLSX" gistPath="" %}}

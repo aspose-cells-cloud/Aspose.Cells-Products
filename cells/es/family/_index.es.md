@@ -1,5 +1,5 @@
 ﻿---
-title:  Generador y convertidor de hojas de cálculo en la nube SDK y API REST
+title: Generador y convertidor de hojas de cálculo en la nube SDK y API REST
 description:  Los SDK para idiomas populares brindan una integración perfecta en sus aplicaciones para leer, modificar y convertir Excel y hojas de cálculo de OpenOffice alojadas en la nube
 weight: 10
 url: /es/family

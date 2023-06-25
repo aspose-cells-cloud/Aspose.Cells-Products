@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить TSV как GIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TSV в виде файла формата GIF.
 url: /ru/ruby/saveas/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения TSV в формате GIF" h2="Библиотека Ruby для сохранения TSV в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV в виде GIF и других форматов документов онлайн с использованием Ruby." urlsection="saveas/tsv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения TSV в формате GIF" h2="Библиотека Ruby для сохранения TSV в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV в виде GIF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/tsv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение TSV-файла в формате GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в формате GIF — сложная задача. Все переходы форматов TSV в GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из TSV в формате GIF — сложная задача. Все переходы форматов TSV в GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения TSV в формате GIF" gistPath="" %}}

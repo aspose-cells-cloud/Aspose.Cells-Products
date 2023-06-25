@@ -1,6 +1,6 @@
 ﻿---
-title: Conversione da TSV a SQL API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Conversione da TSV a SQL API per PHP
+description: Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato TSV in un file in formato SQL.
 url: /it/php/conversion/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

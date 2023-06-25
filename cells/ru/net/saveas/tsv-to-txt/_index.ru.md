@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TSV как TXT API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата TSV в виде файла формата TXT.
 url: /ru/net/saveas/tsv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/tsv-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как TXT по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде TXT — сложная задача. Все переходы между форматами TSV и TXT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов TXT онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TXT.
+Сохранение форматов файлов из TSV в виде TXT — сложная задача. Все переходы между форматами TSV и TXT выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов TXT онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения TSV в формате TXT" gistPath="" %}}
@@ -27,7 +27,7 @@ url: /ru/net/saveas/tsv-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для сохранения TSV как TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API, чтобы сохранить TSV как TXT" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод CellsSaveAsPostDocumentSaveAs, чтобы получить результирующий поток.</li>

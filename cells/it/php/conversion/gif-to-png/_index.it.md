@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF in PNG Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: GIF in PNG Converti API in PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato GIF nel file in formato PNG.
 url: /it/php/conversion/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

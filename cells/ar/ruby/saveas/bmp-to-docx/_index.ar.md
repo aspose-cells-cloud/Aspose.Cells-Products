@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ BMP كـ DOCX API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق BMP كملف بتنسيق DOCX.
 url: /ar/ruby/saveas/bmp-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/saveas/bmp-to-docx/
 يعد حفظ تنسيقات الملفات من BMP كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى DOCX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ BMP كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ BMP بتنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لحفظ BMP بتنسيق DOCX" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

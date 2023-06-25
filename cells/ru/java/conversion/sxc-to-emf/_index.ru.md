@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC в EMF Конвертировать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата SXC в файл формата EMF.
 url: /ru/java/conversion/sxc-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/sxc-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в EMF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в EMF — сложная задача. Все переходы формата SXC в формат EMF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов SXC в файлы EMF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат EMF.
+Преобразование форматов файлов из SXC в EMF — сложная задача. Все переходы формата SXC в формат EMF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов SXC в файлы EMF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования SXC в формат EMF" gistPath="" %}}

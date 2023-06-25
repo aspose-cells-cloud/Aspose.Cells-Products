@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام باسم MD API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق NUMBERS كملف بتنسيق MD.
 url: /ar/go/saveas/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

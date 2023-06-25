@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF'i BMP'e dönüştür Python için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: GIF'i BMP'e dönüştür Python için API'e dönüştür
+description:  GIF formatındaki dosyayı BMP formatındaki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/gif-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

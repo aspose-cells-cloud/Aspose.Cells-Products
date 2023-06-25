@@ -1,16 +1,16 @@
 ﻿---
-title:  TXT-zu-XLS-Konvertierung API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TXT zu XLS Konvertieren Sie API für Ruby
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im TXT-Format in eine Datei im XLS-Format.
 url: /de/ruby/conversion/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von TXT in XLS" h2="Ruby-Bibliothek zum Konvertieren von TXT in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von TXT in XLS und andere Dokumentformate mit Ruby." urlsection="conversion/txt-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von TXT in XLS" h2="Ruby-Bibliothek zum Konvertieren von TXT in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in XLS und andere Dokumentformate mit Ruby." urlsection="conversion/txt-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in Ruby in XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in XLS in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in XLS ist eine komplexe Aufgabe. Alle Formatübergänge von TXT zu XLS werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TXT-Quelltabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von TXT- in XLS-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in XLS ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum XLS-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TXT- in XLS-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Konvertieren von TXT in das XLS-Format" gistPath="" %}}
@@ -30,15 +30,15 @@ Das Konvertieren von Dateiformaten von TXT in XLS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API zum Konvertieren von TXT in XLS" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um TXT in XLS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

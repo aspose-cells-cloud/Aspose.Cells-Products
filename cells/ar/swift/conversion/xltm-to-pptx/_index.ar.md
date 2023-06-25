@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM إلى PPTX - تحويل API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/conversion/xltm-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/xltm-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTM إلى PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLTM إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTM إلى ملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد تحويل تنسيقات الملفات من XLTM إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTM إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTM المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTM إلى PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل XLTM إلى تنسيق PPTX" gistPath="" %}}

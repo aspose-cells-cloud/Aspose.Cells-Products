@@ -1,6 +1,6 @@
 ﻿---
-title:  Ruby API kullanarak ÇALIŞMA KİTABI'nı e-tablodan WMF'ye aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title: Ruby API kullanarak ÇALIŞMA KİTABI'nı e-tablodan WMF'ye aktarın
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/ruby/export/workbook-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/ruby/export/workbook-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Ruby\'de WMF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan WMF dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u WMF biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
+ÇALIŞMA KİTABI nesnesini elektronik tablodan WMF dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u WMF formatına aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan WMF formatına dışa aktarmak için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

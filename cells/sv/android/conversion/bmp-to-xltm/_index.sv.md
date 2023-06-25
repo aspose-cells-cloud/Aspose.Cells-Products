@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP till XLTM Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: BMP till XLTM Konvertera API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i BMP-format till fil i XLTM-format.
 url: /sv/android/conversion/bmp-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

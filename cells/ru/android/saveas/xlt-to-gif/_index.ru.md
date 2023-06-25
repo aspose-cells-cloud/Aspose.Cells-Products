@@ -1,13 +1,13 @@
 ﻿---
 title:  Сохранить XLT как GIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLT в виде файла формата GIF.
 url: /ru/android/saveas/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLT в формате GIF" h2="Библиотека Android для сохранения XLT в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLT в виде GIF и других форматов документов онлайн с помощью Android." urlsection="saveas/xlt-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение файла XLT в формате GIF в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение файла XLT в формате GIF на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XLT в формате GIF — сложная задача. Все переходы форматов XLT в GIF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Android — это профессиональное решение для сохранения XLT в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.

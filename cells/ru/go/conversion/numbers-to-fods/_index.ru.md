@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to FODS Convert API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата NUMBERS в файл формата FODS.
 url: /ru/go/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/numbers-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл NUMBERS в FODS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в FODS — сложная задача. Все переходы формата NUMBERS в формат FODS выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов NUMBERS в FODS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
+Преобразование форматов файлов из NUMBERS в FODS — сложная задача. Все переходы формата NUMBERS в формат FODS выполняются нашим SDK Go при сохранении основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов NUMBERS в FODS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования NUMBERS в формат FODS" gistPath="" %}}

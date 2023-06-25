@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till XLS Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Perl för att konvertera fil i PNG-format till fil i XLS-format.
 url: /sv/perl/conversion/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

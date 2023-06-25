@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTX a XLS Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato XLTX a un archivo de formato XLS.
 url: /es/perl/conversion/xltx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir XLTX a XLS" h2="Perl biblioteca para convertir XLTX a XLS" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir XLTX a XLS y otros formatos de documentos en línea usando Perl." urlsection="conversion/xltx-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir XLTX a XLS" h2="Perl biblioteca para convertir XLTX a XLS" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir XLTX a XLS y otros formatos de documentos en línea usando Perl." urlsection="conversion/xltx-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XLTX a XLS en Perl" >}}

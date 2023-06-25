@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON в PNG Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: JSON в PNG Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата JSON в файл формата PNG.
 url: /ru/perl/conversion/json-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/json-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в PNG в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в PNG — сложная задача. Все переходы формата JSON в формат PNG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации JSON в файлы PNG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из JSON в PNG — сложная задача. Все переходы формата JSON в формат PNG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов JSON в файлы PNG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования JSON в формат PNG" gistPath="" %}}

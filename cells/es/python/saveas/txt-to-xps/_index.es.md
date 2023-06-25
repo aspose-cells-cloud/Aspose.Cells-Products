@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde TXT como XPS API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato TXT como archivo de formato XPS.
 url: /es/python/saveas/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

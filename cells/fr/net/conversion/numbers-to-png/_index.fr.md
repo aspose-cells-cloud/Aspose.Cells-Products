@@ -1,6 +1,6 @@
 ﻿---
-title:  CHIFFRES en PNG Convertir API en C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: CHIFFRES en PNG Convertir API en C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format NUMBERS en fichier au format PNG.
 url: /fr/net/conversion/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

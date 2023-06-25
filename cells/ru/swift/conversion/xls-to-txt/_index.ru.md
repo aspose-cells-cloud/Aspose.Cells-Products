@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLS в TXT API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xls-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в TXT" h2="Библиотека Swift для преобразования XLS в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLS в TXT и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в TXT" h2="Библиотека Swift для преобразования XLS в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLS в TXT и других форматов документов с помощью Swift." urlsection="conversion/xls-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в TXT в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в TXT — сложная задача. Все переходы формата XLS в TXT выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в TXT. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XLS в TXT — сложная задача. Все переходы между форматами XLS и TXT выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLS в TXT. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLS в формат TXT" gistPath="" %}}

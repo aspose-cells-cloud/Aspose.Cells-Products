@@ -1,16 +1,16 @@
 ﻿---
 title:  PNG'den FODS'ye Dönüştür API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/png-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i FODS\'ye dönüştürmek için Python API" h2="PNG\'i FODS\'ye dönüştürmek için Python kitaplığı" p="Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, PNG\'i Python kullanarak çevrimiçi olarak FODS\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i FODS\'ye dönüştürmek için Python API" h2="PNG\'i FODS\'ye dönüştürmek için Python kitaplığı" p="Cells Conversion REST API\'i kullanarak Python\'de özelleştirilmiş elektronik tablo iş akışları oluşturun. Bu, PNG\'i Python kullanarak çevrimiçi olarak FODS\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Python\'de FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm PNG'den FODS formatına geçişler, Python SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, PNG'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını PNG'den FODS'ye dönüştürmek karmaşık bir iştir. PNG'den FODS biçimine geçişlerin tümü, Python SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, PNG'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PNG\'i FODS formatına dönüştürmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}

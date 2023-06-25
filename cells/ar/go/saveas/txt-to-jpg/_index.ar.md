@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT بتنسيق JPG API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق TXT كملف بتنسيق JPG.
 url: /ar/go/saveas/txt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

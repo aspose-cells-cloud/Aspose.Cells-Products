@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ الأرقام باسم WMF API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/saveas/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ الأرقام بتنسيق WMF" h2="مكتبة سريعة لحفظ NUMBERS كـ WMF" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ الأرقام بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/numbers-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ الأرقام كـ WMF" h2="مكتبة سريعة لحفظ NUMBERS كـ WMF" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ الأرقام بتنسيق WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/numbers-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS كملف WMF في Swift" >}}

@@ -1,16 +1,16 @@
 ﻿---
-title:  احفظ TXT بتنسيق CSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ TXT بتنسيق CSV API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
 url: /ar/android/saveas/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كملف CSV" h2="مكتبة Android لحفظ TXT كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TXT كملف CSV" h2="مكتبة Android لحفظ TXT كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TXT كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/txt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق CSV في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى CSV بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من TXT كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى CSV بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ TXT كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج CSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ TXT بتنسيق CSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLT как XLSB API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLT как файла формата XLSB.
 url: /ru/java/saveas/xlt-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كـ MHTML API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف تنسيق TXT كملف بتنسيق MHTML.
 url: /ar/php/saveas/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

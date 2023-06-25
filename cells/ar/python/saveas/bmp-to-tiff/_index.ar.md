@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ BMP كـ TIFF API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق BMP كملف بتنسيق TIFF.
 url: /ar/python/saveas/bmp-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

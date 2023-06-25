@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att skydda Microsoft Excel & OpenOffi
 url: /sv/net/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="C# bibliotek för att skydda molnet Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i C#. Den här professionella lösningen skyddar molnet Microsoft Microsoft online-kalkylblad Microsoft Microsoft 0761s30Office36 online-lösenord med OpenOffice-kalkylblad 1 076160Off37 och 7C online 481." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="C# bibliotek för att skydda molnet Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i C#. Den här professionella lösningen skyddar molnet Microsoft Microsoft online-kalkylblad Microsoft Microsoft 0761s30Office36 online-lösenord med OpenOffice-kalkylblad 1 076160Off37 och 7C online 481." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - C# REST API" >}}

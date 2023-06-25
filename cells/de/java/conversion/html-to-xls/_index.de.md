@@ -1,19 +1,19 @@
 ﻿---
-title:  HTML in XLS konvertieren API for Java
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  HTML zu XLS Konvertieren Sie API for Java
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im HTML-Format in eine XLS-Formatdatei zu konvertieren.
 url: /de/java/conversion/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API um HTML in XLS umzuwandeln" h2="Java-Bibliothek zum Konvertieren von HTML in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um HTML mithilfe von Java online in XLS und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von HTML in XLS" h2="Java-Bibliothek zum Konvertieren von HTML in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Java in XLS und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in Java in XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in XLS in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in XLS ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu XLS werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle HTML beibehalten wird. Unsere Java-Bibliothek ist eine professionelle Lösung, um HTML online in XLS-Dateien zu konvertieren. Dieses Cloud-SDK bietet Java-Entwicklern leistungsstarke Funktionen und perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in XLS ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum XLS-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um HTML online in XLS-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von HTML in das XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zur Konvertierung von HTML in das XLS-Format" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -47,16 +47,16 @@ Das Konvertieren von Dateiformaten von HTML in XLS ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um HTML in XLS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um HTML in XLS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

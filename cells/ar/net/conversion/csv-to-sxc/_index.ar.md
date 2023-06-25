@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى SXC API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق CSV إلى ملف بتنسيق SXC.
 url: /ar/net/conversion/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/conversion/csv-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى SXC في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج SXC مثالي.
+يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج SXC مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل CSV إلى تنسيق SXC" gistPath="" %}}

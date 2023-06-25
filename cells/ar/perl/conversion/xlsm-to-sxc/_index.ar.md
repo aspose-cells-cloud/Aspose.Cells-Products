@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSM إلى SXC - تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSM إلى ملف بتنسيق SXC.
 url: /ar/perl/conversion/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLSM إلى SXC" h2="مكتبة Perl لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLSM إلى SXC" h2="مكتبة Perl لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlsm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى SXC في Perl" >}}

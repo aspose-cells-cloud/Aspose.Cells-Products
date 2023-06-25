@@ -1,10 +1,10 @@
 ﻿---
-title: XLT إلى XLSX تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLT إلى XLSX تحويل API لـ Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLT إلى ملف بتنسيق XLSX.
 url: /ar/perl/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLT إلى XLSX" h2="Perl مكتبة لتحويل XLT إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLT إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlt-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLT إلى XLSX" h2="Perl مكتبة لتحويل XLT إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل XLT إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xlt-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLT إلى XLSX في Perl" >}}

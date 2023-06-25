@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصيغ على Microsoft Excel & Open
 url: /ar/go/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل API لمسح الصيغ على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل API لمسح الصيغ على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: SXC in TIFF Konvertieren Sie API in C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  SXC zu TIFF Konvertieren Sie API in C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im SXC-Format in eine Datei im TIFF-Format.
 url: /de/net/conversion/sxc-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/net/conversion/sxc-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine SXC-Datei in TIFF in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu TIFF werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SXC-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um SXC-Dateien online in TIFF-Dateien zu konvertieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC in TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu TIFF werden von unserem C# SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um SXC-Dateien online in TIFF-Dateien zu konvertieren. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von SXC in das TIFF-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von SXC in TIFF ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um SXC in TIFF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

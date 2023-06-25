@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как XLSB API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата HTML в виде файла формата XLSB.
 url: /ru/java/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование SXC в SQL API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование SXC в SQL API для Python
+description: Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата SXC в файл формата SQL.
 url: /ru/python/conversion/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в SQL в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов SXC в SQL. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из SXC в SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов SXC в SQL. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования SXC в формат SQL" gistPath="" %}}

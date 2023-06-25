@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLT как JSON API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLT как JSON API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLT в виде файла формата JSON.
 url: /ru/php/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

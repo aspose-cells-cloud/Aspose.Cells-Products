@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XML как DOCX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XML в виде файла формата DOCX.
 url: /ru/nodejs/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XML в формате DOCX" h2="Библиотека NodeJS для сохранения XML в формате DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XML в формате DOCX и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/xml-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XML в формате DOCX" h2="Библиотека NodeJS для сохранения XML в формате DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XML в формате DOCX и других форматах документов в Интернете с использованием NodeJS." urlsection="saveas/xml-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как DOCX в NodeJS." >}}

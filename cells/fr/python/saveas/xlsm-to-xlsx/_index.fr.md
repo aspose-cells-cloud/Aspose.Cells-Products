@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez XLSM sous XLSX API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLSM sous XLSX API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSM en tant que fichier au format XLSX.
 url: /fr/python/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSB'den JSON'a Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSB'den JSON'a Dönüştürme API için Perl
+description:  XLSB biçim dosyasını JSON biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить EMF как TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата EMF в виде файла формата TXT.
 url: /ru/android/saveas/emf-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, чтобы сохранить EMF как TXT" h2="Библиотека Android для сохранения EMF как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения EMF в формате TXT и других форматах документов онлайн с помощью Android." urlsection="saveas/emf-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, чтобы сохранить EMF как TXT" h2="Библиотека Android для сохранения EMF как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения EMF в формате TXT и других форматах документов в Интернете с помощью Android." urlsection="saveas/emf-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как TXT в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как TXT — сложная задача. Все переходы EMF в формат TXT выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Android — это профессиональное решение для сохранения EMF в виде файлов TXT онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов с EMF как TXT — сложная задача. Все переходы EMF в формат TXT выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека для Android — это профессиональное решение для сохранения EMF в виде файлов TXT онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения EMF в формате TXT" gistPath="" %}}

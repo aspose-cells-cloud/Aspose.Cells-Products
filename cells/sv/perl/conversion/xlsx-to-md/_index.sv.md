@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX till MD Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSX till MD Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSX-format till fil i MD-format.
 url: /sv/perl/conversion/xlsx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM إلى BMP تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTM إلى BMP تحويل API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLTM إلى ملف بتنسيق BMP.
 url: /ar/android/conversion/xltm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

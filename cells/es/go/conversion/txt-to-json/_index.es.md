@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT a JSON Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato TXT a un archivo de formato JSON.
 url: /es/go/conversion/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/conversion/txt-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo TXT a JSON en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de TXT a JSON es una tarea compleja. Todas las transiciones de formato TXT a JSON se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos TXT a JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida JSON perfecta.
+Convertir formatos de archivo de TXT a JSON es una tarea compleja. Todas las transiciones de formato TXT a JSON son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos TXT a JSON en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida JSON perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir TXT a formato JSON" gistPath="" %}}

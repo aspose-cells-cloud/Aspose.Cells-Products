@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da GIF a SQL API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato GIF in un file in formato SQL.
 url: /it/python/conversion/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

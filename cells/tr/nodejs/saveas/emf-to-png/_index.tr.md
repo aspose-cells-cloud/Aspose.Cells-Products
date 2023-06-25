@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için EMF'i PNG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını PNG biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

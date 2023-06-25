@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX a MHTML Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato XLSX a un archivo de formato MHTML.
 url: /es/net/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

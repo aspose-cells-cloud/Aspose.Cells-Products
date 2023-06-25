@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в DOCX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата CSV в файл формата DOCX.
 url: /ru/perl/conversion/csv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/csv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в DOCX по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в DOCX — сложная задача. Все переходы между форматами CSV и DOCX выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов CSV в DOCX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из CSV в DOCX — сложная задача. Все переходы между форматами CSV и DOCX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов CSV в DOCX. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования CSV в формат DOCX" gistPath="" %}}

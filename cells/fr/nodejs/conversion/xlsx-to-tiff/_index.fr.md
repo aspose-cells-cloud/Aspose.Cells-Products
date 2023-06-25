@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX en TIFF Convertir API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format XLSX en fichier au format TIFF.
 url: /fr/nodejs/conversion/xlsx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

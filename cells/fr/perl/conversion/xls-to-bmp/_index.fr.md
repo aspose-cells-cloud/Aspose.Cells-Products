@@ -1,6 +1,6 @@
 ﻿---
-title: XLS en BMP Convertir API en Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLS en BMP Convertir API en Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLS en fichier au format BMP.
 url: /fr/perl/conversion/xls-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

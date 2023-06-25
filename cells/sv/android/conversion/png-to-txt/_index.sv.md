@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till TXT Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i formatet PNG till fil i TXT-format.
 url: /sv/android/conversion/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

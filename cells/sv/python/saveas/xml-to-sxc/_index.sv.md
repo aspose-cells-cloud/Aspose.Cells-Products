@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XML som SXC API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XML som SXC API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara XML-formatfil som SXC-formatfil.
 url: /sv/python/saveas/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

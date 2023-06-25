@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som SVG API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att spara fil i XLTM-format som fil i SVG-format.
 url: /sv/android/saveas/xltm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i PHP için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını XLSX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/php/saveas/bmp-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını PHP\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i XLSX formatı olarak kaydetmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}

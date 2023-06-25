@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare lo sfondo su Microsoft Excel e OpenO
 url: /it/nodejs/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare lo sfondo sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare lo sfondo sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Sfondo chiaro sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

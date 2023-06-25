@@ -1,6 +1,6 @@
 ﻿---
 title:  الأرقام إلى PNG قم بتحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق PNG.
 url: /ar/nodejs/conversion/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSM باسم SXC API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSM كملف بتنسيق SXC.
 url: /ar/android/saveas/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSM كـ SXC" h2="مكتبة Android لحفظ XLSM كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSM كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSM كـ SXC" h2="مكتبة Android لحفظ XLSM كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSM كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM باسم SXC في Android" >}}

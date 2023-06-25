@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara ODS som JPG API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara ODS-formatfil som JPG-formatfil.
 url: /sv/java/saveas/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

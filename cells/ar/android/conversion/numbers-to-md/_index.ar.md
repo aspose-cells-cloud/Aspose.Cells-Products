@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS to MD Convert API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: NUMBERS to MD Convert API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق MD.
 url: /ar/android/conversion/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

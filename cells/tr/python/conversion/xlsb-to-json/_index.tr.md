@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSB'den JSON'a Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSB'den JSON'a Dönüştürme API için Python
+description:  XLSB biçim dosyasını JSON biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

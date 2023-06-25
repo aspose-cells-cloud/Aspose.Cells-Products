@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar estilos en Microsoft Excel y Open
 url: /es/go/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar estilos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra estilos en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar estilos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra estilos en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir REST API" >}}

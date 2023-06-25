@@ -1,19 +1,19 @@
 ﻿---
-title:  PNG in XLS umwandeln API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in XLS Konvertieren Sie API in C#
+description: Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im PNG-Format in eine XLS-Formatdatei zu konvertieren.
 url: /de/net/conversion/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um PNG in XLS umzuwandeln" h2="C#-Bibliothek zum Konvertieren von PNG in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von PNG in XLS und andere Dokumentformate online mit C#." urlsection="conversion/png-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von PNG in XLS" h2="C#-Bibliothek zum Konvertieren von PNG in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit C# in XLS und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in C# in XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in XLS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XLS ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu XLS werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle PNG beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um PNG online in XLS-Dateien zu konvertieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in XLS ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLS-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um PNG online in XLS-Dateien zu konvertieren. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von PNG in das XLS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zur Konvertierung von PNG in das XLS-Format" gistPath="" %}}
  
 ```cs
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von PNG in XLS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um PNG in XLS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um PNG in XLS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

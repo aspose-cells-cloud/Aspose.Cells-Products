@@ -1,6 +1,6 @@
 ﻿---
-title:  قم بتصدير كتاب العمل إلى PPTX من جدول البيانات باستخدام Ruby API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title: قم بتصدير كتاب العمل إلى PPTX من جدول البيانات باستخدام Ruby API
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/ruby/export/workbook-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/export/workbook-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق PPTX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير كتاب العمل إلى تنسيق PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
+يعد تصدير كائن كتاب العمل إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير كتاب العمل إلى تنسيق PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتصدير WORKBOOK إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}

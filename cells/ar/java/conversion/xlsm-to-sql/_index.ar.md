@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل من XLSM إلى SQL API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSM إلى ملف بتنسيق SQL.
 url: /ar/java/conversion/xlsm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование SXC в XML API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования SXC в XML" h2="Библиотека Swift для преобразования SXC в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации SXC в XML и другие форматы документов с использованием Swift." urlsection="conversion/sxc-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования SXC в XML" h2="Библиотека Swift для преобразования SXC в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации SXC в XML и другие форматы документов с помощью Swift." urlsection="conversion/sxc-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в XML — сложная задача. Все переходы формата SXC в формат XML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов SXC в XML. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XML.
+Преобразование форматов файлов из SXC в XML — сложная задача. Все переходы формата SXC в формат XML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов SXC в XML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования SXC в формат XML" gistPath="" %}}

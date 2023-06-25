@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON إلى XLS - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JSON إلى XLS - تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JSON إلى ملف بتنسيق XLS.
 url: /ar/python/conversion/json-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

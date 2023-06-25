@@ -1,6 +1,6 @@
 ﻿---
-title: Spara PNG som XLSB API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara PNG som XLSB API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara PNG filformat som XLSB format fil.
 url: /sv/php/saveas/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى GIF - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لروبي لتحويل ملف بصيغة JPG إلى ملف بصيغة GIF.
 url: /ar/ruby/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

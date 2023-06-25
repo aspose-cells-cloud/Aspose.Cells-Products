@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ JPG API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLTX كملف بتنسيق JPG.
 url: /ar/python/saveas/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

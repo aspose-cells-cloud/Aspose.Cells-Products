@@ -4,7 +4,7 @@ description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc decodificano
 url: /it/python/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per decifrare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con password" h2="Python libreria per decifrare cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare il cloud Microsoft Excel e foglio di calcolo Calc di OpenOffice con flussi di lavoro password in Python. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice OpenSoffice Onlines con password online con password di 076176176" urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per decifrare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con password" h2="Python libreria per decifrare cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare il cloud Microsoft Excel e foglio di calcolo Calc di OpenOffice con flussi di lavoro password in Python. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice OpenSoffice Onlines con password online con password di 076176176" urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Decifra cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password - Python REST API" >}}

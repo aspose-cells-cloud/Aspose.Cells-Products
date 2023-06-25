@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa bilder på Microsoft Excel 
 url: /sv/go/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att rensa bilder på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa bilder på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bilder på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning tydliga bilder på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API för att rensa bilder på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa bilder på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bilder på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Go. Denna professionella lösning tydliga bilder på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa bilder på lokal Microsoft Excel och OpenOffice Calc kalkylblad - Gå REST API" >}}

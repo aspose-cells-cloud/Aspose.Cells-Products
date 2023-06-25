@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLSX'ten PNG'e API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçim dosyasını PNG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

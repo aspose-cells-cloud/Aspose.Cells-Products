@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните TXT как PPTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата TXT как файла формата PPTX.
 url: /ru/go/saveas/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить TXT как PPTX." h2="Перейти в библиотеку, чтобы сохранить TXT как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения TXT как PPTX и других форматов документов онлайн с помощью Go." urlsection="saveas/txt-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить TXT как PPTX." h2="Перейти в библиотеку, чтобы сохранить TXT как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения TXT как PPTX и других форматов документов в Интернете с помощью Go." urlsection="saveas/txt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как PPTX в Go" >}}

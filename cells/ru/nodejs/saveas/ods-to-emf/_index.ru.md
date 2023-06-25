@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните ODS как EMF API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните ODS как EMF API для NodeJS.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата ODS как файла формата EMF.
 url: /ru/nodejs/saveas/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/ods-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как EMF в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как EMF — сложная задача. Все переходы формата ODS в формат EMF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для сохранения ODS в виде файлов EMF в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
+Сохранение форматов файлов из ODS как EMF — сложная задача. Все переходы формата ODS в формат EMF выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для сохранения ODS в виде файлов EMF в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения ODS в формате EMF" gistPath="" %}}

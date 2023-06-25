@@ -1,19 +1,19 @@
 ﻿---
-title:  BMP in MD Konvertieren Sie API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  BMP in MD Konvertieren Sie API in Perl
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Perl, um eine Datei im BMP-Format in eine MD-Formatdatei zu konvertieren.
 url: /de/perl/conversion/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um BMP in MD umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von BMP in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um BMP mithilfe von Perl online in MD und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um BMP in MD umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von BMP in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um BMP online mit Perl in MD und andere Dokumentformate zu konvertieren." urlsection="conversion/bmp-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in MD in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu MD werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BMP-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um BMP online in MD-Dateien zu konvertieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle Übergänge vom BMP- zum MD-Format werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um BMP online in MD-Dateien zu konvertieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von BMP in das MD-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zur Konvertierung von BMP in das MD-Format" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +43,10 @@ Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um BMP in MD umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um BMP in MD zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

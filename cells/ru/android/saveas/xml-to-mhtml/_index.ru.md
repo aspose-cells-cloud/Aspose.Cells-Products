@@ -1,13 +1,13 @@
 ﻿---
 title:  Сохранить XML как MHTML API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XML в виде файла формата MHTML.
 url: /ru/android/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XML как MHTML" h2="Библиотека Android для сохранения XML как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XML как MHTML и других форматов документов онлайн с помощью Android." urlsection="saveas/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как MHTML в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как MHTML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XML в виде MHTML — сложная задача. Все переходы между форматами XML и MHTML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Android — это профессиональное решение для сохранения XML в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.

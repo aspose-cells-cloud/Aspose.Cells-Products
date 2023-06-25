@@ -1,6 +1,6 @@
 ﻿---
 title:  قم بتصدير كتاب العمل إلى ملف CSV من جدول البيانات باستخدام Go API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/go/export/workbook-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/go/export/workbook-to-csv/
 يعد تصدير كائن WORKBOOK إلى ملف CSV من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير كتاب العمل إلى تنسيق CSV بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق CSV عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج CSV مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير كتاب العمل إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير WORKBOOK إلى تنسيق CSV من جدول البيانات" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

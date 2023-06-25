@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML en MD Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: MHTML en MD Convertir API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format MHTML en fichier au format MD.
 url: /fr/python/conversion/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

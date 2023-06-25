@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrer HTML sous PDF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format HTML en tant que fichier au format PDF.
 url: /fr/android/saveas/html-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

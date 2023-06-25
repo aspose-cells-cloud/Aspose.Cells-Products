@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie TSV als XPS API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TSV unter XPS API für PHP speichern
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im TSV-Format als Datei im Format XPS zu speichern.
 url: /de/php/saveas/tsv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um den TSV als XPS zu speichern" h2="PHP-Bibliothek zum Speichern von TSV als XPS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um TSV als XPS und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/tsv-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Speichern des TSV unter XPS" h2="PHP-Bibliothek, um TSV als XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um TSV als XPS und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/tsv-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als XPS in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei unter XPS in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als XPS ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu XPS werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TSV-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um TSV online als XPS-Dateien zu speichern. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Speichern von Dateiformaten von TSV als XPS ist eine komplexe Aufgabe. Alle TSV-Formatübergänge in das XPS-Format werden von unserem PHP-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um TSV als XPS-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von TSV im XPS-Format" gistPath="" %}}
@@ -32,9 +32,9 @@ Das Speichern von Dateiformaten von TSV als XPS ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um TSV als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

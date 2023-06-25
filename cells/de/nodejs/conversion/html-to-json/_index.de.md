@@ -1,16 +1,16 @@
 ﻿---
-title:  HTML in JSON konvertieren API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  HTML in JSON Konvertieren Sie API für NodeJS
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im HTML-Format in eine JSON-Formatdatei.
 url: /de/nodejs/conversion/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von HTML in JSON" h2="NodeJS-Bibliothek zum Konvertieren von HTML in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um HTML mit NodeJS online in JSON und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von HTML in JSON" h2="NodeJS-Bibliothek zum Konvertieren von HTML in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von HTML in JSON und andere Dokumentformate mit NodeJS." urlsection="conversion/html-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in JSON in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in JSON ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu JSON werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle HTML beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um HTML online in JSON-Dateien zu konvertieren. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in JSON ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum JSON-Format werden von unserem NodeJS SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um HTML online in JSON-Dateien zu konvertieren. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von HTML in das JSON-Format" gistPath="" %}}
@@ -36,9 +36,9 @@ Das Konvertieren von Dateiformaten von HTML in JSON ist eine komplexe Aufgabe. A
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um HTML in JSON zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى XML Convert API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLTX إلى ملف بتنسيق XML.
 url: /ar/android/conversion/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

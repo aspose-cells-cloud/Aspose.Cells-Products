@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için TXT'den XLS'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını XLS biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TXT dosyasını XLS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini TXT'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den XLS formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
+Dosya biçimlerini TXT'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den XLS formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi XLS biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

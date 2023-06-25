@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar hipervínculos en Microsoft Excel
 url: /es/android/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar los hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Android. Esta solución profesional elimina los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar los hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Android. Esta solución profesional elimina los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

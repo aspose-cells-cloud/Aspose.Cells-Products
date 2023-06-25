@@ -1,11 +1,11 @@
 ﻿---
-title:  Пакеты SDK для генератора и преобразователя облачных таблиц и REST API
+title: Пакеты SDK для генератора и преобразователя облачных таблиц и REST API
 description:  SDK для популярных языков обеспечивают бесшовную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке.
 weight: 10
 url: /ru/family
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Облачные SDK и REST API для обработки Excel листов" h2="SDK для популярных языков обеспечивают бесшовную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Облачные SDK и REST API для обработки Excel листов" h2="Пакеты SDK для популярных языков обеспечивают бесшовную интеграцию с вашими приложениями для чтения, изменения и преобразования электронных таблиц Excel и OpenOffice, размещенных в облаке." logoImageSrc="/headers/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells API с малым кодом включают" >}}
@@ -39,7 +39,7 @@ Python REST SDK для доступа к облачным Excel листам и 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-Легко интегрируйте Microsoft Excel и функции обработки электронных таблиц OpenOffice в ваши облачные приложения Node.js via REST API.
+Легко интегрируйте функции обработки электронных таблиц Microsoft Excel и OpenOffice в ваши облачные приложения Node.js via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Perl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}

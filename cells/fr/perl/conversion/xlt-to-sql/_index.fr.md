@@ -1,6 +1,6 @@
 ﻿---
-title: XLT en SQL Convertir API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLT en SQL Convertir API pour Perl
+description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format XLT en fichier au format SQL.
 url: /fr/perl/conversion/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

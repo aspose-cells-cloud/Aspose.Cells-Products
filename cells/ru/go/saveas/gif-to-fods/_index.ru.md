@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить GIF как FODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата GIF как файла формата FODS.
 url: /ru/go/saveas/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить GIF как FODS." h2="Перейти в библиотеку, чтобы сохранить GIF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения GIF в виде FODS и других форматов документов в Интернете с помощью Go." urlsection="saveas/gif-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить GIF как FODS" h2="Перейти в библиотеку, чтобы сохранить GIF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения GIF в виде FODS и других форматов документов в Интернете с помощью Go." urlsection="saveas/gif-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните GIF-файл как FODS в Go" >}}

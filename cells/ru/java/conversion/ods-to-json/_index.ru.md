@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование ODS в JSON API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата ODS в файл формата JSON.
 url: /ru/java/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/ods-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в JSON в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы ODS в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования ODS в формат JSON" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как FODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JPG в виде файла формата FODS.
 url: /ru/go/saveas/jpg-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить JPG как FODS." h2="Перейти в библиотеку, чтобы сохранить JPG как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения JPG как FODS и других форматов документов в Интернете с помощью Go." urlsection="saveas/jpg-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить JPG как FODS." h2="Перейти в библиотеку, чтобы сохранить JPG как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения JPG как FODS и других форматов документов онлайн с помощью Go." urlsection="saveas/jpg-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как FODS в Go" >}}

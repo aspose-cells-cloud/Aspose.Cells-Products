@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в XLS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата NUMBERS в файл формата XLS.
 url: /ru/android/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

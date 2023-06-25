@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ ODS كـ XLS API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ ODS كـ XLS API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق ODS كملف بتنسيق XLS.
 url: /ar/net/saveas/ods-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

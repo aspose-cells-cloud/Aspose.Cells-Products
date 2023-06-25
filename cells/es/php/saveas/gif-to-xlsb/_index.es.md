@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar GIF como XLSB API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato GIF como archivo de formato XLSB.
 url: /es/php/saveas/gif-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

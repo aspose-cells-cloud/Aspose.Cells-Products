@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer l'arrière-plan sur Microsoft Excel e
 url: /fr/ruby/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Ruby Clear pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans Ruby. Cette solution professionnelle dégage des informations sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Ruby." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Ruby Clear pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans Ruby. Cette solution professionnelle dégage des informations sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Ruby." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Ruby REST API" >}}

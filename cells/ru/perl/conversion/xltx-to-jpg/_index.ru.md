@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование XLTX в JPG API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLTX в файл формата JPG.
 url: /ru/perl/conversion/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLTX в JPG" h2="Perl библиотека для преобразования XLTX в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации XLTX в JPG и другие форматы документов с использованием Perl." urlsection="conversion/xltx-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLTX в JPG по номеру Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в JPG по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLTX в JPG — сложная задача. Все переходы из формата XLTX в формат JPG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLTX в JPG. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.

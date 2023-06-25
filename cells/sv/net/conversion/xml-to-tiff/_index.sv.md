@@ -1,6 +1,6 @@
 ﻿---
-title: XML till TIFF Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XML till TIFF Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera XML-formatfil till TIFF-fil.
 url: /sv/net/conversion/xml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

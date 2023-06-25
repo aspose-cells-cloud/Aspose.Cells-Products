@@ -1,6 +1,6 @@
 ﻿---
-title: XML till TIFF Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XML till TIFF Konvertera API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera XML-formatfil till TIFF-fil.
 url: /sv/php/conversion/xml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLTX'i TSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLTX biçim dosyasını TSV biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xltx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/xltx-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Android\'de TSV olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLTX'ten TSV olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten TSV formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTX'i çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+Dosya formatlarını XLTX'ten TSV olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten TSV formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTX'i çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i TSV formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

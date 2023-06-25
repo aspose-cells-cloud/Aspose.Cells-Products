@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSM в JPG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLSM в файл формата JPG.
 url: /ru/net/conversion/xlsm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в JPG в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в JPG — сложная задача. Все переходы XLSM в формат JPG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSM в JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XLSM в JPG — сложная задача. Все переходы из формата XLSM в формат JPG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSM в JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLSM в формат JPG" gistPath="" %}}

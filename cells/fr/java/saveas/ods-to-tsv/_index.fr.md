@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer ODS sous TSV API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format ODS en tant que fichier au format TSV.
 url: /fr/java/saveas/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer ODS en tant que TSV" h2="Java bibliothèque pour enregistrer ODS en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format TSV et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/ods-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer ODS en tant que TSV" h2="Java bibliothèque pour enregistrer ODS en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer ODS en tant que TSV et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/ods-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS en tant que TSV dans Java" >}}

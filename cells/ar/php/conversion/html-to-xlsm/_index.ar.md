@@ -1,6 +1,6 @@
 ﻿---
-title: HTML إلى XLSM تحويل API ل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  HTML إلى XLSM تحويل API ل PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLSM.
 url: /ar/php/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

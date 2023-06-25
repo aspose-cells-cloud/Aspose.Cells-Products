@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как SXC API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата MHTML в виде файла формата SXC.
 url: /ru/go/saveas/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

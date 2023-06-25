@@ -1,6 +1,6 @@
 ﻿---
-title: XLS in XPS Converti API in Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XLS in XPS Converti API in Python
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato XLS nel file in formato XPS.
 url: /it/python/conversion/xls-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara BMP som ODS API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara BMP som ODS API för Android
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara BMP filformat som ODS-formatfil.
 url: /sv/android/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

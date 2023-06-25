@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX в EMF Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLTX в EMF Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTX в файл формата EMF.
 url: /ru/net/conversion/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

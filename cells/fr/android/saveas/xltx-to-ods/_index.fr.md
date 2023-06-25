@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLTX sous ODS API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLTX en tant que fichier au format ODS.
 url: /fr/android/saveas/xltx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

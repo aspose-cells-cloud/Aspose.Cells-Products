@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX en SQL Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLTX en SQL Convertir API pour PHP
+description: Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format XLTX en fichier au format SQL.
 url: /fr/php/conversion/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

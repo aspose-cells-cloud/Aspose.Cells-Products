@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT sous PPTX API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/saveas/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/saveas/xlt-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT au format PPTX dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLT en tant que PPTX est une tâche complexe. Toutes les transitions de format XLT à PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLT en tant que PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
+L'enregistrement de formats de fichiers à partir de XLT en tant que PPTX est une tâche complexe. Toutes les transitions de format XLT vers PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLT en tant que PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLT au format PPTX" gistPath="" %}}

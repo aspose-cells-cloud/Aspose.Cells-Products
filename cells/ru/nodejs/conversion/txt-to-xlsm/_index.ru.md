@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TXT в XLSM API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата TXT в файл формата XLSM.
 url: /ru/nodejs/conversion/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/txt-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в XLSM в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в XLSM — сложная задача. Все переходы форматов TXT в XLSM выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов TXT в XLSM. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из TXT в XLSM — сложная задача. Все переходы форматов TXT в XLSM выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов TXT в XLSM. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования TXT в формат XLSM" gistPath="" %}}
@@ -35,7 +35,7 @@ url: /ru/nodejs/conversion/txt-to-xlsm/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для преобразования TXT в XLSM" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования TXT в XLSM" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>

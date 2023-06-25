@@ -1,16 +1,16 @@
 ﻿---
-title:  MHTML in XML Konvertieren Sie API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  MHTML in XML konvertieren API für C#
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Konvertieren einer MHTML-Formatdatei in eine XML-Formatdatei.
 url: /de/net/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von MHTML in XML" h2="C# Bibliothek zum Konvertieren von MHTML in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in XML und andere Dokumentformate online unter Verwendung von C#." urlsection="conversion/mhtml-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von MHTML in XML" h2="C#-Bibliothek zum Konvertieren von MHTML in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in XML und andere Dokumentformate unter Verwendung von C#." urlsection="conversion/mhtml-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in XML in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu XML werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von MHTML- in XML-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. Alle MHTML-zu-XML-Formatübergänge werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML- in XML-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von MHTML in das XML-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Wie man C# API verwendet, um MHTML in XML zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Konvertieren von MHTML in XML" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

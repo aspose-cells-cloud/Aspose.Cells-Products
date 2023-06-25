@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ الأرقام باسم DIF API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ الأرقام باسم DIF API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق NUMBERS كملف بتنسيق DIF.
 url: /ar/net/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

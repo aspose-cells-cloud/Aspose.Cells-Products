@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSX в XLTM API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLSX в файл формата XLTM.
 url: /ru/go/conversion/xlsx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

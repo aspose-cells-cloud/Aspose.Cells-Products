@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ CSV كـ WMF API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق CSV كملف بتنسيق WMF.
 url: /ar/perl/saveas/csv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

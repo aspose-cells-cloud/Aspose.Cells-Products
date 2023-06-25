@@ -15,7 +15,7 @@ otherformats: XLSX HTML ODS TIFF XLTX SVG XLSB MHTML TXT MD XPS CSV TSV DIF XLTM
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Conversion simple de FODS en MD" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Conversion simple FODS en MD" %}}
 1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
 1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
 1. Importer le fichier FODS dans Cloud Storage par défaut avec la méthode ```CellsApi.Upload```

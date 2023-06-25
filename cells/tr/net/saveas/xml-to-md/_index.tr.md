@@ -1,6 +1,6 @@
 ﻿---
 title:  XML'i C# için MD API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for C# kullanılarak XML biçim dosyasını MD biçim dosyası olarak kaydedin.
 url: /tr/net/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

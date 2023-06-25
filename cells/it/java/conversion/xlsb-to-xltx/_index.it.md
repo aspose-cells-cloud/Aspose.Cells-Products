@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSB a XLTX API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato XLSB in un file in formato XLTX.
 url: /it/java/conversion/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

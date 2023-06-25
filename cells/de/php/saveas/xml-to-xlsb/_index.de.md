@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie XML als XLSB API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden des Cloud SDK Aspose.Cells für PHP zum Speichern der XML-Formatdatei als XLSB-Formatdatei.
 url: /de/php/saveas/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Speichern von XML als XLSB" h2="PHP-Bibliothek zum Speichern von XML als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XML als XLSB und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xml-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um XML als XLSB zu speichern" h2="PHP-Bibliothek zum Speichern von XML als XLSB" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um XML als XLSB und andere Dokumentformate online mit PHP zu speichern." urlsection="saveas/xml-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als XLSB in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als XLSB unter PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als XLSB ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu XLSB werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XML als XLSB-Dateien online zu speichern. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte XLSB-Ausgabe.
+Das Speichern von Dateiformaten aus XML als XLSB ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum XLSB-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XML als XLSB-Dateien online zu speichern. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Speichern von XML im XLSB-Format" gistPath="" %}}
@@ -31,10 +31,10 @@ Das Speichern von Dateiformaten aus XML als XLSB ist eine komplexe Aufgabe. Alle
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API zum Speichern von XML als XLSB" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XML als XLSB zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

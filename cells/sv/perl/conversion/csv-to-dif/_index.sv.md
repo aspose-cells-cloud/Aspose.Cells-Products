@@ -1,6 +1,6 @@
 ﻿---
-title: CSV till DIF Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  CSV till DIF Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera CSV-formatfil till DIF-formatfil.
 url: /sv/perl/conversion/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

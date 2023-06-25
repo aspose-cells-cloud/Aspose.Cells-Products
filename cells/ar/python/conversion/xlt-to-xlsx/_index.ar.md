@@ -1,10 +1,10 @@
 ﻿---
-title: XLT إلى XLSX تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLT إلى XLSX تحويل API لـ Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLT إلى ملف بتنسيق XLSX.
 url: /ar/python/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLT إلى XLSX" h2="Python مكتبة لتحويل XLT إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل XLT إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlt-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLT إلى XLSX" h2="Python مكتبة لتحويل XLT إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل XLT إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlt-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLT إلى XLSX في Python" >}}

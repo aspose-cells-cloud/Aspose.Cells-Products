@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT بتنسيق XML API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/saveas/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/txt-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق XML في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XML بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات XML عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XML مثالي.
+يعد حفظ تنسيقات الملفات من TXT كـ XML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XML بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ TXT كملفات XML عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XML مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ TXT بتنسيق XML" gistPath="" %}}

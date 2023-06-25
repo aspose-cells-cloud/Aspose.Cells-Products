@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar TSV como ODS API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar TSV como ODS API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato TSV como archivo de formato ODS.
 url: /es/php/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

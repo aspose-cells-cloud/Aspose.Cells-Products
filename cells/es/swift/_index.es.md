@@ -160,7 +160,7 @@ url: /es/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Resumir datos de ListObject o Table grandes con Pivot Table
+Resumir datos de ListObject o Table grandes con Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /es/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Eliminar OleObjects específicos o todos de la hoja de trabajo
+ Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Eliminar OleObjects específicos o todos de la hoja de trabajo
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- y obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Swift en cualquier plataforma que admita REST API. Aspose.Cells Cloud SDK for Swift le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ y obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Swift en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK for Swift le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,19 +1,19 @@
 ﻿---
-title: 将 XLTX 保存为 SXC API for Go
-description: 用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+title: 将 XLTX 保存为 SXC API 用于 Go
+description: 使用Aspose.Cells Cloud SDK for Go将XLTX格式文件保存为SXC格式文件。
 url: /zh/go/saveas/xltx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到 API 将 XLTX 保存为 SXC" h2="去库将XLTX保存为SXC" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 XLTX 保存为 SXC 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="去API将XLTX另存为SXC" h2="转到库将 XLTX 保存为 SXC" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 XLTX 保存为 SXC 等文档格式的专业解决方案。" urlsection="saveas/xltx-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLTX 文件另存为 SXC" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XLTX 文件保存为 SXC" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 XLTX 中的文件格式保存为 SXC 是一项复杂的任务。所有 XLTX 到 SXC 格式的转换都由我们的 Go SDK 执行，同时保持源 XLTX 电子表格的主要结构和逻辑内容。我们的 Go 库是将 XLTX 在线保存为 SXC 文件的专业解决方案。此 Cloud SDK 为 Go 开发者提供了强大的功能和完美的 SXC 输出。
+将文件格式从 XLTX 保存为 SXC 是一项复杂的任务。所有 XLTX 到 SXC 格式的转换均由我们的 Go SDK 执行，同时保留源 XLTX 电子表格的主要结构和逻辑内容。我们的 Go 库是在线将 XLTX 保存为 SXC 文件的专业解决方案。这个Cloud SDK为Go开发者提供了强大的功能和完美的SXC输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中的代码示例使用 REST API 将 XLTX 保存为 SXC 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 XLTX 保存为 SXC 格式的代码示例" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -31,15 +31,15 @@ url: /zh/go/saveas/xltx-to-sxc/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Go API 将 XLTX 保存为 SXC" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API将XLTX保存为SXC" >}}
+<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>go 版本 go1.13.0 或更新版本</li>
+<li>go 版本 go1.13.0 或更高版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

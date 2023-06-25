@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى JSON تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLSX إلى ملف بتنسيق JSON.
 url: /ar/android/conversion/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

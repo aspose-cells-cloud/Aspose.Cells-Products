@@ -4,7 +4,7 @@ description:  Облачные API и SDK для цифровой подписи
 url: /ru/php/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API в облако цифровой подписи Microsoft Excel и электронную таблицу OpenOffice Calc с паролем и файлом цифровой подписи" h2="PHP в облако цифровой подписи Microsoft Excel и электронную таблицу OpenOffice Calc с паролем и файлом цифровой подписи" p="Используйте Cells цифровую подпись REST API для облака цифровых подписей Microsoft Excel и электронную таблицу OpenOffice Calc с рабочими процессами файлов паролей и цифровых подписей в PHP. Это профессиональное решение для облака цифровых подписей Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с паролями и файлом цифровой подписи с использованием 0816173" urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API в облако цифровой подписи Microsoft Excel и электронную таблицу OpenOffice Calc с паролем и файлом цифровой подписи" h2="PHP в облако цифровой подписи Microsoft Excel и электронную таблицу OpenOffice Calc с паролем и файлом цифровой подписи" p="Используйте Cells цифровую подпись REST API для облака цифровых подписей Microsoft Excel и электронную таблицу OpenOffice Calc с рабочими процессами файлов паролей и цифровых подписей в PHP. PHP." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Облако цифровых подписей Microsoft Excel и электронная таблица OpenOffice Calc с паролем — PHP REST API" >}}

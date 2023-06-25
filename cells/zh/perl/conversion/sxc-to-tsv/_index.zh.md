@@ -1,16 +1,16 @@
 ﻿---
-title:  SXC 到 TSV 将 API 转换为 Perl
-description: 用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+title:  SXC 至 TSV 转换 API 为 Perl
+description: 使用Aspose.Cells Cloud SDK for Perl将SXC格式文件转换为TSV格式文件。
 url: /zh/perl/conversion/sxc-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API 将 SXC 转换为 TSV" h2="Perl 将 SXC 转换为 TSV 的库" p="使用 Cells Conversion REST API 在 Perl 中创建自定义电子表格工作流程。这是使用 Perl 在线将 SXC 转换为 TSV 和其他文档格式的专业解决方案。" urlsection="conversion/sxc-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API 将 SXC 转换为 TSV" h2="Perl 将 SXC 转换为 TSV 的库" p="使用Cells转换REST API在Perl中创建自定义电子表格工作流程。这是使用Perl在线将SXC转换为TSV和其他文档格式的专业解决方案。" urlsection="conversion/sxc-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Perl 中将 SXC 文件转换为 TSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 SXC 文件转换为 Perl 中的 TSV" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-将文件格式从 SXC 转换为 TSV 是一项复杂的任务。所有 SXC 到 TSV 格式的转换都由我们的 Perl SDK 执行，同时保持源 SXC 电子表格的主要结构和逻辑内容。我们的 Perl 库是将 SXC 在线转换为 TSV 文件的专业解决方案。此 Cloud SDK 为 Perl 开发人员提供了强大的功能和完美的 TSV 输出。
+将文件格式从 SXC 转换为 TSV 是一项复杂的任务。所有 SXC 到 TSV 格式的转换均由我们的 Perl SDK 执行，同时保留源 SXC 电子表格的主要结构和逻辑内容。我们的 Perl 库是在线将 SXC 转换为 TSV 文件的专业解决方案。该Cloud SDK为Perl开发者提供了强大的功能和完美的TSV输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl 中的代码示例使用 REST API 将 SXC 转换为 TSV 格式" gistPath="" %}}
@@ -43,10 +43,10 @@ url: /zh/perl/conversion/sxc-to-tsv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Perl API将SXC转TSV" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Perl API 将 SXC 转换为 TSV" >}}
+<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>通话单元_工作簿_放_转变_获取结果流的工作簿方法</li>
+<li>呼叫细胞_作业簿_放_转变_获取结果流的工作簿方法</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

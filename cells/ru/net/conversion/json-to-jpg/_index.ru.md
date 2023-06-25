@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование JSON в JPG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата JSON в файл формата JPG.
 url: /ru/net/conversion/json-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в JPG" h2="C# библиотека для преобразования JSON в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации JSON в JPG и другие форматы документов по телефону C#." urlsection="conversion/json-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в JPG" h2="C# библиотека для преобразования JSON в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования JSON в JPG и другие форматы документов онлайн с использованием C#." urlsection="conversion/json-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в JPG в C#" >}}

@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare colonne vuote su Microsoft Excel e O
 url: /it/net/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le colonne vuote sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le colonne vuote sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - C# REST API" >}}

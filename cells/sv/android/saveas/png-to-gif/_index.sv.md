@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som GIF API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara fil i PNG-format som fil i GIF-format.
 url: /sv/android/saveas/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  GIF إلى CSV - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق GIF إلى ملف بتنسيق CSV.
 url: /ar/python/conversion/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل GIF إلى CSV" h2="مكتبة Python لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/gif-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل GIF إلى CSV" h2="مكتبة Python لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/gif-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى CSV في Python" >}}

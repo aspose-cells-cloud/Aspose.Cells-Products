@@ -1,6 +1,6 @@
 ﻿---
-title:  XLS till TXT Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLS till TXT Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera XLS-formatfil till TXT-formatfil.
 url: /sv/perl/conversion/xls-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

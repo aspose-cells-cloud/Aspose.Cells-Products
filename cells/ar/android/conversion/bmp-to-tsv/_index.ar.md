@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP لتحويل TSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق BMP إلى ملف بتنسيق TSV.
 url: /ar/android/conversion/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

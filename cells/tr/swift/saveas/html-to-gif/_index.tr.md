@@ -1,10 +1,10 @@
 ﻿---
 title:  HTML'i Swift için GIF API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i GIF olarak kaydetmek için Swift API" h2="HTML\'i GIF olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak HTML\'i GIF ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i GIF olarak kaydetmek için Swift API" h2="HTML\'i GIF olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak HTML\'i GIF ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/html-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="HTML dosyasını Swift\'de GIF olarak kaydedin" >}}

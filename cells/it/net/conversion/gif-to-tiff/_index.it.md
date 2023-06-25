@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF in TIFF Converti API in C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: GIF in TIFF Converti API in C#
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato GIF nel file in formato TIFF.
 url: /it/net/conversion/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

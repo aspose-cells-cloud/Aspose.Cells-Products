@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как FODS API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSX в виде файла формата FODS.
 url: /ru/java/saveas/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

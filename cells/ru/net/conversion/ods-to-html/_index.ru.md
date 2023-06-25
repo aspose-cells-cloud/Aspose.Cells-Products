@@ -1,6 +1,6 @@
 ﻿---
-title: ODS в HTML Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  ODS в HTML Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата ODS в файл формата HTML.
 url: /ru/net/conversion/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/ods-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в HTML в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в HTML — сложная задача. Все преобразования формата ODS в формат HTML выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации ODS в файлы HTML. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат HTML.
+Преобразование форматов файлов из ODS в HTML — сложная задача. Все переходы формата ODS в формат HTML выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации ODS в файлы HTML. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования ODS в формат HTML" gistPath="" %}}

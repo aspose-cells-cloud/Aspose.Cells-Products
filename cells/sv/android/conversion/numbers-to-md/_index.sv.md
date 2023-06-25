@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS till MD Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: NUMBERS till MD Konvertera API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera NUMBERS-formatfil till MD-formatfil.
 url: /sv/android/conversion/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

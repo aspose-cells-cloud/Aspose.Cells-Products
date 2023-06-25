@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som XLTX API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för C# för att spara NUMBERS-formatfilen som XLTX-formatfil.
 url: /sv/net/saveas/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

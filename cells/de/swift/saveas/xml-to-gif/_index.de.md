@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie XML als GIF API für Swift
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
 url: /de/swift/saveas/xml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um XML als GIF zu speichern" h2="Swift-Bibliothek zum Speichern von XML als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung, um XML als GIF und andere Dokumentformate online mit Swift zu speichern." urlsection="saveas/xml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Speichern von XML als GIF" h2="Swift-Bibliothek zum Speichern von XML als GIF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als GIF und anderen Dokumentformaten mit Swift." urlsection="saveas/xml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als GIF in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als GIF ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu GIF werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XML als GIF-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Speichern von Dateiformaten aus XML als GIF ist eine komplexe Aufgabe. Alle Übergänge vom XML- zum GIF-Format werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als GIF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XML im GIF-Format" gistPath="" %}}
@@ -54,16 +54,16 @@ Das Speichern von Dateiformaten aus XML als GIF ist eine komplexe Aufgabe. Alle 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Speichern von XML als GIF" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um XML als GIF zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>macOS Monterey 12.4</li>
-<li>Schnell 4.2</li>
+<li>Swift 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

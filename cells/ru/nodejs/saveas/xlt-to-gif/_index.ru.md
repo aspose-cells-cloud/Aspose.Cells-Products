@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLT как GIF API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLT в виде файла формата GIF.
 url: /ru/nodejs/saveas/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlt-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT в формате GIF в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в формате GIF — сложная задача. Все переходы форматов XLT в GIF выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для сохранения XLT в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод GIF.
+Сохранение форматов файлов из XLT в формате GIF — сложная задача. Все переходы форматов XLT в GIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для сохранения XLT в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLT в формате GIF" gistPath="" %}}

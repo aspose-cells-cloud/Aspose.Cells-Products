@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование MHTML в XLS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование MHTML в XLS API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата MHTML в файл формата XLS.
 url: /ru/net/conversion/mhtml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

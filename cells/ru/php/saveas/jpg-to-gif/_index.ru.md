@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как GIF API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JPG в виде файла формата GIF.
 url: /ru/php/saveas/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить JPG в формате GIF" h2="PHP библиотека для сохранения JPG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения JPG в формате GIF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/jpg-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения JPG в формате GIF" h2="PHP библиотека для сохранения JPG в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения JPG в формате GIF и других форматов документов в Интернете с использованием PHP." urlsection="saveas/jpg-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как GIF в PHP." >}}

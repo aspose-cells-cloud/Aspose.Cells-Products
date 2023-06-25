@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как FODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата SXC в виде файла формата FODS.
 url: /ru/go/saveas/sxc-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

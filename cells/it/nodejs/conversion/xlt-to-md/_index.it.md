@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XLT a MD API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per NodeJS per convertire il file in formato XLT in un file in formato MD.
 url: /it/nodejs/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

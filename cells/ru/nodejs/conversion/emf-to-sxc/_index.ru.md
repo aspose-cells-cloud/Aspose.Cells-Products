@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование EMF в SXC API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование EMF в SXC API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата EMF в файл формата SXC.
 url: /ru/nodejs/conversion/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

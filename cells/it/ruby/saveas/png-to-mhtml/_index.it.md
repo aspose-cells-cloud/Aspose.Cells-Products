@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come MHTML API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato PNG come file in formato MHTML.
 url: /it/ruby/saveas/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

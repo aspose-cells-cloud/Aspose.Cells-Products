@@ -1,6 +1,6 @@
 ﻿---
-title:  XPS için MHTML'yi Python için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XPS için MHTML'yi Python için API'e dönüştür
+description:  MHTML biçim dosyasını XPS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

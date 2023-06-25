@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel &
 url: /ar/perl/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Perl مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Perl. هذا الحل الاحترافي يمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Perl." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Perl مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Perl. هذا الحل الاحترافي يمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Perl." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Perl REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSB como JPG API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato XLSB como archivo de formato JPG.
 url: /es/nodejs/saveas/xlsb-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Conversión
-description: Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Conversión con Ruby
+description: Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato con Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/ruby/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversión" h2="Aspose.Cells Cloud SDK admite la conversión de formato de archivo. El formato de archivo compatible tiene más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversión con Ruby" h2="Aspose.Cells Cloud SDK admite la conversión de formato de archivo. El formato de archivo compatible tiene más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato con Ruby. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -20,9 +20,9 @@ url: /es/ruby/conversion/
 	<li><b>Imágenes:</b> PNG, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Formato de salida</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Palabra/PowerPoint:</b>docx, pptx</li>
+	<li><b>Microsoft Palabra/PowerPoint:</b> docx, pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, Xml</li>
 	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>
@@ -34,7 +34,7 @@ url: /es/ruby/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Enlaces de extensión de conversión" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Conversión con enlaces de Ruby Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

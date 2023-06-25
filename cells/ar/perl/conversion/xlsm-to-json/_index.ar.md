@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSM إلى JSON تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLSM إلى JSON تحويل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSM إلى ملف بتنسيق JSON.
 url: /ar/perl/conversion/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

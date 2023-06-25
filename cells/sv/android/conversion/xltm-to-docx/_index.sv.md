@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till DOCX Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i XLTM-format till fil i DOCX-format.
 url: /sv/android/conversion/xltm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

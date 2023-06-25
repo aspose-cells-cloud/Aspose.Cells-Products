@@ -1,10 +1,10 @@
 ﻿---
-title:  Cloud'daki yerel çalışma kitabındaki yinelenen satırları temizle
-description: Microsoft Excel ve OpenOffice Calc üzerinde yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki yinelenen satırları temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title: Cloud'da Perl ile yerel çalışma kitabındaki yinelenen satırları temizleyin
+description:  Microsoft Excel ve Perl ile OpenOffice Calc üzerindeki yinelenen satırı temizlemek için Cloud API'leri ve SDK'lar. Perl için Cells Cloud API SDK ile yerel elektronik tablolardaki yinelenen satırları temizleyin
 url: /tr/perl/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için temizleyin" p="Cells Yerel Microsoft Excel\'deki yinelenen satırları ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki yinelenen satırları temizlemek için Cells Clear REST API\'i kullanın. ." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için temizleyin" p="Cells Yerel Microsoft Excel\'deki yinelenen satırları ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki yinelenen satırları temizlemek için Cells Clear REST API\'i kullanın. ." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizle - Perl REST API" >}}

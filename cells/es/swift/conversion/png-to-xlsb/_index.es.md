@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG a XLSB Convertir API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/conversion/png-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a XLSB en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a XLSB es una tarea compleja. Todas las transiciones de formato PNG a XLSB se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca Swift es una solución profesional para convertir PNG a archivos XLSB en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XLSB perfecta.
+Convertir formatos de archivo de PNG a XLSB es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato PNG a XLSB mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca Swift es una solución profesional para convertir PNG a archivos XLSB en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XLSB perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir PNG a formato XLSB" gistPath="" %}}

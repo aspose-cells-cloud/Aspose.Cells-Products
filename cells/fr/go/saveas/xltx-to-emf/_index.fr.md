@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLTX sous EMF API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XLTX en tant que fichier au format EMF.
 url: /fr/go/saveas/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/saveas/xltx-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX sous EMF dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTX sous le nom EMF est une tâche complexe. Toutes les transitions de format XLTX vers EMF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLTX sous le format EMF. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie EMF parfaite.
+L'enregistrement des formats de fichiers à partir de XLTX sous le nom EMF est une tâche complexe. Toutes les transitions de format XLTX vers EMF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne les fichiers XLTX sous le format EMF. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie EMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer XLTX au format EMF" gistPath="" %}}

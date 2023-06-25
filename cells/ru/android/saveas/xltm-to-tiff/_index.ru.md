@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTM как TIFF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLTM как файла формата TIFF.
 url: /ru/android/saveas/xltm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xltm-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как TIFF в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM как TIFF — сложная задача. Все переходы между форматами XLTM и TIFF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Android — это профессиональное решение для сохранения файлов XLTM в формате TIFF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
+Сохранение форматов файлов из XLTM как TIFF — сложная задача. Все переходы формата XLTM в формат TIFF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Android — это профессиональное решение для сохранения файлов XLTM в формате TIFF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLTM в формате TIFF" gistPath="" %}}

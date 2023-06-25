@@ -1,10 +1,10 @@
 ﻿---
-title:  Slå samman flera Excel-filer till en fil.
-description: " Cloud API:er och SDK:er för sammanslagning av flera Excel-filer. Slå samman flera Excel-filer till en fil med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+title:  Slå samman flera Excel-filer till en fil med Python.
+description: " Cloud API:er och SDK:er för att slå samman flera Excel-filer med Python"
 url: /sv/python/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att slå samman flera Excel-filer till en fil." h2="Python-biblioteket för att slå samman flera Excel-filer till en fil." p="Använd Cells Sammanfoga REST API för att sammanfoga flera Excel filer till en fil i Python. Denna professionella lösning sammanfogar flera Excel filer till ett Microsoft Excel kalkylblad med OpenOffice Cal 4c06.7." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att slå samman flera Excel-filer till en fil." h2="Python-biblioteket för att slå samman flera Excel-filer till en fil." p="Använd Cells Sammanfoga REST API för att sammanfoga flera Excel filer till en fil i Python. Denna professionella lösning sammanfogar flera Excel filer till ett Microsoft Excel kalkylblad med OpenOffice Cal 4c06.7." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Slå samman flera Excel-filer till en fil - Python REST API" >}}

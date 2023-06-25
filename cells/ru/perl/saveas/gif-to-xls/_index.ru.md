@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить GIF как XLS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата GIF в виде файла формата XLS.
 url: /ru/perl/saveas/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения GIF в формате XLS" h2="Perl библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения GIF в формате XLS и других форматах документов в Интернете с использованием Perl." urlsection="saveas/gif-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения GIF в формате XLS" h2="Perl библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения GIF в формате XLS и других форматов документов в Интернете с использованием Perl." urlsection="saveas/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате XLS по номеру Perl." >}}

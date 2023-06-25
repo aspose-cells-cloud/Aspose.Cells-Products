@@ -1,5 +1,5 @@
 ﻿---
-title:  Преобразование FODS в TXT на Android
+title:  Конвертировать FODS в TXT на Android
 description: Автоматизируйте Excel операции по обработке файлов, такие как создание, редактирование и преобразование, с помощью облака API и Android SDK с открытым исходным кодом
 url: /ru/android/conversion/fods-to-txt/
 family: cells
@@ -19,7 +19,7 @@ otherformats: XPS XLTX DIF XML MD PDF HTML CSV XLSX ODS XLTM TIFF TXT FODS XLSM 
 1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
 1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApiUtil.Upload```.
-1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить результирующий файл TXT.
+1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить результирующий TXT-файл.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните с Excel REST API" %}}

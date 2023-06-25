@@ -1,6 +1,6 @@
 ﻿---
 title:  NÚMEROS a MHTML Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato NUMBERS a un archivo de formato MHTML.
 url: /es/android/conversion/numbers-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как XLTX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата PNG в виде файла формата XLTX.
 url: /ru/nodejs/saveas/png-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/png-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XLTX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения PNG в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
+Сохранение форматов файлов с PNG как XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека NodeJS — это профессиональное решение для сохранения PNG в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения PNG в формате XLTX" gistPath="" %}}

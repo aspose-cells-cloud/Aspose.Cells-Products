@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde EMF como BMP API para Ir
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato EMF como archivo de formato BMP.
 url: /es/go/saveas/emf-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

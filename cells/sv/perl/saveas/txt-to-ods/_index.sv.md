@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara TXT som ODS API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara TXT som ODS API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara TXT-formatfil som ODS-formatfil.
 url: /sv/perl/saveas/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

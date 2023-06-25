@@ -1,6 +1,6 @@
 ﻿---
-title:  Расшифровать локальные таблицы с помощью пароля в облаке
-description: Облачные API и SDK для разблокировки Microsoft Excel и OpenOffice Calc. Электронные таблицы расшифровываются Cells Облаком API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Расшифровать локальные таблицы с помощью пароля в облаке
+description:  Облачные API и SDK для разблокировки Microsoft Excel и OpenOffice Calc. Электронные таблицы расшифровываются Cells Облаком API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

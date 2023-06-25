@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить NUMBERS как MHTML API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата NUMBERS в виде файла формата MHTML.
 url: /ru/php/saveas/numbers-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/numbers-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как MHTML в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как MHTML — сложная задача. Все преобразования форматов NUMBERS в формат MHTML выполняются нашим SDK PHP, при этом основное структурное и логическое содержание исходной электронной таблицы NUMBERS сохраняется. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из NUMBERS как MHTML — сложная задача. Все переходы NUMBERS в формат MHTML выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения NUMBERS в формате MHTML" gistPath="" %}}

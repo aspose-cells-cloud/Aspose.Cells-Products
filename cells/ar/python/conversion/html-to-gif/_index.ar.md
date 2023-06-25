@@ -1,6 +1,6 @@
 ﻿---
-title: HTML إلى GIF تحويل API عن Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  HTML إلى GIF تحويل API عن Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق HTML إلى ملف بتنسيق GIF.
 url: /ar/python/conversion/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

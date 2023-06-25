@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer ODS au format CSV API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer ODS au format CSV API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format ODS en tant que fichier au format CSV.
 url: /fr/python/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

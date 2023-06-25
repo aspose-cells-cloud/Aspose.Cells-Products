@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните TXT как XLSM API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата TXT в виде файла формата XLSM.
 url: /ru/nodejs/saveas/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TXT как XLSM" h2="Библиотека NodeJS для сохранения TXT как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TXT как XLSM и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/txt-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TXT как XLSM" h2="Библиотека NodeJS для сохранения TXT как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TXT как XLSM и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/txt-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как XLSM в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде XLSM — сложная задача. Все переходы форматов TXT в XLSM выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для сохранения TXT в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из TXT в виде XLSM — сложная задача. Все переходы форматов TXT в XLSM выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для сохранения TXT в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения TXT в формате XLSM" gistPath="" %}}

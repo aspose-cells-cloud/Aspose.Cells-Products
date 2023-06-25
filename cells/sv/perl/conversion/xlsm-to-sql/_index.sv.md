@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM till SQL Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSM till SQL Konvertera API för Perl
+description: Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSM-format till fil i SQL-format.
 url: /sv/perl/conversion/xlsm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

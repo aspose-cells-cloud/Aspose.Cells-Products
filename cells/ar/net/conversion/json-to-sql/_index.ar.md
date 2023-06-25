@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى SQL - تحويل API عن C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق JSON إلى ملف بتنسيق SQL.
 url: /ar/net/conversion/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV till MHTML Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera TSV-formatfil till MHTML-formatfil.
 url: /sv/go/conversion/tsv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

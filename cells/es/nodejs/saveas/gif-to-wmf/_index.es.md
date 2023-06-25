@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar GIF como WMF API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato GIF como archivo de formato WMF.
 url: /es/nodejs/saveas/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ Guardar formatos de archivo de GIF como WMF es una tarea compleja. Todas las tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el Nodo API para guardar GIF como WMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para guardar GIF como WMF" >}}
 <li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
 <li>Llame al método cellSaveAsPostDocumentSaveAs para obtener el flujo resultante</li>

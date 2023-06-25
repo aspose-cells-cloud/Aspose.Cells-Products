@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ WMF API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق HTML كملف بتنسيق WMF.
 url: /ar/net/saveas/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

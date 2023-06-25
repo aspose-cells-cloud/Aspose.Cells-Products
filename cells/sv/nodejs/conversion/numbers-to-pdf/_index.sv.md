@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS till PDF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera NUMBERS-formatfilen till PDF-formatfilen.
 url: /sv/nodejs/conversion/numbers-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

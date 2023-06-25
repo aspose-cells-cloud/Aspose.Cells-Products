@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните TSV как SQL API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата TSV в виде файла формата SQL.
 url: /ru/net/saveas/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения TSV как SQL" h2="C# библиотека для сохранения TSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения TSV как SQL и других форматов документов в Интернете с использованием C#." urlsection="saveas/tsv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения TSV как SQL" h2="C# библиотека для сохранения TSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения TSV в виде SQL и других форматов документов в Интернете с использованием C#." urlsection="saveas/tsv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как SQL в C#." >}}

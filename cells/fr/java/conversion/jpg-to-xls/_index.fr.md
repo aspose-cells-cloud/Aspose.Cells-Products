@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en XLS API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir un fichier au format JPG en fichier au format XLS.
 url: /fr/java/conversion/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

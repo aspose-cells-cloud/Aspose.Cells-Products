@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva MHTML come WMF API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato MHTML come file in formato WMF.
 url: /it/python/saveas/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

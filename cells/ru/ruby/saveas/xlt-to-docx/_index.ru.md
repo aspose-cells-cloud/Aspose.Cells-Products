@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLT как DOCX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLT в виде файла формата DOCX.
 url: /ru/ruby/saveas/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLT как DOCX" h2="Библиотека Ruby для сохранения XLT как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLT как DOCX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlt-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLT как DOCX" h2="Библиотека Ruby для сохранения XLT как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLT как DOCX и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xlt-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как DOCX в Ruby" >}}

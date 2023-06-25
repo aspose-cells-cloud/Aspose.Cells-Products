@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML en tant que MHTML API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format HTML en tant que fichier au format MHTML.
 url: /fr/ruby/saveas/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

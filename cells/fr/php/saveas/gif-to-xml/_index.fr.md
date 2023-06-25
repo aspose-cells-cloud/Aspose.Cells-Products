@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le GIF au format XML API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format GIF en tant que fichier au format XML.
 url: /fr/php/saveas/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

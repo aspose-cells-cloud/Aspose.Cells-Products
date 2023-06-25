@@ -1,6 +1,6 @@
 ﻿---
 title:  Bakgrund
-description: Aspose.Cells Cloud REST API stöder inställd bakgrund för filen Excel. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder inställd bakgrund för filen Excel. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

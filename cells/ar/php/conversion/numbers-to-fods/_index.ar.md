@@ -1,6 +1,6 @@
 ﻿---
-title: الأرقام إلى FODS حوّل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  الأرقام إلى FODS حوّل API إلى PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق FODS.
 url: /ar/php/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

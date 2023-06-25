@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как MHTML API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата ODS в виде файла формата MHTML.
 url: /ru/nodejs/saveas/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

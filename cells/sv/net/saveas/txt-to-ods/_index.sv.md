@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara TXT som ODS API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara TXT som ODS API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara TXT-formatfil som ODS-formatfil.
 url: /sv/net/saveas/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

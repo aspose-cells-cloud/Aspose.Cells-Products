@@ -1,10 +1,10 @@
 ﻿---
 title:  НОМЕРА в JPG конвертировать API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата NUMBERS в файл формата JPG.
 url: /ru/python/conversion/numbers-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для конвертации NUMBERS в JPG" h2="Python библиотека для преобразования NUMBERS в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации NUMBERS в JPG и другие форматы документов с использованием Python." urlsection="conversion/numbers-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для конвертации NUMBERS в JPG" h2="Python библиотека для преобразования NUMBERS в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации NUMBERS в JPG и другие форматы документов с использованием Python." urlsection="conversion/numbers-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в JPG в Python" >}}

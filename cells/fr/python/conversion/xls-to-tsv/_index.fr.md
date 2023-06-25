@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir XLS en TSV API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLS en fichier au format TSV.
 url: /fr/python/conversion/xls-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLS en TSV" h2="bibliothèque Python pour convertir XLS en TSV" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLS en TSV et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xls-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLS en TSV" h2="bibliothèque Python pour convertir XLS en TSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLS en TSV et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xls-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLS en TSV en Python" >}}

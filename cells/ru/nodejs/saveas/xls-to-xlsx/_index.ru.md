@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLS как XLSX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLS как файла формата XLSX.
 url: /ru/nodejs/saveas/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XLS как XLSX" h2="Библиотека NodeJS для сохранения XLS как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLS как XLSX и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/xls-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XLS как XLSX" h2="Библиотека NodeJS для сохранения XLS как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLS как XLSX и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLSX в NodeJS" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP в JPG Конвертировать API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата BMP в файл формата JPG.
 url: /ru/go/conversion/bmp-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/bmp-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл BMP в JPG в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в JPG является сложной задачей. Все переходы BMP в формат JPG выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Go — это профессиональное решение для онлайн-конвертации BMP в файлы JPG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате JPG.
+Преобразование форматов файлов из BMP в JPG — сложная задача. Все переходы BMP в формат JPG выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Go — это профессиональное решение для онлайн-конвертации BMP в файлы JPG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования BMP в формат JPG" gistPath="" %}}

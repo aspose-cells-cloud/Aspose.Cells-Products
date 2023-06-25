@@ -18,7 +18,7 @@ url: /ru/swift/clear/pivot-tables/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Swift API для очистки сводных таблиц" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для очистки сводных таблиц" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод postClearObjects, чтобы получить результирующий поток</li>

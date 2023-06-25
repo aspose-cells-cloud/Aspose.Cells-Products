@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить CSV как XLSB API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата CSV в виде файла формата XLSB.
 url: /ru/php/saveas/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить CSV как XLSB" h2="PHP библиотека для сохранения CSV как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения CSV в виде XLSB и других форматов документов в Интернете с использованием PHP." urlsection="saveas/csv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить CSV как XLSB" h2="PHP библиотека для сохранения CSV как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения CSV как XLSB и других форматов документов в Интернете с использованием PHP." urlsection="saveas/csv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLSB в PHP." >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLTX как XLSB API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLTX в виде файла формата XLSB.
 url: /ru/nodejs/saveas/xltx-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XLTX как XLSB" h2="Библиотека NodeJS для сохранения XLTX как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как XLSB и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/xltx-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения XLTX как XLSB" h2="Библиотека NodeJS для сохранения XLTX как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как XLSB и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xltx-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSB в NodeJS." >}}

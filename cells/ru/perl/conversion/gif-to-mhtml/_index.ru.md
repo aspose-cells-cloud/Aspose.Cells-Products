@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование GIF в MHTML API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование GIF в MHTML API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата GIF в файл формата MHTML.
 url: /ru/perl/conversion/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM in BMP Converti API in Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XLTM in BMP Converti API in Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLTM nel file in formato BMP.
 url: /it/perl/conversion/xltm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

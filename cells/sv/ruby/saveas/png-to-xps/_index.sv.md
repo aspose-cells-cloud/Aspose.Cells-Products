@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XPS API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara PNG filformat som XPS filformat.
 url: /sv/ruby/saveas/png-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Esporta CHART in JPG dal foglio di calcolo utilizzando Go API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/go/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/go/export/chart-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto CHART in un file in formato JPG in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto CHART in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni dal formato CHART a JPG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti CHART in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
+Esportare l'oggetto CHART in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni dal formato CHART a JPG viene eseguita dal nostro SDK Go mantenendo il contenuto strutturale e logico principale del foglio di calcolo CHART di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti CHART in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare CHART in formato JPG dal foglio di calcolo" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTX come PDF API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLTX come file in formato PDF.
 url: /it/android/saveas/xltx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

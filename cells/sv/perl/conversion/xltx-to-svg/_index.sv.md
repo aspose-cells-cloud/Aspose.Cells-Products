@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX till SVG Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLTX till SVG Konvertera API till Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLTX-format till fil i SVG-format.
 url: /sv/perl/conversion/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

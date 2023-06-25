@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLS в PPTX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLS в файл формата PPTX.
 url: /ru/net/conversion/xls-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/xls-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в PPTX в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLS в PPTX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
+Преобразование форматов файлов из XLS в PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLS в PPTX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLS в формат PPTX" gistPath="" %}}

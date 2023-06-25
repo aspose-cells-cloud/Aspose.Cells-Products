@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как ODS API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/png-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как ODS в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG в виде ODS является сложной задачей. Все переходы формата PNG в формат ODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод ODS.
+Сохранение форматов файлов с PNG в виде ODS является сложной задачей. Все переходы формата PNG в формат ODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для сохранения PNG в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения PNG в формате ODS" gistPath="" %}}

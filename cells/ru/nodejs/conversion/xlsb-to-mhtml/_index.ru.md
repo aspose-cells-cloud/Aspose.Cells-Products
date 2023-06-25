@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLSB в MHTML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLSB в файл формата MHTML.
 url: /ru/nodejs/conversion/xlsb-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в MHTML" h2="Библиотека NodeJS для преобразования XLSB в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в MHTML и другие форматы документов с использованием NodeJS." urlsection="conversion/xlsb-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в MHTML" h2="Библиотека NodeJS для преобразования XLSB в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в MHTML и другие форматы документов с помощью NodeJS." urlsection="conversion/xlsb-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в MHTML в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в MHTML — сложная задача. Все переходы формата XLSB в формат MHTML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в MHTML. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из XLSB в MHTML — сложная задача. Все переходы форматов XLSB в MHTML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в MHTML. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLSB в формат MHTML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в XLT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата GIF в файл формата XLT.
 url: /ru/android/conversion/gif-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/gif-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в XLT на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в XLT — сложная задача. Все переходы формата GIF в формат XLT выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов GIF в XLT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLT.
+Преобразование форматов файлов из GIF в XLT — сложная задача. Все переходы формата GIF в формат XLT выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов GIF в XLT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования GIF в формат XLT" gistPath="" %}}

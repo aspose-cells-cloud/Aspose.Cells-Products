@@ -1,13 +1,13 @@
 ﻿---
 title:  CSV a XLSB Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato CSV a un archivo de formato XLSB.
 url: /es/nodejs/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para convertir CSV a XLSB" h2="Biblioteca NodeJS para convertir CSV a XLSB" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en NodeJS. Esta es una solución profesional para convertir CSV a XLSB y otros formatos de documentos en línea usando NodeJS." urlsection="conversion/csv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo CSV a XLSB en NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo CSV a XLSB en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de CSV a XLSB es una tarea compleja. Todas las transiciones de formato CSV a XLSB se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos CSV a XLSB en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLSB perfecta.

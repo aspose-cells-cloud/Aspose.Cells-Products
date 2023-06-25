@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS'yi Perl için XLTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: ODS'yi Perl için XLTX API olarak kaydedin
+description:  ODS format dosyasını XLTX format dosyası olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/saveas/ods-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Cloud Spreadsheet Generator & Converter SDKs & REST APIs
+title: Cloud Spreadsheet Generator & Converter SDKs & REST APIs
 description:  توفر حزم SDK للغات الشائعة تكاملاً سلسًا في تطبيقاتك لقراءة وتعديل وتحويل Excel وجداول بيانات OpenOffice المستضافة على السحابة
 weight: 10
 url: /ar/family

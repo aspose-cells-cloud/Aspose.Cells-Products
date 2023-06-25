@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSM كـ XLT API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  حفظ XLSM كـ XLT API for Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSM كملف بتنسيق XLT.
 url: /ar/java/saveas/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

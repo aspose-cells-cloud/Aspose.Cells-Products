@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ XLS API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق SXC كملف بتنسيق XLS.
 url: /ar/nodejs/saveas/sxc-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som SXC API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara CSV-formatfil som SXC-formatfil.
 url: /sv/perl/saveas/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

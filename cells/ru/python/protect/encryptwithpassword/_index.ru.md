@@ -1,10 +1,10 @@
 ﻿---
-title:  Зашифровать локальную таблицу паролем в облаке
-description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc. Шифруйте локальные электронные таблицы с помощью пароля Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Зашифровать локальную таблицу паролем Python в облаке
+description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с Python. Шифруйте локальные электронные таблицы с помощью пароля Cells Cloud API SDK для Python.
 url: /ru/python/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для защиты локальной Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека Python для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Защитить REST API для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Python. Это профессиональное решение защищает Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей, использующих Python." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека Python для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Защитить REST API для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Python. Это профессиональное решение защищает Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей, использующих Python." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите локальный Microsoft Excel и электронную таблицу OpenOffice Calc паролем - Python REST API" >}}

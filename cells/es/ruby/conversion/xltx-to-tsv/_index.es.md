@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX a TSV API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLTX a un archivo de formato TSV.
 url: /es/ruby/conversion/xltx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /es/ruby/conversion/xltx-to-tsv/
 Convertir formatos de archivo de XLTX a TSV es una tarea compleja. Todas las transiciones de formato XLTX a TSV se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLTX a TSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida TSV perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir XLTX a formato TSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir formato XLTX a TSV" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

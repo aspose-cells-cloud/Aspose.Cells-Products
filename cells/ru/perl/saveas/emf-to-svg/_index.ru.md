@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить EMF как SVG API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата EMF как файла формата SVG.
 url: /ru/perl/saveas/emf-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/emf-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как SVG в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как SVG — сложная задача. Все переходы форматов с EMF на SVG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для сохранения файлов EMF как SVG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов с EMF как SVG — сложная задача. Все переходы форматов с EMF на SVG выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для сохранения файлов EMF как SVG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения EMF в формате SVG" gistPath="" %}}

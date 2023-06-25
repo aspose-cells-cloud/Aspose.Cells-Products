@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLT в CSV API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLT в файл формата CSV.
 url: /ru/go/conversion/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLT в CSV." h2="Библиотека Go для преобразования XLT в CSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLT в CSV и другие форматы документов с помощью Go." urlsection="conversion/xlt-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLT в CSV." h2="Перейти к библиотеке для преобразования XLT в CSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLT в CSV и другие форматы документов с помощью Go." urlsection="conversion/xlt-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в CSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в CSV — сложная задача. Все переходы формата XLT в CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLT в CSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
+Преобразование форматов файлов из XLT в CSV — сложная задача. Все переходы между форматами XLT и CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLT в CSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLT в формат CSV" gistPath="" %}}

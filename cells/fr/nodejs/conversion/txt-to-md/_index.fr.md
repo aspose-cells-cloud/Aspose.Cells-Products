@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TXT en MD API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format TXT en fichier au format MD.
 url: /fr/nodejs/conversion/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /fr/nodejs/conversion/txt-to-md/
 La conversion des formats de fichiers de TXT en MD est une tâche complexe. Toutes les transitions de format TXT vers MD sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir des fichiers TXT en MD en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie MD parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir TXT au format MD" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir le format TXT au format MD" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

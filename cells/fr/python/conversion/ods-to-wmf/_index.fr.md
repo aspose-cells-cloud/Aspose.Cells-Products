@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS en WMF Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: ODS en WMF Convertir API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format ODS en fichier au format WMF.
 url: /fr/python/conversion/ods-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

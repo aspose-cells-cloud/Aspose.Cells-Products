@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить EMF как JPG API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата EMF в виде файла формата JPG.
 url: /ru/android/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

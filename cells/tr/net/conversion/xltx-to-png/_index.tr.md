@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX'den PNG'e C# için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLTX'den PNG'e C# için API'i dönüştürün
+description:  XLTX biçim dosyasını PNG biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

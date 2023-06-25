@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى PNG تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLSB إلى ملف بتنسيق PNG.
 url: /ar/android/conversion/xlsb-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

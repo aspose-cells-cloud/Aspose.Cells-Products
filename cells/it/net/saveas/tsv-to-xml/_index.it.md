@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TSV come XML API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato TSV come file in formato XML.
 url: /it/net/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

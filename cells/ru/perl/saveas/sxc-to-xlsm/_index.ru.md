@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как XLSM API для Perl.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата SXC как файла формата XLSM.
 url: /ru/perl/saveas/sxc-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/sxc-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как XLSM по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде XLSM — сложная задача. Все переходы формата SXC в формат XLSM выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для сохранения SXC в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из SXC как XLSM — сложная задача. Все переходы формата SXC в формат XLSM выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для сохранения SXC в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения SXC в формате XLSM" gistPath="" %}}

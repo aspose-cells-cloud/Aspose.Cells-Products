@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с помощью PHP API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с использованием PHP API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/php/export/picture-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/export/picture-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата JPG в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл JPG из электронной таблицы является сложной задачей. Экспорт переходов формата ИЗОБРАЖЕНИЕ в формат JPG выполняется нашим SDK PHP при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Экспорт объекта ИЗОБРАЖЕНИЕ в файл JPG из электронной таблицы является сложной задачей. Экспорт переходов формата ИЗОБРАЖЕНИЕ в формат JPG выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат JPG из электронной таблицы" gistPath="" %}}

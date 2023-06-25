@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLSM como XLS API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato XLSM como archivo de formato XLS.
 url: /es/java/saveas/xlsm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

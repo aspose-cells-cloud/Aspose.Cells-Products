@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XML come MD API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XML come file in formato MD.
 url: /it/ruby/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

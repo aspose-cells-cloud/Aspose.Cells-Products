@@ -1,6 +1,6 @@
 ﻿---
-title: ODS till MD Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  ODS till MD Konvertera API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i ODS-format till fil i MD-format.
 url: /sv/python/conversion/ods-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

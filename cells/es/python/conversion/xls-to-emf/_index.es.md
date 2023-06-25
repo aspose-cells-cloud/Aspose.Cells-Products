@@ -1,10 +1,10 @@
 ﻿---
-title: XLS a EMF Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLS a EMF Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLS a un archivo de formato EMF.
 url: /es/python/conversion/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLS a EMF" h2="Python biblioteca para convertir XLS a EMF" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLS a EMF y otros formatos de documentos en línea usando Python." urlsection="conversion/xls-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLS a EMF" h2="Python biblioteca para convertir XLS a EMF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLS a EMF y otros formatos de documentos en línea usando Python." urlsection="conversion/xls-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLS a EMF en Python" >}}

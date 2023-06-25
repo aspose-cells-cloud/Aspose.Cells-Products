@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLT как JPG API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLT в виде файла формата JPG.
 url: /ru/java/saveas/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить XLT в формате JPG" h2="Java библиотека для сохранения XLT в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения XLT в формате JPG и других форматах документов в Интернете с использованием Java." urlsection="saveas/xlt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения XLT в формате JPG" h2="Java библиотека для сохранения XLT в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения XLT в формате JPG и других форматах документов в Интернете с использованием Java." urlsection="saveas/xlt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT в формате JPG по адресу Java." >}}

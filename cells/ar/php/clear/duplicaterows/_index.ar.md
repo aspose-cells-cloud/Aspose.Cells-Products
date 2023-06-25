@@ -1,10 +1,10 @@
 ﻿---
-title:  امسح الصفوف المكررة في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الصفوف المكررة على Microsoft Excel & OpenOffice Calc. امسح الصفوف المكررة على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title: امسح الصفوف المكررة في المصنف المحلي باستخدام PHP في Cloud
+description:  Cloud APIs & SDKs لمسح الصفوف المكررة على Microsoft Excel و OpenOffice Calc مع PHP. امسح الصفوف المكررة على جداول البيانات المحلية بواسطة Cells Cloud API SDK لـ PHP
 url: /ar/php/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="PHP امسح لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في PHP. هذا الحل الاحترافي يمسح الصفوف المكررة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc باستخدام PHP." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="PHP امسح لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في PHP. هذا الحل الاحترافي يمسح الصفوف المكررة على Excel Microsoft المحلي و OpenOffice Calc باستخدام PHP." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - PHP REST API" >}}

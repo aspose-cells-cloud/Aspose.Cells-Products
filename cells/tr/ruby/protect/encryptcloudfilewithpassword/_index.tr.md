@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/ruby/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için Ruby API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulutu korumak için Ruby kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Ruby\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi parolalarla korur." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için Ruby API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulutu korumak için Ruby kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Ruby\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi parolalarla korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile - Ruby REST API" >}}

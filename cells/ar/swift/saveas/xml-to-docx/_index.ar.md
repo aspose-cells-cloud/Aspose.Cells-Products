@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XML كـ DOCX API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XML بتنسيق DOCX" h2="مكتبة سريعة لحفظ XML بتنسيق DOCX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XML بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xml-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ XML كملف DOCX" h2="مكتبة سريعة لحفظ XML بتنسيق DOCX" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ XML بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/xml-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بتنسيق DOCX في Swift" >}}

@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح عمليات التحقق على Micros
 url: /ar/go/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Go. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح عمليات التحقق من صحة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

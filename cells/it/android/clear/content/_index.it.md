@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei contenuti su Microsoft Ex
 url: /it/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare il contenuto sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Android. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare il contenuto sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Android. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Android REST API" >}}

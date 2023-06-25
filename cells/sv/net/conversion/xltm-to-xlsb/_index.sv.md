@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till XLSB Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i XLTM-format till fil i XLSB-format.
 url: /sv/net/conversion/xltm-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/net/conversion/xltm-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLTM-fil till XLSB i C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLTM till XLSB är en komplex uppgift. Alla XLTM till XLSB-formatövergångar utförs av vår C# SDK samtidigt som källkodens XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera XLTM till XLSB-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att konvertera filformat från XLTM till XLSB är en komplex uppgift. Alla XLTM- till XLSB-formatövergångar utförs av vår C# SDK samtidigt som källbladets XLTM-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt C#-bibliotek är en professionell lösning för att konvertera XLTM till XLSB-filer online. Denna Cloud SDK ger C# utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i C# med REST API för att konvertera XLTM till XLSB-format" gistPath="" %}}

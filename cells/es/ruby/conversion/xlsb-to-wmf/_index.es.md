@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB a WMF Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLSB a un archivo de formato WMF.
 url: /es/ruby/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

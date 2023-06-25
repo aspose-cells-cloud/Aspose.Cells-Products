@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar BMP como ODS API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato BMP como archivo de formato ODS.
 url: /es/java/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

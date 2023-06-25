@@ -1,10 +1,10 @@
 ﻿---
-title:  Birden çok Excel dosyasını bir dosyada birleştirin.
-description:  Birden çok Excel dosyasını birleştirmek için Bulut API'leri ve SDK'lar. Birden fazla Excel dosyasını Cells Cloud API ile bir dosyada birleştirin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Birden çok Excel dosyasını Go ile bir dosyada birleştirin.
+description:  Birden çok Excel dosyasını Go ile birleştirmek için Bulut API'leri ve SDK'lar
 url: /tr/go/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden fazla Excel dosyasını bir dosyada birleştirmek için API\'e gidin." h2="Çoklu Excel dosyalarını bir dosyada birleştirmek için kitaplığa gidin." p="Birden çok Excel dosyasını Go\'da bir dosyada birleştirmek için Cells Merge REST API\'i kullanın. Bu profesyonel çözüm, Go kullanarak birden fazla Excel dosyasını bir Microsoft Excel veya OpenOffice Calc elektronik tablosunda birleştirir." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden fazla Excel dosyasını bir dosyada birleştirmek için API\'e gidin." h2="Çoklu Excel dosyalarını bir dosyada birleştirmek için kitaplığa gidin." p="Birden çok Excel dosyasını Go\'da bir dosyada birleştirmek için Cells Merge REST API\'i kullanın. Bu profesyonel çözüm, Go kullanarak birden fazla Excel dosyasını bir Microsoft Excel veya OpenOffice Calc elektronik tablosunda birleştirir." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Birden çok Excel dosyasını bir dosyada birleştirin - REST API\'e gidin" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Exportera ARBETSBOK till WMF från kalkylblad med NodeJS API
-description:  Aspose.Cells Cloud REST API stöder export av Excel-filer och interna objekt till olika formatfiler. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
 url: /sv/nodejs/export/workbook-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

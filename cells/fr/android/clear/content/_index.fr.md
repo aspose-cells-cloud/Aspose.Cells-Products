@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer le contenu sur Microsoft Excel et Op
 url: /fr/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Android Clear pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer le contenu des flux de travail locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Android. Cette solution professionnelle efface le contenu sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide d\'Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Android Clear pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer le contenu des flux de travail locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Android. Cette solution professionnelle efface le contenu sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide d\'Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Android REST API" >}}

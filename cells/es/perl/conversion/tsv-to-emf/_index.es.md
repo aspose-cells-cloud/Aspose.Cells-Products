@@ -1,6 +1,6 @@
 ﻿---
-title: TSV a EMF Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  TSV a EMF Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato TSV a un archivo de formato EMF.
 url: /es/perl/conversion/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

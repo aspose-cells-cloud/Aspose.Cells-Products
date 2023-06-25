@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLS в DOCX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLS в файл формата DOCX.
 url: /ru/java/conversion/xls-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

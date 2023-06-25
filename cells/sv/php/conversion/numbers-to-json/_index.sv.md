@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS till JSON Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i NUMBERS-format till fil i JSON-format.
 url: /sv/php/conversion/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

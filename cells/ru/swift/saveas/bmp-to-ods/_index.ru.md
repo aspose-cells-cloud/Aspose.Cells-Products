@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить BMP как ODS API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/bmp-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как ODS в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в виде ODS является сложной задачей. Все переходы формата BMP в формат ODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Swift — это профессиональное решение для сохранения BMP в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод ODS.
+Сохранение форматов файлов с BMP в виде ODS является сложной задачей. Все переходы формата BMP в формат ODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Swift — это профессиональное решение для сохранения BMP в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения BMP в формате ODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i Go için HTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak BMP biçim dosyasını HTML biçim dosyası olarak kaydedin.
 url: /tr/go/saveas/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

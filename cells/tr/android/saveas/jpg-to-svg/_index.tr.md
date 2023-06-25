@@ -1,10 +1,10 @@
 ﻿---
 title:  Android için JPG'yi SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: JPG formatındaki dosyayı SVG formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi SVG olarak kaydetmek için Android API" h2="JPG\'yi SVG olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, JPG\'yi SVG olarak ve diğer belge biçimlerini Android kullanarak çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/jpg-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi SVG olarak kaydetmek için Android API" h2="JPG\'yi SVG olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Android kullanarak JPG\'yi SVG olarak ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/jpg-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir JPG dosyasını SVG olarak kaydedin" >}}
@@ -13,7 +13,7 @@ url: /tr/android/saveas/jpg-to-svg/
 Dosya biçimlerini JPG'den SVG olarak kaydetmek karmaşık bir iştir. Tüm JPG - SVG biçim geçişleri, kaynak JPG e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JPG'yi çevrimiçi olarak SVG dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi SVG biçiminde kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi SVG biçiminde kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

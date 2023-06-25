@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JSON come BMP API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato JSON come file in formato BMP.
 url: /it/ruby/saveas/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

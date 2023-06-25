@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование SXC в CSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата SXC в файл формата CSV.
 url: /ru/android/conversion/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/sxc-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в CSV в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в CSV — сложная задача. Все переходы формата SXC в формат CSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов SXC в CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Преобразование форматов файлов из SXC в CSV — сложная задача. Все переходы форматов SXC в CSV выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов SXC в CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования SXC в формат CSV" gistPath="" %}}

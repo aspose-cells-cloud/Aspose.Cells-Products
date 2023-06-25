@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى XLS - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JPG إلى XLS - تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLS.
 url: /ar/python/conversion/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/python/conversion/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى XLS في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبتنا Python هي حل احترافي لتحويل ملفات JPG إلى XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLS مثالي.
+يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبتنا Python هي حل احترافي لتحويل ملفات JPG إلى XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل JPG إلى تنسيق XLS" gistPath="" %}}

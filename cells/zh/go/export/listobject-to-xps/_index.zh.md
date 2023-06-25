@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 Go API 从电子表格将 LISTOBJECT 导出到 XPS
-description: Aspose.Cells Cloud REST API 支持将 Excel 文件和内部对象导出为各种格式文件。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Go API 将 LISTOBJECT 从电子表格导出到 XPS
+description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/go/export/listobject-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到 API 将 LISTOBJECT 导出到 XPS 文件" h2="去库导出 LISTOBJECT 到 XPS 文件" p="使用 Cells 导出 REST API 在 Go 中导出电子表格内部对象工作流。这是使用 Go 将 LISTOBJECT 从在线电子表格导出为 XPS 格式文件的专业解决方案。" urlsection="export/listobject-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="去API导出LISTOBJECT到XPS文件" h2="去库导出 LISTOBJECT 到 XPS 文件" p="使用 Cells Export REST API 在 Go 中导出电子表格内部对象工作流程。这是一个使用 Go 在线电子表格将 LISTOBJECT 导出为 XPS 格式文件的专业解决方案。" urlsection="export/listobject-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 LISTOBJECT 对象导出到 Go 中的 XPS 格式文件" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go中将LISTOBJECT对象导出为XPS格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 LISTOBJECT 对象从电子表格导出到 XPS 文件是一项复杂的任务。将 LISTOBJECT 导出到 XPS 格式转换由我们的 Go SDK 执行，同时保持源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Go 库是将 LISTOBJECT 对象在线导出为 XPS 格式文件的专业解决方案。此 Cloud SDK 为 Go 开发人员提供了强大的功能和完美的 XPS 输出。
+将 LISTOBJECT 对象从电子表格导出到 XPS 文件是一项复杂的任务。将 LISTOBJECT 导出到 XPS 格式转换由我们的 Go SDK 执行，同时保留源 LISTOBJECT 电子表格的主要结构和逻辑内容。我们的 Go 库是在线将 LISTOBJECT 对象导出为 XPS 格式文件的专业解决方案。这个Cloud SDK为Go开发者提供了强大的功能和完美的XPS输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Go 中的代码示例使用 REST API 将 LISTOBJECT 从电子表格导出为 XPS 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go 中使用 REST API 将 LISTOBJECT 从电子表格导出为 XPS 格式的代码示例" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -56,15 +56,15 @@ url: /zh/go/export/listobject-to-xps/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Go API 将 LISTOBJECT 导出到 XPS" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API导出LISTOBJECT到XPS" >}}
+<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 PostExport 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>go 版本 go1.13.0 或更新版本</li>
+<li>go 版本 go1.13.0 或更高版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

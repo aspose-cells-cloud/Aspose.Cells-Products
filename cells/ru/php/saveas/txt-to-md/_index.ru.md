@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как MD API для PHP.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата TXT как файла формата MD.
 url: /ru/php/saveas/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/txt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как MD в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека PHP — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека PHP — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения TXT в формате MD" gistPath="" %}}

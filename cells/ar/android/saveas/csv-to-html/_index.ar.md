@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ ملف CSV باسم HTML API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق CSV كملف بتنسيق HTML.
 url: /ar/android/saveas/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ CSV كـ HTML" h2="مكتبة Android لحفظ CSV كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ CSV كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/csv-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ CSV كـ HTML" h2="مكتبة Android لحفظ CSV كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ CSV كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/csv-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بالشكل HTML في Android" >}}

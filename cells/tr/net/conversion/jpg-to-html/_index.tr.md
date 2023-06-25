@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG'yi HTML'e C# için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: JPG'yi HTML'e C# için API'e dönüştür
+description:  JPG formatındaki dosyayı HTML formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/jpg-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

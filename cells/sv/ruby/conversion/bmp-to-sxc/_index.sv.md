@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP till SXC Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: BMP till SXC Konvertera API för Ruby
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera BMP filformat till SXC format fil.
 url: /sv/ruby/conversion/bmp-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

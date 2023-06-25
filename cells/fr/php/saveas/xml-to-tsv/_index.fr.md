@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XML sous TSV API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XML en tant que fichier au format TSV.
 url: /fr/php/saveas/xml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

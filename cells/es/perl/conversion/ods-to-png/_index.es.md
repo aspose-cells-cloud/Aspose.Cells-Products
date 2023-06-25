@@ -1,6 +1,6 @@
 ﻿---
-title: ODS a PNG Convertir API por Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  ODS a PNG Convertir API por Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir archivos de formato ODS a archivos de formato PNG.
 url: /es/perl/conversion/ods-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

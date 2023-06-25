@@ -1,10 +1,10 @@
 ﻿---
-title:  Экспорт WORKSHEET в WMF из электронной таблицы с помощью Swift API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт WORKSHEET в WMF из электронной таблицы с помощью Swift API
+description:  Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/export/worksheet-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта WORKSHEET в файл WMF" h2="Библиотека Swift для экспорта WORKSHEET в файл WMF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта файла формата WORKSHEET в файл формата WMF из электронной таблицы онлайн с помощью Swift." urlsection="export/worksheet-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для экспорта WORKSHEET в файл WMF" h2="Библиотека Swift для экспорта WORKSHEET в файл WMF" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Swift. Это профессиональное решение для экспорта файла формата WORKSHEET в WMF из электронной таблицы онлайн с помощью Swift." urlsection="export/worksheet-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата WMF в Swift" >}}

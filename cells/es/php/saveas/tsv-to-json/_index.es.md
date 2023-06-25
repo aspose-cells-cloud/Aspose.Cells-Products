@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde TSV como JSON API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde TSV como JSON API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato TSV como archivo de formato JSON.
 url: /es/php/saveas/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

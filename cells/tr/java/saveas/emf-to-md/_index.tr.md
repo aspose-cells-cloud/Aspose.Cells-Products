@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i MD API for Java olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını MD biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/emf-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

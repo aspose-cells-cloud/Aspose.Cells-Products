@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить NUMBERS как CSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата NUMBERS в виде файла формата CSV.
 url: /ru/net/saveas/numbers-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

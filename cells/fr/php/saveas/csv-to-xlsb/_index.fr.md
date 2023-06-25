@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez CSV sous XLSB API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format CSV en tant que fichier au format XLSB.
 url: /fr/php/saveas/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

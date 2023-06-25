@@ -1,10 +1,10 @@
 ﻿---
-title:  Combine varios archivos Excel en un archivo.
-description:  API y SDK en la nube para fusionar varios archivos Excel. Combine varios archivos Excel en un archivo por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Combine varios archivos Excel en un archivo con Ruby.
+description:  API y SDK en la nube para fusionar varios archivos Excel con Ruby
 url: /es/ruby/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para combinar varios archivos Excel en un archivo." h2="Biblioteca Ruby para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en Ruby. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Ruby." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para combinar varios archivos Excel en un archivo." h2="Biblioteca Ruby para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en Ruby. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Combinar varios archivos Excel en un archivo - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как GIF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата CSV в виде файла формата GIF.
 url: /ru/go/saveas/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/csv-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение CSV-файла в формате GIF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в формате GIF — сложная задача. Все переходы форматов CSV в GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-сохранения CSV-файлов в формате GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из CSV в формате GIF — сложная задача. Все переходы форматов CSV в GIF выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-сохранения CSV-файлов в формате GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения CSV в формате GIF" gistPath="" %}}

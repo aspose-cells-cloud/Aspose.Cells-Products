@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/nodejs/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için NodeJS API Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle birlikte" h2="Bulutu korumak için NodeJS kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve NodeJS\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, NodeJS kullanan parolalarla bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için NodeJS API Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle birlikte" h2="Bulutu korumak için NodeJS kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve NodeJS\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, NodeJS kullanan parolalarla bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc e-tablosunu şifreyle - NodeJS REST API" >}}

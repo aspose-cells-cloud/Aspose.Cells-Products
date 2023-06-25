@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till SXC Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera PNG filformat till SXC format fil.
 url: /sv/perl/conversion/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

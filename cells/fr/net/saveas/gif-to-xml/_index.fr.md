@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le GIF au format XML API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format GIF en tant que fichier au format XML.
 url: /fr/net/saveas/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-tab
 url: /tr/ruby/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için" h2="Ruby Clear, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki pivot tabloları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizler." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için" h2="Ruby Clear, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki pivot tabloları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizler." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda pivot tabloları temizleyin - Ruby REST API" >}}

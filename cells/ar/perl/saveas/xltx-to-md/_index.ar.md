@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ MD API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLTX كملف بتنسيق MD.
 url: /ar/perl/saveas/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

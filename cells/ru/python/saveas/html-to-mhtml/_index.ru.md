@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как MHTML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML в виде файла формата MHTML.
 url: /ru/python/saveas/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/html-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как MHTML в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как MHTML — сложная задача. Все переходы формата HTML в формат MHTML выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов MHTML в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов с HTML как MHTML — сложная задача. Все переходы формата HTML в формат MHTML выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов MHTML в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения HTML в формате MHTML" gistPath="" %}}

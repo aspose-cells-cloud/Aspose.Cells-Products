@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i Git için XML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak EMF biçimindeki dosyayı XML biçimindeki dosya olarak kaydedin.
 url: /tr/go/saveas/emf-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

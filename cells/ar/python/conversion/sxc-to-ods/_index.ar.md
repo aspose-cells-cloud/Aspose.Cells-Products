@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل SXC إلى ODS API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق SXC إلى ملف بتنسيق ODS.
 url: /ar/python/conversion/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

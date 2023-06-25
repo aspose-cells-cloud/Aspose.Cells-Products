@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in XML Converti API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato PNG in un file in formato XML.
 url: /it/nodejs/conversion/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar SXC como SVG API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato SXC como archivo de formato SVG.
 url: /es/go/saveas/sxc-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come XLTX API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XLSM come file in formato XLTX.
 url: /it/ruby/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/ruby/saveas/xlsm-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSM come XLTX in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLSM come XLTX è un compito complesso. Tutte le transizioni di formato da XLSM a XLTX vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLSM di origine. La nostra libreria Ruby è una soluzione professionale per salvare XLSM come file XLTX online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un perfetto output XLTX.
+Salvare i formati di file da XLSM come XLTX è un compito complesso. Tutte le transizioni di formato da XLSM a XLTX vengono eseguite dal nostro SDK Ruby mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSM di origine. La nostra libreria Ruby è una soluzione professionale per salvare XLSM come file XLTX online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un perfetto output XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per salvare XLSM come formato XLTX" gistPath="" %}}

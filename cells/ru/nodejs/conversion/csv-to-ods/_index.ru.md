@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в ODS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата CSV в файл формата ODS.
 url: /ru/nodejs/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/csv-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в ODS в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в ODS — сложная задача. Все переходы формата CSV в формат ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов CSV в ODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из CSV в ODS — сложная задача. Все переходы между форматами CSV и ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов CSV в ODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования CSV в формат ODS" gistPath="" %}}

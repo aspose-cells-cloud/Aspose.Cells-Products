@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar JSON como CSV API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar JSON como CSV API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato JSON como archivo de formato CSV.
 url: /es/android/saveas/json-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

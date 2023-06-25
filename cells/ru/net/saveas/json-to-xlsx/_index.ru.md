@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как XLSX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата JSON в виде файла формата XLSX.
 url: /ru/net/saveas/json-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/json-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как XLSX в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде XLSX — сложная задача. Все переходы между форматами JSON и XLSX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для сохранения JSON в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XLSX.
+Сохранение форматов файлов из JSON в виде XLSX — сложная задача. Все переходы формата JSON в формат XLSX выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для сохранения JSON в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения JSON в формате XLSX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON إلى CSV - تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JSON إلى CSV - تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق JSON إلى ملف بتنسيق CSV.
 url: /ar/nodejs/conversion/json-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/json-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف JSON إلى CSV في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JSON إلى CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى CSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل JSON إلى ملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج CSV مثالي.
+يعد تحويل تنسيقات الملفات من JSON إلى CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى CSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل JSON إلى ملفات CSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج CSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل JSON إلى تنسيق CSV" gistPath="" %}}

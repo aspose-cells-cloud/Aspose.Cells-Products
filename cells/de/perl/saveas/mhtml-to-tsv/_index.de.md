@@ -1,19 +1,19 @@
 ﻿---
 title:  Speichern Sie MHTML als TSV API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die MHTML-Formatdatei als TSV-Formatdatei zu speichern.
 url: /de/perl/saveas/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um MHTML als TSV zu speichern" h2="Perl-Bibliothek zum Speichern von MHTML als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um MHTML als TSV und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/mhtml-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um MHTML als TSV zu speichern" h2="Perl-Bibliothek zum Speichern von MHTML als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um MHTML als TSV und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/mhtml-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als TSV in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als TSV unter Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus MHTML als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu TSV werden von unserem Perl SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der MHTML-Quelltabelle beibehalten werden. Unsere Perl-Bibliothek ist eine professionelle Lösung, um MHTML als TSV-Dateien online zu speichern. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten aus MHTML als TSV ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum TSV-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um MHTML als TSV-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von MHTML im TSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von MHTML als TSV-Format" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -30,9 +30,9 @@ Das Speichern von Dateiformaten aus MHTML als TSV ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um MHTML als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

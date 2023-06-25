@@ -1,6 +1,6 @@
 ﻿---
-title: TXT till XPS Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  TXT till XPS Konvertera API till PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i TXT-format till fil i XPS-format.
 url: /sv/php/conversion/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

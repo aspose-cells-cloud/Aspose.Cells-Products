@@ -1,16 +1,16 @@
 ﻿---
 title:  PNG в TSV Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата PNG в файл формата TSV.
 url: /ru/net/conversion/png-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования PNG в TSV" h2="Библиотека C# для преобразования PNG в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования PNG в TSV и другие форматы документов онлайн с помощью C#." urlsection="conversion/png-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования PNG в TSV" h2="C# библиотека для преобразования PNG в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования PNG в TSV и другие форматы документов онлайн с помощью C#." urlsection="conversion/png-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в TSV в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в TSV — сложная задача. Все переходы формата PNG в формат TSV выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы TSV. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из PNG в TSV — сложная задача. Все переходы формата PNG в формат TSV выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы TSV. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования PNG в формат TSV" gistPath="" %}}

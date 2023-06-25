@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar gráficos en Microsoft Excel y Op
 url: /es/perl/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" h2="Perl Gráficos de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Perl. Esta solución profesional borra gráficos en Microsoft Excel locales y hojas de cálculo de OpenOffice Calc usando Perl." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" h2="Perl Gráficos de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Perl. Esta solución profesional borra gráficos en Microsoft Excel locales y hojas de cálculo de OpenOffice Calc usando Perl." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Perl REST API" >}}

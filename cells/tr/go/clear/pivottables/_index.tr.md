@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-tab
 url: /tr/go/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için Sil\'e gidin" p="Yerel Microsoft Excel\'deki pivot tabloları ve Go\'daki OpenOffice Calc elektronik tablo iş akışlarını temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizler." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için Sil\'e gidin" p="Yerel Microsoft Excel\'deki pivot tabloları ve Go\'daki OpenOffice Calc elektronik tablo iş akışlarını temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizler." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda pivot tabloları temizleyin - Go REST API" >}}

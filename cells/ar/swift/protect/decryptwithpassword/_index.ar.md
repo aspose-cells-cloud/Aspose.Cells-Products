@@ -1,5 +1,5 @@
 ﻿---
-title:  فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
+title: فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
 description:  Cloud APIs & SDKs لـ Microsoft Excel وإلغاء قفل OpenOffice Calc. فك تشفير جداول البيانات بواسطة Cells Cloud API. تدعم SDK أنواعًا من لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/protect/decrypt-with-password/
 ---

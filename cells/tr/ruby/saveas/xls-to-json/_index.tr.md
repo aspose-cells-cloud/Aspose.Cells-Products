@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLS'yi JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLS biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

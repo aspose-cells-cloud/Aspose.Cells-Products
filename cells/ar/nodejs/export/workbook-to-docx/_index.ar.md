@@ -1,6 +1,6 @@
 ﻿---
-title: قم بتصدير كتاب العمل إلى DOCX من جدول البيانات باستخدام NodeJS API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  قم بتصدير كتاب العمل إلى DOCX من جدول البيانات باستخدام NodeJS API
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/nodejs/export/workbook-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/export/workbook-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق DOCX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف DOCX من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق DOCX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق DOCX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DOCX مثالي.
+يعد تصدير كائن كتاب العمل إلى ملف DOCX من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق DOCX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات كتاب العمل إلى ملفات بتنسيق DOCX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتصدير كتاب العمل إلى تنسيق DOCX من جدول البيانات" gistPath="" %}}

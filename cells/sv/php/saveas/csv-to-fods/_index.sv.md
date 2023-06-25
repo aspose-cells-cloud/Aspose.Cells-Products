@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som FODS API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara CSV-formatfil som FODS-formatfil.
 url: /sv/php/saveas/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Bulutta yerel çalışma kitabı için filigran ekleyin
-description:  Microsoft Excel ve OpenOffice Calc için filigran eklemek için Bulut API'leri ve SDK'lar. Cells Cloud API tarafından yerel e-tablolar için filigran ekleme. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Bulutta yerel çalışma kitabı için filigran ekleyin
+description: Microsoft Excel ve OpenOffice Calc için filigran eklemek için Bulut API'leri ve SDK'lar. Cells Cloud API tarafından yerel e-tablolar için filigran ekleme. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

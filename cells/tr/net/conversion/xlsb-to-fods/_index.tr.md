@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB'den FODS'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSB'den FODS'ye Dönüştürme API için C#
+description: XLSB formatındaki dosyayı FODS formatındaki dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xlsb-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

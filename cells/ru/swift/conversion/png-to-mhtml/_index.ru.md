@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в MHTML Конвертировать API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/png-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в MHTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в MHTML — сложная задача. Все переходы формата PNG в формат MHTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов PNG в файлы MHTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из PNG в MHTML — сложная задача. Все переходы формата PNG в формат MHTML выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов PNG в файлы MHTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования PNG в формат MHTML" gistPath="" %}}

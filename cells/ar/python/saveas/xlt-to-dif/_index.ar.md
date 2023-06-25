@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ DIF API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLT كملف بتنسيق DIF.
 url: /ar/python/saveas/xlt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

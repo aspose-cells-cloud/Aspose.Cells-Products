@@ -1,13 +1,13 @@
 ﻿---
 title:  Convertir XLSB en XLS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLSB en fichier au format XLS.
 url: /fr/go/conversion/xlsb-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir XLSB en XLS" h2="Accédez à la bibliothèque pour convertir XLSB en XLS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XLS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xlsb-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XLS dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XLS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers XLSB en XLS est une tâche complexe. Toutes les transitions de format XLSB vers XLS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XLSB en XLS. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLS parfaite.

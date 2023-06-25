@@ -1,10 +1,10 @@
 ﻿---
 title:  Конвертировать NUMBERS в WMF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата NUMBERS в файл формата WMF.
 url: /ru/go/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать NUMBERS в WMF." h2="Библиотека Go для конвертации NUMBERS в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации NUMBERS в WMF и другие форматы документов с помощью Go." urlsection="conversion/numbers-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать NUMBERS в WMF." h2="Библиотека Go для преобразования NUMBERS в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации NUMBERS в WMF и другие форматы документов с помощью Go." urlsection="conversion/numbers-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в WMF в Go" >}}

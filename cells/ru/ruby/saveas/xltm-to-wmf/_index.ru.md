@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTM как WMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTM в виде файла формата WMF.
 url: /ru/ruby/saveas/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/xltm-to-wmf/
 Сохранение форматов файлов из XLTM в виде WMF — сложная задача. Все переходы формата XLTM в формат WMF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для сохранения XLTM в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTM в формате WMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLTM в формате WMF" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

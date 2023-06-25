@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG a XPS Convertir API por C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JPG a XPS Convertir API por C#
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato JPG a un archivo de formato XPS.
 url: /es/net/conversion/jpg-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

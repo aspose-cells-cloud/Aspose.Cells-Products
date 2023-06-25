@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM إلى TIFF تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTM إلى TIFF تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLTM إلى ملف بتنسيق TIFF.
 url: /ar/python/conversion/xltm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

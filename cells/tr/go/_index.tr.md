@@ -160,7 +160,7 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Çalışma sayfasından belirli veya tüm OleObject'leri silin
+ Çalışma sayfasından belirli veya tüm OleObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ Excel Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,7 +231,7 @@ Excel Elektronik Tablo İşleme Özellikleri
  Excel Elektronik Tablo İşleme SDK'sını Kullanmaya Başlayın
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Go'yu kullanmaya başlamak için herhangi bir şey yüklemeniz gerekmez. Tek yapmanız gereken bir hesap oluşturmak
+Aspose.Cells Cloud SDK for Go'yu kullanmaya başlamak için herhangi bir şey yüklemeniz gerekmez. Tek yapmanız gereken bir hesap oluşturmak
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
@@ -240,10 +240,10 @@ Excel Elektronik Tablo İşleme Özellikleri
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Bir Şablondan Excel Çalışma Kitabı Oluşturun
+ Bir Şablondan Excel Çalışma Kitabı Oluşturun
     </h2>
     <p>
- Aspose.Cells Cloud Go SDK, Go dilini kullanarak bir şablon dosyasından programlı olarak Excel çalışma kitabı oluşturmaya yönelik işlevsellik içerir. Çalışma kitabı oluşturulduktan sonra çalışma kitabını kendi ihtiyaçlarınıza göre kolayca değiştirebilirsiniz. Çalışma kitabına yeni bir sayfa ekleyebilir, bir ad atayabilir, istediğiniz yazı tiplerini ayarlayabilir, hücrelere stiller uygulayabilir, bir sayfayı silebilir ve çok daha fazlasını yapabilirsiniz. Yalnızca birkaç satır kod içeren bir SmartMarker şablon dosyasından da bir çalışma kitabı oluşturabilirsiniz.
+Aspose.Cells Cloud Go SDK, Go dilini kullanarak bir şablon dosyasından programlı olarak Excel çalışma kitabı oluşturmaya yönelik işlevsellik içerir. Çalışma kitabı oluşturulduktan sonra çalışma kitabını kendi ihtiyaçlarınıza göre kolayca değiştirebilirsiniz. Çalışma kitabına yeni bir sayfa ekleyebilir, bir ad atayabilir, istediğiniz yazı tiplerini ayarlayabilir, hücrelere stiller uygulayabilir, bir sayfayı silebilir ve çok daha fazlasını yapabilirsiniz. Yalnızca birkaç satır kod içeren bir SmartMarker şablon dosyasından da bir çalışma kitabı oluşturabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">

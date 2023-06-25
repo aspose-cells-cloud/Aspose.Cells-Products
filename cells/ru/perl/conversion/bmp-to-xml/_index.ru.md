@@ -1,10 +1,10 @@
 ﻿---
 title:  BMP в XML Преобразовать API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата BMP в файл формата XML.
 url: /ru/perl/conversion/bmp-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования BMP в XML" h2="Perl библиотека для преобразования BMP в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования BMP в XML и другие форматы документов онлайн с использованием Perl." urlsection="conversion/bmp-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования BMP в XML" h2="библиотека Perl для преобразования BMP в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования BMP в XML и другие форматы документов онлайн с использованием Perl." urlsection="conversion/bmp-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в XML в Perl" >}}

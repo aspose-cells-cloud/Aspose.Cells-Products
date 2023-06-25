@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'u Go için TSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını TSV biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/json-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/go/saveas/json-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Go\'da TSV olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-JSON'dan dosya biçimlerini TSV olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan TSV formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, JSON'u çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+JSON'dan dosya biçimlerini TSV olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan TSV formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, JSON'u çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u TSV formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSM till JSON Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLSM till JSON Konvertera API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i XLSM-format till fil i JSON-format.
 url: /sv/python/conversion/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

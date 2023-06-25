@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLT som WMF API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLT som WMF API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLT-formatfil som WMF-formatfil.
 url: /sv/python/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

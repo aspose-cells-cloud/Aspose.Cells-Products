@@ -1,6 +1,6 @@
 ﻿---
 title:  Python API kullanarak CHART'ı e-tablodan EMF'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/python/export/chart-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/python/export/chart-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini Python\'deki EMF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-CHART nesnesini elektronik tablodan EMF dosyasına dışa aktarma karmaşık bir görevdir. CHART'ı EMF biçimine dışa aktarma geçişleri, Python SDK'mız tarafından gerçekleştirilir ve kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, CHART nesnelerini çevrimiçi olarak EMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
+CHART nesnesini elektronik tablodan EMF dosyasına dışa aktarma karmaşık bir iştir. CHART'ı EMF biçimine dışa aktarma geçişleri, Python SDK'mız tarafından gerçekleştirilir ve kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, CHART nesnelerini çevrimiçi olarak EMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı e-tablodan EMF biçimine dışa aktarmak için REST API kullanan Python\'deki kod örneği" gistPath="" %}}

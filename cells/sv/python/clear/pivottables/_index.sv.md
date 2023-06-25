@@ -4,7 +4,7 @@ description: Cloud API och SDK för att rensa pivottabeller på Microsoft Excel 
 url: /sv/python/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python Rensa för att rensa pivottabeller på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Clear REST API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Den här professionella lösningen rensa pivottabeller på lokala Microsoft och OpenOffice Calc kalkylblad 8 och OpenOffice Calc. 173481." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python Rensa för att rensa pivottabeller på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Clear REST API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Den här professionella lösningen rensa pivottabeller på lokala Microsoft och OpenOffice Calc kalkylblad 8 och OpenOffice Calc. 173481." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Python REST API" >}}

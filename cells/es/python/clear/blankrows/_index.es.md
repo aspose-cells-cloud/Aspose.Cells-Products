@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/python/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas en blanco en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Python. Esta solución profesional borra filas en blanco en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Python." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar filas en blanco en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Python. Esta solución profesional borra filas en blanco en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Python." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Python REST API" >}}

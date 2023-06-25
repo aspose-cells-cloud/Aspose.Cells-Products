@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как SQL API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата GIF в виде файла формата SQL.
 url: /ru/android/saveas/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

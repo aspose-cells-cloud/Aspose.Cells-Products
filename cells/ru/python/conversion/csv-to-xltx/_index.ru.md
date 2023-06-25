@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в XLTX API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата CSV в файл формата XLTX.
 url: /ru/python/conversion/csv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/csv-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLTX по номеру Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в XLTX — сложная задача. Все переходы между форматами CSV и XLTX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов CSV в XLTX. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XLTX.
+Преобразование форматов файлов из CSV в XLTX — сложная задача. Все переходы между форматами CSV и XLTX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов CSV в XLTX. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования CSV в формат XLTX" gistPath="" %}}

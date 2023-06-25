@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till DIF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera EMF filformat till DIF format fil.
 url: /sv/java/conversion/emf-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: PHP için XLSM'den FODS'ye Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  PHP için XLSM'den FODS'ye Dönüştür API
+description: XLSM formatındaki dosyayı FODS formatındaki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

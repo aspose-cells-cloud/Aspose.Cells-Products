@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için TXT'yi XPS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TXT\'yi XPS olarak kaydetmek için Swift API" h2="TXT\'yi XPS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TXT\'yi XPS olarak ve diğer belge biçimlerini çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/txt-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TXT\'yi XPS olarak kaydetmek için Swift API" h2="TXT\'yi XPS olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TXT\'yi XPS olarak ve diğer belge biçimlerini çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/txt-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını Swift\'de XPS olarak kaydedin" >}}

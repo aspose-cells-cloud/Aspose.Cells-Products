@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLTM'den HTML'e API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTM biçim dosyasını HTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/xltm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

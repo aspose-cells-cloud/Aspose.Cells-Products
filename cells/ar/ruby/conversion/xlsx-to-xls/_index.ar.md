@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى XLS - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSX إلى ملف بتنسيق XLS.
 url: /ar/ruby/conversion/xlsx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/conversion/xlsx-to-xls/
 يعد تحويل تنسيقات الملفات من XLSX إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XLS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLSX إلى XLS عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال كود في Ruby باستخدام REST API لتحويل XLSX إلى تنسيق XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل XLSX إلى تنسيق XLS" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. üzerindeki resimleri temizleme
 url: /tr/perl/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Perl API" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri Perl kullanarak temizler." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Perl API" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri Perl kullanarak temizler." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunda net resimler - Perl REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование SXC в SQL API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование SXC в SQL API для C#
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата SXC в файл формата SQL.
 url: /ru/net/conversion/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в SQL в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов SXC в SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из SXC в SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов SXC в SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования SXC в формат SQL" gistPath="" %}}

@@ -1,13 +1,13 @@
 ﻿---
-title: Преобразование TXT в FODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование TXT в FODS API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата TXT в файл формата FODS.
 url: /ru/perl/conversion/txt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TXT в FODS" h2="Perl библиотека для преобразования TXT в FODS" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации TXT в FODS и другие форматы документов с использованием Perl." urlsection="conversion/txt-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл TXT в FODS по номеру Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл TXT в FODS по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из TXT в FODS — сложная задача. Все переходы между форматами TXT и FODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TXT в FODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный результат FODS.

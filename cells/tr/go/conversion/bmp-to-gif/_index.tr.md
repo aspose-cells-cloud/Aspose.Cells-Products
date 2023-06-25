@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'den GIF'e Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go'yu kullanarak BMP biçimindeki dosyayı GIF biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

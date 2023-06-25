@@ -42,7 +42,7 @@ url: /fr/ruby
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -145,7 +145,7 @@ Excel Fonctionnalités de traitement des feuilles de calcul
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">
@@ -234,7 +234,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
-et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK for Ruby sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Ruby vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+ et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK for Ruby sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Ruby vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,7 +242,7 @@ et obtenez les informations de votre candidature. Une fois que vous avez l'App S
  Traitement des classeurs via SDK Cloud
     </h2>
     <p>
- Aspose.Cells Le SDK Cloud pour Ruby vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protection par mot de passe, exportation vers un format de fichier pris en charge, lecture des éléments de texte du classeur, ajustement automatique des lignes du classeur tout en ignorant les éléments masqués, cryptage du mot de passe du classeur et fourniture de la clé de cryptage longueur, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
+Aspose.Cells Le SDK Cloud pour Ruby vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protection par mot de passe, exportation vers un format de fichier pris en charge, lecture des éléments de texte du classeur, ajustement automatique des lignes du classeur tout en ignorant les éléments masqués, cryptage du mot de passe du classeur et fourniture de la clé de cryptage longueur, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
     </p>
    </div>
    <div class="col-lg-12">

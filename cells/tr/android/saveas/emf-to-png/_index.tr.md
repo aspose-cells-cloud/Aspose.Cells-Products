@@ -1,6 +1,6 @@
 ﻿---
-title:  Android için EMF'i PNG API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Android için EMF'i PNG API olarak kaydet
+description:  EMF biçim dosyasını PNG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

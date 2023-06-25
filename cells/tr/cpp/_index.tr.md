@@ -1,5 +1,5 @@
 ﻿---
-title:  Excel Dosyaları via REST API'leri Oluşturmak, Düzenlemek ve Dönüştürmek için CPP Cloud SDK
+title: Excel Dosyaları via REST API'leri Oluşturmak, Düzenlemek ve Dönüştürmek için CPP Cloud SDK
 description:  İşleme için bulut depolama alanından Microsoft Excel ve OpenOffice dosyalarına erişen Elektronik Tablo oluşturucu ve dönüştürücü uygulamaları oluşturmak için cURL komutlarını kullanın
 weight: 50
 url: /tr/cpp

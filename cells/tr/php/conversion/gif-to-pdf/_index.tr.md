@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF'i PDF'e dönüştür PHP için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: GIF'i PDF'e dönüştür PHP için API'e dönüştür
+description:  GIF formatındaki dosyayı PDF formatındaki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

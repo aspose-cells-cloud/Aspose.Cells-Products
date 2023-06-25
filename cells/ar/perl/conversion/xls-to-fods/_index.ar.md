@@ -1,6 +1,6 @@
 ﻿---
-title: XLS إلى FODS قم بالتحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLS إلى FODS قم بالتحويل API إلى Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLS إلى ملف بتنسيق FODS.
 url: /ar/perl/conversion/xls-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB in ODS Converti API in C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato XLSB in un file in formato ODS.
 url: /it/net/conversion/xlsb-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

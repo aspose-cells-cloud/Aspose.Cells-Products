@@ -1,16 +1,16 @@
 ﻿---
-title: TSV в PNG Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  TSV в PNG Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата TSV в файл формата PNG.
 url: /ru/perl/conversion/tsv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TSV в PNG" h2="Библиотека Perl для преобразования TSV в PNG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования TSV в PNG и другие форматы документов онлайн с использованием Perl." urlsection="conversion/tsv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TSV в PNG" h2="библиотека Perl для преобразования TSV в PNG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования TSV в PNG и другие форматы документов онлайн с использованием Perl." urlsection="conversion/tsv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в PNG в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в PNG — сложная задача. Все переходы между форматами TSV и PNG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в файлы PNG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из TSV в PNG — сложная задача. Все переходы между форматами TSV и PNG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в файлы PNG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования TSV в формат PNG" gistPath="" %}}

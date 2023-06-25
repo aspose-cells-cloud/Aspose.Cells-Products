@@ -1,10 +1,10 @@
 ﻿---
-title:  Rensa dubbletter av rader i den lokala arbetsboken i Cloud
-description: "Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc. Rensa dubbletter av rader på lokala kalkylblad med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+title: Rensa dubbletter av rader i den lokala arbetsboken med Go in Cloud
+description: " Cloud API:er och SDK:er för att rensa dubbletter av rader på Microsoft Excel & OpenOffice Calc med Go. Rensa dubbletter av rader i lokala kalkylark med Cells Cloud API SDK för Go"
 url: /sv/go/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa dubblettrader på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa dubblettrader i lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Go. Denna professionella lösning rensar dubbletter av rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa dubblettrader på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå till Rensa för att rensa dubblettrader på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa dubblettrader i lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Go. Denna professionella lösning rensar dubbletter av rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa dubbletter av rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Gå REST API" >}}

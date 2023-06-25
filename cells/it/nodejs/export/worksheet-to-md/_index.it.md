@@ -1,6 +1,6 @@
 ﻿---
 title:  Esporta FOGLIO DI LAVORO in MD dal foglio di calcolo utilizzando NodeJS API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/nodejs/export/worksheet-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/nodejs/export/worksheet-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET in un file in formato MD in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET in un file MD dal foglio di calcolo è un'attività complessa. Le transizioni di esportazione del FOGLIO DI LAVORO nel formato MD vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di lavoro del FOGLIO DI LAVORO di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKSHEET in file in formato MD online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output MD perfetto.
+Esportare l'oggetto WORKSHEET in un file MD dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da FOGLIO DI LAVORO a formato MD viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKSHEET in file in formato MD online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output MD perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per esportare WORKSHEET in formato MD dal foglio di calcolo" gistPath="" %}}

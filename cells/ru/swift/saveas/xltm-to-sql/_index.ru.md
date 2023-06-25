@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLTM как SQL API для Swift.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XLTM как SQL" h2="Библиотека Swift для сохранения XLTM как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTM в виде SQL и других форматов документов в Интернете с использованием Swift." urlsection="saveas/xltm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XLTM как SQL" h2="Библиотека Swift для сохранения XLTM как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLTM как SQL и других форматов документов онлайн с помощью Swift." urlsection="saveas/xltm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SQL в Swift" >}}

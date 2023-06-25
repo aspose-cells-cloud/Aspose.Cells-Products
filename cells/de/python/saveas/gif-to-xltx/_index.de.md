@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie GIF als XLTX API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  GIF als XLTX API für Python speichern
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im GIF-Format als Datei im XLTX-Format zu speichern.
 url: /de/python/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API um GIF als XLTX zu speichern" h2="Python Bibliothek zum Speichern von GIF als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um GIF als XLTX und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/gif-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um GIF als XLTX zu speichern" h2="Python-Bibliothek zum Speichern von GIF als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um GIF als XLTX und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/gif-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als XLTX in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als XLTX unter Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von GIF als XLTX ist eine komplexe Aufgabe. Alle GIF-zu-XLTX-Formatübergänge werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der GIF-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um GIF als XLTX-Dateien online zu speichern. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und perfekte XLTX-Ausgabe.
+Das Speichern von Dateiformaten von GIF als XLTX ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLTX-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um GIF als XLTX-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von GIF im XLTX-Format" gistPath="" %}}
@@ -31,9 +31,9 @@ Das Speichern von Dateiformaten von GIF als XLTX ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um GIF als XLTX zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

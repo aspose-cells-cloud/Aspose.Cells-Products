@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование CSV в PPTX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата CSV в файл формата PPTX.
 url: /ru/java/conversion/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования CSV в PPTX" h2="Java библиотека для преобразования CSV в PPTX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации CSV в PPTX и другие форматы документов с использованием Java." urlsection="conversion/csv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в PPTX по номеру Java." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в PPTX в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из CSV в PPTX — сложная задача. Все переходы между форматами CSV и PPTX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов CSV в PPTX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод PPTX.

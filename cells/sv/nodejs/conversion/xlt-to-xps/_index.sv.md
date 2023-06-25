@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT till XPS Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XLT-formatfil till XPS-fil.
 url: /sv/nodejs/conversion/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

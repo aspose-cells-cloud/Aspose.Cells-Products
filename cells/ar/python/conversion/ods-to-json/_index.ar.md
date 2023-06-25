@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS إلى JSON - تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: ODS إلى JSON - تحويل API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق ODS إلى ملف بتنسيق JSON.
 url: /ar/python/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

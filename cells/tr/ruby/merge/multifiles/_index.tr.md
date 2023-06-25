@@ -1,10 +1,10 @@
 ﻿---
-title:  Birden çok Excel dosyasını bir dosyada birleştirin.
-description:  Birden çok Excel dosyasını birleştirmek için Bulut API'leri ve SDK'lar. Birden fazla Excel dosyasını Cells Cloud API ile bir dosyada birleştirin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Birden fazla Excel dosyasını Ruby ile bir dosyada birleştirin.
+description:  Birden çok Excel dosyasını Ruby ile birleştirmek için Bulut API'leri ve SDK'lar
 url: /tr/ruby/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden çok Excel dosyasını bir dosyada birleştirmek için Ruby API." h2="Birden çok Excel dosyasını bir dosyada birleştirmek için Ruby kitaplığı." p="Birden fazla Excel dosyasını Ruby\'de bir dosyada birleştirmek için Cells Merge REST API\'i kullanın. Bu profesyonel çözüm, birden çok Excel dosyasını Ruby kullanarak bir Microsoft Excel veya OpenOffice Calc elektronik tablosunda birleştirir." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Birden çok Excel dosyasını bir dosyada birleştirmek için Ruby API." h2="Birden çok Excel dosyasını bir dosyada birleştirmek için Ruby kitaplığı." p="Birden fazla Excel dosyasını Ruby\'de bir dosyada birleştirmek için Cells Merge REST API\'i kullanın. Bu profesyonel çözüm, birden çok Excel dosyasını Ruby kullanarak bir Microsoft Excel veya OpenOffice Calc elektronik tablosunda birleştirir." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Birden fazla Excel dosyasını bir dosyada birleştirin - Ruby REST API" >}}

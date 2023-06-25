@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните NUMBERS как DIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата NUMBERS в виде файла формата DIF.
 url: /ru/ruby/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/numbers-to-dif/
 Сохранение форматов файлов из NUMBERS в виде DIF — сложная задача. Все переходы формата NUMBERS в формат DIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для сохранения NUMBERS в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения NUMBERS в формате DIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения NUMBERS в формате DIF" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

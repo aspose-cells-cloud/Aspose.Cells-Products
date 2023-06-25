@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XML как XLTM API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как XLTM API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XML как файла формата XLTM.
 url: /ru/perl/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

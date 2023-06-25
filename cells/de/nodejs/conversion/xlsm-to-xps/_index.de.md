@@ -1,16 +1,16 @@
 ﻿---
 title:  XLSM in XPS Konvertieren Sie API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLSM-Formatdatei in eine Datei im XPS-Format.
 url: /de/nodejs/conversion/xlsm-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von XLSM in XPS" h2="NodeJS-Bibliothek zum Konvertieren von XLSM in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLSM online mit NodeJS in XPS und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsm-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von XLSM in XPS" h2="NodeJS-Bibliothek zum Konvertieren von XLSM in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in XPS und andere Dokumentformate mit NodeJS." urlsection="conversion/xlsm-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in NodeJS in XPS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in XPS ist eine komplexe Aufgabe. Alle Formatübergänge von XLSM zu XPS werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLSM-Dateien online in XPS-Dateien zu konvertieren. Dieses Cloud-SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in XPS ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das XPS-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM in XPS-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von XLSM in das XPS-Format" gistPath="" %}}
@@ -36,9 +36,9 @@ Das Konvertieren von Dateiformaten von XLSM in XPS ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLSM in XPS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

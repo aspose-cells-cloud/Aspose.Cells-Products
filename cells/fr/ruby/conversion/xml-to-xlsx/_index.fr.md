@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en XLSX API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Ruby pour convertir le fichier au format XML en fichier au format XLSX.
 url: /fr/ruby/conversion/xml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

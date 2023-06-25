@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TSV en XLTX API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format TSV en fichier au format XLTX.
 url: /fr/go/conversion/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som TIFF API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara EMF filformat som TIFF filformat.
 url: /sv/php/saveas/emf-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

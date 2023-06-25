@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie das ARBEITSBLATT nach TIFF aus der Tabelle mit C# API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach TIFF mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/worksheet-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren des ARBEITSBLATTS in die Datei TIFF" h2="C#-Bibliothek zum Exportieren von WORKSHEET in die TIFF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTERN in eine Datei im TIFF-Format aus einer Online-Tabelle unter Verwendung von C#." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um ARBEITSBLATT in die Datei TIFF zu exportieren" h2="C#-Bibliothek zum Exportieren von ARBEITSBLATT in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine Datei im Format TIFF aus einer Online-Tabelle mit C#." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die Formatdatei TIFF in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKSHEET-Objekts in die Datei TIFF aus der Tabelle ist eine komplexe Aufgabe. Der Export von WORKSHEET in TIFF-Formatübergänge wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im TIFF-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das TIFF-Format werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im TIFF-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das TIFF-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das TIFF-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,9 +44,9 @@ Das Exportieren des WORKSHEET-Objekts in die Datei TIFF aus der Tabelle ist eine
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um WORKSHEET nach TIFF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ARBEITSBLATT nach TIFF zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

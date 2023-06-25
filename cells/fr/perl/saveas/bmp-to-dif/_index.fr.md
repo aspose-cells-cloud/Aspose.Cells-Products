@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez BMP comme DIF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format BMP en tant que fichier au format DIF.
 url: /fr/perl/saveas/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/perl/saveas/bmp-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP au format DIF dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de BMP au format DIF est une tâche complexe. Toutes les transitions du format BMP vers le format DIF sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl est une solution professionnelle pour enregistrer BMP sous forme de fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie DIF parfaite.
+L'enregistrement des formats de fichiers à partir de BMP au format DIF est une tâche complexe. Toutes les transitions de format BMP vers DIF sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Perl est une solution professionnelle pour enregistrer BMP sous forme de fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie DIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour enregistrer BMP au format DIF" gistPath="" %}}

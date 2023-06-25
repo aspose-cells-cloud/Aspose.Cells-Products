@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till JPG Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera HTML filformat till JPG-format fil.
 url: /sv/nodejs/conversion/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

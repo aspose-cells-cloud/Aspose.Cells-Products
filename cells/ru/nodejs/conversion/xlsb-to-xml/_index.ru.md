@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в XML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLSB в файл формата XML.
 url: /ru/nodejs/conversion/xlsb-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XML в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в XML — сложная задача. Все переходы форматов XLSB в XML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в XML. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
+Преобразование форматов файлов из XLSB в XML — сложная задача. Все переходы форматов XLSB в XML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в XML. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLSB в формат XML" gistPath="" %}}

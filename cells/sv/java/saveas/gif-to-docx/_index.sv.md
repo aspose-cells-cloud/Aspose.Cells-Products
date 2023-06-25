@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara GIF som DOCX API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara GIF-formatfil som DOCX-formatfil.
 url: /sv/java/saveas/gif-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

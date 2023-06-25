@@ -1,6 +1,6 @@
 ﻿---
-title: TXT a PNG Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  TXT a PNG Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato TXT a un archivo de formato PNG.
 url: /es/perl/conversion/txt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG a HTML Convertir API por PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JPG a HTML Convertir API por PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato JPG a un archivo de formato HTML.
 url: /es/php/conversion/jpg-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

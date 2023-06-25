@@ -1,10 +1,10 @@
 ﻿---
-title:  Объедините несколько файлов Excel в файл.
-description:  Облачные API и SDK для объединения нескольких файлов Excel. Объедините несколько файлов Excel в файл с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Объедините несколько файлов Excel в файл с помощью NodeJS.
+description:  Облачные API и SDK для объединения нескольких файлов Excel с NodeJS
 url: /ru/nodejs/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для объединения нескольких файлов Excel в файл." h2="Библиотека NodeJS для объединения нескольких файлов Excel в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в NodeJS. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием NodeJS." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для объединения нескольких файлов Excel в файл." h2="Библиотека NodeJS для объединения нескольких файлов Excel в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в NodeJS. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием NodeJS." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединение нескольких файлов Excel в файл — NodeJS REST API" >}}

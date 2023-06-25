@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en PPTX API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/conversion/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/conversion/xlt-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLT en PPTX dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLT en PPTX est une tâche complexe. Toutes les transitions de format XLT à PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLT en PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
+La conversion des formats de fichiers de XLT en PPTX est une tâche complexe. Toutes les transitions de format XLT vers PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLT en PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLT au format PPTX" gistPath="" %}}

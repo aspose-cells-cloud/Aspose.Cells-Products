@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to GIF Convert API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir le fichier au format NUMBERS en fichier au format GIF.
 url: /fr/android/conversion/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

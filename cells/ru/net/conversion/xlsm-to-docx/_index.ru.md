@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSM в DOCX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLSM в файл формата DOCX.
 url: /ru/net/conversion/xlsm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/xlsm-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в DOCX по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSM в DOCX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLSM в DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSM в DOCX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLSM в формат DOCX" gistPath="" %}}

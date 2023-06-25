@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ JSON API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق GIF كملف بتنسيق JSON.
 url: /ar/python/saveas/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

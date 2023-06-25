@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأشكال على Microsoft Excel & 
 url: /ar/go/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

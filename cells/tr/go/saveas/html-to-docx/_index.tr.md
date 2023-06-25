@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'i Go için DOCX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak HTML biçimindeki dosyayı DOCX biçimindeki dosya olarak kaydedin.
 url: /tr/go/saveas/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

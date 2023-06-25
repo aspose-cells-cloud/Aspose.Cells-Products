@@ -1,10 +1,10 @@
 ﻿---
-title: XLS a BMP Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLS a BMP Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLS a un archivo de formato BMP.
 url: /es/python/conversion/xls-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLS a BMP" h2="Python biblioteca para convertir XLS a BMP" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLS a BMP y otros formatos de documentos en línea usando Python." urlsection="conversion/xls-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir XLS a BMP" h2="Python biblioteca para convertir XLS a BMP" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir XLS a BMP y otros formatos de documentos en línea usando Python." urlsection="conversion/xls-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLS a BMP en Python" >}}

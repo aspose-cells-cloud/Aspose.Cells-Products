@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som DIF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara HTML filformat som DIF-formatfil.
 url: /sv/java/saveas/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

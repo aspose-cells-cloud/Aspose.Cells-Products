@@ -1,6 +1,6 @@
 ﻿---
-title:  SAYILARI BMP'e PHP için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: SAYILARI BMP'e PHP için API'e dönüştür
+description:  NUMBERS biçim dosyasını BMP biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/numbers-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

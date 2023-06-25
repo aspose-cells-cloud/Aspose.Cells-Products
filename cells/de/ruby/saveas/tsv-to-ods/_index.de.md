@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie TSV als ODS API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TSV als ODS API für Ruby speichern
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von TSV-Formatdateien als ODS-Formatdateien.
 url: /de/ruby/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um TSV als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von TSV als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um TSV als ODS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/tsv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um TSV als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von TSV als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TSV als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/tsv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als ODS in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als ODS ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu ODS werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der TSV-Quelltabelle beibehalten werden. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um TSV online als ODS-Dateien zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte ODS-Ausgabe.
+Das Speichern von Dateiformaten von TSV als ODS ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum ODS-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um TSV als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von TSV im ODS-Format" gistPath="" %}}
@@ -34,14 +34,14 @@ Das Speichern von Dateiformaten von TSV als ODS ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um TSV als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как DIF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата GIF как файла формата DIF.
 url: /ru/java/saveas/gif-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

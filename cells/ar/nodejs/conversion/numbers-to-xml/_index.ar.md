@@ -1,6 +1,6 @@
 ﻿---
-title:  تحويل الأرقام إلى XML API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: تحويل الأرقام إلى XML API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق XML.
 url: /ar/nodejs/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

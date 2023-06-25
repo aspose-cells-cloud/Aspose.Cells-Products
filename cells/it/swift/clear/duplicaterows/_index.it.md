@@ -1,6 +1,6 @@
 ﻿---
 title:  Cancella le righe duplicate nella cartella di lavoro locale in Cloud
-description: API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc. Cancella le righe duplicate sui fogli di calcolo locali tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc. Cancella le righe duplicate sui fogli di calcolo locali tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

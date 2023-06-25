@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar XML como ODS API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar XML como ODS API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato XML como archivo de formato ODS.
 url: /es/python/saveas/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование MHTML в CSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата MHTML в файл формата CSV.
 url: /ru/nodejs/conversion/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования MHTML в CSV" h2="Библиотека NodeJS для преобразования MHTML в CSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации MHTML в CSV и другие форматы документов с использованием NodeJS." urlsection="conversion/mhtml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования MHTML в CSV" h2="Библиотека NodeJS для преобразования MHTML в CSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации MHTML в CSV и другие форматы документов с помощью NodeJS." urlsection="conversion/mhtml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в CSV в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в CSV — сложная задача. Все переходы между форматами MHTML и CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов MHTML в CSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
+Преобразование форматов файлов из MHTML в CSV — сложная задача. Все переходы форматов MHTML в CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов MHTML в CSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования MHTML в формат CSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в SQL API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата XML в файл формата SQL.
 url: /ru/go/conversion/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/xml-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в SQL в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в SQL — сложная задача. Все переходы форматов XML в SQL выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в SQL. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XML в SQL — сложная задача. Все переходы между форматами XML и SQL выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в SQL. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XML в формат SQL" gistPath="" %}}

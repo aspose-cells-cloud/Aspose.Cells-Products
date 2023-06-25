@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB a SXC Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLSB a un archivo de formato SXC.
 url: /es/ruby/conversion/xlsb-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/conversion/xlsb-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSB a SXC en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLSB a SXC es una tarea compleja. Todas las transiciones de formato XLSB a SXC son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLSB a SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un resultado SXC perfecto.
+Convertir formatos de archivo de XLSB a SXC es una tarea compleja. Todas las transiciones de formato XLSB a SXC se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLSB a SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir XLSB a formato SXC" gistPath="" %}}

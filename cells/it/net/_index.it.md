@@ -1,6 +1,6 @@
 ﻿---
 title:  Lettura, scrittura, visualizzazione e conversione di fogli di calcolo (via C# REST SDK)
-description: SDK per C#, ASP.NET e altre lingue supportate da .NET per sviluppare app basate su cloud per l'elaborazione di fogli di calcolo Excel e OpenOffice
+description:  SDK per C#, ASP.NET e altre lingue supportate da .NET per sviluppare app basate su cloud per l'elaborazione di fogli di calcolo Excel e OpenOffice
 weight: 70
 url: /it/net
 ---
@@ -125,7 +125,7 @@ url: /it/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Aggiungi un ListObject in una posizione specificata nel file Excel
+ Aggiungi un ListObject in una posizione specificata nel file Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ Aggiungi un ListObject in una posizione specificata nel file Excel
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ Aggiungi un ListObject in una posizione specificata nel file Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- e ottenere le informazioni sull'applicazione. Questo è tutto! Sei pronto per utilizzare Aspose.Cells Cloud SDK for .NET.
+ ottenere le informazioni sull'applicazione. Questo è tutto! Sei pronto per utilizzare Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET fornisce tutte le funzionalità per creare, modificare e convertire fogli di calcolo in altri formati di file popolari.
@@ -222,7 +222,7 @@ Aggiungi un ListObject in una posizione specificata nel file Excel
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Carica &amp; Processo Excel Fogli di calcolo via Cloud SDK
+ Carica & amp; Processo Excel Fogli di calcolo via Cloud SDK
     </h2>
     <p>
  Aspose.Cells Cloud SDK for .NET consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportazione nel formato di file supportato, leggere gli elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la lunghezza della chiave di crittografia , importare i dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare l'indicatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.

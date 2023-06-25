@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ BMP كـ DOCX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق BMP كملف بتنسيق DOCX.
 url: /ar/php/saveas/bmp-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ BMP بتنسيق DOCX" h2="مكتبة PHP لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/bmp-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ BMP بتنسيق DOCX" h2="مكتبة PHP لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/bmp-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بتنسيق DOCX في PHP" >}}

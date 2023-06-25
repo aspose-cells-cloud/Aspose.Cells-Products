@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSX كـ XLTX API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSX كملف بتنسيق XLTX.
 url: /ar/go/saveas/xlsx-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

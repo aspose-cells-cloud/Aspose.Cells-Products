@@ -1,6 +1,6 @@
 ﻿---
 title: Spara BMP som JPG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för PHP för att spara BMP filformat som JPG-format.
 url: /sv/php/saveas/bmp-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

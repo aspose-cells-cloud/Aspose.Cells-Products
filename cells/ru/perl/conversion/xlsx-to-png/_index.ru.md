@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX в PNG Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLSX в PNG Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLSX в файл формата PNG.
 url: /ru/perl/conversion/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

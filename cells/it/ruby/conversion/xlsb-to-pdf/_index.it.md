@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB in PDF Converti API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato XLSB nel file in formato PDF.
 url: /it/ruby/conversion/xlsb-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için SXC'den MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçimli dosyayı MD biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

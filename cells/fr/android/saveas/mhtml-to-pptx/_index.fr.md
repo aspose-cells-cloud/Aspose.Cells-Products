@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer MHTML sous PPTX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format MHTML en tant que fichier au format PPTX.
 url: /fr/android/saveas/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer MHTML en tant que PPTX" h2="Bibliothèque Android pour enregistrer MHTML en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format PPTX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/mhtml-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML au format PPTX sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML au format PPTX dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de MHTML en tant que PPTX est une tâche complexe. Toutes les transitions de format MHTML vers PPTX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers MHTML sous forme de fichiers PPTX. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie PPTX parfaite.

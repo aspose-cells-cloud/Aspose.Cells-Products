@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva SXC come TIFF API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato SXC come file in formato TIFF.
 url: /it/android/saveas/sxc-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

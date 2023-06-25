@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить NUMBERS как JSON API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата NUMBERS в виде файла формата JSON.
 url: /ru/php/saveas/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/numbers-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как JSON в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде JSON — сложная задача. Все преобразования формата NUMBERS в формат JSON выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов из NUMBERS в виде JSON — сложная задача. Все переходы NUMBERS в формат JSON выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения NUMBERS в формате JSON" gistPath="" %}}

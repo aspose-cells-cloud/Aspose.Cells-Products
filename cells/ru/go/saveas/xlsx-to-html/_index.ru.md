@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как HTML API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSX как файла формата HTML.
 url: /ru/go/saveas/xlsx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

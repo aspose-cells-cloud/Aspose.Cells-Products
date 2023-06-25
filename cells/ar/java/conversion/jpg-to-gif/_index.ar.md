@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل JPG إلى GIF API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بصيغة JPG إلى ملف بصيغة GIF.
 url: /ar/java/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

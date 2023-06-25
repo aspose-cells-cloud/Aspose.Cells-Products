@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS to XLS Convert API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  الأرقام إلى XLS تحويل API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق XLS.
 url: /ar/android/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

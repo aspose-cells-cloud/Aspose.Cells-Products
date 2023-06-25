@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как JPG API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS в виде файла формата JPG.
 url: /ru/android/saveas/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/ods-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS в формате JPG на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде JPG — сложная задача. Все переходы от ODS к формату JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-сохранения ODS в виде файлов JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
+Сохранение форматов файлов из ODS в виде JPG — сложная задача. Все переходы от формата ODS к формату JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-сохранения ODS в виде файлов JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения ODS в формате JPG" gistPath="" %}}

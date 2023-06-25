@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till MD Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera XLSX-formatfil till MD-formatfil.
 url: /sv/go/conversion/xlsx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

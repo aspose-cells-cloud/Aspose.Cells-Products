@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till XLSB Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i HTML-format till fil i XLSB-format.
 url: /sv/nodejs/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

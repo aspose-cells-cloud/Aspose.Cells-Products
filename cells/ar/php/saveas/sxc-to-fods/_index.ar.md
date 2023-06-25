@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ SXC كـ FODS API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ SXC كـ FODS API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق SXC كملف بتنسيق FODS.
 url: /ar/php/saveas/sxc-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som SVG API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara XLT-formatfil som SVG-formatfil.
 url: /sv/ruby/saveas/xlt-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

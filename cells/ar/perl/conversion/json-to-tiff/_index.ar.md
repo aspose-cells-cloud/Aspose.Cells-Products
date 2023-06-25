@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON إلى TIFF حوّل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JSON إلى TIFF حوّل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق JSON إلى ملف بتنسيق TIFF.
 url: /ar/perl/conversion/json-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

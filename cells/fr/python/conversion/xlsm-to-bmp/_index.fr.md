@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM en BMP Convertir API en Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLSM en BMP Convertir API en Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format XLSM en fichier au format BMP.
 url: /fr/python/conversion/xlsm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

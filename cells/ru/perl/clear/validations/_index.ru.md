@@ -1,10 +1,10 @@
 ﻿---
 title:  Очистить проверки локальной книги в облаке
-description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/perl/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для очистки проверки локальной Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Perl Очистить, чтобы очистить проверки для локальной Microsoft Excel и электронной таблицы OpenOffice Calc" p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение очищает проверки для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с использованием Perl." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для очистки проверки локальной Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Perl Очистить, чтобы очистить проверки для локальной Microsoft Excel и электронной таблицы OpenOffice Calc" p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Perl. Это профессиональное решение очищает проверки для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с использованием Perl." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить валидацию на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Perl REST API" >}}

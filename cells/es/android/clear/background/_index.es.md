@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar el fondo en Microsoft Excel y Open
 url: /es/android/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar el fondo en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar el fondo en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Limpiar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte LISTOBJECT a PNG desde una hoja de cálculo usando Perl API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/perl/export/listobject-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /es/perl/export/listobject-to-png/
 Exportar el objeto LISTOBJECT al archivo PNG desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato PNG se realiza mediante nuestro SDK Perl mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Perl es una solución profesional para exportar objetos LISTOBJECT a archivos de formato PNG en línea. Este SDK de Cloud ofrece a los desarrolladores de Perl una potente funcionalidad y un resultado PNG perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Perl usando REST API para exportar LISTOBJECT al formato PNG desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Perl usando REST API para exportar LISTOBJECT al formato PNG desde una hoja de cálculo" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/

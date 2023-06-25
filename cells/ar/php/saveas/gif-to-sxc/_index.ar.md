@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ GIF كـ SXC API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق GIF كملف بتنسيق SXC.
 url: /ar/php/saveas/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ GIF كـ SXC" h2="مكتبة PHP لحفظ GIF كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ GIF بتنسيق SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/gif-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ GIF كـ SXC" h2="مكتبة PHP لحفظ GIF كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ GIF كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/gif-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF باسم SXC في PHP" >}}

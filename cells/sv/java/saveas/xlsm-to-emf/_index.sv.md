@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSM som EMF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara fil i XLSM-format som fil i EMF-format.
 url: /sv/java/saveas/xlsm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

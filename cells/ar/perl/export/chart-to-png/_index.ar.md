@@ -1,13 +1,13 @@
 ﻿---
 title:  قم بتصدير CHART إلى PNG من جدول البيانات باستخدام Perl API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/perl/export/chart-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتصدير المخطط البياني إلى ملف PNG" h2="مكتبة Perl لتصدير المخطط البياني إلى ملف PNG" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Perl. هذا حل احترافي لتصدير CHART إلى ملف بتنسيق PNG من جدول بيانات عبر الإنترنت باستخدام Perl." urlsection="export/chart-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق PNG بتنسيق Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق PNG في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 يعد تصدير كائن CHART إلى ملف PNG من جدول البيانات مهمة معقدة. تصدير المخطط البياني إلى PNG يتم إجراء انتقالات تنسيق بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات المخطط. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتصدير كائنات المخطط البياني إلى ملفات بتنسيق PNG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج PNG مثالي.

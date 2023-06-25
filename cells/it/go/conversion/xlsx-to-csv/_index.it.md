@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSX a CSV API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLSX in un file in formato CSV.
 url: /it/go/conversion/xlsx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

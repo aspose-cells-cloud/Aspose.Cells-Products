@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать XLSB в TSV API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLSB в файл формата TSV.
 url: /ru/go/conversion/xlsb-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

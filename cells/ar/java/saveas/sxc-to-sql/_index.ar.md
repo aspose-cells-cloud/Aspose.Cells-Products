@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ SQL API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق SXC كملف بتنسيق SQL.
 url: /ar/java/saveas/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/java/saveas/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كملف SQL في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC مثل SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى SQL بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من SXC مثل SQL مهمة معقدة. يتم إجراء جميع انتقالات تنسيق SXC إلى SQL بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لحفظ SXC كتنسيق SQL" gistPath="" %}}

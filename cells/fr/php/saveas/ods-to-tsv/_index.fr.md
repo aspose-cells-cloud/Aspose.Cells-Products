@@ -1,10 +1,10 @@
 ﻿---
-title:  Enregistrer ODS sous TSV API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer ODS sous TSV API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format ODS en tant que fichier au format TSV.
 url: /fr/php/saveas/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer ODS en tant que TSV" h2="PHP bibliothèque pour enregistrer ODS en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format TSV et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/ods-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer ODS en tant que TSV" h2="PHP bibliothèque pour enregistrer ODS en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer ODS en tant que TSV et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/ods-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS en tant que TSV dans PHP" >}}

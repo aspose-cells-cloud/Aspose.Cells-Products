@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XML в TXT API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XML в TXT API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XML в файл формата TXT.
 url: /ru/net/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

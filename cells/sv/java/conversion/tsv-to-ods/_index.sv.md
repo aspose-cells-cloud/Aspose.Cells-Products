@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV till ODS Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera TSV-formatfil till ODS-formatfil.
 url: /sv/java/conversion/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

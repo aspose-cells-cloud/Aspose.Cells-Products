@@ -1,14 +1,14 @@
 ﻿---
-title: Фон
-description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Установить фон с Android
+description: Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/android/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Фон" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Установить фон с Android" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Ссылки фонового расширения" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установить фон со ссылками расширения Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

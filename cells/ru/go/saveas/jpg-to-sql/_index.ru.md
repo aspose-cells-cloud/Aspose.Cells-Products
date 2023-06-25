@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как SQL API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JPG в виде файла формата SQL.
 url: /ru/go/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить JPG как SQL." h2="Библиотека Go для сохранения JPG как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения JPG как SQL и других форматов документов онлайн с помощью Go." urlsection="saveas/jpg-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить JPG как SQL." h2="Библиотека Go для сохранения JPG как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения JPG как SQL и других форматов документов в Интернете с помощью Go." urlsection="saveas/jpg-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как SQL в Go" >}}

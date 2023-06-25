@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование CSV в ODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата CSV в файл формата ODS.
 url: /ru/net/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в ODS" h2="C# библиотека для преобразования CSV в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации CSV в ODS и другие форматы документов по телефону C#." urlsection="conversion/csv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование CSV-файла в ODS по номеру C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл CSV в ODS по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в ODS — сложная задача. Все переходы между форматами CSV и ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов CSV в ODS. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из CSV в ODS — сложная задача. Все переходы между форматами CSV и ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов CSV в ODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования CSV в формат ODS" gistPath="" %}}

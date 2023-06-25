@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XML como GIF API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato XML como archivo de formato GIF.
 url: /es/go/saveas/xml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML в XLT Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: HTML в XLT Конвертировать API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата HTML в файл формата XLT.
 url: /ru/ruby/conversion/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

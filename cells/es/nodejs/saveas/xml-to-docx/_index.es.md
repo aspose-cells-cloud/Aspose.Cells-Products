@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XML como DOCX API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato XML como archivo de formato DOCX.
 url: /es/nodejs/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/saveas/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XML como DOCX en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como DOCX es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato XML a DOCX mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XML como archivos DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida DOCX perfecta.
+Guardar formatos de archivo desde XML como DOCX es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato XML a DOCX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar XML como archivos DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida DOCX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar XML como formato DOCX" gistPath="" %}}

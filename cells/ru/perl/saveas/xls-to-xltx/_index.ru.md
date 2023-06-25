@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните XLS как XLTX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLS как XLTX API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLS как файла формата XLTX.
 url: /ru/perl/saveas/xls-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLS как XLTX" h2="Perl библиотека для сохранения XLS как XLTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLS как XLTX и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xls-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLTX в Perl." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLTX по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в XLTX — сложная задача. Все переходы между форматами XLS и XLTX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLS в формате XLTX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XLS в XLTX — сложная задача. Все переходы между форматами XLS и XLTX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLS в формате XLTX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLS в формате XLTX" gistPath="" %}}

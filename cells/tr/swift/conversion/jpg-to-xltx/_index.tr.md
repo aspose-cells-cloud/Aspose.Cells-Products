@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için JPG'den XLTX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi XLTX\'e dönüştürmek için Swift API" h2="JPG\'yi XLTX\'e dönüştürmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak JPG\'yi XLTX\'e ve diğer belge formatlarını çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi XLTX\'e dönüştürmek için Swift API" h2="JPG\'yi XLTX\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak JPG\'yi XLTX\'e ve diğer belge formatlarını çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Swift\'de XLTX\'e dönüştürün" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir SXC en GIF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format SXC en fichier au format GIF.
 url: /fr/perl/conversion/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

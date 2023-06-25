@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel والتوقيع الرقم
 url: /ar/android/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" h2="مكتبة Android لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API لسحابة التوقيع الرقمي Microsoft Excel وجداول بيانات OpenOffice Calc مع كلمات مرور وسير عمل ملف التوقيع الرقمي في Android. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور وملف توقيع رقمي باستخدام Android." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" h2="مكتبة Android لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API إلى سحابة التوقيع الرقمي Microsoft Excel وجداول بيانات OpenOffice Calc مع كلمات المرور وملفات سير عمل ملفات التوقيع الرقمي في Android. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور وملف توقيع رقمي باستخدام Android." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Android REST API" >}}

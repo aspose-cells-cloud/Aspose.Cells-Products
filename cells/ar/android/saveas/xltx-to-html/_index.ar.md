@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTX كـ HTML API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLTX كملف بتنسيق HTML.
 url: /ar/android/saveas/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ HTML" h2="مكتبة Android لحفظ XLTX كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ HTML" h2="مكتبة Android لحفظ XLTX كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX بالشكل HTML في Android" >}}

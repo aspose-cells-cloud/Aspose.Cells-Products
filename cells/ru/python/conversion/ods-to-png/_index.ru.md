@@ -1,6 +1,6 @@
 ﻿---
-title: ODS в PNG Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  ODS в PNG Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата ODS в файл формата PNG.
 url: /ru/python/conversion/ods-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/ods-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в PNG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в PNG — сложная задача. Все преобразования формата ODS в формат PNG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации ODS в файлы PNG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из ODS в PNG — сложная задача. Все переходы формата ODS в формат PNG выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации ODS в файлы PNG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования ODS в формат PNG" gistPath="" %}}

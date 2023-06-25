@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ المواد المستنفدة للأوزون كـ FODS API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ المواد المستنفدة للأوزون كـ FODS API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق ODS كملف بتنسيق FODS.
 url: /ar/net/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/saveas/ods-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف FODS في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية باعتبارها FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى FODS بواسطة SDK C# مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ ODS كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
+يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية باعتبارها FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى FODS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ ODS كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ ODS كتنسيق FODS" gistPath="" %}}

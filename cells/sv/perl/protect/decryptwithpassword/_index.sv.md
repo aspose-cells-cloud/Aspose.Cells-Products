@@ -1,10 +1,10 @@
 ﻿---
-title:  Dekryptera lokala kalkylblad med lösenord i molnet
+title: Dekryptera lokala kalkylblad med lösenord i molnet
 description: " Cloud API:er och SDK:er för Microsoft Excel och OpenOffice Calc-upplåsning. Kalkylark dekrypterar med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
 url: /sv/perl/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Perl-bibliotek för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Dekryptera REST API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Perl. Den här professionella lösningen dekrypterar lokalt Microsoft Microsoft 347616 online-lösenord med OpenOffice-kalkylblad Microsoft Microsoft Microsoft 347616 och online-lösenord med Microsoft 347616 online 3481." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Perl-bibliotek för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Dekryptera REST API för att dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Perl. Den här professionella lösningen dekrypterar lokalt Microsoft Microsoft 347616 online-lösenord med OpenOffice-kalkylblad Microsoft Microsoft Microsoft 347616 och online-lösenord med Microsoft 347616 online 3481." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dekryptera lokalt Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - Perl REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование XLSB в MD API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLSB в MD API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSB в файл формата MD.
 url: /ru/python/conversion/xlsb-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/xlsb-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в MD в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в MD — сложная задача. Все переходы между форматами XLSB и MD выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в MD. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат MD.
+Преобразование форматов файлов из XLSB в MD — сложная задача. Все переходы от формата XLSB к формату MD выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в MD. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSB в формат MD" gistPath="" %}}

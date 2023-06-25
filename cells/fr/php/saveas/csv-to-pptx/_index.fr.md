@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez CSV sous PPTX API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format CSV en tant que fichier au format PPTX.
 url: /fr/php/saveas/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer CSV en tant que PPTX" h2="Bibliothèque PHP pour enregistrer CSV en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/csv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer CSV en tant que PPTX" h2="Bibliothèque PHP pour enregistrer CSV en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format PPTX et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/csv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV au format PPTX au PHP" >}}

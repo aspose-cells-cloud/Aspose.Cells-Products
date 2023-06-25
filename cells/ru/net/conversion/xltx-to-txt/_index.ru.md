@@ -1,10 +1,10 @@
 ﻿---
-title:  Преобразование XLTX в TXT API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLTX в TXT API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTX в файл формата TXT.
 url: /ru/net/conversion/xltx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTX в TXT" h2="C# библиотека для преобразования XLTX в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации XLTX в TXT и другие форматы документов по телефону C#." urlsection="conversion/xltx-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTX в TXT" h2="C# библиотека для преобразования XLTX в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации XLTX в TXT и других форматов документов по телефону C#." urlsection="conversion/xltx-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в TXT по номеру C#." >}}

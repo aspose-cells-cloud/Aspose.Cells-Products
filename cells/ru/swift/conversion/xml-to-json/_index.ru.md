@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в JSON API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xml-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в JSON в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в JSON — сложная задача. Все переходы между форматами XML и JSON выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в JSON. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из XML в JSON — сложная задача. Все переходы между форматами XML и JSON выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в JSON. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XML в формат JSON" gistPath="" %}}

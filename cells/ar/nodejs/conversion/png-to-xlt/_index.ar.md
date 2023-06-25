@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG إلى XLT تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: PNG إلى XLT تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLT.
 url: /ar/nodejs/conversion/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

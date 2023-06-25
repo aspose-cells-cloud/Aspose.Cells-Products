@@ -1,6 +1,6 @@
 ﻿---
-title: PNG a XLSM Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  PNG a XLSM Convertir API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato PNG a un archivo de formato XLSM.
 url: /es/net/conversion/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

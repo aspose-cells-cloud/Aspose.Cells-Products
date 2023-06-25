@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى FODS قم بتحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLSM إلى ملف بتنسيق FODS.
 url: /ar/nodejs/conversion/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/xlsm-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى FODS في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى FODS بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى ملفات FODS عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج FODS مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى FODS بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLSM إلى FODS عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLSM إلى تنسيق FODS" gistPath="" %}}

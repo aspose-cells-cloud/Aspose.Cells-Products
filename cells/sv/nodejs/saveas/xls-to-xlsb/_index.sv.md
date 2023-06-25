@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLS som XLSB API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLS-formatfil som XLSB-formatfil.
 url: /sv/nodejs/saveas/xls-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

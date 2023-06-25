@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS to SQL - تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق ODS إلى ملف بتنسيق SQL.
 url: /ar/python/conversion/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

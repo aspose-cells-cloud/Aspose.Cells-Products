@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование SXC в DIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата SXC в файл формата DIF.
 url: /ru/android/conversion/sxc-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования SXC в DIF" h2="Библиотека Android для преобразования SXC в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования SXC в DIF и другие форматы документов онлайн с помощью Android." urlsection="conversion/sxc-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в DIF в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в DIF на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из SXC в DIF — сложная задача. Все переходы формата SXC в формат DIF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов SXC в DIF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод DIF.

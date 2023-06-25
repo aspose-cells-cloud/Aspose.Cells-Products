@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLSM'den XLTM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSM biçim dosyasını XLTM biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xlsm-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLSM dosyasını XLTM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSM'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den XLTM formatına geçişler, Android SDK'mız tarafından gerçekleştirilir ve kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Android kitaplığımız, XLSM'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+Dosya formatlarını XLSM'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den XLTM'ye format geçişleri, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSM'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSM\'yi XLTM biçimine dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

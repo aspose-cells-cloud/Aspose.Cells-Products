@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS API kullanarak CHART'ı e-tablodan PDF'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/nodejs/export/chart-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/export/chart-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini NodeJS\'de PDF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-CHART nesnesini elektronik tablodan PDF dosyasına dışa aktarma karmaşık bir görevdir. CHART'ı PDF biçimine dışa aktarma geçişleri, kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, CHART nesnelerini çevrimiçi olarak PDF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
+CHART nesnesini elektronik tablodan PDF dosyasına dışa aktarma karmaşık bir iştir. CHART'ı PDF biçimine dışa aktarma geçişleri, kaynak CHART e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, CHART nesnelerini çevrimiçi olarak PDF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="CHART\'ı e-tablodan PDF biçimine dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM в EMF Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLTM в EMF Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLTM в файл формата EMF.
 url: /ru/perl/conversion/xltm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

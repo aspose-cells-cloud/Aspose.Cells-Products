@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ XLS API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق JPG كملف بتنسيق XLS.
 url: /ar/python/saveas/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/python/saveas/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق XLS في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ JPG كملفات XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLS مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ JPG كملفات XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ JPG بتنسيق XLS" gistPath="" %}}

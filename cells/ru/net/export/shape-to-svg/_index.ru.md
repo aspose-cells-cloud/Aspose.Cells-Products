@@ -1,10 +1,10 @@
 ﻿---
 title:  Экспортируйте ФОРМУ в SVG из электронной таблицы, используя C# API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/net/export/shape-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для экспорта SHAPE в файл SVG" h2="C# библиотека для экспорта SHAPE в файл SVG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Net. Это профессиональное решение для экспорта файла формата SHAPE в файл формата SVG из электронной таблицы онлайн с использованием C#." urlsection="export/shape-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для экспорта SHAPE в файл SVG" h2="C# библиотека для экспорта SHAPE в файл SVG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Net. Это профессиональное решение для экспорта SHAPE в файл формата SVG из электронной таблицы онлайн с использованием C#." urlsection="export/shape-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата SVG в C#" >}}

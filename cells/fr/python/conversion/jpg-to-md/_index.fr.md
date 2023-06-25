@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en MD API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format JPG en fichier au format MD.
 url: /fr/python/conversion/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

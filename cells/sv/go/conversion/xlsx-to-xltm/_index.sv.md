@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till XLTM Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera XLSX-formatfil till XLTM-formatfil.
 url: /sv/go/conversion/xlsx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

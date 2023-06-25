@@ -132,7 +132,7 @@ url: /ar/python
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /ar/python
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /ar/python
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-حذف OleObjects معينة أو كلها من ورقة العمل
+ حذف OleObjects معينة أو كلها من ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">

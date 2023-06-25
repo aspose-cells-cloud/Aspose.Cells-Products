@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как PPTX API для Swift.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/txt-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как PPTX в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде PPTX — сложная задача. Все переходы формата TXT в формат PPTX выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для сохранения файлов TXT в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение форматов файлов из TXT в виде PPTX — сложная задача. Все переходы форматов TXT в PPTX выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Swift — это профессиональное решение для сохранения файлов TXT в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения TXT в формате PPTX" gistPath="" %}}

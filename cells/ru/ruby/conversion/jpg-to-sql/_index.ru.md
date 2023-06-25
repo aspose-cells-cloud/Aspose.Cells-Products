@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JPG в SQL API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата JPG в файл формата SQL.
 url: /ru/ruby/conversion/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/jpg-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в SQL в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в SQL — сложная задача. Все переходы из формата JPG в формат SQL выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JPG в SQL. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из JPG в SQL — сложная задача. Все переходы между форматами JPG и SQL выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JPG в SQL. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования JPG в формат SQL" gistPath="" %}}

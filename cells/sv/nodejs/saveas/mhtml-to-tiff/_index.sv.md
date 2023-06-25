@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som TIFF API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara MHTML-formatfil som TIFF-formatfil.
 url: /sv/nodejs/saveas/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

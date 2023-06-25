@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى SXC API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق CSV إلى ملف بتنسيق SXC.
 url: /ar/java/conversion/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/java/conversion/csv-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى SXC في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SXC مثالي.
+يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SXC مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل CSV إلى تنسيق SXC" gistPath="" %}}

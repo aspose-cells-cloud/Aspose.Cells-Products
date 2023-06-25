@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLTX в PPTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLTX в файл формата PPTX.
 url: /ru/go/conversion/xltx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLTX в PPTX." h2="Библиотека Go для преобразования XLTX в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLTX в PPTX и других форматов документов с помощью Go." urlsection="conversion/xltx-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать XLTX в PPTX." h2="Библиотека Go для преобразования XLTX в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации XLTX в PPTX и другие форматы документов с помощью Go." urlsection="conversion/xltx-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в PPTX в Go" >}}

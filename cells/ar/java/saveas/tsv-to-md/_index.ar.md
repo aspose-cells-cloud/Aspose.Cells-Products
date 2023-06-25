@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ TSV كـ MD API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  حفظ TSV باسم MD API for Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TSV كملف بتنسيق MD.
 url: /ar/java/saveas/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

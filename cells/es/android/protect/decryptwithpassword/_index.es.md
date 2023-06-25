@@ -1,10 +1,10 @@
 ﻿---
-title:  Descifrar hojas de cálculo locales con contraseña en la nube
+title: Descifrar hojas de cálculo locales con contraseña en la nube
 description:  Desbloqueo de API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Hojas de cálculo descifradas por la nube Cells API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/android/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para descifrar Microsoft Excel local y hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca de Android para descifrar Microsoft Excel local y hoja de cálculo de OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar Microsoft Excel local y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Android. Esta solución profesional descifra el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Android." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para descifrar Microsoft Excel local y hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca de Android para descifrar Microsoft Excel local y hoja de cálculo de OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar Microsoft Excel local y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Android. Esta solución profesional descifra el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Android." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Descifrar local Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña - Android REST API" >}}

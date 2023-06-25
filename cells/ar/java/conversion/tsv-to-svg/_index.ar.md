@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى SVG تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق TSV إلى ملف بتنسيق SVG.
 url: /ar/java/conversion/tsv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

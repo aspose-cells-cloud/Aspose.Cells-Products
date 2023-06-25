@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт
-description: Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -18,7 +18,7 @@ url: /ru/swift/export/
 	<li><b>Текст:</b> Csv, Tsv, Txt (TabDelimited)</li>
 	<li><b>Интернет:</b> HTML, Mhtml</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Выходной формат</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Выходной формат</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
 	<li><b>Microsoft Word/PowerPoint:</b> доккс, пткс</li>
 	<li><b>ОпенОфис:</b> Одс, Фодс, Отс</li>

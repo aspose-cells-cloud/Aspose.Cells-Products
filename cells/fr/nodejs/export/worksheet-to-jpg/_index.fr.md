@@ -1,6 +1,6 @@
 ﻿---
-title:  Exporter WORKSHEET au format JPG à partir d'une feuille de calcul à l'aide de NodeJS API
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers Excel et d'objets internes vers des types de fichiers de format. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Exporter WORKSHEET au format JPG à partir d'une feuille de calcul à l'aide de NodeJS API
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/nodejs/export/worksheet-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

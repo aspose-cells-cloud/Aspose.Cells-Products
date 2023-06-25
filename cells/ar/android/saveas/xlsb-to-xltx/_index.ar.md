@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSB باسم XLTX API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSB كملف بتنسيق XLTX.
 url: /ar/android/saveas/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSB كـ XLTX" h2="مكتبة Android لحفظ XLSB كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSB بتنسيق XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsb-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSB كـ XLTX" h2="مكتبة Android لحفظ XLSB كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSB بتنسيق XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsb-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB باسم XLTX في Android" >}}

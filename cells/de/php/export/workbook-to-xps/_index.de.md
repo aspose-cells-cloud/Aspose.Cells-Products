@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK nach XPS aus der Tabelle mit PHP API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie WORKBOOK aus der Tabelle nach XPS mit PHP API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/php/export/workbook-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren von WORKBOOK in die Datei XPS" h2="PHP-Bibliothek zum Exportieren von WORKBOOK in XPS-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im XPS-Format aus Tabellenkalkulation online mit PHP." urlsection="export/workbook-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren der Arbeitsmappe in die Datei XPS" h2="PHP-Bibliothek zum Exportieren von WORKBOOK in die Datei XPS" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine XPS-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/workbook-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die Formatdatei XPS in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKBOOK-Objekts in die Datei XPS aus der Tabelle ist eine komplexe Aufgabe. Der Export von WORKBOOK in XPS-Formatübergänge wird von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKBOOK-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um WORKBOOK-Objekte online in Dateien im XPS-Format zu exportieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei XPS ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKBOOK in das XPS-Format werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im XPS-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKBOOK in das Format XPS aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKBOOK in das XPS-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -37,8 +37,8 @@ Das Exportieren des WORKBOOK-Objekts in die Datei XPS aus der Tabelle ist eine k
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um WORKBOOK nach XPS zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

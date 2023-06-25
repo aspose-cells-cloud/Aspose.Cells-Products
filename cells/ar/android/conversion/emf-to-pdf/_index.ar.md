@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى PDF تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق EMF إلى ملف بتنسيق PDF.
 url: /ar/android/conversion/emf-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

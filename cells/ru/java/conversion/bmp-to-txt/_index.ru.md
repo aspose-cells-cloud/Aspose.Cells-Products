@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование BMP в TXT API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата BMP в файл формата TXT.
 url: /ru/java/conversion/bmp-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/bmp-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в TXT в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в TXT — сложная задача. Все переходы формата BMP в формат TXT выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы TXT. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TXT.
+Преобразование форматов файлов из BMP в TXT — сложная задача. Все переходы BMP в формат TXT выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы TXT. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования BMP в формат TXT" gistPath="" %}}

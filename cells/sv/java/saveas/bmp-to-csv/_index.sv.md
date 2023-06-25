@@ -1,6 +1,6 @@
 ﻿---
-title: Spara BMP som CSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara BMP som CSV API for Java
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara BMP filformat som CSV-formatfil.
 url: /sv/java/saveas/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

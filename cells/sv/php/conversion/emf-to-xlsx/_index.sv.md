@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till XLSX Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera EMF filformat till XLSX format fil.
 url: /sv/php/conversion/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

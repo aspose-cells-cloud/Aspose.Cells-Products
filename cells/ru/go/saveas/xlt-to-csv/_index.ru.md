@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLT как CSV API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLT в виде файла формата CSV.
 url: /ru/go/saveas/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xlt-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как CSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде CSV — сложная задача. Все переходы формата XLT в CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения XLT в виде CSV-файлов в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение форматов файлов из XLT в виде CSV — сложная задача. Все переходы между форматами XLT и CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения XLT в виде CSV-файлов в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLT в формате CSV" gistPath="" %}}

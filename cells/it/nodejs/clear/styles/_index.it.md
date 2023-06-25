@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare gli stili su Microsoft Excel e Open
 url: /it/nodejs/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Cancella per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare gli stili sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Cancella per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare gli stili sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Stili chiari sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

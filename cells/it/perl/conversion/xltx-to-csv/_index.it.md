@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTX a CSV API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLTX in un file in formato CSV.
 url: /it/perl/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

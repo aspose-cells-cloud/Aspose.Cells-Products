@@ -18,7 +18,7 @@ Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş sütunlar�
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Boş sütunları temizlemek için Swift API nasıl kullanılır?" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Boş sütunları temizlemek için Swift API nasıl kullanılır?" >}}
 <li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Ortaya çıkan akışı almak için postClearObjects yöntemini çağırın</li>

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till PPTX Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i BMP-format till fil i PPTX-format.
 url: /sv/android/conversion/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

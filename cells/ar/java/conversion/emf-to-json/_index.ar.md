@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى JSON تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق EMF إلى ملف بتنسيق JSON.
 url: /ar/java/conversion/emf-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/java/conversion/emf-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف EMF إلى JSON في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى JSON بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. مكتبتنا Java هي حل احترافي لتحويل EMF إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من EMF إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى JSON بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل EMF إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل EMF إلى تنسيق JSON" gistPath="" %}}

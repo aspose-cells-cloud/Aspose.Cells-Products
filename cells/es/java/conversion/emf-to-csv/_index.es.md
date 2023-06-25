@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF a CSV Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato EMF a un archivo de formato CSV.
 url: /es/java/conversion/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir EMF a CSV" h2="Java biblioteca para convertir EMF a CSV" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir EMF a CSV y otros formatos de documentos en línea usando Java." urlsection="conversion/emf-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir EMF a CSV" h2="Java biblioteca para convertir EMF a CSV" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir EMF a CSV y otros formatos de documentos en línea usando Java." urlsection="conversion/emf-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo EMF a CSV en Java" >}}

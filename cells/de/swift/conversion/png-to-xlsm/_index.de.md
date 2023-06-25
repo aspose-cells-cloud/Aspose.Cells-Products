@@ -1,16 +1,16 @@
 ﻿---
-title:  PNG in XLSM konvertieren API für Swift
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in XLSM Konvertieren Sie API für Swift
+description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
 url: /de/swift/conversion/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PNG in XLSM umzuwandeln" h2="Swift-Bibliothek zum Konvertieren von PNG in XLSM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von PNG in XLSM und andere Dokumentformate mit Swift." urlsection="conversion/png-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zur Konvertierung von PNG in XLSM" h2="Swift-Bibliothek zum Konvertieren von PNG in XLSM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in XLSM und andere Dokumentformate mit Swift." urlsection="conversion/png-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in Swift in XLSM" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XLSM ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu XLSM werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle PNG beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um PNG online in XLSM-Dateien zu konvertieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte XLSM-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in XLSM ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLSM-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG- in XLSM-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von PNG in das XLSM-Format" gistPath="" %}}
@@ -65,16 +65,16 @@ Das Konvertieren von Dateiformaten von PNG in XLSM ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um PNG in XLSM umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um PNG in XLSM zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>macOS Monterey 12.4</li>
-<li>Schnell 4.2</li>
+<li>Swift 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

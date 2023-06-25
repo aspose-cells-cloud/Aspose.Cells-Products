@@ -160,7 +160,7 @@ url: /it/python
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /it/python
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSX a XLSM API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XLSX in un file in formato XLSM.
 url: /it/nodejs/conversion/xlsx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

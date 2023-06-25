@@ -1,6 +1,6 @@
 ﻿---
-title: ODS en FODS Convertir API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  ODS en FODS Convertir API pour Perl
+description: Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format ODS en fichier au format FODS.
 url: /fr/perl/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى FODS - تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق GIF إلى ملف بتنسيق FODS.
 url: /ar/php/conversion/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/php/conversion/gif-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى FODS في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من GIF إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى FODS بواسطة PHP SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات GIF إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
+يعد تحويل تنسيقات الملفات من GIF إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى FODS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبتنا PHP حلاً احترافيًا لتحويل ملفات GIF إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لتحويل GIF إلى تنسيق FODS" gistPath="" %}}

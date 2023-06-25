@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTX come MD API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato XLTX come file in formato MD.
 url: /it/perl/saveas/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

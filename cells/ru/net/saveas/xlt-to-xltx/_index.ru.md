@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLT как XLTX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLT как XLTX API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLT как файла формата XLTX.
 url: /ru/net/saveas/xlt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlt-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как XLTX в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения файлов XLT в формате XLTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения файлов XLT в формате XLTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLT в формате XLTX" gistPath="" %}}

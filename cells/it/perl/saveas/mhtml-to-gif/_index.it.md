@@ -1,10 +1,10 @@
 ﻿---
 title:  Salva MHTML come GIF API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato MHTML come file in formato GIF.
 url: /it/perl/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per salvare MHTML come GIF" h2="Perl libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online utilizzando Perl." urlsection="saveas/mhtml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per salvare MHTML come GIF" h2="Perl libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online usando Perl." urlsection="saveas/mhtml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file MHTML come GIF in Perl" >}}

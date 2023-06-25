@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le immagini su Microsoft Excel e Ope
 url: /it/python/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Python Cancella per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le immagini sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Python." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Python Cancella per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le immagini sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Python." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Immagini chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Python REST API" >}}

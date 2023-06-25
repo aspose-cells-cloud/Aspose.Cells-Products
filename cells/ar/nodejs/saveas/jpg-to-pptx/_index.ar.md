@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ PPTX API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق JPG كملف بتنسيق PPTX.
 url: /ar/nodejs/saveas/jpg-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/jpg-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق PPTX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG لأن PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ JPG كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ JPG كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ JPG بتنسيق PPTX" gistPath="" %}}

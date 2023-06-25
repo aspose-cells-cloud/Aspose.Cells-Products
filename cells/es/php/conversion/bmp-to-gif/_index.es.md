@@ -1,6 +1,6 @@
 ﻿---
-title: BMP a GIF Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  BMP a GIF Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato BMP a un archivo de formato GIF.
 url: /es/php/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

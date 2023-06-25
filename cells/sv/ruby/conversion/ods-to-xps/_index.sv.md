@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till XPS Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera fil i ODS-format till fil i XPS-format.
 url: /sv/ruby/conversion/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

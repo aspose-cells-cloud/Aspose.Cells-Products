@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XML как XLSM API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как XLSM API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XML как файла формата XLSM.
 url: /ru/python/saveas/xml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить XML как XLSM" h2="Python библиотека для сохранения XML как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения XML в формате XLSM и других форматов документов в Интернете с использованием Python." urlsection="saveas/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить XML как XLSM" h2="Python библиотека для сохранения XML как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения XML в виде XLSM и других форматов документов в Интернете с использованием Python." urlsection="saveas/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как XLSM в Python." >}}

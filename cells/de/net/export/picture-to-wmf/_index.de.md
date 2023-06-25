@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie PICTURE aus der Tabelle mit C# API nach WMF
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie BILD aus der Tabellenkalkulation nach WMF mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/picture-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von PICTURE in eine WMF-Datei" h2="C# Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE-Dateien in das WMF-Format aus einer Online-Tabelle unter Verwendung von C#." urlsection="export/picture-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um BILD in eine WMF-Datei zu exportieren" h2="C#-Bibliothek zum Exportieren von PICTURE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von PICTURE in eine WMF-Formatdatei aus einer Tabellenkalkulation unter C#." urlsection="export/picture-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Datei im WMF-Format in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die WMF-Formatdatei C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren von PICTURE-Objekten in eine WMF-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von BILD zu WMF-Formatübergängen wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BILD-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im WMF-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
+Das Exportieren eines PICTURE-Objekts aus einer Tabellenkalkulation in eine WMF-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von PICTURE in das WMF-Format werden von unserem SDK C# durchgeführt, wobei der Hauptstruktur- und logische Inhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Bibliothek C# ist eine professionelle Lösung zum Online-Export von PICTURE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von PICTURE in das WMF-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von PICTURE aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,9 +44,9 @@ Das Exportieren von PICTURE-Objekten in eine WMF-Datei aus einer Tabelle ist ein
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um BILD nach WMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um PICTURE nach WMF zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

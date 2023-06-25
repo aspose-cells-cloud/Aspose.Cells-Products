@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare gli oggetti dell'elenco su Microsoft
 url: /it/nodejs/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare gli oggetti elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare gli oggetti elenco sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare gli oggetti elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare gli oggetti elenco sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella elenco oggetti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

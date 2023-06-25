@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح التعليقات على Microsoft Exc
 url: /ar/go/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Go REST API" >}}

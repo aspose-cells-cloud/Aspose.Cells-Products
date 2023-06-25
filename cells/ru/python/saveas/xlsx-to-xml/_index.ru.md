@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSX в виде файла формата XML.
 url: /ru/python/saveas/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/xlsx-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX в формате XML по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде XML — сложная задача. Все переходы между форматами XLSX и XML выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения XLSX в виде файлов XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из XLSX в виде XML — сложная задача. Все переходы формата XLSX в формат XML выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения XLSX в виде файлов XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XLSX в формате XML" gistPath="" %}}

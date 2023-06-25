@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc için Bulut API'leri ve SDK'lar
 url: /tr/ruby/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulut şifresini çözmek için Ruby API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Ruby kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Ruby\'de şifre iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulut şifresini çözmek için Ruby API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Ruby kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Ruby\'de şifre iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulut Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Ruby REST API" >}}

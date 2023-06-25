@@ -1,6 +1,6 @@
 ﻿---
-title: XML till FODS Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XML till FODS Konvertera API för PHP
+description: Använder Aspose.Cells Cloud SDK för PHP för att konvertera XML-formatfil till FODS-formatfil.
 url: /sv/php/conversion/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

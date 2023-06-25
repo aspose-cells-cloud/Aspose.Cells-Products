@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTM إلى XLS تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLTM إلى ملف بتنسيق XLS.
 url: /ar/php/conversion/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLTM إلى XLS" h2="PHP مكتبة لتحويل XLTM إلى XLS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLTM إلى XLS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLTM إلى XLS" h2="PHP مكتبة لتحويل XLTM إلى XLS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLTM إلى XLS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTM إلى XLS في PHP" >}}

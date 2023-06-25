@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как DOCX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTX в виде файла формата DOCX.
 url: /ru/perl/saveas/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xltx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как DOCX по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде DOCX — сложная задача. Все переходы из формата XLTX в формат DOCX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Perl — это профессиональное решение для сохранения XLTX в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLTX в виде DOCX — сложная задача. Все переходы из формата XLTX в формат DOCX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Perl — это профессиональное решение для сохранения XLTX в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLTX в формате DOCX" gistPath="" %}}

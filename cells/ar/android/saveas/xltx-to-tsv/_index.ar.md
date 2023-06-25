@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTX كـ TSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLTX كملف بتنسيق TSV.
 url: /ar/android/saveas/xltx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ TSV" h2="مكتبة Android لحفظ XLTX بتنسيق TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ TSV" h2="مكتبة Android لحفظ XLTX بتنسيق TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX بتنسيق TSV في Android" >}}

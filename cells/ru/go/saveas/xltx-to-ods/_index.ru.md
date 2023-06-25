@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTX как ODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLTX в качестве файла формата ODS.
 url: /ru/go/saveas/xltx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

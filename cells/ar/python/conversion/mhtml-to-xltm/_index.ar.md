@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML إلى XLTM - تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  MHTML إلى XLTM - تحويل API لـ Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق MHTML إلى ملف تنسيق XLTM.
 url: /ar/python/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

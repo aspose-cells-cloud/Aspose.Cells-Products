@@ -1,6 +1,6 @@
 ﻿---
-title: NUMBERS till PPTX Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  NUMBERS till PPTX Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera NUMBERS-formatfil till PPTX-formatfil.
 url: /sv/net/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

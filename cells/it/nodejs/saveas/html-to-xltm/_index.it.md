@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come XLTM API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato HTML come file in formato XLTM.
 url: /it/nodejs/saveas/html-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

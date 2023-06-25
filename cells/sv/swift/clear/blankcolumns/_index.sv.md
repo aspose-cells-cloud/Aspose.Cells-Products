@@ -18,7 +18,7 @@ Att rensa tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylbl
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Swift API för att rensa tomma kolumner" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Swift API för att rensa tomma kolumner" >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>

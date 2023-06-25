@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez CSV sous EMF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format EMF.
 url: /fr/android/saveas/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT nach DOCX aus der Tabelle mit PHP API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach DOCX mit PHP API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/php/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren des ARBEITSBLATTS in eine DOCX-Datei" h2="PHP Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in DOCX-Formatdateien aus Tabellenkalkulationen online mit PHP." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" h2="PHP-Bibliothek zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format in PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine DOCX-Formatdatei in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKSHEET in das DOCX-Format wird von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKSHEET-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im DOCX-Format zu exportieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte DOCX-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das DOCX-Format werden von unserem SDK PHP durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKSHEET in das DOCX-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von ARBEITSBLATT aus der Tabellenkalkulation in das DOCX-Format" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,9 +36,9 @@ Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkal
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um WORKSHEET nach DOCX zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ARBEITSBLATT nach DOCX zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

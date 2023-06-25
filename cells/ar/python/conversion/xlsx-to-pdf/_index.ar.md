@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX إلى PDF تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLSX إلى PDF تحويل API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSX إلى ملف بتنسيق PDF.
 url: /ar/python/conversion/xlsx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

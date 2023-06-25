@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XLSM API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB в виде файла формата XLSM.
 url: /ru/java/saveas/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/xlsb-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как XLSM в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде XLSM — сложная задача. Все переходы между форматами XLSB и XLSM выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для сохранения XLSB в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из XLSB в виде XLSM — сложная задача. Все переходы между форматами XLSB и XLSM выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для сохранения файлов XLSB в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLSB в формате XLSM" gistPath="" %}}

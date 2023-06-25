@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT in XPS Converti API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato TXT nel file in formato XPS.
 url: /it/java/conversion/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

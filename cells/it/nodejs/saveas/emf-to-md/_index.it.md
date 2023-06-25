@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva EMF come MD API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva EMF come MD API per NodeJS
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato EMF come file in formato MD.
 url: /it/nodejs/saveas/emf-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

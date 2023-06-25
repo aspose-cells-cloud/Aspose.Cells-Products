@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da JSON a PPTX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato JSON in un file in formato PPTX.
 url: /it/android/conversion/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

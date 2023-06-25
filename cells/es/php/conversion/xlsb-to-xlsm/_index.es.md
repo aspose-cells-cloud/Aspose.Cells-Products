@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSB a XLSM Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLSB a un archivo de formato XLSM.
 url: /es/php/conversion/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSB a XLSM" h2="PHP biblioteca para convertir XLSB a XLSM" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSB a XLSM y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsb-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSB a XLSM" h2="PHP biblioteca para convertir XLSB a XLSM" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSB a XLSM y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsb-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSB a XLSM en PHP" >}}

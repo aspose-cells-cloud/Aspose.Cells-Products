@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer SXC sous XLTM API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format SXC en tant que fichier au format XLTM.
 url: /fr/android/saveas/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer SXC en XLTM" h2="Bibliothèque Android pour enregistrer SXC en XLTM" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format XLTM et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/sxc-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier SXC au format XLTM sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier SXC au format XLTM dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers de SXC au format XLTM est une tâche complexe. Toutes les transitions de format SXC vers XLTM sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers SXC au format XLTM. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLTM parfaite.

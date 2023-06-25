@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ XLS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLTX كملف بتنسيق XLS.
 url: /ar/java/saveas/xltx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

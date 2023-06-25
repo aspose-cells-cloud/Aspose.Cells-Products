@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir JSON en WMF API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format JSON en fichier au format WMF.
 url: /fr/php/conversion/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir JSON en WMF" h2="bibliothèque PHP pour convertir JSON en WMF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir JSON en WMF et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/json-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir JSON en WMF" h2="bibliothèque PHP pour convertir JSON en WMF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir JSON en WMF et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/json-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JSON en WMF en PHP" >}}

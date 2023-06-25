@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara ODS som XLTX API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara ODS som XLTX API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara ODS-formatfil som XLTX-formatfil.
 url: /sv/net/saveas/ods-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

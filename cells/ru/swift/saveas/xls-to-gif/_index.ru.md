@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLS как GIF API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/xls-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xls-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как GIF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в формате GIF — сложная задача. Все переходы между форматами XLS и GIF выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLS в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод GIF.
+Сохранение форматов файлов из XLS в формате GIF — сложная задача. Все переходы формата XLS в GIF выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLS в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLS в формате GIF" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить BMP как XLT API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата BMP в виде файла формата XLT.
 url: /ru/perl/saveas/bmp-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить BMP как XLT" h2="Perl библиотека для сохранения BMP как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения BMP в формате XLT и других форматах документов в Интернете с использованием Perl." urlsection="saveas/bmp-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить BMP как XLT" h2="Библиотека Perl для сохранения BMP как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения BMP в формате XLT и других форматах документов в Интернете с использованием Perl." urlsection="saveas/bmp-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XLT в Perl." >}}

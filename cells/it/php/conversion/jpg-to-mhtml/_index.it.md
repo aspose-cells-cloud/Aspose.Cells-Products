@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG in MHTML Converti API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: JPG in MHTML Converti API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato JPG in un file in formato MHTML.
 url: /it/php/conversion/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

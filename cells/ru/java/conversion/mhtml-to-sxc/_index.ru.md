@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование MHTML в SXC API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата MHTML в файл формата SXC.
 url: /ru/java/conversion/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования MHTML в SXC" h2="Java библиотека для преобразования MHTML в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации MHTML в SXC и другие форматы документов с использованием Java." urlsection="conversion/mhtml-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования MHTML в SXC" h2="Java библиотека для преобразования MHTML в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации MHTML в SXC и другие форматы документов с использованием Java." urlsection="conversion/mhtml-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в SXC в Java" >}}

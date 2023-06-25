@@ -1,6 +1,6 @@
 ﻿---
-title: TXT إلى HTML تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  TXT إلى HTML تحويل API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق TXT إلى ملف بتنسيق HTML.
 url: /ar/python/conversion/txt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till MHTML Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera PNG filformat till MHTML-format fil.
 url: /sv/perl/conversion/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

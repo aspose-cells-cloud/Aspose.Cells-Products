@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till HTML Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till HTML Konvertera API för NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i MHTML-format till fil i HTML-format.
 url: /sv/nodejs/conversion/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/go/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki doğrulamaları temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki doğrulamaları silmek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları netleştirir." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki doğrulamaları temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki doğrulamaları silmek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Go kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları netleştirir." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda doğrulamaları temizle - REST\'e Git API" >}}

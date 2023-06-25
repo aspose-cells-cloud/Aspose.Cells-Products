@@ -1,6 +1,6 @@
 ﻿---
-title:  ЧИСЛА в PNG Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: ЧИСЛА в PNG Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата PNG.
 url: /ru/net/conversion/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/numbers-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в PNG в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в PNG — сложная задача. Все преобразования форматов NUMBERS в PNG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в PNG. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из NUMBERS в PNG — сложная задача. Все преобразования форматов NUMBERS в PNG выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в PNG. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат PNG" gistPath="" %}}

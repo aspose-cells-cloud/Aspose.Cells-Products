@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить EMF как XLT API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата EMF в виде файла формата XLT.
 url: /ru/php/saveas/emf-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить EMF как XLT" h2="PHP библиотека для сохранения EMF как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения EMF в формате XLT и других форматах документов в Интернете с использованием PHP." urlsection="saveas/emf-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить EMF как XLT" h2="Библиотека PHP для сохранения EMF как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения EMF в формате XLT и других форматах документов в Интернете с использованием PHP." urlsection="saveas/emf-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как XLT в PHP." >}}

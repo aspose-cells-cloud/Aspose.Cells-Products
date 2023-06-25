@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en TXT API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir un fichier au format XLS en fichier au format TXT.
 url: /fr/java/conversion/xls-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

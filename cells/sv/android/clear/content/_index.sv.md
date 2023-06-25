@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Ex
 url: /sv/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

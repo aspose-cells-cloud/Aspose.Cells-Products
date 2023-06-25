@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الأنماط على Microsoft Excel &
 url: /ar/ruby/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Ruby Clear to Clear الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي ذو الأنماط الواضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Ruby Clear to Clear الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي هو الأنماط الواضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Ruby REST API" >}}

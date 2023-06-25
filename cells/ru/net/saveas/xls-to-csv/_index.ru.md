@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XLS как CSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLS как CSV API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLS в виде файла формата CSV.
 url: /ru/net/saveas/xls-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLS как CSV" h2="C# библиотека для сохранения XLS в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLS как CSV и других форматов документов в Интернете с использованием C#." urlsection="saveas/xls-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XLS как CSV" h2="C# библиотека для сохранения XLS в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLS в формате CSV и других форматов документов онлайн по телефону C#." urlsection="saveas/xls-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как CSV по адресу C#." >}}

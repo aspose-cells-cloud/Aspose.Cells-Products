@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX a XPS Converti API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XLSX a XPS Converti API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLSX nel file in formato XPS.
 url: /it/perl/conversion/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

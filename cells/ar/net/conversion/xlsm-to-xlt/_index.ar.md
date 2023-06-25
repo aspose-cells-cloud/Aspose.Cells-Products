@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM إلى XLT تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLSM إلى XLT تحويل API إلى C#
+description: استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLSM إلى ملف بتنسيق XLT.
 url: /ar/net/conversion/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

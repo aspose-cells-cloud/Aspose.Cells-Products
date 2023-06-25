@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som PNG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara EMF filformat som PNG filformat.
 url: /sv/php/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

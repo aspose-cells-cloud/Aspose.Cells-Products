@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar fórmulas en Microsoft Excel y Ope
 url: /es/python/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Fórmulas de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar fórmulas en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Python. Esta solución profesional borra fórmulas en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Python." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Fórmulas de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar fórmulas en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Python. Esta solución profesional borra fórmulas en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Python." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fórmulas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Python REST API" >}}

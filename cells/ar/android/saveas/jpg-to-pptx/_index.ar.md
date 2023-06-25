@@ -1,16 +1,16 @@
 ﻿---
 title:  احفظ JPG كـ PPTX API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JPG كملف بتنسيق PPTX.
 url: /ar/android/saveas/jpg-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ PPTX" h2="مكتبة Android لحفظ JPG كـ PPTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG بتنسيق PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ PPTX" h2="مكتبة Android لحفظ JPG كـ PPTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG بتنسيق PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق PPTX في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG لأن PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى PPTX بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى PPTX بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ JPG بتنسيق PPTX" gistPath="" %}}

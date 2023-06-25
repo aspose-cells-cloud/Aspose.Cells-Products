@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى XPS حوّل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JSON إلى ملف بتنسيق XPS.
 url: /ar/go/conversion/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

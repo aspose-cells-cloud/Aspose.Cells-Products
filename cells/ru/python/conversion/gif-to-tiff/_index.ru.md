@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF в TIFF Преобразовать API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: GIF в TIFF Преобразовать API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата GIF в файл формата TIFF.
 url: /ru/python/conversion/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

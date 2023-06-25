@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som PDF API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara fil i MHTML-format som fil i PDF-format.
 url: /sv/php/saveas/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

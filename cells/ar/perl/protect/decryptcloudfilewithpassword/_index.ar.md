@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel وفك تشفير OpenOffic
 url: /ar/perl/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Perl لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Perl. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Perl." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Perl لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في Perl. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Perl." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Perl REST API" >}}

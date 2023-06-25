@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в XLSM Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата EMF в файл формата XLSM.
 url: /ru/python/conversion/emf-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/emf-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в XLSM в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в XLSM — сложная задача. Все переходы формата EMF в формат XLSM выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов EMF в XLSM. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из EMF в XLSM — сложная задача. Все переходы формата EMF в формат XLSM выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов EMF в XLSM. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования EMF в формат XLSM" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez TSV sous HTML API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format TSV en tant que fichier au format HTML.
 url: /fr/python/saveas/tsv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/python/saveas/tsv-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV sous HTML dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de TSV sous le nom HTML est une tâche complexe. Toutes les transitions de format TSV vers HTML sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Python est une solution professionnelle pour enregistrer les fichiers TSV sous HTML en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie HTML parfaite.
+L'enregistrement des formats de fichiers à partir de TSV sous le nom HTML est une tâche complexe. Toutes les transitions de format TSV vers HTML sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Python est une solution professionnelle pour enregistrer des fichiers TSV sous HTML en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie HTML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer TSV au format HTML" gistPath="" %}}

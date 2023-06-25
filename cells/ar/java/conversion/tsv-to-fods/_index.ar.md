@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل TSV إلى FODS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق TSV إلى ملف بتنسيق FODS.
 url: /ar/java/conversion/tsv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come HTML API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XLT come file in formato HTML.
 url: /it/ruby/saveas/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

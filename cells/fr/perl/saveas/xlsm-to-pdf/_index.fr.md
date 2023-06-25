@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSM sous PDF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLSM en tant que fichier au format PDF.
 url: /fr/perl/saveas/xlsm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/perl/saveas/xlsm-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM sous PDF dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLSM sous le nom PDF est une tâche complexe. Toutes les transitions de format XLSM vers PDF sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer des fichiers XLSM sous PDF en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie PDF parfaite.
+L'enregistrement des formats de fichiers à partir de XLSM sous le nom PDF est une tâche complexe. Toutes les transitions de format XLSM vers PDF sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer en ligne des fichiers XLSM au format PDF. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie PDF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour enregistrer XLSM au format PDF" gistPath="" %}}

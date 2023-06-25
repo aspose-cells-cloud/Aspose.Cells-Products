@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som DIF API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara HTML filformat som DIF-formatfil.
 url: /sv/php/saveas/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

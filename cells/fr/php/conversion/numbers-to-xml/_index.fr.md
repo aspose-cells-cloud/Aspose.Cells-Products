@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS en XML Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: NUMBERS en XML Convertir API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format NUMBERS en fichier au format XML.
 url: /fr/php/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSM إلى SXC - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSM إلى ملف بتنسيق SXC.
 url: /ar/python/conversion/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLSM إلى SXC" h2="مكتبة Python لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlsm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLSM إلى SXC" h2="مكتبة Python لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xlsm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى SXC في Python" >}}

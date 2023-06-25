@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa former på Microsoft Excel 
 url: /sv/perl/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Perl. Denna professionella lösning tar bort former på lokala Microsoft Microsoft 3 Calc 481616 och OpenOffice 3 Calc 481616 och OpenOffice 3 Calc 48161608. ." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Perl. Denna professionella lösning tar bort former på lokala Microsoft Microsoft 3 Calc 481616 och OpenOffice 3 Calc 481616 och OpenOffice 3 Calc 48161608. ." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Perl REST API" >}}

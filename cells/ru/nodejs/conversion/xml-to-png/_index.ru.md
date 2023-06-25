@@ -1,6 +1,6 @@
 ﻿---
 title:  XML в PNG Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XML в файл формата PNG.
 url: /ru/nodejs/conversion/xml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xml-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XML в PNG в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в PNG — сложная задача. Все переходы формата XML в формат PNG выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации XML в файлы PNG. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из XML в PNG — сложная задача. Все переходы формата XML в формат PNG выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека NodeJS — это профессиональное решение для преобразования XML в файлы PNG онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XML в формат PNG" gistPath="" %}}

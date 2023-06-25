@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSB sous PPTX API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/saveas/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/saveas/xlsb-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format PPTX dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB vers PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
+L'enregistrement de formats de fichiers XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB à PPTX sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers PPTX. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer XLSB au format PPTX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV a MHTML Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato CSV a un archivo de formato MHTML.
 url: /es/ruby/conversion/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/conversion/csv-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo CSV a MHTML en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de CSV a MHTML es una tarea compleja. Nuestro Ruby SDK realiza todas las transiciones de formato CSV a MHTML mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos CSV a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida MHTML perfecta.
+Convertir formatos de archivo de CSV a MHTML es una tarea compleja. Todas las transiciones de formato CSV a MHTML las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos CSV a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida MHTML perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir CSV a formato MHTML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som SXC API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara JSON-formatfil som SXC-formatfil.
 url: /sv/perl/saveas/json-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

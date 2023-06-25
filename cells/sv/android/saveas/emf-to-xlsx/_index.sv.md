@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som XLSX API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara EMF filformat som XLSX format fil.
 url: /sv/android/saveas/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

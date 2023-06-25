@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie SXC als TXT API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im SXC-Format als Datei im TXT-Format zu speichern.
 url: /de/net/saveas/sxc-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um SXC als TXT zu speichern" h2="C#-Bibliothek zum Speichern von SXC als TXT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als TXT und andere Dokumentformate unter C#." urlsection="saveas/sxc-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um SXC als TXT zu speichern" h2="C#-Bibliothek zum Speichern von SXC als TXT" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als TXT und anderen Dokumentformaten unter C#." urlsection="saveas/sxc-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als TXT in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als TXT unter C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von SXC als TXT ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu TXT werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SXC-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um SXC online als TXT-Dateien zu speichern. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
+Das Speichern von Dateiformaten von SXC als TXT ist eine komplexe Aufgabe. Alle SXC-zu-TXT-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um SXC als TXT-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von SXC im TXT-Format" gistPath="" %}}
@@ -28,8 +28,8 @@ Das Speichern von Dateiformaten von SXC als TXT ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um SXC als TXT zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

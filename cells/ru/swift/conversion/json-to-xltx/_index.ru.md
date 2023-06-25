@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование JSON в XLTX API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/json-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования JSON в XLTX" h2="Библиотека Swift для преобразования JSON в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования JSON в XLTX и другие форматы документов онлайн с помощью Swift." urlsection="conversion/json-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования JSON в XLTX" h2="Библиотека Swift для преобразования JSON в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования JSON в XLTX и другие форматы документов онлайн с использованием Swift." urlsection="conversion/json-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в XLTX в Swift" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLT till XLSX Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLT till XLSX Konvertera API för Perl
+description: Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLT-format till fil i XLSX-format.
 url: /sv/perl/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

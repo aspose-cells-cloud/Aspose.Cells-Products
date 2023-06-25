@@ -1,5 +1,5 @@
 ﻿---
-title:  Générateur et convertisseur de feuilles de calcul cloud SDK et API REST
+title: Générateur et convertisseur de feuilles de calcul cloud SDK et API REST
 description:  Les SDK pour les langages populaires offrent une intégration transparente dans vos applications pour lire, modifier et convertir les feuilles de calcul Excel et OpenOffice hébergées sur le cloud
 weight: 10
 url: /fr/family

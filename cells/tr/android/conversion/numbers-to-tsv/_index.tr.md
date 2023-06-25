@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS - TSV Dönüştürme API for Android
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını TSV biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/numbers-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir NUMBERS dosyasını TSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-NUMBERS dosya biçimlerini TSV'ye dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan TSV'ye format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+NUMBERS dosya biçimlerini TSV'ye dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan TSV formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'i TSV formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

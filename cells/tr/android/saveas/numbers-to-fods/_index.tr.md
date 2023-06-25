@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Android için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını FODS biçim dosyası olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/saveas/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

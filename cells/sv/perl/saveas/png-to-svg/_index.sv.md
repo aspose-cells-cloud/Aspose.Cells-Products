@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som SVG API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Perl för att spara PNG filformat som SVG filformat.
 url: /sv/perl/saveas/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

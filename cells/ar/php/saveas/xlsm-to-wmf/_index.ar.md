@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSM كـ WMF API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSM كـ WMF API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLSM كملف بتنسيق WMF.
 url: /ar/php/saveas/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

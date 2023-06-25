@@ -1,6 +1,6 @@
 ﻿---
-title: XLS en PNG Convertir API en Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLS en PNG Convertir API en Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLS en fichier au format PNG.
 url: /fr/python/conversion/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

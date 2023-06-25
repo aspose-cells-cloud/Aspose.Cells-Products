@@ -12,7 +12,7 @@ url: /ar/swift
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>تساعد Aspose.Cells Cloud SDK for Swift المبرمجين في دمج Microsoft Excel وعرض جدول بيانات OpenOffice وميزات المعالجة بسلاسة في تطبيقاتهم المستندة إلى مجموعة النظراء المطورة في Swift. Aspose.Cells Cloud SDK for Swift مرخص بموجب MIT.</p>
+<p>تساعد Aspose.Cells Cloud SDK for Swift المبرمجين في دمج Microsoft Excel وعرض جدول بيانات OpenOffice وميزات المعالجة بسلاسة في تطبيقاتهم المستندة إلى السحابة المطورة في Swift. Aspose.Cells Cloud SDK for Swift مرخص بموجب MIT.</p>
 <p>تمكّن Aspose.Cells Cloud SDK for Swift تطبيقات Swift الخاصة بك من استرداد جداول البيانات وأوراق العمل وكتب العمل المخزنة على السحابة بالإضافة إلى إنشاء جدول بيانات جديد. يمكنك أيضًا تعديل كود Swift لمعالجة وتعديل التنسيق الشرطي والمخططات والمهام والأشكال والمرشحات و OleObjects والنطاقات و ListObjects والجداول المحورية ، من داخل تطبيقاتك دون تثبيت أي برنامج تابع لجهة خارجية.</p>
 <p>استخدم Aspose.Cells Cloud SDK لـ Swift لتحويل أوراق عمل Excel (XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM) و OpenOffice (ODS) إلى تنسيقات شائعة أخرى ، مثل XML (SpreadsheetML) و TSV و CSV و TXT (TabDelimited )، HTML، MHTML، DIF، TIFF، SVG، XPS، PDF & Markdown (MD). يمكنك أيضًا العمل مع تنسيقات SXC و FODS باستخدام Aspose.Cells Cloud SDK لـ Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -132,7 +132,7 @@ url: /ar/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /ar/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /ar/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-حذف OleObjects معينة أو كلها من ورقة العمل
+ حذف OleObjects معينة أو كلها من ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
@@ -262,7 +262,7 @@ Cloud SDK لمعالجة أوراق العمل
  Aspose.Cells Cloud SDK لـ Swift يسمح لك بإضافة جدول محوري إلى ورقة العمل ، إضافة أو حذف الحقول المحورية في الجدول المحوري ، إضافة أو إزالة عامل التصفية المحوري لفهرس الجدول المحوري ، وتحديث نمط الخلية للجدول المحوري ، وحساب بيانات الجدول المحوري إلى الخلايا.
     </p>
     <p>
-يمكن أيضًا استخدام Aspose.Cells Cloud SDK لـ Swift للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف ، وتعيين عرض النطاق للعمود ، ودمج نطاق من الخلايا في خلية واحدة ، ونقل النطاق الحالي إلى النطاق الوجهة ، والمجموعات حد المخطط التفصيلي حول نطاق من الخلايا. ، قم بتعيين ارتفاع الصف من النطاق ، وقم بتعيين نمط النطاق ، وإلغاء دمج الخلايا المدمجة في هذا النطاق ، ووضع قيمة في النطاق وتحويل نوع بياناته ، ونسخ النطاق في ورقة العمل.
+يمكن أيضًا استخدام Aspose.Cells Cloud SDK لـ Swift للحصول على قائمة الخلايا في نطاق حسب اسم النطاق أو فهارس أعمدة الصف ، وتعيين عرض العمود للنطاق ، ودمج نطاق من الخلايا في خلية واحدة ، ونقل النطاق الحالي إلى النطاق الوجهة ، والمجموعات حد المخطط التفصيلي حول نطاق من الخلايا. ، قم بتعيين ارتفاع الصف من النطاق ، وقم بتعيين نمط النطاق ، وإلغاء دمج الخلايا المدمجة لهذا النطاق ، ووضع قيمة في النطاق وتحويل نوع بياناته ، ونسخ النطاق في ورقة العمل.
     </p>
    </div>
   </div>

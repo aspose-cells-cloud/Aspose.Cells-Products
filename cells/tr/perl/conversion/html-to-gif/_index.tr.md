@@ -1,6 +1,6 @@
 ﻿---
-title: HTML'den GIF'e Dönüştür API for Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  HTML'den GIF'e Dönüştür API for Perl
+description:  HTML biçimindeki dosyayı GIF biçimindeki dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

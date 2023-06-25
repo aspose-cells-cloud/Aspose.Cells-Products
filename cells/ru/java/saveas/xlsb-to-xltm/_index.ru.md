@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XLTM API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB в виде файла формата XLTM.
 url: /ru/java/saveas/xlsb-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى XLSX تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSB إلى ملف بتنسيق XLSX.
 url: /ar/java/conversion/xlsb-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

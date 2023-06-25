@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLSX'ten XLTX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçim dosyasını XLTX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/xlsx-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -30,7 +30,7 @@ Dosya formatlarını XLSX'ten XLTX'e dönüştürmek karmaşık bir iştir. Tüm
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLSX\'i XLTX\'e dönüştürmek için Ruby API nasıl kullanılır?" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="XLSX\'i XLTX\'ye dönüştürmek için Ruby API nasıl kullanılır?" >}}
 <li> adresinde bir hesap oluşturun<a href="https://dashboard.aspose.cloud/">Gösterge Paneli</a> Ücretsiz almak için API kota & yetkilendirme detayları</li>
 <li>CellsApi'yi İstemci Kimliği, İstemci Sırrı, Temel URL ve API sürümüyle başlatın</li>
 <li>Çağrı hücreleri_çalışma kitabı_koymak_dönüştürmek_sonuç akışını almak için çalışma kitabı yöntemi</li>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer CSV sous MHTML API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/saveas/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/saveas/csv-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format MHTML dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant que MHTML est une tâche complexe. Toutes les transitions de format CSV vers MHTML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MHTML parfaite.
+L'enregistrement de formats de fichiers CSV au format MHTML est une tâche complexe. Toutes les transitions de format CSV vers MHTML sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie MHTML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer CSV au format MHTML" gistPath="" %}}

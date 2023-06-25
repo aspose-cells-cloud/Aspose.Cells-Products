@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrez JSON sous SVG API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/saveas/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JSON sous SVG" h2="Bibliothèque Swift pour enregistrer JSON sous SVG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JSON sous SVG et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/json-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier JSON sous SVG dans Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON sous SVG dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers à partir de JSON sous le nom SVG est une tâche complexe. Toutes les transitions de format JSON vers SVG sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer en ligne des fichiers JSON sous le format SVG. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie SVG parfaite.

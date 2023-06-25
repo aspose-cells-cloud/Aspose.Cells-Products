@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLSB как TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSB в виде файла формата TXT.
 url: /ru/android/saveas/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLSB как TXT" h2="Библиотека Android для сохранения XLSB как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLSB как TXT и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsb-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLSB как TXT" h2="Библиотека Android для сохранения XLSB как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLSB как TXT и других форматов документов в Интернете с помощью Android." urlsection="saveas/xlsb-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как TXT в Android" >}}

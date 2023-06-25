@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les styles sur Microsoft Excel et Op
 url: /fr/go/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les styles sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les styles sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les styles sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Go. Cette solution professionnelle efface les styles sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les styles sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les styles sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les styles sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Go. Cette solution professionnelle efface les styles sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les styles sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Go REST API" >}}

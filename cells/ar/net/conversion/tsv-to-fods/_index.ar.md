@@ -1,6 +1,6 @@
 ﻿---
-title: TSV إلى FODS - تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  TSV إلى FODS - تحويل API إلى C#
+description: استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق TSV إلى ملف بتنسيق FODS.
 url: /ar/net/conversion/tsv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

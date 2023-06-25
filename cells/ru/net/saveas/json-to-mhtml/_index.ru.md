@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как MHTML API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата JSON в виде файла формата MHTML.
 url: /ru/net/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

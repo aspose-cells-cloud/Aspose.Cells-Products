@@ -1,16 +1,16 @@
 ﻿---
-title: ODS in XPS Wandeln Sie API in PHP um
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  ODS in XPS Konvertieren Sie API in PHP
+description:  Verwenden des Cloud SDK Aspose.Cells für PHP zum Konvertieren der ODS-Formatdatei in die Formatdatei XPS.
 url: /de/php/conversion/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um ODS in XPS umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von ODS in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von ODS in XPS und andere Dokumentformate unter Verwendung von PHP." urlsection="conversion/ods-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um ODS in XPS umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von ODS in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um ODS in XPS und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/ods-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in XPS in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS nach XPS ist eine komplexe Aufgabe. Alle Formatübergänge von ODS zu XPS werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um ODS-Dateien online in XPS-Dateien zu konvertieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS in XPS ist eine komplexe Aufgabe. Alle ODS-Formatübergänge in das XPS-Format werden von unserem PHP-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in XPS-Dateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte XPS Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von ODS in das XPS-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von ODS nach XPS ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ODS in XPS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ODS in XPS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

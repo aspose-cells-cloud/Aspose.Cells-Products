@@ -4,7 +4,7 @@ description: API cloud e SDK per la cancellazione delle formule su Microsoft Exc
 url: /it/ruby/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le formule sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le formule sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Chiare formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

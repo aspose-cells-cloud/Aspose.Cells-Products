@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ FODS API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XML كملف بتنسيق FODS.
 url: /ar/go/saveas/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

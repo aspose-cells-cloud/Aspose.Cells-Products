@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как XLSB API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JSON в виде файла формата XLSB.
 url: /ru/php/saveas/json-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/json-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как XLSB в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде XLSB — сложная задача. Все переходы форматов JSON в XLSB выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека PHP — это профессиональное решение для сохранения JSON в виде файлов XLSB онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Сохранение форматов файлов из JSON в виде XLSB — сложная задача. Все переходы форматов JSON в XLSB выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека PHP — это профессиональное решение для сохранения JSON в виде файлов XLSB онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения JSON в формате XLSB" gistPath="" %}}

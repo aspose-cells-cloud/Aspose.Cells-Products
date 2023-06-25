@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar el fondo en Microsoft Excel y Open
 url: /es/perl/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Fondo claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar el fondo en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra el fondo en Microsoft Excel local y la hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Fondo claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar el fondo en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra el fondo en Microsoft Excel local y la hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar fondo en Microsoft Excel local y hoja de cálculo de OpenOffice Calc - Perl REST API" >}}

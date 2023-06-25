@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JSON как JPG API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата JSON в виде файла формата JPG.
 url: /ru/python/saveas/json-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

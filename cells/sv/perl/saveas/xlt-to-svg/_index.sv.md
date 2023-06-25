@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som SVG API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som SVG-fil.
 url: /sv/perl/saveas/xlt-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

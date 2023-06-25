@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ JSON بصيغة GIF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JSON كملف بتنسيق GIF.
 url: /ar/android/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JSON بصيغة GIF" h2="مكتبة Android لحفظ JSON بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ JSON بصيغة GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JSON بصيغة GIF" h2="مكتبة Android لحفظ JSON بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JSON بصيغة GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/json-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON بصيغة GIF في Android" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Elektronik Tabloları Okuyun, Yazın, Görüntüleyin ve Dönüştürün (via C# REST SDK)
-description: C#, ASP.NET ve diğer .NET destekli diller için SDK'lar, Excel ve OpenOffice elektronik tablolarını işlemek üzere bulut tabanlı uygulamalar geliştirmek için
+description:  C#, ASP.NET ve diğer .NET destekli diller için SDK'lar, Excel ve OpenOffice elektronik tablolarını işlemek üzere bulut tabanlı uygulamalar geliştirmek için
 weight: 70
 url: /tr/net
 ---
@@ -125,7 +125,7 @@ url: /tr/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Excel dosyasında belirtilen bir yere bir ListObject ekleyin
+ Excel dosyasında belirtilen bir yere bir ListObject ekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ Excel dosyasında belirtilen bir yere bir ListObject ekleyin
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -167,7 +167,7 @@ Excel dosyasında belirtilen bir yere bir ListObject ekleyin
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ Excel dosyasında belirtilen bir yere bir ListObject ekleyin
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
- ve uygulama bilgilerinizi alın. Hepsi bu! Aspose.Cells Bulut SDK for .NET'i kullanmaya hazırsınız.
+ve uygulama bilgilerinizi alın. Hepsi bu! Aspose.Cells Bulut SDK for .NET'i kullanmaya hazırsınız.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET, elektronik tabloları oluşturmak, düzenlemek ve diğer popüler dosya biçimlerine dönüştürmek için tüm özellikleri sağlar.
@@ -233,7 +233,7 @@ Excel dosyasında belirtilen bir yere bir ListObject ekleyin
  Okumak için Bulut SDK'sı &amp; İşlem Excel Çalışma Sayfaları
     </h2>
     <p>
-Aspose.Cells Cloud SDK for .NET'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplandırın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+Aspose.Cells Cloud SDK for .NET'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyala, çalışma sayfası satırlarını ve sütunlarını gruplandır, çalışma sayfası satırlarını ve sütunlarını gizle, çalışma sayfası sütun ve satır stillerini ayarla, HTMLSTRING değerini hücreye ayarla, hücre aralığı değerini ayarla ve diğer birçok çalışma sayfası ayarını değiştir.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,10 +1,10 @@
 ﻿---
-title: Экспорт LISTOBJECT в ODS из электронной таблицы с использованием Ruby API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Экспорт LISTOBJECT в ODS из электронной таблицы с использованием Ruby API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/ruby/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта LISTOBJECT в файл ODS" h2="Библиотека Ruby для экспорта LISTOBJECT в файл ODS" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата ODS из электронной таблицы онлайн с использованием Ruby." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта LISTOBJECT в файл ODS" h2="Библиотека Ruby для экспорта LISTOBJECT в файл ODS" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Ruby. Это профессиональное решение для экспорта LISTOBJECT в файл формата ODS из электронной таблицы онлайн с использованием Ruby." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата ODS в Ruby" >}}

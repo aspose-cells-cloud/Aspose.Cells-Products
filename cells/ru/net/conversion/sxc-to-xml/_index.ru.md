@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование SXC в XML API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование SXC в XML API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата SXC в файл формата XML.
 url: /ru/net/conversion/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

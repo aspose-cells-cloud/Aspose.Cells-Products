@@ -1,6 +1,6 @@
 ﻿---
 title:  XML إلى FODS قم بتحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XML إلى ملف بتنسيق FODS.
 url: /ar/go/conversion/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

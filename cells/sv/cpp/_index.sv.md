@@ -1,5 +1,5 @@
 ﻿---
-title: " CPP Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
+title: "CPP Cloud SDK för att generera, redigera och konvertera Excel filer via REST API:er"
 description:  Använd cURL-kommandon för att skapa kalkylarks- och omvandlarappar som får åtkomst till Microsoft Excel- och OpenOffice-filer från molnlagring för bearbetning
 weight: 50
 url: /sv/cpp

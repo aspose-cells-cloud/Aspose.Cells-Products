@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLTM come SXC API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLTM come SXC API per Python
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato XLTM come file in formato SXC.
 url: /it/python/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

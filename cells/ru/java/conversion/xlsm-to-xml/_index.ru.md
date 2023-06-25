@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSM в XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSM в файл формата XML.
 url: /ru/java/conversion/xlsm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/xlsm-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в XML в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в XML — сложная задача. Все переходы форматов XLSM в XML выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSM в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из XLSM в XML — сложная задача. Все переходы формата XLSM в формат XML выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSM в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSM в формат XML" gistPath="" %}}

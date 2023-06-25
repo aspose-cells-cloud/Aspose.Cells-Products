@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ HTML API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق XML كملف بتنسيق HTML.
 url: /ar/ruby/saveas/xml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

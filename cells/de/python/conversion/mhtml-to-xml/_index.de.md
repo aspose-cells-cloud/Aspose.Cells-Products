@@ -1,16 +1,16 @@
 ﻿---
-title:  MHTML in XML Konvertieren Sie API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  MHTML in XML konvertieren API für Python
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer MHTML-Formatdatei in eine XML-Formatdatei.
 url: /de/python/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von MHTML in XML" h2="Python Bibliothek zum Konvertieren von MHTML in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von MHTML in XML und andere Dokumentformate unter Verwendung von Python." urlsection="conversion/mhtml-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von MHTML in XML" h2="Python-Bibliothek zum Konvertieren von MHTML in XML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um MHTML in XML und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/mhtml-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in XML in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu XML werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von MHTML- in XML-Dateien. Dieses Cloud SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. Alle MHTML-zu-XML-Formatübergänge werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML- in XML-Dateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von MHTML in das XML-Format" gistPath="" %}}
@@ -28,10 +28,10 @@ Das Konvertieren von Dateiformaten von MHTML in XML ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Wie man Python API verwendet, um MHTML in XML zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API zum Konvertieren von MHTML in XML" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

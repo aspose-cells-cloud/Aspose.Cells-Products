@@ -1,6 +1,6 @@
 ﻿---
-title:  XLT إلى TXT تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLT إلى TXT تحويل API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLT إلى ملف بتنسيق TXT.
 url: /ar/net/conversion/xlt-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

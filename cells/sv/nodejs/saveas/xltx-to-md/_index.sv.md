@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som MD API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTX-formatfil som MD-formatfil.
 url: /sv/nodejs/saveas/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

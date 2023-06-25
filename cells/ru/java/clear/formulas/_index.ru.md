@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки формул на
 url: /ru/java/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Java Очистить формулы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Очистить REST API для очистки формул в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает формулы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Java." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Java Очистить формулы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает формулы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Java." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы на локальном Microsoft Excel и электронной таблице OpenOffice Calc - Java REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV till DOCX Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i TSV-format till fil i DOCX-format.
 url: /sv/php/conversion/tsv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

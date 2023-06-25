@@ -159,7 +159,7 @@ Gelişmiş Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ Gelişmiş Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Çalışma sayfasından belirli veya tüm OleObject'leri silin
+ Çalışma sayfasından belirli veya tüm OleObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -187,7 +187,7 @@ Gelişmiş Elektronik Tablo İşleme Özellikleri
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">

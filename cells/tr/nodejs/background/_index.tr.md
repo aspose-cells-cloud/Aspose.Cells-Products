@@ -1,14 +1,14 @@
 ﻿---
-title:  Arka plan
-description: Aspose.Cells Cloud REST API, Excel dosyası için ayarlanmış arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  NodeJS ile arka planı ayarla
+description: Aspose.Cells Cloud REST API, NodeJS ile Excel dosyası için ayarlanmış arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/nodejs/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Arka plan" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, Excel dosyası için ayarlanmış arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS ile arka planı ayarla" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, NodeJS ile Excel dosyası için ayarlanmış arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Arka Plan Uzantısı bağlantıları" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="NodeJS Uzantısı bağlantılarıyla arka planı ayarlayın" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

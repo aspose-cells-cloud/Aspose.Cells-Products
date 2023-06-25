@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar NÚMEROS como DIF API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar NÚMEROS como DIF API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato NUMBERS como archivo de formato DIF.
 url: /es/perl/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

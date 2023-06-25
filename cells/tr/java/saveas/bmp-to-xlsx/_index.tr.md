@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i XLSX API for Java olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını XLSX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/java/saveas/bmp-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Java\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i XLSX formatı olarak kaydetmek için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}

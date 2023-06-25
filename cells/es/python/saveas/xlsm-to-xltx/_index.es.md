@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar XLSM como XLTX API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar XLSM como XLTX API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato XLSM como archivo de formato XLTX.
 url: /es/python/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

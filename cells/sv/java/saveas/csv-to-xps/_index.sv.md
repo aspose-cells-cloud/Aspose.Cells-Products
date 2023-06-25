@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som XPS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara CSV-formatfilen som XPS-fil.
 url: /sv/java/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

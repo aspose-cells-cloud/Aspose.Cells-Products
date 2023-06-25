@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS till SVG Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: NUMBERS till SVG Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera NUMBERS-formatfil till SVG-fil.
 url: /sv/net/conversion/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

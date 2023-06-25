@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar contenido en Microsoft Excel y Op
 url: /es/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo Microsoft Excel locales y OpenOffice Calc en Android. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo Microsoft Excel locales y OpenOffice Calc en Android. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

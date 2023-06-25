@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG till PNG Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i JPG-format till fil i PNG-format.
 url: /sv/nodejs/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

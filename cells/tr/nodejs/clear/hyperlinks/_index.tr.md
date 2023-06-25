@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. üzerindeki köprüleri temizl
 url: /tr/nodejs/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki köprüleri temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizler." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki köprüleri temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizler." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizle - NodeJS REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLT как FODS API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLT как FODS API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLT в качестве файла формата FODS.
 url: /ru/python/saveas/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

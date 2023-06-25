@@ -4,23 +4,23 @@ description: Aspose.Cells Cloud REST API 支持将 Excel 文件和内部对象�
 url: /zh/android/export/ods-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="将 ODS 导出到云端的 XLSX 文件" h2="Excel & 使用开源 Cloud SDK for Android 导出 OpenOffice 电子表格" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="将 ODS 导出到云端的 XLSX 文件" h2="Excel & 使用适用于 Android 的开源 Cloud SDK 导出 OpenOffice 电子表格" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="在 Cloud SDK for Android 中将 ODS 导出到 XLSX 文件" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息
-1. 使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 ```CellsApi```
-1. 调用 ```cellsWorkbookPutConvertWorkbook``` 方法获取生成的 XLSX 流
+{{% blocks/products/pf/agp/feature-section-col title="在适用于 Android 的 Cloud SDK 中将 ODS 导出为 XLSX 文件" %}}
+1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
+1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
+1. 调用```cellsWorkbookPutConvertWorkbook```方法获取生成的XLSX流
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel REST API" %}}
-获取Excel Cloud SDK for .NET源码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android)自己编译 SDK 或前往[发布](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases)替代下载选项。
+获取 Excel Cloud SDK for .NET 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android)自己编译 SDK 或前往[发布](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/releases)以获得替代下载选项。
 
-也可以看看基于 Swagger 的[API 参考]()了解更多[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
+另请查看基于 Swagger 的[API 参考]()了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="ODS 到 XLSX 转换的 Android 代码" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="用于 ODS 到 XLSX 转换的 Android 代码" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
     import java.io.File;

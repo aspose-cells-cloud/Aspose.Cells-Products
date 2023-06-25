@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTM en MHTML API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLTM en fichier au format MHTML.
 url: /fr/android/conversion/xltm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

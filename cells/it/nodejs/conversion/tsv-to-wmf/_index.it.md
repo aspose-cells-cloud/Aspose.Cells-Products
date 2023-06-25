@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da TSV a WMF API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato TSV in un file in formato WMF.
 url: /it/nodejs/conversion/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

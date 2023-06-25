@@ -1,6 +1,6 @@
 ﻿---
-title: CSV till DIF Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  CSV till DIF Konvertera API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera CSV-formatfil till DIF-formatfil.
 url: /sv/python/conversion/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

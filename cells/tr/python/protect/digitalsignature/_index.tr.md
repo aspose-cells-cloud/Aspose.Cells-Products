@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc dijital imzası için Bulut API
 url: /tr/python/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla birlikte OpenOffice Calc elektronik tablosuna" h2="Python kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve Python\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. Python." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla birlikte OpenOffice Calc elektronik tablosuna" h2="Python kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve Python\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. Python." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dijital imza bulutu Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu - Python REST API" >}}

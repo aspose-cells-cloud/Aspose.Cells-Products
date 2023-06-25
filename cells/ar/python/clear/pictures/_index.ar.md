@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصور على Microsoft Excel & Open
 url: /ar/python/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي واضح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي واضح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Python REST API" >}}

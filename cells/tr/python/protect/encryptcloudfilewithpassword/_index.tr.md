@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/python/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API bulutu korumak için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Python bulutu korumak için kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Python\'deki parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Microsoft Microsoft bulutunu ve Python\'i kullanan parolalarla çevrimiçi OpenOffice Calc elektronik tablosunu korur." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API bulutu korumak için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Python bulutu korumak için kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Python\'deki parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Microsoft Microsoft bulutunu ve Python\'i kullanan parolalarla çevrimiçi OpenOffice Calc elektronik tablosunu korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle - Python REST API" >}}

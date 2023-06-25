@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde NÚMEROS como SXC API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/saveas/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/saveas/numbers-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como SXC en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como SXC es una tarea compleja. Todas las transiciones de formato de NUMBERS a SXC las realiza nuestro SDK de Swift mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para guardar NÚMEROS como archivos SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y un resultado SXC perfecto.
+Guardar formatos de archivo de NUMBERS como SXC es una tarea compleja. Todas las transiciones de formato de NUMBERS a SXC las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Swift es una solución profesional para guardar NÚMEROS como archivos SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar NÚMEROS como formato SXC" gistPath="" %}}

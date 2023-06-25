@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как DIF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSX в виде файла формата DIF.
 url: /ru/python/saveas/xlsx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -30,7 +30,7 @@ url: /ru/python/saveas/xlsx-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API для сохранения XLSX в формате DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Python API, чтобы сохранить XLSX как DIF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>

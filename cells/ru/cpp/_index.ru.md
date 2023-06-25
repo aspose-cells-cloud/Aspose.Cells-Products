@@ -1,5 +1,5 @@
 ﻿---
-title:  CPP Cloud SDK для создания, редактирования и преобразования файлов Excel via REST API
+title: CPP Cloud SDK для создания, редактирования и преобразования файлов Excel via REST API
 description:  Используйте команды cURL для создания приложений для создания и преобразования электронных таблиц, которые получают доступ к файлам Microsoft Excel и OpenOffice из облачного хранилища для обработки
 weight: 50
 url: /ru/cpp
@@ -43,7 +43,7 @@ url: /ru/cpp
 {{< blocks/products/pf/carousel-item h2="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>

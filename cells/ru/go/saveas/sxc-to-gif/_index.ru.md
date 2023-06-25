@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как GIF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата SXC в виде файла формата GIF.
 url: /ru/go/saveas/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/sxc-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC в формате GIF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в формате GIF — сложная задача. Все переходы форматов SXC в GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go — это профессиональное решение для сохранения SXC в виде файлов GIF онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из SXC в формате GIF — сложная задача. Все переходы формата SXC в формат GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Go — это профессиональное решение для сохранения SXC в виде файлов GIF онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения SXC в формате GIF" gistPath="" %}}

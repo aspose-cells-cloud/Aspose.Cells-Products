@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить XLSX как GIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSX в виде файла формата GIF.
 url: /ru/ruby/saveas/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLSX в формате GIF" h2="Библиотека Ruby для сохранения XLSX в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSX в формате GIF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlsx-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLSX в формате GIF" h2="Библиотека Ruby для сохранения XLSX в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSX в виде GIF и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlsx-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в формате GIF — сложная задача. Все переходы между форматами XLSX и GIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из XLSX в формате GIF — сложная задача. Все переходы между форматами XLSX и GIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLSX в формате GIF" gistPath="" %}}

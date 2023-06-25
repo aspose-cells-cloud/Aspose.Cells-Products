@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLSM come XLSX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLSM come XLSX API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLSM come file in formato XLSX.
 url: /it/php/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

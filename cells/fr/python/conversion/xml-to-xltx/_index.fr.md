@@ -1,6 +1,6 @@
 ﻿---
-title:  XML en XLTX Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: XML en XLTX Convertir API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XML en fichier au format XLTX.
 url: /fr/python/conversion/xml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT till GIF Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLT-format till fil i GIF-format.
 url: /sv/perl/conversion/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

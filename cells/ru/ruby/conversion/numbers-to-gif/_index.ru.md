@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to GIF Convert API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата NUMBERS в файл формата GIF.
 url: /ru/ruby/conversion/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/numbers-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в GIF — сложная задача. Все переходы NUMBERS в формат GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в GIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из NUMBERS в GIF — сложная задача. Все переходы NUMBERS в формат GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в GIF. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования NUMBERS в формат GIF" gistPath="" %}}

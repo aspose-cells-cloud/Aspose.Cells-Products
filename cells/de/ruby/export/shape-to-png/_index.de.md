@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie SHAPE nach PNG aus der Tabelle mit Ruby API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie SHAPE aus der Tabelle mit Ruby API nach PNG
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/ruby/export/shape-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren von SHAPE in die Datei PNG" h2="Ruby-Bibliothek zum Exportieren von SHAPE in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von SHAPE-Dateien in das Format PNG aus einer Online-Tabelle mit Ruby." urlsection="export/shape-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren von SHAPE in die Datei PNG" h2="Ruby-Bibliothek zum Exportieren von SHAPE in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung, um SHAPE online mit Ruby aus einer Tabellenkalkulation in das Format PNG zu exportieren." urlsection="export/shape-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in die Formatdatei PNG in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im Format PNG in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des SHAPE-Objekts in die Datei PNG aus der Tabelle ist eine komplexe Aufgabe. Der Export von SHAPE in PNG-Formatübergänge wird von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von SHAPE-Formatübergängen in das PNG-Format wird von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im Format PNG. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte PNG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Exportieren von SHAPE in das Format PNG aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Exportieren von SHAPE in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -36,14 +36,14 @@ Das Exportieren des SHAPE-Objekts in die Datei PNG aus der Tabelle ist eine komp
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um SHAPE nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

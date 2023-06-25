@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как XLS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата GIF в виде файла формата XLS.
 url: /ru/go/saveas/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

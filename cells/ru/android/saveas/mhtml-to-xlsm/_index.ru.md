@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как XLSM API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата MHTML в виде файла формата XLSM.
 url: /ru/android/saveas/mhtml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSM в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
+Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы между форматами MHTML и XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения MHTML в формате XLSM" gistPath="" %}}

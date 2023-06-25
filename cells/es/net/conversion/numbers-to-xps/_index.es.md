@@ -1,6 +1,6 @@
 ﻿---
-title:  NÚMEROS a XPS Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: NÚMEROS a XPS Convertir API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato NUMBERS a un archivo de formato XPS.
 url: /es/net/conversion/numbers-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

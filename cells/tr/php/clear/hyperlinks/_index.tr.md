@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. üzerindeki köprüleri temizl
 url: /tr/php/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için PHP API" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve PHP\'deki OpenOffice Calc hesap tablosu iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri PHP kullanarak temizler. ." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için PHP API" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve PHP\'deki OpenOffice Calc hesap tablosu iş akışlarındaki köprüleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri PHP kullanarak temizler. ." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki köprüleri temizle - PHP REST API" >}}

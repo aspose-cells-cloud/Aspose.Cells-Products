@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование EMF в GIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование EMF в GIF API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата GIF.
 url: /ru/ruby/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/emf-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в GIF — сложная задача. Все переходы EMF в формат GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации EMF в файлы GIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из EMF в GIF — сложная задача. Все переходы EMF в формат GIF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации EMF в файлы GIF. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования EMF в формат GIF" gistPath="" %}}

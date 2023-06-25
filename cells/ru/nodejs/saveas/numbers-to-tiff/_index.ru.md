@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить НОМЕРА как TIFF API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата NUMBERS как файла формата TIFF.
 url: /ru/nodejs/saveas/numbers-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения NUMBERS как TIFF" h2="Библиотека NodeJS для сохранения NUMBERS как TIFF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения NUMBERS как TIFF и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/numbers-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения NUMBERS как TIFF" h2="Библиотека NodeJS для сохранения NUMBERS как TIFF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения NUMBERS как TIFF и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/numbers-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как TIFF в NodeJS." >}}

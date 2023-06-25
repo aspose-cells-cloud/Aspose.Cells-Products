@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. üzerindeki resimleri temizleme
 url: /tr/android/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Android API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri netleştirir." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Android API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri netleştirir." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda net resimler - Android REST API" >}}

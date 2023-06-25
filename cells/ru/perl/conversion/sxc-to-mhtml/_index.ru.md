@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование SXC в MHTML API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата SXC в файл формата MHTML.
 url: /ru/perl/conversion/sxc-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/sxc-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в MHTML в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в MHTML — сложная задача. Все переходы формата SXC в формат MHTML выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в MHTML. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из SXC в MHTML — сложная задача. Все переходы формата SXC в формат MHTML выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в MHTML. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования SXC в формат MHTML" gistPath="" %}}

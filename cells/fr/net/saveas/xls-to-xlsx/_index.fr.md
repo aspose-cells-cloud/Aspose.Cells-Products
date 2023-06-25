@@ -1,13 +1,13 @@
 ﻿---
-title:  Enregistrez XLS sous XLSX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLS sous XLSX API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLS en tant que fichier au format XLSX.
 url: /fr/net/saveas/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLS en XLSX" h2="bibliothèque C# pour enregistrer XLS en XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format XLSX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS sous XLSX dans C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS sous XLSX au C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers XLS au format XLSX est une tâche complexe. Toutes les transitions de format XLS vers XLSX sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLS au format XLSX. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XLSX parfaite.

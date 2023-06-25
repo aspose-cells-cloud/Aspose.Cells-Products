@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как PPTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата MHTML как файла формата PPTX.
 url: /ru/go/saveas/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/mhtml-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как PPTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде PPTX — сложная задача. Все переходы формата MHTML в PPTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение форматов файлов из MHTML в виде PPTX — сложная задача. Все переходы между форматами MHTML и PPTX выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения MHTML в формате PPTX" gistPath="" %}}

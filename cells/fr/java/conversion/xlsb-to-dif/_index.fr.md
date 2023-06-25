@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en DIF API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format XLSB en fichier au format DIF.
 url: /fr/java/conversion/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till SXC Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera HTML filformat till SXC format fil.
 url: /sv/net/conversion/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

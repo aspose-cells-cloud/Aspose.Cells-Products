@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTX как PNG API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTX как файла формата PNG.
 url: /ru/perl/saveas/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

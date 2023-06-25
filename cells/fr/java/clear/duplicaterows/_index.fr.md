@@ -1,10 +1,10 @@
 ﻿---
-title:  Effacer les lignes en double sur le classeur local dans le cloud
-description: API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc. Effacez les lignes en double sur les feuilles de calcul locales par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Effacer les lignes en double sur le classeur local avec Java dans le Cloud
+description:  API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc avec Java. Effacer les lignes en double sur les feuilles de calcul locales par le Cells Cloud API SDK for Java
 url: /fr/java/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Java Effacer pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Effacer REST API pour effacer les lignes en double sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans Java. Cette solution professionnelle efface les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Java." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Java Effacer pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Effacer REST API pour effacer les lignes en double sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans Java. Cette solution professionnelle efface les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Java." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Java REST API" >}}

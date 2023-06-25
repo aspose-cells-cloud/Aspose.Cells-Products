@@ -1,6 +1,6 @@
 ﻿---
-title:  NodeJS için JSON'dan DIF'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NodeJS için JSON'dan DIF'ye Dönüştürme API
+description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

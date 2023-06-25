@@ -1,5 +1,5 @@
 ﻿---
-title:  CPP Cloud SDK per generare, modificare e convertire Excel file via API REST
+title: CPP Cloud SDK per generare, modificare e convertire Excel file via API REST
 description:  Utilizza i comandi cURL per creare app di creazione e conversione di fogli di calcolo che accedono ai file Microsoft Excel e OpenOffice dall'archivio cloud per l'elaborazione
 weight: 50
 url: /it/cpp

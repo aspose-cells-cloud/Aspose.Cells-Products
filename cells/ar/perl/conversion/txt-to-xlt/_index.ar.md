@@ -1,6 +1,6 @@
 ﻿---
-title: TXT إلى XLT ، تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  TXT إلى XLT ، تحويل API لـ Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق TXT إلى ملف بتنسيق XLT.
 url: /ar/perl/conversion/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

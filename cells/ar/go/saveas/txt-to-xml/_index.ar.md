@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT بتنسيق XML API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق TXT كملف بتنسيق XML.
 url: /ar/go/saveas/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

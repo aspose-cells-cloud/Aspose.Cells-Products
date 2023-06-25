@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как MD API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата JPG в виде файла формата MD.
 url: /ru/ruby/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить JPG как MD" h2="Библиотека Ruby для сохранения JPG как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения JPG как MD и других форматов документов онлайн с использованием Ruby." urlsection="saveas/jpg-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить JPG как MD" h2="Библиотека Ruby для сохранения JPG как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения JPG как MD и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/jpg-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как MD в Ruby" >}}

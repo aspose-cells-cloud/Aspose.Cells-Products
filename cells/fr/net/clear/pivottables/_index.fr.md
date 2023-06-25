@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les tableaux croisés dynamiques sur 
 url: /fr/net/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les tableaux croisés dynamiques sur les workflows locaux Microsoft Excel et OpenOffice Calc dans C#. Cette solution professionnelle efface les tableaux croisés dynamiques sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les tableaux croisés dynamiques sur les workflows locaux Microsoft Excel et OpenOffice Calc dans C#. Cette solution professionnelle efface les tableaux croisés dynamiques sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - C# REST API" >}}

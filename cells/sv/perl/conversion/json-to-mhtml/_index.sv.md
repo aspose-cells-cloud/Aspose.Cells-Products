@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON till MHTML Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: JSON till MHTML Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i JSON-format till fil i MHTML-format.
 url: /sv/perl/conversion/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

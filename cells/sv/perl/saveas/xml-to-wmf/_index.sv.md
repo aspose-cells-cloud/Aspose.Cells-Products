@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XML som WMF API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XML som WMF API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XML-formatfil som WMF-formatfil.
 url: /sv/perl/saveas/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

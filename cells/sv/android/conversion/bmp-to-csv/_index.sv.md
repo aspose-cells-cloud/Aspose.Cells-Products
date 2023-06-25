@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till CSV Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera BMP filformat till CSV-format fil.
 url: /sv/android/conversion/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

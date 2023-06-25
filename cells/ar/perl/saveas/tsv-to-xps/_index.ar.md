@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV كـ XPS API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق TSV كملف بتنسيق XPS.
 url: /ar/perl/saveas/tsv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte el LIBRO DE TRABAJO a HTML desde la hoja de cálculo usando NodeJS API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/nodejs/export/workbook-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

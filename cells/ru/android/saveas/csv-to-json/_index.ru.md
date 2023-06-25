@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить CSV как JSON API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата CSV в виде файла формата JSON.
 url: /ru/android/saveas/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения CSV как JSON" h2="Библиотека Android для сохранения CSV как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения CSV в виде JSON и других форматов документов в Интернете с помощью Android." urlsection="saveas/csv-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения CSV как JSON" h2="Библиотека Android для сохранения CSV как JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения CSV в виде JSON и других форматов документов онлайн с помощью Android." urlsection="saveas/csv-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как JSON в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде JSON — сложная задача. Все переходы между форматами CSV и JSON выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения CSV в виде файлов JSON в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из CSV в виде JSON — сложная задача. Все переходы формата CSV в формат JSON выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения CSV в виде файлов JSON в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения CSV в формате JSON" gistPath="" %}}

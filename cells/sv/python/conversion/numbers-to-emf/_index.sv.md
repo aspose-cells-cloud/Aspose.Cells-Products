@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS till EMF Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: NUMBERS till EMF Konvertera API till Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera NUMBERS-formatfil till EMF-fil.
 url: /sv/python/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

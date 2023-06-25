@@ -1,6 +1,6 @@
 ﻿---
 title:  حفظ GIF باسم BMP API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق GIF كملف بتنسيق BMP.
 url: /ar/java/saveas/gif-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

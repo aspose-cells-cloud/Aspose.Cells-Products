@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в MHTML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата CSV в файл формата MHTML.
 url: /ru/java/conversion/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

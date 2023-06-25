@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как MD API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата SXC в качестве файла формата MD.
 url: /ru/net/saveas/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/sxc-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как MD — сложная задача. Все переходы формата SXC в формат MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из SXC как MD — сложная задача. Все переходы формата SXC в формат MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения SXC в формате MD" gistPath="" %}}

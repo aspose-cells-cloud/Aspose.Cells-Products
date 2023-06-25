@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как SQL API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSB в виде файла формата SQL.
 url: /ru/python/saveas/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

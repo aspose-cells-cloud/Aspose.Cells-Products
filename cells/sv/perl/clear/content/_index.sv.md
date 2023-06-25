@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Ex
 url: /sv/perl/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning rensar innehåll på lokalt Microsoft Microsoft 07161634 Calc 7481 07161634 och OpenOffice Calc 1761634 kalkylblad med OpenOffice 1761634 och OpenOffice." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Perl Rensa för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Perl. Denna professionella lösning rensar innehåll på lokalt Microsoft Microsoft 07161634 Calc 7481 07161634 och OpenOffice Calc 1761634 kalkylblad med OpenOffice 1761634 och OpenOffice." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad - Perl REST API" >}}

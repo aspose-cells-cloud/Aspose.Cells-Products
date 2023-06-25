@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da MHTML a WMF API for Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato MHTML in un file in formato WMF.
 url: /it/go/conversion/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

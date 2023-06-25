@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ XLSB كملف CSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSB كملف CSV API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSB كملف بتنسيق CSV.
 url: /ar/android/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSB كملف CSV" h2="مكتبة Android لحفظ XLSB كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSB كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsb-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSB كملف CSV" h2="مكتبة Android لحفظ XLSB كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSB كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsb-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كملف CSV في Android" >}}

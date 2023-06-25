@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل الأرقام إلى TXT API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق TXT.
 url: /ar/go/conversion/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

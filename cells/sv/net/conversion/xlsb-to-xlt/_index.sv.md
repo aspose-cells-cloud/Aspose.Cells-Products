@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB till XLT Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSB till XLT Konvertera API för C#
+description: Använda Aspose.Cells Cloud SDK för C# för att konvertera fil i XLSB-format till fil i XLT-format.
 url: /sv/net/conversion/xlsb-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

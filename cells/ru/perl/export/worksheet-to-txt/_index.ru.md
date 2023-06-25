@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт WORKSHEET в TXT из электронной таблицы с помощью Perl API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт WORKSHEET в TXT из электронной таблицы с помощью Perl API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/perl/export/worksheet-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

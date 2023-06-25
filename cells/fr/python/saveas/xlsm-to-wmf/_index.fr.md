@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez XLSM sous WMF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLSM sous WMF API pour Python
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSM en tant que fichier au format WMF.
 url: /fr/python/saveas/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva CSV come XLSX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato CSV come file in formato XLSX.
 url: /it/android/saveas/csv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file CSV come XLSX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da CSV come XLSX è un'attività complessa. Tutte le transizioni dal formato CSV a XLSX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo CSV di origine. La nostra libreria Android è una soluzione professionale per salvare CSV come file XLSX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSX.
+Il salvataggio dei formati di file da CSV come XLSX è un'attività complessa. Tutte le transizioni dal formato CSV a XLSX vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo CSV di origine. La nostra libreria Android è una soluzione professionale per salvare CSV come file XLSX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare CSV come formato XLSX" gistPath="" %}}

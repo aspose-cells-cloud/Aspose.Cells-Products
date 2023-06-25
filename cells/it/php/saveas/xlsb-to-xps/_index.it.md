@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSB come XPS API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLSB come file in formato XPS.
 url: /it/php/saveas/xlsb-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSB au format JPG API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XLSB en tant que fichier au format JPG.
 url: /fr/go/saveas/xlsb-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/saveas/xlsb-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format JPG dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XLSB au format JPG est une tâche complexe. Toutes les transitions de format XLSB à JPG sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers JPG. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie JPG parfaite.
+L'enregistrement de formats de fichiers XLSB au format JPG est une tâche complexe. Toutes les transitions de format XLSB vers JPG sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLSB. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers JPG. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer XLSB au format JPG" gistPath="" %}}

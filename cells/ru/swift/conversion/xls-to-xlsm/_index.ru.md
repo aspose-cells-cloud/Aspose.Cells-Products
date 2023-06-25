@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLS в XLSM API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xls-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в XLSM" h2="Библиотека Swift для преобразования XLS в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLS в XLSM и других форматов документов онлайн с помощью Swift." urlsection="conversion/xls-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLS в XLSM" h2="Библиотека Swift для преобразования XLS в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLS в XLSM и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xls-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в XLSM в Swift" >}}

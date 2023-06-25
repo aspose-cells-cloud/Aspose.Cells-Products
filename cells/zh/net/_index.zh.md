@@ -1,36 +1,36 @@
 ﻿---
 title: 读取、写入、查看和转换电子表格（via C# REST SDK）
-description: 用于 C#、ASP.NET 和其他 .NET 支持语言的 SDK，用于开发用于处理 Excel 和 OpenOffice 电子表格的基于云的应用程序
+description: 适用于 C#、ASP.NET 和其他 .NET 支持语言的 SDK，用于开发用于处理 Excel 和 OpenOffice 电子表格的基于云的应用程序
 weight: 70
 url: /zh/net
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="构建 Excel 查看器和转换器应用程序 via C# REST SDK" h2="用于 C#、ASP.NET 和其他 .NET 支持的语言的 Easy SDK 可开发用于处理 Excel 和 OpenOffice 电子表格的基于云的应用程序。" logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="版本 Excel 查看器和转换器应用程序 via C# REST SDK" h2="适用于 C#、ASP.NET 和其他 .NET 支持语言的 Easy SDK，用于开发用于处理 Excel 和 OpenOffice 电子表格的基于云的应用程序。" logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for .NET 通过无缝集成电子表格处理功能增强了 .NET 应用程序的功能，这些功能允许您基于云的程序访问和修改工作簿、工作表、电子表格、行以及单个单元格，而无需安装任何第三方软件。 Aspose.Cells Cloud SDK for .NET 在 MIT 许可证下分发。</p>
-<p>Aspose.Cells Cloud SDK for .NET 作为底层 Aspose.Cells REST API 的接口。它使您的 .NET 编程工作在处理数据透视表、OleObjects、ListObjects、任务、形状、超链接和评论时变得非常容易。</p>
-<p>使用 Aspose.Cells Cloud SDK for .NET，您可以启用您的 C# 代码来执行自动过滤以及将条件格式应用于电子表格。文件转换支持也非常全面，因为使用您的 .NET 云应用程序，您可以将 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 文档转换为 PDF、XPS、 SVG、TIFF，Markdown 和 DIF 格式。</p>
+<p>Aspose.Cells Cloud SDK for .NET 通过无缝集成电子表格处理功能来增强您的 .NET 应用程序的功能，这些功能允许您的基于云的程序访问和修改工作簿、工作表、电子表格、行以及单个单元格，而无需安装任何第三方软件。 Aspose.Cells Cloud SDK for .NET 根据 MIT 许可证分发。</p>
+<p>Aspose.Cells Cloud SDK for .NET 作为底层 Aspose.Cells REST API 的接口。在处理数据透视表、OleObjects、ListObjects、任务、形状、超链接和注释时，它使您的 .NET 编程工作变得非常轻松。</p>
+<p>使用 Aspose.Cells Cloud SDK for .NET，您可以启用 C# 代码来执行自动筛选以及对电子表格应用条件格式。文件转换支持也非常全面，因为使用 .NET 云应用程序，您可以将 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 文档转换为 PDF、XPS、 SVG、TIFF、Markdown 和 DIF 格式。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells Cloud 可以执行所有电子表格操作任务。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells 云可以执行所有电子表格操作任务。" >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-table"> </i>概述</header><ul><li>使用表格</li>
-<li>使用细胞</li>
+<li>与细胞一起工作</li>
 <li>使用图表</li>
 <li>使用超链接</li>
 <li>使用数据透视表</li>
-<li>使用图片和形状</li>
+<li>处理图片和形状</li>
 <li>使用验证</li>
 </ul></div>
 <!--/right--></div>
@@ -47,10 +47,10 @@ url: /zh/net
 <li><b>开发办公室：</b>消耗臭氧层物质</li>
 <li><b>电子表格ML：</b> XML</li>
 <li><b>文本：</b> CSV、TSV、TXT（制表符分隔）</li>
-<li><b>网址：</b> HTML, MHTML</li>
+<li><b>网址：</b> HTML，MHTML</li>
 </ul></div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>仅输入</header><ul><li>SXC, 食物</li>
+<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i>仅输入</header><ul><li>SXC、FODS</li>
 </ul><header><i class="fa  fa-mail-forward"> </i>仅输出</header><ul><li>DIF、PDF、XPS、TIFF、SVG、MD（降价）</li>
 </ul></div>
 <!--/right--></div>
@@ -75,7 +75,7 @@ url: /zh/net
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高级 Aspose.Cells Cloud SDK for .NET 功能
+高级 Aspose.Cells 云 SDK for .NET 功能
    </h2>
    <p>
    </p>
@@ -104,14 +104,14 @@ url: /zh/net
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-获取、更新、显示或隐藏图表图例 &amp;标题
+获取、更新、显示或隐藏图表图例和图表图例标题
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-添加或删除条件格式的单元格区域
+添加或删除单元格区域以进行条件格式设置
     </p>
    </div>
    <div class="col-lg-4">
@@ -125,7 +125,7 @@ url: /zh/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-在Excel文件的指定位置添加一个ListObject
+在Excel文件的指定位置添加ListObject
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,7 +139,7 @@ url: /zh/net
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将 ListObject 或表格转换为一系列单元格
+将 ListObject 或表格转换为单元格范围
     </p>
    </div>
    <div class="col-lg-4">
@@ -153,21 +153,21 @@ url: /zh/net
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-从 Excel 工作表中添加或删除 OleObjects
+从 Excel 工作表添加或删除 OleObject
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-插入或删除，水平或垂直分页符
+插入或删除、水平或垂直分页符
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-操纵页面设置、页眉和页脚
+操作页面设置、页眉和页面设置页脚
     </p>
    </div>
    <div class="col-lg-4">
@@ -210,11 +210,11 @@ url: /zh/net
 开始使用 Excel 电子表格处理 SDK
     </h2>
     <p>
-您无需安装任何东西即可开始使用 Aspose.Cells Cloud SDK for .NET。您需要做的就是在以下位置创建一个帐户
+您无需安装任何内容即可开始使用 Aspose.Cells Cloud SDK for .NET。您所需要做的就是创建一个帐户：
      <a href="https://dashboard.aspose.cloud/#/apps">
-Aspose 云
+云 Aspose
      </a>
-并获取您的申请信息。就这些！您可以使用 Aspose.Cells Cloud SDK for .NET。
+并获取您的申请信息。就这些！您已准备好使用 Aspose.Cells Cloud SDK for .NET。
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET 提供创建、编辑电子表格并将其转换为其他流行文件格式的所有功能。
@@ -222,29 +222,29 @@ Aspose 云
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-负荷&amp;处理 Excel 电子表格 via Cloud SDK
+负载&amp;流程 Excel 电子表格 via 云 SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK for .NET 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出到支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度，将数据导入工作簿，计算工作簿中的所有公式，通过提供精确策略等设置公式计算设置，使用智能标记，将工作簿从请求内容转换为另一种格式，应用密码以允许内容修改。
+ Aspose.Cells Cloud SDK for .NET 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项目、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度，将数据导入工作簿，计算工作簿中的所有公式，通过提供精度策略等设置公式计算设置，使用智能标记，将工作簿从请求内容转换为其他格式，应用密码以允许内容修改。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Cloud SDK 阅读&amp;处理 Excel 工作表
+云SDK读取&流程 Excel 工作表
     </h2>
     <p>
-使用 Aspose.Cells Cloud SDK for .NET 您可以删除工作表中的特定行或所有行，通过单元格名称获取工作表单元格数据或单元格样式，通过其索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格、复制工作表列和行、对工作表行和列进行分组、隐藏工作表行和列、设置工作表列和行样式、将 HTMLSTRING 值设置到单元格中、设置单元格范围值以及修改许多其他工作表设置。
+使用Aspose.Cells Cloud SDK for .NET，您可以删除工作表中的特定行或所有行，按单元格名称获取工作表单元格数据或单元格样式，按索引读取工作表行或列数据，计算单元格公式，清除单元格内容，将单元格复制到另一个单元格单元格，复制工作表列和行，对工作表行和列进行分组，隐藏工作表行和列，设置工作表列和行样式，将 HTMLSTRING 值设置到单元格中，设置单元格范围值并修改许多其他工作表设置。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-利用数据透视表的力量范围
+利用数据透视表和数据透视表的力量范围
     </h2>
     <p>
- Aspose.Cells Cloud SDK for .NET 允许您在工作表中添加数据透视表，在数据透视表中添加或删除数据透视字段，添加或删除数据透视表索引的数据透视过滤器，更新数据透视表的单元格样式，以及将数据透视表的数据计算到单元格。
+ Aspose.Cells Cloud SDK for .NET 允许您将数据透视表添加到工作表中、在数据透视表中添加或删除数据透视字段、添加或删除数据透视表索引的数据透视过滤器、更新数据透视表的单元格样式以及计算数据透视表的数据到单元格。
     </p>
     <p>
-Aspose.Cells Cloud SDK for .NET 也可用于通过范围名称或行列索引获取范围内的单元格列表，设置范围的列宽，将单元格范围合并为单个单元格，将当前范围移动到目标范围，设置轮廓单元格范围周围的边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，并在工作表中复制范围。
+Aspose.Cells Cloud SDK for .NET 还可用于通过范围名称或行列索引获取范围内的单元格列表、设置范围的列宽、将范围内的单元格合并为单个单元格、将当前范围移动到目标范围、设置轮廓围绕一系列单元格的边框。设置范围的行高，设置范围的样式，取消合并该范围的合并单元格，将值放入范围并转换其数据类型，然后在工作表中复制范围。
     </p>
    </div>
   </div>
@@ -258,7 +258,7 @@ Aspose.Cells Cloud SDK for .NET 也可用于通过范围名称或行列索引获
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.cloud/cells" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API 参考资料" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://apireference.aspose.cloud/cells/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -268,7 +268,7 @@ Aspose.Cells Cloud SDK for .NET 也可用于通过范围名称或行列索引获
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells Cloud SDK for .NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是Aspose.Cells云SDK for .NET？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="安全" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

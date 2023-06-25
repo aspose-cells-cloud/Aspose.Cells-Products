@@ -4,7 +4,7 @@ description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc decodificano
 url: /it/ruby/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per decifrare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con password" h2="Libreria Ruby per decifrare cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con i flussi di lavoro delle password in Ruby. Questa soluzione professionale decodifica il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando Ruby." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per decifrare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con password" h2="Libreria Ruby per decifrare cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con i flussi di lavoro delle password in Ruby. Questa soluzione professionale decodifica il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando Ruby." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Decrittografa cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password - Ruby REST API" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie das ARBEITSBLATT nach SVG aus der Tabelle mit PHP API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach SVG mit PHP API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/php/export/worksheet-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren des ARBEITSBLATTS in die Datei SVG" h2="PHP-Bibliothek zum Exportieren von WORKSHEET in die SVG-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows in Tabellenkalkulationen in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im Format SVG aus Tabellenkalkulation online mit PHP." urlsection="export/worksheet-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um ARBEITSBLATT in die Datei SVG zu exportieren" h2="PHP-Bibliothek zum Exportieren von ARBEITSBLATT in die Datei SVG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine SVG-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/worksheet-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die Formatdatei SVG in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKSHEET-Objekts in die Datei SVG aus der Tabelle ist eine komplexe Aufgabe. Der Export von WORKSHEET in SVG-Formatübergänge wird von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im SVG-Format zu exportieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte SVG-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Datei SVG ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das SVG-Format werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im SVG-Format. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte SVG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKSHEET in das SVG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Exportieren von WORKSHEET in das SVG-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,9 +36,9 @@ Das Exportieren des WORKSHEET-Objekts in die Datei SVG aus der Tabelle ist eine 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um WORKSHEET nach SVG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ARBEITSBLATT nach SVG zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

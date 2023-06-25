@@ -11,7 +11,7 @@ platform: Ruby
 otherformats: XLS XLSM ODS SVG XLTM TSV DIF MHTML MD XLSX XLSB XML XPS FODS TIFF PDF 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="قم بتحويل FODS إلى XLT باستخدام Ruby" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى XLT مع Ruby" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

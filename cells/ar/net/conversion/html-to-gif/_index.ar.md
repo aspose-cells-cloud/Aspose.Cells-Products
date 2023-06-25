@@ -1,6 +1,6 @@
 ﻿---
-title: HTML إلى GIF تحويل API عن C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  HTML إلى GIF تحويل API عن C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق HTML إلى ملف بتنسيق GIF.
 url: /ar/net/conversion/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

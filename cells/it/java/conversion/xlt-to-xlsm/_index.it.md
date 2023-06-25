@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLT a XLSM API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato XLT in un file in formato XLSM.
 url: /it/java/conversion/xlt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

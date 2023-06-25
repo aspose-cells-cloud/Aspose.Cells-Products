@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XML إلى SXC API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XML إلى ملف بتنسيق SXC.
 url: /ar/net/conversion/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

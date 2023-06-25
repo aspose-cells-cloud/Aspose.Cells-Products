@@ -28,7 +28,7 @@ otherformats: XLS TSV MD XML XLT HTML DIF XLTX SVG TIFF FODS MHTML XLSX PDF XPS 
  Также взгляните на Swagger-based[API Ссылка](https://apireference.aspose.cloud/cells/) узнать больше о[Excel ОТДЫХ API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="C# .NET Код для конвертации FODS в SXC" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="C# .NET Код для преобразования FODS в SXC" gistPath="" %}}
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
 CellsApi instance = new CellsApi(clientId, clientSecret, apiVersion, baseurl);

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva GIF come XLSX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato GIF come file in formato XLSX.
 url: /it/android/saveas/gif-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /it/android/saveas/gif-to-xlsx/
 Il salvataggio dei formati di file da GIF come XLSX è un'attività complessa. Tutte le transizioni dal formato GIF a XLSX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo GIF di origine. La nostra libreria Android è una soluzione professionale per salvare GIF come file XLSX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android usando REST API per salvare GIF come formato XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare GIF come formato XLSX" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ SQL API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف تنسيق XML كملف بتنسيق SQL.
 url: /ar/net/saveas/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

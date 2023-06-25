@@ -1,10 +1,10 @@
 ﻿---
-title:  XLT a TXT Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: XLT a TXT Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLT a un archivo de formato TXT.
 url: /es/php/conversion/xlt-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLT a TXT" h2="PHP biblioteca para convertir XLT a TXT" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLT a TXT y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlt-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLT a TXT" h2="PHP biblioteca para convertir XLT a TXT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLT a TXT y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlt-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLT a TXT en PHP" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Расшифровать локальные таблицы с помощью пароля в облаке
-description: Облачные API и SDK для разблокировки Microsoft Excel и OpenOffice Calc. Электронные таблицы расшифровываются Cells Облаком API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Расшифровать локальные таблицы с помощью пароля в облаке
+description:  Облачные API и SDK для разблокировки Microsoft Excel и OpenOffice Calc. Электронные таблицы расшифровываются Cells Облаком API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/nodejs/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека NodeJS для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки локальных Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с паролями, используя NodeJS." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека NodeJS для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки локальных Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с помощью паролей, используя NodeJS." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Расшифровать локальный Microsoft Excel и электронную таблицу OpenOffice Calc с паролем — NodeJS REST API" >}}

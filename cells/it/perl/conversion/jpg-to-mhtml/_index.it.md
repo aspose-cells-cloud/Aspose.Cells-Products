@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG in MHTML Converti API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: JPG in MHTML Converti API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato JPG in un file in formato MHTML.
 url: /it/perl/conversion/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

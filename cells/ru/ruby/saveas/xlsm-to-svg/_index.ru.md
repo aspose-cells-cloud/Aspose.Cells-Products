@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как SVG API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSM как файла формата SVG.
 url: /ru/ruby/saveas/xlsm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xlsm-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как SVG в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM как SVG — сложная задача. Все переходы формата XLSM в формат SVG выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSM в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод SVG.
+Сохранение форматов файлов из XLSM как SVG — сложная задача. Все переходы формата XLSM в формат SVG выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSM в формате SVG онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLSM в формате SVG" gistPath="" %}}

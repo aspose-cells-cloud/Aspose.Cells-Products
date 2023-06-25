@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en TXT API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format GIF en fichier au format TXT.
 url: /fr/android/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,13 +1,13 @@
 ﻿---
-title: Exporte WORKBOOK a PPTX desde una hoja de cálculo usando NodeJS API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Exporte WORKBOOK a PPTX desde una hoja de cálculo usando NodeJS API
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/nodejs/export/workbook-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para exportar el LIBRO DE TRABAJO al archivo PPTX" h2="Biblioteca NodeJS para exportar WORKBOOK a archivo PPTX" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en NodeJS. Esta es una solución profesional para exportar el LIBRO DE TRABAJO a un archivo de formato PPTX desde una hoja de cálculo en línea usando NodeJS." urlsection="export/workbook-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKBOOK a archivo de formato PPTX en NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo de formato PPTX en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Exportar un objeto WORKBOOK a un archivo PPTX desde una hoja de cálculo es una tarea compleja. Nuestro SDK de NodeJS realiza la exportación de WORKBOOK a transiciones de formato PPTX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca NodeJS es una solución profesional para exportar objetos de WORKBOOK a archivos de formato PPTX en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida PPTX perfecta.

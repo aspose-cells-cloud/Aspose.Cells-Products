@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в XLSM API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата CSV в файл формата XLSM.
 url: /ru/perl/conversion/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

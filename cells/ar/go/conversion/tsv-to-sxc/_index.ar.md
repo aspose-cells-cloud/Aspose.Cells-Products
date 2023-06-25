@@ -1,10 +1,10 @@
 ﻿---
 title:  TSV إلى SXC - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق TSV إلى ملف بتنسيق SXC.
 url: /ar/go/conversion/tsv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل TSV إلى SXC" h2="اذهب إلى المكتبة لتحويل TSV إلى SXC" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل TSV إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل TSV إلى SXC" h2="اذهب إلى مكتبة لتحويل TSV إلى SXC" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل TSV إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/tsv-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى SXC في Go" >}}

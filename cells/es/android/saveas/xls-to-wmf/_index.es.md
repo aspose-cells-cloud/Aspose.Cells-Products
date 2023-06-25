@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLS como WMF API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato XLS como archivo de formato WMF.
 url: /es/android/saveas/xls-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

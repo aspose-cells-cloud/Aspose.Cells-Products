@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLSM en XML API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLSM en XML API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format XLSM en fichier au format XML.
 url: /fr/php/conversion/xlsm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

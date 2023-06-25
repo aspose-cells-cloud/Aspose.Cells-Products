@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som TSV API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara XLSX-formatfil som TSV-formatfil.
 url: /sv/go/saveas/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

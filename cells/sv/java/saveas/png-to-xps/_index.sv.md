@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XPS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara PNG filformat som XPS filformat.
 url: /sv/java/saveas/png-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

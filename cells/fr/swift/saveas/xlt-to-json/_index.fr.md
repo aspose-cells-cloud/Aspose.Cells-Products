@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer XLT sous JSON API pour Swift
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
 url: /fr/swift/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLT au format JSON" h2="Bibliothèque Swift pour enregistrer XLT en JSON" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format JSON et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer XLT en JSON" h2="Bibliothèque Swift pour enregistrer XLT en JSON" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format JSON et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/xlt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT au format JSON dans Swift" >}}

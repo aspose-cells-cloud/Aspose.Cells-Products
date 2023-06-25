@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى MHTML - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TXT إلى ملف بتنسيق MHTML.
 url: /ar/ruby/conversion/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/conversion/txt-to-mhtml/
 يعد تحويل تنسيقات الملفات من TXT إلى MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى MHTML بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج MHTML مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال على رمز في Ruby باستخدام REST API لتحويل تنسيق TXT إلى MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل تنسيق TXT إلى MHTML" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

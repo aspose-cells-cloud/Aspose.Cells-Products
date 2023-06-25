@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как XLTX API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML в виде файла формата XLTX.
 url: /ru/python/saveas/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XLTX в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLTX.
+Сохранение форматов файлов с HTML как XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения HTML в формате XLTX" gistPath="" %}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/ruby/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra las filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra las filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}

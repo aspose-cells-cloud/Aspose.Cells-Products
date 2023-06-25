@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG in PNG Converti API in C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: JPG in PNG Converti API in C#
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato JPG nel file in formato PNG.
 url: /it/net/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

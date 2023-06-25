@@ -1,6 +1,6 @@
 ﻿---
 title:  الأرقام إلى HTML تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق HTML.
 url: /ar/android/conversion/numbers-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

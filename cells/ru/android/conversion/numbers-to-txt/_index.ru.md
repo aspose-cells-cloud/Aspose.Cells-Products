@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата NUMBERS в файл формата TXT.
 url: /ru/android/conversion/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/numbers-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в TXT на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в TXT — сложная задача. Все преобразования форматов NUMBERS в TXT выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TXT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из NUMBERS в TXT — сложная задача. Все преобразования формата NUMBERS в формат TXT выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TXT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования NUMBERS в формат TXT" gistPath="" %}}

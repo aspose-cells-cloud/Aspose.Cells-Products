@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV en XLSB Convertir API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format CSV en fichier au format XLSB.
 url: /fr/go/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

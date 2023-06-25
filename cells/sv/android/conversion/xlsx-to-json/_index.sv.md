@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till JSON Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Android för att konvertera XLSX-formatfil till JSON-formatfil.
 url: /sv/android/conversion/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

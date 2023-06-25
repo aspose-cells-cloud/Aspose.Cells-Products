@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как MD API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата ODS в виде файла формата MD.
 url: /ru/go/saveas/ods-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/ods-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как MD в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде MD — сложная задача. Все переходы формата ODS в формат MD выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-сохранения ODS в виде файлов MD. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов из ODS в виде MD — сложная задача. Все переходы формата ODS в формат MD выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-сохранения ODS в виде файлов MD. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате MD" gistPath="" %}}

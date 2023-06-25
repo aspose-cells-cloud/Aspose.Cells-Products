@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le GIF sous ODS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format GIF en tant que fichier au format ODS.
 url: /fr/go/saveas/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/saveas/gif-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF en tant qu\'ODS dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de GIF en tant qu'ODS est une tâche complexe. Toutes les transitions de format GIF à ODS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie ODS parfaite.
+L'enregistrement de formats de fichiers à partir de GIF en tant qu'ODS est une tâche complexe. Toutes les transitions de format GIF vers ODS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer GIF au format ODS" gistPath="" %}}

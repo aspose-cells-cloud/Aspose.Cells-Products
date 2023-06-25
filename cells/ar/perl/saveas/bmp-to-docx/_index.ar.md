@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ BMP كـ DOCX API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق BMP كملف بتنسيق DOCX.
 url: /ar/perl/saveas/bmp-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ BMP بتنسيق DOCX" h2="مكتبة Perl لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/bmp-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ BMP بتنسيق DOCX" h2="مكتبة Perl لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/bmp-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بتنسيق DOCX في Perl" >}}

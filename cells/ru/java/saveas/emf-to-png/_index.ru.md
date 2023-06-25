@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить EMF как PNG API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF как файла формата PNG.
 url: /ru/java/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/emf-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как PNG в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как PNG — сложная задача. Все переходы форматов с EMF на PNG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения файлов EMF как PNG онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение форматов файлов с EMF как PNG — сложная задача. Все переходы форматов с EMF на PNG выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения файлов EMF как PNG онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате PNG" gistPath="" %}}

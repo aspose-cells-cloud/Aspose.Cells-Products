@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir JSON en XLS API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir JSON en XLS API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format JSON en fichier au format XLS.
 url: /fr/php/conversion/json-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

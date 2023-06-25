@@ -1,16 +1,16 @@
 ﻿---
-title: Преобразование MHTML в GIF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование MHTML в GIF API для Python
+description: Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата MHTML в файл формата GIF.
 url: /ru/python/conversion/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования MHTML в GIF" h2="Python библиотека для преобразования MHTML в GIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации MHTML в GIF и другие форматы документов с использованием Python." urlsection="conversion/mhtml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования MHTML в GIF" h2="Python библиотека для преобразования MHTML в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации MHTML в GIF и другие форматы документов с использованием Python." urlsection="conversion/mhtml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в GIF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в GIF — сложная задача. Все переходы форматов MHTML в GIF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в GIF. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из MHTML в GIF — сложная задача. Все переходы форматов MHTML в GIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в GIF. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования MHTML в формат GIF" gistPath="" %}}

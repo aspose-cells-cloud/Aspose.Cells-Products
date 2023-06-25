@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en DOCX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLSB en fichier au format DOCX.
 url: /fr/net/conversion/xlsb-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

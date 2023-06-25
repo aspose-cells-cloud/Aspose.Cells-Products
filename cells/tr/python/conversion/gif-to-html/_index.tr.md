@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF'i HTML'e dönüştür Python için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: GIF'i HTML'e dönüştür Python için API'e dönüştür
+description:  GIF formatındaki dosyayı HTML formatındaki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/gif-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Cloud'daki yerel çalışma kitabındaki yinelenen satırları temizle
-description: Microsoft Excel ve OpenOffice Calc üzerinde yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki yinelenen satırları temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Bulutta NodeJS ile yerel çalışma kitabındaki yinelenen satırları temizleyin
+description:  Microsoft Excel ve NodeJS ile OpenOffice Calc üzerindeki yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. NodeJS için Cells Cloud API SDK ile yerel e-tablolardaki yinelenen satırları temizleyin
 url: /tr/nodejs/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarında yinelenen satırları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizler." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarında yinelenen satırları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizler." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizle - NodeJS REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLS как DIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLS в виде файла формата DIF.
 url: /ru/ruby/saveas/xls-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

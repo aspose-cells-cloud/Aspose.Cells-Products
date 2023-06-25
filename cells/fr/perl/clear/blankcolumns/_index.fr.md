@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les colonnes vides sur Microsoft Exce
 url: /fr/perl/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les colonnes vides sur les flux de travail locaux Microsoft Excel et OpenOffice Calc dans Perl. Cette solution professionnelle efface les colonnes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Perl." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les colonnes vides sur les flux de travail locaux Microsoft Excel et OpenOffice Calc dans Perl. Cette solution professionnelle efface les colonnes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Perl." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Perl REST API" >}}

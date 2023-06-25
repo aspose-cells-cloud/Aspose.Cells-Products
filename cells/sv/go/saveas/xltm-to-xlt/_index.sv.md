@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som XLT API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara XLTM-formatfilen som XLT-formatfil.
 url: /sv/go/saveas/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните JSON как WMF API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата JSON в виде файла формата WMF.
 url: /ru/net/saveas/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить JSON как WMF" h2="C# библиотека для сохранения JSON как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения JSON в виде WMF и других форматов документов в Интернете с использованием C#." urlsection="saveas/json-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить JSON как WMF" h2="C# библиотека для сохранения JSON как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения JSON как WMF и других форматов документов в Интернете с использованием C#." urlsection="saveas/json-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как WMF в C#." >}}

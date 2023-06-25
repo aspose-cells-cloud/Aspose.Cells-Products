@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar GIF como MHTML API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato GIF como archivo de formato MHTML.
 url: /es/go/saveas/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/saveas/gif-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo GIF como MHTML en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de GIF como MHTML es una tarea compleja. Todas las transiciones de formato GIF a MHTML son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para guardar GIF como archivos MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida MHTML perfecta.
+Guardar formatos de archivo de GIF como MHTML es una tarea compleja. Todas las transiciones de formato GIF a MHTML se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para guardar GIF como archivos MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida MHTML perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para guardar GIF como formato MHTML" gistPath="" %}}

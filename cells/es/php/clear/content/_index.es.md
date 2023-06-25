@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar contenido en Microsoft Excel y Op
 url: /es/php/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Clear to clear contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en Microsoft Excel local y flujos de trabajo de hoja de cálculo OpenOffice Calc en PHP. Esta solución profesional borra contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Clear to clear contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en Microsoft Excel local y flujos de trabajo de hoja de cálculo OpenOffice Calc en PHP. Esta solución profesional borra contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - PHP REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till JSON Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Android för att konvertera fil i GIF-format till fil i JSON-format.
 url: /sv/android/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

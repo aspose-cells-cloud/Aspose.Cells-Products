@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TSV come JSON API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato TSV come file in formato JSON.
 url: /it/android/saveas/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/tsv-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file TSV come JSON in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da TSV come JSON è un'attività complessa. Tutte le transizioni del formato da TSV a JSON vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Android è una soluzione professionale per salvare TSV come file JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
+Il salvataggio dei formati di file da TSV come JSON è un'attività complessa. Tutte le transizioni dal formato TSV al formato JSON vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Android è una soluzione professionale per salvare TSV come file JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare TSV come formato JSON" gistPath="" %}}

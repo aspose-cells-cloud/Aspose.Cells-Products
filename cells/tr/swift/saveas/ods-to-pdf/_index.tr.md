@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için ODS'yi PDF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/ods-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi PDF olarak kaydetmek için Swift API" h2="ODS\'yi PDF olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, ODS\'yi PDF olarak ve diğer belge biçimlerini çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/ods-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi PDF olarak kaydetmek için Swift API" h2="ODS\'yi PDF olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, ODS\'yi PDF olarak ve diğer belge biçimlerini çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/ods-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını Swift\'de PDF olarak kaydedin" >}}

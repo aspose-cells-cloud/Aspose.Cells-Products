@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование JSON в GIF API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование JSON в GIF API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата JSON в файл формата GIF.
 url: /ru/nodejs/conversion/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

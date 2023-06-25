@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование XLSM в DOCX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLSM в файл формата DOCX.
 url: /ru/perl/conversion/xlsm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLSM в DOCX" h2="Perl библиотека для преобразования XLSM в DOCX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации XLSM в DOCX и другие форматы документов с использованием Perl." urlsection="conversion/xlsm-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLSM в DOCX" h2="Perl библиотека для преобразования XLSM в DOCX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации XLSM в DOCX и другие форматы документов с использованием Perl." urlsection="conversion/xlsm-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в DOCX по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLSM в DOCX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLSM в DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLSM в DOCX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLSM в формат DOCX" gistPath="" %}}

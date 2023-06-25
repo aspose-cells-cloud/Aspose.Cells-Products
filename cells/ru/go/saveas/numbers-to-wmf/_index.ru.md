@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните NUMBERS как WMF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата NUMBERS в виде файла формата WMF.
 url: /ru/go/saveas/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

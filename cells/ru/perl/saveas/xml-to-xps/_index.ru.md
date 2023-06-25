@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как XPS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XML как файла формата XPS.
 url: /ru/perl/saveas/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xml-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как XPS в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как XPS — сложная задача. Все преобразования формата XML в формат XPS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML-файлов в формате XPS в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов из XML как XPS — сложная задача. Все переходы между форматами XML и XPS выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML-файлов в формате XPS в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XML в формате XPS" gistPath="" %}}

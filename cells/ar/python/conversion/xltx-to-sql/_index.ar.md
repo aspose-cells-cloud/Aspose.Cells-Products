@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX إلى SQL - تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTX إلى SQL - تحويل API لـ Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLTX إلى ملف بتنسيق SQL.
 url: /ar/python/conversion/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

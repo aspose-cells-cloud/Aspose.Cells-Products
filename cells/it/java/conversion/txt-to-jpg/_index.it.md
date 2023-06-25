@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da TXT a JPG API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato TXT in un file in formato JPG.
 url: /it/java/conversion/txt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

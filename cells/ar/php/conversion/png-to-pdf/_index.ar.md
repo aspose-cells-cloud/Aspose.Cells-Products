@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى PDF تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق PNG إلى ملف بتنسيق PDF.
 url: /ar/php/conversion/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les commentaires sur Microsoft Excel
 url: /fr/php/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="PHP Effacer pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les workflows locaux Microsoft Excel et OpenOffice Calc dans PHP. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de PHP." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="PHP Effacer pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les workflows locaux Microsoft Excel et OpenOffice Calc dans PHP. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de PHP." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - PHP REST API" >}}

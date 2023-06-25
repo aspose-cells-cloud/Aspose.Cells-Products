@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в XLSM API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата NUMBERS в файл формата XLSM.
 url: /ru/ruby/conversion/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/numbers-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XLSM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XLSM — сложная задача. Все переходы формата NUMBERS в формат XLSM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XLSM. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLSM.
+Преобразование форматов файлов из NUMBERS в XLSM — сложная задача. Все переходы формата NUMBERS в формат XLSM выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XLSM. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования NUMBERS в формат XLSM" gistPath="" %}}

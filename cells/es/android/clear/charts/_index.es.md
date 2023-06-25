@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar gráficos en Microsoft Excel y Op
 url: /es/android/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar gráficos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra gráficos en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar gráficos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra gráficos en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

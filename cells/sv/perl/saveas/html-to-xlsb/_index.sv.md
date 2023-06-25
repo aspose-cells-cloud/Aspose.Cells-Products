@@ -1,6 +1,6 @@
 ﻿---
-title: Spara HTML som XLSB API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara HTML som XLSB API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara HTML filformat som XLSB format fil.
 url: /sv/perl/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

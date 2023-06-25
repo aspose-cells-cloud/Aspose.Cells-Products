@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى EMF تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSM إلى ملف بتنسيق EMF.
 url: /ar/java/conversion/xlsm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

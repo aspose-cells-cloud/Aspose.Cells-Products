@@ -1,19 +1,19 @@
 ﻿---
-title:  Speichern Sie NUMMERN als HTML API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  Speichern Sie die Nummern als HTML API für Perl
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im NUMBERS-Format als Datei im Format HTML zu speichern.
 url: /de/perl/saveas/numbers-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um NUMMERN als HTML zu speichern" h2="Perl-Bibliothek zum Speichern von ZAHLEN als HTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als HTML und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/numbers-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um NUMMERN als HTML zu speichern" h2="Perl-Bibliothek, um NUMBERS als HTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als HTML und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/numbers-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als HTML in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei unter HTML in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von NUMBERS als HTML ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu HTML werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um NUMBERS als HTML-Dateien online zu speichern. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte HTML-Ausgabe.
+Das Speichern von Dateiformaten von NUMBERS als HTML ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu HTML werden von unserem Perl SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um NUMBERS als HTML-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte HTML Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API, um ZAHLEN im HTML-Format zu speichern" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von ZAHLEN im HTML-Format" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -29,10 +29,10 @@ Das Speichern von Dateiformaten von NUMBERS als HTML ist eine komplexe Aufgabe. 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um NUMMERN als HTML zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um ZAHLEN als HTML zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

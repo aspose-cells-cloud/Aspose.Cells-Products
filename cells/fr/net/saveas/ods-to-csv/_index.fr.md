@@ -1,10 +1,10 @@
 ﻿---
-title:  Enregistrer ODS au format CSV API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer ODS au format CSV API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format ODS en tant que fichier au format CSV.
 url: /fr/net/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer ODS au format CSV" h2="C# bibliothèque pour enregistrer ODS au format CSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format CSV et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/ods-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer ODS au format CSV" h2="C# bibliothèque pour enregistrer ODS au format CSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format CSV et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/ods-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format CSV au C#" >}}

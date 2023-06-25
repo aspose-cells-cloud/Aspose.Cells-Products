@@ -1,6 +1,6 @@
 ﻿---
-title: HTML إلى XLSM تحويل API ل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  HTML إلى XLSM تحويل API ل C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLSM.
 url: /ar/net/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

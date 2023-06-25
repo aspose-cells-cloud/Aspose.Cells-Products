@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTM en ODS API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format XLTM en fichier au format ODS.
 url: /fr/ruby/conversion/xltm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /fr/ruby/conversion/xltm-to-ods/
 La conversion des formats de fichiers de XLTM en ODS est une tâche complexe. Toutes les transitions de format XLTM vers ODS sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers XLTM en ODS. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code en Ruby utilisant REST API pour convertir XLTM au format ODS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir XLTM au format ODS" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

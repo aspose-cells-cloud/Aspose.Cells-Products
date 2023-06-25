@@ -1,10 +1,10 @@
 ﻿---
-title:  Yerel e-tabloların şifresini Cloud'da şifreyle çözün
+title: Yerel e-tabloların şifresini Cloud'da şifreyle çözün
 description:  Microsoft Excel ve OpenOffice Calc kilidi için Bulut API'leri ve SDK'lar. E-tabloların şifresi Cells Bulut API tarafından çözülür. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/go/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözmek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözmek için kitaplığa gidin" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Go\'da parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc e-tablolarının şifrelerini Go kullanarak şifrelerle çevrimiçi olarak çözer." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözmek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözmek için kitaplığa gidin" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Go\'da parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc e-tablolarının şifrelerini Go kullanarak şifrelerle çevrimiçi olarak çözer." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Go REST API" >}}

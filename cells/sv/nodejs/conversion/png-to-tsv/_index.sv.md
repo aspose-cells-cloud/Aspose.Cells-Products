@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till TSV Convert API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera PNG filformat till TSV format fil.
 url: /sv/nodejs/conversion/png-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

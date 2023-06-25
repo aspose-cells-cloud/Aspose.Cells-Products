@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование MHTML в TSV API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование MHTML в TSV API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата MHTML в файл формата TSV.
 url: /ru/perl/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/mhtml-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в TSV в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в TSV — сложная задача. Все переходы между форматами MHTML и TSV выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в TSV. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из MHTML в TSV — сложная задача. Все переходы между форматами MHTML и TSV выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в TSV. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования MHTML в формат TSV" gistPath="" %}}

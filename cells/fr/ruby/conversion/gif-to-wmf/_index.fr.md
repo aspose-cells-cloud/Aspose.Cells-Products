@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en WMF API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format GIF en fichier au format WMF.
 url: /fr/ruby/conversion/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

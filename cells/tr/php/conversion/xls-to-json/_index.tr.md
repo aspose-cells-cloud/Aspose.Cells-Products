@@ -1,6 +1,6 @@
 ﻿---
-title:  XLS'den JSON'a Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLS'den JSON'a Dönüştürme API için PHP
+description:  XLS biçimli dosyayı JSON biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

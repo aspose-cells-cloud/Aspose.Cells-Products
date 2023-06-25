@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как XML API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата ODS в виде файла формата XML.
 url: /ru/go/saveas/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/ods-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XML в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде XML — сложная задача. Все переходы форматов ODS в XML выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде XML-файлов онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из ODS в виде XML — сложная задача. Все переходы форматов ODS в XML выполняются нашим Go SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде XML-файлов онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате XML" gistPath="" %}}

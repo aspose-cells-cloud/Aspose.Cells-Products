@@ -1,5 +1,5 @@
 ﻿---
-title: Bulutta FODS'yi TSV'ye dönüştürün via PHP
+title:  Bulutta FODS'yi TSV'ye dönüştürün via PHP
 description: REST API ve Açık Kaynak PHP SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
 url: /tr/php/conversion/fods-to-tsv/
 family: cells

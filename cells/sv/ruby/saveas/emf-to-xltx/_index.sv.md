@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som XLTX API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara fil i EMF-format som fil i XLTX-format.
 url: /sv/ruby/saveas/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

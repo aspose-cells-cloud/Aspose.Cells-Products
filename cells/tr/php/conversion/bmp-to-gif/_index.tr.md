@@ -1,6 +1,6 @@
 ﻿---
-title: BMP'den GIF'e Dönüştür API for PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  BMP'den GIF'e Dönüştür API for PHP
+description:  BMP biçimindeki dosyayı GIF biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

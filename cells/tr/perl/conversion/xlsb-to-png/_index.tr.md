@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB'den PNG'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSB'den PNG'e Perl için API'i dönüştürün
+description:  XLSB formatındaki dosyayı PNG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/xlsb-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

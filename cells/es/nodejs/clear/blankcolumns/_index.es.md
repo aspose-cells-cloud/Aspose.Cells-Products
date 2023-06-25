@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar columnas en blanco en Microsoft Ex
 url: /es/nodejs/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las columnas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra las columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las columnas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra las columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}
@@ -18,7 +18,7 @@ Limpiar las columnas en blanco en la hoja de cálculo local Microsoft Excel y Op
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para borrar columnas en blanco" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Cómo usar el nodo API para borrar columnas en blanco" >}}
 <li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
 <li>Llame al método postClearObjects para obtener el flujo resultante</li>

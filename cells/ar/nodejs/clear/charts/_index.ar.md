@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/nodejs/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح المخططات على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح الرسوم البيانية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح المخططات على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح الرسوم البيانية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - NodeJS REST API" >}}

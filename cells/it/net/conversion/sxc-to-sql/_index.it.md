@@ -1,6 +1,6 @@
 ﻿---
-title: Converti da SXC a SQL API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Converti da SXC a SQL API per C#
+description: Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato SXC in un file in formato SQL.
 url: /it/net/conversion/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

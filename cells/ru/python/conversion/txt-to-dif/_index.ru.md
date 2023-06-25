@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование TXT в DIF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата TXT в файл формата DIF.
 url: /ru/python/conversion/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования TXT в DIF" h2="Python библиотека для преобразования TXT в DIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации TXT в DIF и другие форматы документов с использованием Python." urlsection="conversion/txt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в DIF по номеру Python." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в DIF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из TXT в DIF — сложная задача. Все переходы формата TXT в формат DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов TXT в DIF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод DIF.

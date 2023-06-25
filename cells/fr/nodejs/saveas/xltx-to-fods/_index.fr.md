@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer XLTX sous FODS API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format XLTX en tant que fichier au format FODS.
 url: /fr/nodejs/saveas/xltx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLTX en tant que FODS" h2="Bibliothèque NodeJS pour enregistrer XLTX en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format FODS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltx-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLTX en tant que FODS" h2="Bibliothèque NodeJS pour enregistrer XLTX en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX en tant que FODS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltx-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX en tant que FODS dans NodeJS" >}}

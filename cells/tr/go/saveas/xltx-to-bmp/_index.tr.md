@@ -1,6 +1,6 @@
 ﻿---
 title:  Go için XLTX'i BMP API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını BMP biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/go/saveas/xltx-to-bmp/
 Dosya formatlarını XLTX'ten BMP olarak kaydetmek karmaşık bir iştir. Tüm XLTX - BMP biçim geçişleri, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTX'i çevrimiçi olarak BMP dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıkışı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i BMP biçiminde kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go\'da XLTX\'i BMP biçiminde kaydetmek için REST API kullanan kod örneği" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

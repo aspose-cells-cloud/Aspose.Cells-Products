@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصيغ على Microsoft Excel & Open
 url: /ar/ruby/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الصيغ على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="روبي مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي معادلات واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح الصيغ على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="روبي مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. هذا الحل الاحترافي معادلات واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}

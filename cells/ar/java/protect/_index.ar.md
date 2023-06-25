@@ -1,14 +1,14 @@
 ﻿---
-title:  يحمي
-description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  احم بـ Java
+description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع Java. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/java/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="يحمي" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احم بـ Java" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع Java. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="حماية وصلات الامتداد" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="قم بالحماية باستخدام روابط التمديد Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

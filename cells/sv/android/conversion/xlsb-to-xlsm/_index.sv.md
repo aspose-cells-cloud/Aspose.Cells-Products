@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till XLSM Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i XLSB-format till fil i XLSM-format.
 url: /sv/android/conversion/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

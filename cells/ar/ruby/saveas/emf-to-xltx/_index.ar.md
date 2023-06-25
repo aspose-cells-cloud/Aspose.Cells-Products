@@ -1,6 +1,6 @@
 ﻿---
 title:  وفر EMF كـ XLTX API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق EMF كملف بتنسيق XLTX.
 url: /ar/ruby/saveas/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

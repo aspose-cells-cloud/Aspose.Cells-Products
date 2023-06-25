@@ -1,16 +1,16 @@
 ﻿---
 title:  Löschen Sie Pivot-Tabellen in der lokalen Arbeitsmappe in der Cloud
-description: Cloud-APIs und SDKs zum Löschen von Pivot-Tabellen unter Microsoft Excel und OpenOffice Calc. Löschen Sie Pivot-Tabellen in lokalen Tabellen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Cloud-APIs und SDKs zum Löschen von Pivot-Tabellen unter Microsoft Excel und OpenOffice Calc. Klare Pivot-Tabellen in lokalen Tabellenkalkulationen durch die Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/nodejs/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Löschen von Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen" h2="NodeJS Clear zum Löschen von Pivot-Tabellen in lokalen Microsoft Excel- und OpenOffice Calc-Tabellen" p="Verwenden Sie Cells Clear REST API, um Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit NodeJS." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Löschen von Pivot-Tabellen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="NodeJS Clear zum Löschen von Pivot-Tabellen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Pivot-Tabellen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in NodeJS zu löschen. Diese professionelle Lösung löscht Pivot-Tabellen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit NodeJS." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Pivot-Tabellen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle löschen – NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie Pivot-Tabellen auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Das Löschen von Pivot-Tabellen auf lokalen Microsoft Excel und OpenOffice Calc-Tabellen ist eine komplexe Aufgabe. Das Löschen von Pivot-Tabellen bei lokalen Microsoft Excel und OpenOffice Calc-Tabellenübergängen wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Löschen von Pivot-Tabellen in lokalen Microsoft Excel- und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und perfekte API.
+Das Löschen von Pivot-Tabellen auf lokalen Microsoft Excel- und OpenOffice Calc-Tabellen ist eine komplexe Aufgabe. Das Löschen von Pivot-Tabellen bei lokalen Microsoft Excel- und OpenOffice Calc-Tabellenübergängen wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Löschen von Pivot-Tabellen auf lokalen Microsoft Excel und OpenOffice Calc-Tabellen online. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS-Code zum Löschen von Pivot-Tabellen in lokalen Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-PivotTable.js" %}}
@@ -19,9 +19,9 @@ Das Löschen von Pivot-Tabellen auf lokalen Microsoft Excel und OpenOffice Calc-
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Löschen von Pivot-Tabellen" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die postClearObjects-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode postClearObjects auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

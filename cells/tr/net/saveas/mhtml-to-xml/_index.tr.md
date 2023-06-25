@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML'yi C# için XML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: MHTML biçim dosyasını XML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/saveas/mhtml-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını C#\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini MHTML'den XML olarak kaydetmek karmaşık bir görevdir. Tüm MHTML'den XML biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, MHTML'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya biçimlerini MHTML'den XML olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XML biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, MHTML'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XML formatı olarak kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}

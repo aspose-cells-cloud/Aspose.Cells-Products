@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLT sous TIFF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLT en tant que fichier au format TIFF.
 url: /fr/perl/saveas/xlt-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

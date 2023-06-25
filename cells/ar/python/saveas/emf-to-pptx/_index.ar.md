@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ PPTX API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق EMF كملف بتنسيق PPTX.
 url: /ar/python/saveas/emf-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TSV как XLSX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата TSV в виде файла формата XLSX.
 url: /ru/android/saveas/tsv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/tsv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLSX в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде XLSX — сложная задача. Все переходы от формата TSV к формату XLSX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для сохранения TSV в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате XLSX.
+Сохранение форматов файлов из TSV в виде XLSX — сложная задача. Все переходы между форматами TSV и XLSX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для сохранения TSV в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения TSV в формате XLSX" gistPath="" %}}

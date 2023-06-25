@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF в XLT Конвертировать API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: EMF в XLT Конвертировать API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата EMF в файл формата XLT.
 url: /ru/nodejs/conversion/emf-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer ODS sous SQL API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Ruby pour enregistrer le fichier au format ODS en tant que fichier au format SQL.
 url: /fr/ruby/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

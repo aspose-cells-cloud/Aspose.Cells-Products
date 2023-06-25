@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/android/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları netleştirir." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları netleştirir." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizle - Android REST API" >}}

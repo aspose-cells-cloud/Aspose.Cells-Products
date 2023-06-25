@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт LISTOBJECT в WMF из электронной таблицы с помощью Android API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/android/export/listobject-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/export/listobject-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата WMF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов LISTOBJECT в формат WMF выполняется нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека для Android — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод WMF.
+Экспорт объекта LISTOBJECT в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов LISTOBJECT в формат WMF выполняется нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека для Android — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для экспорта LISTOBJECT в формат WMF из электронной таблицы" gistPath="" %}}

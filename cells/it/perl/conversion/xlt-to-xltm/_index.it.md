@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLT a XLTM API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLT in un file in formato XLTM.
 url: /it/perl/conversion/xlt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

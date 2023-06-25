@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de Excel FODS a DIF via Rubí
+title:  Convertir de Excel FODS a DIF via Rubí
 description: Cree, edite o convierta archivos Excel con REST API y Open Source Ruby SDK
 url: /es/ruby/conversion/fods-to-dif/
 family: cells
@@ -11,7 +11,7 @@ platform: Ruby
 otherformats: XML XPS CSV PDF MD HTML DIF TIFF XLSX MHTML XLSB FODS XLTX XLSM TXT SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Convertir FODS a DIF con Ruby" h2="Lea, edite y exporte datos Excel a otros formatos con Cloud SDK de código abierto para Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Convierta FODS a DIF con Ruby" h2="Lea, edite y exporte datos Excel a otros formatos con Cloud SDK de código abierto para Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

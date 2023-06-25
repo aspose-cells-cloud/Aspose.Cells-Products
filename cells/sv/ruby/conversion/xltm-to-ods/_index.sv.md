@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till ODS Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera fil i XLTM-format till fil i ODS-format.
 url: /sv/ruby/conversion/xltm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,13 +1,13 @@
 ﻿---
-title:  احفظ XLTX كـ XLTM API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLTX كـ XLTM API مقابل PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLTX كملف بتنسيق XLTM.
 url: /ar/php/saveas/xltx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLTX كـ XLTM" h2="PHP مكتبة لحفظ XLTX كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLTX كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xltx-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX باسم XLTM في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX كـ XLTM في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من XLTX كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى XLTM بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ XLTX كملفات XLTM عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XLTM مثالي.

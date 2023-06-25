@@ -1,6 +1,6 @@
 ﻿---
-title:  Conversione da TXT a MD API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Conversione da TXT a MD API per Go
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato TXT in un file in formato MD.
 url: /it/go/conversion/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

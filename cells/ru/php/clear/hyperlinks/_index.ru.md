@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки гиперссы
 url: /ru/php/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="PHP Очистить, чтобы очистить гиперссылки на локальной Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки гиперссылок на локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает гиперссылки на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью PHP." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="PHP Очистить, чтобы очистить гиперссылки на локальной Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки гиперссылок на локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает гиперссылки на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью PHP ." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить гиперссылки на локальные Microsoft Excel и электронные таблицы OpenOffice Calc — PHP REST API" >}}

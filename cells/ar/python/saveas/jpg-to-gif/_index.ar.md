@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ JPG بصيغة GIF API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق JPG كملف بتنسيق GIF.
 url: /ar/python/saveas/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ JPG كملف GIF" h2="مكتبة Python لحفظ JPG بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ JPG كملف GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/jpg-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ JPG كملف GIF" h2="مكتبة Python لحفظ JPG بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ JPG بتنسيق GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/jpg-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بصيغة GIF في Python" >}}

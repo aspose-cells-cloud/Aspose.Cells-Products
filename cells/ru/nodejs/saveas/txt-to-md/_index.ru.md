@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните TXT как MD API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата TXT как файла формата MD.
 url: /ru/nodejs/saveas/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TXT как MD" h2="Библиотека NodeJS для сохранения TXT как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TXT как MD и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/txt-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TXT как MD" h2="Библиотека NodeJS для сохранения TXT как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TXT как MD и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/txt-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как MD в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения TXT в формате MD" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title: Сохранить HTML как CSV API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить HTML как CSV API для Swift
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить HTML как CSV" h2="Библиотека Swift для сохранения HTML в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения HTML в виде CSV и других форматов документов онлайн с помощью Swift." urlsection="saveas/html-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить HTML как CSV" h2="Библиотека Swift для сохранения HTML в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения HTML в формате CSV и других форматах документов в Интернете с помощью Swift." urlsection="saveas/html-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате CSV в Swift." >}}

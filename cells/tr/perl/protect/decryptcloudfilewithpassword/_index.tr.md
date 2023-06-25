@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc için Bulut API'leri ve SDK'lar
 url: /tr/perl/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API bulutun şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Perl kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Microsoft Excel numaralı bulutun ve Perl\'deki parola iş akışlarıyla birlikte OpenOffice Calc elektronik tablosunun şifresini çözmek için Cells Decrypt REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Microsoft Excel numaralı bulutun ve 0761734\'ü kullanarak çevrimiçi OpenOffice Calc elektronik tablosunun şifresini çözer 81." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API bulutun şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Perl kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Microsoft Excel numaralı bulutun ve Perl\'deki parola iş akışlarıyla birlikte OpenOffice Calc elektronik tablosunun şifresini çözmek için Cells Decrypt REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Microsoft Excel numaralı bulutun ve 0761734\'ü kullanarak çevrimiçi OpenOffice Calc elektronik tablosunun şifresini çözer 81." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutun şifresini çöz Microsoft Excel ve OpenOffice Calc e-tablosu ile şifre - Perl REST API" >}}

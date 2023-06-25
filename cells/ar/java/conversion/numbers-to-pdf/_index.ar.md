@@ -1,10 +1,10 @@
 ﻿---
 title:  الأرقام إلى PDF تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق PDF.
 url: /ar/java/conversion/numbers-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى PDF" h2="مكتبة Java لتحويل الأرقام إلى PDF" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى PDF" h2="مكتبة Java لتحويل الأرقام إلى PDF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل الأرقام إلى PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى PDF في Java" >}}

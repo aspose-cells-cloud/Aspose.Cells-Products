@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки диаграмм
 url: /ru/python/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Python Clear для очистки диаграмм в локальной электронной таблице Microsoft Excel и OpenOffice Calc" p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в Python. Это профессиональное решение очищает диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Python." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для очистки диаграмм в локальном Microsoft Excel и электронной таблице OpenOffice Calc" h2="Python Clear для очистки диаграмм в локальной электронной таблице Microsoft Excel и OpenOffice Calc" p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в Python. Это профессиональное решение очищает диаграммы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Python." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить диаграммы на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — Python REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XLTX как XLSM API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTX как XLSM API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLTX в виде файла формата XLSM.
 url: /ru/php/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XLTX как XLSM" h2="PHP библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с помощью PHP." urlsection="saveas/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить XLTX как XLSM" h2="PHP библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSM по адресу PHP." >}}

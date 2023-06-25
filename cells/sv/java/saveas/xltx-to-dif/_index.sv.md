@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som DIF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLTX-formatfil som DIF-formatfil.
 url: /sv/java/saveas/xltx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

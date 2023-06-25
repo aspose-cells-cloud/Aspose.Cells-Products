@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir GIF en JPG API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir un fichier au format GIF en fichier au format JPG.
 url: /fr/perl/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir GIF en JPG" h2="Perl bibliothèque pour convertir GIF en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir GIF en JPG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/gif-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir GIF en JPG" h2="Perl bibliothèque pour convertir GIF en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir en ligne GIF en JPG et d\'autres formats de documents à l\'aide de Perl." urlsection="conversion/gif-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en JPG en Perl" >}}

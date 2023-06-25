@@ -1,16 +1,16 @@
 ﻿---
-title: SXC in PDF Konvertieren Sie API in Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  SXC zu PDF Konvertieren Sie API in Perl
+description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im SXC-Format in eine Datei im PDF-Format.
 url: /de/perl/conversion/sxc-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um SXC in PDF umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von SXC in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von SXC in PDF und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/sxc-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um SXC in PDF umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von SXC in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um SXC in PDF und andere Dokumentformate online mit Perl zu konvertieren." urlsection="conversion/sxc-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine SXC-Datei in PDF in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in PDF ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu PDF werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SXC-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um SXC-Dateien online in PDF-Dateien zu konvertieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte PDF-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC in PDF ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu PDF werden von unserem Perl SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um SXC-Dateien online in PDF-Dateien zu konvertieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte PDF Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von SXC in das PDF-Format" gistPath="" %}}
@@ -44,9 +44,9 @@ Das Konvertieren von Dateiformaten von SXC in PDF ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um SXC in PDF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

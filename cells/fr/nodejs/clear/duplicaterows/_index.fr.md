@@ -1,10 +1,10 @@
 ﻿---
-title:  Effacer les lignes en double sur le classeur local dans le cloud
-description: API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc. Effacez les lignes en double sur les feuilles de calcul locales par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Effacer les lignes en double sur le classeur local avec NodeJS dans le Cloud
+description:  API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc avec NodeJS. Effacez les lignes en double sur les feuilles de calcul locales par le SDK Cells Cloud API pour NodeJS
 url: /fr/nodejs/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les lignes en double sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans NodeJS. Cette solution professionnelle supprime les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les lignes en double sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans NodeJS. Cette solution professionnelle supprime les lignes en double sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les lignes en double sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - NodeJS REST API" >}}

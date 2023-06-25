@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ EMF كـ SVG API لأجهزة الأندرويد
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ EMF كـ SVG API لأجهزة الأندرويد
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق EMF كملف بتنسيق SVG.
 url: /ar/android/saveas/emf-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ EMF كـ SVG" h2="مكتبة Android لحفظ EMF كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ EMF كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/emf-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ EMF كـ SVG" h2="مكتبة Android لحفظ EMF كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ EMF كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/emf-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF بالشكل SVG في Android" >}}

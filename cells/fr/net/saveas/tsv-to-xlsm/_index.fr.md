@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez TSV sous XLSM API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format TSV en tant que fichier au format XLSM.
 url: /fr/net/saveas/tsv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

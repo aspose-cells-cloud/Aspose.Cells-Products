@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TXT som PNG API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara fil i TXT-format som fil i PNG-format.
 url: /sv/nodejs/saveas/txt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XML till ODS Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XML-formatfil till ODS-formatfil.
 url: /sv/nodejs/conversion/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

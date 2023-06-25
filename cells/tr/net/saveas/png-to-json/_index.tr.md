@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'i C# için JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C# kullanılıyor.
 url: /tr/net/saveas/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar fórmulas en Microsoft Excel y Ope
 url: /es/ruby/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fórmulas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}

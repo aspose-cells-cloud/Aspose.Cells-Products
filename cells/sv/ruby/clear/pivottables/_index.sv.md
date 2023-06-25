@@ -4,7 +4,7 @@ description: Cloud API och SDK för att rensa pivottabeller på Microsoft Excel 
 url: /sv/ruby/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Ruby Clear för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Ruby. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Ruby Clear för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Ruby. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad - Ruby REST API" >}}

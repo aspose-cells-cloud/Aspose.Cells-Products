@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TSV كـ ODS API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TSV كملف بتنسيق ODS.
 url: /ar/android/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TSV كـ ODS" h2="مكتبة Android لحفظ TSV كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ TSV كمستند ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/tsv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ TSV كـ ODS" h2="مكتبة Android لحفظ TSV كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ TSV كمستند ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/tsv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV كملف ODS في Android" >}}
@@ -35,7 +35,7 @@ url: /ar/android/saveas/tsv-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ TSV كـ ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Java API لحفظ TSV كمواد ODS" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>

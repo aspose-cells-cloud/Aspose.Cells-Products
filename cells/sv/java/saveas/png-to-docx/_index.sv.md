@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som DOCX API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara PNG filformat som DOCX format fil.
 url: /sv/java/saveas/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

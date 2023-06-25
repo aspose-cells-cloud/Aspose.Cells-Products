@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC in DIF Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato SXC in file in formato DIF.
 url: /it/php/conversion/sxc-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

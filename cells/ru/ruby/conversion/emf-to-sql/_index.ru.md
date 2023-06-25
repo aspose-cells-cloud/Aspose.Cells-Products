@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF в SQL Преобразование API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата SQL.
 url: /ru/ruby/conversion/emf-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования EMF в SQL" h2="Библиотека Ruby для преобразования EMF в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования EMF в SQL и другие форматы документов онлайн с использованием Ruby." urlsection="conversion/emf-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования EMF в SQL" h2="Библиотека Ruby для преобразования EMF в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации EMF в SQL и другие форматы документов с использованием Ruby." urlsection="conversion/emf-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SQL в Ruby" >}}

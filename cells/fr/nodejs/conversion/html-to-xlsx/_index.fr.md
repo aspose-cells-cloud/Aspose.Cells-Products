@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML en XLSX Convertir API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format HTML en fichier au format XLSX.
 url: /fr/nodejs/conversion/html-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML إلى SQL - تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق MHTML إلى ملف تنسيق SQL.
 url: /ar/nodejs/conversion/mhtml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/nodejs/conversion/mhtml-to-sql/
 يعد تحويل تنسيقات الملفات من MHTML إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى SQL بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات MHTML إلى SQL عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق SQL" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

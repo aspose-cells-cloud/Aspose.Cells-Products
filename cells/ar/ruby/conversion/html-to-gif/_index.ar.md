@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML إلى GIF تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: HTML إلى GIF تحويل API لروبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق HTML إلى ملف بتنسيق GIF.
 url: /ar/ruby/conversion/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

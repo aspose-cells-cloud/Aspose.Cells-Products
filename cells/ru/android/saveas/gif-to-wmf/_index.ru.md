@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как WMF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата GIF в виде файла формата WMF.
 url: /ru/android/saveas/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/gif-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение GIF-файла в формате WMF на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для сохранения GIF в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из GIF в виде WMF — сложная задача. Все переходы формата GIF в формат WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для сохранения файлов GIF в формате WMF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения GIF в формате WMF" gistPath="" %}}

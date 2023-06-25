@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till XLSX Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera BMP filformat till XLSX format fil.
 url: /sv/python/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ المواد المستنفدة للأوزون كـ PPTX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ المواد المستنفدة للأوزون كـ PPTX API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق ODS كملف بتنسيق PPTX.
 url: /ar/php/saveas/ods-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

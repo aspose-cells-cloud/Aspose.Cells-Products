@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez HTML comme BMP API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format HTML en tant que fichier au format BMP.
 url: /fr/go/saveas/html-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

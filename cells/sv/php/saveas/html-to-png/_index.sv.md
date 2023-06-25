@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som PNG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara HTML filformat som PNG filformat.
 url: /sv/php/saveas/html-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

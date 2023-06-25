@@ -1,10 +1,10 @@
 ﻿---
 title:  مسح كائنات القائمة في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة API Cloud Cells. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/php/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لمسح عناصر القائمة على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="PHP مسح لمسح عناصر القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح كائنات القائمة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في PHP. هذا الحل الاحترافي محو كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام PHP." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لمسح عناصر القائمة على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="PHP مسح لمسح عناصر القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح كائنات القائمة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في PHP. هذا الحل الاحترافي محو كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام PHP." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح كائنات القائمة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - PHP REST API" >}}

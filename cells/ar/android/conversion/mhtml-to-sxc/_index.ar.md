@@ -1,6 +1,6 @@
 ﻿---
-title:  تحويل MHTML إلى SXC API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: تحويل MHTML إلى SXC API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق MHTML إلى ملف بتنسيق SXC.
 url: /ar/android/conversion/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

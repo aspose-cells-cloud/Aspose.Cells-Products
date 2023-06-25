@@ -1,14 +1,14 @@
 ﻿---
-title:  Skydda
-description:  Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Skydda med Perl
+description:  Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Perl. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/perl/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda" h2="Aspose.Cells Cloud SDK stöder arbetsböcker för dekryptering, kryptering och digitala signaturer." p="Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Skydda med Perl" h2="Aspose.Cells Cloud SDK stöder arbetsböcker för dekryptering, kryptering och digitala signaturer." p="Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer med Perl. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Skydda tilläggslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Skydda med Perl Förlängningslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в PPTX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XML в файл формата PPTX.
 url: /ru/net/conversion/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

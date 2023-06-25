@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как SQL API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата JPG в виде файла формата SQL.
 url: /ru/ruby/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/jpg-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как SQL в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде SQL — сложная задача. Все переходы из формата JPG в формат SQL выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для сохранения JPG в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из JPG в виде SQL — сложная задача. Все переходы между форматами JPG и SQL выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для сохранения JPG в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения JPG в формате SQL" gistPath="" %}}

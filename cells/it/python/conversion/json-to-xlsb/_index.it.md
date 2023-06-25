@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON in XLSB Converti API in Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato JSON in un file in formato XLSB.
 url: /it/python/conversion/json-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

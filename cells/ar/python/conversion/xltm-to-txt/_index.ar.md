@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM إلى TXT تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTM إلى TXT تحويل API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLTM إلى ملف بتنسيق TXT.
 url: /ar/python/conversion/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

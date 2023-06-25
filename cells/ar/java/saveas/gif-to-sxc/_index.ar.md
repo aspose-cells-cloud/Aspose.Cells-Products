@@ -1,10 +1,10 @@
 ﻿---
 title:  حفظ GIF باسم SXC API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق GIF كملف بتنسيق SXC.
 url: /ar/java/saveas/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ GIF كـ SXC" h2="مكتبة Java لحفظ GIF كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ GIF بتنسيق SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/gif-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ GIF كـ SXC" h2="مكتبة Java لحفظ GIF كـ SXC" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ GIF كـ SXC وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/gif-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF باسم SXC في Java" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Exportera ARBETSBOK till TXT från kalkylblad med Python API
-description:  Aspose.Cells Cloud REST API stöder export av Excel-filer och interna objekt till olika formatfiler. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
 url: /sv/python/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

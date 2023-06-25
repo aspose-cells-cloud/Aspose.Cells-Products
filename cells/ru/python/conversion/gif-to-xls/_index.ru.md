@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование GIF в XLS API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование GIF в XLS API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата GIF в файл формата XLS.
 url: /ru/python/conversion/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

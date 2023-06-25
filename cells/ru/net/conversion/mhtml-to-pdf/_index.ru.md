@@ -1,10 +1,10 @@
 ﻿---
-title:  MHTML в PDF Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: MHTML в PDF Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата MHTML в файл формата PDF.
 url: /ru/net/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в PDF" h2="библиотека C# для преобразования MHTML в PDF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в PDF и другие форматы документов онлайн с использованием C#." urlsection="conversion/mhtml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в PDF" h2="библиотека C# для преобразования MHTML в PDF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в PDF и другие форматы документов онлайн с помощью C#." urlsection="conversion/mhtml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в PDF в C#" >}}

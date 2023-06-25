@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar XLTX como XLTM API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar XLTX como XLTM API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato XLTX como archivo de formato XLTM.
 url: /es/php/saveas/xltx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

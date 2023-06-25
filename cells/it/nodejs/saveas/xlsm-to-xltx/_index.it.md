@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come XLTX API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato XLSM come file in formato XLTX.
 url: /it/nodejs/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

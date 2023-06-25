@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLSX come ODS API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLSX come ODS API per C#
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato XLSX come file in formato ODS.
 url: /it/net/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,13 +1,13 @@
 ﻿---
 title:  Guardar XML como SXC API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato XML como archivo de formato SXC.
 url: /es/ruby/saveas/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para guardar XML como SXC" h2="Biblioteca Ruby para guardar XML como SXC" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para guardar XML como SXC y otros formatos de documentos en línea usando Ruby." urlsection="saveas/xml-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como SXC en Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XML como SXC en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de XML como SXC es una tarea compleja. Todas las transiciones de formato XML a SXC las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar XML como archivos SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un resultado SXC perfecto.

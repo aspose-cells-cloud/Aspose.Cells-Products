@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare i grafici su Microsoft Excel e Open
 url: /it/nodejs/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare i grafici sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="NodeJS Clear per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare i grafici sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in NodeJS. Questa soluzione professionale cancella i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando NodeJS." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Grafici chiari sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - NodeJS REST API" >}}

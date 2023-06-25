@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva NUMBERS come MHTML API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato NUMBERS come file in formato MHTML.
 url: /it/android/saveas/numbers-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

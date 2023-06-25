@@ -1,6 +1,6 @@
 ﻿---
-title: Enregistrer CSV sous DIF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Enregistrer CSV sous DIF API pour Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format CSV en tant que fichier au format DIF.
 url: /fr/python/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

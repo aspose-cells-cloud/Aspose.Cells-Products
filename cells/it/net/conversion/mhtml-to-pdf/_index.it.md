@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML in PDF Converti API in C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: MHTML in PDF Converti API in C#
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato MHTML nel file in formato PDF.
 url: /it/net/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

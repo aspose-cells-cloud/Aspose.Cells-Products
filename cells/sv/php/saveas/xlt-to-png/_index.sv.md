@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som PNG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för PHP för att spara XLT-formatfil som PNG-fil.
 url: /sv/php/saveas/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

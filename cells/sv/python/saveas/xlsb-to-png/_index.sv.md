@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som PNG API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Python för att spara fil i XLSB-format som fil i PNG-format.
 url: /sv/python/saveas/xlsb-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

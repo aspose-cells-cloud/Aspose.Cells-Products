@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez BMP en tant que GIF API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format BMP au format GIF.
 url: /fr/go/saveas/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/saveas/bmp-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP au format GIF dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de BMP au format GIF est une tâche complexe. Toutes les transitions du format BMP vers le format GIF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Go est une solution professionnelle pour enregistrer BMP sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie GIF parfaite.
+L'enregistrement des formats de fichier à partir de BMP au format GIF est une tâche complexe. Toutes les transitions du format BMP vers le format GIF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Go est une solution professionnelle pour enregistrer BMP sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer BMP au format GIF" gistPath="" %}}

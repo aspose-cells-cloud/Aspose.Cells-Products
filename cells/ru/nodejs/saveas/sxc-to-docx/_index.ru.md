@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как DOCX API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата SXC в виде файла формата DOCX.
 url: /ru/nodejs/saveas/sxc-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/sxc-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как DOCX в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде DOCX — сложная задача. Все переходы формата SXC в формат DOCX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для сохранения SXC в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод DOCX.
+Сохранение форматов файлов из SXC в виде DOCX — сложная задача. Все переходы формата SXC в формат DOCX выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для сохранения SXC в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения SXC в формате DOCX" gistPath="" %}}

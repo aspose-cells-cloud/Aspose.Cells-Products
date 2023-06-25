@@ -1,6 +1,6 @@
 ﻿---
-title: BMP إلى XLSM تحويل API ل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  BMP إلى XLSM تحويل API ل PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLSM.
 url: /ar/php/conversion/bmp-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

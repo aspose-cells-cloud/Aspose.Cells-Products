@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JPG в ODS API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата JPG в файл формата ODS.
 url: /ru/java/conversion/jpg-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/jpg-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл JPG в ODS по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в ODS — сложная задача. Все переходы из формата JPG в формат ODS выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов JPG в ODS. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из JPG в ODS — сложная задача. Все переходы из формата JPG в формат ODS выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов JPG в ODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования JPG в формат ODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى TSV - تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف بصيغة GIF إلى ملف بصيغة TSV.
 url: /ar/php/conversion/gif-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

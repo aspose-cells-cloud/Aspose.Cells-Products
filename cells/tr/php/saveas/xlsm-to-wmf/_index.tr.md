@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSM'yi PHP için WMF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSM'yi PHP için WMF API olarak kaydedin
+description:  XLSM biçimli dosyayı WMF biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

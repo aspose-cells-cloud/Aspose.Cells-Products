@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till XLSX Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i TXT-format till fil i XLSX-format.
 url: /sv/nodejs/conversion/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

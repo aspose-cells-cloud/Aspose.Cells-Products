@@ -1,10 +1,10 @@
 ﻿---
 title:  HTML'den SVG'e Swift için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i SVG\'e dönüştürmek için Swift API" h2="HTML\'i SVG\'e dönüştürmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak HTML\'i SVG\'e ve diğer belge biçimlerini çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i SVG\'e dönüştürmek için Swift API" h2="HTML\'i SVG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak HTML\'i SVG\'e ve diğer belge formatlarını çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını Swift\'de SVG\'e dönüştürün" >}}

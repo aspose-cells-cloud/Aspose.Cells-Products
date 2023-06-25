@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till XPS Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i XLSX-format till fil i XPS-format.
 url: /sv/nodejs/conversion/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

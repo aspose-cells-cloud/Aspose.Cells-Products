@@ -1,13 +1,13 @@
 ﻿---
-title:  Преобразование XLT в TSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLT в TSV API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLT в файл формата TSV.
 url: /ru/android/conversion/xlt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLT в TSV" h2="Библиотека Android для преобразования XLT в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLT в TSV и другие форматы документов онлайн с помощью Android." urlsection="conversion/xlt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в TSV на Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в TSV в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLT в TSV — сложная задача. Все переходы между форматами XLT и TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLT в TSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.

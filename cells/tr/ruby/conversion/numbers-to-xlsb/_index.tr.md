@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için NUMBERS - XLSB Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını XLSB biçim dosyasına dönüştürmek için Ruby için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/ruby/conversion/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

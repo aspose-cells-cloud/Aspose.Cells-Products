@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV بصيغة GIF API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق CSV كملف بتنسيق GIF.
 url: /ar/php/saveas/csv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

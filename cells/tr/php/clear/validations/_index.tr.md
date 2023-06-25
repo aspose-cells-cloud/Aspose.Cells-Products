@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/php/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için temizleyin" p="Yerel Microsoft Excel ve PHP\'deki OpenOffice Calc hesap tablosu iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, PHP kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizler." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için temizleyin" p="Yerel Microsoft Excel ve PHP\'deki OpenOffice Calc hesap tablosu iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, PHP kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizler." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Hesap Tablosu - PHP REST API üzerindeki doğrulamaları temizle" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML إلى XLT - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق MHTML إلى ملف بتنسيق XLT.
 url: /ar/ruby/conversion/mhtml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/conversion/mhtml-to-xlt/
 يعد تحويل تنسيقات الملفات من MHTML إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى XLT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات MHTML إلى XLT عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل MHTML إلى تنسيق XLT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل MHTML إلى تنسيق XLT" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

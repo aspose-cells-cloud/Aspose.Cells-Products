@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM a TIFF Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLSM a TIFF Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato XLSM a un archivo de formato TIFF.
 url: /es/perl/conversion/xlsm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

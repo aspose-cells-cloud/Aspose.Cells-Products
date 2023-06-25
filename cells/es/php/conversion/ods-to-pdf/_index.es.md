@@ -1,6 +1,6 @@
 ﻿---
-title: ODS a PDF Convertir API por PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  ODS a PDF Convertir API por PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir archivos de formato ODS a archivos de formato PDF.
 url: /es/php/conversion/ods-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

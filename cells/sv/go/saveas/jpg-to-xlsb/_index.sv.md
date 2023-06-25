@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som XLSB API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara JPG-formatfil som XLSB-formatfil.
 url: /sv/go/saveas/jpg-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

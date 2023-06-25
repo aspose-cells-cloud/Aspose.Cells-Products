@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить XLS как XLSX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLS как файла формата XLSX.
 url: /ru/ruby/saveas/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить XLS как XLSX" h2="Библиотека Ruby для сохранения XLS как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLS как XLSX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xls-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLS как XLSX" h2="Библиотека Ruby для сохранения XLS как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLS как XLSX и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLSX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в XLSX — сложная задача. Все переходы между форматами XLS и XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Сохранение форматов файлов из XLS в XLSX — сложная задача. Все переходы между форматами XLS и XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLS в формате XLSX" gistPath="" %}}

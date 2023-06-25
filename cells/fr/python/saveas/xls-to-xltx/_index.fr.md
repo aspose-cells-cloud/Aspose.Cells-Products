@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez XLS sous XLTX API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLS sous XLTX API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLS en tant que fichier au format XLTX.
 url: /fr/python/saveas/xls-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XPS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JPG как файла формата XPS.
 url: /ru/go/saveas/jpg-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

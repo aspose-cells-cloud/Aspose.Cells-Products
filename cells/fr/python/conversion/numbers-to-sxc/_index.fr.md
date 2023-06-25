@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMÉROS en SXC Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format NUMBERS en fichier au format SXC.
 url: /fr/python/conversion/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

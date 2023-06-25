@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى XLSX - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLSX.
 url: /ar/go/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

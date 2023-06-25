@@ -1,6 +1,6 @@
 ﻿---
-title: ODS till EMF Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  ODS till EMF Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i ODS-format till fil i EMF-format.
 url: /sv/net/conversion/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

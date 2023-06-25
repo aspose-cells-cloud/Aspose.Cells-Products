@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da TSV a MD API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato TSV in un file in formato MD.
 url: /it/ruby/conversion/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

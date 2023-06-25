@@ -1,6 +1,6 @@
 ﻿---
-title: ODS إلى XLT تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  ODS إلى XLT تحويل API لـ Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق ODS إلى ملف بتنسيق XLT.
 url: /ar/python/conversion/ods-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

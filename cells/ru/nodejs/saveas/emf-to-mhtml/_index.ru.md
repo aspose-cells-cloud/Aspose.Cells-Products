@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить EMF как MHTML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить EMF как MHTML API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата EMF в виде файла формата MHTML.
 url: /ru/nodejs/saveas/emf-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/emf-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как MHTML в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как MHTML — сложная задача. Все переходы формата EMF в формат MHTML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека NodeJS — это профессиональное решение для сохранения EMF в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов с EMF как MHTML — сложная задача. Все переходы EMF в формат MHTML выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека NodeJS — это профессиональное решение для сохранения EMF в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения EMF в формате MHTML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till EMF Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera BMP filformat till EMF filformat.
 url: /sv/android/conversion/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

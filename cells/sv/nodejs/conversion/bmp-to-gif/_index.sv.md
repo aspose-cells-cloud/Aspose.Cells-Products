@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP till GIF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: BMP till GIF Konvertera API för NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i BMP-format till fil i GIF-format.
 url: /sv/nodejs/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

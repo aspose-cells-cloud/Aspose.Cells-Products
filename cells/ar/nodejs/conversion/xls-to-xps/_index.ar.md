@@ -1,6 +1,6 @@
 ﻿---
-title:  XLS إلى XPS تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLS إلى XPS قم بالتحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLS إلى ملف بتنسيق XPS.
 url: /ar/nodejs/conversion/xls-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/nodejs/conversion/xls-to-xps/
 يعد تحويل تنسيقات الملفات من XLS إلى XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى XPS بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات XLS إلى XPS عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XPS مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLS إلى تنسيق XPS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل XLS إلى تنسيق XPS" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

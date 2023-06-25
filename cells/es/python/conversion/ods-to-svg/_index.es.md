@@ -1,6 +1,6 @@
 ﻿---
-title: ODS a SVG Convertir API por Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  ODS a SVG Convertir API por Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir archivos de formato ODS a archivos de formato SVG.
 url: /es/python/conversion/ods-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

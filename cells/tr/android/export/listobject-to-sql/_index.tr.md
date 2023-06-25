@@ -1,10 +1,10 @@
 ﻿---
 title: Android API kullanarak LISTOBJECT'i e-tablodan SQL'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/android/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i SQL dosyasına aktarmak için Android API" h2="LISTOBJECT\'i SQL dosyasına aktarmak için Android kütüphanesi" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan LISTOBJECT dosyasını SQL biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i SQL dosyasına aktarmak için Android API" h2="LISTOBJECT\'i SQL dosyasına aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak çevrimiçi elektronik tablodan LISTOBJECT dosyasını SQL biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Android\'de SQL format dosyasına aktarın" >}}

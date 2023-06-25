@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için TSV'yi XLS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/tsv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi XLS olarak kaydetmek için Swift API" h2="TSV\'yi XLS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TSV\'yi Swift kullanarak çevrimiçi olarak XLS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi XLS olarak kaydetmek için Swift API" h2="TSV\'yi XLS olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TSV\'yi Swift kullanarak çevrimiçi olarak XLS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Swift\'de XLS olarak kaydedin" >}}

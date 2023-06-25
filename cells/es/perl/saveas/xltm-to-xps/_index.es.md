@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLTM como XPS API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato XLTM como archivo de formato XPS.
 url: /es/perl/saveas/xltm-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

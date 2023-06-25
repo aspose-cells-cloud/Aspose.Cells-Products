@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XML как ODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XML как ODS API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XML в качестве файла формата ODS.
 url: /ru/perl/saveas/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xml-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как ODS в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде ODS — сложная задача. Все переходы между форматами XML и ODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из XML в виде ODS — сложная задача. Все переходы между форматами XML и ODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов ODS в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XML в формате ODS" gistPath="" %}}

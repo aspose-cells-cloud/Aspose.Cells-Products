@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование GIF в MHTML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата GIF в файл формата MHTML.
 url: /ru/nodejs/conversion/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования GIF в MHTML" h2="Библиотека NodeJS для преобразования GIF в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации GIF в MHTML и другие форматы документов с помощью NodeJS." urlsection="conversion/gif-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования GIF в MHTML" h2="Библиотека NodeJS для преобразования GIF в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации GIF в MHTML и другие форматы документов с использованием NodeJS." urlsection="conversion/gif-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в MHTML в NodeJS" >}}

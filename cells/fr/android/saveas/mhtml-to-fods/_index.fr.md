@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer MHTML sous FODS API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer MHTML sous FODS API pour Android
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format MHTML en tant que fichier au format FODS.
 url: /fr/android/saveas/mhtml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

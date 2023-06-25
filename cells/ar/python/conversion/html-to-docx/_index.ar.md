@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى DOCX تحويل API ل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق HTML إلى ملف بتنسيق DOCX.
 url: /ar/python/conversion/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

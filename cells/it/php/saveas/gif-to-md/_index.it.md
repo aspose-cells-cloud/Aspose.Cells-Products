@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva GIF come MD API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato GIF come file in formato MD.
 url: /it/php/saveas/gif-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

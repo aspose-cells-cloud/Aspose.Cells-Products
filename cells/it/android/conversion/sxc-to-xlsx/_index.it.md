@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da SXC a XLSX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato SXC in un file in formato XLSX.
 url: /it/android/conversion/sxc-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/conversion/sxc-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file SXC in XLSX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da SXC a XLSX è un'attività complessa. Tutte le transizioni di formato da SXC a XLSX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo SXC di origine. La nostra libreria Android è una soluzione professionale per convertire file SXC in XLSX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSX.
+La conversione dei formati di file da SXC a XLSX è un'attività complessa. Tutte le transizioni del formato da SXC a XLSX vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria Android è una soluzione professionale per convertire file SXC in XLSX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per convertire SXC in formato XLSX" gistPath="" %}}

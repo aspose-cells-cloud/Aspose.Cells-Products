@@ -1,10 +1,10 @@
 ﻿---
 title:  XLS إلى XLSX تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLS إلى ملف بتنسيق XLSX.
 url: /ar/java/conversion/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLS إلى XLSX" h2="Java مكتبة لتحويل XLS إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLS إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xls-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLS إلى XLSX" h2="Java مكتبة لتحويل XLS إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLS إلى XLSX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLS إلى XLSX في Java" >}}

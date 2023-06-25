@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTX в CSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTX в файл формата CSV.
 url: /ru/net/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

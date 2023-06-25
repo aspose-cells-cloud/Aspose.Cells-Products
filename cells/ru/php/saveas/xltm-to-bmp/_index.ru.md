@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTM как BMP API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLTM как файла формата BMP.
 url: /ru/php/saveas/xltm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

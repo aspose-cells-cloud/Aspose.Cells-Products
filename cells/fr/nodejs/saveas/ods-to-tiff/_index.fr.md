@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez ODS sous TIFF API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez ODS sous TIFF API pour NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format ODS en tant que fichier au format TIFF.
 url: /fr/nodejs/saveas/ods-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

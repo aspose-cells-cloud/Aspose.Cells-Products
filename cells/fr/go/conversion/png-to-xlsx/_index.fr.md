@@ -1,13 +1,13 @@
 ﻿---
 title:  PNG à XLSX Convertir API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format PNG en fichier au format XLSX.
 url: /fr/go/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir PNG en XLSX" h2="Accédez à la bibliothèque pour convertir PNG en XLSX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir PNG en XLSX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/png-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier PNG en XLSX en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier PNG en XLSX dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers de PNG en XLSX est une tâche complexe. Toutes les transitions de format PNG vers XLSX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers PNG en fichiers XLSX. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLSX parfaite.

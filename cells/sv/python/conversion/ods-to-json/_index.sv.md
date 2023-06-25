@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS till JSON Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: ODS till JSON Konvertera API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera ODS-formatfil till JSON-formatfil.
 url: /sv/python/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

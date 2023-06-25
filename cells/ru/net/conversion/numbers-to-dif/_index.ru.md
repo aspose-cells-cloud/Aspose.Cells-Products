@@ -1,6 +1,6 @@
 ﻿---
 title:  НОМЕРА в DIF Преобразовать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата DIF.
 url: /ru/net/conversion/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/numbers-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в DIF в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DIF — сложная задача. Все преобразования форматов NUMBERS в DIF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в DIF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из NUMBERS в DIF — сложная задача. Все переходы формата NUMBERS в формат DIF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в DIF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат DIF" gistPath="" %}}

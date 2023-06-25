@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-tab
 url: /tr/php/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizlemek için" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki pivot tabloları ve PHP\'deki OpenOffice Calc elektronik tablosu iş akışlarını temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel\'deki pivot tabloları ve PHP\'i kullanarak OpenOffice Calc elektronik tablosunu temizler." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizlemek için" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki özet tabloları temizlemek için temizleyin" p="Yerel Microsoft Excel\'deki pivot tabloları ve PHP\'deki OpenOffice Calc elektronik tablosu iş akışlarını temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel\'deki pivot tabloları ve PHP\'i kullanarak OpenOffice Calc elektronik tablosunu temizler." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda özet tabloları temizleyin - PHP REST API" >}}

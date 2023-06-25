@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ MHTML كـ XLTX API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق MHTML كملف بتنسيق XLTX.
 url: /ar/go/saveas/mhtml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لحفظ MHTML كـ XLTX" h2="انتقل إلى المكتبة لحفظ MHTML كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ MHTML كـ XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لحفظ MHTML كـ XLTX" h2="انتقل إلى المكتبة لحفظ MHTML كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ MHTML كـ XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/mhtml-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLTX في Go" >}}

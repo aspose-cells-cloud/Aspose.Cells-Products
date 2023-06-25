@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ DOCX API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق PNG كملف بتنسيق DOCX.
 url: /ar/ruby/saveas/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/saveas/png-to-docx/
 يعد حفظ تنسيقات الملفات من PNG كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى DOCX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ PNG كملفات DOCX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ PNG بتنسيق DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لحفظ PNG بتنسيق DOCX" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

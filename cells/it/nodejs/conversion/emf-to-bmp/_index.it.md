@@ -1,6 +1,6 @@
 ﻿---
 title:  Da EMF a BMP Converti API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato EMF nel file in formato BMP.
 url: /it/nodejs/conversion/emf-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

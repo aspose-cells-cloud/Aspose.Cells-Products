@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som PPTX API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara MHTML-formatfil som PPTX-formatfil.
 url: /sv/go/saveas/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

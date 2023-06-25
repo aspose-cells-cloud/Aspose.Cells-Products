@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için JSON'u TXT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: JSON biçim dosyasını TXT biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/json-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir JSON dosyasını TXT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-JSON'dan dosya biçimlerini TXT olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan TXT formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JSON'u çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+JSON'dan dosya biçimlerini TXT olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan TXT'ye biçim geçişleri, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JSON'u çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u TXT formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till CSV Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera HTML filformat till CSV-format fil.
 url: /sv/nodejs/conversion/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

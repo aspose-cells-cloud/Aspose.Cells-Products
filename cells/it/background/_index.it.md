@@ -1,6 +1,6 @@
 ﻿---
 title:  Sfondo
-description: Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

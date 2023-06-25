@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TSV в XLT API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата TSV в файл формата XLT.
 url: /ru/nodejs/conversion/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/tsv-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XLT в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XLT — сложная задача. Все переходы между форматами TSV и XLT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов TSV в XLT. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
+Преобразование форматов файлов из TSV в XLT — сложная задача. Все переходы форматов TSV в XLT выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов TSV в XLT. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования TSV в формат XLT" gistPath="" %}}

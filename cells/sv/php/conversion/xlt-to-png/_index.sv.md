@@ -1,6 +1,6 @@
 ﻿---
-title: XLT till PNG Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLT till PNG Konvertera API till PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i XLT-format till fil i PNG-format.
 url: /sv/php/conversion/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

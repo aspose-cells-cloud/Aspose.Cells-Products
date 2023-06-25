@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez JSON sous TXT API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format JSON en tant que fichier au format TXT.
 url: /fr/perl/saveas/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

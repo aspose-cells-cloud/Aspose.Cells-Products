@@ -1,6 +1,6 @@
 ﻿---
 title:  XML till TIFF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera XML-formatfil till TIFF-fil.
 url: /sv/java/conversion/xml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

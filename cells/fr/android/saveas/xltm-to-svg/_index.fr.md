@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLTM sous SVG API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format SVG.
 url: /fr/android/saveas/xltm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/android/saveas/xltm-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTM sous SVG dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTM sous le nom SVG est une tâche complexe. Toutes les transitions de format XLTM vers SVG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne les fichiers XLTM sous le nom SVG. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie SVG parfaite.
+L'enregistrement des formats de fichiers à partir de XLTM sous le nom SVG est une tâche complexe. Toutes les transitions de format XLTM vers SVG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne les fichiers XLTM sous le nom SVG. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLTM au format SVG" gistPath="" %}}

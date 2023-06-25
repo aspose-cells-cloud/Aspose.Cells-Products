@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт LISTOBJECT в ODS из электронной таблицы с использованием C# API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт LISTOBJECT в ODS из электронной таблицы с использованием C# API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/net/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/export/listobject-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата ODS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов LISTOBJECT в формат ODS выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Экспорт объекта LISTOBJECT в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов LISTOBJECT в формат ODS выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта LISTOBJECT в формат ODS из электронной таблицы" gistPath="" %}}

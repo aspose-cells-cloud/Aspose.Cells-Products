@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer XLTM sous XLT API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format XLTM en tant que fichier au format XLT.
 url: /fr/ruby/saveas/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer XLTM en XLT" h2="Bibliothèque Ruby pour enregistrer XLTM en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLT et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xltm-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour enregistrer XLTM en tant que XLT" h2="Bibliothèque Ruby pour enregistrer XLTM en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Ruby. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLT et d\'autres formats de documents en ligne à l\'aide de Ruby." urlsection="saveas/xltm-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format XLT dans Ruby" >}}

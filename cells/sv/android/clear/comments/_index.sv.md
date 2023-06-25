@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa kommentarer på Microsoft 
 url: /sv/android/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Android. Denna professionella lösning tydliga kommentarer om lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Android. Denna professionella lösning tydliga kommentarer om lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylblad - Android REST API" >}}

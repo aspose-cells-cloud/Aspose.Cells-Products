@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till XML Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera MHTML-formatfil till XML-formatfil.
 url: /sv/java/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

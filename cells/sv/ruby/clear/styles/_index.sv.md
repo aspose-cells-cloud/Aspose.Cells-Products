@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa stilar på Microsoft Excel
 url: /sv/ruby/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Ruby. Denna professionella lösning klarar stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Ruby. Denna professionella lösning klarar stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Ruby REST API" >}}

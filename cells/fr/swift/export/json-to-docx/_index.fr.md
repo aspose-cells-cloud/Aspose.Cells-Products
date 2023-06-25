@@ -8,7 +8,7 @@ url: /fr/swift/export/json-to-docx/
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exoprt JSON vers le fichier DOCX dans le SDK Cloud pour Swift" %}}
+{{% blocks/products/pf/agp/feature-section-col title=" Exoprt JSON vers le fichier DOCX dans le SDK Cloud pour Swift" %}}
 1.  Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API
 1. Initialisez ```CellsApi``` avec l'ID client, le secret client, l'URL de base et la version API
 1. Appelez la méthode ```cellsWorkbookPutConvertWorkbook``` pour obtenir le flux DOCX résultant

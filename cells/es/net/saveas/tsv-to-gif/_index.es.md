@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar TSV como GIF API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato TSV como archivo de formato GIF.
 url: /es/net/saveas/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

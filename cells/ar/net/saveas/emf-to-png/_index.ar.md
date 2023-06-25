@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ PNG API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق EMF كملف بتنسيق PNG.
 url: /ar/net/saveas/emf-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

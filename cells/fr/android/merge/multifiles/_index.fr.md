@@ -1,10 +1,10 @@
 ﻿---
-title:  Fusionnez plusieurs fichiers Excel dans un fichier.
-description:  API Cloud et SDK pour fusionner plusieurs fichiers Excel. Fusionnez plusieurs fichiers Excel dans un fichier par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Fusionnez plusieurs fichiers Excel dans un fichier avec Android.
+description:  API Cloud et SDK pour fusionner plusieurs fichiers Excel avec Android
 url: /fr/android/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour fusionner plusieurs fichiers Excel dans un fichier." h2="Bibliothèque Android pour fusionner plusieurs fichiers Excel dans un fichier." p="Utilisez Cells Merge REST API pour fusionner plusieurs fichiers Excel dans un fichier dans Android. Cette solution professionnelle fusionne plusieurs fichiers Excel dans une feuille de calcul Microsoft Excel ou OpenOffice Calc à l\'aide d\'Android." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour fusionner plusieurs fichiers Excel dans un fichier." h2="Bibliothèque Android pour fusionner plusieurs fichiers Excel dans un fichier." p="Utilisez Cells Merge REST API pour fusionner plusieurs fichiers Excel dans un fichier dans Android. Cette solution professionnelle fusionne plusieurs fichiers Excel dans une feuille de calcul Microsoft Excel ou OpenOffice Calc à l\'aide d\'Android." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fusionner plusieurs fichiers Excel dans un fichier - Android REST API" >}}

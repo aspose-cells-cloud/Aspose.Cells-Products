@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TXT в XLS API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата TXT в файл формата XLS.
 url: /ru/ruby/conversion/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в XLS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в XLS — сложная задача. Все переходы между форматами TXT и XLS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в XLS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLS.
+Преобразование форматов файлов из TXT в XLS — сложная задача. Все переходы между форматами TXT и XLS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в XLS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования TXT в формат XLS" gistPath="" %}}

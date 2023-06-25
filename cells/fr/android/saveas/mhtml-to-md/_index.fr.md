@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer MHTML sous MD API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer MHTML sous MD API pour Android
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format MHTML en tant que fichier au format MD.
 url: /fr/android/saveas/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

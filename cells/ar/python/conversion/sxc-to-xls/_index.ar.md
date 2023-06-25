@@ -1,6 +1,6 @@
 ﻿---
-title: SXC إلى XLS - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  SXC إلى XLS - تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق SXC إلى ملف بتنسيق XLS.
 url: /ar/python/conversion/sxc-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

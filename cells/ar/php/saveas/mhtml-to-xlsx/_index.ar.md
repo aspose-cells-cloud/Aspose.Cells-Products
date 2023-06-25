@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ MHTML كـ XLSX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق MHTML كملف بتنسيق XLSX.
 url: /ar/php/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ MHTML كـ XLSX" h2="مكتبة PHP لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ MHTML كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ MHTML كـ XLSX" h2="مكتبة PHP لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ MHTML كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLSX في PHP" >}}

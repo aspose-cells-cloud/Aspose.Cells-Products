@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки фона на Mic
 url: /ru/java/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Java Очистить, чтобы очистить фон в локальной электронной таблице Microsoft Excel и OpenOffice Calc" p="Используйте Cells Clear REST API, чтобы очистить фон для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает фон для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Java." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Java Очистить, чтобы очистить фон в локальной электронной таблице Microsoft Excel и OpenOffice Calc" p="Используйте Cells Clear REST API, чтобы очистить фон для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает фон для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Java." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Java REST API" >}}

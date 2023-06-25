@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som XPS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLTX-formatfil som XPS-formatfil.
 url: /sv/java/saveas/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

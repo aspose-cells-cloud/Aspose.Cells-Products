@@ -10,7 +10,7 @@ url: /tr/swift/protect/decrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulut Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/DeleteDecryptWorkbook" apimethod="DELETE" %}}
 <br/>
-Bir bulut e-tablosunun şifresini bir parola ile çözmek karmaşık bir iştir. Yerel bir e-tablonun şifresini parola geçişleriyle çözme, kaynak e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, çevrimiçi bir parolayla bulut hesap tablolarının şifresini çözmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Bir bulut e-tablosunun şifresini bir parola ile çözmek karmaşık bir iştir. Yerel elektronik tablonun şifresini parola geçişleriyle çözme, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, çevrimiçi bir parolayla bulut hesap tablolarının şifresini çözmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Bulut e-tablolarının şifresini çözmek için Swift kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-DeleteDecryptDocument.swift" %}}

@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/ruby/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki net çizelgeleri." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki grafikleri temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki grafikleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki net çizelgeleri." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda grafikleri temizleyin - Ruby REST API" >}}

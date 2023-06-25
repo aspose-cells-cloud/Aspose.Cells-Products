@@ -1,6 +1,6 @@
 ﻿---
 title:  يحمي
-description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

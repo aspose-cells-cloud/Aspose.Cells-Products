@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som XLTM API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara JSON-formatfilen som XLTM-formatfil.
 url: /sv/go/saveas/json-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

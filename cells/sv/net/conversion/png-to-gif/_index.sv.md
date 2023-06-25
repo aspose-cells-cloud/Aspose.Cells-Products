@@ -1,6 +1,6 @@
 ﻿---
-title: PNG till GIF Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  PNG till GIF Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i PNG-format till fil i GIF-format.
 url: /sv/net/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

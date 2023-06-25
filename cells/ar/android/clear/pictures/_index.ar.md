@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصور على Microsoft Excel & Open
 url: /ar/android/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يوضح هذا الحل الاحترافي صورًا واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يوضح هذا الحل الاحترافي صورًا واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

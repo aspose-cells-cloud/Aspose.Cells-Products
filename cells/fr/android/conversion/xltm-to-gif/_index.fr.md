@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTM en GIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLTM en fichier au format GIF.
 url: /fr/android/conversion/xltm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

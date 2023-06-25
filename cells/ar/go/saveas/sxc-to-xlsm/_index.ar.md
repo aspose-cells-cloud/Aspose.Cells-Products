@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ XLSM API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق SXC كملف بتنسيق XLSM.
 url: /ar/go/saveas/sxc-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

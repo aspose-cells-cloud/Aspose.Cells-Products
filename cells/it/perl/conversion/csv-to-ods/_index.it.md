@@ -1,6 +1,6 @@
 ﻿---
-title: Converti CSV in ODS API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Converti CSV in ODS API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato CSV in un file in formato ODS.
 url: /it/perl/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

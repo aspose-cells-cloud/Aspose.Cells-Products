@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLSB как SQL API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB в виде файла формата SQL.
 url: /ru/go/saveas/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLSB как SQL." h2="Перейти к библиотеке для сохранения XLSB как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLSB в виде SQL и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsb-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLSB как SQL." h2="Библиотека Go для сохранения XLSB как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLSB в виде SQL и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsb-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как SQL в Go" >}}

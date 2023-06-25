@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som HTML API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Perl för att spara EMF filformat som HTML filformat.
 url: /sv/perl/saveas/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

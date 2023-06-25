@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить PNG как XLT API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата PNG в виде файла формата XLT.
 url: /ru/php/saveas/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить PNG как XLT" h2="PHP библиотека для сохранения PNG как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения PNG в формате XLT и других форматах документов в Интернете с использованием PHP." urlsection="saveas/png-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить PNG как XLT" h2="Библиотека PHP для сохранения PNG как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения PNG в формате XLT и других форматах документов в Интернете с использованием PHP." urlsection="saveas/png-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XLT в PHP." >}}

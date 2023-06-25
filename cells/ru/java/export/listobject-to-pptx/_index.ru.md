@@ -1,10 +1,10 @@
 ﻿---
-title:  Экспорт LISTOBJECT в PPTX из электронной таблицы с использованием Java API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт LISTOBJECT в PPTX из электронной таблицы с использованием Java API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/java/export/listobject-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта LISTOBJECT в файл PPTX" h2="Java библиотека для экспорта LISTOBJECT в файл PPTX" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата LISTOBJECT в файл формата PPTX из электронной таблицы онлайн с использованием Java." urlsection="export/listobject-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта LISTOBJECT в файл PPTX" h2="Java библиотека для экспорта LISTOBJECT в файл PPTX" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата LISTOBJECT в файл формата PPTX из электронной таблицы онлайн с использованием Java." urlsection="export/listobject-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата PPTX в Java" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLT в WMF API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLT в файл формата WMF.
 url: /ru/nodejs/conversion/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

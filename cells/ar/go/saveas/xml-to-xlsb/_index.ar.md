@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ XLSB API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XML كملف بتنسيق XLSB.
 url: /ar/go/saveas/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

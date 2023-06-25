@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT till XLS Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera XLT-formatfil till XLS-formatfil.
 url: /sv/php/conversion/xlt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

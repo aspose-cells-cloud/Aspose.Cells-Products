@@ -1,10 +1,10 @@
 ﻿---
 title:  تحويل JSON إلى DIF API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق JSON إلى ملف بتنسيق DIF.
 url: /ar/java/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل JSON إلى DIF" h2="Java مكتبة لتحويل JSON إلى DIF" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل JSON إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/json-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل JSON إلى DIF" h2="Java مكتبة لتحويل JSON إلى DIF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل JSON إلى DIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/json-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى DIF في Java" >}}

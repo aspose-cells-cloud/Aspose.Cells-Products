@@ -1,16 +1,16 @@
 ﻿---
 title:  BMP в HTML Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата BMP в файл формата HTML.
 url: /ru/perl/conversion/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования BMP в HTML" h2="библиотека Perl для преобразования BMP в HTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования BMP в HTML и другие форматы документов в Интернете с использованием Perl." urlsection="conversion/bmp-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования BMP в HTML" h2="Perl библиотека для преобразования BMP в HTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования BMP в HTML и другие форматы документов в Интернете с использованием Perl." urlsection="conversion/bmp-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в HTML в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в HTML — сложная задача. Все переходы форматов с BMP на HTML выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов BMP в HTML. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат HTML.
+Преобразование форматов файлов из BMP в HTML — сложная задача. Все переходы форматов с BMP на HTML выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов BMP в HTML. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования формата BMP в формат HTML" gistPath="" %}}

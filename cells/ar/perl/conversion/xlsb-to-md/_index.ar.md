@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB إلى MD - تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLSB إلى MD - تحويل API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSB إلى ملف بتنسيق MD.
 url: /ar/perl/conversion/xlsb-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

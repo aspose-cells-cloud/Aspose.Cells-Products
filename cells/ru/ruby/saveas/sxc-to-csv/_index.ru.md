@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как CSV API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата SXC в виде файла формата CSV.
 url: /ru/ruby/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

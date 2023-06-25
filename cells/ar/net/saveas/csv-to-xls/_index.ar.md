@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ CSV كـ XLS API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق CSV كملف بتنسيق XLS.
 url: /ar/net/saveas/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

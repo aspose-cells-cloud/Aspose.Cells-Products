@@ -21,9 +21,9 @@ url: /tr/export/
 	<li><b>Metin:</b> CSV, Tsv, Txt (TabDelimited)</li>
 	<li><b>Ağ:</b> HTML, Mhtml</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Çıkış biçimi</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Çıkış biçimi</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft kelime/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft kelime/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Açık ofis:</b> Oranlar, Fods, Otlar</li>
 	<li><b>XML:</b>E-tabloML, Xml</li>
 	<li><b>Metin:</b> CSV, Tsv, Txt (TabDelimited)</li>

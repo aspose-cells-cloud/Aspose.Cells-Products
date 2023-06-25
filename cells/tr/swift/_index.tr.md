@@ -160,7 +160,7 @@ url: /tr/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /tr/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Çalışma sayfasından belirli veya tüm OleObject'leri silin
+ Çalışma sayfasından belirli veya tüm OleObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ url: /tr/swift
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -262,7 +262,7 @@ Aspose.Cells Cloud SDK for Swift'i kullanarak çalışma sayfasındaki belirli s
  Aspose.Cells Swift için Cloud SDK, çalışma sayfasına bir pivot tablo eklemenize, pivot tabloya pivot alanlar eklemenize veya silmenize, pivot tablo dizini için pivot filtre eklemenize veya kaldırmanıza, pivot tablo için hücre stilini güncellemenize ve pivot tablonun verilerini hücrelere göre hesaplamanıza olanak tanır.
     </p>
     <p>
-Aspose.Cells Swift için Cloud SDK, aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücre listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, mevcut aralığı hedef aralığa taşımak, ayarlar yapmak için de kullanılabilir. bir hücre aralığı etrafındaki ana hatları çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasında kopyalayın.
+Aspose.Cells Swift için Cloud SDK, aralık adına veya satır sütun dizinlerine göre bir aralıktaki hücre listesini almak, aralığın sütun genişliğini ayarlamak, bir hücre aralığını tek bir hücrede birleştirmek, geçerli aralığı hedef aralığa taşımak, ayarlar yapmak için de kullanılabilir. bir hücre aralığı etrafındaki ana hatları çizin, aralığın satır yüksekliğini ayarlayın, aralığın stilini ayarlayın, bu aralığın birleştirilmiş hücrelerini ayırın, aralığa bir değer koyun ve veri türünü dönüştürün ve aralığı çalışma sayfasında kopyalayın.
     </p>
    </div>
   </div>
@@ -286,7 +286,7 @@ Aspose.Cells Swift için Cloud SDK, aralık adına veya satır sütun dizinlerin
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Swift için Aspose.Cells Bulut SDK\'sı?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Swift için Aspose.Cells Bulut SDK?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Güvenlik" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

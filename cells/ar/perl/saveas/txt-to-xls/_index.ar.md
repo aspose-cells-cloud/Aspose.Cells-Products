@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ TXT كـ XLS API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ TXT كـ XLS API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق TXT كملف بتنسيق XLS.
 url: /ar/perl/saveas/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

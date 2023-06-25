@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come TIFF API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato PNG come file in formato TIFF.
 url: /it/perl/saveas/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

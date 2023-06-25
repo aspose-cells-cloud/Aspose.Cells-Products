@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez TSV sous XLT API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format TSV en tant que fichier au format XLT.
 url: /fr/go/saveas/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

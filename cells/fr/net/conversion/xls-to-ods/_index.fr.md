@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en ODS API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLS en fichier au format ODS.
 url: /fr/net/conversion/xls-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

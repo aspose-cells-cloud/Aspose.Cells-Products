@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les tableaux croisés dynamiques sur 
 url: /fr/php/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="PHP Effacer pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les tableaux croisés dynamiques sur les workflows locaux Microsoft Excel et OpenOffice Calc dans PHP. Cette solution professionnelle efface les tableaux croisés dynamiques sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de PHP." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="PHP Effacer pour effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les tableaux croisés dynamiques sur les workflows locaux Microsoft Excel et OpenOffice Calc dans PHP. Cette solution professionnelle efface les tableaux croisés dynamiques sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de PHP." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les tableaux croisés dynamiques sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - PHP REST API" >}}

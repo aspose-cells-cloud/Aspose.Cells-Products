@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLTX как XLSM API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTX как XLSM API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLTX в виде файла формата XLSM.
 url: /ru/net/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

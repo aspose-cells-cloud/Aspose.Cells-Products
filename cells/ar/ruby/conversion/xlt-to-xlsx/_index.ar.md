@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT إلى XLSX - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLT إلى ملف بتنسيق XLSX.
 url: /ar/ruby/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/xlt-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLT إلى XLSX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLT إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى XLSX بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLT إلى XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSX مثالي.
+يعد تحويل تنسيقات الملفات من XLT إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى XLSX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLT إلى XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال كود في Ruby باستخدام REST API لتحويل XLT إلى تنسيق XLSX" gistPath="" %}}

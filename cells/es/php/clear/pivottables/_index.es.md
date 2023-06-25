@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar tablas dinámicas en Microsoft Exc
 url: /es/php/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Borrar tablas dinámicas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar las tablas dinámicas en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en PHP. Esta solución profesional borra las tablas dinámicas en los Microsoft Excel locales y la hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Borrar tablas dinámicas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar las tablas dinámicas en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en PHP. Esta solución profesional borra las tablas dinámicas en los Microsoft Excel locales y la hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar tablas dinámicas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - PHP REST API" >}}

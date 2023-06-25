@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en XLTX API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format GIF en fichier au format XLTX.
 url: /fr/go/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/conversion/gif-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en XLTX dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en XLTX est une tâche complexe. Toutes les transitions de format GIF à XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers GIF en XLTX. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.
+La conversion des formats de fichiers GIF en XLTX est une tâche complexe. Toutes les transitions de format GIF à XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers GIF en XLTX en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir le format GIF au format XLTX" gistPath="" %}}

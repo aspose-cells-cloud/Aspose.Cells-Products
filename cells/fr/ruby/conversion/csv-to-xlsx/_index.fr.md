@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir CSV en XLSX API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir un fichier au format CSV en fichier au format XLSX.
 url: /fr/ruby/conversion/csv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

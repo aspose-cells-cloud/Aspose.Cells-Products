@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ TIFF API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق GIF كملف بتنسيق TIFF.
 url: /ar/ruby/saveas/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

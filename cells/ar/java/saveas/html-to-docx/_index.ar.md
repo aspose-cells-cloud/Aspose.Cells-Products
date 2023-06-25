@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ HTML كـ DOCX API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق HTML كملف بتنسيق DOCX.
 url: /ar/java/saveas/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ HTML بتنسيق DOCX" h2="مكتبة Java لحفظ HTML كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ HTML بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/html-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ HTML بتنسيق DOCX" h2="مكتبة Java لحفظ HTML كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ HTML بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/html-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML بتنسيق DOCX في Java" >}}

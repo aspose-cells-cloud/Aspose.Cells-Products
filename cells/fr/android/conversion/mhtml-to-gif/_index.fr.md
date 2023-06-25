@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir MHTML en GIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format MHTML en fichier au format GIF.
 url: /fr/android/conversion/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

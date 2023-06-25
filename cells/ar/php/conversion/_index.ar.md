@@ -1,10 +1,10 @@
 ﻿---
-title:  تحويل
-description: Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  التحويل مع PHP
+description:  Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام PHP. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/php/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تحويل" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="التحويل مع PHP" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام PHP. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -20,9 +20,9 @@ url: /ar/php/conversion/
 	<li><b>الصور:</b> بابوا نيو غينيا ، جي بي جي ، جيف ، إمف</li>
 	<li><b>آخر:</b> PDF ، Json ، Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> تنسيق الإخراج</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>تنسيق الإخراج</header><ul>
 	<li><b>Microsoft Excel:</b> Xls و Xlsx و Xlsb و Xlsm و Xlt و Xltx و Xltm</li>
-	<li><b>Microsoft Word / PowerPoint:</b>Docx ، Pptx</li>
+	<li><b>Microsoft Word / PowerPoint:</b> Docx ، Pptx</li>
 	<li><b>مكتب مفتوح:</b> Ods ، Fods ، Ots</li>
 	<li><b>Xml:</b>SpreadsheetML، Xml</li>
 	<li><b>نص:</b> Csv و Tsv و Txt (علامة جدولة محدودة)</li>
@@ -34,7 +34,7 @@ url: /ar/php/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="روابط إضافات التحويل" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="التحويل مع PHP وصلات التمديد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام كـ MHTML API لـ Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق NUMBERS كملف بتنسيق MHTML.
 url: /ar/go/saveas/numbers-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

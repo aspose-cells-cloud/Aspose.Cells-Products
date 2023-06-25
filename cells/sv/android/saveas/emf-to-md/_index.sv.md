@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som MD API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara fil i EMF-format som fil i MD-format.
 url: /sv/android/saveas/emf-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

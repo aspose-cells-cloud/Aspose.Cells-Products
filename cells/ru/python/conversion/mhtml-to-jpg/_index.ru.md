@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в JPG API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата MHTML в файл формата JPG.
 url: /ru/python/conversion/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/mhtml-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в JPG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в JPG — сложная задача. Все переходы формата MHTML в формат JPG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из MHTML в JPG — сложная задача. Все переходы между форматами MHTML и JPG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования MHTML в формат JPG" gistPath="" %}}

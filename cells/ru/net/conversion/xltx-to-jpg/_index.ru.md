@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование XLTX в JPG API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTX в файл формата JPG.
 url: /ru/net/conversion/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTX в JPG" h2="C# библиотека для преобразования XLTX в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации XLTX в JPG и другие форматы документов по телефону C#." urlsection="conversion/xltx-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл XLTX в JPG по номеру C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в JPG по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLTX в JPG — сложная задача. Все переходы из формата XLTX в формат JPG выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTX в JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.

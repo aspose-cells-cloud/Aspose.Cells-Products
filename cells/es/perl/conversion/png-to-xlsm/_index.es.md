@@ -1,6 +1,6 @@
 ﻿---
-title: PNG a XLSM Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  PNG a XLSM Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato PNG a un archivo de formato XLSM.
 url: /es/perl/conversion/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

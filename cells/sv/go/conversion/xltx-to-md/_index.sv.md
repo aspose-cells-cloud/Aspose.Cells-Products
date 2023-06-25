@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX till MD Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i XLTX-format till fil i MD-format.
 url: /sv/go/conversion/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

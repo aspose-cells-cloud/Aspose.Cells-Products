@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى PDF تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق GIF إلى ملف بتنسيق PDF.
 url: /ar/ruby/conversion/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/gif-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى PDF في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من GIF إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى PDF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى PDF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج PDF مثالي.
+يعد تحويل تنسيقات الملفات من GIF إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى PDF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعتبر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات GIF إلى PDF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج PDF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل GIF إلى تنسيق PDF" gistPath="" %}}

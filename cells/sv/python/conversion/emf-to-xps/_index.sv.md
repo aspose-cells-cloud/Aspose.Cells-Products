@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till XPS Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera EMF filformat till XPS filformat.
 url: /sv/python/conversion/emf-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

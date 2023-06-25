@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTX как MHTML API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTX в виде файла формата MHTML.
 url: /ru/ruby/saveas/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xltx-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как MHTML в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде MHTML — сложная задача. Все переходы форматов XLTX в MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения XLTX в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из XLTX в виде MHTML — сложная задача. Все переходы формата XLTX в формат MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения XLTX в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTX в формате MHTML" gistPath="" %}}

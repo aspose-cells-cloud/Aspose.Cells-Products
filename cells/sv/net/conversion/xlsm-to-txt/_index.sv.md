@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSM till TXT Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLSM till TXT Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i XLSM-format till fil i TXT-format.
 url: /sv/net/conversion/xlsm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

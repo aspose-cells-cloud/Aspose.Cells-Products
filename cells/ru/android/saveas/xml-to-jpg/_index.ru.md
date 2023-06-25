@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как JPG API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XML в виде файла формата JPG.
 url: /ru/android/saveas/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xml-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранить файл XML как JPG в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Android — это профессиональное решение для онлайн-сохранения XML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
+Сохранение форматов файлов из XML в виде JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека для Android — это профессиональное решение для онлайн-сохранения XML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XML в формате JPG" gistPath="" %}}

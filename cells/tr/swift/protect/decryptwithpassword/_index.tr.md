@@ -1,5 +1,5 @@
 ﻿---
-title:  Yerel e-tabloların şifresini Cloud'da şifreyle çözün
+title: Yerel e-tabloların şifresini Cloud'da şifreyle çözün
 description:  Microsoft Excel ve OpenOffice Calc kilidi için Bulut API'leri ve SDK'lar. E-tabloların şifresi Cells Bulut API tarafından çözülür. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/swift/protect/decrypt-with-password/
 ---

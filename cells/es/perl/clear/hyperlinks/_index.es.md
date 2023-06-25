@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar hipervínculos en Microsoft Excel
 url: /es/perl/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Perl Borrar hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel local y flujos de trabajo de hoja de cálculo de OpenOffice Calc en Perl. Esta solución profesional borra hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc usando Perl." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" h2="Perl Borrar hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel local y flujos de trabajo de hoja de cálculo de OpenOffice Calc en Perl. Esta solución profesional borra hipervínculos en Microsoft Excel local y hoja de cálculo de OpenOffice Calc usando Perl." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Perl REST API" >}}

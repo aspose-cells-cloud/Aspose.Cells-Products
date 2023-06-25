@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez les NUMÉROS sous XLSM API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format NUMBERS en tant que fichier au format XLSM.
 url: /fr/ruby/saveas/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till XLS Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till XLS Konvertera API för Android
+description:  Använder Aspose.Cells Cloud SDK för Android för att konvertera MHTML-formatfil till XLS-formatfil.
 url: /sv/android/conversion/mhtml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

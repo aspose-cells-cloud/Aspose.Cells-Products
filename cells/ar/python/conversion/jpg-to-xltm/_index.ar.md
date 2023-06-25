@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى XLTM - تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JPG إلى ملف تنسيق XLTM.
 url: /ar/python/conversion/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

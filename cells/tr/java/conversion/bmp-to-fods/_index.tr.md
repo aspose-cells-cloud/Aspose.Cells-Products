@@ -1,16 +1,16 @@
 ﻿---
 title:  BMP'den FODS'ye Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i FODS\'ye dönüştürmek için Java API" h2="BMP\'i FODS\'ye dönüştürmek için Java kitaplığı" p="Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, BMP\'i Java kullanarak çevrimiçi olarak FODS\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i FODS\'ye dönüştürmek için Java API" h2="BMP\'i FODS\'ye dönüştürmek için Java kitaplığı" p="Cells Conversion REST API\'i kullanarak Java\'de özelleştirilmiş elektronik tablo iş akışları oluşturun. Bu, BMP\'i Java kullanarak çevrimiçi olarak FODS\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Java\'de FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını BMP'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm BMP'den FODS formatına geçişler, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını BMP'den FODS'ye dönüştürmek karmaşık bir iştir. BMP'den FODS biçimine geçişlerin tümü, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i FODS formatına dönüştürmek için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}

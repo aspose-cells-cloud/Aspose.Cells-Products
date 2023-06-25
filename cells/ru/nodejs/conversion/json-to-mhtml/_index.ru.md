@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование JSON в MHTML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование JSON в MHTML API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата JSON в файл формата MHTML.
 url: /ru/nodejs/conversion/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

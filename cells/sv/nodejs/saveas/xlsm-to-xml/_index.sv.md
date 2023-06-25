@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSM som XML API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSM-formatfil som XML-formatfil.
 url: /sv/nodejs/saveas/xlsm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

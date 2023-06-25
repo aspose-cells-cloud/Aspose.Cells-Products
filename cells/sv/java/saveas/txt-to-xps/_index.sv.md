@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TXT som XPS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara fil i TXT-format som fil i XPS-format.
 url: /sv/java/saveas/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

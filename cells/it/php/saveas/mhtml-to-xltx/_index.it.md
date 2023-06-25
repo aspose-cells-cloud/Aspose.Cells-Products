@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva MHTML come XLTX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato MHTML come file in formato XLTX.
 url: /it/php/saveas/mhtml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

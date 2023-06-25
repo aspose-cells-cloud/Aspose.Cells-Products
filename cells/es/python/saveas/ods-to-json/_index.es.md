@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar ODS como JSON API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar ODS como JSON API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato ODS como archivo de formato JSON.
 url: /es/python/saveas/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

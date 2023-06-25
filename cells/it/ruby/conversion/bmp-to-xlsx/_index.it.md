@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in XLSX Converti API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato BMP in un file in formato XLSX.
 url: /it/ruby/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

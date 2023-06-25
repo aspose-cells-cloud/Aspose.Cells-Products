@@ -1,6 +1,6 @@
 ﻿---
 title:  Leer, escribir, ver y convertir hojas de cálculo (via C# REST SDK)
-description: SDK para C#, ASP.NET y otros .NET lenguajes admitidos para desarrollar aplicaciones basadas en la nube para procesar Excel y hojas de cálculo de OpenOffice
+description:  SDK para C#, ASP.NET y otros .NET lenguajes admitidos para desarrollar aplicaciones basadas en la nube para procesar Excel y hojas de cálculo de OpenOffice
 weight: 70
 url: /es/net
 ---
@@ -125,7 +125,7 @@ url: /es/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Agregue un ListObject en un lugar específico en el archivo Excel
+ Agregue un ListObject en un lugar específico en el archivo Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ Agregue un ListObject en un lugar específico en el archivo Excel
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Resumir datos de ListObject o Table grandes con Pivot Table
+Resumir datos de ListObject o Table grandes con Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ Agregue un ListObject en un lugar específico en el archivo Excel
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- y obtenga la información de su solicitud. ¡Eso es todo! Está listo para usar Aspose.Cells Cloud SDK for .NET.
+ obtenga la información de su solicitud. ¡Eso es todo! Está listo para usar Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET proporciona todas las funciones para crear, editar y convertir hojas de cálculo a otros formatos de archivo populares.
@@ -244,7 +244,7 @@ Con Aspose.Cells Cloud SDK for .NET, puede eliminar una fila específica o todas
  Aspose.Cells Cloud SDK for .NET le permite agregar una tabla dinámica en la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar el filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda para la tabla dinámica y calcular los datos de la tabla dinámica en las celdas.
     </p>
     <p>
-Aspose.Cells Cloud SDK for .NET también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, establecer el esquema borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de trabajo.
+Aspose.Cells Cloud SDK for .NET también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, establecer el contorno borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de trabajo.
     </p>
    </div>
   </div>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için TXT'den MHTML'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını MHTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/txt-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TXT dosyasını MHTML\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini TXT'den MHTML'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den MHTML formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya biçimlerini TXT'den MHTML'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den MHTML'ye biçim geçişleri, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi MHTML formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

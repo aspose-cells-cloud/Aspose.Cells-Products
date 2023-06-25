@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till XLTM Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera MHTML-formatfil till XLTM-formatfil.
 url: /sv/nodejs/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

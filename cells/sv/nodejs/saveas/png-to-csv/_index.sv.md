@@ -1,6 +1,6 @@
 ﻿---
-title: Spara PNG som CSV API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara PNG som CSV API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara PNG filformat som CSV-formatfil.
 url: /sv/nodejs/saveas/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSB sous PPTX API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format XLSB en tant que fichier au format PPTX.
 url: /fr/nodejs/saveas/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/xlsb-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format PPTX dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB à PPTX sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que PPTX. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PPTX parfaite.
+L'enregistrement de formats de fichiers XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB à PPTX sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que PPTX. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer XLSB au format PPTX" gistPath="" %}}

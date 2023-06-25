@@ -1,5 +1,5 @@
 ﻿---
-title: Фон
+title:  Фон
 description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/background/
 ---

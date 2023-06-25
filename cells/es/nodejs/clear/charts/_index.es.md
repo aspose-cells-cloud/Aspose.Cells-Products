@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar gráficos en Microsoft Excel y Op
 url: /es/nodejs/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear charts en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra los gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear charts en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra los gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

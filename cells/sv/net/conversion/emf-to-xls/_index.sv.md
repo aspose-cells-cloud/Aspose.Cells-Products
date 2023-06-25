@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till XLS Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för C# för att konvertera fil i EMF-format till fil i XLS-format.
 url: /sv/net/conversion/emf-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

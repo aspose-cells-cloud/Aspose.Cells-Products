@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML إلى SVG تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق MHTML إلى ملف بتنسيق SVG.
 url: /ar/go/conversion/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/go/conversion/mhtml-to-svg/
 يعد تحويل تنسيقات الملفات من MHTML إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى SVG بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى SVG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج SVG مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل MHTML إلى تنسيق SVG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتحويل MHTML إلى تنسيق SVG" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

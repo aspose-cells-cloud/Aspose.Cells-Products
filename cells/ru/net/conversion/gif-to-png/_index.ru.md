@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF в PNG Преобразовать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: GIF в PNG Преобразовать API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата GIF в файл формата PNG.
 url: /ru/net/conversion/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

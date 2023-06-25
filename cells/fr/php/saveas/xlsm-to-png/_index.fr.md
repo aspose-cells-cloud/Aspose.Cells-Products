@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSM sous PNG API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLSM en tant que fichier au format PNG.
 url: /fr/php/saveas/xlsm-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/php/saveas/xlsm-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM sous PNG dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLSM sous le nom PNG est une tâche complexe. Toutes les transitions de format XLSM vers PNG sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer des fichiers XLSM sous PNG en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie PNG parfaite.
+L'enregistrement des formats de fichiers à partir de XLSM sous le nom PNG est une tâche complexe. Toutes les transitions de format XLSM vers PNG sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer en ligne des fichiers XLSM au format PNG. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie PNG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans PHP utilisant REST API pour enregistrer XLSM au format PNG" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование TXT в JSON API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование TXT в JSON API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата TXT в файл формата JSON.
 url: /ru/php/conversion/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/conversion/txt-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в JSON в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в JSON — сложная задача. Все переходы между форматами TXT и JSON выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов TXT в JSON. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из TXT в JSON — сложная задача. Все переходы TXT в формат JSON выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов TXT в JSON. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования TXT в формат JSON" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/txt-to-json/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования TXT в JSON" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

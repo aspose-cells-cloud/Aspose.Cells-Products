@@ -1,6 +1,6 @@
 ﻿---
-title: CSV till XLSB Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  CSV till XLSB Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i CSV-format till fil i XLSB-format.
 url: /sv/net/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

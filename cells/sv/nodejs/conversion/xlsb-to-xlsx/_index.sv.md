@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till XLSX Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera XLSB-formatfil till XLSX-formatfil.
 url: /sv/nodejs/conversion/xlsb-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

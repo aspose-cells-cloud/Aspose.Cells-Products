@@ -1,6 +1,6 @@
 ﻿---
 title:  مسح كائنات القائمة في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة API Cloud Cells. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

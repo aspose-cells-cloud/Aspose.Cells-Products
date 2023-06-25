@@ -1,6 +1,6 @@
 ﻿---
-title:  SXC'den JSON'a Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: SXC'den JSON'a Dönüştürme API için Python
+description:  SXC biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/sxc-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

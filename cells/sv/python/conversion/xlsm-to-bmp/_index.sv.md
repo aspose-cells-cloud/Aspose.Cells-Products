@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM till BMP Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSM till BMP Konvertera API till Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i XLSM-format till fil i BMP-format.
 url: /sv/python/conversion/xlsm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

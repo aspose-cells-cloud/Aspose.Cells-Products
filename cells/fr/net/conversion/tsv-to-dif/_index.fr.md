@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TSV en DIF API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format TSV en fichier au format DIF.
 url: /fr/net/conversion/tsv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

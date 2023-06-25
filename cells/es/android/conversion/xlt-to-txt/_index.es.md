@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLT a TXT API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Convertir XLT a TXT API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLT a un archivo de formato TXT.
 url: /es/android/conversion/xlt-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

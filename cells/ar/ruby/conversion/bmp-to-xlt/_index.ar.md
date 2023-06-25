@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP إلى XLT تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: BMP إلى XLT تحويل API لروبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLT.
 url: /ar/ruby/conversion/bmp-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/bmp-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى ملف XLT في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى تنسيق XLT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLT مثالي.
+يعد تحويل تنسيقات الملفات من BMP إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى تنسيق XLT بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLT مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل BMP إلى تنسيق XLT" gistPath="" %}}
