@@ -1,6 +1,6 @@
 ---
 title: XLSB to TXT Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert XLSB format file to TXT format file. 
 url: /net/conversion/xlsb-to-txt/
 ---
 

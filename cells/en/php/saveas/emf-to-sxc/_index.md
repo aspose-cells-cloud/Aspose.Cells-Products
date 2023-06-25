@@ -1,6 +1,6 @@
 ---
 title: Save EMF as SXC API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save EMF format file as SXC format file. 
 url: /php/saveas/emf-to-sxc/
 ---
 

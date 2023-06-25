@@ -1,6 +1,6 @@
 ---
 title: Save CSV as XLSX API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save CSV format file as XLSX format file. 
 url: /python/saveas/csv-to-xlsx/
 ---
 

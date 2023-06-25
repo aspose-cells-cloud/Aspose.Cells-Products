@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as GIF API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLSM format file as GIF format file. 
 url: /go/saveas/xlsm-to-gif/
 ---
 

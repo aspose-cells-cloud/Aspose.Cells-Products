@@ -6,7 +6,7 @@ url: /perl/clear/charts/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Perl Clear to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Perl. This professional solution clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet using Perl." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Perl Clear to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Perl. This professional solution clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet using Perl." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear charts on local Microsoft Excel and OpenOffice Calc spreadsheet - Perl REST API" >}}

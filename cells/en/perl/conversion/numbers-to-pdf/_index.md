@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to PDF Convert API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to convert NUMBERS format file to PDF format file. 
 url: /perl/conversion/numbers-to-pdf/
 ---
 

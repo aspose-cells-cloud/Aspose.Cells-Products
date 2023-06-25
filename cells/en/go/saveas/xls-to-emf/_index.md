@@ -1,6 +1,6 @@
 ---
 title: Save XLS as EMF API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLS format file as EMF format file. 
 url: /go/saveas/xls-to-emf/
 ---
 

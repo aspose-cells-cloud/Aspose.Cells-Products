@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as TIFF API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save NUMBERS format file as TIFF format file. 
 url: /net/saveas/numbers-to-tiff/
 ---
 

@@ -6,7 +6,7 @@ url: /java/protect/decrypt-with-password/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Java library to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Java. This professional solution decrypts local Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Java." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Java library to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Java. This professional solution decrypts local Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Java." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password - Java REST API" >}}

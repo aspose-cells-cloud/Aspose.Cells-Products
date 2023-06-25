@@ -1,6 +1,6 @@
 ---
 title: Save GIF as XLSM API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save GIF format file as XLSM format file. 
 url: /android/saveas/gif-to-xlsm/
 ---
 

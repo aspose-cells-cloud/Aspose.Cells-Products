@@ -1,12 +1,12 @@
 ---
-title: Encrypt local spreadsheet with password in Cloud 
-description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt local spreadsheets with password by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Encrypt local spreadsheet with password with Python in Cloud  
+description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc  with Python. Encrypt local spreadsheets with password by the Cells Cloud API SDK for Python. 
 url: /python/protect/encrypt-with-password/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Python library to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Protect REST API to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Python. This professional solution protects  Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Python." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Python library to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Protect REST API to protect local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Python. This professional solution protects  Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Python." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Protect local Microsoft Excel and OpenOffice Calc spreadsheet with password - Python REST API" >}}

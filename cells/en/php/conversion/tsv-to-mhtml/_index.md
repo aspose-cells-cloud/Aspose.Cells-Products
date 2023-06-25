@@ -1,6 +1,6 @@
 ---
 title: TSV to MHTML Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert TSV format file to MHTML format file. 
 url: /php/conversion/tsv-to-mhtml/
 ---
 

@@ -6,7 +6,7 @@ url: /java/clear/background/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear background on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear background on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear background on local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}

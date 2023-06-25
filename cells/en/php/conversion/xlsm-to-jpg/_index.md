@@ -1,6 +1,6 @@
 ---
 title: XLSM to JPG Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert XLSM format file to JPG format file. 
 url: /php/conversion/xlsm-to-jpg/
 ---
 

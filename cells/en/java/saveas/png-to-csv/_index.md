@@ -1,6 +1,6 @@
 ---
 title: Save PNG as CSV API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save PNG format file as CSV format file. 
 url: /java/saveas/png-to-csv/
 ---
 

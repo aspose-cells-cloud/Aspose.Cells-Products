@@ -1,6 +1,6 @@
 ---
 title: CSV to WMF Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert CSV format file to WMF format file. 
 url: /android/conversion/csv-to-wmf/
 ---
 

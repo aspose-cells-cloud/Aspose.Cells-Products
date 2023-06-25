@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as MD API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save XLSX format file as MD format file. 
 url: /perl/saveas/xlsx-to-md/
 ---
 

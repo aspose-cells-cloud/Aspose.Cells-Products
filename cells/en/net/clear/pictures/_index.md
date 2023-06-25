@@ -6,7 +6,7 @@ url: /net/clear/pictures/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear pictures on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}

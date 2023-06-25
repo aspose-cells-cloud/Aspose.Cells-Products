@@ -1,6 +1,6 @@
 ---
 title: Save XLS as GIF API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLS format file as GIF format file. 
 url: /android/saveas/xls-to-gif/
 ---
 

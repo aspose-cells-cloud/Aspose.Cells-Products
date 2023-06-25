@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as BMP API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save MHTML format file as BMP format file. 
 url: /python/saveas/mhtml-to-bmp/
 ---
 

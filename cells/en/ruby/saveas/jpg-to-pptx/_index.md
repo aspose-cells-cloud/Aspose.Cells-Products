@@ -1,6 +1,6 @@
 ---
 title: Save JPG as PPTX API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save JPG format file as PPTX format file. 
 url: /ruby/saveas/jpg-to-pptx/
 ---
 

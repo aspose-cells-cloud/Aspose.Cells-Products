@@ -1,6 +1,6 @@
 ---
 title: Save PNG as WMF API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save PNG format file as WMF format file. 
 url: /android/saveas/png-to-wmf/
 ---
 

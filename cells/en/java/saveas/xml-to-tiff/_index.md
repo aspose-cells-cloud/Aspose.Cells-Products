@@ -1,6 +1,6 @@
 ---
 title: Save XML as TIFF API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XML format file as TIFF format file. 
 url: /java/saveas/xml-to-tiff/
 ---
 

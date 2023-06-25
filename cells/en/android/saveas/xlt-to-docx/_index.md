@@ -1,6 +1,6 @@
 ---
 title: Save XLT as DOCX API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLT format file as DOCX format file. 
 url: /android/saveas/xlt-to-docx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as MHTML API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLSX format file as MHTML format file. 
 url: /go/saveas/xlsx-to-mhtml/
 ---
 

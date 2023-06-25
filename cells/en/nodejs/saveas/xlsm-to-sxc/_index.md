@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as SXC API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save XLSM format file as SXC format file. 
 url: /nodejs/saveas/xlsm-to-sxc/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: EMF to WMF Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert EMF format file to WMF format file. 
 url: /nodejs/conversion/emf-to-wmf/
 ---
 

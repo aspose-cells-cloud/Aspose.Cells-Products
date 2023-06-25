@@ -1,6 +1,6 @@
 ---
 title: TXT to PNG Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert TXT format file to PNG format file. 
 url: /go/conversion/txt-to-png/
 ---
 

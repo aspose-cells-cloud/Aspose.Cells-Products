@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to DIF Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert NUMBERS format file to DIF format file. 
 url: /android/conversion/numbers-to-dif/
 ---
 

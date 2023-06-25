@@ -1,6 +1,6 @@
 ---
 title: PNG to PPTX Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert PNG format file to PPTX format file. 
 url: /android/conversion/png-to-pptx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save TSV as JPG API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save TSV format file as JPG format file. 
 url: /php/saveas/tsv-to-jpg/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as DIF API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XLSM format file as DIF format file. 
 url: /java/saveas/xlsm-to-dif/
 ---
 

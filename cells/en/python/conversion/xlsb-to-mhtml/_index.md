@@ -1,6 +1,6 @@
 ---
 title: XLSB to MHTML Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert XLSB format file to MHTML format file. 
 url: /python/conversion/xlsb-to-mhtml/
 ---
 

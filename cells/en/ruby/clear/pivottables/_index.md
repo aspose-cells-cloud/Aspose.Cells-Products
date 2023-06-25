@@ -6,7 +6,7 @@ url: /ruby/clear/pivot-tables/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Ruby Clear to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Ruby. This professional solution clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet using Ruby." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Ruby Clear to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Ruby. This professional solution clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet using Ruby." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet - Ruby REST API" >}}

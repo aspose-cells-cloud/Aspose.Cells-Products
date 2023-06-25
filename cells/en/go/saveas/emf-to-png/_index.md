@@ -1,6 +1,6 @@
 ---
 title: Save EMF as PNG API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save EMF format file as PNG format file. 
 url: /go/saveas/emf-to-png/
 ---
 

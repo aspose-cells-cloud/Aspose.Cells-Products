@@ -1,6 +1,6 @@
 ---
 title: Save BMP as SVG API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save BMP format file as SVG format file. 
 url: /python/saveas/bmp-to-svg/
 ---
 

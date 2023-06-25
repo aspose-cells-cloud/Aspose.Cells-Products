@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as TXT API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save XLTM format file as TXT format file. 
 url: /python/saveas/xltm-to-txt/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: HTML to MHTML Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert HTML format file to MHTML format file. 
 url: /ruby/conversion/html-to-mhtml/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: XLTX to PDF Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert XLTX format file to PDF format file. 
 url: /net/conversion/xltx-to-pdf/
 ---
 

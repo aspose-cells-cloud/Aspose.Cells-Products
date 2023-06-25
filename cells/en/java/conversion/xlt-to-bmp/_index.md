@@ -1,6 +1,6 @@
 ---
 title: XLT to BMP Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert XLT format file to BMP format file. 
 url: /java/conversion/xlt-to-bmp/
 ---
 

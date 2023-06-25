@@ -1,6 +1,6 @@
 ---
 title: Save TXT as JSON API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save TXT format file as JSON format file. 
 url: /ruby/saveas/txt-to-json/
 ---
 

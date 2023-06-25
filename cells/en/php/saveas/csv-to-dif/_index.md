@@ -1,6 +1,6 @@
 ---
 title: Save CSV as DIF API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save CSV format file as DIF format file. 
 url: /php/saveas/csv-to-dif/
 ---
 

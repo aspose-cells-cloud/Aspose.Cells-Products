@@ -1,6 +1,6 @@
 ---
 title: XLT to TXT Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert XLT format file to TXT format file. 
 url: /ruby/conversion/xlt-to-txt/
 ---
 

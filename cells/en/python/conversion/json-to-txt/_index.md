@@ -1,6 +1,6 @@
 ---
 title: JSON to TXT Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert JSON format file to TXT format file. 
 url: /python/conversion/json-to-txt/
 ---
 

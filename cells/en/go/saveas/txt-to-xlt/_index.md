@@ -1,6 +1,6 @@
 ---
 title: Save TXT as XLT API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save TXT format file as XLT format file. 
 url: /go/saveas/txt-to-xlt/
 ---
 

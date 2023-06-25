@@ -1,6 +1,6 @@
 ---
 title: Save GIF as TSV API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save GIF format file as TSV format file. 
 url: /perl/saveas/gif-to-tsv/
 ---
 

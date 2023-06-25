@@ -1,6 +1,6 @@
 ---
 title: XLS to EMF Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert XLS format file to EMF format file. 
 url: /php/conversion/xls-to-emf/
 ---
 

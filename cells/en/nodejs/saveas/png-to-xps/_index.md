@@ -1,6 +1,6 @@
 ---
 title: Save PNG as XPS API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save PNG format file as XPS format file. 
 url: /nodejs/saveas/png-to-xps/
 ---
 

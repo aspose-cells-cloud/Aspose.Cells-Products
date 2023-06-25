@@ -1,6 +1,6 @@
 ---
 title: Save SXC as HTML API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save SXC format file as HTML format file. 
 url: /ruby/saveas/sxc-to-html/
 ---
 

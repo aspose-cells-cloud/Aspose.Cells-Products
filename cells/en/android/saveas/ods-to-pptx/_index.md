@@ -1,6 +1,6 @@
 ---
 title: Save ODS as PPTX API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save ODS format file as PPTX format file. 
 url: /android/saveas/ods-to-pptx/
 ---
 

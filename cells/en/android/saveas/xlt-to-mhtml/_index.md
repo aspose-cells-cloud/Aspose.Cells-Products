@@ -1,6 +1,6 @@
 ---
 title: Save XLT as MHTML API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLT format file as MHTML format file. 
 url: /android/saveas/xlt-to-mhtml/
 ---
 

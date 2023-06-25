@@ -6,7 +6,7 @@ url: /net/clear/hyperlinks/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear hyperlinks on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}

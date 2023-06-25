@@ -1,6 +1,6 @@
 ---
 title: XLS to TIFF Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert XLS format file to TIFF format file. 
 url: /nodejs/conversion/xls-to-tiff/
 ---
 

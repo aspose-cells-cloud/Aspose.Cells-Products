@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as CSV API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLSM format file as CSV format file. 
 url: /go/saveas/xlsm-to-csv/
 ---
 

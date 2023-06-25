@@ -1,6 +1,6 @@
 ---
 title: Save XLSB as SXC API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XLSB format file as SXC format file. 
 url: /java/saveas/xlsb-to-sxc/
 ---
 

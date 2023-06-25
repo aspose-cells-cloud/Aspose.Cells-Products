@@ -1,6 +1,6 @@
 ---
 title: ODS to SXC Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert ODS format file to SXC format file. 
 url: /net/conversion/ods-to-sxc/
 ---
 

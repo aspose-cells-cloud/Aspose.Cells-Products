@@ -1,6 +1,6 @@
 ---
 title: Save CSV as JSON API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save CSV format file as JSON format file. 
 url: /go/saveas/csv-to-json/
 ---
 

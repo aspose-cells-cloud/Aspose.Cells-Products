@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as XLTM API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLSX format file as XLTM format file. 
 url: /go/saveas/xlsx-to-xltm/
 ---
 

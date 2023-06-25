@@ -1,6 +1,6 @@
 ---
 title: JSON to SQL Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert JSON format file to SQL format file. 
 url: /net/conversion/json-to-sql/
 ---
 

@@ -6,7 +6,7 @@ url: /android/clear/styles/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet - Android REST API" >}}

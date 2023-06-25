@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to XML Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert NUMBERS format file to XML format file. 
 url: /java/conversion/numbers-to-xml/
 ---
 

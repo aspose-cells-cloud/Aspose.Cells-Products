@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as PDF API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save NUMBERS format file as PDF format file. 
 url: /java/saveas/numbers-to-pdf/
 ---
 

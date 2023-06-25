@@ -1,6 +1,6 @@
 ---
 title: Save JSON as XLSX API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save JSON format file as XLSX format file. 
 url: /java/saveas/json-to-xlsx/
 ---
 

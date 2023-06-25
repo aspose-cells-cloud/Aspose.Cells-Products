@@ -1,6 +1,6 @@
 ---
 title: Save XLTX as XLS API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLTX format file as XLS format file. 
 url: /android/saveas/xltx-to-xls/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save GIF as XLTX API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save GIF format file as XLTX format file. 
 url: /go/saveas/gif-to-xltx/
 ---
 

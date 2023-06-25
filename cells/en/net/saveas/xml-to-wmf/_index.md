@@ -1,6 +1,6 @@
 ---
 title: Save XML as WMF API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save XML format file as WMF format file. 
 url: /net/saveas/xml-to-wmf/
 ---
 

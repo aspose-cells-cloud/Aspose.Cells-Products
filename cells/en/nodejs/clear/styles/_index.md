@@ -6,7 +6,7 @@ url: /nodejs/clear/styles/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="NodeJS Clear to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in NodeJS. This professional solution clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet using NodeJS." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="NodeJS Clear to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in NodeJS. This professional solution clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet using NodeJS." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear styles on local Microsoft Excel and OpenOffice Calc spreadsheet - NodeJS REST API" >}}

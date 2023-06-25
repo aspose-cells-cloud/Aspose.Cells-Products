@@ -1,6 +1,6 @@
 ---
 title: JSON to XPS Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert JSON format file to XPS format file. 
 url: /php/conversion/json-to-xps/
 ---
 

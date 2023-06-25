@@ -1,6 +1,6 @@
 ---
 title: SXC to PNG Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert SXC format file to PNG format file. 
 url: /php/conversion/sxc-to-png/
 ---
 

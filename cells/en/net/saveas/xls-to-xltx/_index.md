@@ -1,6 +1,6 @@
 ---
 title: Save XLS as XLTX API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save XLS format file as XLTX format file. 
 url: /net/saveas/xls-to-xltx/
 ---
 

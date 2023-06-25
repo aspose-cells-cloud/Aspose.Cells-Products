@@ -1,6 +1,6 @@
 ---
 title: Save ODS as TIFF API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save ODS format file as TIFF format file. 
 url: /python/saveas/ods-to-tiff/
 ---
 

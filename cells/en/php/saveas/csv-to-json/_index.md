@@ -1,6 +1,6 @@
 ---
 title: Save CSV as JSON API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save CSV format file as JSON format file. 
 url: /php/saveas/csv-to-json/
 ---
 

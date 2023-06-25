@@ -1,6 +1,6 @@
 ---
 title: Save TXT as CSV API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save TXT format file as CSV format file. 
 url: /perl/saveas/txt-to-csv/
 ---
 

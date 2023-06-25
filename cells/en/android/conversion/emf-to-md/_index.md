@@ -1,6 +1,6 @@
 ---
 title: EMF to MD Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert EMF format file to MD format file. 
 url: /android/conversion/emf-to-md/
 ---
 

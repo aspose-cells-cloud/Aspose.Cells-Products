@@ -6,7 +6,7 @@ url: /net/clear/formulas/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear formulas on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}

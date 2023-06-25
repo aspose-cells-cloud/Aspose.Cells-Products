@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as CSV API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save XLSX format file as CSV format file. 
 url: /nodejs/saveas/xlsx-to-csv/
 ---
 

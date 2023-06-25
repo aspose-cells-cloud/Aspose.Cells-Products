@@ -1,6 +1,6 @@
 ---
 title: XLT to ODS Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert XLT format file to ODS format file. 
 url: /android/conversion/xlt-to-ods/
 ---
 

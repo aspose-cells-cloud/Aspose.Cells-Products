@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as CSV API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save MHTML format file as CSV format file. 
 url: /ruby/saveas/mhtml-to-csv/
 ---
 

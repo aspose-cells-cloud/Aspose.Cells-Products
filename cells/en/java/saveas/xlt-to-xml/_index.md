@@ -1,6 +1,6 @@
 ---
 title: Save XLT as XML API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XLT format file as XML format file. 
 url: /java/saveas/xlt-to-xml/
 ---
 

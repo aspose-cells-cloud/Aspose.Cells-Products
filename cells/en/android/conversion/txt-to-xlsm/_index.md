@@ -1,6 +1,6 @@
 ---
 title: TXT to XLSM Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert TXT format file to XLSM format file. 
 url: /android/conversion/txt-to-xlsm/
 ---
 

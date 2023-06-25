@@ -1,6 +1,6 @@
 ---
 title: Save ODS as XLS API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save ODS format file as XLS format file. 
 url: /go/saveas/ods-to-xls/
 ---
 

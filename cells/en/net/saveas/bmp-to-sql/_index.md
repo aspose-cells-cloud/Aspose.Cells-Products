@@ -1,6 +1,6 @@
 ---
 title: Save BMP as SQL API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save BMP format file as SQL format file. 
 url: /net/saveas/bmp-to-sql/
 ---
 

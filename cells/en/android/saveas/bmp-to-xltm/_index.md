@@ -1,6 +1,6 @@
 ---
 title: Save BMP as XLTM API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save BMP format file as XLTM format file. 
 url: /android/saveas/bmp-to-xltm/
 ---
 

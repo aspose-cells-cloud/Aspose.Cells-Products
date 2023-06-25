@@ -1,6 +1,6 @@
 ---
 title: MHTML to DIF Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert MHTML format file to DIF format file. 
 url: /go/conversion/mhtml-to-dif/
 ---
 

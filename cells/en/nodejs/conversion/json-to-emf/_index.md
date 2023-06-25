@@ -1,6 +1,6 @@
 ---
 title: JSON to EMF Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert JSON format file to EMF format file. 
 url: /nodejs/conversion/json-to-emf/
 ---
 

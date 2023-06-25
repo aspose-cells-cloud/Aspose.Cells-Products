@@ -1,6 +1,6 @@
 ---
 title: Save JSON as PNG API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save JSON format file as PNG format file. 
 url: /ruby/saveas/json-to-png/
 ---
 

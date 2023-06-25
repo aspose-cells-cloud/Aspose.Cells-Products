@@ -1,6 +1,6 @@
 ---
 title: EMF to XLTM Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert EMF format file to XLTM format file. 
 url: /net/conversion/emf-to-xltm/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XLTX as DIF API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save XLTX format file as DIF format file. 
 url: /nodejs/saveas/xltx-to-dif/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: MHTML to XPS Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert MHTML format file to XPS format file. 
 url: /python/conversion/mhtml-to-xps/
 ---
 

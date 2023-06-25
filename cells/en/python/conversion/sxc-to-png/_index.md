@@ -1,6 +1,6 @@
 ---
 title: SXC to PNG Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert SXC format file to PNG format file. 
 url: /python/conversion/sxc-to-png/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: XLSB to PPTX Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert XLSB format file to PPTX format file. 
 url: /go/conversion/xlsb-to-pptx/
 ---
 

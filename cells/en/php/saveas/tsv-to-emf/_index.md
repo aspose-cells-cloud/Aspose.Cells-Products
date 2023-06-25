@@ -1,6 +1,6 @@
 ---
 title: Save TSV as EMF API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save TSV format file as EMF format file. 
 url: /php/saveas/tsv-to-emf/
 ---
 

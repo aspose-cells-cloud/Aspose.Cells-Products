@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as TIFF API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save XLTM format file as TIFF format file. 
 url: /python/saveas/xltm-to-tiff/
 ---
 

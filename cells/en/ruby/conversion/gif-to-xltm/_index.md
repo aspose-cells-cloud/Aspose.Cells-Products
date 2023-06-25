@@ -1,6 +1,6 @@
 ---
 title: GIF to XLTM Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert GIF format file to XLTM format file. 
 url: /ruby/conversion/gif-to-xltm/
 ---
 

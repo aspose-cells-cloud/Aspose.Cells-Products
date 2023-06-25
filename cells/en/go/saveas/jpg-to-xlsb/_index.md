@@ -1,6 +1,6 @@
 ---
 title: Save JPG as XLSB API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save JPG format file as XLSB format file. 
 url: /go/saveas/jpg-to-xlsb/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XML as DOCX API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save XML format file as DOCX format file. 
 url: /ruby/saveas/xml-to-docx/
 ---
 

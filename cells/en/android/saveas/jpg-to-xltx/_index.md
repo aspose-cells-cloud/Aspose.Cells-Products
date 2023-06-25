@@ -1,6 +1,6 @@
 ---
 title: Save JPG as XLTX API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save JPG format file as XLTX format file. 
 url: /android/saveas/jpg-to-xltx/
 ---
 

@@ -6,7 +6,7 @@ url: /android/protect/encrypt-cloud-file-with-password/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Android library to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Protect REST API to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Android. This professional solution protects cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Android." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Android library to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Protect REST API to protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Android. This professional solution protects cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Android." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Protect cloud Microsoft Excel and OpenOffice Calc spreadsheet with password - Android REST API" >}}

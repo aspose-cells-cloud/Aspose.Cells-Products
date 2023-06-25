@@ -1,18 +1,18 @@
 ---
-title: Add watermark for local workbook in Cloud 
-description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc. Adding watermark for local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Add watermark for local workbook with Java in Cloud 
+description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc with Java. Adding watermark for local spreadsheets by the Cells Cloud API SDK for Java.  
 url: /java/background/add-watermark/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java library to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Watermark REST API to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution add watermark for Microsoft Excel and OpenOffice Calc spreadsheet online using Java." urlsection="background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java library to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Watermark REST API to add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution add watermark for Microsoft Excel and OpenOffice Calc spreadsheet online using Java." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Add watermark for local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/watermark  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark  apimethod=POST %}}
 <br/>
-Adding watermark for a local spreadsheet is a complex task. Adding watermark for a local spreadsheet transitions is performed by our Java SDK while maintaining the source spreadsheet's main structural and logical content. Our Java library is a professional solution to adding watermark for local spreadsheets online. This Cloud SDK gives Java developers powerful functionality and perfect API.
+Adding watermark for a local spreadsheet with Java is a complex task. Adding watermark for a local spreadsheet transitions is performed by our Java SDK while maintaining the source spreadsheet's main structural and logical content. Our Java library is a professional solution to adding watermark for local spreadsheets online. This Cloud SDK gives Java developers powerful functionality and perfect API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to add watermark for local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Watermark.java" %}}

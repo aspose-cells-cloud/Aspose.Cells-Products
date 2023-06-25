@@ -6,7 +6,7 @@ url: /python/protect/decrypt-with-password/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Python library to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Python. This professional solution decrypts local Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Python." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Python library to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Python. This professional solution decrypts local Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Python." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Decrypt local Microsoft Excel and OpenOffice Calc spreadsheet with password - Python REST API" >}}

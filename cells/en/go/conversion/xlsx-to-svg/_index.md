@@ -1,6 +1,6 @@
 ---
 title: XLSX to SVG Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert XLSX format file to SVG format file. 
 url: /go/conversion/xlsx-to-svg/
 ---
 

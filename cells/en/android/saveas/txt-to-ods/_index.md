@@ -1,6 +1,6 @@
 ---
 title: Save TXT as ODS API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save TXT format file as ODS format file. 
 url: /android/saveas/txt-to-ods/
 ---
 

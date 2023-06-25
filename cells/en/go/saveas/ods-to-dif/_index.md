@@ -1,6 +1,6 @@
 ---
 title: Save ODS as DIF API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save ODS format file as DIF format file. 
 url: /go/saveas/ods-to-dif/
 ---
 

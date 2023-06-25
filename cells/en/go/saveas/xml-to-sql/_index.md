@@ -1,6 +1,6 @@
 ---
 title: Save XML as SQL API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XML format file as SQL format file. 
 url: /go/saveas/xml-to-sql/
 ---
 

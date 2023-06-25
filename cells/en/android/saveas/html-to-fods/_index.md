@@ -1,6 +1,6 @@
 ---
 title: Save HTML as FODS API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save HTML format file as FODS format file. 
 url: /android/saveas/html-to-fods/
 ---
 

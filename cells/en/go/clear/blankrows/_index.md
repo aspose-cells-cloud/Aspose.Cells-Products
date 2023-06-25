@@ -6,7 +6,7 @@ url: /go/clear/blank-rows/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Go Clear to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Go. This professional solution clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet using Go." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Go Clear to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Go. This professional solution clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet using Go." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear blank rows on local Microsoft Excel and OpenOffice Calc spreadsheet - Go REST API" >}}

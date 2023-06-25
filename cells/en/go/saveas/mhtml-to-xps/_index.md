@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as XPS API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save MHTML format file as XPS format file. 
 url: /go/saveas/mhtml-to-xps/
 ---
 

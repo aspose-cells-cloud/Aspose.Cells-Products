@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as ODS API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save NUMBERS format file as ODS format file. 
 url: /ruby/saveas/numbers-to-ods/
 ---
 

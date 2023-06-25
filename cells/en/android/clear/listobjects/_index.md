@@ -6,7 +6,7 @@ url: /android/clear/list-objects/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet - Android REST API" >}}

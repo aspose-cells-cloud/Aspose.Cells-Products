@@ -6,7 +6,7 @@ url: /android/clear/pivot-tables/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Android Clear to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Android. This professional solution clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet using Android." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear pivot tables on local Microsoft Excel and OpenOffice Calc spreadsheet - Android REST API" >}}

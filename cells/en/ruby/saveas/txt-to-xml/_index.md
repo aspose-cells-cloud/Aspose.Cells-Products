@@ -1,6 +1,6 @@
 ---
 title: Save TXT as XML API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save TXT format file as XML format file. 
 url: /ruby/saveas/txt-to-xml/
 ---
 

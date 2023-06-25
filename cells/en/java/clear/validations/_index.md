@@ -6,7 +6,7 @@ url: /java/clear/validations/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear validations on local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}

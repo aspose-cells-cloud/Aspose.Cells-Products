@@ -1,6 +1,6 @@
 ---
 title: Save HTML as SVG API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save HTML format file as SVG format file. 
 url: /go/saveas/html-to-svg/
 ---
 

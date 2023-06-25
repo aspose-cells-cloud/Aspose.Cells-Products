@@ -1,6 +1,6 @@
 ---
 title: BMP to SXC Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert BMP format file to SXC format file. 
 url: /php/conversion/bmp-to-sxc/
 ---
 

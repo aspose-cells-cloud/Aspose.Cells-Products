@@ -1,6 +1,6 @@
 ---
 title: Save SXC as XLTM API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save SXC format file as XLTM format file. 
 url: /android/saveas/sxc-to-xltm/
 ---
 

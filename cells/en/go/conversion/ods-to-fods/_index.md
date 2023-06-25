@@ -1,6 +1,6 @@
 ---
 title: ODS to FODS Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert ODS format file to FODS format file. 
 url: /go/conversion/ods-to-fods/
 ---
 

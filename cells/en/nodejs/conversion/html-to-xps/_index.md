@@ -1,6 +1,6 @@
 ---
 title: HTML to XPS Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert HTML format file to XPS format file. 
 url: /nodejs/conversion/html-to-xps/
 ---
 

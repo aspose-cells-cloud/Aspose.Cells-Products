@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as PDF API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save MHTML format file as PDF format file. 
 url: /net/saveas/mhtml-to-pdf/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save BMP as DOCX API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save BMP format file as DOCX format file. 
 url: /perl/saveas/bmp-to-docx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as WMF API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save MHTML format file as WMF format file. 
 url: /nodejs/saveas/mhtml-to-wmf/
 ---
 

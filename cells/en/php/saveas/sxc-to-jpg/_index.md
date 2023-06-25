@@ -1,6 +1,6 @@
 ---
 title: Save SXC as JPG API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save SXC format file as JPG format file. 
 url: /php/saveas/sxc-to-jpg/
 ---
 

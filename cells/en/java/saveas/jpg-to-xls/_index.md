@@ -1,6 +1,6 @@
 ---
 title: Save JPG as XLS API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save JPG format file as XLS format file. 
 url: /java/saveas/jpg-to-xls/
 ---
 

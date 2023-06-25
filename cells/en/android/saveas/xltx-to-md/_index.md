@@ -1,6 +1,6 @@
 ---
 title: Save XLTX as MD API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLTX format file as MD format file. 
 url: /android/saveas/xltx-to-md/
 ---
 

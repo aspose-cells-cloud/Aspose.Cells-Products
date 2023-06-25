@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as PDF API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save NUMBERS format file as PDF format file. 
 url: /python/saveas/numbers-to-pdf/
 ---
 

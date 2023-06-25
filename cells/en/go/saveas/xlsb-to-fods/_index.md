@@ -1,6 +1,6 @@
 ---
 title: Save XLSB as FODS API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XLSB format file as FODS format file. 
 url: /go/saveas/xlsb-to-fods/
 ---
 

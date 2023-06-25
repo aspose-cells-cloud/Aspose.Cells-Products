@@ -1,6 +1,6 @@
 ---
 title: BMP to MD Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert BMP format file to MD format file. 
 url: /python/conversion/bmp-to-md/
 ---
 

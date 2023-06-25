@@ -1,6 +1,6 @@
 ---
 title: Save EMF as SXC API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save EMF format file as SXC format file. 
 url: /ruby/saveas/emf-to-sxc/
 ---
 

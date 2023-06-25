@@ -1,6 +1,6 @@
 ---
 title: JPG to PDF Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert JPG format file to PDF format file. 
 url: /php/conversion/jpg-to-pdf/
 ---
 

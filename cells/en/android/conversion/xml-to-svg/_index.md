@@ -1,6 +1,6 @@
 ---
 title: XML to SVG Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert XML format file to SVG format file. 
 url: /android/conversion/xml-to-svg/
 ---
 

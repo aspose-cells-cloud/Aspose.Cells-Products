@@ -1,6 +1,6 @@
 ---
 title: CSV to SQL Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert CSV format file to SQL format file. 
 url: /java/conversion/csv-to-sql/
 ---
 

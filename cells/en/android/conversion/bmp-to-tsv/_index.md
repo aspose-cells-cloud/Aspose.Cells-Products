@@ -1,6 +1,6 @@
 ---
 title: BMP to TSV Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert BMP format file to TSV format file. 
 url: /android/conversion/bmp-to-tsv/
 ---
 

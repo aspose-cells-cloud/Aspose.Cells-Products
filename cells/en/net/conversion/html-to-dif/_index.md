@@ -1,6 +1,6 @@
 ---
 title: HTML to DIF Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert HTML format file to DIF format file. 
 url: /net/conversion/html-to-dif/
 ---
 

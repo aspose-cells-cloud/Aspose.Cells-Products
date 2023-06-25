@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as MD API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save NUMBERS format file as MD format file. 
 url: /go/saveas/numbers-to-md/
 ---
 

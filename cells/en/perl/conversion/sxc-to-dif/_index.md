@@ -1,6 +1,6 @@
 ---
 title: SXC to DIF Convert API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to convert SXC format file to DIF format file. 
 url: /perl/conversion/sxc-to-dif/
 ---
 

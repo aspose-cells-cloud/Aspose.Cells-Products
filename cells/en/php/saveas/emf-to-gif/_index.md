@@ -1,6 +1,6 @@
 ---
 title: Save EMF as GIF API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save EMF format file as GIF format file. 
 url: /php/saveas/emf-to-gif/
 ---
 

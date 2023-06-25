@@ -6,7 +6,7 @@ url: /java/clear/comments/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear comments on local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}

@@ -1,6 +1,6 @@
 ---
 title: Save TSV as SXC API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save TSV format file as SXC format file. 
 url: /android/saveas/tsv-to-sxc/
 ---
 

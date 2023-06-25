@@ -1,6 +1,6 @@
 ---
 title: Save JSON as PPTX API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save JSON format file as PPTX format file. 
 url: /go/saveas/json-to-pptx/
 ---
 

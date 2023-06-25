@@ -6,7 +6,7 @@ url: /php/clear/list-objects/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="PHP Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in PHP. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using PHP." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="PHP Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in PHP. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using PHP." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet - PHP REST API" >}}

@@ -1,6 +1,6 @@
 ---
 title: Save TSV as FODS API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save TSV format file as FODS format file. 
 url: /nodejs/saveas/tsv-to-fods/
 ---
 

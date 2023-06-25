@@ -1,6 +1,6 @@
 ---
 title: Save SXC as XPS API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save SXC format file as XPS format file. 
 url: /php/saveas/sxc-to-xps/
 ---
 

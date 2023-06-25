@@ -1,6 +1,6 @@
 ---
 title: XLTM to XLS Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert XLTM format file to XLS format file. 
 url: /php/conversion/xltm-to-xls/
 ---
 

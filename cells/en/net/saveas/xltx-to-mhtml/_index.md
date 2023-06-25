@@ -1,6 +1,6 @@
 ---
 title: Save XLTX as MHTML API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save XLTX format file as MHTML format file. 
 url: /net/saveas/xltx-to-mhtml/
 ---
 

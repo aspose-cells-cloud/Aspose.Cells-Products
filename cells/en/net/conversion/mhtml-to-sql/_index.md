@@ -1,6 +1,6 @@
 ---
 title: MHTML to SQL Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert MHTML format file to SQL format file. 
 url: /net/conversion/mhtml-to-sql/
 ---
 

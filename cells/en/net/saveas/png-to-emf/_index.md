@@ -1,6 +1,6 @@
 ---
 title: Save PNG as EMF API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save PNG format file as EMF format file. 
 url: /net/saveas/png-to-emf/
 ---
 

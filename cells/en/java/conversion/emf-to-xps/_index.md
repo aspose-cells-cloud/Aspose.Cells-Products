@@ -1,6 +1,6 @@
 ---
 title: EMF to XPS Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert EMF format file to XPS format file. 
 url: /java/conversion/emf-to-xps/
 ---
 

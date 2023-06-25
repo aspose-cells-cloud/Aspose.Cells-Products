@@ -1,6 +1,6 @@
 ---
 title: Save ODS as MHTML API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save ODS format file as MHTML format file. 
 url: /ruby/saveas/ods-to-mhtml/
 ---
 

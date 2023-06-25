@@ -1,14 +1,14 @@
 ---
-title: Background 
-description: Aspose.Cells Cloud REST API supports set background for Excel file. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Set background with Go 
+description: Aspose.Cells Cloud REST API supports set background for Excel file with Go. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /go/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Background" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Set background with Go" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file with Go. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Background Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Set background with Go Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,6 +1,6 @@
 ---
 title: XLSB to TXT Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert XLSB format file to TXT format file. 
 url: /go/conversion/xlsb-to-txt/
 ---
 

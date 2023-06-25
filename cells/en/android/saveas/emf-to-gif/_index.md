@@ -1,6 +1,6 @@
 ---
 title: Save EMF as GIF API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save EMF format file as GIF format file. 
 url: /android/saveas/emf-to-gif/
 ---
 

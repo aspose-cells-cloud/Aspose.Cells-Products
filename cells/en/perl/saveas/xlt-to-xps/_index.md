@@ -1,6 +1,6 @@
 ---
 title: Save XLT as XPS API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save XLT format file as XPS format file. 
 url: /perl/saveas/xlt-to-xps/
 ---
 

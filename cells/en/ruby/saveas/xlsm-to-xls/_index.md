@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as XLS API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save XLSM format file as XLS format file. 
 url: /ruby/saveas/xlsm-to-xls/
 ---
 

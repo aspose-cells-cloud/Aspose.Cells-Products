@@ -6,7 +6,7 @@ url: /android/protect/decrypt-cloud-file-with-password/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Android library to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Android. This professional solution decrypts cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Android." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="Android library to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in Android. This professional solution decrypts cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using Android." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password - Android REST API" >}}

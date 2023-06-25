@@ -1,6 +1,6 @@
 ---
 title: Save XLSB as JSON API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save XLSB format file as JSON format file. 
 url: /ruby/saveas/xlsb-to-json/
 ---
 

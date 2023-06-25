@@ -1,6 +1,6 @@
 ---
 title: CSV to WMF Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert CSV format file to WMF format file. 
 url: /ruby/conversion/csv-to-wmf/
 ---
 

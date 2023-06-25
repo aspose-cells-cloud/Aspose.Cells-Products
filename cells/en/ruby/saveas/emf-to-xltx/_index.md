@@ -1,6 +1,6 @@
 ---
 title: Save EMF as XLTX API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save EMF format file as XLTX format file. 
 url: /ruby/saveas/emf-to-xltx/
 ---
 

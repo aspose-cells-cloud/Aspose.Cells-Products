@@ -1,6 +1,6 @@
 ---
 title: Save BMP as XML API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save BMP format file as XML format file. 
 url: /php/saveas/bmp-to-xml/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save SXC as XLSB API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save SXC format file as XLSB format file. 
 url: /net/saveas/sxc-to-xlsb/
 ---
 

@@ -6,7 +6,7 @@ url: /java/clear/content/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear content on local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}

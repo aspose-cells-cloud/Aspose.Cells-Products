@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as BMP API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save MHTML format file as BMP format file. 
 url: /php/saveas/mhtml-to-bmp/
 ---
 

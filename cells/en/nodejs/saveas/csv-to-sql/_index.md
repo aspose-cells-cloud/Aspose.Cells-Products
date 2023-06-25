@@ -1,6 +1,6 @@
 ---
 title: Save CSV as SQL API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save CSV format file as SQL format file. 
 url: /nodejs/saveas/csv-to-sql/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XML as CSV API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save XML format file as CSV format file. 
 url: /php/saveas/xml-to-csv/
 ---
 

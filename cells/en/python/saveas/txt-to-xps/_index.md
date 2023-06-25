@@ -1,6 +1,6 @@
 ---
 title: Save TXT as XPS API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save TXT format file as XPS format file. 
 url: /python/saveas/txt-to-xps/
 ---
 

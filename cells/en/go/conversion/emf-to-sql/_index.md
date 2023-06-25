@@ -1,6 +1,6 @@
 ---
 title: EMF to SQL Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert EMF format file to SQL format file. 
 url: /go/conversion/emf-to-sql/
 ---
 

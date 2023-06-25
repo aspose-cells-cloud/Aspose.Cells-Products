@@ -1,6 +1,6 @@
 ---
 title: XLTM to TIFF Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert XLTM format file to TIFF format file. 
 url: /android/conversion/xltm-to-tiff/
 ---
 

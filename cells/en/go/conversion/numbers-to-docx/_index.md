@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to DOCX Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert NUMBERS format file to DOCX format file. 
 url: /go/conversion/numbers-to-docx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as SQL API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save MHTML format file as SQL format file. 
 url: /go/saveas/mhtml-to-sql/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: XLSB to XLTX Convert API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to convert XLSB format file to XLTX format file. 
 url: /perl/conversion/xlsb-to-xltx/
 ---
 

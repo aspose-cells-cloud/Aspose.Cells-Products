@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as FODS API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XLTM format file as FODS format file. 
 url: /java/saveas/xltm-to-fods/
 ---
 

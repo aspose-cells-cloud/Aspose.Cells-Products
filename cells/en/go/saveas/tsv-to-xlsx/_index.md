@@ -1,6 +1,6 @@
 ---
 title: Save TSV as XLSX API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save TSV format file as XLSX format file. 
 url: /go/saveas/tsv-to-xlsx/
 ---
 

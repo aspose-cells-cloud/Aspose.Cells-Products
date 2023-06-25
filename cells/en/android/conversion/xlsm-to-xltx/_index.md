@@ -1,6 +1,6 @@
 ---
 title: XLSM to XLTX Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert XLSM format file to XLTX format file. 
 url: /android/conversion/xlsm-to-xltx/
 ---
 

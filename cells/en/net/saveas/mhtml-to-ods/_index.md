@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as ODS API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save MHTML format file as ODS format file. 
 url: /net/saveas/mhtml-to-ods/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: JSON to SXC Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert JSON format file to SXC format file. 
 url: /ruby/conversion/json-to-sxc/
 ---
 

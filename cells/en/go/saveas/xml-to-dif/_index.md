@@ -1,6 +1,6 @@
 ---
 title: Save XML as DIF API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save XML format file as DIF format file. 
 url: /go/saveas/xml-to-dif/
 ---
 

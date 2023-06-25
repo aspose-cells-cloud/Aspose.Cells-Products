@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as SQL API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save XLTM format file as SQL format file. 
 url: /net/saveas/xltm-to-sql/
 ---
 

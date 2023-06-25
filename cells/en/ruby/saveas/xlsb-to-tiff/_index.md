@@ -1,6 +1,6 @@
 ---
 title: Save XLSB as TIFF API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save XLSB format file as TIFF format file. 
 url: /ruby/saveas/xlsb-to-tiff/
 ---
 

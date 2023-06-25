@@ -1,6 +1,6 @@
 ---
 title: Save GIF as ODS API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save GIF format file as ODS format file. 
 url: /java/saveas/gif-to-ods/
 ---
 

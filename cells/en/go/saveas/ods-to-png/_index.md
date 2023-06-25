@@ -1,6 +1,6 @@
 ---
 title: Save ODS as PNG API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save ODS format file as PNG format file. 
 url: /go/saveas/ods-to-png/
 ---
 

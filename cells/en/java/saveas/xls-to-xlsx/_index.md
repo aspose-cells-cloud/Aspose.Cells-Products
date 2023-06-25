@@ -1,6 +1,6 @@
 ---
 title: Save XLS as XLSX API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save XLS format file as XLSX format file. 
 url: /java/saveas/xls-to-xlsx/
 ---
 

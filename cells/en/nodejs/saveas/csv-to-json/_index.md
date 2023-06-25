@@ -1,6 +1,6 @@
 ---
 title: Save CSV as JSON API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save CSV format file as JSON format file. 
 url: /nodejs/saveas/csv-to-json/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save JSON as ODS API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save JSON format file as ODS format file. 
 url: /perl/saveas/json-to-ods/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save ODS as FODS API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save ODS format file as FODS format file. 
 url: /net/saveas/ods-to-fods/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save XLT as MD API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save XLT format file as MD format file. 
 url: /php/saveas/xlt-to-md/
 ---
 

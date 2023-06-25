@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to JSON Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert NUMBERS format file to JSON format file. 
 url: /net/conversion/numbers-to-json/
 ---
 

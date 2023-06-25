@@ -6,7 +6,7 @@ url: /go/clear/blank-columns/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Go Clear to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Go. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using Go." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Go Clear to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Go. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using Go." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet - Go REST API" >}}

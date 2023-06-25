@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to XLSM Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert NUMBERS format file to XLSM format file. 
 url: /java/conversion/numbers-to-xlsm/
 ---
 

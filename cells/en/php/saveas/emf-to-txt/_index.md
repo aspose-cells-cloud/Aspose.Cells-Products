@@ -1,6 +1,6 @@
 ---
 title: Save EMF as TXT API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save EMF format file as TXT format file. 
 url: /php/saveas/emf-to-txt/
 ---
 

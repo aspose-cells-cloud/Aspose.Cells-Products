@@ -1,6 +1,6 @@
 ---
 title: ODS to SVG Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert ODS format file to SVG format file. 
 url: /go/conversion/ods-to-svg/
 ---
 

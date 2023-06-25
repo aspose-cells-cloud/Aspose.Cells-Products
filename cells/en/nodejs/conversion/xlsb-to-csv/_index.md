@@ -1,6 +1,6 @@
 ---
 title: XLSB to CSV Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert XLSB format file to CSV format file. 
 url: /nodejs/conversion/xlsb-to-csv/
 ---
 

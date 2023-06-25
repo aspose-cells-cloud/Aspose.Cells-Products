@@ -1,6 +1,6 @@
 ---
 title: Save XLT as XLS API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save XLT format file as XLS format file. 
 url: /python/saveas/xlt-to-xls/
 ---
 

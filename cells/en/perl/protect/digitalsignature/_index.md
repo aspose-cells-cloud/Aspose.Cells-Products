@@ -6,7 +6,7 @@ url: /perl/protect/digital-signature/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file" h2="Perl library to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file" p="Use Cells Digital signature REST API to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file workflows in Perl. This professional solution digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords and digital signature file using Perl." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file" h2="Perl library to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file" p="Use Cells Digital signature REST API to digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password and digital signature file workflows in Perl. This professional solution digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords and digital signature file using Perl." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Digital signature cloud Microsoft Excel and OpenOffice Calc spreadsheet with password - Perl REST API" >}}

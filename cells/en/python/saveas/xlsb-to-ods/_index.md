@@ -1,6 +1,6 @@
 ---
 title: Save XLSB as ODS API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save XLSB format file as ODS format file. 
 url: /python/saveas/xlsb-to-ods/
 ---
 

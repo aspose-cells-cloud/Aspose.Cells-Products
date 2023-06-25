@@ -1,6 +1,6 @@
 ---
 title: Save HTML as XLSB API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save HTML format file as XLSB format file. 
 url: /python/saveas/html-to-xlsb/
 ---
 

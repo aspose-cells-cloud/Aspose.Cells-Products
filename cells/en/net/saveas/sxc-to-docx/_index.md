@@ -1,6 +1,6 @@
 ---
 title: Save SXC as DOCX API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save SXC format file as DOCX format file. 
 url: /net/saveas/sxc-to-docx/
 ---
 

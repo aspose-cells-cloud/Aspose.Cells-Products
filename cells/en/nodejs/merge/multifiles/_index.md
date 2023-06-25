@@ -1,12 +1,12 @@
 ---
-title: Merge multiple Excel files into a file. 
-description: Cloud APIs & SDKs for merging multiple Excel files. Merge multiple Excel files into a file by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Merge multiple Excel files into a file with NodeJS. 
+description: Cloud APIs & SDKs for merging multiple Excel files with NodeJS 
 url: /nodejs/merge/multi-files/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to merge multiple Excel files into a file." h2="NodeJS library to merge multi Excel files into a file." p="Use Cells Merge REST API to merge multiple Excel files into a file in NodeJS. This professional solution merge multiple Excel files into a Microsoft Excel or OpenOffice Calc spreadsheet using NodeJS." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to merge multiple Excel files into a file." h2="NodeJS library to merge multi Excel files into a file." p="Use Cells Merge REST API to merge multiple Excel files into a file in NodeJS. This professional solution merge multiple Excel files into a Microsoft Excel or OpenOffice Calc spreadsheet using NodeJS." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Merge multiple Excel files into a file - NodeJS REST API" >}}

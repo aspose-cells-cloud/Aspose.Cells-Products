@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as DOCX API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save XLTM format file as DOCX format file. 
 url: /perl/saveas/xltm-to-docx/
 ---
 

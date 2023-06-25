@@ -1,6 +1,6 @@
 ---
 title: Save MHTML as PDF API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save MHTML format file as PDF format file. 
 url: /php/saveas/mhtml-to-pdf/
 ---
 

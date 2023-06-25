@@ -1,6 +1,6 @@
 ---
 title: Save JSON as XLSM API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to save JSON format file as XLSM format file. 
 url: /php/saveas/json-to-xlsm/
 ---
 

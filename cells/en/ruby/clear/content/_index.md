@@ -6,7 +6,7 @@ url: /ruby/clear/content/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Ruby Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Ruby. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Ruby." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Ruby Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Ruby. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear content on local Microsoft Excel and OpenOffice Calc spreadsheet - Ruby REST API" >}}

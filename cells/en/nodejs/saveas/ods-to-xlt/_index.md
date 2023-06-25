@@ -1,6 +1,6 @@
 ---
 title: Save ODS as XLT API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save ODS format file as XLT format file. 
 url: /nodejs/saveas/ods-to-xlt/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save SXC as BMP API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save SXC format file as BMP format file. 
 url: /go/saveas/sxc-to-bmp/
 ---
 

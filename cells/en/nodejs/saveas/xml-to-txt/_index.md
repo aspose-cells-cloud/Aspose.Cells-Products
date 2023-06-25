@@ -1,6 +1,6 @@
 ---
 title: Save XML as TXT API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save XML format file as TXT format file. 
 url: /nodejs/saveas/xml-to-txt/
 ---
 

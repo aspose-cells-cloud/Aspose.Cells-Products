@@ -1,6 +1,6 @@
 ---
 title: Save PNG as ODS API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save PNG format file as ODS format file. 
 url: /android/saveas/png-to-ods/
 ---
 

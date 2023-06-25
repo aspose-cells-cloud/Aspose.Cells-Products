@@ -1,6 +1,6 @@
 ---
 title: Save BMP as TSV API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to save BMP format file as TSV format file. 
 url: /java/saveas/bmp-to-tsv/
 ---
 

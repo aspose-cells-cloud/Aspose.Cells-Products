@@ -1,6 +1,6 @@
 ---
 title: Save BMP as SQL API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to save BMP format file as SQL format file. 
 url: /ruby/saveas/bmp-to-sql/
 ---
 

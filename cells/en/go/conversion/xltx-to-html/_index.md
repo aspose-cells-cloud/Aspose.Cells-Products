@@ -1,6 +1,6 @@
 ---
 title: XLTX to HTML Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert XLTX format file to HTML format file. 
 url: /go/conversion/xltx-to-html/
 ---
 

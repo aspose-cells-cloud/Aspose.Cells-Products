@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as SXC API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save NUMBERS format file as SXC format file. 
 url: /nodejs/saveas/numbers-to-sxc/
 ---
 

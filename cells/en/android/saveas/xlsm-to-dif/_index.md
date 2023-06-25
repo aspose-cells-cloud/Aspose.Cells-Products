@@ -1,6 +1,6 @@
 ---
 title: Save XLSM as DIF API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to save XLSM format file as DIF format file. 
 url: /android/saveas/xlsm-to-dif/
 ---
 

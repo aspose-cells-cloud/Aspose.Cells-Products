@@ -1,6 +1,6 @@
 ---
 title: XLTM to XLSX Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert XLTM format file to XLSX format file. 
 url: /python/conversion/xltm-to-xlsx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save EMF as MD API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save EMF format file as MD format file. 
 url: /perl/saveas/emf-to-md/
 ---
 

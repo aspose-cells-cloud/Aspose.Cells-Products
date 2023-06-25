@@ -1,6 +1,6 @@
 ---
 title: Save PNG as TXT API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save PNG format file as TXT format file. 
 url: /go/saveas/png-to-txt/
 ---
 

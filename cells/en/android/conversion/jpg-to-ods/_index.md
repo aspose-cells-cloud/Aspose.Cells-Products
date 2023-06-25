@@ -1,6 +1,6 @@
 ---
 title: JPG to ODS Convert API for Android 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Android to convert JPG format file to ODS format file. 
 url: /android/conversion/jpg-to-ods/
 ---
 

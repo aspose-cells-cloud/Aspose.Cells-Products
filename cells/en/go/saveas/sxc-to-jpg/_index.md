@@ -1,6 +1,6 @@
 ---
 title: Save SXC as JPG API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save SXC format file as JPG format file. 
 url: /go/saveas/sxc-to-jpg/
 ---
 

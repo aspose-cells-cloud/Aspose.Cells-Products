@@ -1,6 +1,6 @@
 ---
 title: Save JPG as BMP API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save JPG format file as BMP format file. 
 url: /nodejs/saveas/jpg-to-bmp/
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Clear duplicate rows on the local workbook in Cloud 
-description: Cloud APIs & SDKs for clearing duplicate row on Microsoft Excel & OpenOffice Calc. Clear duplicate rows on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Clear duplicate rows on the local workbook with C# in Cloud 
+description: Cloud APIs & SDKs for clearing duplicate row on Microsoft Excel & OpenOffice Calc with C#. Clear duplicate rows on local spreadsheets by the Cells Cloud API SDK for C# 
 url: /net/clear/duplicate-rows/
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}

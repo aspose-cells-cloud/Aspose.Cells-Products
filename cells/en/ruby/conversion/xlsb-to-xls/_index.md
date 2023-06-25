@@ -1,6 +1,6 @@
 ---
 title: XLSB to XLS Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert XLSB format file to XLS format file. 
 url: /ruby/conversion/xlsb-to-xls/
 ---
 

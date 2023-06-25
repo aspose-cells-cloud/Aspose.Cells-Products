@@ -1,6 +1,6 @@
 ---
 title: JSON to MD Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert JSON format file to MD format file. 
 url: /java/conversion/json-to-md/
 ---
 

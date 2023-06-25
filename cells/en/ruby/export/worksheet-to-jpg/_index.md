@@ -1,6 +1,6 @@
 ---
 title: Export WORKSHEET to JPG from spreadsheet using Ruby  API 
-description: Aspose.Cells Cloud REST API support exporting Excel file and internal objects to kinds of format files. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
 url: /ruby/export/worksheet-to-jpg/
 ---
 

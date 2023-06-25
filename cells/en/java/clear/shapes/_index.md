@@ -6,7 +6,7 @@ url: /java/clear/shapes/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Java Clear to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Java. This professional solution clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet using Java." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear shapes on local Microsoft Excel and OpenOffice Calc spreadsheet - Java REST API" >}}

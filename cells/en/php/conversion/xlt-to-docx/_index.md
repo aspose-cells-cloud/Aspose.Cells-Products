@@ -1,6 +1,6 @@
 ---
 title: XLT to DOCX Convert API for PHP 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for PHP to convert XLT format file to DOCX format file. 
 url: /php/conversion/xlt-to-docx/
 ---
 

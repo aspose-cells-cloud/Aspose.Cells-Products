@@ -1,6 +1,6 @@
 ---
 title: Save PNG as CSV API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save PNG format file as CSV format file. 
 url: /perl/saveas/png-to-csv/
 ---
 

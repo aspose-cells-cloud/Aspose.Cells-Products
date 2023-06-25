@@ -1,6 +1,6 @@
 ---
 title: XLT to JSON Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert XLT format file to JSON format file. 
 url: /python/conversion/xlt-to-json/
 ---
 

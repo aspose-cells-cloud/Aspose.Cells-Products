@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as BMP API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save XLSX format file as BMP format file. 
 url: /python/saveas/xlsx-to-bmp/
 ---
 

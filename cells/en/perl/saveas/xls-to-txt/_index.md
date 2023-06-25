@@ -1,6 +1,6 @@
 ---
 title: Save XLS as TXT API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save XLS format file as TXT format file. 
 url: /perl/saveas/xls-to-txt/
 ---
 

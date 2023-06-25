@@ -1,6 +1,6 @@
 ---
 title: XML to DIF Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert XML format file to DIF format file. 
 url: /python/conversion/xml-to-dif/
 ---
 

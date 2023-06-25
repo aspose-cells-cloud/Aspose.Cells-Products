@@ -1,6 +1,6 @@
 ---
 title: JPG to XLSX Convert API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to convert JPG format file to XLSX format file. 
 url: /python/conversion/jpg-to-xlsx/
 ---
 

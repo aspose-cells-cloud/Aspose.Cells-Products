@@ -1,6 +1,6 @@
 ---
 title: Save TSV as MHTML API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save TSV format file as MHTML format file. 
 url: /go/saveas/tsv-to-mhtml/
 ---
 

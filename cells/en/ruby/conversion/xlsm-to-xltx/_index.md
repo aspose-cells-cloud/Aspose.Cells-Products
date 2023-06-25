@@ -1,6 +1,6 @@
 ---
 title: XLSM to XLTX Convert API for Ruby 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Ruby to convert XLSM format file to XLTX format file. 
 url: /ruby/conversion/xlsm-to-xltx/
 ---
 

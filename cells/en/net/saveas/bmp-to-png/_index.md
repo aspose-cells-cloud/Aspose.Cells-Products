@@ -1,6 +1,6 @@
 ---
 title: Save BMP as PNG API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save BMP format file as PNG format file. 
 url: /net/saveas/bmp-to-png/
 ---
 

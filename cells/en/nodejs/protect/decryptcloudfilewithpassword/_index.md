@@ -6,7 +6,7 @@ url: /nodejs/protect/decrypt-cloud-file-with-password/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="NodeJS library to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in NodeJS. This professional solution decrypts cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using NodeJS." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" h2="NodeJS library to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password" p="Use Cells Decrypt REST API to decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password workflows in NodeJS. This professional solution decrypts cloud Microsoft Excel and OpenOffice Calc spreadsheet online with passwords using NodeJS." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Decrypt cloud Microsoft Excel and OpenOffice Calc spreadsheet with password - NodeJS REST API" >}}

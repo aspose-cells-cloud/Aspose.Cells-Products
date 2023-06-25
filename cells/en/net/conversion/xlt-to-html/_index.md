@@ -1,6 +1,6 @@
 ---
 title: XLT to HTML Convert API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to convert XLT format file to HTML format file. 
 url: /net/conversion/xlt-to-html/
 ---
 

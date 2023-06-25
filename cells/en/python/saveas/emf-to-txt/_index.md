@@ -1,6 +1,6 @@
 ---
 title: Save EMF as TXT API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save EMF format file as TXT format file. 
 url: /python/saveas/emf-to-txt/
 ---
 

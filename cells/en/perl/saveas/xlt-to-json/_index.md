@@ -1,6 +1,6 @@
 ---
 title: Save XLT as JSON API for Perl 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Perl to save XLT format file as JSON format file. 
 url: /perl/saveas/xlt-to-json/
 ---
 

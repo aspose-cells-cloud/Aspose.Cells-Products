@@ -1,6 +1,6 @@
 ---
 title: Save XLSX as XML API for C# 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for C# to save XLSX format file as XML format file. 
 url: /net/saveas/xlsx-to-xml/
 ---
 

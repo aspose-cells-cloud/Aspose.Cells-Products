@@ -1,6 +1,6 @@
 ---
 title: Save JSON as XLSM API for Python 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Python to save JSON format file as XLSM format file. 
 url: /python/saveas/json-to-xlsm/
 ---
 

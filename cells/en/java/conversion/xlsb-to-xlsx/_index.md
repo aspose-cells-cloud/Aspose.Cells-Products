@@ -1,6 +1,6 @@
 ---
 title: XLSB to XLSX Convert API for Java 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Java to convert XLSB format file to XLSX format file. 
 url: /java/conversion/xlsb-to-xlsx/
 ---
 

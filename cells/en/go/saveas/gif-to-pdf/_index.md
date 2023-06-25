@@ -1,6 +1,6 @@
 ---
 title: Save GIF as PDF API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to save GIF format file as PDF format file. 
 url: /go/saveas/gif-to-pdf/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: SXC to XLTX Convert API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to convert SXC format file to XLTX format file. 
 url: /nodejs/conversion/sxc-to-xltx/
 ---
 

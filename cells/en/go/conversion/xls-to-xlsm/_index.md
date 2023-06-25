@@ -1,6 +1,6 @@
 ---
 title: XLS to XLSM Convert API for Go 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Go to convert XLS format file to XLSM format file. 
 url: /go/conversion/xls-to-xlsm/
 ---
 

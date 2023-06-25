@@ -1,6 +1,6 @@
 ---
 title: Save XLT as TIFF API for NodeJS 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for NodeJS to save XLT format file as TIFF format file. 
 url: /nodejs/saveas/xlt-to-tiff/
 ---
 
