@@ -11,7 +11,7 @@ on:
     paths:
       - 'cells/**'
   pull_request:
-    branches: [ main1 ]
+    branches: [ main ]
     paths:
       - 'cells/**'
 
