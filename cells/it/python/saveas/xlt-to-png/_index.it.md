@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come PNG API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato XLT come file in formato PNG.
 url: /it/python/saveas/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

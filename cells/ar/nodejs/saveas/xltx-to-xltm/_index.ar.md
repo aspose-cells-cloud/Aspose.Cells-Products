@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ XLTM API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLTX كملف بتنسيق XLTM.
 url: /ar/nodejs/saveas/xltx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/xltx-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX باسم XLTM في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLTX كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى XLTM بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLTX كملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XLTM مثالي.
+يعد حفظ تنسيقات الملفات من XLTX كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى XLTM بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLTX كملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XLTX بتنسيق XLTM" gistPath="" %}}

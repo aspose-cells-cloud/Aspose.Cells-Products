@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните ODS как XLTX API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните ODS как XLTX API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата ODS в виде файла формата XLTX.
 url: /ru/php/saveas/ods-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/ods-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLTX по адресу PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как XLTX — сложная задача. Все переходы от формата ODS к формату XLTX выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения ODS в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из ODS как XLTX — сложная задача. Все переходы от формата ODS к формату XLTX выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения ODS в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения ODS в формате XLTX" gistPath="" %}}

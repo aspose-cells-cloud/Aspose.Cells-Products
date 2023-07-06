@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ الأرقام باسم WMF API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق NUMBERS كملف بتنسيق WMF.
 url: /ar/python/saveas/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ الأرقام كـ WMF" h2="Python مكتبة لحفظ الأرقام كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ الأرقام على هيئة WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/numbers-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ الأرقام كـ WMF" h2="Python مكتبة لحفظ الأرقام كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ الأرقام بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/numbers-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS كملف WMF في Python" >}}

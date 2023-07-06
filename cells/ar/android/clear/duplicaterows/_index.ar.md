@@ -1,10 +1,10 @@
 ﻿---
-title:  امسح الصفوف المكررة في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الصفوف المكررة على Microsoft Excel & OpenOffice Calc. امسح الصفوف المكررة على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  امسح الصفوف المكررة في المصنف المحلي باستخدام Android في Cloud
+description:  Cloud APIs & SDKs لمسح الصفوف المكررة على Microsoft Excel & OpenOffice Calc مع Android. امسح الصفوف المكررة في جداول البيانات المحلية بواسطة Cells Cloud API SDK لنظام Android
 url: /ar/android/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصفوف المكررة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الصفوف المكررة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Android REST API" >}}

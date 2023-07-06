@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como GIF API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato BMP como archivo de formato GIF.
 url: /es/perl/saveas/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

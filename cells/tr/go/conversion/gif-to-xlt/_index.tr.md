@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF'ten XLT'ye Dönüştürme API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  GIF formatındaki dosyayı XLT formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/gif-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/go/conversion/gif-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go\'da bir GIF dosyasını XLT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını GIF'ten XLT'ye dönüştürmek karmaşık bir iştir. Tüm GIF'ten XLT formatına geçişler, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, GIF'i çevrimiçi olarak XLT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya formatlarını GIF'ten XLT'ye dönüştürmek karmaşık bir iştir. Tüm GIF'ten XLT formatına geçişler, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, GIF'i çevrimiçi olarak XLT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="GIF\'i XLT biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

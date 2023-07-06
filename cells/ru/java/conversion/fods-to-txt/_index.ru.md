@@ -19,7 +19,7 @@ otherformats: XLSB ODS XLSX CSV HTML XLTX DIF XLTM TSV XML MHTML XLSM TIFF XPS S
 1.  Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API
 1. Инициализируйте ```CellsApi``` с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.
 1. Загрузите файл FODS в облачное хранилище по умолчанию с помощью метода ```CellsApi.Upload```.
-1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить результирующий файл TXT.
+1. Позвоните по номеру ```CellsApi.cellsWorkbookGetWorkbook```, чтобы получить результирующий TXT-файл.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Начните работу с Excel, API и Java SDK" %}}

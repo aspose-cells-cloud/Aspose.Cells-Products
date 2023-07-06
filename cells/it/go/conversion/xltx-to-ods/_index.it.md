@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTX a ODS API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLTX in un file in formato ODS.
 url: /it/go/conversion/xltx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

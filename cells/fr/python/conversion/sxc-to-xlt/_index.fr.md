@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir SXC en XLT API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir SXC en XLT API pour Python
+description: Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format SXC en fichier au format XLT.
 url: /fr/python/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLS'den XLSX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLS biçim dosyasını XLSX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xls-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLS dosyasını XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den XLSX'e dönüştürmek karmaşık bir iştir. Tüm XLS'den XLSX'e biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+Dosya formatlarını XLS'den XLSX'e dönüştürmek karmaşık bir iştir. Tüm XLS'den XLSX'e format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLSX biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

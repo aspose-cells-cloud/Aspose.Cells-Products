@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um XML-Formatdateien als MHTML-Formatdateien zu speichern.
 url: /de/go/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML als MHTML zu speichern" h2="Gehen Sie zur Bibliothek, um XML als MHTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XML als MHTML und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XML als MHTML zu speichern" h2="Gehen Sie zur Bibliothek, um XML als MHTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als MHTML und anderen Dokumentformaten mit Go." urlsection="saveas/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als MHTML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu MHTML werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um XML als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte MHTML-Ausgabe.
+Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. Alle XML-zu-MHTML-Formatübergänge werden von unserem Go SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XML-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als MHTML-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von XML im MHTML-Format" gistPath="" %}}
@@ -31,9 +31,9 @@ Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Verwendung von Go API zum Speichern von XML als MHTML" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XML als MHTML zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

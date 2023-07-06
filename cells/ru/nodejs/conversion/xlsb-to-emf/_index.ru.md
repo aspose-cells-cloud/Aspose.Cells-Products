@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSB в EMF Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLSB в файл формата EMF.
 url: /ru/nodejs/conversion/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в EMF" h2="Библиотека NodeJS для преобразования XLSB в EMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSB в EMF и другие форматы документов онлайн с использованием NodeJS." urlsection="conversion/xlsb-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в EMF" h2="Библиотека NodeJS для преобразования XLSB в EMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSB в EMF и другие форматы документов онлайн с помощью NodeJS." urlsection="conversion/xlsb-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в EMF в NodeJS" >}}

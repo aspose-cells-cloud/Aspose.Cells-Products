@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в SXC Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата EMF в файл формата SXC.
 url: /ru/perl/conversion/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/emf-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SXC в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в SXC — сложная задача. Все переходы формата EMF в формат SXC выполняются нашим пакетом SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из EMF в SXC — сложная задача. Все переходы формата EMF в формат SXC выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования EMF в формат SXC" gistPath="" %}}

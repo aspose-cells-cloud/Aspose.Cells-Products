@@ -1,6 +1,6 @@
 ﻿---
-title:  XLS إلى PNG تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLS إلى PNG قم بالتحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLS إلى ملف بتنسيق PNG.
 url: /ar/nodejs/conversion/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/nodejs/conversion/xls-to-png/
 يعد تحويل تنسيقات الملفات من XLS إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى PNG بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات XLS إلى PNG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PNG مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLS إلى تنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل XLS إلى تنسيق PNG" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

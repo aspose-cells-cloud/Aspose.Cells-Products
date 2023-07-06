@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer le contenu sur Microsoft Excel et Op
 url: /fr/perl/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer le contenu des workflows locaux Microsoft Excel et des feuilles de calcul OpenOffice Calc dans Perl. Cette solution professionnelle efface le contenu des feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Perl." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer le contenu des workflows locaux Microsoft Excel et des feuilles de calcul OpenOffice Calc dans Perl. Cette solution professionnelle efface le contenu des feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Perl." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer le contenu sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Perl REST API" >}}

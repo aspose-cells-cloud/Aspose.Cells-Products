@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/python/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي واضح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي واضح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Python REST API" >}}

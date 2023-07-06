@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XML إلى TSV API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XML إلى ملف بتنسيق TSV.
 url: /ar/ruby/conversion/xml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: HTML till XLSM Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  HTML till XLSM Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i HTML-format till fil i XLSM-format.
 url: /sv/net/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva NUMERI come TIFF API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato NUMBERS come file in formato TIFF.
 url: /it/go/saveas/numbers-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

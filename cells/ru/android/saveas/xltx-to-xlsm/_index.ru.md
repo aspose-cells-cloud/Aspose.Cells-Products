@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как XLSM API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLTX в виде файла формата XLSM.
 url: /ru/android/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

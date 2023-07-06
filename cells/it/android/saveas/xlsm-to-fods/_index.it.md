@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come FODS API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSM come file in formato FODS.
 url: /it/android/saveas/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

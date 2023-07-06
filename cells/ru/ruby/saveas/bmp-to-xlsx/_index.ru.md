@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить BMP как XLSX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата BMP в виде файла формата XLSX.
 url: /ru/ruby/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/bmp-to-xlsx/
 Сохранение форматов файлов с BMP как XLSX — сложная задача. Все переходы формата BMP в формат XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для сохранения BMP в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения BMP в формате XLSX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения BMP в формате XLSX" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

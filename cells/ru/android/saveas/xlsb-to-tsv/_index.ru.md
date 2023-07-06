@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить XLSB как TSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSB в виде файла формата TSV.
 url: /ru/android/saveas/xlsb-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLSB как TSV" h2="Библиотека Android для сохранения XLSB как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLSB как TSV и других форматов документов в Интернете с помощью Android." urlsection="saveas/xlsb-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLSB как TSV" h2="Библиотека Android для сохранения XLSB как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLSB как TSV и других форматов документов онлайн с помощью Android." urlsection="saveas/xlsb-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как TSV в Android" >}}

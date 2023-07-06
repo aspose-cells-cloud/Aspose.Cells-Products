@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar imágenes en Microsoft Excel y Ope
 url: /es/nodejs/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra imágenes en el Microsoft Excel local y la hoja de cálculo OpenOffice Calc usando NodeJS." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Imágenes claras en Microsoft local Excel y hoja de cálculo OpenOffice Calc - NodeJS REST API" >}}

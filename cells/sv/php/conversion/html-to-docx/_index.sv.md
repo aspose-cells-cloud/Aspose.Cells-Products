@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till DOCX Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i formatet HTML till fil i DOCX-format.
 url: /sv/php/conversion/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

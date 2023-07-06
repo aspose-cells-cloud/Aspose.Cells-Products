@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в WMF API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата MHTML в файл формата WMF.
 url: /ru/perl/conversion/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в WMF в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования MHTML в формат WMF" gistPath="" %}}

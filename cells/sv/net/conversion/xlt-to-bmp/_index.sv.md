@@ -1,6 +1,6 @@
 ﻿---
-title: XLT till BMP Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLT till BMP Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i XLT-format till fil i BMP-format.
 url: /sv/net/conversion/xlt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

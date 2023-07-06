@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som BMP API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att spara fil i XLTM-format som fil i BMP-format.
 url: /sv/android/saveas/xltm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

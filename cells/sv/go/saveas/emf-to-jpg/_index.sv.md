@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som JPG API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara fil i EMF-format som JPG-fil.
 url: /sv/go/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

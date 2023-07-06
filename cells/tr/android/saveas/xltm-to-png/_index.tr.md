@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLTM'yi PNG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLTM biçim dosyasını PNG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xltm-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

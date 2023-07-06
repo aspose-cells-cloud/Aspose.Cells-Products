@@ -1,10 +1,10 @@
 ﻿---
-title:  تشفير جدول البيانات المحلي بكلمة مرور في Cloud
-description:  Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc. قم بتشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API. تدعم SDK أنواعًا من لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  تشفير جدول البيانات المحلي بكلمة مرور باستخدام Ruby in Cloud
+description:  Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc مع Ruby. تشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK لـ Ruby.
 url: /ar/ruby/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Ruby REST API" >}}
@@ -18,7 +18,7 @@ url: /ar/ruby/protect/encrypt-with-password/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Ruby API للتشفير" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام روبي API للتشفير" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>اتصل بطريقة post_protect للحصول على التدفق الناتج </li>

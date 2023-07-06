@@ -1,10 +1,10 @@
 ﻿---
-title:  Yerel e-tabloyu Bulutta şifreyle şifreleyin
-description:  Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffice Calc. Yerel elektronik tabloları Cells Cloud API ile parola ile şifreleyin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Go in Cloud ile yerel e-tabloyu parolayla şifreleyin
+description: Go ile Microsoft Excel ve OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Cells Cloud API SDK for Go ile yerel e-tabloları şifreyle şifreleyin.
 url: /tr/go/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu parolayla korumak için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için kitaplığa gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel ve OpenOffice Calc e-tablosunu çevrimiçi olarak Go kullanarak parolalarla korur." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu parolayla korumak için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için kitaplığa gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel ve OpenOffice Calc e-tablosunu çevrimiçi olarak Go kullanarak parolalarla korur." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu parola ile koruyun - Go REST API" >}}

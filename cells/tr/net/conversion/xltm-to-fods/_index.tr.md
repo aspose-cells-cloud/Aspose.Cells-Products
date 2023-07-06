@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM'den FODS'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLTM'den FODS'ye Dönüştürme API için C#
+description: XLTM biçim dosyasını FODS biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xltm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  PNG zu XLTM Konvertieren Sie API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in XLTM Konvertieren Sie API in Perl
+description: Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer Datei im PNG-Format in eine XLTM-Formatdatei.
 url: /de/perl/conversion/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um PNG in XLTM umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von PNG in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um PNG mithilfe von Perl online in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von PNG in XLTM" h2="Perl-Bibliothek zum Konvertieren von PNG in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Perl in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in XLTM in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in XLTM ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu XLTM werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PNG-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um PNG online in XLTM-Dateien zu konvertieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und perfekte XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in XLTM ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum XLTM-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um PNG online in XLTM-Dateien zu konvertieren. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von PNG in das XLTM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zur Konvertierung von PNG in das XLTM-Format" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -43,10 +43,10 @@ Das Konvertieren von Dateiformaten von PNG in XLTM ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um PNG in XLTM umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um PNG in XLTM zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till WMF Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i GIF-format till fil i WMF-format.
 url: /sv/android/conversion/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

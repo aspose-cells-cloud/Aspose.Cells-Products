@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC'yi Go için PPTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçimli dosyayı PPTX biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/sxc-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XML a DOCX Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XML a un archivo de formato DOCX.
 url: /es/go/conversion/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

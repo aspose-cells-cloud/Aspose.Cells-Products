@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en TXT API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format XML en fichier au format TXT.
 url: /fr/go/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

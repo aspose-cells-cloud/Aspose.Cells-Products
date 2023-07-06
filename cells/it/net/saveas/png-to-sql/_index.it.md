@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come SQL API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato PNG come file in formato SQL.
 url: /it/net/saveas/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

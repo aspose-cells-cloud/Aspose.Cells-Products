@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi PHP için GIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını GIF biçim dosyası olarak kaydetmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/saveas/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

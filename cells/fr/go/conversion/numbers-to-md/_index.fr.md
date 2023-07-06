@@ -1,10 +1,10 @@
 ﻿---
 title:  NUMBERS en MD Convertir API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format NUMBERS en fichier au format MD.
 url: /fr/go/conversion/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir des NUMÉROS en MD" h2="Aller à la bibliothèque pour convertir des NUMBERS en MD" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en MD et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/numbers-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir les NUMÉROS en MD" h2="Aller à la bibliothèque pour convertir des NUMBERS en MD" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en MD et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/numbers-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en MD en Go" >}}

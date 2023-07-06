@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт WORKSHEET в ODS из электронной таблицы с использованием Perl API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт WORKSHEET в ODS из электронной таблицы с использованием Perl API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/perl/export/worksheet-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/export/worksheet-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата ODS в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат ODS выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека Perl — это профессиональное решение для экспорта объектов WORKSHEET в файлы формата ODS онлайн. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод ODS.
+Экспорт объекта WORKSHEET в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат ODS выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека Perl — это профессиональное решение для экспорта объектов WORKSHEET в файлы формата ODS онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта WORKSHEET в формат ODS из электронной таблицы" gistPath="" %}}

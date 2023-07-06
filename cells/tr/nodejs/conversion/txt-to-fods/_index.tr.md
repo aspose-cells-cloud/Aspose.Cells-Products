@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için TXT'den FODS'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını FODS biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/txt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

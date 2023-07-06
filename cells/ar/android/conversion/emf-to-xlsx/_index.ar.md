@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى XLSX تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق EMF إلى ملف بتنسيق XLSX.
 url: /ar/android/conversion/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XLTM API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSB в виде файла формата XLTM.
 url: /ru/android/saveas/xlsb-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlsb-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как XLTM в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде XLTM — сложная задача. Все переходы между форматами XLSB и XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSB в формате XLTM в Интернете. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и превосходный результат в формате XLTM.
+Сохранение форматов файлов из XLSB в виде XLTM — сложная задача. Все переходы между форматами XLSB и XLTM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSB в формате XLTM в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSB в формате XLTM" gistPath="" %}}

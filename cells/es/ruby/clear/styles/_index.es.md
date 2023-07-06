@@ -4,10 +4,10 @@ description:  API y SDK en la nube para borrar estilos en Microsoft Excel y Open
 url: /es/ruby/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar estilos en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra estilos en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar estilos en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra los estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Estilos claros en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. La eliminación de estilos en las transiciones de hojas de cálculo locales Microsoft Excel y OpenOffice Calc se realiza mediante nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Ruby es una solución profesional para borrar estilos en el Microsoft Excel local y la hoja de cálculo en línea de OpenOffice Calc. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un API perfecto.

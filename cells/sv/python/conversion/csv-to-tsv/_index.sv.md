@@ -1,6 +1,6 @@
 ﻿---
 title: CSV till TSV Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera CSV-formatfil till TSV-formatfil.
 url: /sv/python/conversion/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG en BMP Convertir API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format JPG en fichier au format BMP.
 url: /fr/ruby/conversion/jpg-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/ruby/conversion/jpg-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JPG en BMP en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JPG en BMP est une tâche complexe. Toutes les transitions de format JPG vers BMP sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers JPG en fichiers BMP en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie BMP parfaite.
+La conversion des formats de fichiers de JPG en BMP est une tâche complexe. Toutes les transitions de format JPG vers BMP sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers JPG en BMP en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie BMP parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir JPG au format BMP" gistPath="" %}}

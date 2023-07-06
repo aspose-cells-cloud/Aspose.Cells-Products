@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى TSV تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLSB إلى ملف بتنسيق TSV.
 url: /ar/net/conversion/xlsb-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XML a XLS Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XML a un archivo de formato XLS.
 url: /es/php/conversion/xml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLSB'den XLSM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçimli dosyayı XLSM biçimli dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xlsb-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

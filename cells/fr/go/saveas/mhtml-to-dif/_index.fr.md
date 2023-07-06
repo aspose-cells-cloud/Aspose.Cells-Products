@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer MHTML sous DIF API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format MHTML en tant que fichier au format DIF.
 url: /fr/go/saveas/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar objetos de lista en Microsoft Exce
 url: /es/python/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar objetos de lista en Microsoft Excel local y flujos de trabajo de hoja de cálculo de OpenOffice Calc en Python. Esta solución profesional borra objetos de lista en Microsoft Excel local y hoja de cálculo de OpenOffice Calc usando Python." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Python Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar la lista de objetos en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Python. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Python." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Python REST API" >}}

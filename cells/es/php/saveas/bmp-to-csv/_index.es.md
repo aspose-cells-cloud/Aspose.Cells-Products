@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como CSV API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato BMP como archivo de formato CSV.
 url: /es/php/saveas/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

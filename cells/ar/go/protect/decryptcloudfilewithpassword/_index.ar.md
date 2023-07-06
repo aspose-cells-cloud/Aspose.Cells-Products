@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel وفك تشفير OpenOffic
 url: /ar/go/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc بكلمة مرور" h2="انتقل إلى المكتبة لفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Go. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام Go." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل إلى API لفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc بكلمة مرور" h2="انتقل إلى المكتبة لفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Go. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام Go." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Go REST API" >}}

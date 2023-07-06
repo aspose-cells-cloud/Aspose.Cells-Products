@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в SXC Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата PNG в файл формата SXC.
 url: /ru/python/conversion/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/png-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в SXC в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования PNG в формат SXC" gistPath="" %}}

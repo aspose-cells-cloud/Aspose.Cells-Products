@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование XLSX в GIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLSX в файл формата GIF.
 url: /ru/android/conversion/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLSX в GIF" h2="Библиотека Android для преобразования XLSX в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLSX в GIF и другие форматы документов онлайн с помощью Android." urlsection="conversion/xlsx-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в GIF в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в GIF на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLSX в GIF — сложная задача. Все переходы между форматами XLSX и GIF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов XLSX в GIF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.

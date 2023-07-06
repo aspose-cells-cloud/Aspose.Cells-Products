@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XML в JSON API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XML в JSON API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XML в файл формата JSON.
 url: /ru/python/conversion/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

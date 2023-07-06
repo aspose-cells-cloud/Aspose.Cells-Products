@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için GIF'i TSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/gif-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF\'i TSV olarak kaydetmek için Swift API" h2="GIF\'i TSV olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift\'i kullanarak GIF\'i TSV ve diğer belge biçimleri olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="GIF\'i TSV olarak kaydetmek için Swift API" h2="GIF\'i TSV olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift\'i kullanarak GIF\'i TSV ve diğer belge biçimleri olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/gif-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir GIF dosyasını Swift\'de TSV olarak kaydedin" >}}

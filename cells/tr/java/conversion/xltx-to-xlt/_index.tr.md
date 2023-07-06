@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'den XLT'ye Dönüştürme API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını XLT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX en TIFF Convertir API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLSX en fichier au format TIFF.
 url: /fr/go/conversion/xlsx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

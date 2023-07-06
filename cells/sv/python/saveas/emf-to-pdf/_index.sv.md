@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som PDF API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Python för att spara EMF filformat som PDF filformat.
 url: /sv/python/saveas/emf-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

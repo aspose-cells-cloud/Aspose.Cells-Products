@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TXT в DIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата TXT в файл формата DIF.
 url: /ru/ruby/conversion/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/txt-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в DIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в DIF — сложная задача. Все переходы форматов TXT в DIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в DIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
+Преобразование форматов файлов из TXT в DIF — сложная задача. Все переходы формата TXT в формат DIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в DIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования TXT в формат DIF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM'yi Perl için MHTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTM biçim dosyasını MHTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/xltm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

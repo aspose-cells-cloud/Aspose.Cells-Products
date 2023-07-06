@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSX كـ XLSM API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSX كـ XLSM API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLSX كملف بتنسيق XLSM.
 url: /ar/python/saveas/xlsx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/python/saveas/xlsx-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX باسم XLSM في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX كـ XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XLSM بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبتنا Python هي حل احترافي لحفظ XLSX كملفات XLSM عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLSM مثالي.
+يعد حفظ تنسيقات الملفات من XLSX كـ XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XLSM بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبتنا Python حلاً احترافيًا لحفظ XLSX كملفات XLSM عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLSM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لحفظ XLSX بتنسيق XLSM" gistPath="" %}}

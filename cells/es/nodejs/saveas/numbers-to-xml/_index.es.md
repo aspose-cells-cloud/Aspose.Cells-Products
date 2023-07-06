@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde NÚMEROS como XML API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde NÚMEROS como XML API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato NUMBERS como archivo de formato XML.
 url: /es/nodejs/saveas/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

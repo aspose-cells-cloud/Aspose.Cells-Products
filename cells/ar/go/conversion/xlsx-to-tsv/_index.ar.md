@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى TSV - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLSX إلى ملف بتنسيق TSV.
 url: /ar/go/conversion/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

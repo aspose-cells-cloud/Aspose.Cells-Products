@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLSB'yi HTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLSB biçim dosyasını HTML biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

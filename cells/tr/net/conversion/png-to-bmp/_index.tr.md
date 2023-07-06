@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG - BMP API'i C# için dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını BMP biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/png-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

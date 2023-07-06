@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'yi NodeJS için CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: JPG biçim dosyasını CSV biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

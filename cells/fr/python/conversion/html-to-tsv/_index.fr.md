@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML en TSV Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format HTML en fichier au format TSV.
 url: /fr/python/conversion/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

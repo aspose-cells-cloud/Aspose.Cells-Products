@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer TXT sous XLSX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format TXT en tant que fichier au format XLSX.
 url: /fr/android/saveas/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer TXT en XLSX" h2="Bibliothèque Android pour enregistrer TXT en XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer TXT au format XLSX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/txt-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TXT au format XLSX sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TXT au format XLSX dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de TXT au format XLSX est une tâche complexe. Toutes les transitions de format TXT vers XLSX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers TXT au format XLSX. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLSX parfaite.

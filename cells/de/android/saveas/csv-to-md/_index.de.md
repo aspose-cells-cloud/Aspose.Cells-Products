@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie CSV als MD API für Android
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von CSV-Formatdateien als MD-Formatdateien.
 url: /de/android/saveas/csv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von CSV als MD" h2="Android-Bibliothek zum Speichern von CSV als MD" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um CSV als MD und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/csv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von CSV als MD" h2="Android-Bibliothek zum Speichern von CSV als MD" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als MD und anderen Dokumentformaten mit Android." urlsection="saveas/csv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als MD in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus CSV als MD ist eine komplexe Aufgabe. Alle Übergänge vom CSV- zum MD-Format werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CSV-Quelltabelle beibehalten wird. Unsere Android-Bibliothek ist eine professionelle Lösung, um CSV als MD-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte MD-Ausgabe.
+Das Speichern von Dateiformaten von CSV als MD ist eine komplexe Aufgabe. Alle CSV-zu-MD-Formatübergänge werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-CSV-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von CSV-Dateien als MD. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von CSV im MD-Format" gistPath="" %}}
@@ -36,15 +36,15 @@ Das Speichern von Dateiformaten aus CSV als MD ist eine komplexe Aufgabe. Alle �
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um CSV als MD zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

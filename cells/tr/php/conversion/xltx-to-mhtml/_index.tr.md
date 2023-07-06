@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'den MHTML'ye Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını MHTML biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

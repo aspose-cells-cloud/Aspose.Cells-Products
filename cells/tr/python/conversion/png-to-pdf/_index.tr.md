@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG - PDF API'i Python için dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını PDF biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

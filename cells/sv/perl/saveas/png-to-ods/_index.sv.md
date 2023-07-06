@@ -1,6 +1,6 @@
 ﻿---
-title: Spara PNG som ODS API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara PNG som ODS API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara PNG filformat som ODS-formatfil.
 url: /sv/perl/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

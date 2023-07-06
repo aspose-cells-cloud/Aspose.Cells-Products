@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara PNG som MD API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara PNG som MD API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara PNG filformat som fil i MD-format.
 url: /sv/nodejs/saveas/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

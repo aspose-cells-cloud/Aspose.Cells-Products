@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in FODS Converti API per Rubino
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato BMP nel file in formato FODS.
 url: /it/ruby/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'yi BMP'e Go için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV biçim dosyasını BMP biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/tsv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

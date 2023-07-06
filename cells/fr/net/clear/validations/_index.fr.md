@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les validations sur Microsoft Excel 
 url: /fr/net/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer les validations sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer les validations sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les validations sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans C#. Cette solution professionnelle efface les validations sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour effacer les validations sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="C# Effacer pour effacer les validations sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les validations sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans C#. Cette solution professionnelle efface les validations sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de C#." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les validations sur le tableur local Microsoft Excel et OpenOffice Calc - C# REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde JPG como MD API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato JPG como archivo de formato MD.
 url: /es/perl/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

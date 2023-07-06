@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ CSV باسم WMF API من أجل NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق CSV كملف بتنسيق WMF.
 url: /ar/nodejs/saveas/csv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

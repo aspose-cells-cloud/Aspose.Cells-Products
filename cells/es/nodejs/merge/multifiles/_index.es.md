@@ -1,10 +1,10 @@
 ﻿---
-title:  Combine varios archivos Excel en un archivo.
-description:  API y SDK en la nube para fusionar varios archivos Excel. Combine varios archivos Excel en un archivo por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Combine varios archivos Excel en un archivo con NodeJS.
+description:  API y SDK en la nube para fusionar varios archivos Excel con NodeJS
 url: /es/nodejs/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para combinar varios archivos Excel en un archivo." h2="Biblioteca NodeJS para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en NodeJS. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando NodeJS." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para combinar varios archivos Excel en un archivo." h2="Biblioteca NodeJS para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en NodeJS. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando NodeJS." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Combinar varios archivos Excel en un archivo - NodeJS REST API" >}}

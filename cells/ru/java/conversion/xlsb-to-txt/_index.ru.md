@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в TXT API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSB в файл формата TXT.
 url: /ru/java/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

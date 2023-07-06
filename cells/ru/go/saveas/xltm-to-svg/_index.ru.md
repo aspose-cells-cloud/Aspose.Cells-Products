@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLTM как SVG API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLTM как файла формата SVG.
 url: /ru/go/saveas/xltm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLS в WMF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLS в файл формата WMF.
 url: /ru/java/conversion/xls-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

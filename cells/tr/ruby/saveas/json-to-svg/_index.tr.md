@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JSON'u SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/saveas/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

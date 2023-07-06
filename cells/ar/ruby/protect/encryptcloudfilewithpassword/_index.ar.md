@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc. �
 url: /ar/ruby/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لحماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لحماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية السحابة Microsoft Excel وجداول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يحمي هذا الحل الاحترافي جدول بيانات السحابة Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لحماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لحماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية السحابة Microsoft Excel وجداول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يحمي هذا الحل الاحترافي جدول بيانات السحابة Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Ruby REST API" >}}
@@ -18,7 +18,7 @@ url: /ar/ruby/protect/encrypt-cloud-file-with-password/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Ruby API للتشفير" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام روبي API للتشفير" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>خلايا الاتصال_دفتر العمل_بريد_تشفير_طريقة المستند للحصول على الدفق الناتج</li>

@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML إلى XLTM - تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  MHTML إلى XLTM - تحويل API لـ Perl
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق MHTML إلى ملف تنسيق XLTM.
 url: /ar/perl/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

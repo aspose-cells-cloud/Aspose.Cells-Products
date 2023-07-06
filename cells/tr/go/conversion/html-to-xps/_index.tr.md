@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML - XPS Go için API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  HTML biçim dosyasını XPS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/html-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

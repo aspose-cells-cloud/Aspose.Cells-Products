@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLT в SQL API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата XLT в файл формата SQL.
 url: /ru/go/conversion/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

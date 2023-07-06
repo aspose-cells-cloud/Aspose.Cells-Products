@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как JSON API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата HTML в виде файла формата JSON.
 url: /ru/net/saveas/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/html-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как JSON в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML в виде JSON — сложная задача. Все переходы формата HTML в формат JSON выполняются нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов JSON онлайн. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов с HTML в виде JSON — сложная задача. Все переходы формата HTML в формат JSON выполняются нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов JSON онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате JSON" gistPath="" %}}

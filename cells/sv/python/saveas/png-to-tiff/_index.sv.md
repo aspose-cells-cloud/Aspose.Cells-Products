@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som TIFF API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Python för att spara PNG filformat som TIFF filformat.
 url: /sv/python/saveas/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Go için CSV'den PPTX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV biçimli dosyayı PPTX biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/go/conversion/csv-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Go\'da bir CSV dosyasını PPTX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını CSV'den PPTX'e dönüştürmek karmaşık bir iştir. Tüm CSV'den PPTX'e format geçişleri, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, CSV'yi çevrimiçi olarak PPTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+Dosya formatlarını CSV'den PPTX'e dönüştürmek karmaşık bir iştir. Tüm CSV'den PPTX'e biçim geçişleri, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, CSV'yi çevrimiçi olarak PPTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="CSV\'yi PPTX formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

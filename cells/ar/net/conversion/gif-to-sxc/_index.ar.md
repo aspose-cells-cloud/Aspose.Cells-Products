@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى SXC - تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بصيغة GIF إلى ملف بصيغة SXC.
 url: /ar/net/conversion/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

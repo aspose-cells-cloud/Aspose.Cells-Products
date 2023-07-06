@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel &
 url: /ar/android/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Android." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Android." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

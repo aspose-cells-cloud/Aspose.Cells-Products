@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى WMF تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق TSV إلى ملف بتنسيق WMF.
 url: /ar/android/conversion/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/android/conversion/tsv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى WMF في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TSV إلى WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى WMF بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. مكتبة Android الخاصة بنا هي حل احترافي لتحويل ملفات TSV إلى WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج WMF مثالي.
+يعد تحويل تنسيقات الملفات من TSV إلى WMF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى WMF بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات TSV إلى WMF عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج WMF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل TSV إلى تنسيق WMF" gistPath="" %}}

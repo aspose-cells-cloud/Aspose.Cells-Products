@@ -16,7 +16,7 @@ url: /fr/ruby/export/export/
 
 {{% blocks/products/pf/agp/feature-section-col title="Démarrer avec Excel REST API" %}}
  Obtenez le code source Excel du SDK Cloud for .NET à partir de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) pour compiler le SDK vous-même ou dirigez-vous vers le[Communiqués](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/releases) pour les options de téléchargement alternatives.
-Jetez un oeil à la[guide du développeur](https://docs.aspose.cloud/cells/developer-guide/) API Référence pour en savoir plus sur le[]().
+ Jetez un oeil à la[guide du développeur](https://docs.aspose.cloud/cells/developer-guide/) API Référence pour en savoir plus sur le[]().
  Jetez également un œil à Swagger[API Référence](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) pour en savoir plus sur la[Excel REPOS API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till TXT Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera fil i XLTM-format till fil i TXT-format.
 url: /sv/java/conversion/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

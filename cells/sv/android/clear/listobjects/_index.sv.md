@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa listobjekt på Microsoft Ex
 url: /sv/android/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa listobjekt på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa listobjekt i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensar listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa listobjekt på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa listobjekt i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensar listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa listobjekt på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

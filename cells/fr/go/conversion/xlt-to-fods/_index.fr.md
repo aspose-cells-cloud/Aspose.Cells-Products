@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en FODS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format XLT en fichier au format FODS.
 url: /fr/go/conversion/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/conversion/xlt-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLT en FODS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLT en FODS est une tâche complexe. Toutes les transitions de format XLT vers FODS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XLT en FODS. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie FODS parfaite.
+La conversion des formats de fichiers XLT en FODS est une tâche complexe. Toutes les transitions de format XLT vers FODS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers XLT en FODS en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir XLT au format FODS" gistPath="" %}}

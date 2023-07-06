@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как MHTML API для Perl.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата TXT как файла формата MHTML.
 url: /ru/perl/saveas/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

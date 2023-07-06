@@ -1,10 +1,10 @@
 ﻿---
 title:  SXC إلى WMF - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق SXC إلى ملف بتنسيق WMF.
 url: /ar/ruby/conversion/sxc-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لتحويل SXC إلى WMF" h2="مكتبة روبي لتحويل SXC إلى WMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل SXC إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/sxc-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لتحويل SXC إلى WMF" h2="مكتبة روبي لتحويل SXC إلى WMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Ruby. هذا حل احترافي لتحويل SXC إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Ruby." urlsection="conversion/sxc-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى WMF في Ruby" >}}

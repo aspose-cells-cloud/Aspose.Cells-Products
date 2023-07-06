@@ -16,7 +16,7 @@ url: /es/ruby/export/export/
 
 {{% blocks/products/pf/agp/feature-section-col title="Comience con Excel DESCANSO API" %}}
  Obtenga el código fuente Excel Cloud SDK for .NET de[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) para compilar el SDK usted mismo o diríjase a la[Lanzamientos](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/releases) para opciones de descarga alternativas.
-Echa un vistazo a la[guía para desarrolladores](https://docs.aspose.cloud/cells/developer-guide/) API Referencia para saber más sobre el[]().
+ Echa un vistazo a la[guía para desarrolladores](https://docs.aspose.cloud/cells/developer-guide/) API Referencia para saber más sobre el[]().
  También eche un vistazo a Swagger-based[API Referencia](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) para saber más sobre el[Excel DESCANSO API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

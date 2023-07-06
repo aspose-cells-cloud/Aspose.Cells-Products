@@ -1,10 +1,10 @@
 ﻿---
 title:  تحويل TSV إلى XML API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق TSV إلى ملف بتنسيق XML.
 url: /ar/android/conversion/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لتحويل TSV إلى XML" h2="مكتبة Android لتحويل TSV إلى XML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل TSV إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لتحويل TSV إلى XML" h2="مكتبة Android لتحويل TSV إلى XML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لتحويل TSV إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="conversion/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى XML في Android" >}}

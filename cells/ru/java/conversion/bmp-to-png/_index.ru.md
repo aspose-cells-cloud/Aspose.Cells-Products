@@ -1,16 +1,16 @@
 ﻿---
 title:  BMP в PNG Преобразование API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата BMP в файл формата PNG.
 url: /ru/java/conversion/bmp-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования BMP в PNG" h2="библиотека Java для преобразования BMP в PNG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования BMP в PNG и другие форматы документов в Интернете с использованием Java." urlsection="conversion/bmp-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования BMP в PNG" h2="Java библиотека для преобразования BMP в PNG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования BMP в PNG и другие форматы документов в Интернете с использованием Java." urlsection="conversion/bmp-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в PNG в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования формата BMP в формат PNG" gistPath="" %}}

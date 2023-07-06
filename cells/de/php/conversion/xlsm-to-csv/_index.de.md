@@ -1,16 +1,16 @@
 ﻿---
-title:  XLSM in CSV konvertieren API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSM in CSV Konvertieren Sie API in PHP
+description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLSM-Formatdatei in eine CSV-Formatdatei.
 url: /de/php/conversion/xlsm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um XLSM in CSV zu konvertieren" h2="PHP-Bibliothek zum Konvertieren von XLSM in CSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XLSM in CSV und andere Dokumentformate unter Verwendung von PHP." urlsection="conversion/xlsm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von XLSM in CSV" h2="PHP-Bibliothek zum Konvertieren von XLSM in CSV" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in CSV und andere Dokumentformate mit PHP." urlsection="conversion/xlsm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in PHP in CSV" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in CSV in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in CSV ist eine komplexe Aufgabe. Alle XLSM-zu-CSV-Formatübergänge werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLSM-Dateien online in CSV-Dateien zu konvertieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in CSV ist eine komplexe Aufgabe. Alle XLSM-zu-CSV-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLSM online in CSV-Dateien zu konvertieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von XLSM in das CSV-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von XLSM in CSV ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XLSM in CSV zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

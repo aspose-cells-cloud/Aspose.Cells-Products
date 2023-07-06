@@ -1,6 +1,6 @@
 ﻿---
-title:  ЧИСЛА в EMF Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: ЧИСЛА в EMF Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата EMF.
 url: /ru/perl/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/numbers-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в EMF в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в EMF — сложная задача. Все преобразования форматов NUMBERS в EMF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов NUMBERS в EMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат EMF.
+Преобразование форматов файлов из NUMBERS в EMF — сложная задача. Все преобразования форматов NUMBERS в EMF выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов NUMBERS в EMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования NUMBERS в формат EMF" gistPath="" %}}

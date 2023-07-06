@@ -1,16 +1,16 @@
 ﻿---
-title: Lägg till vattenstämpel för lokal arbetsbok i Cloud
-description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Lägg till vattenstämpel för lokal arbetsbok med Python i molnet
+description: " Cloud API:er och SDK:er för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc med Python. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API SDK för Python."
 url: /sv/python/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att lägga till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Python. Denna professionella lösning lägger till vattenstämpel för Microsoft 3 076166 online med OpenOffice 3 07616Office 3 07616 och OpenOffice kalkylblad 3 07616 online. 1." urlsection="background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att lägga till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Python. Denna professionella lösning lägger till vattenstämpel för Microsoft 3 076166 online med OpenOffice 3 07616Office 3 07616 och OpenOffice kalkylblad 3 07616 online. 1." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Lägg till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Python REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" %}}
 <br/>
-Att lägga till vattenstämpel för ett lokalt kalkylblad är en komplex uppgift. Att lägga till vattenstämpel för lokala kalkylbladsövergångar utförs av vår Python SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att lägga till vattenstämpel för lokala kalkylblad online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt API.
+Att lägga till vattenstämpel för ett lokalt kalkylblad med Python är en komplex uppgift. Att lägga till vattenstämpel för lokala kalkylbladsövergångar utförs av vår Python SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Python-bibliotek är en professionell lösning för att lägga till vattenstämpel för lokala kalkylblad online. Denna Cloud SDK ger Python utvecklare kraftfull funktionalitet och perfekt API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Python med REST API för att lägga till vattenstämpel för lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=Example-Watermark.py" %}}

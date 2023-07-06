@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara TXT som ODS API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara TXT som ODS API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara TXT-formatfil som ODS-formatfil.
 url: /sv/python/saveas/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

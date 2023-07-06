@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TXT en DIF API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format TXT en fichier au format DIF.
 url: /fr/php/conversion/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

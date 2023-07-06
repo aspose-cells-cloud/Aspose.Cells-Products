@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLTM как ODS API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTM как ODS API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLTM в качестве файла формата ODS.
 url: /ru/php/saveas/xltm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/xltm-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как ODS по адресу PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде ODS — сложная задача. Все переходы от формата XLTM к формату ODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека PHP — это профессиональное решение для сохранения XLTM в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из XLTM в виде ODS — сложная задача. Все переходы от формата XLTM к формату ODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека PHP — это профессиональное решение для сохранения XLTM в виде файлов ODS в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XLTM в формате ODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till JSON Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera fil i EMF-format till fil i JSON-format.
 url: /sv/java/conversion/emf-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XML'den XLSB'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XML biçim dosyasını XLSB biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

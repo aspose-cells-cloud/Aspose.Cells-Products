@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV كـ FODS API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق CSV كملف بتنسيق FODS.
 url: /ar/python/saveas/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى JSON تحويل API ل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق PNG إلى ملف بتنسيق JSON.
 url: /ar/perl/conversion/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/perl/conversion/png-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف PNG إلى JSON في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى JSON بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. مكتبتنا Perl هي حل احترافي لتحويل PNG إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من PNG إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق PNG إلى JSON بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل PNG إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل PNG إلى تنسيق JSON" gistPath="" %}}

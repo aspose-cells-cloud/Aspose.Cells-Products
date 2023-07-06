@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ XLTM API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق XML كملف بتنسيق XLTM.
 url: /ar/go/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

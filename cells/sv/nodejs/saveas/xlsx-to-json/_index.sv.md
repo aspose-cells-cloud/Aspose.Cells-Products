@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som JSON API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSX-formatfil som JSON-formatfil.
 url: /sv/nodejs/saveas/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

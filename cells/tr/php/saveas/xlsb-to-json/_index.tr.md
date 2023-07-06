@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSB'yi PHP için JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSB'yi PHP için JSON API olarak kaydedin
+description:  XLSB biçimli dosyayı JSON biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

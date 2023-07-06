@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ MHTML API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLTX كملف بتنسيق MHTML.
 url: /ar/ruby/saveas/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

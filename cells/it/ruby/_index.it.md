@@ -159,7 +159,7 @@ Excel Funzionalità di elaborazione del foglio di calcolo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -173,7 +173,7 @@ Excel Funzionalità di elaborazione del foglio di calcolo
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -234,7 +234,7 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
- ottenere le informazioni sull'applicazione. Una volta ottenuto l'App SID &amp; key, sei pronto per utilizzare Aspose.Cells Cloud SDK for Ruby su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK for Ruby ti offre tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre i dati dai fogli di calcolo per un'ulteriore elaborazione o archiviazione.
+ e ottenere le informazioni sull'applicazione. Una volta ottenuto l'App SID &amp; key, sei pronto per utilizzare Aspose.Cells Cloud SDK for Ruby su qualsiasi piattaforma che supporti le API REST. Aspose.Cells Cloud SDK for Ruby ti offre tutte le funzionalità per creare, modificare e convertire fogli di calcolo. Consente inoltre di estrarre i dati dai fogli di calcolo per un'ulteriore elaborazione o archiviazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -242,7 +242,7 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
  Elaborazione cartelle di lavoro via Cloud SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Ruby consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportazione nel formato di file supportato, leggere gli elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la chiave di crittografia lunghezza, importare i dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare l'indicatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
+Aspose.Cells Cloud SDK for Ruby consente di creare, dividere, unire, cercare e sostituire testo, protezione tramite password, esportazione nel formato di file supportato, leggere gli elementi di testo della cartella di lavoro, adattare automaticamente le righe della cartella di lavoro ignorando gli elementi nascosti, crittografare la password della cartella di lavoro e fornire la chiave di crittografia lunghezza, importare i dati nella cartella di lavoro, calcolare tutte le formule nella cartella di lavoro, impostare le impostazioni di calcolo della formula fornendo una strategia di precisione ecc., utilizzare l'indicatore intelligente, convertire la cartella di lavoro dal contenuto della richiesta in un altro formato, applicare la password per consentire la modifica del contenuto.
     </p>
    </div>
    <div class="col-lg-12">

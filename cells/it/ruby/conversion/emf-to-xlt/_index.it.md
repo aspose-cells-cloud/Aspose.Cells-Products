@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF in XLT Converti API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: EMF in XLT Converti API per Ruby
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato EMF in un file in formato XLT.
 url: /it/ruby/conversion/emf-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

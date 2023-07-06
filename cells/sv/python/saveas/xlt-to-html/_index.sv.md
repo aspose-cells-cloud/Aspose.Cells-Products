@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som HTML API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Python för att spara XLT-formatfil som HTML-fil.
 url: /sv/python/saveas/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

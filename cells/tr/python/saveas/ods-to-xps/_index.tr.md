@@ -1,6 +1,6 @@
 ﻿---
 title:  Python için ODS'yi XPS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  ODS format dosyasını XPS format dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/saveas/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

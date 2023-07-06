@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come SXC API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato HTML come file in formato SXC.
 url: /it/ruby/saveas/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ Salvare i formati di file da HTML come SXC è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Ruby API per salvare HTML come SXC" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Ruby API per salvare HTML come SXC" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>

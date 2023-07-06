@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som MD API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara fil i HTML-format som fil i MD-format.
 url: /sv/android/saveas/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

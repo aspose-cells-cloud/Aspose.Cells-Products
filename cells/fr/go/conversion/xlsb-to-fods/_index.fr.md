@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en FODS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLSB en fichier au format FODS.
 url: /fr/go/conversion/xlsb-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

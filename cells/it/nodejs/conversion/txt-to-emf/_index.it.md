@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT in EMF Converti API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato TXT in un file in formato EMF.
 url: /it/nodejs/conversion/txt-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

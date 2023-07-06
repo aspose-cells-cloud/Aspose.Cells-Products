@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar estilos en Microsoft Excel y Open
 url: /es/nodejs/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra los estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra los estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

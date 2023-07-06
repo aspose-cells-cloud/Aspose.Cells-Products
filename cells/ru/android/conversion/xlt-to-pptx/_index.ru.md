@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XLT в PPTX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLT в PPTX API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLT в файл формата PPTX.
 url: /ru/android/conversion/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara ODS som BMP API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara ODS-formatfilen som BMP-formatfil.
 url: /sv/go/saveas/ods-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

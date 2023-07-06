@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa tomma rader på Microsoft E
 url: /sv/android/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma rader i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensar tomma rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa tomma rader på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma rader i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensar tomma rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa tomma rader på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

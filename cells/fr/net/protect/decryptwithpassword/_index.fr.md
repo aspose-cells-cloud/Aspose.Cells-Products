@@ -1,10 +1,10 @@
 ﻿---
-title:  Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
-description: API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
+description:  API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/net/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour déchiffrer le tableur local Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque C# pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Déchiffrer REST API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les flux de travail de mot de passe dans C#. Cette solution professionnelle décrypte la feuille de calcul locale Microsoft Excel et OpenOffice Calc en ligne avec des mots de passe à l\'aide de C#." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour déchiffrer le tableur local Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque C# pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Decrypt Rest API pour décrypter local Microsoft Excel et feuille de calcul OpenOffice Calc avec des flux de travail de mot de passe dans C#. Cette solution professionnelle décrypts Microsoft Excel et OpenOffice Calcandsheet en ligne avec les mots de passe en ligne avec 07616341 et OpenOffice Calcols" urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - C# REST API" >}}

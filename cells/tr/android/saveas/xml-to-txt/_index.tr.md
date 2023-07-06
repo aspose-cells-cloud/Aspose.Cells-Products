@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XML'i TXT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XML biçimindeki dosyayı TXT biçimindeki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XML dosyasını TXT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XML'den TXT olarak kaydetmek karmaşık bir iştir. Tüm XML'den TXT biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XML'i çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+Dosya biçimlerini XML'den TXT olarak kaydetmek karmaşık bir iştir. Tüm XML'den TXT formatına geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XML'i çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i TXT biçimi olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

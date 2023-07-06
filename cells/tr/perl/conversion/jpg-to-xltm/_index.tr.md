@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'den XLTM'ye Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: JPG formatındaki dosyayı XLTM formatındaki dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

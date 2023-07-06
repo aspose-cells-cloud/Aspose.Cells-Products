@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için ODS'yi SQL API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: ODS biçim dosyasını SQL biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/saveas/ods-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını NodeJS\'de SQL olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini ODS'den SQL olarak kaydetmek karmaşık bir iştir. Tüm ODS'den SQL formatına geçişler, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, ODS'yi çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya biçimlerini ODS'den SQL olarak kaydetmek karmaşık bir iştir. Tüm ODS'den SQL'e biçim geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, ODS'yi çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi SQL formatı olarak kaydetmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

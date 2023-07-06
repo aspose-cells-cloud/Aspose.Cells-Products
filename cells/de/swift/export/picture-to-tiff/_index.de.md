@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie PICTURE nach TIFF aus der Tabelle mit Swift API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie PICTURE aus der Tabelle mit Swift API nach TIFF
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/picture-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um BILD in die Datei TIFF zu exportieren" h2="Swift-Bibliothek zum Exportieren von PICTURE in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE-Dateien in das Format TIFF aus einer Online-Tabelle mit Swift." urlsection="export/picture-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von BILD in die Datei TIFF" h2="Swift-Bibliothek zum Exportieren von PICTURE in die Datei TIFF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung, um BILD online mit Swift aus einer Tabellenkalkulation in das Format TIFF zu exportieren." urlsection="export/picture-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in eine Datei im Format TIFF in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts in die Datei TIFF aus der Tabelle ist eine komplexe Aufgabe. Der Export von PICTURE in das Format TIFF wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format TIFF zu exportieren. Dieses Cloud-SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei TIFF ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das TIFF-Format wird von unserem Swift SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von PICTURE-Objekten in Dateien im Format TIFF. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von PICTURE in das Format TIFF aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von PICTURE in das Format TIFF aus der Tabellenkalkulation" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,9 +55,9 @@ Das Exportieren des PICTURE-Objekts in die Datei TIFF aus der Tabelle ist eine k
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um BILD nach TIFF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So exportieren Sie PICTURE mit Swift API nach TIFF" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

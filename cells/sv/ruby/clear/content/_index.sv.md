@@ -4,13 +4,13 @@ description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Ex
 url: /sv/ruby/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning tydliggör innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en komplex uppgift. Rensning av innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylbladsövergångar utförs av vår Ruby SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att rensa formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt API.
+Rensa innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad är en komplex uppgift. Rensning av innehåll på lokala Microsoft Excel och OpenOffice Calc kalkylbladsövergångar utförs av vår Ruby SDK samtidigt som källarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att rensa formler på lokala Microsoft Excel och OpenOffice Calc-kalkylblad online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby-kod för att rensa innehåll på lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Content.rb" %}}

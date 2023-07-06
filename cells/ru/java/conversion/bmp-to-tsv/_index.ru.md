@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование BMP в TSV API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата BMP в файл формата TSV.
 url: /ru/java/conversion/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования BMP в TSV" h2="Библиотека Java для преобразования BMP в TSV" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования BMP в TSV и другие форматы документов онлайн с использованием Java." urlsection="conversion/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования BMP в TSV" h2="Java библиотека для преобразования BMP в TSV" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования BMP в TSV и другие форматы документов онлайн с использованием Java." urlsection="conversion/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в TSV в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы TSV. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из BMP в TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим пакетом SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы TSV. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования BMP в формат TSV" gistPath="" %}}

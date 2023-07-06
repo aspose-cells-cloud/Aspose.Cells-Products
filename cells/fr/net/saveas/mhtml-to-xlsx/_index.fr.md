@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez MHTML sous XLSX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format MHTML en tant que fichier au format XLSX.
 url: /fr/net/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer MHTML en XLSX" h2="bibliothèque C# pour enregistrer MHTML au format XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format XLSX et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer MHTML en XLSX" h2="bibliothèque C# pour enregistrer MHTML au format XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format XLSX et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML au format XLSX au C#" >}}

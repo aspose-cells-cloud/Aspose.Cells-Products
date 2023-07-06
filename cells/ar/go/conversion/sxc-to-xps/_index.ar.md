@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC إلى XPS قم بتحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق SXC إلى ملف بتنسيق XPS.
 url: /ar/go/conversion/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

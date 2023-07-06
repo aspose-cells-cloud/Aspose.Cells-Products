@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som HTML API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Perl för att spara PNG filformat som HTML filformat.
 url: /sv/perl/saveas/png-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

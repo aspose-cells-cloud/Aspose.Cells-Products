@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLS come MD API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLS come file in formato MD.
 url: /it/android/saveas/xls-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование JSON в ODS API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата JSON в файл формата ODS.
 url: /ru/java/conversion/json-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования JSON в ODS" h2="Java библиотека для преобразования JSON в ODS" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации JSON в ODS и другие форматы документов с использованием Java." urlsection="conversion/json-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования JSON в ODS" h2="Java библиотека для преобразования JSON в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации JSON в ODS и другие форматы документов с использованием Java." urlsection="conversion/json-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в ODS в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из JSON в ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования JSON в формат ODS" gistPath="" %}}

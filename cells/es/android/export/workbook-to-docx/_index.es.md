@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte WORKBOOK a DOCX desde una hoja de cálculo usando Android API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/android/export/workbook-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/export/workbook-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto WORKBOOK a archivo de formato DOCX en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto WORKBOOK a un archivo DOCX desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de WORKBOOK a las transiciones de formato DOCX mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos de WORKBOOK a archivos de formato DOCX en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida DOCX perfecta.
+Exportar un objeto WORKBOOK a un archivo DOCX desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de WORKBOOK a las transiciones de formato DOCX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos de WORKBOOK a archivos de formato DOCX en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida DOCX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para exportar WORKBOOK a formato DOCX desde una hoja de cálculo" gistPath="" %}}

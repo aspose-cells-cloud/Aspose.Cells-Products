@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX إلى TXT تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLSX إلى TXT تحويل API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSX إلى ملف بتنسيق TXT.
 url: /ar/perl/conversion/xlsx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

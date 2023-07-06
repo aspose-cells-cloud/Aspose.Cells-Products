@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX إلى EMF تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTX إلى EMF تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLTX إلى ملف بتنسيق EMF.
 url: /ar/nodejs/conversion/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

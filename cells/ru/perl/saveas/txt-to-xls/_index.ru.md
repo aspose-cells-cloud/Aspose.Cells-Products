@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните TXT как XLS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните TXT как XLS API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата TXT в виде файла формата XLS.
 url: /ru/perl/saveas/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XML come XLTM API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XML come XLTM API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato XML come file in formato XLTM.
 url: /it/perl/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

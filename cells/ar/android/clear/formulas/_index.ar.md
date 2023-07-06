@@ -4,13 +4,13 @@ description: Cloud APIs & SDKs لمسح الصيغ على Microsoft Excel & Open
 url: /ar/android/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الصيغ على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الصيغ على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح المعادلات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء تحولات جداول البيانات على Microsoft Excel و OpenOffice Calc المحلي بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبة Android الخاصة بنا هي حل احترافي لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
+يعد مسح المعادلات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. يتم إجراء تحولات جداول البيانات على Microsoft Microsoft و OpenOffice Calc المحلي بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبة Android الخاصة بنا هي حل احترافي لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="كود Android لمسح الصيغ في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Formula.java" %}}

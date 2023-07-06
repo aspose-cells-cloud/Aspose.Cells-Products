@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için NUMBERS'den PPTX'e Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını PPTX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى SQL - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق CSV إلى ملف تنسيق SQL.
 url: /ar/ruby/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как MD API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSM в виде файла формата MD.
 url: /ru/net/saveas/xlsm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlsm-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде MD — сложная задача. Все переходы от формата XLSM к формату MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения XLSM в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из XLSM в виде MD — сложная задача. Все переходы от формата XLSM к формату MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения XLSM в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSM в формате MD" gistPath="" %}}

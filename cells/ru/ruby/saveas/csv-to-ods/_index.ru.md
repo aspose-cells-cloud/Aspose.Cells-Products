@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как ODS API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата CSV в качестве файла формата ODS.
 url: /ru/ruby/saveas/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/csv-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как ODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде ODS — сложная задача. Все переходы между форматами CSV и ODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-сохранения CSV-файлов в формате ODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из CSV в виде ODS — сложная задача. Все переходы между форматами CSV и ODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-сохранения CSV-файлов в формате ODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения CSV в формате ODS" gistPath="" %}}

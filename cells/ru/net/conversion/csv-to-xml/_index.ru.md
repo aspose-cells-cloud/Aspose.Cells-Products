@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в XML API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата CSV в файл формата XML.
 url: /ru/net/conversion/csv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTM come MD API per Swift
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
 url: /it/swift/saveas/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/swift/saveas/xltm-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTM come MD in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTM come MD è un compito complesso. Tutte le transizioni dal formato XLTM al formato MD vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Swift è una soluzione professionale per salvare XLTM come file MD online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output MD.
+Salvare i formati di file da XLTM come MD è un compito complesso. Tutte le transizioni dal formato XLTM al formato MD vengono eseguite dal nostro Swift SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Swift è una soluzione professionale per salvare XLTM come file MD online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un perfetto output MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per salvare XLTM come formato MD" gistPath="" %}}

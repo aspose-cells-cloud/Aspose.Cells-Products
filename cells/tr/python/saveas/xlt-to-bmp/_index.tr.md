@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi Python için BMP API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını BMP biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/xlt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

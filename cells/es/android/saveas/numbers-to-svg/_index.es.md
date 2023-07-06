@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde NÚMEROS como SVG API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato NUMBERS como archivo de formato SVG.
 url: /es/android/saveas/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

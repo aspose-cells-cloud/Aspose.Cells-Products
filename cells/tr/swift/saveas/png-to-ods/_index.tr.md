@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG'i Swift için ODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i ODS olarak kaydetmek için Swift API" h2="PNG\'i ODS olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak PNG\'i ODS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i ODS olarak kaydetmek için Swift API" h2="PNG\'i ODS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak PNG\'i ODS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Swift\'de ODS olarak kaydedin" >}}

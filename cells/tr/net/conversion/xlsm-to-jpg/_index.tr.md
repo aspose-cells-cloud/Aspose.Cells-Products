@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM'den JPG'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSM formatındaki dosyayı JPG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlsm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

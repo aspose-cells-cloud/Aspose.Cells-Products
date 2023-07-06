@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da JSON a MHTML API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato JSON in un file in formato MHTML.
 url: /it/java/conversion/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Exportieren Sie LISTOBJECT nach MD aus der Tabelle mit Swift API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie LISTOBJECT aus der Tabellenkalkulation mit Swift API nach MD
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/listobject-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um LISTOBJECT in eine MD-Datei zu exportieren" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im MD-Format aus einer Tabellenkalkulation online mit Swift." urlsection="export/listobject-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von LISTOBJECT in eine MD-Datei" h2="Swift-Bibliothek zum Exportieren von LISTOBJECT in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von LISTOBJECT in eine MD-Formatdatei aus einer Tabellenkalkulation mit Swift." urlsection="export/listobject-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine Datei im MD-Format in Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in Swift in eine MD-Formatdatei" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Der Export eines LISTOBJECT-Objekts in eine MD-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von LISTOBJECT in MD-Formatübergänge wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der LISTOBJECT-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um LISTOBJECT-Objekte online in Dateien im MD-Format zu exportieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das MD-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT in das MD-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von LISTOBJECT in das MD-Format aus einer Tabellenkalkulation" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -56,8 +56,8 @@ Der Export eines LISTOBJECT-Objekts in eine MD-Datei aus einer Tabellenkalkulati
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API zum Exportieren von LISTOBJECT nach MD" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

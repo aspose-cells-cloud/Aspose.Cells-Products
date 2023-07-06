@@ -1,10 +1,10 @@
 ﻿---
-title: Convertir XLSM en WMF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir XLSM en WMF API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLSM en fichier au format WMF.
 url: /fr/python/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLSM en WMF" h2="bibliothèque Python pour convertir XLSM en WMF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLSM en WMF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xlsm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLSM en WMF" h2="bibliothèque Python pour convertir XLSM en WMF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLSM en WMF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xlsm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSM en WMF en Python" >}}

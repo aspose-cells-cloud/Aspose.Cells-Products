@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX باسم JSON API من أجل NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLTX كملف بتنسيق JSON.
 url: /ar/nodejs/saveas/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

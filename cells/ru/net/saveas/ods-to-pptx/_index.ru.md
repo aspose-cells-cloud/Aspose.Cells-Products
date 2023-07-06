@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохраните ODS как PPTX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните ODS как PPTX API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата ODS в виде файла формата PPTX.
 url: /ru/net/saveas/ods-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения ODS как PPTX" h2="C# библиотека для сохранения ODS как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения ODS в виде PPTX и других форматов документов в Интернете с использованием C#." urlsection="saveas/ods-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения ODS как PPTX" h2="C# библиотека для сохранения ODS как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения ODS в формате PPTX и других форматов документов в Интернете с использованием C#." urlsection="saveas/ods-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как PPTX в C#." >}}

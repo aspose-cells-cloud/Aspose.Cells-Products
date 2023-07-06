@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX en HTML Convertir API en Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLSX en HTML Convertir API en Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format XLSX en fichier au format HTML.
 url: /fr/python/conversion/xlsx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

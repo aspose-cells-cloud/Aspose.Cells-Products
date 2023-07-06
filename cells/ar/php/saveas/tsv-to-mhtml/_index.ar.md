@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV كـ MHTML API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق TSV كملف بتنسيق MHTML.
 url: /ar/php/saveas/tsv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/php/saveas/tsv-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV كملف MHTML في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى MHTML بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TSV. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات MHTML عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج MHTML مثالي.
+يعد حفظ تنسيقات الملفات من TSV كـ MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى MHTML بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TSV. مكتبتنا PHP هي حل احترافي لحفظ TSV كملفات MHTML عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج MHTML مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ TSV بتنسيق MHTML" gistPath="" %}}

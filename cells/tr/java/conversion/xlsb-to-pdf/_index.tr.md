@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB'den PDF'e Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB formatındaki dosyayı PDF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/xlsb-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

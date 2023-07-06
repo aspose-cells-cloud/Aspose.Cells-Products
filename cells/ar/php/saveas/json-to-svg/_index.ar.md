@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON كـ SVG API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق JSON كملف بتنسيق SVG.
 url: /ar/php/saveas/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

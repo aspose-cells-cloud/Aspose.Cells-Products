@@ -1,6 +1,6 @@
 ﻿---
-title:  Ruby için BMP'den XLT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Ruby için BMP'den XLT'ye Dönüştürme API
+description:  BMP biçim dosyasını XLT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/bmp-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

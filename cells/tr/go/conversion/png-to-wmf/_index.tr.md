@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den WMF'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: PNG biçimindeki dosyayı WMF biçimindeki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TSV как BMP API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата TSV как файла формата BMP.
 url: /ru/go/saveas/tsv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

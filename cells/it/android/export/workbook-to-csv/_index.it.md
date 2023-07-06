@@ -1,6 +1,6 @@
 ﻿---
 title:  Esporta WORKBOOK in CSV dal foglio di calcolo utilizzando Android API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/android/export/workbook-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/export/workbook-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato CSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKBOOK in un file CSV dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato CSV viene eseguita dal nostro Android SDK mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output CSV perfetto.
+Esportare l'oggetto WORKBOOK in un file CSV dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di WORKBOOK in formato CSV viene eseguita dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato CSV online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output CSV perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per esportare WORKBOOK in formato CSV dal foglio di calcolo" gistPath="" %}}

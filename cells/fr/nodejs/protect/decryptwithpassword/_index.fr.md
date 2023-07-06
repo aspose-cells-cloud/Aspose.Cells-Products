@@ -1,10 +1,10 @@
 ﻿---
-title:  Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
-description: API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Déchiffrer les feuilles de calcul locales avec un mot de passe dans le Cloud
+description:  API Cloud et SDK pour Microsoft Excel et déverrouillage OpenOffice Calc. Les feuilles de calcul sont décryptées par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/nodejs/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque NodeJS pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Déchiffrer REST API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans NodeJS. Cette solution professionnelle décrypte les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne avec des mots de passe à l\'aide de NodeJS." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque NodeJS pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Déchiffrer REST API pour déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans NodeJS. Cette solution professionnelle décrypte les feuilles de calcul locales Microsoft Excel et OpenOffice Calc en ligne avec des mots de passe à l\'aide de NodeJS." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Déchiffrer la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe - NodeJS REST API" >}}

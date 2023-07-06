@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till TIFF Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera HTML filformat till TIFF filformat.
 url: /sv/ruby/conversion/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

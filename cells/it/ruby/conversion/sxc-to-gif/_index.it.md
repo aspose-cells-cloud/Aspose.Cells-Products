@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da SXC a GIF API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per convertire il file in formato SXC in un file in formato GIF.
 url: /it/ruby/conversion/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'u C# için MHTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını MHTML biçim dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/saveas/json-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını C#\'de MHTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini JSON'dan MHTML olarak kaydetmek karmaşık bir iştir. Tüm JSON'dan MHTML formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, JSON'u çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya biçimlerini JSON'dan MHTML olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan MHTML formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, JSON'u çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u MHTML formatı olarak kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}

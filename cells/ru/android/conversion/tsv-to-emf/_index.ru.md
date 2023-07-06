@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV в EMF Конвертировать API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата TSV в файл формата EMF.
 url: /ru/android/conversion/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

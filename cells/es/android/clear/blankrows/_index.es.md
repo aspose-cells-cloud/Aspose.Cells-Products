@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/android/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra las filas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra las filas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

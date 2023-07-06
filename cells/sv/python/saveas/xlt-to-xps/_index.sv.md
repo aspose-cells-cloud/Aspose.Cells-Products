@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som XPS API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Python för att spara XLT-formatfil som XPS-fil.
 url: /sv/python/saveas/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

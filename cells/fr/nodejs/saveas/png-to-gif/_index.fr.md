@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer PNG en tant que GIF API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format PNG au format GIF.
 url: /fr/nodejs/saveas/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/png-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG au format GIF dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de PNG au format GIF est une tâche complexe. Toutes les transitions du format PNG au format GIF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer PNG sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie GIF parfaite.
+L'enregistrement des formats de fichier à partir de PNG au format GIF est une tâche complexe. Toutes les transitions du format PNG au format GIF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer PNG sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer PNG au format GIF" gistPath="" %}}

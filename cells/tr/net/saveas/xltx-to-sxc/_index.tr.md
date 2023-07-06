@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX'i C# için SXC API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLTX'i C# için SXC API olarak kaydedin
+description:  XLTX biçim dosyasını SXC biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/xltx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

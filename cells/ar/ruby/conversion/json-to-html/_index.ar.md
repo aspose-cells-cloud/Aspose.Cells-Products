@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى HTML حوّل API إلى Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق JSON إلى ملف بتنسيق HTML.
 url: /ar/ruby/conversion/json-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

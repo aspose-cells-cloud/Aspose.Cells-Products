@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в BMP Преобразование API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата BMP.
 url: /ru/ruby/conversion/emf-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

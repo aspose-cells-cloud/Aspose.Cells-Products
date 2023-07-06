@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en JPG API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format XLT en fichier au format JPG.
 url: /fr/go/conversion/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/conversion/xlt-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLT en JPG dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLT en JPG est une tâche complexe. Toutes les transitions de format XLT vers JPG sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers XLT en JPG en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie JPG parfaite.
+La conversion des formats de fichiers de XLT en JPG est une tâche complexe. Toutes les transitions de format XLT à JPG sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers XLT en JPG en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir XLT au format JPG" gistPath="" %}}

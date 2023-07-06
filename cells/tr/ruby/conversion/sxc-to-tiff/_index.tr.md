@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC'den TIFF'e Ruby için API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçimli dosyayı TIFF biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/sxc-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

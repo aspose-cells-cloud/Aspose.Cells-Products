@@ -1,6 +1,6 @@
 ﻿---
 title:  Go için XML'den HTML'e API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XML biçim dosyasını HTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/xml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

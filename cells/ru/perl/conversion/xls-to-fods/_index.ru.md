@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование XLS в FODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLS в FODS API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLS в файл формата FODS.
 url: /ru/perl/conversion/xls-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/xls-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл XLS в FODS по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в FODS — сложная задача. Все переходы между форматами XLS и FODS выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLS в FODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный результат FODS.
+Преобразование форматов файлов из XLS в FODS — сложная задача. Все переходы между форматами XLS и FODS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLS в FODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLS в формат FODS" gistPath="" %}}

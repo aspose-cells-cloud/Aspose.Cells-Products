@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в SXC API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата NUMBERS в файл формата SXC.
 url: /ru/go/conversion/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

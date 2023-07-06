@@ -1,6 +1,6 @@
 ﻿---
 title:  Sammanfoga
-description: Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,9 +23,9 @@ url: /sv/merge/
 	<li><b>Bilder:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Övrig:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Utmatningsformat</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Utmatningsformat</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Word/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Öppet kontor:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>SpreadsheetML, XML</li>
 	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>

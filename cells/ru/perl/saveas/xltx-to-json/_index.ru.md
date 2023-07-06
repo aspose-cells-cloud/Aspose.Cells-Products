@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLTX как JSON API для Perl.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLTX как JSON API для Perl.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTX в виде файла формата JSON.
 url: /ru/perl/saveas/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

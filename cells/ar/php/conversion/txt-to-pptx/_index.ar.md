@@ -1,10 +1,10 @@
 ﻿---
 title: " TXT إلى PPTX: تحويل API إلى PHP"
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق TXT إلى ملف بتنسيق PPTX.
 url: /ar/php/conversion/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل TXT إلى PPTX" h2="PHP مكتبة لتحويل TXT إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل TXT إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/txt-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل TXT إلى PPTX" h2="PHP مكتبة لتحويل TXT إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل TXT إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/txt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى PPTX في PHP" >}}

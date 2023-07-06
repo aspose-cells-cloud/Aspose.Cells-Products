@@ -18,9 +18,9 @@ url: /es/swift/export/
 	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>
 	<li><b>Web:</b> Html, Mhtml</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Formato de salida</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Palabra/PowerPoint:</b>docx, pptx</li>
+	<li><b>Microsoft Palabra/PowerPoint:</b> docx, pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, Xml</li>
 	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>

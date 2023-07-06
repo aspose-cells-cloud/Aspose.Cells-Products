@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XML come XLTM API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato XML come file in formato XLTM.
 url: /it/nodejs/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/nodejs/saveas/xml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XML come XLTM in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XML come XLTM è un compito complesso. Tutte le transizioni di formato da XML a XLTM vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XML di origine. La nostra libreria NodeJS è una soluzione professionale per salvare XML come file XLTM online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLTM.
+Salvare i formati di file da XML come XLTM è un compito complesso. Tutte le transizioni di formato da XML a XLTM vengono eseguite dal nostro NodeJS SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria NodeJS è una soluzione professionale per salvare XML come file XLTM online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un perfetto output XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per salvare XML come formato XLTM" gistPath="" %}}

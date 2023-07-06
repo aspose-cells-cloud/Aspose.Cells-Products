@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM بالشكل PNG API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSM كملف بتنسيق PNG.
 url: /ar/go/saveas/xlsm-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

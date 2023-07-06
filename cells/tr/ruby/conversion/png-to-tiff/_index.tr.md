@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG ila TIFF API'i Ruby için dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını TIFF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

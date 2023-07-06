@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TXT как JPG API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TXT в виде файла формата JPG.
 url: /ru/ruby/saveas/txt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/txt-to-jpg/
 Сохранение форматов файлов из TXT в виде JPG — сложная задача. Все переходы TXT в формат JPG выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для сохранения TXT в виде файлов JPG онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения TXT в формате JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TXT в формате JPG" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG'yi BMP'e Python için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: JPG'yi BMP'e Python için API'e dönüştür
+description:  JPG formatındaki dosyayı BMP formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/jpg-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

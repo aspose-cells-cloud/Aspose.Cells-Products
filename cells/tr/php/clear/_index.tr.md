@@ -1,14 +1,14 @@
 ﻿---
-title:  Nesneleri Temizle
-description:  Aspose.Cells Cloud REST API, bir Excel dosyasındaki açık iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  PHP ile nesneleri temizleyin
+description:  Aspose.Cells Cloud REST API, PHP ile bir Excel dosyasındaki net iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/php/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Nesneleri Temizle" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, bir Excel dosyasındaki açık iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP ile nesneleri temizleyin" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, PHP ile bir Excel dosyasındaki net iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Nesne Uzantısı bağlantılarını temizle" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="PHP Uzantı bağlantıları ile nesneleri temizleyin" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,10 +1,10 @@
 ﻿---
 title:  Exporter WORKBOOK vers JSON à partir d'une feuille de calcul à l'aide d'Android API
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers Excel et d'objets internes vers des types de fichiers de format. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/android/export/workbook-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour exporter WORKBOOK vers un fichier JSON" h2="Bibliothèque Android pour exporter WORKBOOK vers un fichier JSON" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Android. Il s\'agit d\'une solution professionnelle pour exporter un fichier au format WORKBOOK vers JSON à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/workbook-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour exporter WORKBOOK vers un fichier JSON" h2="Bibliothèque Android pour exporter WORKBOOK vers un fichier JSON" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Android. Il s\'agit d\'une solution professionnelle pour exporter WORKBOOK vers un fichier au format JSON à partir d\'une feuille de calcul en ligne à l\'aide d\'Android." urlsection="export/workbook-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format JSON dans Android" >}}

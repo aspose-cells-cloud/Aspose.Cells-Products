@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XML som XPS API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara XML-formatfil som XPS-fil.
 url: /sv/python/saveas/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  ЧИСЛА в XPS Конвертировать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата NUMBERS в файл формата XPS.
 url: /ru/java/conversion/numbers-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/numbers-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XPS в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XPS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из NUMBERS в XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XPS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат XPS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSX en SQL API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLSX en fichier au format SQL.
 url: /fr/go/conversion/xlsx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/conversion/xlsx-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSX en SQL en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSX en SQL est une tâche complexe. Toutes les transitions de format XLSX vers SQL sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers XLSX en SQL en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie SQL parfaite.
+La conversion des formats de fichiers XLSX en SQL est une tâche complexe. Toutes les transitions de format XLSX vers SQL sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XLSX en fichiers SQL. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir XLSX au format SQL" gistPath="" %}}

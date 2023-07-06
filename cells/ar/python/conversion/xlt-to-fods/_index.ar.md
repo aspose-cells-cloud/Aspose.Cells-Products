@@ -1,6 +1,6 @@
 ﻿---
-title: XLT إلى FODS - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLT إلى FODS - تحويل API إلى Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLT إلى ملف بتنسيق FODS.
 url: /ar/python/conversion/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

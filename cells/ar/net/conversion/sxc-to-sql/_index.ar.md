@@ -1,6 +1,6 @@
 ﻿---
-title: تحويل SXC إلى SQL API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  تحويل SXC إلى SQL API لـ C#
+description: استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق SXC إلى ملف بتنسيق SQL.
 url: /ar/net/conversion/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/conversion/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى SQL في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى SQL بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبتنا C# هي حل احترافي لتحويل ملفات SXC إلى SQL عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج SQL مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى SQL مهمة معقدة. يتم إجراء جميع انتقالات تنسيق SXC إلى SQL بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبتنا C# هي حل احترافي لتحويل ملفات SXC إلى SQL عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل SXC إلى تنسيق SQL" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Android için MHTML'den WMF'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Android için MHTML'den WMF'ye Dönüştürme API
+description:  MHTML biçim dosyasını WMF biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

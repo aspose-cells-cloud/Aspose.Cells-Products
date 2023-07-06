@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX a XLSM Convertir API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/conversion/xltx-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTX a XLSM en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLTX a XLSM es una tarea compleja. Todas las transiciones de formato XLTX a XLSM las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTX a XLSM en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XLSM perfecta.
+Convertir formatos de archivo de XLTX a XLSM es una tarea compleja. Todas las transiciones de formato XLTX a XLSM se realizan mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLTX de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLTX a XLSM en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir formato XLTX a XLSM" gistPath="" %}}

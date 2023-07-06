@@ -1,6 +1,6 @@
 ﻿---
-title: SXC till BMP Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  SXC till BMP Konvertera API till PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i SXC-format till fil i BMP-format.
 url: /sv/php/conversion/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

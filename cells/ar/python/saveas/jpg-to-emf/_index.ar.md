@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ EMF API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق JPG كملف بتنسيق EMF.
 url: /ar/python/saveas/jpg-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

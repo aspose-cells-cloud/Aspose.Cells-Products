@@ -1,10 +1,10 @@
 ﻿---
-title:  Зашифровать локальную таблицу паролем в облаке
-description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc. Шифруйте локальные электронные таблицы с помощью пароля Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Зашифруйте локальную электронную таблицу паролем с помощью NodeJS в облаке
+description: Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с NodeJS. Зашифруйте локальные таблицы паролем с помощью Cells Cloud API SDK для NodeJS.
 url: /ru/nodejs/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека NodeJS для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Protect REST API для защиты локальной Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение защищает электронные таблицы Microsoft Excel и OpenOffice Calc с помощью паролей, используя NodeJS." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" h2="Библиотека NodeJS для защиты локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Protect REST API для защиты локальной Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в NodeJS. Это профессиональное решение защищает электронные таблицы Microsoft Excel и OpenOffice Calc с помощью паролей, используя NodeJS." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите локальный Microsoft Excel и электронную таблицу OpenOffice Calc паролем — NodeJS REST API" >}}

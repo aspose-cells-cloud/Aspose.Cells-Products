@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ الأرقام بتنسيق XLSB API مقابل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ الأرقام بتنسيق XLSB API مقابل Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLSB.
 url: /ar/perl/saveas/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

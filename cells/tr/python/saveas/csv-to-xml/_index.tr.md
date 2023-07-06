@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV'yi Python için XML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Python için Aspose.Cells Cloud SDK kullanılarak CSV biçimindeki dosyayı XML biçimindeki dosya olarak kaydedin.
 url: /tr/python/saveas/csv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: ODS'den SVG'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  ODS'den SVG'e Perl için API'i dönüştürün
+description:  ODS biçim dosyasını SVG biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/ods-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title: " JSON إلى PPTX: تحويل API إلى Perl"
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق JSON إلى ملف بتنسيق PPTX.
 url: /ar/perl/conversion/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل JSON إلى PPTX" h2="Perl مكتبة لتحويل JSON إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل JSON إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/json-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل JSON إلى PPTX" h2="Perl مكتبة لتحويل JSON إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل JSON إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/json-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى PPTX في Perl" >}}

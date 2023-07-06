@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer GIF sous XLSB API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format GIF en tant que fichier au format XLSB.
 url: /fr/net/saveas/gif-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer le GIF au format XLSB" h2="C# bibliothèque pour enregistrer le GIF au format XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer des fichiers GIF au format XLSB et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/gif-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer le GIF au format XLSB" h2="C# bibliothèque pour enregistrer le GIF au format XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer les fichiers GIF au format XLSB et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/gif-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF au format XLSB au C#" >}}

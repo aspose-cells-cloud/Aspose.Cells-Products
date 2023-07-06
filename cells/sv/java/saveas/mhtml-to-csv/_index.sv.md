@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som CSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara MHTML-formatfil som CSV-formatfil.
 url: /sv/java/saveas/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

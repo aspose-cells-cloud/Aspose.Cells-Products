@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer XLSM sous SQL API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLSM en tant que fichier au format SQL.
 url: /fr/php/saveas/xlsm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLSM en SQL" h2="PHP bibliothèque pour enregistrer XLSM en SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format SQL et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/xlsm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLSM en SQL" h2="PHP bibliothèque pour enregistrer XLSM en SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM en tant que SQL et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/xlsm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM en tant que SQL dans PHP" >}}

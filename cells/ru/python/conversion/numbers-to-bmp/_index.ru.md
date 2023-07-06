@@ -1,6 +1,6 @@
 ﻿---
-title:  ЧИСЛА в BMP Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: ЧИСЛА в BMP Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата NUMBERS в файл формата BMP.
 url: /ru/python/conversion/numbers-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/numbers-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в BMP в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в BMP — сложная задача. Все преобразования форматов NUMBERS в BMP выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов NUMBERS в BMP. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из NUMBERS в BMP — сложная задача. Все преобразования форматов NUMBERS в BMP выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов NUMBERS в BMP. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования NUMBERS в формат BMP" gistPath="" %}}

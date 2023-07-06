@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XLTX как XLSM API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTX как XLSM API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLTX в виде файла формата XLSM.
 url: /ru/perl/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLTX как XLSM" h2="Perl библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с помощью Perl." urlsection="saveas/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить XLTX как XLSM" h2="Perl библиотека для сохранения XLTX как XLSM" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения XLTX как XLSM и других форматов документов в Интернете с использованием Perl." urlsection="saveas/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLSM по адресу Perl." >}}

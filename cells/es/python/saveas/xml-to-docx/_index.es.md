@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XML como DOCX API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato XML como archivo de formato DOCX.
 url: /es/python/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/python/saveas/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como DOCX en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como DOCX es una tarea compleja. Todas las transiciones de formato XML a DOCX se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Python es una solución profesional para guardar XML como archivos DOCX en línea. Este SDK de la nube brinda a los desarrolladores de Python una funcionalidad poderosa y una salida DOCX perfecta.
+Guardar formatos de archivo desde XML como DOCX es una tarea compleja. Todas las transiciones de formato XML a DOCX se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Python es una solución profesional para guardar XML como archivos DOCX en línea. Este SDK de la nube brinda a los desarrolladores de Python una funcionalidad poderosa y una salida DOCX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para guardar XML como formato DOCX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva MHTML come JPG API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato MHTML come file in formato JPG.
 url: /it/perl/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

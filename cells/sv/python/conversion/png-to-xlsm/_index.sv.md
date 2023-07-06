@@ -1,6 +1,6 @@
 ﻿---
-title: PNG till XLSM Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  PNG till XLSM Konvertera API till Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i PNG-format till fil i XLSM-format.
 url: /sv/python/conversion/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

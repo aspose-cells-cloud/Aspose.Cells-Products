@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить MHTML как XLSX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата MHTML в виде файла формата XLSX.
 url: /ru/java/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить MHTML как XLSX" h2="Java библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения документов MHTML как XLSX и других форматов в Интернете с использованием Java." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, чтобы сохранить MHTML как XLSX" h2="Java библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения документов MHTML в формате XLSX и других форматов в Интернете с использованием Java." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSX в Java." >}}

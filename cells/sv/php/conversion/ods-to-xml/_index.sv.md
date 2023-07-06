@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS till XML Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: ODS till XML Konvertera API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera ODS-formatfil till XML-formatfil.
 url: /sv/php/conversion/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

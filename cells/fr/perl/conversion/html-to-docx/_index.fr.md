@@ -1,6 +1,6 @@
 ﻿---
-title: HTML en DOCX Convertir API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  HTML en DOCX Convertir API pour Perl
+description: Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format HTML en fichier au format DOCX.
 url: /fr/perl/conversion/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

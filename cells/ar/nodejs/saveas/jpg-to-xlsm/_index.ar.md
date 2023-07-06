@@ -1,6 +1,6 @@
 ﻿---
 title:  حفظ JPG كـ XLSM API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق JPG كملف بتنسيق XLSM.
 url: /ar/nodejs/saveas/jpg-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

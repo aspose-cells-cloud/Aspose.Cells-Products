@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'i C# için GIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını GIF biçim dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/xltx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/net/saveas/xltx-to-gif/
 Dosya biçimlerini XLTX'ten GIF olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten GIF formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, XLTX'i çevrimiçi GIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i GIF formatı olarak kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i GIF formatı olarak kaydetmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/

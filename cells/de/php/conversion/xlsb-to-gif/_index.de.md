@@ -1,16 +1,16 @@
 ﻿---
-title:  XLSB zu GIF konvertieren API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSB in GIF Konvertieren Sie API in PHP
+description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLSB-Formatdatei in eine GIF-Formatdatei.
 url: /de/php/conversion/xlsb-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um XLSB in GIF zu konvertieren" h2="PHP-Bibliothek zum Konvertieren von XLSB in GIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XLSB in GIF und andere Dokumentformate unter Verwendung von PHP." urlsection="conversion/xlsb-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von XLSB in GIF" h2="PHP-Bibliothek zum Konvertieren von XLSB in GIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSB in GIF und andere Dokumentformate mit PHP." urlsection="conversion/xlsb-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSB-Datei in PHP in GIF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSB-Datei in GIF in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSB in GIF ist eine komplexe Aufgabe. Alle XLSB-zu-GIF-Formatübergänge werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um XLSB-Dateien online in GIF-Dateien zu konvertieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte GIF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSB in GIF ist eine komplexe Aufgabe. Alle XLSB-zu-GIF-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSB-Quelltabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSB- in GIF-Dateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und eine perfekte GIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von XLSB in das GIF-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von XLSB in GIF ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um XLSB in GIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

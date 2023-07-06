@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى CSV تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLS إلى ملف بتنسيق CSV.
 url: /ar/android/conversion/xls-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  BMP в XLSB Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата BMP в файл формата XLSB.
 url: /ru/python/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования BMP в XLSB" h2="Библиотека Python для преобразования BMP в XLSB" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования BMP в XLSB и другие форматы документов онлайн с использованием Python." urlsection="conversion/bmp-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования BMP в XLSB" h2="Python библиотека для преобразования BMP в XLSB" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования BMP в XLSB и другие форматы документов онлайн с использованием Python." urlsection="conversion/bmp-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в XLSB в Python" >}}

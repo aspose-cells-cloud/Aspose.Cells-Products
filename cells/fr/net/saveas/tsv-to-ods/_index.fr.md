@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez TSV sous ODS API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez TSV sous ODS API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format TSV en tant que fichier au format ODS.
 url: /fr/net/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

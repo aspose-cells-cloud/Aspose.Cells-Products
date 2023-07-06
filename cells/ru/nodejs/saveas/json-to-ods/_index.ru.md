@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как ODS API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JSON в виде файла формата ODS.
 url: /ru/nodejs/saveas/json-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/json-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как ODS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из JSON в виде ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения JSON в формате ODS" gistPath="" %}}

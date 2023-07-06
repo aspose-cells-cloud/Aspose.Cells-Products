@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'den XLSM'ye Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/bmp-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

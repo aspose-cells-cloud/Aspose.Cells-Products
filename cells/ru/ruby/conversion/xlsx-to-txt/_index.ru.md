@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLSX в TXT API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLSX в файл формата TXT.
 url: /ru/ruby/conversion/xlsx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования XLSX в TXT" h2="Библиотека Ruby для преобразования XLSX в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации XLSX в TXT и других форматов документов с использованием Ruby." urlsection="conversion/xlsx-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования XLSX в TXT" h2="Библиотека Ruby для преобразования XLSX в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для онлайн-конвертации XLSX в TXT и другие форматы документов с использованием Ruby." urlsection="conversion/xlsx-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в TXT в Ruby" >}}

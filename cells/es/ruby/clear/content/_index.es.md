@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar contenido en Microsoft Excel y Op
 url: /es/ruby/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo Microsoft Excel locales y OpenOffice Calc en Ruby. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo Microsoft Excel locales y OpenOffice Calc en Ruby. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar contenido en Microsoft Excel local y hoja de cálculo de OpenOffice Calc - Ruby REST API" >}}

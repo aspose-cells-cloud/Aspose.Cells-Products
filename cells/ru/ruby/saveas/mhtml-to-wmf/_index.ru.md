@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как WMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата MHTML в виде файла формата WMF.
 url: /ru/ruby/saveas/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как WMF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы между форматами MHTML и WMF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения файлов MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения файлов MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения MHTML в формате WMF" gistPath="" %}}

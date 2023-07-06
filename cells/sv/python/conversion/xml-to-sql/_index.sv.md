@@ -1,6 +1,6 @@
 ﻿---
-title: XML till SQL Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XML till SQL Konvertera API för Python
+description: Använder Aspose.Cells Cloud SDK för Python för att konvertera XML-formatfil till SQL-formatfil.
 url: /sv/python/conversion/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

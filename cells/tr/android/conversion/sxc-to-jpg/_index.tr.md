@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için SXC'den JPG'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını JPG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/sxc-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

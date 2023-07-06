@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar estilos en Microsoft Excel y Open
 url: /es/android/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra los estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra los estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

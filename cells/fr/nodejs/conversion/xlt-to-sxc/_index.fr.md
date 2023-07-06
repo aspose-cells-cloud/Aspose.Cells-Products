@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en SXC API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format XLT en fichier au format SXC.
 url: /fr/nodejs/conversion/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

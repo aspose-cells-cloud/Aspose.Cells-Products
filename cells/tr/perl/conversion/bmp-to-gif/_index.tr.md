@@ -1,6 +1,6 @@
 ﻿---
-title: BMP'den GIF'e Dönüştür API for Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  BMP'den GIF'e Dönüştür API for Perl
+description:  BMP biçimindeki dosyayı GIF biçimindeki dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

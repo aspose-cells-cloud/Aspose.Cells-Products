@@ -1,10 +1,10 @@
 ﻿---
-title:  Borrar filas duplicadas en el libro de trabajo local en Cloud
-description: API y SDK en la nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc. Borre las filas duplicadas en las hojas de cálculo locales por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Borre filas duplicadas en el libro de trabajo local con NodeJS en Cloud
+description:  API y SDK en la nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc con NodeJS. Borre las filas duplicadas en las hojas de cálculo locales con el SDK Cells Cloud API para NodeJS
 url: /es/nodejs/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas duplicadas en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional elimina filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas duplicadas en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional elimina filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borre las filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

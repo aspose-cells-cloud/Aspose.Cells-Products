@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JSON как JPG API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата JSON в виде файла формата JPG.
 url: /ru/ruby/saveas/json-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/json-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как JPG в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде JPG — сложная задача. Все переходы формата JSON в формат JPG выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Ruby — это профессиональное решение для сохранения JSON в виде файлов JPG онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из JSON в виде JPG — сложная задача. Все переходы между форматами JSON и JPG выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Ruby — это профессиональное решение для сохранения JSON в виде файлов JPG онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения JSON в формате JPG" gistPath="" %}}

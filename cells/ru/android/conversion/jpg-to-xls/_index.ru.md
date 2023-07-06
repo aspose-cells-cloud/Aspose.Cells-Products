@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JPG в XLS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата JPG в файл формата XLS.
 url: /ru/android/conversion/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XLS на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XLS — сложная задача. Все переходы между форматами JPG и XLS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов JPG в XLS. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLS.
+Преобразование форматов файлов из JPG в XLS — сложная задача. Все переходы между форматами JPG и XLS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов JPG в XLS. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования JPG в формат XLS" gistPath="" %}}

@@ -1,16 +1,16 @@
 ﻿---
-title:  JPG in XLSX konvertieren API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  JPG in XLSX Konvertieren Sie API in C#
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine JPG-Formatdatei in eine XLSX-Formatdatei zu konvertieren.
 url: /de/net/conversion/jpg-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von JPG in XLSX" h2="C# Bibliothek zum Konvertieren von JPG in XLSX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von JPG in XLSX und andere Dokumentformate online mit C#." urlsection="conversion/jpg-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von JPG in XLSX" h2="C#-Bibliothek zum Konvertieren von JPG in XLSX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JPG in XLSX und andere Dokumentformate unter C#." urlsection="conversion/jpg-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in C# in XLSX" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in XLSX in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JPG in XLSX ist eine komplexe Aufgabe. Alle Formatübergänge vom JPG- zum XLSX-Format werden von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um JPG-Dateien online in XLSX-Dateien zu konvertieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte XLSX-Ausgabe.
+Das Konvertieren von Dateiformaten von JPG in XLSX ist eine komplexe Aufgabe. Alle Übergänge von JPG ins XLSX-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JPG- in XLSX-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XLSX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von JPG in das XLSX-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von JPG in XLSX ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Konvertieren von JPG in XLSX" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um JPG in XLSX zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

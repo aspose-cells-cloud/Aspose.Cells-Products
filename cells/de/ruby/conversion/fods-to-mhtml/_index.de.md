@@ -1,5 +1,5 @@
 ﻿---
-title:  Konvertieren Sie von Excel FODS in MHTML via Ruby
+title:  Konvertieren von Excel FODS zu MHTML via Ruby
 description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Ruby SDK
 url: /de/ruby/conversion/fods-to-mhtml/
 family: cells
@@ -11,21 +11,21 @@ platform: Ruby
 otherformats: XLTX TIFF MHTML CSV XLSX XLSB DIF XLTM TXT XML FODS TSV XLSM PDF XPS MD 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS mit Ruby in MHTML" h2="Lesen, bearbeiten und exportieren Sie Excel-Daten in andere Formate mit Open Source Cloud SDK für Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS mit Ruby in MHTML" h2="Lesen, bearbeiten und exportieren Sie Excel-Daten in andere Formate mit dem Open-Source-Cloud-SDK für Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="FODS-zu-MHTML-Konvertierung mit Ruby" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und API-Version
+1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
+1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.upload_file``` in den Standard-Cloud-Speicher hoch
 1. Rufen Sie die Methode ```CellsApi.cells_save_as_post_document_save_as``` auf, um die resultierende MHTML-Datei abzurufen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel API & Ruby SDK" %}}
- Holen Sie sich Excel Cloud SDK für Ruby-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) um das SDK selbst zu kompilieren oder gehen Sie zur[Freigaben](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel API und Ruby SDK" %}}
+ Holen Sie sich den Quellcode Excel Cloud SDK für Ruby von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-basiert an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr über die zu erfahren[Excel RUHE API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Ruby-Code für die Konvertierung von FODS in MHTML" gistPath="" %}}

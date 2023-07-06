@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ EMF API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق SXC كملف بتنسيق EMF.
 url: /ar/net/saveas/sxc-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

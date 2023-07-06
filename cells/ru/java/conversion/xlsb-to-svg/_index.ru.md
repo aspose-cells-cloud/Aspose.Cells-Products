@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB в SVG Конвертировать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSB в файл формата SVG.
 url: /ru/java/conversion/xlsb-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

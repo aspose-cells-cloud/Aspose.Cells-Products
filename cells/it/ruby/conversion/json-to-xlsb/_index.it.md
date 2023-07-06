@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da JSON a XLSB API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per convertire il file in formato JSON in un file in formato XLSB.
 url: /it/ruby/conversion/json-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

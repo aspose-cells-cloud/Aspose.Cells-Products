@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML a XLSB Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato HTML a un archivo de formato XLSB.
 url: /es/android/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/conversion/html-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a XLSB en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a XLSB es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a XLSB mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos XLSB en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLSB perfecta.
+Convertir formatos de archivo de HTML a XLSB es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a XLSB mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos XLSB en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLSB perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir HTML a formato XLSB" gistPath="" %}}

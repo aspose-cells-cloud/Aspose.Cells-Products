@@ -1,6 +1,6 @@
 ﻿---
-title:  SXC'yi Perl için CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: SXC'yi Perl için CSV API olarak kaydedin
+description:  SXC biçimli dosyayı CSV biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

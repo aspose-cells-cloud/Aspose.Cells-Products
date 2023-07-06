@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV كـ XLSM API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف TSV كملف بتنسيق XLSM.
 url: /ar/ruby/saveas/tsv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

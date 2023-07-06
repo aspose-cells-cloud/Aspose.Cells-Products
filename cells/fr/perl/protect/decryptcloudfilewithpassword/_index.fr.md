@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc déchiffr
 url: /fr/perl/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour déchiffrer le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque Perl pour décrypter le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Décrypter REST API pour décrypter le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec les workflows de mots de passe dans Perl. Cette solution professionnelle décrypte le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe à l\'aide de Perl." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour déchiffrer le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque Perl pour décrypter le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Decrypt Rest API To Decrypt Cloud Microsoft Excel et OpenOffice CalcPsheet avec un cloud de mot de passe Microsoft Excel et OpenOffice Calcols Treatheet en ligne avec des mots de passe en ligne avec 07616341 et OpenOffice Calcols" urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Déchiffrer le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe - Perl REST API" >}}

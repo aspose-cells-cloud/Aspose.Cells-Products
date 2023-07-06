@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS to XML Convert API for Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق ODS إلى ملف بتنسيق XML.
 url: /ar/go/conversion/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

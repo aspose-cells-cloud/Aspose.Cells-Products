@@ -1,10 +1,10 @@
 ﻿---
 title:  GIF إلى CSV - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف بصيغة GIF إلى ملف بصيغة CSV.
 url: /ar/java/conversion/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل GIF إلى CSV" h2="مكتبة Java لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/gif-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل GIF إلى CSV" h2="مكتبة Java لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/gif-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى CSV في Java" >}}

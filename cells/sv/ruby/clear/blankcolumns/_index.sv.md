@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa tomma kolumner på Microsof
 url: /sv/ruby/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Rensa för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma kolumner i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning rensar tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Rensa för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma kolumner i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning rensar tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa tomma kolumner på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Ruby REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Объедините несколько файлов Excel в файл.
-description:  Облачные API и SDK для объединения нескольких файлов Excel. Объедините несколько файлов Excel в файл с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Объедините несколько файлов Excel в файл с номером Java.
+description:  Облачные API и SDK для объединения нескольких файлов Excel с Java
 url: /ru/java/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для объединения нескольких файлов Excel в один файл." h2="Java библиотека для объединения нескольких Excel файлов в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Java. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием Java." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для объединения нескольких файлов Excel в один файл." h2="Java библиотека для объединения нескольких Excel файлов в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Java. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием Java." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединить несколько файлов Excel в файл — Java REST API" >}}

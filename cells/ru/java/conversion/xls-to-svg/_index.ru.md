@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS в SVG Конвертировать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLS в файл формата SVG.
 url: /ru/java/conversion/xls-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ XPS API من أجل Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/saveas/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/sxc-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بالشكل XPS في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XPS بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات XPS عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XPS مثالي.
+يعد حفظ تنسيقات الملفات من SXC كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى XPS بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ SXC كملفات XPS عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XPS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ SXC بتنسيق XPS" gistPath="" %}}

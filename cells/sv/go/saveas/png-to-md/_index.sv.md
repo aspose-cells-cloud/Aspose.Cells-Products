@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som MD API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara fil i PNG-format som fil i MD-format.
 url: /sv/go/saveas/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

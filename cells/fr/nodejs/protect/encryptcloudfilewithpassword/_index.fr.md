@@ -4,7 +4,7 @@ description: API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc.
 url: /fr/nodejs/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque NodeJS pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec les workflows de mot de passe dans NodeJS. Cette solution professionnelle protège le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe à l\'aide de NodeJS." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" h2="Bibliothèque NodeJS pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec les workflows de mot de passe dans NodeJS. Cette solution professionnelle protège le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe à l\'aide de NodeJS." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Protégez le cloud Microsoft Excel et la feuille de calcul OpenOffice Calc avec mot de passe - NodeJS REST API" >}}

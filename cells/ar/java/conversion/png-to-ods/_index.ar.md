@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG لتحويل ODS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: PNG لتحويل ODS API for Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق PNG إلى ملف بتنسيق ODS.
 url: /ar/java/conversion/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

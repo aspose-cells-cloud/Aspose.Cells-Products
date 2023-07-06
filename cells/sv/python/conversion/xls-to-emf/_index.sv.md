@@ -1,6 +1,6 @@
 ﻿---
-title: XLS till EMF Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLS till EMF Konvertera API till Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i XLS-format till fil i EMF-format.
 url: /sv/python/conversion/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

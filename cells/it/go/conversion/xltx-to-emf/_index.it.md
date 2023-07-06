@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX a EMF Converti API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLTX nel file in formato EMF.
 url: /it/go/conversion/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

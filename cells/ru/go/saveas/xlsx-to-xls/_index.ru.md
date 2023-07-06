@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как XLS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLSX в виде файла формата XLS.
 url: /ru/go/saveas/xlsx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

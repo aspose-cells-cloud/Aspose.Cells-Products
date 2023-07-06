@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTM как CSV API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLTM в виде файла формата CSV.
 url: /ru/go/saveas/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

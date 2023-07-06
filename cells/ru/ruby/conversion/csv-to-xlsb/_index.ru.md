@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование CSV в XLSB API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата CSV в файл формата XLSB.
 url: /ru/ruby/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/csv-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLSB в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в XLSB — сложная задача. Все переходы формата CSV в формат XLSB выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов CSV в XLSB. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате XLSB.
+Преобразование форматов файлов из CSV в XLSB — сложная задача. Все переходы формата CSV в формат XLSB выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов CSV в XLSB. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования CSV в формат XLSB" gistPath="" %}}

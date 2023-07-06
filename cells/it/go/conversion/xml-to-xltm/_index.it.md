@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XML a XLTM API for Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XML in un file in formato XLTM.
 url: /it/go/conversion/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

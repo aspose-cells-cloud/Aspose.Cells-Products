@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB'yi C# için DIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçimli dosyayı DIF biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

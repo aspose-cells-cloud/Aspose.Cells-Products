@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF a MHTML Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato GIF a un archivo de formato MHTML.
 url: /es/go/conversion/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/conversion/gif-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo GIF a MHTML en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de GIF a MHTML es una tarea compleja. Todas las transiciones de formato GIF a MHTML son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos GIF a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida MHTML perfecta.
+Convertir formatos de archivo de GIF a MHTML es una tarea compleja. Todas las transiciones de formato GIF a MHTML se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos GIF a MHTML en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida MHTML perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir GIF a formato MHTML" gistPath="" %}}

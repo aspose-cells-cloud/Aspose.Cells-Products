@@ -5,14 +5,14 @@ weight: 60
 url: /ru/java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java SDK для создания и изменения Excel Файлы via REST API" h2="Обеспечивает бесшовную интеграцию функций обработки электронных таблиц Excel и OpenOffice в облачные приложения Java." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java SDK для создания и изменения Excel файлов via REST API" h2="Обеспечивает бесшовную интеграцию функций обработки электронных таблиц Excel и OpenOffice в облачные приложения Java." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Это позволяет вашей программе Java создавать рабочую книгу Excel из шаблона смарт-маркера. Объединяйте, разделяйте, шифруйте, расшифровывайте и применяйте пароль к книгам Excel в облаке. Вычислите все формулы в книге с помощью простого облачного SDK Java с кодом via.</p>
+<p>Это позволяет вашей программе Java создавать рабочую книгу Excel из шаблона смарт-маркера. Объединяйте, разделяйте, шифруйте, расшифровывайте и применяйте пароль к книгам Excel в облаке. Вычислите все формулы в книге, используя простой Java код via облачный SDK.</p>
 <p>Используя Aspose.Cells Cloud SDK for Java, вы сможете извлекать штрих-коды из изображения листа с помощью простых инструкций Java, применять различные фильтры (фильтр даты, динамический фильтр фильтра значков) на листе, работать со всеми или отдельными строками, столбцами и ячейками в рабочий лист.</p>
 <p>Вы также можете работать с Microsoft Excel диаграммами, условным форматированием, гиперссылками, ListObjets, OleObjects, разрывами страниц, настройкой страницы, изображениями, сводными таблицами и управлением облачными файлами и папками.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -43,7 +43,7 @@ url: /ru/java
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
@@ -146,7 +146,7 @@ url: /ru/java
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Удалить определенные или все объекты ListObject на листе
+ Удалить определенные или все объекты ListObject на листе
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /ru/java
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">

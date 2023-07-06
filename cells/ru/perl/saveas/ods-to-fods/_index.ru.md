@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить ODS как FODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить ODS как FODS API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата ODS как файла формата FODS.
 url: /ru/perl/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

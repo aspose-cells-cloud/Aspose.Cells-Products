@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML'yi Go için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  MHTML biçim dosyasını XLSX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/go/saveas/mhtml-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Go\'da XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini MHTML'den XLSX olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XLSX biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, MHTML'yi çevrimiçi olarak XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+Dosya biçimlerini MHTML'den XLSX olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XLSX biçim geçişleri, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, MHTML'yi çevrimiçi olarak XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XLSX formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

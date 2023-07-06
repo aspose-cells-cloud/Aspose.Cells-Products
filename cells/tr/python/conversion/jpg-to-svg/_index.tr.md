@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG'yi SVG'e Python için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: JPG'yi SVG'e Python için API'e dönüştür
+description:  JPG formatındaki dosyayı SVG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

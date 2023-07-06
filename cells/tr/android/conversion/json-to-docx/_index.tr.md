@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için JSON'dan DOCX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını DOCX biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

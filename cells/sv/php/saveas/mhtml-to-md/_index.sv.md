@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som MD API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för PHP för att spara MHTML-formatfil som MD-formatfil.
 url: /sv/php/saveas/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

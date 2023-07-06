@@ -1,6 +1,6 @@
 ﻿---
-title:  TXT till JSON Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: TXT till JSON Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i TXT-format till fil i JSON-format.
 url: /sv/perl/conversion/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

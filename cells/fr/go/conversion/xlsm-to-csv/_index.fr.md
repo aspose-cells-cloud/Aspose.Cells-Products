@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en CSV API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLSM en fichier au format CSV.
 url: /fr/go/conversion/xlsm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

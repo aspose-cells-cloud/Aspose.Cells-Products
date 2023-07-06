@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX a PDF Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLSX a PDF Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato XLSX a un archivo de formato PDF.
 url: /es/perl/conversion/xlsx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

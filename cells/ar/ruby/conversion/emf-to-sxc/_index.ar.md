@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF لتحويل SXC API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: EMF لتحويل SXC API للروبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق EMF إلى ملف بتنسيق SXC.
 url: /ar/ruby/conversion/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

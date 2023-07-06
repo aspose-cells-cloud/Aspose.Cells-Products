@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى FODS - تحويل API عن PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق EMF إلى ملف بتنسيق FODS.
 url: /ar/php/conversion/emf-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

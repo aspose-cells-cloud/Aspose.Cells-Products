@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразовать HTML в XLTX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата HTML в файл формата XLTX.
 url: /ru/java/conversion/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLTX в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLTX.
+Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот Cloud SDK предоставляет разработчикам Java мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования HTML в формат XLTX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: TSV'den XPS'e Python için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  TSV'den XPS'e Python için API'i dönüştürün
+description:  TSV formatındaki dosyayı XPS formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/tsv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

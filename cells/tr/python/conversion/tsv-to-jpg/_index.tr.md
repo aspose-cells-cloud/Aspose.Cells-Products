@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'den JPG'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV formatındaki dosyayı JPG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

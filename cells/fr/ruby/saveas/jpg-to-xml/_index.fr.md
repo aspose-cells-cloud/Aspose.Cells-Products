@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer JPG au format XML API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Ruby pour enregistrer le fichier au format JPG en tant que fichier au format XML.
 url: /fr/ruby/saveas/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

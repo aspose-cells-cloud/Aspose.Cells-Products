@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки объектов 
 url: /ru/android/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки объектов списка в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Очистить, чтобы очистить список объектов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки объектов списка в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение для очистки списка объектов на локальном Microsoft Excel и в электронной таблице OpenOffice Calc с использованием Android." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки объектов списка в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Очистить, чтобы очистить список объектов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки объектов списка в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение для очистки списка объектов на локальном Microsoft Excel и в электронной таблице OpenOffice Calc с использованием Android." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить объекты списка на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — Android REST API" >}}

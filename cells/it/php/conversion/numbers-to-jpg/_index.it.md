@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS in JPG Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato NUMBERS in un file in formato JPG.
 url: /it/php/conversion/numbers-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

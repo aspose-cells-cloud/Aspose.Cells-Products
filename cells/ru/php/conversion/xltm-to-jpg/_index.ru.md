@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTM в JPG API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата XLTM в файл формата JPG.
 url: /ru/php/conversion/xltm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/conversion/xltm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в JPG в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в JPG — сложная задача. Все переходы из формата XLTM в формат JPG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTM в JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XLTM в JPG — сложная задача. Все переходы XLTM в формат JPG выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTM в JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования XLTM в формат JPG" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/xltm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XLTM в JPG" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

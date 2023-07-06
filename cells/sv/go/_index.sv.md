@@ -160,7 +160,7 @@ Excel Funktioner för bearbetning av kalkylblad
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sammanfatta data för stora ListObject eller tabell med pivottabell
+Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Excel Funktioner för bearbetning av kalkylblad
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ta bort specifika eller alla OleObjects från kalkylbladet
+ Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,7 +231,7 @@ Ta bort specifika eller alla OleObjects från kalkylbladet
  Kom igång med Excel Spreadsheet Processing SDK
     </h2>
     <p>
- För att komma igång med Aspose.Cells Cloud SDK för Go behöver du inte installera någonting. Allt du behöver göra är att skapa ett konto på
+För att komma igång med Aspose.Cells Cloud SDK för Go behöver du inte installera någonting. Allt du behöver göra är att skapa ett konto på
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
@@ -240,10 +240,10 @@ Ta bort specifika eller alla OleObjects från kalkylbladet
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Generera Excel arbetsbok från en mall
+ Generera Excel arbetsbok från en mall
     </h2>
     <p>
- Aspose.Cells Cloud Go SDK har inkluderat funktionalitet för att programmatiskt skapa Excel arbetsbok från en mallfil med hjälp av Go-språket. När arbetsboken har skapats kan du enkelt ändra arbetsboken efter dina egna behov. Du kan lägga till ett nytt ark i arbetsboken, tilldela ett namn, ställa in teckensnitt som du väljer, tillämpa stilar på celler, ta bort ett ark och mycket mer. Du kan också skapa en arbetsbok från en SmartMarker-mallfil med bara ett par rader kod.
+Aspose.Cells Cloud Go SDK har inkluderat funktionalitet för att programmatiskt skapa Excel arbetsbok från en mallfil med hjälp av Go-språket. När arbetsboken har skapats kan du enkelt ändra arbetsboken efter dina egna behov. Du kan lägga till ett nytt ark i arbetsboken, tilldela ett namn, ställa in teckensnitt som du väljer, tillämpa stilar på celler, ta bort ett ark och mycket mer. Du kan också skapa en arbetsbok från en SmartMarker-mallfil med bara ett par rader kod.
     </p>
    </div>
    <div class="col-lg-12">

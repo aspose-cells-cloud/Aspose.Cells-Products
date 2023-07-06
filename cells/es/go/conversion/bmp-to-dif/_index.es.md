@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP a DIF Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato BMP a un archivo de formato DIF.
 url: /es/go/conversion/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

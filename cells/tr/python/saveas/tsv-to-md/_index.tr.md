@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'yi Python için MD API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV formatındaki dosyayı MD formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

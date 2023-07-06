@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTM إلى WMF - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLTM إلى ملف بتنسيق WMF.
 url: /ar/java/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTM إلى WMF" h2="Java مكتبة لتحويل XLTM إلى WMF" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLTM إلى WMF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTM إلى WMF" h2="Java مكتبة لتحويل XLTM إلى WMF" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLTM إلى WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTM إلى WMF في Java" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som XLSX API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara BMP filformat som XLSX format fil.
 url: /sv/android/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

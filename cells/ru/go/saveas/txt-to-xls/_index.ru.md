@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как XLS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата TXT как файла формата XLS.
 url: /ru/go/saveas/txt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как XLS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде XLS — сложная задача. Все переходы между форматами TXT и XLS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Go — это профессиональное решение для сохранения TXT в виде файлов XLS в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLS.
+Сохранение форматов файлов из TXT в виде XLS — сложная задача. Все переходы форматов TXT в XLS выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Go — это профессиональное решение для сохранения TXT в виде файлов XLS в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения TXT в формате XLS" gistPath="" %}}

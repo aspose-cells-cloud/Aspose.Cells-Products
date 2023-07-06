@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS كـ XPS API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLS كملف بتنسيق XPS.
 url: /ar/net/saveas/xls-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

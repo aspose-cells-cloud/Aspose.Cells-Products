@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som PPTX API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara NUMBERS-formatfilen som PPTX-formatfil.
 url: /sv/php/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

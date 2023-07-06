@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'yi C# için XLTM API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG format dosyasını XLTM format dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/saveas/jpg-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını C#\'de XLTM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-JPG'den dosya biçimlerini XLTM olarak kaydetmek karmaşık bir iştir. Tüm JPG'den XLTM biçimine geçişler, kaynak JPG e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, JPG'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+JPG'den dosya biçimlerini XLTM olarak kaydetmek karmaşık bir görevdir. Tüm JPG'den XLTM biçimine geçişler, kaynak JPG e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, JPG'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi XLTM formatı olarak kaydetmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

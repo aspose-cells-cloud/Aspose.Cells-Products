@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLTM в PPTX API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLTM в файл формата PPTX.
 url: /ru/python/conversion/xltm-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLTM в PPTX" h2="Python библиотека для преобразования XLTM в PPTX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLTM в PPTX и другие форматы документов с использованием Python." urlsection="conversion/xltm-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLTM в PPTX" h2="Python библиотека для преобразования XLTM в PPTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLTM в PPTX и другие форматы документов с использованием Python." urlsection="conversion/xltm-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в PPTX в Python" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS till WMF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: NUMBERS till WMF Konvertera API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera NUMBERS-formatfil till WMF-formatfil.
 url: /sv/nodejs/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

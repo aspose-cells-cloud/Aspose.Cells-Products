@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'i MHTML'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go'yu kullanarak HTML biçimindeki dosyayı MHTML biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/go/conversion/html-to-mhtml/
 Dosya biçimlerini HTML'den MHTML'ye dönüştürmek karmaşık bir iştir. HTML'den MHTML formatına tüm geçişler, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, HTML'i çevrimiçi olarak MHTML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i MHTML biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i MHTML formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

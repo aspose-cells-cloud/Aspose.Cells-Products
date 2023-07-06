@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ XLT API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق MHTML كملف بتنسيق XLT.
 url: /ar/net/saveas/mhtml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

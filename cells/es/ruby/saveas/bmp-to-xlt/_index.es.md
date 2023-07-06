@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como XLT API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato BMP como archivo de formato XLT.
 url: /es/ruby/saveas/bmp-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

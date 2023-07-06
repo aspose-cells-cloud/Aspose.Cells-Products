@@ -1,6 +1,6 @@
 ﻿---
-title: TXT en MD Convertir API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  TXT en MD Convertir API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format TXT en fichier au format MD.
 url: /fr/net/conversion/txt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

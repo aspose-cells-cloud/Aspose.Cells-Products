@@ -10,7 +10,7 @@ url: /ar/swift/export/worksheet-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير ورقة العمل إلى تنسيق PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد تصدير كائن WORKSHEET إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKSHEET إلى تنسيق PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتصدير WORKSHEET إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}

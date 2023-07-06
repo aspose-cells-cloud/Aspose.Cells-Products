@@ -1,6 +1,6 @@
 ﻿---
 title:  Go API kullanarak WORKSHEET'i e-tablodan MD'ye aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/go/export/worksheet-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/go/export/worksheet-to-md/
 WORKSHEET nesnesini elektronik tablodan MD dosyasına dışa aktarma karmaşık bir görevdir. WORKSHEET'i MD biçimine dışa aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak MD formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i elektronik tablodan MD formatına dışa aktarmak için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan MD formatına dışa aktarmak için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

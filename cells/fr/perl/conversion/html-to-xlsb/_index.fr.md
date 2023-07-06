@@ -1,10 +1,10 @@
 ﻿---
 title:  HTML à XLSB Convertir API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format HTML en fichier au format XLSB.
 url: /fr/perl/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir HTML en XLSB" h2="Bibliothèque Perl pour convertir HTML en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir HTML en XLSB et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="conversion/html-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir HTML en XLSB" h2="Bibliothèque Perl pour convertir HTML en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir HTML en XLSB et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/html-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier HTML en XLSB en Perl" >}}

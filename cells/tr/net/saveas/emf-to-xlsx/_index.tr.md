@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i C# için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını XLSX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/saveas/emf-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını C#\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, EMF'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+EMF'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, EMF'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XLSX formatı olarak kaydetmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

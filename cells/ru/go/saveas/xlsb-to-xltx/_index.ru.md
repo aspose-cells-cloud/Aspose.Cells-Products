@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XLTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB как файла формата XLTX.
 url: /ru/go/saveas/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xlsb-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как XLTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в XLTX — сложная задача. Все переходы между форматами XLSB и XLTX выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в формате XLTX в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XLSB в XLTX — сложная задача. Все переходы между форматами XLSB и XLTX выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в формате XLTX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLSB в формате XLTX" gistPath="" %}}

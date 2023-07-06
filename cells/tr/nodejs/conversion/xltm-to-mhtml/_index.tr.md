@@ -1,6 +1,6 @@
 ﻿---
-title:  NodeJS için XLTM'den MHTML'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NodeJS için XLTM'den MHTML'ye Dönüştürme API
+description:  XLTM biçim dosyasını MHTML biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xltm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

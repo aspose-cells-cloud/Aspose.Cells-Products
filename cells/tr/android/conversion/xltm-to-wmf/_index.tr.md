@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLTM'den WMF'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTM biçim dosyasını WMF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xltm-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLTM dosyasını WMF\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTM'den WMF'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den WMF formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTM'yi çevrimiçi olarak WMF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+Dosya formatlarını XLTM'den WMF'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den WMF formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTM'yi çevrimiçi olarak WMF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi WMF formatına dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

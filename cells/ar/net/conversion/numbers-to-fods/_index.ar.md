@@ -1,6 +1,6 @@
 ﻿---
-title: الأرقام إلى FODS حوّل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  الأرقام إلى FODS حوّل API إلى C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق FODS.
 url: /ar/net/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

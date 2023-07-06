@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir MHTML en CSV API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir MHTML en CSV API pour C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format MHTML en fichier au format CSV.
 url: /fr/net/conversion/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

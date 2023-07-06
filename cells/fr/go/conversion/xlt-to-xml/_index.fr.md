@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en XML API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format XLT en fichier au format XML.
 url: /fr/go/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

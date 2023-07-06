@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en PPTX API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format XLSB en fichier au format PPTX.
 url: /fr/ruby/conversion/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/ruby/conversion/xlsb-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en PPTX en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSB en PPTX est une tâche complexe. Toutes les transitions de format XLSB à PPTX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers XLSB en PPTX. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie PPTX parfaite.
+La conversion des formats de fichiers XLSB en PPTX est une tâche complexe. Toutes les transitions de format XLSB vers PPTX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers XLSB en PPTX. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir XLSB au format PPTX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Spara PNG som CSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara PNG som CSV API for Java
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara PNG filformat som CSV-formatfil.
 url: /sv/java/saveas/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML إلى SVG تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: MHTML إلى SVG تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق MHTML إلى ملف بتنسيق SVG.
 url: /ar/nodejs/conversion/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/mhtml-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى SVG في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى SVG بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات SVG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SVG مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى SVG بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات SVG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SVG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق SVG" gistPath="" %}}

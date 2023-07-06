@@ -1,6 +1,6 @@
 ﻿---
-title: TXT in HTML Converti API in Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  TXT in HTML Converti API in Python
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato TXT nel file in formato HTML.
 url: /it/python/conversion/txt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

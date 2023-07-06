@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'den MD'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go'yu kullanarak EMF biçimindeki dosyayı MD biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/emf-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

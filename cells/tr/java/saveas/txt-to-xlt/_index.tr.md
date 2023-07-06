@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT'yi XLT olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını XLT biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

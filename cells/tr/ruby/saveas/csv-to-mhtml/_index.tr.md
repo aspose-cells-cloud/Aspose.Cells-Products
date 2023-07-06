@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için CSV'yi MHTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı MHTML formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/saveas/csv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

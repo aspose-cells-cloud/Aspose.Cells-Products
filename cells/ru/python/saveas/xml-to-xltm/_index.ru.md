@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XML как XLTM API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как XLTM API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XML как файла формата XLTM.
 url: /ru/python/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

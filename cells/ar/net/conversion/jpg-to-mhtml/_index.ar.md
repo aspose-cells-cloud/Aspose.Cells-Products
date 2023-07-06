@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى MHTML - تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JPG إلى MHTML - تحويل API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق JPG إلى ملف بتنسيق MHTML.
 url: /ar/net/conversion/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

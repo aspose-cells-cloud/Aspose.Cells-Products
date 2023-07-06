@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTX в PPTX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLTX в файл формата PPTX.
 url: /ru/java/conversion/xltx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

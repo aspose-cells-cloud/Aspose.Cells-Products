@@ -1,6 +1,6 @@
 ﻿---
-title: ODS in SVG Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  ODS in SVG Converti API in PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato ODS nel file in formato SVG.
 url: /it/php/conversion/ods-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

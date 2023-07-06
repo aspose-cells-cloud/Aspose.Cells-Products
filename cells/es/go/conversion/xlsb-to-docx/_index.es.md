@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB a DOCX Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Go para convertir un archivo de formato XLSB a un archivo de formato DOCX.
 url: /es/go/conversion/xlsb-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

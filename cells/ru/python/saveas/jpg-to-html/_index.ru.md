@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JPG как HTML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата JPG как файла формата HTML.
 url: /ru/python/saveas/jpg-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

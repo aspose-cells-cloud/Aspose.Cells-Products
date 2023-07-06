@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON en BMP Convertir API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format JSON en fichier au format BMP.
 url: /fr/nodejs/conversion/json-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/nodejs/conversion/json-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier JSON en BMP dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de JSON en BMP est une tâche complexe. Toutes les transitions de format JSON vers BMP sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir des fichiers JSON en fichiers BMP en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie BMP parfaite.
+La conversion des formats de fichiers de JSON en BMP est une tâche complexe. Toutes les transitions de format JSON vers BMP sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir des fichiers JSON en BMP en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie BMP parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir JSON au format BMP" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в XLTM API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата MHTML в файл формата XLTM.
 url: /ru/ruby/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/mhtml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLTM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLTM — сложная задача. Все переходы форматов MHTML в XLTM выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и превосходный результат в формате XLTM.
+Преобразование форматов файлов из MHTML в XLTM — сложная задача. Все переходы форматов MHTML в XLTM выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования MHTML в формат XLTM" gistPath="" %}}

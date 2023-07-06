@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversion CSV en XML API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK for Java pour convertir un fichier au format CSV en fichier au format XML.
 url: /fr/java/conversion/csv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

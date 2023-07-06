@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en XLSX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format JPG en fichier au format XLSX.
 url: /fr/net/conversion/jpg-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till CSV Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i BMP-format till fil i CSV-format.
 url: /sv/go/conversion/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

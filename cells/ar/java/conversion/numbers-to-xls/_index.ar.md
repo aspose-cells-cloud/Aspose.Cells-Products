@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل الأرقام إلى XLS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق XLS.
 url: /ar/java/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX'den WMF'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLTX'den WMF'ye Dönüştürme API için Python
+description:  XLTX biçim dosyasını WMF biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xltx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

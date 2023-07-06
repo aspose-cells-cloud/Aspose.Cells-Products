@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i ODS'ye Dönüştür API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını ODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

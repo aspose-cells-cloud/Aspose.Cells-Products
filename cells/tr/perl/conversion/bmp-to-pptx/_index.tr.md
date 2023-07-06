@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'den PPTX'e API'i Perl'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı PPTX biçimindeki dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

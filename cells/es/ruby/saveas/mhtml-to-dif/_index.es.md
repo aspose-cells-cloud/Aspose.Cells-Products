@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar MHTML como DIF API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato MHTML como archivo de formato DIF.
 url: /es/ruby/saveas/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/saveas/mhtml-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo MHTML como DIF en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de MHTML como DIF es una tarea compleja. Todas las transiciones de formato MHTML a DIF son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar MHTML como archivos DIF en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida DIF perfecta.
+Guardar formatos de archivo de MHTML como DIF es una tarea compleja. Todas las transiciones de formato MHTML a DIF las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar MHTML como archivos DIF en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida DIF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar MHTML como formato DIF" gistPath="" %}}

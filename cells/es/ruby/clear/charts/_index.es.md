@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar gráficos en Microsoft Excel y Op
 url: /es/ruby/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar gráficos en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar gráficos en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar gráficos en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLS'den HTML'e Python için API'i dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLS'den HTML'e Python için API'i dönüştür
+description:  XLS biçim dosyasını HTML biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xls-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

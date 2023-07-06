@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS - FODS Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  ODS biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,13 +1,13 @@
 ﻿---
 title:  احفظ ODS كـ SVG API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق ODS كملف بتنسيق SVG.
 url: /ar/perl/saveas/ods-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ المواد المستنفدة للأوزون كـ SVG" h2="مكتبة Perl لحفظ نظام الوثائق الرسمية كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ ODS كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/ods-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بالشكل SVG في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كـ SVG في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS كـ SVG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى SVG بواسطة SDK Perl مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبتنا Perl هي حل احترافي لحفظ ODS كملفات SVG عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SVG مثالي.

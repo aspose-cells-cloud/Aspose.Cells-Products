@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir XLSX en WMF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir XLSX en WMF API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLSX en fichier au format WMF.
 url: /fr/python/conversion/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS a XPS Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir archivos de formato ODS a archivos de formato XPS.
 url: /es/nodejs/conversion/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

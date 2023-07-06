@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSX в DOCX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLSX в файл формата DOCX.
 url: /ru/ruby/conversion/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xlsx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в DOCX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в DOCX — сложная задача. Все переходы формата XLSX в формат DOCX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в DOCX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLSX в DOCX — сложная задача. Все переходы формата XLSX в формат DOCX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в DOCX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLSX в формат DOCX" gistPath="" %}}

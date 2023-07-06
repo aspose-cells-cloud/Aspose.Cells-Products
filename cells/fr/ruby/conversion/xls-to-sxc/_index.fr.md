@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en SXC API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format XLS en fichier au format SXC.
 url: /fr/ruby/conversion/xls-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

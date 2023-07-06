@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti TXT in CSV API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato TXT in un file in formato CSV.
 url: /it/perl/conversion/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

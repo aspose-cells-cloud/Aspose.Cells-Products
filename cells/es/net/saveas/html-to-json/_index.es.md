@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde HTML como JSON API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato HTML como archivo de formato JSON.
 url: /es/net/saveas/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

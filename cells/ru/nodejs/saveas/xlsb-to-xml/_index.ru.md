@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XML API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLSB в виде файла формата XML.
 url: /ru/nodejs/saveas/xlsb-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как XML в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде XML — сложная задача. Все переходы форматов XLSB в XML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSB в виде файлов XML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
+Сохранение форматов файлов из XLSB в виде XML — сложная задача. Все переходы форматов XLSB в XML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSB в виде файлов XML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLSB в формате XML" gistPath="" %}}

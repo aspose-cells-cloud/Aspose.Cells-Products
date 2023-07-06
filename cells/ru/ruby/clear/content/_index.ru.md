@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки содержим
 url: /ru/ruby/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Ruby Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение очищает содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Ruby Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение очищает содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — Ruby REST API" >}}

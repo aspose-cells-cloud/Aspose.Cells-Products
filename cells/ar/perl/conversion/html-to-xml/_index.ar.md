@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML لتحويل XML API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق HTML إلى ملف بتنسيق XML.
 url: /ar/perl/conversion/html-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

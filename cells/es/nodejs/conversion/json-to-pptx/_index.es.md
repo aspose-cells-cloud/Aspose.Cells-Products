@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON a PPTX Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JSON a PPTX Convertir API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato JSON a un archivo de formato PPTX.
 url: /es/nodejs/conversion/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

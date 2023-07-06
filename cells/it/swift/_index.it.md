@@ -12,7 +12,7 @@ url: /it/swift
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for Swift aiuta i programmatori a integrare perfettamente Microsoft Excel e le funzioni di visualizzazione ed elaborazione del foglio di calcolo OpenOffice nelle loro applicazioni basate su cloud sviluppate in Swift. Aspose.Cells Cloud SDK for Swift è concesso in licenza con MIT.</p>
+<p>Aspose.Cells Cloud SDK for Swift aiuta i programmatori a integrare perfettamente Microsoft Excel e le funzionalità di visualizzazione ed elaborazione del foglio di calcolo OpenOffice nelle loro applicazioni basate su cloud sviluppate in Swift. Aspose.Cells Cloud SDK for Swift è concesso in licenza con MIT.</p>
 <p>Aspose.Cells Cloud SDK for Swift consente alle tue app Swift di recuperare fogli di lavoro, fogli di lavoro e cartelle di lavoro archiviati nel cloud e di generare nuovi fogli di lavoro. Puoi anche modificare il codice Swift per elaborare e modificare la formattazione condizionale, i grafici, le attività, le forme, i filtri, gli OleObject, gli intervalli, i ListObject e le tabelle pivot, dall'interno delle tue applicazioni senza installare alcun software di terze parti.</p>
 <p>Utilizza Aspose.Cells Cloud SDK for Swift per convertire i fogli di lavoro Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) e OpenOffice (ODS) in altri formati comuni, come XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF e Markdown (MD). Puoi anche lavorare con i formati SXC e FODS utilizzando Aspose.Cells Cloud SDK per Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -160,7 +160,7 @@ url: /it/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /it/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -251,7 +251,7 @@ Aspose.Cells Cloud SDK for Swift consente di creare, dividere, unire, cercare e 
 Cloud SDK per elaborare i fogli di lavoro
     </h2>
     <p>
-Utilizzando Aspose.Cells Cloud SDK for Swift puoi eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere i dati della riga o della colonna del foglio di lavoro in base al suo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare stili di colonne e righe del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
+Utilizzando Aspose.Cells Cloud SDK for Swift puoi eliminare una riga specifica o tutte le righe nel foglio di lavoro, recuperare i dati della cella del foglio di lavoro o lo stile della cella in base al nome della cella, leggere la riga del foglio di lavoro o i dati della colonna in base al suo indice, calcolare la formula della cella, cancellare il contenuto della cella, copiare la cella in un'altra cella, copiare colonne e righe del foglio di lavoro, raggruppare righe e colonne del foglio di lavoro, nascondere righe e colonne del foglio di lavoro, impostare stili di colonne e righe del foglio di lavoro, impostare il valore HTMLSTRING nella cella, impostare il valore dell'intervallo di celle e modificare molte altre impostazioni del foglio di lavoro.
     </p>
    </div>
    <div class="col-lg-12">

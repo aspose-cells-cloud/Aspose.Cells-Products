@@ -1,10 +1,10 @@
 ﻿---
-title:  Java API kullanarak LISTOBJECT'i e-tablodan ODS'ye aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title: Java API kullanarak LISTOBJECT'i e-tablodan ODS'ye aktarın
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/java/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, LISTOBJECT\'i ODS dosyasına aktarmak için" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS biçim dosyasına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Java API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Java kitaplığı" p="Java\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Java kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS biçim dosyasına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Java\'de ODS biçim dosyasına aktarın" >}}

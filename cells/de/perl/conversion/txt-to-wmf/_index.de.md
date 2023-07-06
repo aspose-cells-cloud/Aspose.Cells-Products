@@ -1,16 +1,16 @@
 ﻿---
-title:  TXT zu WMF konvertieren API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title: TXT in WMF Konvertieren Sie API in Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer Datei im TXT-Format in eine Datei im WMF-Format.
 url: /de/perl/conversion/txt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um TXT in WMF umzuwandeln" h2="Perl Bibliothek zum Konvertieren von TXT in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von TXT in WMF und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/txt-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von TXT in WMF" h2="Perl-Bibliothek zum Konvertieren von TXT in WMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um TXT in WMF und andere Dokumentformate online mit Perl zu konvertieren." urlsection="conversion/txt-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in Perl in WMF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in WMF in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in WMF ist eine komplexe Aufgabe. Alle Formatübergänge von TXT zu WMF werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TXT-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von TXT- in WMF-Dateien. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in WMF ist eine komplexe Aufgabe. Alle Übergänge vom TXT- zum WMF-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TXT- in WMF-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von TXT in das WMF-Format" gistPath="" %}}
@@ -44,9 +44,9 @@ Das Konvertieren von Dateiformaten von TXT in WMF ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um TXT in WMF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

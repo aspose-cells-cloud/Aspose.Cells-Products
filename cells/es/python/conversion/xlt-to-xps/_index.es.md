@@ -1,6 +1,6 @@
 ﻿---
-title: XLT a XPS Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLT a XPS Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLT a un archivo de formato XPS.
 url: /es/python/conversion/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

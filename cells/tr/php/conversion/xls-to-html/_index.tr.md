@@ -1,6 +1,6 @@
 ﻿---
-title: XLS'den HTML'e PHP için API'i dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLS'den HTML'e PHP için API'i dönüştür
+description:  XLS biçim dosyasını HTML biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/xls-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc descif
 url: /es/nodejs/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca NodeJS para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en NodeJS. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando NodeJS." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca NodeJS para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en NodeJS. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando NodeJS." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña - NodeJS REST API" >}}

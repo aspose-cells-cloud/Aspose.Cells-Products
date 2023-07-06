@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den MD'ye API'i Python'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını MD biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

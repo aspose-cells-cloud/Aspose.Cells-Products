@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML a XLTM Convertir API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/html-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /es/swift/conversion/html-to-xltm/
 Convertir formatos de archivo de HTML a XLTM es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato HTML a XLTM mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Swift es una solución profesional para convertir HTML a archivos XLTM en línea. Este SDK de Cloud ofrece a los desarrolladores de Swift una potente funcionalidad y un resultado XLTM perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir HTML al formato XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir HTML a formato XLTM" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

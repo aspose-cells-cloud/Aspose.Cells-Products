@@ -1,6 +1,6 @@
 ﻿---
 title:  Android API kullanarak SHAPE'yi e-tablodan TIFF'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/android/export/shape-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/export/shape-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="SHAPE nesnesini Android\'de TIFF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-SHAPE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i TIFF biçimine dışa aktarma geçişleri, kaynak SHAPE elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak TIFF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+SHAPE nesnesini elektronik tablodan TIFF dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i TIFF biçimine dışa aktarma geçişleri, kaynak SHAPE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak TIFF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i e-tablodan TIFF biçimine dışa aktarmak için REST API kullanan Android\'de kod örneği" gistPath="" %}}

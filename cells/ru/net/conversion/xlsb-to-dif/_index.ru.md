@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в DIF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLSB в файл формата DIF.
 url: /ru/net/conversion/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde EMF como CSV API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato EMF como archivo de formato CSV.
 url: /es/ruby/saveas/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/saveas/emf-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo EMF como CSV en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde EMF como CSV es una tarea compleja. Todas las transiciones de formato EMF a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca Ruby es una solución profesional para guardar EMF como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
+Guardar formatos de archivo desde EMF como CSV es una tarea compleja. Todas las transiciones de formato EMF a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen EMF. Nuestra biblioteca Ruby es una solución profesional para guardar EMF como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar EMF como formato CSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX a DIF Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato XLSX a un archivo de formato DIF.
 url: /es/perl/conversion/xlsx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

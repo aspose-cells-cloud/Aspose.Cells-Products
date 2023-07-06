@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI C# için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını XLSX biçim dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/saveas/numbers-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını C#\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini XLSX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan XLSX'e biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, NUMBERS'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+NUMBERS dosya biçimlerini XLSX olarak kaydetmek karmaşık bir görevdir. Tüm NUMBERS'tan XLSX'e biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, NUMBERS'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SAYILARI XLSX biçiminde kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}

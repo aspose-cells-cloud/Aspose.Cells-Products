@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как XLTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата MHTML как файла формата XLTX.
 url: /ru/go/saveas/mhtml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: PNG'i Perl için SQL API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  PNG'i Perl için SQL API'e Dönüştür
+description: PNG biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

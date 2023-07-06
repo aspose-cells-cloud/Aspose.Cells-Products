@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить BMP как XPS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата BMP как файла формата XPS.
 url: /ru/perl/saveas/bmp-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/saveas/bmp-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XPS в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения файлов BMP как XPS онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов с BMP как XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения файлов BMP как XPS онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения BMP в формате XPS" gistPath="" %}}

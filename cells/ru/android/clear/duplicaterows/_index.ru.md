@@ -1,10 +1,10 @@
 ﻿---
-title:  Удаление повторяющихся строк в локальной книге в облаке
-description: Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Удаление повторяющихся строк в локальной книге с помощью Android в облаке
+description:  Облачные API и SDK для удаления повторяющихся строк на Microsoft Excel и OpenOffice Calc с Android. Удаление повторяющихся строк в локальных электронных таблицах с помощью Cells Cloud API SDK для Android
 url: /ru/android/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Clear для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для удаления повторяющихся строк в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение удаляет повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Clear для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить повторяющиеся строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение удаляет повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Удаление повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Android REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da XML a JSON API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XML in un file in formato JSON.
 url: /it/nodejs/conversion/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

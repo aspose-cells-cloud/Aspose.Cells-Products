@@ -1,6 +1,6 @@
 ﻿---
-title: NUMBERS - PPTX Dönüştür API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  NUMBERS - PPTX Dönüştür API için PHP
+description:  NUMBERS biçim dosyasını PPTX biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

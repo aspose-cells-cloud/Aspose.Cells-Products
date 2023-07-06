@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC a XLTM Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato SXC a un archivo de formato XLTM.
 url: /es/perl/conversion/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als TIFF API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im Format BMP als Datei im Format TIFF zu speichern.
 url: /de/go/saveas/bmp-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,10 +10,10 @@ url: /de/go/saveas/bmp-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine BMP-Datei als TIFF in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu TIFF werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle BMP beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um BMP als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von BMP zu TIFF werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um BMP als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von BMP im TIFF-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von BMP im Format TIFF" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -32,8 +32,8 @@ Das Speichern von Dateiformaten von BMP als TIFF ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um BMP als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,13 +1,13 @@
 ﻿---
-title: Преобразование ODS в FODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование ODS в FODS API для C#
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата ODS в файл формата FODS.
 url: /ru/net/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования ODS в FODS" h2="C# библиотека для преобразования ODS в FODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования ODS в FODS и другие форматы документов онлайн по телефону C#." urlsection="conversion/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл ODS в FODS по номеру C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в FODS по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из ODS в FODS — сложная задача. Все переходы между форматами ODS и FODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов ODS в FODS. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный результат FODS.

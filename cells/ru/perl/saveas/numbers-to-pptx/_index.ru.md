@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить НОМЕРА как PPTX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата NUMBERS в виде файла формата PPTX.
 url: /ru/perl/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить НОМЕРА как PPTX" h2="Perl библиотека для сохранения NUMBERS как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения NUMBERS в формате PPTX и других форматов документов в Интернете с использованием Perl." urlsection="saveas/numbers-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить НОМЕРА как PPTX" h2="Perl библиотека для сохранения NUMBERS как PPTX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения NUMBERS в формате PPTX и других форматах документов в Интернете с использованием Perl." urlsection="saveas/numbers-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как PPTX в Perl." >}}

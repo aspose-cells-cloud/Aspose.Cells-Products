@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som HTML API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLSB-formatfilen som HTML-formatfil.
 url: /sv/nodejs/saveas/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

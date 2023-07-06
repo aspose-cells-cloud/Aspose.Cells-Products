@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى TSV تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLS إلى ملف بتنسيق TSV.
 url: /ar/ruby/conversion/xls-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/xls-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLS إلى TSV في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLS إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من XLS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLS المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLS إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل XLS إلى تنسيق TSV" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG a CSV Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato PNG a un archivo de formato CSV.
 url: /es/python/conversion/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir PNG a CSV" h2="Python biblioteca para convertir PNG a CSV" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir PNG a CSV y otros formatos de documentos en línea usando Python." urlsection="conversion/png-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir PNG a CSV" h2="Python biblioteca para convertir PNG a CSV" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir PNG a CSV y otros formatos de documentos en línea usando Python." urlsection="conversion/png-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a CSV en Python" >}}

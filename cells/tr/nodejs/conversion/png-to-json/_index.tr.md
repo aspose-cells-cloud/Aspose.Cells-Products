@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den JSON'a NodeJS için API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını JSON biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

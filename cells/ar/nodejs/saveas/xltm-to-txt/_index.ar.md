@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTM كـ TXT API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف تنسيق XLTM كملف بتنسيق TXT.
 url: /ar/nodejs/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie CHART in JPG aus der Tabelle mit C# API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie CHART aus der Tabellenkalkulation in JPG mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von CHART in eine JPG-Datei" h2="C# Bibliothek zum Exportieren von CHART in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von CHART in eine Datei im JPG-Format aus einer Online-Tabelle unter Verwendung von C#." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von CHART in eine JPG-Datei" h2="C#-Bibliothek zum Exportieren von CHART in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von CHART in eine JPG-Formatdatei aus einer Tabellenkalkulation unter der Nummer C#." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in eine Datei im JPG-Format in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in die JPG-Formatdatei C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines CHART-Objekts in eine JPG-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von CHART in das JPG-Format wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im JPG-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von CHART-in-JPG-Formatübergängen wird von unserem SDK C# durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im JPG-Format zu exportieren. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von CHART in das JPG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von CHART in das JPG-Format aus einer Tabellenkalkulation" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -45,8 +45,8 @@ Das Exportieren eines CHART-Objekts in eine JPG-Datei aus einer Tabelle ist eine
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um CHART in JPG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

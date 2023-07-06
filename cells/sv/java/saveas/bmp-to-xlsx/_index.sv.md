@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som XLSX API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara BMP filformat som XLSX format fil.
 url: /sv/java/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

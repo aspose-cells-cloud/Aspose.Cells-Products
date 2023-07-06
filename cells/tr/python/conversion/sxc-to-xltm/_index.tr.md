@@ -1,6 +1,6 @@
 ﻿---
 title:  Python için SXC'den XLTM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını XLTM biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

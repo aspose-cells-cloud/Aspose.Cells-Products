@@ -1,6 +1,6 @@
 ﻿---
-title: TSV'den SQL'e Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  TSV'den SQL'e Dönüştürme API için Perl
+description: TSV biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

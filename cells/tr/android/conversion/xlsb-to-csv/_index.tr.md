@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLSB'den CSV'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB formatındaki dosyayı CSV formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Cifrar hoja de cálculo local con contraseña en la nube
-description:  API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifrar hojas de cálculo locales con contraseña por la nube Cells API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Cifre la hoja de cálculo local con contraseña con Go in Cloud
+description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc con Go. Cifre hojas de cálculo locales con contraseña mediante el Cells Cloud API SDK for Go.
 url: /es/go/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para proteger el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con contraseña" h2="Vaya a la biblioteca para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en Go. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Go." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para proteger el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con contraseña" h2="Vaya a la biblioteca para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en Go. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Go." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteja la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña - Vaya a REST API" >}}

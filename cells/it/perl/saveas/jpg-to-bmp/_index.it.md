@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JPG come BMP API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato JPG come file in formato BMP.
 url: /it/perl/saveas/jpg-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

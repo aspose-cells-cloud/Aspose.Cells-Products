@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в TSV API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата NUMBERS в файл формата TSV.
 url: /ru/go/conversion/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

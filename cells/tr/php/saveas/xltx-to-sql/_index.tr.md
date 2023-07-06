@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'i PHP için SQL API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını SQL biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/php/saveas/xltx-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını PHP\'de SQL olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLTX'ten SQL olarak kaydetmek karmaşık bir görevdir. Tüm XLTX'ten SQL formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken PHP SDK'mız tarafından gerçekleştirilir. PHP kitaplığımız, XLTX'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+Dosya biçimlerini XLTX'ten SQL olarak kaydetmek karmaşık bir iştir. Tüm XLTX'ten SQL formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken PHP SDK'mız tarafından gerçekleştirilir. PHP kitaplığımız, XLTX'i çevrimiçi SQL dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i SQL formatı olarak kaydetmek için REST API kullanan PHP\'deki kod örneği" gistPath="" %}}

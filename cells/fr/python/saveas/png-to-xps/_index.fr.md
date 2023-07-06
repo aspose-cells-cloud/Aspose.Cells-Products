@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG comme XPS API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format PNG en tant que fichier au format XPS.
 url: /fr/python/saveas/png-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

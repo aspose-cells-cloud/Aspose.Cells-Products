@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX'den XML'e Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSX'den XML'e Dönüştürme API için C#
+description:  XLSX biçimli dosyayı XML biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

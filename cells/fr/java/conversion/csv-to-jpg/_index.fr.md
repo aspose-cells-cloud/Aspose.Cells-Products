@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir CSV en JPG API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK for Java pour convertir un fichier au format CSV en fichier au format JPG.
 url: /fr/java/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir CSV en JPG" h2="Java bibliothèque pour convertir CSV en JPG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir CSV en JPG et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/csv-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir CSV en JPG" h2="Java bibliothèque pour convertir CSV en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir CSV en JPG et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/csv-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en JPG en Java" >}}

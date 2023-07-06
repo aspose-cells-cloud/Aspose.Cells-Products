@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les commentaires sur Microsoft Excel
 url: /fr/nodejs/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les flux de travail locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans NodeJS. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les commentaires sur les flux de travail locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans NodeJS. Cette solution professionnelle efface les commentaires sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les commentaires sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - NodeJS REST API" >}}

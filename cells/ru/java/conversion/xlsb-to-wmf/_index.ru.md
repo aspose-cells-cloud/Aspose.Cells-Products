@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в WMF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSB в файл формата WMF.
 url: /ru/java/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/xlsb-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в WMF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в WMF — сложная задача. Все переходы формата XLSB в формат WMF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в WMF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XLSB в WMF — сложная задача. Все переходы из формата XLSB в формат WMF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в WMF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSB в формат WMF" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Excel FODS'i TSV'ye dönüştür via Python
+title:  Excel FODS'i TSV'ye dönüştür via Python
 description: REST API ve Açık Kaynak Python SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
 url: /tr/python/conversion/fods-to-tsv/
 family: cells

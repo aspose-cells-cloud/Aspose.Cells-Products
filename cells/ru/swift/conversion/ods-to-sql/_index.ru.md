@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование ODS в SQL API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/ods-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в SQL в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в SQL — сложная задача. Все переходы между форматами ODS и SQL выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в SQL. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из ODS в SQL — сложная задача. Все переходы формата ODS в формат SQL выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в SQL. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ODS в формат SQL" gistPath="" %}}

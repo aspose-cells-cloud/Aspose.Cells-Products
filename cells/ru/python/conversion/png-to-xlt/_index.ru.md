@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в XLT Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата PNG в файл формата XLT.
 url: /ru/python/conversion/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

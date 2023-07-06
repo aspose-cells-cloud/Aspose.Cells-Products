@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som PPTX API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att spara HTML filformat som PPTX format fil.
 url: /sv/ruby/saveas/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

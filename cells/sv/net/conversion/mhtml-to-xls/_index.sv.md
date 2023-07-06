@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till XLS Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till XLS Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera MHTML-formatfil till XLS-formatfil.
 url: /sv/net/conversion/mhtml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

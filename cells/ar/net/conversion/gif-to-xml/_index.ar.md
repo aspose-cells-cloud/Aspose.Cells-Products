@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى XML Convert API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف بصيغة GIF إلى ملف بصيغة XML.
 url: /ar/net/conversion/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

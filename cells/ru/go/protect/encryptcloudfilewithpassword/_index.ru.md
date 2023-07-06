@@ -4,7 +4,7 @@ description: Облачные API и SDK для защиты Microsoft Excel и 
 url: /ru/go/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы защитить облако Microsoft Excel и электронную таблицу OpenOffice Calc паролем." h2="Библиотека Go для защиты облака Microsoft Excel и таблица OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Go. Это профессиональное решение защищает облако Microsoft Excel и электронные таблицы OpenOffice Calc в Интернете с помощью паролей с помощью Go." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы защитить облако Microsoft Excel и электронную таблицу OpenOffice Calc паролем." h2="Библиотека Go для защиты облака Microsoft Excel и таблица OpenOffice Calc с паролем" p="Используйте Cells Protect REST API для защиты облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Go. Это профессиональное решение защищает облако Microsoft Excel и электронные таблицы OpenOffice Calc в Интернете с помощью паролей с помощью Go." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите облако Microsoft Excel и электронную таблицу OpenOffice Calc паролем — Go REST API" >}}

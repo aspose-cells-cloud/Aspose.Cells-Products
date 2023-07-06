@@ -1,6 +1,6 @@
 ﻿---
 title:  Esporta WORKBOOK in EMF dal foglio di calcolo utilizzando NodeJS API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/nodejs/export/workbook-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/nodejs/export/workbook-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK nel file in formato EMF in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKBOOK nel file EMF dal foglio di calcolo è un'attività complessa. L'esportazione del WORKBOOK nelle transizioni di formato EMF viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo del WORKBOOK di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKBOOK in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output EMF perfetto.
+L'esportazione dell'oggetto WORKBOOK nel file EMF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da WORKBOOK a EMF viene eseguita dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria NodeJS è una soluzione professionale per esportare oggetti WORKBOOK in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output EMF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per esportare WORKBOOK nel formato EMF dal foglio di calcolo" gistPath="" %}}

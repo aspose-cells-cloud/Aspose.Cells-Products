@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM إلى SVG تحويل API إلى C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTM إلى SVG تحويل API إلى C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLTM إلى ملف بتنسيق SVG.
 url: /ar/net/conversion/xltm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كـ XLT API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق TXT كملف بتنسيق XLT.
 url: /ar/go/saveas/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

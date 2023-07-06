@@ -1,6 +1,6 @@
 ﻿---
 title:  XML a TXT Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato XML a un archivo de formato TXT.
 url: /es/java/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

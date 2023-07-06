@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSX كـ SQL API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق SQL.
 url: /ar/net/saveas/xlsx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ XLSX كـ SQL" h2="مكتبة C# لحفظ XLSX كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ XLSX كـ SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xlsx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ XLSX كـ SQL" h2="مكتبة C# لحفظ XLSX كـ SQL" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ XLSX كمستند SQL وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/xlsx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX كملف SQL في C#" >}}

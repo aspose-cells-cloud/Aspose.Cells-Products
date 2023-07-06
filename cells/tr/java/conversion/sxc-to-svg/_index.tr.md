@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC'den SVG'e Dönüştür API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını SVG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/conversion/sxc-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

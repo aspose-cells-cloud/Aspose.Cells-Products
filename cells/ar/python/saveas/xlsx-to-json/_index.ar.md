@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSX باسم JSON API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSX باسم JSON API مقابل Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLSX كملف بتنسيق JSON.
 url: /ar/python/saveas/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

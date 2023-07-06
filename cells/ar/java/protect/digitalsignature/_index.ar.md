@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel والتوقيع الرقم
 url: /ar/java/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة مرور وملف توقيع رقمي" h2="مكتبة Java لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمات مرور وسير عمل ملف التوقيع الرقمي في Java. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجداول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور وملف توقيع رقمي باستخدام Java." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمة مرور وملف توقيع رقمي" h2="مكتبة Java لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc مع كلمات مرور وسير عمل ملف التوقيع الرقمي في Java. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجداول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور وملف توقيع رقمي باستخدام Java." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Java REST API" >}}

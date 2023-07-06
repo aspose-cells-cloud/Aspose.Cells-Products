@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de Excel FODS à CSV via Python
+title:  Convertir de Excel FODS à CSV via Python
 description: Créer, modifier ou convertir des fichiers Excel avec REST API et Open Source Python SDK
 url: /fr/python/conversion/fods-to-csv/
 family: cells

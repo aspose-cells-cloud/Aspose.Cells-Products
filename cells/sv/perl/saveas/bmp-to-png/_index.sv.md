@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som PNG API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för Perl för att spara BMP filformat som PNG filformat.
 url: /sv/perl/saveas/bmp-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

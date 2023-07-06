@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB till WMF Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSB till WMF Konvertera API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i XLSB-format till fil i WMF-format.
 url: /sv/php/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

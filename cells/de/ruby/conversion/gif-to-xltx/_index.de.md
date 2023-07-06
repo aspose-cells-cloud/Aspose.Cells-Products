@@ -1,16 +1,16 @@
 ﻿---
-title:  GIF zu XLTX konvertieren API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  GIF in XLTX konvertieren API für Ruby
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um eine Datei im GIF-Format in eine Datei im XLTX-Format zu konvertieren.
 url: /de/ruby/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von GIF in XLTX" h2="Ruby-Bibliothek zum Konvertieren von GIF in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um GIF mit Ruby online in XLTX und andere Dokumentformate zu konvertieren." urlsection="conversion/gif-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von GIF in XLTX" h2="Ruby-Bibliothek zum Konvertieren von GIF in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in XLTX und andere Dokumentformate mit Ruby." urlsection="conversion/gif-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in Ruby in XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in XLTX ist eine komplexe Aufgabe. Alle GIF-zu-XLTX-Formatübergänge werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Inhalt der Quell-GIF-Tabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um GIF-Dateien online in XLTX-Dateien zu konvertieren. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte XLTX-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF nach XLTX ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum XLTX-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von GIF- in XLTX-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Konvertieren von GIF in das XLTX-Format" gistPath="" %}}
@@ -30,15 +30,15 @@ Das Konvertieren von Dateiformaten von GIF in XLTX ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Verwendung von Ruby API zum Konvertieren von GIF in XLTX" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um GIF in XLTX zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

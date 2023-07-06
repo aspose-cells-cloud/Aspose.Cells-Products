@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc di
 url: /sv/net/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="C# bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i C#. Denna professionella lösning digitalsignaturmoln 07615346 online-kalkylblad 0715346 och online-lösenord CalcOffice 481566 och online och digital signaturfil med C#." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="C# bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i C#. Denna professionella lösning digitalsignaturmoln 07615346 online-kalkylblad 0715346 och online-lösenord CalcOffice 481566 och online och digital signaturfil med C#." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Digital signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - C# REST API" >}}

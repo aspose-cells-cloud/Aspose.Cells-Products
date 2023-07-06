@@ -1,6 +1,6 @@
 ﻿---
 title:  C# için XLSM'den XLSX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSM biçimli dosyayı XLSX biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

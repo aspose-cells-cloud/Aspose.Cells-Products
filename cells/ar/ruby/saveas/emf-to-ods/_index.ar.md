@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ ODS API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق EMF كملف بتنسيق ODS.
 url: /ar/ruby/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

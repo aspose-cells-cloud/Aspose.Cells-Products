@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till DIF Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera HTML filformat till DIF-format fil.
 url: /sv/ruby/conversion/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

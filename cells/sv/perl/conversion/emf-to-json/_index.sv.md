@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till JSON Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i EMF-format till fil i JSON-format.
 url: /sv/perl/conversion/emf-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  НОМЕРА в ODS Преобразовать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата ODS.
 url: /ru/net/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/numbers-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в ODS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в ODS — сложная задача. Все переходы формата NUMBERS в формат ODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в ODS. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из NUMBERS в ODS — сложная задача. Все переходы формата NUMBERS в формат ODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в ODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат ODS" gistPath="" %}}

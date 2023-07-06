@@ -1,6 +1,6 @@
 ﻿---
 title:  حفظ XLSM بصيغة GIF API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLSM كملف بتنسيق GIF.
 url: /ar/java/saveas/xlsm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

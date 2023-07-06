@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come MHTML API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLT come file in formato MHTML.
 url: /it/go/saveas/xlt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -31,7 +31,7 @@ Salvare i formati di file da XLT come MHTML è un compito complesso. Tutte le tr
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Go API per salvare XLT come MHTML" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLT come MHTML" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>

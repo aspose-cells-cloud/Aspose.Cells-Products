@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som PDF API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara fil i JSON-format som fil i PDF-format.
 url: /sv/go/saveas/json-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى PPTX - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JSON إلى ملف بتنسيق PPTX.
 url: /ar/go/conversion/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

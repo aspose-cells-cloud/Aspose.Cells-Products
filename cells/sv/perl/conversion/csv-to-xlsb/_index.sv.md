@@ -1,6 +1,6 @@
 ﻿---
-title: CSV till XLSB Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  CSV till XLSB Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i CSV-format till fil i XLSB-format.
 url: /sv/perl/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

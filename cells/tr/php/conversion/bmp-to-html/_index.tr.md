@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP - HTML API'i PHP için dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını HTML biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLT как EMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLT как файла формата EMF.
 url: /ru/ruby/saveas/xlt-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Ruby için MD API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını MD biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/saveas/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

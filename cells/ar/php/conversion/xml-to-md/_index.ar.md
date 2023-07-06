@@ -1,6 +1,6 @@
 ﻿---
-title: XML إلى MD تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XML إلى MD تحويل API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XML إلى ملف بتنسيق MD.
 url: /ar/php/conversion/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

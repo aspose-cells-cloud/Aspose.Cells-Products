@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP - PNG NodeJS için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı PNG biçimindeki dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/bmp-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

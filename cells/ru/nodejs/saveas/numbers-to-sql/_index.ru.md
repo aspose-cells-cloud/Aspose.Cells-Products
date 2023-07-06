@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить NUMBERS как SQL API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить NUMBERS как SQL API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата NUMBERS в виде файла формата SQL.
 url: /ru/nodejs/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ url: /ru/nodejs/saveas/numbers-to-sql/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения NUMBERS в виде SQL" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения NUMBERS как SQL" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>

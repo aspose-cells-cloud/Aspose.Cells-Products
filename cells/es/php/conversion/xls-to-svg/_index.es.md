@@ -1,10 +1,10 @@
 ﻿---
-title: XLS a SVG Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLS a SVG Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLS a un archivo de formato SVG.
 url: /es/php/conversion/xls-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLS a SVG" h2="PHP biblioteca para convertir XLS a SVG" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLS a SVG y otros formatos de documentos en línea usando PHP." urlsection="conversion/xls-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLS a SVG" h2="PHP biblioteca para convertir XLS a SVG" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLS a SVG y otros formatos de documentos en línea usando PHP." urlsection="conversion/xls-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLS a SVG en PHP" >}}

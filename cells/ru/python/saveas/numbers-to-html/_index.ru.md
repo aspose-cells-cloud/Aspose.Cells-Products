@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как HTML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата NUMBERS как файла формата HTML.
 url: /ru/python/saveas/numbers-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/numbers-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как HTML в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как HTML — сложная задача. Все преобразования форматов NUMBERS в HTML выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов HTML онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат HTML.
+Сохранение форматов файлов из NUMBERS как HTML — сложная задача. Все преобразования форматов NUMBERS в HTML выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов HTML онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения NUMBERS в формате HTML" gistPath="" %}}

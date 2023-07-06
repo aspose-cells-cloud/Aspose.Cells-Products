@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till BMP Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera PNG filformat till BMP filformat.
 url: /sv/java/conversion/png-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

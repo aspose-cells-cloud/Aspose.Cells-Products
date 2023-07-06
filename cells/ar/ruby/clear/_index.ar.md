@@ -1,14 +1,14 @@
 ﻿---
-title:  كائنات واضحة
-description:  Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  امسح الأشياء باستخدام روبي
+description:  Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel مع Ruby. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/ruby/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="كائنات واضحة" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="امسح الأشياء باستخدام روبي" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel مع Ruby. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="امسح روابط امتداد الكائنات" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="مسح الكائنات مع وصلات تمديد روبي" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

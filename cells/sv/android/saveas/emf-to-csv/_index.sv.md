@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som CSV API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara EMF filformat som CSV-fil.
 url: /sv/android/saveas/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

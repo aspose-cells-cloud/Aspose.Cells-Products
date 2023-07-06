@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل الأرقام إلى TSV API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق TSV.
 url: /ar/ruby/conversion/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

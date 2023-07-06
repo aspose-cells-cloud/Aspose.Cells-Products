@@ -1,6 +1,6 @@
 ﻿---
-title: ODS a TIFF Convertir API por Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  ODS a TIFF Convertir API por Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir archivos de formato ODS a archivos de formato TIFF.
 url: /es/python/conversion/ods-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS'den JSON'a Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: ODS'den JSON'a Dönüştürme API için Perl
+description:  ODS biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

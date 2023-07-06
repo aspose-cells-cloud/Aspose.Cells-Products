@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara SXC som BMP API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Android för att spara fil i SXC-format som fil i BMP-format.
 url: /sv/android/saveas/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

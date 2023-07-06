@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS en ODS Convertir API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format NUMBERS en fichier au format ODS.
 url: /fr/java/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/nodejs/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas en blanco en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra las filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas en blanco en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en NodeJS. Esta solución profesional borra las filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

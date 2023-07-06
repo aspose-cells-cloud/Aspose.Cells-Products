@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى SVG حوّل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JPG إلى SVG حوّل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق JPG إلى ملف بتنسيق SVG.
 url: /ar/perl/conversion/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ BMP كـ XLTX API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق BMP كملف بتنسيق XLTX.
 url: /ar/nodejs/saveas/bmp-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

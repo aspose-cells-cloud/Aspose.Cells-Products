@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar CSV como XLSX API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato CSV como archivo de formato XLSX.
 url: /es/net/saveas/csv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

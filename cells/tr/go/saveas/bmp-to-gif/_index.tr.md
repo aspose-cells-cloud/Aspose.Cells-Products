@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i Git için GIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı GIF biçimindeki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

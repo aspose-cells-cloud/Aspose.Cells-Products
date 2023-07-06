@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى MHTML - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JPG إلى ملف بتنسيق MHTML.
 url: /ar/go/conversion/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

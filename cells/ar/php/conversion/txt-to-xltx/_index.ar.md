@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى XLTX - تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق TXT إلى ملف بتنسيق XLTX.
 url: /ar/php/conversion/txt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

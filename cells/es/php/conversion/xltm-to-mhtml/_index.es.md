@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTM a MHTML Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLTM a un archivo de formato MHTML.
 url: /es/php/conversion/xltm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLTM a MHTML" h2="PHP biblioteca para convertir XLTM a MHTML" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLTM a MHTML y otros formatos de documentos en línea usando PHP." urlsection="conversion/xltm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLTM a MHTML" h2="PHP biblioteca para convertir XLTM a MHTML" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLTM a MHTML y otros formatos de documentos en línea usando PHP." urlsection="conversion/xltm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLTM a MHTML en PHP" >}}

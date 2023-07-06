@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить MHTML как JPG API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить MHTML как JPG API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата MHTML в виде файла формата JPG.
 url: /ru/android/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения MHTML в формате JPG" h2="Библиотека Android для сохранения MHTML как JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения MHTML в виде JPG и других форматов документов в Интернете с помощью Android." urlsection="saveas/mhtml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения MHTML в формате JPG" h2="Библиотека Android для сохранения MHTML как JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения MHTML как JPG и других форматов документов в Интернете с помощью Android." urlsection="saveas/mhtml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение файла MHTML в формате JPG на Android" >}}

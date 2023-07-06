@@ -1,6 +1,6 @@
 ﻿---
-title:  تحويل XML إلى JSON API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: تحويل XML إلى JSON API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XML إلى ملف بتنسيق JSON.
 url: /ar/net/conversion/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

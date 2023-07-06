@@ -1,16 +1,16 @@
 ﻿---
-title:  SXC zu XLTX konvertieren API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  SXC zu XLTX Konvertieren Sie API in Python
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine Datei im SXC-Format in eine Datei im XLTX-Format zu konvertieren.
 url: /de/python/conversion/sxc-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um SXC in XLTX umzuwandeln" h2="Python-Bibliothek zum Konvertieren von SXC in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von SXC in XLTX und andere Dokumentformate mit Python." urlsection="conversion/sxc-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von SXC in XLTX" h2="Python-Bibliothek zum Konvertieren von SXC in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um SXC in XLTX und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/sxc-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine SXC-Datei in XLTX in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von SXC in XLTX ist eine komplexe Aufgabe. Alle Formatübergänge von SXC zu XLTX werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SXC-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von SXC- in XLTX-Dateien. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und perfekte XLTX-Ausgabe.
+Das Konvertieren von Dateiformaten von SXC nach XLTX ist eine komplexe Aufgabe. Alle SXC-zu-XLTX-Formatübergänge werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von SXC- in XLTX-Dateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von SXC in das XLTX-Format" gistPath="" %}}
@@ -29,9 +29,9 @@ Das Konvertieren von Dateiformaten von SXC in XLTX ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um SXC in XLTX zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

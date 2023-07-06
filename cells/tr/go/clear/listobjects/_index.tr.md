@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. üzerindeki liste nesnelerini t
 url: /tr/go/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki liste nesnelerini temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki nesneleri temizler." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki liste nesnelerini temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki liste nesnelerini temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki nesneleri temizler." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda liste nesnelerini temizle - Go REST API" >}}

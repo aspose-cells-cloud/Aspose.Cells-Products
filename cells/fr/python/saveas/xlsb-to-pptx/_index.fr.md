@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSB sous PPTX API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSB en tant que fichier au format PPTX.
 url: /fr/python/saveas/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/python/saveas/xlsb-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format PPTX au Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB vers PPTX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que PPTX. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie PPTX parfaite.
+L'enregistrement de formats de fichiers XLSB en tant que PPTX est une tâche complexe. Toutes les transitions de format XLSB vers PPTX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que PPTX. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer XLSB au format PPTX" gistPath="" %}}

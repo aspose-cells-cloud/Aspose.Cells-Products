@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV'yi PHP için XLS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı XLS formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

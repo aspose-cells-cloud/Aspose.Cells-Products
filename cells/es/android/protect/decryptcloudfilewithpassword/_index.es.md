@@ -4,7 +4,7 @@ description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc descif
 url: /es/android/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca de Android para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Android. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Android." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca de Android para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Android. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Android." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña - Android REST API" >}}

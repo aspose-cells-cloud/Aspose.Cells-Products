@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için HTML'i FODS'ye Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  HTML biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/html-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLSX в SQL API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLSX в файл формата SQL.
 url: /ru/java/conversion/xlsx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSX в SQL" h2="Java библиотека для преобразования XLSX в SQL" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-преобразования XLSX в SQL и другие форматы документов с использованием Java." urlsection="conversion/xlsx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSX в SQL" h2="Java библиотека для преобразования XLSX в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSX в SQL и другие форматы документов с использованием Java." urlsection="conversion/xlsx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в SQL в Java" >}}

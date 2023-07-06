@@ -1,16 +1,16 @@
 ﻿---
-title: Ajouter un filigrane pour le classeur local dans le cloud
-description:  API Cloud et SDK pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc. Ajout d'un filigrane pour les feuilles de calcul locales par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Ajouter un filigrane pour le classeur local avec Ruby in Cloud
+description:  API Cloud et SDK pour ajouter un filigrane pour Microsoft Excel et OpenOffice Calc avec Ruby. Ajout d'un filigrane pour les feuilles de calcul locales par le SDK Cells Cloud API pour Ruby.
 url: /fr/ruby/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Bibliothèque Ruby pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Filigrane REST API pour ajouter un filigrane pour les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Ruby. Cette solution professionnelle ajoute un filigrane pour Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne à l\'aide de Ruby." urlsection="background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Bibliothèque Ruby pour ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Filigrane REST API pour ajouter un filigrane pour les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Ruby. Cette solution professionnelle ajoute un filigrane pour Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne à l\'aide de Ruby." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Ajouter un filigrane pour la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" %}}
 <br/>
-L'ajout d'un filigrane pour une feuille de calcul locale est une tâche complexe. L'ajout d'un filigrane pour les transitions d'une feuille de calcul locale est effectué par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Ruby est une solution professionnelle pour ajouter un filigrane aux feuilles de calcul locales en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et un API parfait.
+L'ajout d'un filigrane pour une feuille de calcul locale avec Ruby est une tâche complexe. L'ajout d'un filigrane pour les transitions d'une feuille de calcul locale est effectué par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source. Notre bibliothèque Ruby est une solution professionnelle pour ajouter un filigrane aux feuilles de calcul locales en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et un API parfait.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour ajouter un filigrane pour les feuilles de calcul locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Watermark.rb" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB إلى TIFF تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLSB إلى TIFF تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSB إلى ملف بتنسيق TIFF.
 url: /ar/python/conversion/xlsb-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till MHTML Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera HTML filformat till MHTML-format fil.
 url: /sv/perl/conversion/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

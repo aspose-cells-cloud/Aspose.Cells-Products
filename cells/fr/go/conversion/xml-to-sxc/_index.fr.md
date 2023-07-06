@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en SXC API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XML en fichier au format SXC.
 url: /fr/go/conversion/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

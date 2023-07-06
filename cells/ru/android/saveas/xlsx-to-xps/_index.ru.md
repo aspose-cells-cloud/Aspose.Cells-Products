@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как XPS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLSX как файла формата XPS.
 url: /ru/android/saveas/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlsx-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как XPS в Android." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX как XPS — сложная задача. Все переходы формата XLSX в формат XPS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате XPS онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XPS.
+Сохранение форматов файлов из XLSX как XPS — сложная задача. Все переходы между форматами XLSX и XPS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате XPS онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSX в формате XPS" gistPath="" %}}

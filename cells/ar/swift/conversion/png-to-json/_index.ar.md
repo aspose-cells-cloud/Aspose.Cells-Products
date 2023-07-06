@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى JSON تحويل API ل Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/conversion/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

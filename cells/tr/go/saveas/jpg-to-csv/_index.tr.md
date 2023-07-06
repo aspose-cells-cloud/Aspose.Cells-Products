@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'yi Go için CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva ODS come BMP API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva ODS come BMP API per NodeJS
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato ODS come file in formato BMP.
 url: /it/nodejs/saveas/ods-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى CSV - تحويل API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLSB إلى ملف بتنسيق CSV.
 url: /ar/go/conversion/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

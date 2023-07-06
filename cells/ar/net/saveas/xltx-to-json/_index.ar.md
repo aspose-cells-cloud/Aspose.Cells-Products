@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLTX باسم JSON API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLTX باسم JSON API مقابل C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLTX كملف بتنسيق JSON.
 url: /ar/net/saveas/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

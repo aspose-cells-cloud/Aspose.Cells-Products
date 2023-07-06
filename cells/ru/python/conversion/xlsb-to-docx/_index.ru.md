@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в DOCX API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSB в файл формата DOCX.
 url: /ru/python/conversion/xlsb-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

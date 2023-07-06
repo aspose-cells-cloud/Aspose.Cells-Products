@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in PPTX Converti API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato HTML in un file in formato PPTX.
 url: /it/net/conversion/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

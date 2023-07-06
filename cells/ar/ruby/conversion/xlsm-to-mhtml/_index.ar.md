@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى MHTML - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSM إلى ملف بتنسيق MHTML.
 url: /ar/ruby/conversion/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/xlsm-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى MHTML في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى MHTML بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج MHTML مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى MHTML مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى MHTML بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLSM إلى MHTML عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج MHTML مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال كود في Ruby باستخدام REST API لتحويل XLSM إلى تنسيق MHTML" gistPath="" %}}

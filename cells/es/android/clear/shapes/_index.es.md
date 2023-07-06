@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOf
 url: /es/android/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Borrar para borrar formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc con Android." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

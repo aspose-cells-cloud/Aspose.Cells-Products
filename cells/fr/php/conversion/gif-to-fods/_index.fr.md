@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF en FODS Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format GIF en fichier au format FODS.
 url: /fr/php/conversion/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

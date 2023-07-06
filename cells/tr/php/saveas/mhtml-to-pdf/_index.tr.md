@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML'yi PHP için PDF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  PHP için MHTML'yi PDF API olarak kaydedin
+description:  MHTML biçim dosyasını PDF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

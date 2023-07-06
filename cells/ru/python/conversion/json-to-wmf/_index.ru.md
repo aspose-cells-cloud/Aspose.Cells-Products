@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JSON в WMF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата JSON в файл формата WMF.
 url: /ru/python/conversion/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/json-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в WMF — сложная задача. Все переходы между форматами JSON и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JSON в WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из JSON в WMF — сложная задача. Все переходы между форматами JSON и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JSON в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования JSON в формат WMF" gistPath="" %}}

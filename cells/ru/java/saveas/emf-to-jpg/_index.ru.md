@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить EMF как JPG API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата EMF в виде файла формата JPG.
 url: /ru/java/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/emf-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF в формате JPG в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF в виде JPG — сложная задача. Все переходы EMF в формат JPG выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов JPG онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов с EMF в виде JPG — сложная задача. Все переходы EMF в формат JPG выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов JPG онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате JPG" gistPath="" %}}

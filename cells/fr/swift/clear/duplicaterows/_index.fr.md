@@ -1,6 +1,6 @@
 ﻿---
 title:  Effacer les lignes en double sur le classeur local dans le cloud
-description: API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc. Effacez les lignes en double sur les feuilles de calcul locales par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  API Cloud et SDK pour effacer les lignes en double sur Microsoft Excel et OpenOffice Calc. Effacez les lignes en double sur les feuilles de calcul locales par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -18,7 +18,7 @@ Effacer les lignes en double sur les feuilles de calcul locales Microsoft Excel 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser Swift API pour effacer les lignes en double" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser Swift API pour effacer les lignes en double" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
 <li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode postClearObjects pour obtenir le flux résultant</li>

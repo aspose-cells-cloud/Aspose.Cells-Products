@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ HTML كـ MD API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق HTML كملف بتنسيق MD.
 url: /ar/ruby/saveas/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

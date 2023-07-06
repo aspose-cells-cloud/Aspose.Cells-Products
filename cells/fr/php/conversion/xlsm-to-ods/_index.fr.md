@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en ODS API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format XLSM en fichier au format ODS.
 url: /fr/php/conversion/xlsm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa former på Microsoft Excel 
 url: /sv/nodejs/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="NodeJS Rensa för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i NodeJS. Denna professionella lösning tar tydliga former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med NodeJS." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="NodeJS Rensa för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa former på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i NodeJS. Denna professionella lösning tar tydliga former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med NodeJS." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - NodeJS REST API" >}}

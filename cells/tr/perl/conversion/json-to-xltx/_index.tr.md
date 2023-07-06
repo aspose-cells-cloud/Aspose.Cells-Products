@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan XLTX'e Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını XLTX biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/json-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

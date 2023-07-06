@@ -1,16 +1,16 @@
 ﻿---
-title:  MHTML zu MD Convert API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  MHTML zu MD Konvertieren API für NodeJS
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer MHTML-Formatdatei in eine MD-Formatdatei.
 url: /de/nodejs/conversion/mhtml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von MHTML in MD" h2="NodeJS-Bibliothek zum Konvertieren von MHTML in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von MHTML in MD und andere Dokumentformate mit NodeJS." urlsection="conversion/mhtml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von MHTML in MD" h2="NodeJS-Bibliothek zum Konvertieren von MHTML in MD" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in MD und andere Dokumentformate mit NodeJS." urlsection="conversion/mhtml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in MD in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in MD ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu MD werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von MHTML- in MD-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in MD ist eine komplexe Aufgabe. Alle MHTML-zu-MD-Formatübergänge werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML in MD-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von MHTML in das MD-Format" gistPath="" %}}
@@ -35,10 +35,10 @@ Das Konvertieren von Dateiformaten von MHTML in MD ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um MHTML in MD zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Konvertieren von MHTML in MD" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

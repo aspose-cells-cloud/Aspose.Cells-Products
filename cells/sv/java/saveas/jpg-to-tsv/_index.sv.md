@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som TSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara JPG-formatfil som TSV-formatfil.
 url: /sv/java/saveas/jpg-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

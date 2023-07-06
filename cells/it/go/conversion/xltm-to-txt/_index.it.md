@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTM a TXT API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLTM in un file in formato TXT.
 url: /it/go/conversion/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,10 +4,10 @@ description: Облачные API и SDK для очистки формул на
 url: /ru/nodejs/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение с четкими формулами на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием NodeJS." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение с четкими формулами на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием NodeJS." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы на локальном Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
 Очистка формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка формул для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека NodeJS — это профессиональное решение для очистки формул в локальной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и совершенный API.

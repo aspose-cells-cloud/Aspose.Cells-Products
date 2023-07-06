@@ -1,10 +1,10 @@
 ﻿---
-title:  Borrar filas duplicadas en el libro de trabajo local en Cloud
-description: API y SDK en la nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc. Borre las filas duplicadas en las hojas de cálculo locales por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title: Borre las filas duplicadas en el libro de trabajo local con Perl en la nube
+description:  API y SDK en la nube para borrar filas duplicadas en Microsoft Excel y OpenOffice Calc con Perl. Borrar filas duplicadas en hojas de cálculo locales con el SDK Cells Cloud API para Perl
 url: /es/perl/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Borrar para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Descanso transparente API para borrar las filas duplicadas en el local Microsoft Excel y OpenOffice Calc CALC Flojos de trabajo de la hoja de cálculo en Perl. Esta solución profesional se despeja de las filas Duplicar en el local Microsoft Excel y el calcicio OpenOffice Calc." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Borrar para borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Descanso transparente API para borrar las filas duplicadas en el local Microsoft Excel y OpenOffice Calc CALC Flojos de trabajo de la hoja de cálculo en Perl. Esta solución profesional se despeja de las filas Duplicar en el local Microsoft Excel y el calcicio OpenOffice Calc." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas duplicadas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Perl REST API" >}}

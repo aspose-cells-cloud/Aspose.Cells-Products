@@ -29,7 +29,7 @@ Bygg moln Excel & OpenOffice kalkylbladsgenerator & exportörappar i Java via RE
 {{< blocks/products/pf/product-card-row title="Aspose.Cells High Code APIs inkluderar" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="/product-logos/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
-Påskynda utvecklingen av webbaserade eller stationära applikationer för hantering av kalkylblad via API. Stöder .NET, .NET Core & Xamarin-plattformar.
+Snabba upp utvecklingen av webbaserade eller stationära applikationer för manipulering av kalkylblad via API. Stöder .NET, .NET Core & Xamarin-plattformar.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="/product-logos/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}

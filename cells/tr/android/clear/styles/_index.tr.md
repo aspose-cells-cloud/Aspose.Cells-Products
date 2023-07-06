@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-ta
 url: /tr/android/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Android API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Android API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Android Clear" p="Android\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Android kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizle - Android REST API" >}}

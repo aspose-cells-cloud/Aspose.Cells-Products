@@ -13,7 +13,7 @@ url: /fr/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK pour Swift aide les programmeurs à intégrer de manière transparente Microsoft Excel et les fonctionnalités d'affichage et de traitement des feuilles de calcul OpenOffice dans leurs applications basées sur le cloud développées dans Swift. Aspose.Cells Le SDK Cloud pour Swift est sous licence MIT.</p>
-<p>Aspose.Cells Cloud SDK pour Swift permet à vos applications Swift de récupérer des feuilles de calcul, des feuilles de calcul et des classeurs stockés dans le cloud, ainsi que de générer une nouvelle feuille de calcul. Vous pouvez également modifier votre code Swift pour traiter et modifier la mise en forme conditionnelle, les graphiques, les tâches, les formes, les filtres, les OleObjects, les plages, les ListObjects et les tableaux croisés dynamiques, depuis vos applications sans installer de logiciel tiers.</p>
+<p>Aspose.Cells Cloud SDK pour Swift permet à vos applications Swift de récupérer des feuilles de calcul, des feuilles de calcul et des classeurs stockés dans le cloud ainsi que de générer une nouvelle feuille de calcul. Vous pouvez également modifier votre code Swift pour traiter et modifier la mise en forme conditionnelle, les graphiques, les tâches, les formes, les filtres, les OleObjects, les plages, les ListObjects et les tableaux croisés dynamiques, depuis vos applications sans installer de logiciel tiers.</p>
 <p>Utilisez Aspose.Cells Cloud SDK pour Swift pour convertir les feuilles de calcul Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) et OpenOffice (ODS) vers d'autres formats populaires, tels que XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF et Markdown (MD). Vous pouvez également travailler avec les formats SXC et FODS à l'aide du SDK Cloud Aspose.Cells pour Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -43,7 +43,7 @@ url: /fr/swift
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -146,7 +146,7 @@ url: /fr/swift
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">

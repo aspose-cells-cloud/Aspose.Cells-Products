@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som XLS API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara JPG-formatfil som XLS-formatfil.
 url: /sv/nodejs/saveas/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

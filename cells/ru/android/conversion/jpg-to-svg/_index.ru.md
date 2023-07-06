@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG в SVG Конвертировать API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата JPG в файл формата SVG.
 url: /ru/android/conversion/jpg-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

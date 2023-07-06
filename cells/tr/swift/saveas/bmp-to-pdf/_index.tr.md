@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için BMP'i PDF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/bmp-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/bmp-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Swift\'de PDF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'deki dosya biçimlerini PDF olarak kaydetmek karmaşık bir iştir. BMP'den PDF'e tüm format geçişleri, kaynak BMP elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, BMP'i çevrimiçi olarak PDF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
+BMP'deki dosya biçimlerini PDF olarak kaydetmek karmaşık bir iştir. BMP'den PDF'e tüm biçim geçişleri, kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, BMP'i çevrimiçi olarak PDF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PDF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i PDF formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

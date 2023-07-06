@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки коммента
 url: /ru/nodejs/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки комментариев к локальной таблице Microsoft Excel и OpenOffice Calc." h2="NodeJS Clear, чтобы очистить комментарии к локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить комментарии к локальным рабочим процессам электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение дает четкие комментарии к локальным Microsoft Excel и электронным таблицам OpenOffice Calc с использованием NodeJS." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки комментариев к локальной таблице Microsoft Excel и OpenOffice Calc." h2="NodeJS Clear, чтобы очистить комментарии к локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить комментарии к локальным рабочим процессам электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение дает четкие комментарии к локальным Microsoft Excel и электронным таблицам OpenOffice Calc с использованием NodeJS." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить комментарии к локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}

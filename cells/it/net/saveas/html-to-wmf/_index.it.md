@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come WMF API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato HTML come file in formato WMF.
 url: /it/net/saveas/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

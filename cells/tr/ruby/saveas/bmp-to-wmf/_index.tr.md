@@ -1,10 +1,10 @@
 ﻿---
 title:  Ruby için BMP'i WMF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını WMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/bmp-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i WMF olarak kaydetmek için Ruby API" h2="BMP\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak çevrimiçi olarak BMP\'i WMF ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/bmp-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i WMF olarak kaydetmek için Ruby API" h2="BMP\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak BMP\'i WMF ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/bmp-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="BMP dosyasını Ruby\'de WMF olarak kaydedin" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PHP için XLSB'den PPTX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçimli dosyayı PPTX biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

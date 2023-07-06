@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS'yi Python için TSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: ODS'yi Python için TSV API olarak kaydedin
+description:  ODS biçim dosyasını TSV biçim dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/saveas/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

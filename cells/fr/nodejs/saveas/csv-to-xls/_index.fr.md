@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer CSV sous XLS API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format CSV en tant que fichier au format XLS.
 url: /fr/nodejs/saveas/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer CSV au format XLS" h2="Bibliothèque NodeJS pour enregistrer CSV au format XLS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format XLS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/csv-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer CSV en XLS" h2="Bibliothèque NodeJS pour enregistrer CSV au format XLS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format XLS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/csv-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format XLS dans NodeJS" >}}

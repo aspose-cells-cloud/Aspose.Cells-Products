@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSB كـ XLTX API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLSB كملف بتنسيق XLTX.
 url: /ar/ruby/saveas/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

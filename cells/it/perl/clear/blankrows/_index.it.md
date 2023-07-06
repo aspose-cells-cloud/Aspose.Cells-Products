@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare righe vuote su Microsoft Excel e Ope
 url: /it/perl/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per cancellare le righe vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Perl Cancella per cancellare le righe vuote nel foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe vuote sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Perl. Questa soluzione professionale cancella le righe vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per cancellare le righe vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Perl Cancella per cancellare le righe vuote nel foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe vuote sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Perl. Questa soluzione professionale cancella le righe vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella righe vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Perl REST API" >}}

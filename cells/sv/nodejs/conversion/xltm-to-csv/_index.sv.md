@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM till CSV Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLTM till CSV Konvertera API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera XLTM-formatfil till CSV-formatfil.
 url: /sv/nodejs/conversion/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

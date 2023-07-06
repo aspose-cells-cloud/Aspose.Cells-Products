@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie NUMBERS als XLSM API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern der NUMBERS-Formatdatei als XLSM-Formatdatei.
 url: /de/ruby/saveas/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/ruby/saveas/numbers-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als XLSM in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus NUMBERS als XLSM ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu XLSM werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um NUMBERS als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte XLSM-Ausgabe.
+Das Speichern von Dateiformaten von NUMBERS als XLSM ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zum XLSM werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um NUMBERS als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von NUMBERS im XLSM-Format" gistPath="" %}}
@@ -34,14 +34,14 @@ Das Speichern von Dateiformaten aus NUMBERS als XLSM ist eine komplexe Aufgabe. 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um NUMBERS als XLSM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

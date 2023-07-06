@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните MHTML как SXC API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить MHTML как SXC" h2="Библиотека Swift для сохранения MHTML как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения MHTML как SXC и других форматов документов онлайн с помощью Swift." urlsection="saveas/mhtml-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить MHTML как SXC" h2="Библиотека Swift для сохранения MHTML как SXC" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения MHTML как SXC и других форматов документов в Интернете с использованием Swift." urlsection="saveas/mhtml-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как SXC в Swift" >}}

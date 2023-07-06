@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى XLTM تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLTM.
 url: /ar/java/conversion/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

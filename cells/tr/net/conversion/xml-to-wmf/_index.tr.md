@@ -1,6 +1,6 @@
 ﻿---
-title: XML'den WMF'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XML'den WMF'ye Dönüştürme API için C#
+description:  XML biçim dosyasını WMF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

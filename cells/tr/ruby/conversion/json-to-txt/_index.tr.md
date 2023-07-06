@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JSON'dan TXT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını TXT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/ruby/conversion/json-to-txt/
 Dosya biçimlerini JSON'dan TXT'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan TXT'ye biçim geçişleri, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JSON'u çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="JSON\'u TXT formatına dönüştürmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="JSON\'u TXT biçimine dönüştürmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

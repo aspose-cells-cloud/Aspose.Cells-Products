@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ PDF API من أجل Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/saveas/sxc-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/sxc-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC بالشكل PDF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC كـ PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ SXC كملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
+يعد حفظ تنسيقات الملفات من SXC كـ PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ SXC كملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ SXC بتنسيق PDF" gistPath="" %}}

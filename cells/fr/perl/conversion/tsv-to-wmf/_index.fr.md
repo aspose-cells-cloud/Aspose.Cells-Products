@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir TSV en WMF API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir TSV en WMF API pour Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format TSV en fichier au format WMF.
 url: /fr/perl/conversion/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى XLTX تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSX إلى ملف بتنسيق XLTX.
 url: /ar/java/conversion/xlsx-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

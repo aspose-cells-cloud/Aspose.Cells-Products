@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara ODS som DOCX API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara ODS-formatfil som DOCX-formatfil.
 url: /sv/perl/saveas/ods-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

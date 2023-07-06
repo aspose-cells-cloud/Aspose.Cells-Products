@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLT a ODS API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Convertir XLT a ODS API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLT a un archivo de formato ODS.
 url: /es/android/conversion/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/android/conversion/xlt-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XLT a ODS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLT a ODS es una tarea compleja. Todas las transiciones de formato XLT a ODS se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos XLT a ODS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida ODS perfecta.
+Convertir formatos de archivo de XLT a ODS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato XLT a ODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLT de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos XLT a ODS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida ODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir XLT a formato ODS" gistPath="" %}}

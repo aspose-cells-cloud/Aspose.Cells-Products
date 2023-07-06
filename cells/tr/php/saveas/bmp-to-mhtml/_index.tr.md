@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i PHP için MHTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı MHTML biçimindeki dosya olarak kaydetmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/saveas/bmp-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

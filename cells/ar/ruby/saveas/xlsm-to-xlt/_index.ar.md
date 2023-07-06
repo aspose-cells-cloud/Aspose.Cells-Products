@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ XLT API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLSM كملف بتنسيق XLT.
 url: /ar/ruby/saveas/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

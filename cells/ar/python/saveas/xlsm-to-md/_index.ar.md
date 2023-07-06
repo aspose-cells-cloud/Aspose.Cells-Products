@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ MD API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLSM كملف بتنسيق MD.
 url: /ar/python/saveas/xlsm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

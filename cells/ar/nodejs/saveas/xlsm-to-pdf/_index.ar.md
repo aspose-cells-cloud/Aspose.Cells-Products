@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ PDF API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLSM كملف بتنسيق PDF.
 url: /ar/nodejs/saveas/xlsm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

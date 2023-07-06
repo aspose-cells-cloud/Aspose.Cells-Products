@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS to WMF Convert API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: NUMBERS to WMF Convert API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق WMF.
 url: /ar/net/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

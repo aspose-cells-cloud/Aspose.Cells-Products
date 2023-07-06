@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLS'den XLT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLS biçim dosyasını XLT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xls-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLS dosyasını XLT\'ye dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den XLT'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den XLT'ye biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak XLT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya formatlarını XLS'den XLT'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den XLT'ye format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak XLT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLT formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

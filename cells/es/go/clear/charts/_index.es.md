@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar gráficos en Microsoft Excel y Op
 url: /es/go/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Go. Esta solución profesional borra gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar gráficos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Go. Esta solución profesional borra gráficos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar gráficos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir a REST API" >}}

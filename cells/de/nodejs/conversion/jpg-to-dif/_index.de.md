@@ -1,16 +1,16 @@
 ﻿---
-title:  JPG zu DIF konvertieren API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  JPG in DIF konvertieren API für NodeJS
+description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um eine JPG-Formatdatei in eine DIF-Formatdatei zu konvertieren.
 url: /de/nodejs/conversion/jpg-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von JPG in DIF" h2="NodeJS-Bibliothek zum Konvertieren von JPG in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um JPG mit NodeJS online in DIF und andere Dokumentformate zu konvertieren." urlsection="conversion/jpg-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von JPG in DIF" h2="NodeJS-Bibliothek zum Konvertieren von JPG in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JPG in DIF und andere Dokumentformate mit NodeJS." urlsection="conversion/jpg-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in NodeJS in DIF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in DIF in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JPG in DIF ist eine komplexe Aufgabe. Alle Formatübergänge von JPG zu DIF werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um JPG-Dateien online in DIF-Dateien umzuwandeln. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von JPG in DIF ist eine komplexe Aufgabe. Alle Übergänge vom JPG- zum DIF-Format werden von unserem NodeJS SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JPG- in DIF-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von JPG in das DIF-Format" gistPath="" %}}
@@ -35,10 +35,10 @@ Das Konvertieren von Dateiformaten von JPG in DIF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um JPG in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API zum Konvertieren von JPG in DIF" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

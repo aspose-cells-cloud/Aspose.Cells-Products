@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için JPG'den XLTM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı XLTM formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/jpg-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir JPG dosyasını XLTM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını JPG'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm JPG'den XLTM biçimine geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JPG'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+Dosya formatlarını JPG'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm JPG'den XLTM biçimine geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JPG'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi XLTM formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

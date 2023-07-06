@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как SQL API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата HTML в виде файла формата SQL.
 url: /ru/ruby/saveas/html-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/html-to-sql/
 Сохранение форматов файлов с HTML как SQL — сложная задача. Все переходы HTML в формат SQL выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Ruby — это профессиональное решение для сохранения HTML в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения HTML в формате SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения HTML в формате SQL" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

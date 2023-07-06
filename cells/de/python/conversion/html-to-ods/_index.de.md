@@ -1,19 +1,19 @@
 ﻿---
-title:  HTML in ODS Konvertieren Sie API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  HTML in ODS Konvertieren Sie API in Python
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im HTML-Format in eine Datei im ODS-Format zu konvertieren.
 url: /de/python/conversion/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API um HTML in ODS umzuwandeln" h2="Python-Bibliothek zum Konvertieren von HTML in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um HTML mithilfe von Python online in ODS und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um HTML in ODS umzuwandeln" h2="Python-Bibliothek zur Konvertierung von HTML in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um HTML online mit Python in ODS und andere Dokumentformate zu konvertieren." urlsection="conversion/html-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in ODS in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in ODS ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu ODS werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der HTML-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um HTML online in ODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in ODS ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum ODS-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um HTML online in ODS-Dateien zu konvertieren. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von HTML in das ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zur Konvertierung von HTML in das ODS-Format" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -28,10 +28,10 @@ Das Konvertieren von Dateiformaten von HTML in ODS ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um HTML in ODS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um HTML in ODS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

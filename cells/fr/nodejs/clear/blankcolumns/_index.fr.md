@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les colonnes vides sur Microsoft Exce
 url: /fr/nodejs/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les colonnes vides sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans NodeJS. Cette solution professionnelle efface les colonnes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="NodeJS Clear pour effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les colonnes vides sur les workflows locaux Microsoft Excel et de tableur OpenOffice Calc dans NodeJS. Cette solution professionnelle efface les colonnes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de NodeJS." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les colonnes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - NodeJS REST API" >}}
@@ -18,7 +18,7 @@ Effacer les colonnes vides sur les feuilles de calcul locales Microsoft Excel et
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Comment utiliser le nœud API pour effacer les colonnes vides" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Comment utiliser le nœud API pour effacer les colonnes vides" >}}
 <li> Créez un compte sur<a href="https://dashboard.aspose.cloud/">Tableau de bord</a> pour obtenir gratuitement les détails du quota et de l'autorisation API</li>
 <li>Initialiser CellsApi avec l'ID client, le secret client, l'URL de base et la version API</li>
 <li>Appelez la méthode postClearObjects pour obtenir le flux résultant</li>

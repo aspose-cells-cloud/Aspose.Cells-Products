@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки фигур на M
 url: /ru/nodejs/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки фигур в локальной таблице Microsoft Excel и OpenOffice Calc." h2="NodeJS Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает формы на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием NodeJS." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки фигур в локальной таблице Microsoft Excel и OpenOffice Calc." h2="NodeJS Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает формы на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием NodeJS." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фигуры в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}

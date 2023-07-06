@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les lignes vides sur Microsoft Excel 
 url: /fr/python/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour effacer les lignes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc" h2="Python Effacer pour effacer les lignes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les lignes vides sur les workflows locaux Microsoft Excel et OpenOffice Calc dans Python. Cette solution professionnelle efface les lignes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Python." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour effacer les lignes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc" h2="Python Effacer pour effacer les lignes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les lignes vides sur les workflows locaux Microsoft Excel et OpenOffice Calc dans Python. Cette solution professionnelle efface les lignes vides sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Python." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les lignes vides sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Python REST API" >}}

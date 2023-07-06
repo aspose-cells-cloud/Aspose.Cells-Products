@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT a XLSM Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato TXT a un archivo de formato XLSM.
 url: /es/nodejs/conversion/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/conversion/txt-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo TXT a XLSM en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de TXT a XLSM es una tarea compleja. Todas las transiciones de formato TXT a XLSM las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos TXT a XLSM en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLSM perfecta.
+Convertir formatos de archivo de TXT a XLSM es una tarea compleja. Todas las transiciones de formato TXT a XLSM se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos TXT a XLSM en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para convertir TXT a formato XLSM" gistPath="" %}}

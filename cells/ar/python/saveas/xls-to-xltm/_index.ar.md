@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS كـ XLTM API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLS كملف بتنسيق XLTM.
 url: /ar/python/saveas/xls-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

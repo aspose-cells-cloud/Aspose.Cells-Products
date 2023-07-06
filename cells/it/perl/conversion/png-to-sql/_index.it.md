@@ -1,6 +1,6 @@
 ﻿---
-title: PNG in SQL Converti API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  PNG in SQL Converti API per Perl
+description: Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato PNG in un file in formato SQL.
 url: /it/perl/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Преобразование XLTM в XLS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLTM в XLS API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLTM в файл формата XLS.
 url: /ru/nodejs/conversion/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLTM в XLS" h2="Библиотека NodeJS для преобразования XLTM в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLTM в XLS и другие форматы документов с использованием NodeJS." urlsection="conversion/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLTM в XLS" h2="Библиотека NodeJS для преобразования XLTM в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLTM в XLS и другие форматы документов с помощью NodeJS." urlsection="conversion/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в XLS в NodeJS" >}}

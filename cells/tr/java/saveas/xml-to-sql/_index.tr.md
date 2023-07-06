@@ -1,6 +1,6 @@
 ﻿---
 title:  XML'i SQL olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XML biçim dosyasını SQL biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

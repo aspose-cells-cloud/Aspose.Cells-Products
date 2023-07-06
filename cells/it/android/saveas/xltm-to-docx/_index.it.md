@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTM come DOCX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLTM come file in formato DOCX.
 url: /it/android/saveas/xltm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/xltm-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTM come DOCX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTM come DOCX è un compito complesso. Tutte le transizioni dal formato XLTM al formato DOCX vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Android è una soluzione professionale per salvare XLTM come file DOCX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output DOCX perfetto.
+Salvare i formati di file da XLTM come DOCX è un compito complesso. Tutte le transizioni dal formato XLTM al formato DOCX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLTM di origine. La nostra libreria Android è una soluzione professionale per salvare XLTM come file DOCX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output DOCX perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare XLTM come formato DOCX" gistPath="" %}}

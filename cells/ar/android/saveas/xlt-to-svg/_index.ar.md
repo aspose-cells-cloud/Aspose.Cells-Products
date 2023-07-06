@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLT كـ SVG API لأجهزة الأندرويد
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLT كملف بتنسيق SVG.
 url: /ar/android/saveas/xlt-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLT كـ SVG" h2="مكتبة Android لحفظ XLT كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLT كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlt-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLT كـ SVG" h2="مكتبة Android لحفظ XLT كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLT كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlt-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT بالشكل SVG في Android" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Crittografa il foglio di calcolo locale con password in Cloud
-description:  API cloud e SDK per proteggere Microsoft Excel e OpenOffice Calc. Crittografa i fogli di calcolo locali con la password tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Crittografa il foglio di calcolo locale con password con C# in Cloud
+description:  API cloud e SDK per la protezione di Microsoft Excel e OpenOffice Calc con C#. Crittografa i fogli di calcolo locali con password tramite l'SDK Cells Cloud API per C#.
 url: /it/net/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per proteggere il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="C# libreria per proteggere locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Protect REST API per proteggere il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con flussi di lavoro con password in C#. Questa soluzione professionale protegge Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando C#." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per proteggere il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="C# libreria per proteggere locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Protect REST API per proteggere il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con flussi di lavoro con password in C#. Questa soluzione professionale protegge Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando C#." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteggi il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password - C# REST API" >}}

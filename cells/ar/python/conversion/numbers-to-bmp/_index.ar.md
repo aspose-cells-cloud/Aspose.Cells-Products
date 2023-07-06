@@ -1,10 +1,10 @@
 ﻿---
-title:  الأرقام إلى BMP حوّل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: الأرقام إلى BMP حوّل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق BMP.
 url: /ar/python/conversion/numbers-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل الأرقام إلى BMP" h2="مكتبة Python لتحويل الأرقام إلى BMP" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل NUMBERS إلى BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل الأرقام إلى BMP" h2="مكتبة Python لتحويل الأرقام إلى BMP" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل الأرقام إلى BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/numbers-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى BMP في Python" >}}

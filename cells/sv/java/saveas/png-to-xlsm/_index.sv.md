@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XLSM API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara PNG filformat som fil i XLSM-format.
 url: /sv/java/saveas/png-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

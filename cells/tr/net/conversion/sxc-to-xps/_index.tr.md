@@ -1,6 +1,6 @@
 ﻿---
-title: SXC'den XPS'e C# için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  SXC'den XPS'e C# için API'i dönüştürün
+description:  SXC biçim dosyasını XPS biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

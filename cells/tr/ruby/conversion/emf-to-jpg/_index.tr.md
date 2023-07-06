@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için EMF'i JPG'ye Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF formatındaki dosyayı JPG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

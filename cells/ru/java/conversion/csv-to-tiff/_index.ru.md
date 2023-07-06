@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в TIFF Преобразовать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата CSV в файл формата TIFF.
 url: /ru/java/conversion/csv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

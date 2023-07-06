@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer TSV sous PPTX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format TSV en tant que fichier au format PPTX.
 url: /fr/android/saveas/tsv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/android/saveas/tsv-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier TSV au format PPTX dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de TSV en tant que PPTX est une tâche complexe. Toutes les transitions de format TSV vers PPTX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers TSV en tant que PPTX. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie PPTX parfaite.
+L'enregistrement de formats de fichiers à partir de TSV en tant que PPTX est une tâche complexe. Toutes les transitions de format TSV vers PPTX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers TSV en tant que PPTX en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie PPTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer TSV au format PPTX" gistPath="" %}}

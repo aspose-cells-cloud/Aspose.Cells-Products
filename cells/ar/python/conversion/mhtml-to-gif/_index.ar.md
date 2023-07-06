@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML إلى GIF - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  MHTML إلى GIF - تحويل API إلى Python
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق MHTML إلى ملف بتنسيق GIF.
 url: /ar/python/conversion/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

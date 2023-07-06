@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS إلى PPTX - تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق ODS إلى ملف بتنسيق PPTX.
 url: /ar/android/conversion/ods-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

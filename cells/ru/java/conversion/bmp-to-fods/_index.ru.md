@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP в FODS Преобразовать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата BMP в файл формата FODS.
 url: /ru/java/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в FODS в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и отличные результаты FODS.
+Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования BMP в формат FODS" gistPath="" %}}

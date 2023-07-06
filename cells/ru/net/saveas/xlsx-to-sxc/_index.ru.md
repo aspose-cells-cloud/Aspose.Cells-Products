@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLSX как SXC API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLSX как SXC API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSX как файла формата SXC.
 url: /ru/net/saveas/xlsx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

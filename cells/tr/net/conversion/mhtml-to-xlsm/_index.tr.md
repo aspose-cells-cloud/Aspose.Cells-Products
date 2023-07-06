@@ -1,6 +1,6 @@
 ﻿---
 title:  C# için MHTML'den XLSM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  MHTML biçim dosyasını XLSM biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/mhtml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/conversion/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="C#\'de bir MHTML dosyasını XLSM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini MHTML'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm MHTML'den XLSM formatına geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, MHTML'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
+Dosya formatlarını MHTML'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm MHTML'den XLSM formatına geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, MHTML'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XLSM formatına dönüştürmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}

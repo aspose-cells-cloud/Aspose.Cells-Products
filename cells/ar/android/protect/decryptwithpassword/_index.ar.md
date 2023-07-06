@@ -1,10 +1,10 @@
 ﻿---
-title:  فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
+title: فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
 description:  Cloud APIs & SDKs لـ Microsoft Excel وإلغاء قفل OpenOffice Calc. فك تشفير جداول البيانات بواسطة Cells Cloud API. تدعم SDK أنواعًا من لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/android/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Android لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Android. يقوم هذا الحل الاحترافي بفك تشفير جدول بيانات Microsoft Excel المحلي و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Android." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Android لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Android. يقوم هذا الحل الاحترافي بفك تشفير جدول بيانات Microsoft Excel المحلي و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Android." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Android REST API" >}}

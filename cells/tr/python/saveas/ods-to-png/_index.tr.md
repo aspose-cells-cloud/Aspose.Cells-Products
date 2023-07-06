@@ -1,6 +1,6 @@
 ﻿---
 title:  Python için ODS'yi PNG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  ODS format dosyasını PNG format dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/saveas/ods-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

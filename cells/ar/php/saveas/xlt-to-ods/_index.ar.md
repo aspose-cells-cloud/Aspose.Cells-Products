@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ XLT كـ ODS API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ ODS API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLT كملف بتنسيق ODS.
 url: /ar/php/saveas/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة PHP لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة PHP لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT كملف ODS في PHP" >}}

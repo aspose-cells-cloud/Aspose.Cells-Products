@@ -1,6 +1,6 @@
 ﻿---
 title: CSV till TSV Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera CSV-formatfil till TSV-formatfil.
 url: /sv/perl/conversion/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

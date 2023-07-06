@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Android için DOCX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını DOCX biçim dosyası olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/saveas/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

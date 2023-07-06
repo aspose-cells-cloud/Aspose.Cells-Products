@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX'i PHP için PPTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçimli dosyayı PPTX biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/xlsx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

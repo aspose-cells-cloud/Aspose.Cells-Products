@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'i Go için DOCX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını DOCX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

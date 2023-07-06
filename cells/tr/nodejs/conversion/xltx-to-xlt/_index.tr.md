@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLTX'den XLT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX biçim dosyasını XLT biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/nodejs/conversion/xltx-to-xlt/
 Dosya formatlarını XLTX'ten XLT'ye dönüştürmek karmaşık bir iştir. Tüm XLTX'ten XLT formatına geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLTX'i çevrimiçi olarak XLT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i XLT biçimine dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i XLT formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

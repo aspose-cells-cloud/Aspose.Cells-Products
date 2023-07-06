@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara TSV som CSV API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara TSV som CSV API för Android
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara TSV-formatfil som CSV-formatfil.
 url: /sv/android/saveas/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

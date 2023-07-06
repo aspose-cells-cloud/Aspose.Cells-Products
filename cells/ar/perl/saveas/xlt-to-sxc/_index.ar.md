@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLT كـ SXC API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ SXC API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLT كملف بتنسيق SXC.
 url: /ar/perl/saveas/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

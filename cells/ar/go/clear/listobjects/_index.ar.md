@@ -1,10 +1,10 @@
 ﻿---
 title:  مسح كائنات القائمة في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة API Cloud Cells. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح عناصر القائمة على Microsoft Excel & OpenOffice Calc. مسح كائنات القائمة في جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/go/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جدول البيانات في Go. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells امسح REST API لمسح كائنات القائمة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جدول البيانات في Go. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح كائنات القائمة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

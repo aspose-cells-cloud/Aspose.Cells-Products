@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ XLTM API مقابل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLSM كملف بتنسيق XLTM.
 url: /ar/perl/saveas/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

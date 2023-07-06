@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG لتحويل XML API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق PNG إلى ملف بتنسيق XML.
 url: /ar/net/conversion/png-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

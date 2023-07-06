@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF в PPTX Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование EMF в PPTX API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата EMF в файл формата PPTX.
 url: /ru/ruby/conversion/emf-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

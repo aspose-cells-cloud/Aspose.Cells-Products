@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ SXC API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق MHTML كملف بتنسيق SXC.
 url: /ar/go/saveas/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

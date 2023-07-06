@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование TXT в GIF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата TXT в файл формата GIF.
 url: /ru/python/conversion/txt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования TXT в GIF" h2="Python библиотека для преобразования TXT в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации TXT в GIF и другие форматы документов с использованием Python." urlsection="conversion/txt-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования TXT в GIF" h2="Python библиотека для преобразования TXT в GIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации TXT в GIF и другие форматы документов с использованием Python." urlsection="conversion/txt-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в GIF в Python" >}}

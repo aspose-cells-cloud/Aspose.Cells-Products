@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в ODS API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата MHTML в файл формата ODS.
 url: /ru/java/conversion/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/mhtml-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в ODS в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в ODS — сложная задача. Все переходы между форматами MHTML и ODS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в ODS. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из MHTML в ODS — сложная задача. Все переходы формата MHTML в формат ODS выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в ODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования MHTML в формат ODS" gistPath="" %}}

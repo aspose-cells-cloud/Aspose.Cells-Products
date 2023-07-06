@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da JPG a TSV API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per NodeJS per convertire il file in formato JPG in un file in formato TSV.
 url: /it/nodejs/conversion/jpg-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

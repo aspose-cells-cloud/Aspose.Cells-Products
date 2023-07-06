@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как XLS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата PNG в виде файла формата XLS.
 url: /ru/nodejs/saveas/png-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

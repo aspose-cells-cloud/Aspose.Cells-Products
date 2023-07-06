@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как XLSX API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата PNG в виде файла формата XLSX.
 url: /ru/net/saveas/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

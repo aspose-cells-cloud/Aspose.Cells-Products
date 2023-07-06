@@ -1,6 +1,6 @@
 ﻿---
 title:  Unir
-description: Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,9 +23,9 @@ url: /es/merge/
 	<li><b>Imágenes:</b> PNG, Jpg, Gif, Emf</li>
 	<li><b>Otro:</b> Pdf, Json, rebajas</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato de salida</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Formato de salida</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Palabra/PowerPoint:</b>docx, pptx</li>
+	<li><b>Microsoft Palabra/PowerPoint:</b> docx, pptx</li>
 	<li><b>Oficina abierta:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Hoja de cálculoML, Xml</li>
 	<li><b>Texto:</b> CSV, Tsv, Txt (delimitado por tabuladores)</li>

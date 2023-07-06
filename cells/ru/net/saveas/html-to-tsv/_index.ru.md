@@ -1,16 +1,16 @@
 ﻿---
 title: Сохранить HTML как TSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата HTML в виде файла формата TSV.
 url: /ru/net/saveas/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить HTML как TSV" h2="Библиотека C# для сохранения HTML как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения HTML в виде TSV и других форматов документов в Интернете с использованием C#." urlsection="saveas/html-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить HTML как TSV" h2="C# библиотека для сохранения HTML как TSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения HTML в виде TSV и других форматов документов в Интернете с использованием C#." urlsection="saveas/html-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как TSV в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML в виде TSV — сложная задача. Все переходы формата HTML в формат TSV выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов TSV онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов с HTML в виде TSV — сложная задача. Все переходы формата HTML в формат TSV выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов TSV онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате TSV" gistPath="" %}}

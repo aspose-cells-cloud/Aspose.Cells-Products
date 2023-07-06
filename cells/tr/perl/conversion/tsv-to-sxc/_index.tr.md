@@ -1,6 +1,6 @@
 ﻿---
 title:  Perl için TSV'den SXC'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV formatındaki dosyayı SXC formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/tsv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

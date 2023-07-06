@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в FODS Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата EMF в файл формата FODS.
 url: /ru/net/conversion/emf-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/emf-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в FODS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в FODS — сложная задача. Все переходы формата EMF в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации EMF в файлы FODS. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и отличные результаты FODS.
+Преобразование форматов файлов из EMF в FODS — сложная задача. Все переходы формата EMF в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации EMF в файлы FODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования EMF в формат FODS" gistPath="" %}}

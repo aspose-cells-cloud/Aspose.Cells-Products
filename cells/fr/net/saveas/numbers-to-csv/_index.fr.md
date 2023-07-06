@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer les NUMÉROS au format CSV API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format NUMBERS en tant que fichier au format CSV.
 url: /fr/net/saveas/numbers-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

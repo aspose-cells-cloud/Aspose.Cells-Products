@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc için Bulut API'leri ve SDK'lar
 url: /tr/nodejs/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API bulut şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut Microsoft Excel şifresini çözmek için NodeJS kitaplığı ve şifreli OpenOffice Calc elektronik tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve NodeJS\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, NodeJS kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API bulut şifresini çözmek için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut Microsoft Excel şifresini çözmek için NodeJS kitaplığı ve şifreli OpenOffice Calc elektronik tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve NodeJS\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, NodeJS kullanarak bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulut Microsoft Excel ve şifreli OpenOffice Calc e-tablosunun şifresini çözün - NodeJS REST API" >}}

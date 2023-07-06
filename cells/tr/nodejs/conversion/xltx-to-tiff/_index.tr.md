@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX'i TIFF'e NodeJS için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLTX'i TIFF'e NodeJS için API'e Dönüştür
+description:  XLTX biçim dosyasını TIFF biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xltx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

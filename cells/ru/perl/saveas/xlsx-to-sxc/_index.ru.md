@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLSX как SXC API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLSX как SXC API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLSX как файла формата SXC.
 url: /ru/perl/saveas/xlsx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

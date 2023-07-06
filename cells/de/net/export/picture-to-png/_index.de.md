@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie PICTURE nach PNG aus der Tabelle mit C# API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie BILD aus der Tabellenkalkulation nach PNG mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/picture-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren von BILD in die Datei PNG" h2="C#-Bibliothek zum Exportieren von BILD in die PNG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE in eine Datei im Format PNG aus einer Online-Tabelle mit C#." urlsection="export/picture-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um BILD in die Datei PNG zu exportieren" h2="C#-Bibliothek zum Exportieren von BILD in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung, um BILD online aus einer Tabellenkalkulation mit C# in das Format PNG zu exportieren." urlsection="export/picture-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in die Formatdatei PNG in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des PICTURE-Objekts in die Datei PNG aus der Tabelle ist eine komplexe Aufgabe. Der Export von BILD zu PNG-Formatübergängen wird von unserem C#-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BILD-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im PNG-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Exportieren des PICTURE-Objekts aus der Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Der Export von PICTURE-Formatübergängen in das PNG-Format wird von unserem C#-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im Format PNG zu exportieren. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von PICTURE in das PNG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von PICTURE in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,9 +44,9 @@ Das Exportieren des PICTURE-Objekts in die Datei PNG aus der Tabelle ist eine ko
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um BILD nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um PICTURE nach PNG zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

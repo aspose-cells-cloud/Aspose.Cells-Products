@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM إلى TIFF قم بالتحويل من API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLTM إلى ملف بتنسيق TIFF.
 url: /ar/go/conversion/xltm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

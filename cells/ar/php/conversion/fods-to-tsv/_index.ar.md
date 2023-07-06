@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل FODS إلى TSV في السحابة via PHP
+title:  تحويل FODS إلى TSV في السحابة via PHP
 description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source PHP SDK
 url: /ar/php/conversion/fods-to-tsv/
 family: cells

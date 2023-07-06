@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT в PNG Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLT в файл формата PNG.
 url: /ru/ruby/conversion/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

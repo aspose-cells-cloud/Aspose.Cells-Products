@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как XLTX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XML как файла формата XLTX.
 url: /ru/android/saveas/xml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

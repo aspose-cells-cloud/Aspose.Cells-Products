@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei collegamenti ipertestuali
 url: /it/perl/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Perl Cancella per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare i collegamenti ipertestuali sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Perl. Questa soluzione professionale cancella i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Perl Cancella per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare i collegamenti ipertestuali sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Perl. Questa soluzione professionale cancella i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Perl." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Perl REST API" >}}

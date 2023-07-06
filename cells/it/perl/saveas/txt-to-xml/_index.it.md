@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TXT come XML API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato TXT come file in formato XML.
 url: /it/perl/saveas/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование ODS в FODS API for Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата ODS в файл формата FODS.
 url: /ru/go/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

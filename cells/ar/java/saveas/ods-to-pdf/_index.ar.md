@@ -1,13 +1,13 @@
 ﻿---
 title:  حفظ ODS كـ PDF API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق ODS كملف بتنسيق PDF.
 url: /ar/java/saveas/ods-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ المواد المستنفدة للأوزون كـ PDF" h2="مكتبة Java لحفظ نظام الوثائق الرسمية كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ ODS كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/ods-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بالشكل PDF في Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كـ PDF في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS كـ PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى PDF بواسطة SDK Java مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبتنا Java هي حل احترافي لحفظ ODS كملفات PDF عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج PDF مثالي.

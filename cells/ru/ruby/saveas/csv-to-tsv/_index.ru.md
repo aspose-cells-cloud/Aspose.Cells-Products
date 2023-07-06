@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как TSV API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата CSV в виде файла формата TSV.
 url: /ru/ruby/saveas/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'i Android için DOCX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: HTML biçim dosyasını DOCX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som XLTX API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara fil i BMP-format som fil i XLTX-format.
 url: /sv/php/saveas/bmp-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

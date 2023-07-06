@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için TSV'yi XPS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: TSV biçim dosyasını XPS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/tsv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

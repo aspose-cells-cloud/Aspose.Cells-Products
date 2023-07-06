@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLS как BMP API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLS как файла формата BMP.
 url: /ru/android/saveas/xls-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

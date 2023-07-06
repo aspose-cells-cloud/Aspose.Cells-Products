@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till FODS Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i BMP-format till fil i FODS-format.
 url: /sv/go/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

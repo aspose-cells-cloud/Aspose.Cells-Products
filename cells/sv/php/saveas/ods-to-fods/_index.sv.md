@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara ODS som FODS API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara ODS som FODS API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara ODS-formatfil som FODS-formatfil.
 url: /sv/php/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

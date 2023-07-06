@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc dijital imzası için Bulut API
 url: /tr/net/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla birlikte OpenOffice Calc elektronik tablosuna" h2="C# kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve C#\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. C#." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API\'den dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla birlikte OpenOffice Calc elektronik tablosuna" h2="C# kitaplığından dijital imza bulutuna Microsoft Excel ve şifre ve dijital imza dosyasıyla OpenOffice Calc elektronik tablosu" p="Cells Dijital imza REST API\'i dijital imza bulutu Microsoft Excel\'e ve C#\'deki şifre ve dijital imza dosyası iş akışlarıyla birlikte OpenOffice Calc elektronik tablosuna kullanın. C#." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dijital imza bulutu Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu - C# REST API" >}}

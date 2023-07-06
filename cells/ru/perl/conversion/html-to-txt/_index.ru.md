@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML в TXT Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата HTML в файл формата TXT.
 url: /ru/perl/conversion/html-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/html-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в TXT в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в TXT — сложная задача. Все переходы формата HTML в формат TXT выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации HTML в файлы TXT. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TXT.
+Преобразование форматов файлов из HTML в TXT — сложная задача. Все переходы HTML в формат TXT выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации HTML в файлы TXT. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования HTML в формат TXT" gistPath="" %}}

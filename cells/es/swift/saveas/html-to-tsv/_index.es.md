@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar HTML como TSV API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/saveas/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/saveas/html-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como TSV en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como TSV es una tarea compleja. Todas las transiciones de formato HTML a TSV son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Swift es una solución profesional para guardar HTML como archivos TSV en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida TSV perfecta.
+Guardar formatos de archivo desde HTML como TSV es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato HTML a TSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Swift es una solución profesional para guardar HTML como archivos TSV en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida TSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar HTML como formato TSV" gistPath="" %}}

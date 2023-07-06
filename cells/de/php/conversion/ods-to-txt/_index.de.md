@@ -1,16 +1,16 @@
 ﻿---
-title:  ODS zu TXT konvertieren API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  ODS in TXT Konvertieren Sie API in PHP
+description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im ODS-Format in eine Datei im TXT-Format.
 url: /de/php/conversion/ods-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um ODS in TXT umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von ODS in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von ODS in TXT und andere Dokumentformate unter Verwendung von PHP." urlsection="conversion/ods-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von ODS in TXT" h2="PHP-Bibliothek zum Konvertieren von ODS in TXT" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von ODS in TXT und andere Dokumentformate mit PHP." urlsection="conversion/ods-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine ODS-Datei in TXT in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von ODS in TXT ist eine komplexe Aufgabe. Alle ODS-zu-TXT-Formatübergänge werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der ODS-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von ODS- in TXT-Dateien. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte TXT-Ausgabe.
+Das Konvertieren von Dateiformaten von ODS nach TXT ist eine komplexe Aufgabe. Alle ODS-zu-TXT-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von ODS- in TXT-Dateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte TXT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von ODS in das TXT-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von ODS in TXT ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um ODS in TXT zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

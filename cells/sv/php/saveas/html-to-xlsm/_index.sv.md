@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som XLSM API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för PHP för att spara HTML filformat som fil i XLSM-format.
 url: /sv/php/saveas/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için TXT'den TSV'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını TSV biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/txt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/txt-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını NodeJS\'de TSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TXT'den TSV'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den TSV'ye biçim geçişleri, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+Dosya formatlarını TXT'den TSV'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den TSV formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi TSV formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JSON как CSV API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JSON в виде файла формата CSV.
 url: /ru/perl/saveas/json-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

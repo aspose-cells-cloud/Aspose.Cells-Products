@@ -1,6 +1,6 @@
 ﻿---
-title: XLT a PNG Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLT a PNG Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato XLT a un archivo de formato PNG.
 url: /es/python/conversion/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

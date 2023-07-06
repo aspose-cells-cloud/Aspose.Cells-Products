@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS كـ TIFF API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLS كملف بتنسيق TIFF.
 url: /ar/python/saveas/xls-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da JPG a XLTX API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato JPG in un file in formato XLTX.
 url: /it/java/conversion/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

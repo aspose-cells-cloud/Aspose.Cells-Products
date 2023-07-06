@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ ملف CSV باسم JSON API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ CSV كـ JSON API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق CSV كملف بتنسيق JSON.
 url: /ar/php/saveas/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

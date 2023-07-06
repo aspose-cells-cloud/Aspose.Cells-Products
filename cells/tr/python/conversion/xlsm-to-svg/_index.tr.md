@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM'den SVG'e Python için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSM'den SVG'e Python için API'i dönüştürün
+description:  XLSM biçim dosyasını SVG biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xlsm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

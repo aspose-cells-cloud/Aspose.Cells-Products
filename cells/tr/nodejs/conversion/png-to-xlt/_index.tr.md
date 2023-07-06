@@ -1,6 +1,6 @@
 ﻿---
-title:  NodeJS için PNG'den XLT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NodeJS için PNG'den XLT'ye Dönüştürme API
+description:  PNG biçim dosyasını XLT biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

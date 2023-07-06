@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer l'arrière-plan sur Microsoft Excel e
 url: /fr/android/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Android Effacer pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans Android. Cette solution professionnelle dégage un arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc utilisant Android." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Android Effacer pour effacer l\'arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer l\'arrière-plan sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans Android. Cette solution professionnelle dégage un arrière-plan sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc utilisant Android." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Arrière-plan clair sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Android REST API" >}}

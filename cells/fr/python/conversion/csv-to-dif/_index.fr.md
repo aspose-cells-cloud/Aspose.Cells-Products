@@ -1,10 +1,10 @@
 ﻿---
 title:  Conversion CSV en DIF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format CSV en fichier au format DIF.
 url: /fr/python/conversion/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir CSV en DIF" h2="bibliothèque Python pour convertir CSV en DIF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir CSV en DIF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/csv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir CSV en DIF" h2="bibliothèque Python pour convertir CSV en DIF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir CSV en DIF et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/csv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en DIF en Python" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните EMF как PPTX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить EMF как PPTX API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата EMF в виде файла формата PPTX.
 url: /ru/ruby/saveas/emf-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

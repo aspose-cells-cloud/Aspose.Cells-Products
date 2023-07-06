@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в SQL API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата GIF в файл формата SQL.
 url: /ru/net/conversion/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

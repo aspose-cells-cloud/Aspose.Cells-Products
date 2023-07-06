@@ -1,6 +1,6 @@
 ﻿---
-title: XLT till FODS Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLT till FODS Konvertera API för Perl
+description: Använder Aspose.Cells Cloud SDK för Perl för att konvertera XLT-formatfil till FODS-formatfil.
 url: /sv/perl/conversion/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

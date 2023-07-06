@@ -1,6 +1,6 @@
 ﻿---
-title: Guarde BMP como ODS API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  Guarde BMP como ODS API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato BMP como archivo de formato ODS.
 url: /es/net/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

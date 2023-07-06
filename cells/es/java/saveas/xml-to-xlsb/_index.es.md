@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XML como XLSB API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato XML como archivo de formato XLSB.
 url: /es/java/saveas/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/java/saveas/xml-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo XML como XLSB en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde XML como XLSB es una tarea compleja. Todas las transiciones de formato XML a XLSB se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Java es una solución profesional para guardar XML como archivos XLSB en línea. Este Cloud SDK ofrece a los desarrolladores de Java una potente funcionalidad y una salida XLSB perfecta.
+Guardar formatos de archivo de XML como XLSB es una tarea compleja. Todas las transiciones de formato XML a XLSB se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Java es una solución profesional para guardar XML como archivos XLSB en línea. Este Cloud SDK ofrece a los desarrolladores de Java una potente funcionalidad y una salida XLSB perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para guardar XML como formato XLSB" gistPath="" %}}

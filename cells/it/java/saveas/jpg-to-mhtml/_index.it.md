@@ -1,10 +1,10 @@
 ﻿---
 title:  Salva JPG come MHTML API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato JPG come file in formato MHTML.
 url: /it/java/saveas/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per salvare JPG come MHTML" h2="Java libreria per salvare JPG come MHTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per salvare JPG come MHTML e altri formati di documenti online usando Java." urlsection="saveas/jpg-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per salvare JPG come MHTML" h2="Java libreria per salvare JPG come MHTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Java. Questa è una soluzione professionale per salvare JPG come MHTML e altri formati di documenti online utilizzando Java." urlsection="saveas/jpg-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JPG come MHTML in Java" >}}

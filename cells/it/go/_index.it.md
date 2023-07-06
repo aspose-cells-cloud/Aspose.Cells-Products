@@ -160,7 +160,7 @@ Excel Funzionalità di elaborazione del foglio di calcolo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
+Riassumi i dati di ListObject o Table di grandi dimensioni con la tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Excel Funzionalità di elaborazione del foglio di calcolo
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Elimina specifici o tutti gli OleObject dal foglio di lavoro
+ Elimina specifici o tutti gli OleObject dal foglio di lavoro
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,7 +231,7 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
  Inizia con Excel Spreadsheet Processing SDK
     </h2>
     <p>
- Per iniziare con Aspose.Cells Cloud SDK for Go, non è necessario installare nulla. Tutto quello che devi fare è creare un account su
+Per iniziare con Aspose.Cells Cloud SDK for Go, non è necessario installare nulla. Tutto quello che devi fare è creare un account su
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose per Nuvola
      </a>
@@ -240,10 +240,10 @@ Elimina specifici o tutti gli OleObject dal foglio di lavoro
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Genera cartella di lavoro Excel da un modello
+ Genera cartella di lavoro Excel da un modello
     </h2>
     <p>
- Aspose.Cells Cloud Go SDK ha incluso la funzionalità per la creazione programmatica della cartella di lavoro Excel da un file modello utilizzando il linguaggio Go. Una volta creata la cartella di lavoro, è possibile modificare facilmente la cartella di lavoro in base alle proprie esigenze. Puoi aggiungere un nuovo foglio alla cartella di lavoro, assegnare un nome, impostare caratteri di tua scelta, applicare stili alle celle, eliminare un foglio e molto altro. Puoi anche creare una cartella di lavoro da un file modello SmartMarker con solo un paio di righe di codice.
+Aspose.Cells Cloud Go SDK ha incluso la funzionalità per la creazione programmatica della cartella di lavoro Excel da un file modello utilizzando il linguaggio Go. Una volta creata la cartella di lavoro, è possibile modificare facilmente la cartella di lavoro in base alle proprie esigenze. Puoi aggiungere un nuovo foglio alla cartella di lavoro, assegnare un nome, impostare caratteri di tua scelta, applicare stili alle celle, eliminare un foglio e molto altro. Puoi anche creare una cartella di lavoro da un file modello SmartMarker con solo un paio di righe di codice.
     </p>
    </div>
    <div class="col-lg-12">

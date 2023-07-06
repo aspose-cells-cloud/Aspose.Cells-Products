@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için SAYILARI PNG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: NUMBERS biçim dosyasını PNG biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

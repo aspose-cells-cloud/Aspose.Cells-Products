@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ SXC باسم MD API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق SXC كملف بتنسيق MD.
 url: /ar/android/saveas/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لحفظ SXC كـ MD" h2="مكتبة Android لحفظ SXC كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ SXC كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/sxc-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="أندرويد API لحفظ SXC كـ MD" h2="مكتبة Android لحفظ SXC كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ SXC كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/sxc-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC باسم MD في Android" >}}

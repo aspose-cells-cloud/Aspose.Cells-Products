@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les formes sur Microsoft Excel et Ope
 url: /fr/ruby/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour effacer les formes sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Ruby Clear pour effacer les formes sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les formes sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Ruby. Cette solution professionnelle efface les formes sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Ruby." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API pour effacer les formes sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Ruby Clear pour effacer les formes sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les formes sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Ruby. Cette solution professionnelle efface les formes sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Ruby." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les formes sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Ruby REST API" >}}

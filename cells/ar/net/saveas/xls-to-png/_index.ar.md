@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS كـ PNG API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLS كملف بتنسيق PNG.
 url: /ar/net/saveas/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

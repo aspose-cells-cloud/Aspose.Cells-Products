@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie HTML als ODS API für Android
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title: Speichern Sie HTML als ODS API für Android
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Android, um die Datei im HTML-Format als ODS-Formatdatei zu speichern.
 url: /de/android/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,10 +10,10 @@ url: /de/android/saveas/html-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine HTML-Datei als ODS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus HTML als ODS ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu ODS werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle HTML beibehalten wird. Unsere Android-Bibliothek ist eine professionelle Lösung, um HTML als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte ODS-Ausgabe.
+Das Speichern von Dateiformaten ab HTML als ODS ist eine komplexe Aufgabe. Alle Übergänge vom Format HTML zum ODS-Format werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um HTML als ODS-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von HTML im ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von HTML als ODS-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -36,15 +36,15 @@ Das Speichern von Dateiformaten aus HTML als ODS ist eine komplexe Aufgabe. Alle
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um HTML als ODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

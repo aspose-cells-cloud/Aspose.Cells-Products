@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSB كـ TSV API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLSB كملف بتنسيق TSV.
 url: /ar/perl/saveas/xlsb-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

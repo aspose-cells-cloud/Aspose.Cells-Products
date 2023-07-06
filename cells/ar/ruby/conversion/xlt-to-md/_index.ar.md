@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT إلى MD - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLT إلى ملف بتنسيق MD.
 url: /ar/ruby/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

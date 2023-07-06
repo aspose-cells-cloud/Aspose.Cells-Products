@@ -1,6 +1,6 @@
 ﻿---
-title:  TSV'yi Perl için JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TSV'yi Perl için JSON API olarak kaydedin
+description:  TSV format dosyasını JSON format dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl kullanılıyor.
 url: /tr/perl/saveas/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

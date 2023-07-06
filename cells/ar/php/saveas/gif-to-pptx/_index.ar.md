@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ PPTX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق GIF كملف بتنسيق PPTX.
 url: /ar/php/saveas/gif-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Exporter WORKSHEET vers DOCX à partir d'une feuille de calcul à l'aide de Go API
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers Excel et d'objets internes vers des types de fichiers de format. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/go/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour exporter la FEUILLE DE TRAVAIL vers un fichier DOCX" h2="Aller à la bibliothèque pour exporter WORKSHEET vers un fichier DOCX" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Go. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format DOCX à partir d\'une feuille de calcul en ligne à l\'aide de Go." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour exporter WORKSHEET vers un fichier DOCX" h2="Aller à la bibliothèque pour exporter WORKSHEET vers un fichier DOCX" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans Go. Il s\'agit d\'une solution professionnelle pour exporter WORKSHEET vers un fichier au format DOCX à partir d\'une feuille de calcul en ligne à l\'aide de Go." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKSHEET vers un fichier au format DOCX dans Go" >}}

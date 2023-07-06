@@ -1,6 +1,6 @@
 ﻿---
 title:  Cloud'daki yerel çalışma kitabındaki yinelenen satırları temizle
-description: Microsoft Excel ve OpenOffice Calc üzerinde yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki yinelenen satırları temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Microsoft Excel ve OpenOffice Calc üzerinde yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki yinelenen satırları temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

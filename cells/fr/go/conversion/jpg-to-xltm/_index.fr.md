@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en XLTM API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format JPG en fichier au format XLTM.
 url: /fr/go/conversion/jpg-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

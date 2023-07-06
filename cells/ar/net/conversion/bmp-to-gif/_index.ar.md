@@ -1,6 +1,6 @@
 ﻿---
-title: BMP إلى GIF تحويل API عن C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  BMP إلى GIF تحويل API عن C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق BMP إلى ملف بتنسيق GIF.
 url: /ar/net/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

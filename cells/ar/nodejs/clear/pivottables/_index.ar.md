@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/nodejs/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح الجداول المحورية على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح الجداول المحورية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح الجداول المحورية على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح الجداول المحورية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - NodeJS REST API" >}}

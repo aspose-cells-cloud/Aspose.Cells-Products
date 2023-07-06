@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT باسم JSON API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLT كملف بتنسيق JSON.
 url: /ar/ruby/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/saveas/xlt-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT بتنسيق JSON في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLT كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى JSON بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ XLT كملفات JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من XLT كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى JSON بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ XLT كملفات JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ XLT بتنسيق JSON" gistPath="" %}}

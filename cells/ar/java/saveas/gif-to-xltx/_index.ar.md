@@ -1,6 +1,6 @@
 ﻿---
 title:  حفظ GIF باسم XLTX API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق GIF كملف بتنسيق XLTX.
 url: /ar/java/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSB'den TXT'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSB'den TXT'ye Dönüştürme API için Python
+description:  XLSB biçimli dosyayı TXT biçimli dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

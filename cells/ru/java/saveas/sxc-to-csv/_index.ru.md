@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как CSV API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата SXC в виде файла формата CSV.
 url: /ru/java/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/sxc-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как CSV по адресу Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в формате CSV — сложная задача. Все переходы между форматами SXC и CSV выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для сохранения SXC в виде файлов CSV в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод в формате CSV.
+Сохранение форматов файлов из SXC в формате CSV — сложная задача. Все переходы формата SXC в формат CSV выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Java — это профессиональное решение для сохранения SXC в виде файлов CSV в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения SXC в формате CSV" gistPath="" %}}

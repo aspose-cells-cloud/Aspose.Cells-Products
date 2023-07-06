@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните MHTML как DIF API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата MHTML в виде файла формата DIF.
 url: /ru/nodejs/saveas/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения MHTML как DIF" h2="Библиотека NodeJS для сохранения MHTML как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения MHTML как DIF и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/mhtml-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения MHTML как DIF" h2="Библиотека NodeJS для сохранения MHTML как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения MHTML в формате DIF и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/mhtml-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как DIF в NodeJS." >}}

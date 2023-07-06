@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX en XLSM API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format XLTX en fichier au format XLSM.
 url: /fr/java/conversion/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

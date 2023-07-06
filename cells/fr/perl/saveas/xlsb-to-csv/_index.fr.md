@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer XLSB au format CSV API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer XLSB au format CSV API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSB en tant que fichier au format CSV.
 url: /fr/perl/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

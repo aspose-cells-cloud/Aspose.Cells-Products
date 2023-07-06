@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX till SXC Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera XLTX-formatfil till SXC-formatfil.
 url: /sv/android/conversion/xltx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

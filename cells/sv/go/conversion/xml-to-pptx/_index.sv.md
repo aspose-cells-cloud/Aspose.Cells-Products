@@ -1,6 +1,6 @@
 ﻿---
 title:  XML till PPTX Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Go för att konvertera XML-formatfil till PPTX-formatfil.
 url: /sv/go/conversion/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

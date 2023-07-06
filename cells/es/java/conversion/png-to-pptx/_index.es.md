@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG a PPTX Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: PNG a PPTX Convertir API for Java
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato PNG a un archivo de formato PPTX.
 url: /es/java/conversion/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

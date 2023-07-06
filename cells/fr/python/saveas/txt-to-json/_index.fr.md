@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez TXT sous JSON API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez TXT sous JSON API pour Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format TXT en tant que fichier au format JSON.
 url: /fr/python/saveas/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

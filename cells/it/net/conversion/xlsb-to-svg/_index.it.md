@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB in SVG Converti API in C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XLSB in SVG Converti API in C#
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato XLSB nel file in formato SVG.
 url: /it/net/conversion/xlsb-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como SQL API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato XLSX como archivo de formato SQL.
 url: /es/ruby/saveas/xlsx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

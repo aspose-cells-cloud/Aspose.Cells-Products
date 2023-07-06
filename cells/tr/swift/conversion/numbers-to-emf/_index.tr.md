@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI EMF'e Swift için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/numbers-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Swift\'de EMF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-NUMBERS olan dosya formatlarını EMF'e dönüştürmek karmaşık bir iştir. Tüm NUMBERS - EMF biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi olarak EMF dosyaya dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
+NUMBERS olan dosya formatlarını EMF'e dönüştürmek karmaşık bir iştir. EMF biçimine tüm NUMBERS geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi olarak EMF dosyaya dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SAYILARI EMF biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

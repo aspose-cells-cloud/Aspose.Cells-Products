@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le tabelle pivot su Microsoft Excel 
 url: /it/android/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Cancella Android per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le tabelle pivot nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Android. Questa soluzione professionale cancella le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Cancella Android per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le tabelle pivot nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Android. Questa soluzione professionale cancella le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Android REST API" >}}

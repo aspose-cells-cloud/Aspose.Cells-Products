@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JPG в XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата JPG в файл формата XML.
 url: /ru/python/conversion/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/jpg-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XML в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XML — сложная задача. Все переходы между форматами JPG и XML выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JPG в XML. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из JPG в XML — сложная задача. Все переходы между форматами JPG и XML выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JPG в XML. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования JPG в формат XML" gistPath="" %}}

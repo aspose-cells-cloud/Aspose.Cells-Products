@@ -1,6 +1,6 @@
 ﻿---
-title:  قم بتصدير WORKSHEET إلى JPG من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title: قم بتصدير WORKSHEET إلى JPG من جدول البيانات باستخدام C# API
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/net/export/worksheet-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/export/worksheet-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق JPG في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف JPG من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKSHEET إلى تنسيق JPG بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق JPG عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج JPG مثالي.
+يعد تصدير كائن WORKSHEET إلى ملف JPG من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKSHEET إلى تنسيق JPG بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق JPG عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج JPG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتصدير WORKSHEET إلى تنسيق JPG من جدول البيانات" gistPath="" %}}

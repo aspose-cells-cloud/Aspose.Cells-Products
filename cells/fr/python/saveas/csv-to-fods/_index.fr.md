@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer CSV sous FODS API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format CSV en tant que fichier au format FODS.
 url: /fr/python/saveas/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer CSV en tant que FODS" h2="Bibliothèque Python pour enregistrer CSV en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer CSV en tant que FODS et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/csv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer CSV en tant que FODS" h2="Bibliothèque Python pour enregistrer CSV en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer CSV en tant que FODS et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/csv-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV en tant que FODS au Python" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить ODS как CSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить ODS как CSV API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата ODS в виде файла формата CSV.
 url: /ru/nodejs/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

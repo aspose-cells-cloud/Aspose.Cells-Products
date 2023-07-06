@@ -1,5 +1,5 @@
 ﻿---
-title:  Excel FODS'i ODS via Ruby'ye dönüştür
+title: Excel FODS'i ODS via Ruby'ye dönüştür
 description: REST API ve Açık Kaynak Ruby SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
 url: /tr/ruby/conversion/fods-to-ods/
 family: cells

@@ -1,6 +1,6 @@
 ﻿---
-title:  Android için XLT'den MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Android için XLT'den MD'ye Dönüştürme API
+description:  XLT biçim dosyasını MD biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xlt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Android\'de MD\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den MD'ye dönüştürmek karmaşık bir iştir. Tüm XLT'den MD formatına geçişler, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLT'yi çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
+Dosya formatlarını XLT'den MD'ye dönüştürmek karmaşık bir iştir. Tüm XLT'den MD'ye format geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLT'yi çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi MD formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

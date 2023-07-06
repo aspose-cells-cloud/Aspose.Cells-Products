@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM в PNG Конвертировать API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата XLTM в файл формата PNG.
 url: /ru/java/conversion/xltm-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

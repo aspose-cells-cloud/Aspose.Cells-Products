@@ -1,16 +1,16 @@
 ﻿---
-title:  CSV in ODS konvertieren API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  CSV in ODS Konvertieren Sie API in PHP
+description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im CSV-Format in eine Datei im ODS-Format.
 url: /de/php/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um CSV in ODS zu konvertieren" h2="PHP-Bibliothek zum Konvertieren von CSV in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von CSV in ODS und andere Dokumentformate unter Verwendung von PHP." urlsection="conversion/csv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von CSV in ODS" h2="PHP-Bibliothek zum Konvertieren von CSV in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um CSV in ODS und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/csv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in ODS in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in ODS ist eine komplexe Aufgabe. Alle Formatübergänge von CSV zu ODS werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um CSV-Dateien online in ODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in ODS ist eine komplexe Aufgabe. Alle CSV-zu-ODS-Formatübergänge werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in ODS-Dateien. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von CSV in das ODS-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von CSV in ODS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um CSV in ODS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API zum Konvertieren von CSV in ODS" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

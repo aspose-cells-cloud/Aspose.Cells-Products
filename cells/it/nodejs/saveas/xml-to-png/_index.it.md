@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XML come PNG API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato XML come file in formato PNG.
 url: /it/nodejs/saveas/xml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

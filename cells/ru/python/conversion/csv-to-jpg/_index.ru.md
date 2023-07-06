@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование CSV в JPG API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование CSV в JPG API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата CSV в файл формата JPG.
 url: /ru/python/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

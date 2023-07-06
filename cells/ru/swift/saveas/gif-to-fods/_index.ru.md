@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить GIF как FODS API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить GIF как FODS" h2="Библиотека Swift для сохранения GIF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения GIF в виде FODS и других форматов документов в Интернете с использованием Swift." urlsection="saveas/gif-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить GIF как FODS" h2="Библиотека Swift для сохранения GIF как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения GIF в виде FODS и других форматов документов онлайн с помощью Swift." urlsection="saveas/gif-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как FODS в Swift" >}}

@@ -4,7 +4,7 @@ description: Cloud API och SDK för att rensa bakgrund på Microsoft Excel & Ope
 url: /sv/java/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Java Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Java. Denna professionella lösning tydliggör bakgrunden på lokala Microsoft Microsoft Microsoft 07161634 och 4c 4c64 och 4c 64 kalkylblad med OpenOffice 64 och 4c 4c 64 och 4c 4c 634." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Java Rensa för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala Microsoft Excel och OpenOffice Calc kalkylarksarbetsflöden i Java. Denna professionella lösning tydliggör bakgrunden på lokala Microsoft Microsoft Microsoft 07161634 och 4c 4c64 och 4c 64 kalkylblad med OpenOffice 64 och 4c 4c 64 och 4c 4c 634." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa bakgrund på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Java REST API" >}}

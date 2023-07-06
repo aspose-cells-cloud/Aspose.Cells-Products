@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить MHTML как XLSB API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохраните MHTML как XLSB API для Ruby
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата MHTML в виде файла формата XLSB.
 url: /ru/ruby/saveas/mhtml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

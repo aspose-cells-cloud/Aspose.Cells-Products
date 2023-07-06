@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как EMF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB как файла формата EMF.
 url: /ru/java/saveas/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

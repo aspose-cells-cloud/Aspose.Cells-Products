@@ -1,19 +1,19 @@
 ﻿---
-title:  PNG in EMF Wandeln Sie API in Python um
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in EMF Konvertieren Sie API in Python
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Python, um eine Datei im Format PNG in eine Datei im Format EMF zu konvertieren.
 url: /de/python/conversion/png-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API um PNG in EMF umzuwandeln" h2="Python-Bibliothek zum Konvertieren von PNG in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von PNG in EMF und andere Dokumentformate unter Verwendung von Python." urlsection="conversion/png-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um PNG in EMF umzuwandeln" h2="Python-Bibliothek zum Konvertieren von PNG in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um PNG in EMF und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/png-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in EMF in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in EMF ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu EMF werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PNG-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um PNG-Dateien online in EMF-Dateien zu konvertieren. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte EMF-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in EMF ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu EMF werden von unserem Python SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um PNG-Dateien online in EMF-Dateien zu konvertieren. Dieses Cloud SDK bietet Entwicklern leistungsstarke Funktionalität und eine perfekte EMF Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von PNG in das Format EMF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren des Formats PNG in das Format EMF" gistPath="" %}}
  
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -29,9 +29,9 @@ Das Konvertieren von Dateiformaten von PNG in EMF ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um PNG in EMF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

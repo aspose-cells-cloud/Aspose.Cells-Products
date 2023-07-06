@@ -1,10 +1,10 @@
 ﻿---
-title:  Расшифровать облачные таблицы с помощью пароля в облаке
+title:  Расшифровать облачные таблицы с паролем в облаке
 description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc расшифровывают с помощью пароля облачные файлы. Расшифруйте облачные таблицы с помощью Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/android/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Android для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Android. Это профессиональное решение расшифровывает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей с помощью Android." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Android для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Android. Это профессиональное решение расшифровывает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей с помощью Android." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Расшифровать облако Microsoft Excel и электронную таблицу OpenOffice Calc с паролем — Android REST API" >}}

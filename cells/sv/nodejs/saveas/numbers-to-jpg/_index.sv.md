@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara NUMBERS som JPG API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara NUMBERS som JPG API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara NUMBERS-formatfilen som JPG-formatfil.
 url: /sv/nodejs/saveas/numbers-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için PNG'i MD API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını MD biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

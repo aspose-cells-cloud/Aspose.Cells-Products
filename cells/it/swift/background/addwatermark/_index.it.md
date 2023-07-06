@@ -1,6 +1,6 @@
 ﻿---
-title: Aggiungi filigrana per la cartella di lavoro locale in Cloud
-description:  API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc. Aggiunta di filigrana per fogli di calcolo locali da parte del Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Aggiungi filigrana per la cartella di lavoro locale in Cloud
+description: API cloud e SDK per l'aggiunta di filigrana per Microsoft Excel e OpenOffice Calc. Aggiunta di filigrana per fogli di calcolo locali da parte del Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLSM'den TXT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSM formatındaki dosyayı TXT formatındaki dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xlsm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlsm-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSM dosyasını NodeJS\'de TXT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSM'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den TXT formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSM'yi çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+Dosya formatlarını XLSM'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den TXT formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSM'yi çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSM\'yi TXT formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

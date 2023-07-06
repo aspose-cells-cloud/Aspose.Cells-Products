@@ -1,10 +1,10 @@
 ﻿---
 title:  XML a XLSM Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XML a un archivo de formato XLSM.
 url: /es/go/conversion/xml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya API para convertir XML a XLSM" h2="Ir a la biblioteca para convertir XML a XLSM" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XML a XLSM y otros formatos de documentos en línea usando Go." urlsection="conversion/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para convertir XML a XLSM" h2="Ir a la biblioteca para convertir XML a XLSM" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XML a XLSM y otros formatos de documentos en línea usando Go." urlsection="conversion/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XML a XLSM en Go" >}}

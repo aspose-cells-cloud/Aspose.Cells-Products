@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как SXC API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата ODS в виде файла формата SXC.
 url: /ru/go/saveas/ods-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/ods-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как SXC в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде SXC — сложная задача. Все переходы от формата ODS к формату SXC выполняются с помощью нашего Go SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде файлов SXC онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SXC.
+Сохранение форматов файлов из ODS в виде SXC — сложная задача. Все переходы от формата ODS к формату SXC выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде файлов SXC онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате SXC" gistPath="" %}}

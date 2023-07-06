@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSB كملف CSV API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSB كملف بتنسيق CSV.
 url: /ar/go/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لحفظ XLSB كملف CSV" h2="انتقل إلى المكتبة لحفظ XLSB كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ XLSB كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xlsb-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لحفظ XLSB كملف CSV" h2="اذهب إلى المكتبة لحفظ XLSB كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Go. هذا حل احترافي لحفظ XLSB كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="saveas/xlsb-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كملف CSV في Go" >}}

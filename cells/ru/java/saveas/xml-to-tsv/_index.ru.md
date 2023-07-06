@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как TSV API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XML в виде файла формата TSV.
 url: /ru/java/saveas/xml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/xml-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как TSV в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде TSV — сложная задача. Все переходы между форматами XML и TSV выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для сохранения XML в виде файлов TSV в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из XML в виде TSV — сложная задача. Все переходы между форматами XML и TSV выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для сохранения XML в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XML в формате TSV" gistPath="" %}}

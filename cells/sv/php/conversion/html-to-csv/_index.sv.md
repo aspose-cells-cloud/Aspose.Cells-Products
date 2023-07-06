@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till CSV Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i HTML-format till fil i CSV-format.
 url: /sv/php/conversion/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

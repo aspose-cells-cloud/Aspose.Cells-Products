@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSX كـ TIFF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSX كملف بتنسيق TIFF.
 url: /ar/android/saveas/xlsx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSX كـ TIFF" h2="مكتبة Android لحفظ XLSX كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSX كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSX كـ TIFF" h2="مكتبة Android لحفظ XLSX كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSX كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX بالشكل TIFF في Android" >}}

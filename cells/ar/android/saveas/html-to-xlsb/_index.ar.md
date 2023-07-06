@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ HTML كـ XLSB API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ HTML كـ XLSB API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق HTML كملف بتنسيق XLSB.
 url: /ar/android/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ HTML كـ XLSB" h2="مكتبة Android لحفظ HTML كـ XLSB" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ HTML كـ XLSB وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ HTML كـ XLSB" h2="مكتبة Android لحفظ HTML كـ XLSB" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ HTML كـ XLSB وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML باسم XLSB في Android" >}}

@@ -4,7 +4,7 @@ description: API cloud e SDK per la cancellazione delle formule su Microsoft Exc
 url: /it/android/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le formule nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Android. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le formule nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Android. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Chiare formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Android REST API" >}}
@@ -13,7 +13,7 @@ url: /it/android/clear/formulas/
 Cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc è un compito complesso. La cancellazione delle formule sulle transizioni del foglio di calcolo locale Microsoft Excel e OpenOffice Calc viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine. La nostra libreria Android è una soluzione professionale per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codice Android per cancellare le formule sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Formula.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codice Android per cancellare le formule sui fogli di lavoro locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Formula.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

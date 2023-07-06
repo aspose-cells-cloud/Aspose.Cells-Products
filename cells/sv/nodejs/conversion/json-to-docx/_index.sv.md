@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON till DOCX Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: JSON till DOCX Konvertera API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i JSON-format till fil i DOCX-format.
 url: /sv/nodejs/conversion/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

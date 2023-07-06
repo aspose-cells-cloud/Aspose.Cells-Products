@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till WMF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera XLSB-formatfil till WMF-formatfil.
 url: /sv/nodejs/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

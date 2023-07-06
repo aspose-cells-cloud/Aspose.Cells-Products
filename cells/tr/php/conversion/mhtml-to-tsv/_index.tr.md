@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML'den TSV'ye Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  MHTML'den TSV'ye Dönüştürme API için PHP
+description: MHTML formatındaki dosyayı TSV formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

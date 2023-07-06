@@ -1,10 +1,10 @@
 ﻿---
-title:  Crypter la feuille de calcul locale avec un mot de passe dans le cloud
-description:  API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc. Chiffrez les feuilles de calcul locales avec un mot de passe par le Cells Cloud API. Le SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Crypter la feuille de calcul locale avec un mot de passe avec Android dans le cloud
+description:  API Cloud et SDK pour protéger Microsoft Excel et OpenOffice Calc avec Android. Chiffrez les feuilles de calcul locales avec un mot de passe par le SDK Cells Cloud API pour Android.
 url: /fr/android/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Android pour protéger le tableur local Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Android. Cette solution professionnelle protège Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe utilisant Android." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec mot de passe" h2="Bibliothèque Android pour protéger le tableur local Microsoft Excel et OpenOffice Calc avec mot de passe" p="Utilisez Cells Protect REST API pour protéger la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec les workflows de mot de passe dans Android. Cette solution professionnelle protège Microsoft Excel et la feuille de calcul OpenOffice Calc en ligne avec des mots de passe utilisant Android." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Protégez la feuille de calcul locale Microsoft Excel et OpenOffice Calc avec un mot de passe - Android REST API" >}}

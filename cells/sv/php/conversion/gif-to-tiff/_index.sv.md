@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF till TIFF Konvertera API till PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: GIF till TIFF Konvertera API till PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i GIF-format till fil i TIFF-format.
 url: /sv/php/conversion/gif-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

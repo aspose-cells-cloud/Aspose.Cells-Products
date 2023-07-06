@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/go/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Go REST API" >}}

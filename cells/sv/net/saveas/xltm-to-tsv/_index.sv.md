@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTM som TSV API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara XLTM-formatfil som TSV-formatfil.
 url: /sv/net/saveas/xltm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

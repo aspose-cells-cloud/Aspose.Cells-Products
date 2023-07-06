@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en DOCX API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLS en fichier au format DOCX.
 url: /fr/python/conversion/xls-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

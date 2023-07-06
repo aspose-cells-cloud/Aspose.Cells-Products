@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som TIFF API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara PNG filformat som TIFF filformat.
 url: /sv/php/saveas/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

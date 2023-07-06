@@ -1,6 +1,6 @@
 ﻿---
-title: EMF إلى SQL - تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  EMF إلى SQL - تحويل API لـ PHP
+description: استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق EMF إلى ملف بتنسيق SQL.
 url: /ar/php/conversion/emf-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

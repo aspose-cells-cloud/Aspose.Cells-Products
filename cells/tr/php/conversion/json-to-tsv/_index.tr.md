@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan TSV'ye Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: JSON biçim dosyasını TSV biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/json-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

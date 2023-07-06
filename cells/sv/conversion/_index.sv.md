@@ -1,6 +1,6 @@
 ﻿---
 title:  Omvandling
-description: Aspose.Cells Cloud REST API stöder konvertering av Excel-filer till olika typer av formatfiler. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder konvertering av Excel-filer till olika typer av formatfiler. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,9 +23,9 @@ url: /sv/conversion/
 	<li><b>Bilder:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Övrig:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Utmatningsformat</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Utmatningsformat</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Word/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Öppet kontor:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>SpreadsheetML, XML</li>
 	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
@@ -42,13 +42,13 @@ url: /sv/conversion/
 
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Konvertering Xlsx till Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Konvertering av Xlsx till Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Konvertering Xlsx till Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-csv/" >}}
 
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering av Xlsx till pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering Xlsx till Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-json/" >}}
 
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering av Xlsx till Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Python" title="Konvertering Xlsx till Csv" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/python/conversion/xlsx-to-csv/" >}}
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Stöds utveckla språk" >}}

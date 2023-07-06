@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLT كـ JSON API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ JSON API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLT كملف بتنسيق JSON.
 url: /ar/net/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

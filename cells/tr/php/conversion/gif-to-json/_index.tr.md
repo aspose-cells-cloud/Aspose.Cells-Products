@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF'i JSON'a Dönüştür API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  GIF formatındaki dosyayı JSON formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLSX'den TSV'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLSX biçim dosyasını TSV biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xlsx-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLSX dosyasını TSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSX'ten TSV'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten TSV'ye format geçişleri, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSX'i çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+Dosya formatlarını XLSX'ten TSV'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten TSV formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSX'i çevrimiçi olarak TSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i TSV biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

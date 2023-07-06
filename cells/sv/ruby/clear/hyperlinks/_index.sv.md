@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa hyperlänkar på Microsoft
 url: /sv/ruby/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning rensar hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Ruby Clear för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Ruby. Denna professionella lösning rensar hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Ruby." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как MD API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата JPG в виде файла формата MD.
 url: /ru/net/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/jpg-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде MD — сложная задача. Все переходы между форматами JPG и MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека C# — это профессиональное решение для сохранения файлов JPG в формате MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из JPG в виде MD — сложная задача. Все переходы между форматами JPG и MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека C# — это профессиональное решение для сохранения файлов JPG в формате MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения JPG в формате MD" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Exportera SHAPE till JPG från kalkylblad med Ruby API
-description:  Aspose.Cells Cloud REST API stöder export av Excel-filer och interna objekt till olika formatfiler. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Exportera SHAPE till JPG från kalkylblad med Ruby API
+description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
 url: /sv/ruby/export/shape-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/ruby/export/shape-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera SHAPE-objekt till JPG-formatfil i Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera SHAPE-objekt till JPG-fil från kalkylblad är en komplex uppgift. Export av SHAPE till JPG-formatövergångar utförs av vår Ruby SDK samtidigt som källbladets SHAPE-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera SHAPE-objekt till JPG-formatfiler online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
+Exportera SHAPE-objekt till JPG-fil från kalkylblad är en komplex uppgift. Export av SHAPE till JPG-formatövergångar utförs av vår Ruby SDK samtidigt som källarket SHAPEs huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Ruby-bibliotek är en professionell lösning för att exportera SHAPE-objekt till JPG-formatfiler online. Denna Cloud SDK ger Ruby-utvecklare kraftfull funktionalitet och perfekt JPG-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Ruby med REST API för att exportera SHAPE till JPG-format från kalkylark" gistPath="" %}}

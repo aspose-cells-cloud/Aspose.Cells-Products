@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ TSV كملف CSV API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ TSV كملف CSV API من أجل Ruby
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TSV كملف بتنسيق CSV.
 url: /ar/ruby/saveas/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

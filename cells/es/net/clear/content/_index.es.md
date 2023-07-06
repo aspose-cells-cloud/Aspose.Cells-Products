@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar contenido en Microsoft Excel y Op
 url: /es/net/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="C# Clear to clear contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en Microsoft Excel local y flujos de trabajo de hoja de cálculo OpenOffice Calc en C#. Esta solución profesional borra contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando C#." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API para borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="C# Clear to clear contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en Microsoft Excel local y flujos de trabajo de hoja de cálculo OpenOffice Calc en C#. Esta solución profesional borra contenido en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando C#." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - C# REST API" >}}

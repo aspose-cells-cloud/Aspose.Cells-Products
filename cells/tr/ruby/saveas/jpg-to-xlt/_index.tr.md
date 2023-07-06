@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JPG'yi XLT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı XLT formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/saveas/jpg-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Очистить проверки локальной книги в облаке
-description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Облачные API и SDK для очистки проверок на Microsoft Excel и OpenOffice Calc. Четкие проверки локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

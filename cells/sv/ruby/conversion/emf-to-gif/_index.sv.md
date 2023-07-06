@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF till GIF Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: EMF till GIF Konvertera API för Ruby
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera EMF filformat till GIF-format fil.
 url: /sv/ruby/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

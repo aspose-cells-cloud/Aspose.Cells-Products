@@ -1,13 +1,13 @@
 ﻿---
 title:  Сохранить CSV как JPG API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата CSV в виде файла формата JPG.
 url: /ru/android/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения CSV в формате JPG" h2="Библиотека Android для сохранения CSV в формате JPG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения CSV как JPG и других форматов документов онлайн с помощью Android." urlsection="saveas/csv-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение CSV-файла в формате JPG на Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV в формате JPG на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы формата CSV в формат JPG выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для сохранения файлов CSV в формате JPG онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.

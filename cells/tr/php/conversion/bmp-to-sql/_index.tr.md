@@ -1,6 +1,6 @@
 ﻿---
-title: BMP'i PHP için SQL API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  BMP'i PHP için SQL API'e Dönüştür
+description: BMP biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/bmp-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

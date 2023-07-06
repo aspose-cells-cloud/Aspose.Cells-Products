@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в PDF Конвертировать API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата PNG в файл формата PDF.
 url: /ru/android/conversion/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

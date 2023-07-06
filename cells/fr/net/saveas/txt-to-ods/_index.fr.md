@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez TXT sous ODS API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez TXT sous ODS API pour C#
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format TXT en tant que fichier au format ODS.
 url: /fr/net/saveas/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

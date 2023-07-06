@@ -1,6 +1,6 @@
 ﻿---
 title:  Exportera LISTOBJECT till SQL från kalkylblad med Perl API
-description:  Aspose.Cells Cloud REST API stöder export av Excel-filer och interna objekt till olika formatfiler. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder export av filer från {0} till {1}-format med {2}.
 url: /sv/perl/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

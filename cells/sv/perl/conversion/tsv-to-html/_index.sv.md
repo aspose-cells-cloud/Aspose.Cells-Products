@@ -1,6 +1,6 @@
 ﻿---
-title: TSV till HTML Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  TSV till HTML Konvertera API till Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i TSV-format till fil i HTML-format.
 url: /sv/perl/conversion/tsv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT بتنسيق XML API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TXT كملف بتنسيق XML.
 url: /ar/ruby/saveas/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

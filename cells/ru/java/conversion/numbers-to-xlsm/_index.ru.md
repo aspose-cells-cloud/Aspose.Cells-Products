@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в XLSM API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата NUMBERS в файл формата XLSM.
 url: /ru/java/conversion/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/conversion/numbers-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XLSM в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XLSM — сложная задача. Все преобразования форматов NUMBERS в XLSM выполняются нашим SDK Java, при этом основное структурное и логическое содержание исходной электронной таблицы NUMBERS сохраняется. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XLSM. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из NUMBERS в XLSM — сложная задача. Все преобразования форматов NUMBERS в XLSM выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XLSM. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат XLSM" gistPath="" %}}

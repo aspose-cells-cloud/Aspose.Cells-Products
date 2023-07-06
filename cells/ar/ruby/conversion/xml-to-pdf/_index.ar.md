@@ -1,6 +1,6 @@
 ﻿---
 title:  XML إلى PDF تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XML إلى ملف بتنسيق PDF.
 url: /ar/ruby/conversion/xml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

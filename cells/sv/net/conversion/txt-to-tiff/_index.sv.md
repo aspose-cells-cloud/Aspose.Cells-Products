@@ -1,6 +1,6 @@
 ﻿---
-title: TXT till TIFF Konvertera API till C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  TXT till TIFF Konvertera API till C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera fil i TXT-format till fil i TIFF-format.
 url: /sv/net/conversion/txt-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -12,9 +12,9 @@ url: /ru/php
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK для PHP создан для разработчиков, чтобы помочь им улучшить свои облачные приложения для создания, просмотра и конвертации электронных таблиц, запрограммированные в PHP. Наш Excel облачный SDK для обработки документов основан на Aspose.Cells REST API. Aspose.Cells Cloud SDK для PHP доступен по ссылке ниже. лицензия MIT.</p>
+<p>Aspose.Cells Cloud SDK для PHP создан для разработчиков, чтобы помочь им улучшить свои облачные приложения для создания, просмотра и преобразования электронных таблиц, запрограммированные в PHP. Наш Excel облачный SDK для обработки документов основан на Aspose.Cells REST API. Aspose.Cells Cloud SDK для 07617 3481 доступен по ссылке лицензия MIT.</p>
 <p>Создайте лист Excel в PHP, работайте с автофигурами, автофильтрами, книгами, листами, строками, ячейками, диаграммами, условным форматированием, ListObjects, гиперссылками, OleObjects, сводными таблицами, фигурами, диапазонами, задачами, безопасностью, проверкой листов и облаком хранилище файлов, все с использованием простого Aspose.Cells Cloud SDK для PHP.</p>
-<p>Он также позволяет вашему коду PHP преобразовывать электронные таблицы Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и OpenOffice (ODS) в PDF, XPS, TIFF, SVG, Markdown и MD (Markdown и MD).</p>
+<p>Он также позволяет вашему коду PHP преобразовывать электронные таблицы Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и OpenOffice (ODS) в PDF, XPS, TIFF, SVG, DIF. , & MD (уценка).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -43,7 +43,7 @@ url: /ru/php
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
@@ -146,7 +146,7 @@ url: /ru/php
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Удалить определенные или все объекты ListObject на листе
+ Удалить определенные или все объекты ListObject на листе
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /ru/php
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">

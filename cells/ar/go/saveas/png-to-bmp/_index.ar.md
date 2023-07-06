@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ BMP API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق PNG كملف بتنسيق BMP.
 url: /ar/go/saveas/png-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

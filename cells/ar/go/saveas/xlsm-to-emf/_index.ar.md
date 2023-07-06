@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM بالشكل EMF API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSM كملف بتنسيق EMF.
 url: /ar/go/saveas/xlsm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

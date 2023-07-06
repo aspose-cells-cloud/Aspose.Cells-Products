@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar contenido en Microsoft Excel y Op
 url: /es/nodejs/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Borrar para borrar el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar contenido en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra el contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar contenido en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. üzerindeki boş satırları te
 url: /tr/ruby/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizlemek için Ruby API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki boş satırları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizler." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizlemek için Ruby API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki boş satırları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizler." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki boş satırları temizleyin - Ruby REST API" >}}

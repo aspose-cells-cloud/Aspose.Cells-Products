@@ -1,10 +1,10 @@
 ﻿---
-title: SXC a XLT Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  SXC a XLT Convertir API para Perl
+description: Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato SXC a un archivo de formato XLT.
 url: /es/perl/conversion/sxc-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir SXC a XLT" h2="Perl biblioteca para convertir SXC a XLT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir SXC a XLT y otros formatos de documentos en línea usando Perl." urlsection="conversion/sxc-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir SXC a XLT" h2="Perl biblioteca para convertir SXC a XLT" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir SXC a XLT y otros formatos de documentos en línea usando Perl." urlsection="conversion/sxc-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo SXC a XLT en Perl" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XML'i PHP için WMF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XML'i PHP için WMF API olarak kaydedin
+description:  XML biçim dosyasını WMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

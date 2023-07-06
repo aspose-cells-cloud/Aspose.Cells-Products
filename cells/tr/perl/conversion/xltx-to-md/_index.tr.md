@@ -1,6 +1,6 @@
 ﻿---
-title: Perl için XLTX'den MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Perl için XLTX'den MD'ye Dönüştürme API
+description:  XLTX biçim dosyasını MD biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование XML в XLSM API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата XML в файл формата XLSM.
 url: /ru/php/conversion/xml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XML в XLSM" h2="PHP библиотека для преобразования XML в XLSM" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-преобразования XML в XLSM и другие форматы документов с использованием PHP." urlsection="conversion/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в XLSM в PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XML в XLSM в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XML в XLSM — сложная задача. Все переходы между форматами XML и XLSM выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XML в XLSM. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLSM.
@@ -39,7 +39,7 @@ url: /ru/php/conversion/xml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XML в XLSM" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

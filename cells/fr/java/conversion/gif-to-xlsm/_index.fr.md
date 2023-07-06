@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en XLSM API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir un fichier au format GIF en fichier au format XLSM.
 url: /fr/java/conversion/gif-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

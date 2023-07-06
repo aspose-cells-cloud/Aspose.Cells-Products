@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ PNG API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق MHTML كملف تنسيق PNG.
 url: /ar/ruby/saveas/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/saveas/mhtml-to-png/
 يعد حفظ تنسيقات الملفات من MHTML لأن PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PNG بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ MHTML كملفات PNG عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج PNG مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لحفظ MHTML بتنسيق PNG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ MHTML بتنسيق PNG" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

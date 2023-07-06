@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLSM إلى GIF API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSM إلى ملف بتنسيق GIF.
 url: /ar/java/conversion/xlsm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/java/conversion/xlsm-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى GIF في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعتبر مكتبتنا Java حلاً احترافيًا لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج GIF مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبتنا Java هي حل احترافي لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج GIF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل XLSM إلى تنسيق GIF" gistPath="" %}}

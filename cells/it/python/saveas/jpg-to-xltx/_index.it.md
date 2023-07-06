@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JPG come XLTX API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato JPG come file in formato XLTX.
 url: /it/python/saveas/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

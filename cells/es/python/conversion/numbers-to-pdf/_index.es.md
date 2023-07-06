@@ -1,6 +1,6 @@
 ﻿---
-title:  NÚMEROS a PDF Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: NÚMEROS a PDF Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato NUMBERS a un archivo de formato PDF.
 url: /es/python/conversion/numbers-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TSV come DOCX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato TSV come file in formato DOCX.
 url: /it/php/saveas/tsv-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

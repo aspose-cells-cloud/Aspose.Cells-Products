@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM в HTML Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLSM в файл формата HTML.
 url: /ru/ruby/conversion/xlsm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xlsm-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в HTML в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в HTML — сложная задача. Все переходы формата XLSM в формат HTML выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSM в HTML. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод HTML.
+Преобразование форматов файлов из XLSM в HTML — сложная задача. Все переходы формата XLSM в формат HTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSM в HTML. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLSM в формат HTML" gistPath="" %}}

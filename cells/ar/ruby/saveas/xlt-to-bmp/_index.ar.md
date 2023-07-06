@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ BMP API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLT كملف بتنسيق BMP.
 url: /ar/ruby/saveas/xlt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

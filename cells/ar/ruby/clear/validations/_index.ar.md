@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح عمليات التحقق على Micros
 url: /ar/ruby/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby Clear لمسح عمليات التحقق على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Ruby Clear لمسح عمليات التحقق على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح عمليات التحقق من صحة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}

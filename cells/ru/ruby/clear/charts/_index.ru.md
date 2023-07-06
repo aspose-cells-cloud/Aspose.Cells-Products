@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки диаграмм
 url: /ru/ruby/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение для очистки диаграмм на локальных Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение для очистки диаграмм на локальных Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить диаграммы на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

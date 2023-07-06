@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP в FODS Преобразование API в PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата BMP в файл формата FODS.
 url: /ru/php/conversion/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/conversion/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в FODS в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и отличные результаты FODS.
+Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования BMP в формат FODS" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования BMP в FODS" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

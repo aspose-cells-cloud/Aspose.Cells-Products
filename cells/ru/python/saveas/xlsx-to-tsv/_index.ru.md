@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как TSV API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSX в виде файла формата TSV.
 url: /ru/python/saveas/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/xlsx-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как TSV по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде TSV — сложная задача. Все переходы между форматами XLSX и TSV выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения файлов XLSX в формате TSV в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из XLSX в виде TSV — сложная задача. Все переходы между форматами XLSX и TSV выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения файлов XLSX в формате TSV в Интернете. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XLSX в формате TSV" gistPath="" %}}

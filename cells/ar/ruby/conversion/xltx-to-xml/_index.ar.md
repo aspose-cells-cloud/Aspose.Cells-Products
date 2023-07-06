@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل XLTX إلى XML API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLTX إلى ملف بتنسيق XML.
 url: /ar/ruby/conversion/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

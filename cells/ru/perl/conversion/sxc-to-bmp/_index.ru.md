@@ -1,6 +1,6 @@
 ﻿---
-title: SXC в BMP Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  SXC в BMP Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата SXC в файл формата BMP.
 url: /ru/perl/conversion/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/sxc-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в BMP в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в BMP — сложная задача. Все переходы формата SXC в формат BMP выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в файлы BMP. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из SXC в BMP — сложная задача. Все переходы формата SXC в формат BMP выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов SXC в файлы BMP. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования SXC в формат BMP" gistPath="" %}}

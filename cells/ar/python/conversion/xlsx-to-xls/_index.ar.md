@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى XLS تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLSX إلى ملف بتنسيق XLS.
 url: /ar/python/conversion/xlsx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

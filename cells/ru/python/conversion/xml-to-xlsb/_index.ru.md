@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в XLSB API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XML в файл формата XLSB.
 url: /ru/python/conversion/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

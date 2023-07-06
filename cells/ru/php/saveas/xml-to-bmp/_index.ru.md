@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как BMP API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML как файла формата BMP.
 url: /ru/php/saveas/xml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/xml-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как BMP в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как BMP — сложная задача. Все преобразования формата XML в формат BMP выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML-файлов в формате BMP в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат BMP.
+Сохранение форматов файлов из XML как BMP — сложная задача. Все переходы между форматами XML и BMP выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML-файлов в формате BMP в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XML в формате BMP" gistPath="" %}}

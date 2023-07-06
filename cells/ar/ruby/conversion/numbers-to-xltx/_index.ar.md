@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to XLTX Convert API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق XLTX.
 url: /ar/ruby/conversion/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

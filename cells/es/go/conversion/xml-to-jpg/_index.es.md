@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML a JPG API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato XML a un archivo de formato JPG.
 url: /es/go/conversion/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/conversion/xml-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XML a JPG en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XML a JPG es una tarea compleja. Todas las transiciones de formato XML a JPG se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XML a JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida JPG perfecta.
+Convertir formatos de archivo de XML a JPG es una tarea compleja. Todas las transiciones de formato XML a JPG son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XML a JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida JPG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir XML a formato JPG" gistPath="" %}}

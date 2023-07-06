@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als TIFF API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im JSON-Format als Datei im Format TIFF zu speichern.
 url: /de/nodejs/saveas/json-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/nodejs/saveas/json-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JSON-Datei als TIFF in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus JSON als TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von JSON zu TIFF werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JSON-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um JSON als TIFF-Dateien online zu speichern. Dieses Cloud-SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Speichern von Dateiformaten aus JSON als TIFF ist eine komplexe Aufgabe. Alle JSON-Formatübergänge in das TIFF-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JSON-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um JSON als TIFF-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von JSON im TIFF-Format" gistPath="" %}}
@@ -34,9 +34,9 @@ Das Speichern von Dateiformaten aus JSON als TIFF ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um JSON als TIFF zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC в HTML Конвертировать API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/sxc-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

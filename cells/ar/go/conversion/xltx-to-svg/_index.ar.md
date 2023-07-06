@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى SVG قم بالتحويل من API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLTX إلى ملف بتنسيق SVG.
 url: /ar/go/conversion/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

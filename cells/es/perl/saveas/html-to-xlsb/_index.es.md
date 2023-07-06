@@ -1,6 +1,6 @@
 ﻿---
-title: Guarde HTML como XLSB API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  Guarde HTML como XLSB API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato HTML como archivo de formato XLSB.
 url: /es/perl/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

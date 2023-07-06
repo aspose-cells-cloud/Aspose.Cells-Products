@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى XLSX - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TXT إلى ملف بتنسيق XLSX.
 url: /ar/ruby/conversion/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/txt-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى XLSX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TXT إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLSX بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات TXT إلى XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSX مثالي.
+يعد تحويل تنسيقات الملفات من TXT إلى XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLSX بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى XLSX عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLSX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل تنسيق TXT إلى تنسيق XLSX" gistPath="" %}}

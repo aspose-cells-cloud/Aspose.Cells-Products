@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى SXC - تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق TXT إلى ملف بتنسيق SXC.
 url: /ar/php/conversion/txt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

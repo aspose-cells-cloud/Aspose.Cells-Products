@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB'den SQL'e Dönüştürme API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçimli dosyayı SQL biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

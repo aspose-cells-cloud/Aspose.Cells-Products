@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS إلى TSV - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق ODS إلى ملف بتنسيق TSV.
 url: /ar/ruby/conversion/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

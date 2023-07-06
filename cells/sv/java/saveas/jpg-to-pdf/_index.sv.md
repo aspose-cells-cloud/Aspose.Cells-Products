@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som PDF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara JPG-formatfil som PDF-fil.
 url: /sv/java/saveas/jpg-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

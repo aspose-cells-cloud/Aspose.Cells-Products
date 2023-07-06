@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som SXC API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLSX-formatfil som SXC-formatfil.
 url: /sv/java/saveas/xlsx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

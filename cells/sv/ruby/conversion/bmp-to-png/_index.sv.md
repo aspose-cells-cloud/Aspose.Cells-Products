@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till PNG Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Ruby för att konvertera BMP filformat till PNG filformat.
 url: /sv/ruby/conversion/bmp-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

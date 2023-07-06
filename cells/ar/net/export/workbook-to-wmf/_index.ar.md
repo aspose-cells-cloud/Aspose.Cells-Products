@@ -1,6 +1,6 @@
 ﻿---
 title:  قم بتصدير كتاب العمل إلى WMF من جدول البيانات باستخدام C# API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/net/export/workbook-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/net/export/workbook-to-wmf/
 يعد تصدير كائن WORKBOOK إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق WMF بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعتبر مكتبة C# الخاصة بنا حلاً احترافيًا لتصدير كائنات كتاب العمل إلى ملفات بتنسيق WMF عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج WMF مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتصدير WORKBOOK إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتصدير كتاب العمل إلى تنسيق WMF من جدول البيانات" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/

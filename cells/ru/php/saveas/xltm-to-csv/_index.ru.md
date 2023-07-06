@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XLTM как CSV API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTM как CSV API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLTM в виде файла формата CSV.
 url: /ru/php/saveas/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения XLTM в формате CSV" h2="PHP библиотека для сохранения XLTM в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLTM в виде CSV и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения XLTM в формате CSV" h2="PHP библиотека для сохранения XLTM в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения XLTM в формате CSV и других форматов документов в Интернете с использованием PHP." urlsection="saveas/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM в формате CSV по адресу PHP." >}}

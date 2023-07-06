@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XML API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JPG в виде файла формата XML.
 url: /ru/go/saveas/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

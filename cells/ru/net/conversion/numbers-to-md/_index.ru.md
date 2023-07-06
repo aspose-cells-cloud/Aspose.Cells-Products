@@ -1,6 +1,6 @@
 ﻿---
-title:  НОМЕРА в MD Преобразовать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: НОМЕРА в MD Преобразовать API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата NUMBERS в файл формата MD.
 url: /ru/net/conversion/numbers-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/numbers-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в MD в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в MD — сложная задача. Все переходы NUMBERS в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в MD. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат MD.
+Преобразование форматов файлов из NUMBERS в MD — сложная задача. Все переходы NUMBERS в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в MD. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат MD" gistPath="" %}}

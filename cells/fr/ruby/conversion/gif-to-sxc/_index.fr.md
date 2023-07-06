@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en SXC API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format GIF en fichier au format SXC.
 url: /fr/ruby/conversion/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/ruby/conversion/gif-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en SXC en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers GIF en SXC est une tâche complexe. Toutes les transitions de format GIF à SXC sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers GIF en SXC en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie SXC parfaite.
+La conversion des formats de fichiers GIF en SXC est une tâche complexe. Toutes les transitions de format GIF vers SXC sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers GIF en fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie SXC parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir le format GIF au format SXC" gistPath="" %}}

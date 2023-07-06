@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI Go için ODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak NUMBERS biçim dosyasını ODS biçim dosyası olarak kaydedin.
 url: /tr/go/saveas/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

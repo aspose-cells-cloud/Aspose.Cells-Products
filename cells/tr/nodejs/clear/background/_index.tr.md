@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc üzerinde arka planı temizlemek
 url: /tr/nodejs/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki arka planı temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki arka planı temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda arka planı temizle - NodeJS REST API" >}}

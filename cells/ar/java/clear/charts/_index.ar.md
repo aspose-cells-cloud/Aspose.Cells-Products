@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/java/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Java مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Java. هذا الحل الاحترافي واضح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Java مسح لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Java. هذا الحل الاحترافي واضح المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Java REST API" >}}

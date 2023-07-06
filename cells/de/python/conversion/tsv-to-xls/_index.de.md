@@ -1,16 +1,16 @@
 ﻿---
-title: TSV zu XLS konvertieren API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TSV zu XLS Konvertieren Sie API in Python
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer TSV-Formatdatei in eine XLS-Formatdatei.
 url: /de/python/conversion/tsv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um TSV in XLS umzuwandeln" h2="Python-Bibliothek zum Konvertieren von TSV in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von TSV in XLS und andere Dokumentformate unter Verwendung von Python." urlsection="conversion/tsv-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von TSV in XLS" h2="Python-Bibliothek zum Konvertieren von TSV in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in XLS und andere Dokumentformate mit Python." urlsection="conversion/tsv-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in Python in XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in XLS in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TSV in XLS ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu XLS werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TSV-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von TSV- in XLS-Dateien. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von TSV in XLS ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum XLS-Format werden von unserem SDK Python durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in XLS-Dateien. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Konvertieren von TSV in das XLS-Format" gistPath="" %}}
@@ -29,9 +29,9 @@ Das Konvertieren von Dateiformaten von TSV in XLS ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um TSV in XLS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

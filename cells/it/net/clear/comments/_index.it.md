@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare i commenti su Microsoft Excel e Ope
 url: /it/net/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare i commenti sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare i commenti sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella i commenti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Commenti chiari sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - C# REST API" >}}

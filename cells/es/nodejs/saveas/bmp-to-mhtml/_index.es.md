@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde BMP como MHTML API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde BMP como MHTML API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato BMP como archivo de formato MHTML.
 url: /es/nodejs/saveas/bmp-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

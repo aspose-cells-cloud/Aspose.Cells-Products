@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TXT en MHTML API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format TXT en fichier au format MHTML.
 url: /fr/go/conversion/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /fr/go/conversion/txt-to-mhtml/
 La conversion des formats de fichiers de TXT en MHTML est une tâche complexe. Toutes les transitions de format TXT vers MHTML sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers TXT en MHTML en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie MHTML parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir le format TXT au format MHTML" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir TXT au format MHTML" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

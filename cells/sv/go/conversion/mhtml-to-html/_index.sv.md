@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till HTML Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i MHTML-format till fil i HTML-format.
 url: /sv/go/conversion/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

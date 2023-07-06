@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON إلى TXT - تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JSON إلى TXT - تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق JSON إلى ملف بتنسيق TXT.
 url: /ar/nodejs/conversion/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

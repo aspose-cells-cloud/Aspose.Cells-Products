@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSB en tant que GIF API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLSB en tant que fichier au format GIF.
 url: /fr/python/saveas/xlsb-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

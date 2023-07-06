@@ -1,6 +1,6 @@
 ﻿---
-title:  ODS till JSON Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: ODS till JSON Konvertera API för C#
+description:  Använder Aspose.Cells Cloud SDK för C# för att konvertera ODS-formatfil till JSON-formatfil.
 url: /sv/net/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Преобразовать Excel FODS в XLSX via Ruby
+title:  Конвертировать Excel FODS в XLSX via Ruby
 description: Создавайте, редактируйте или конвертируйте Excel файлы с REST API и Ruby SDK с открытым исходным кодом
 url: /ru/ruby/conversion/fods-to-xlsx/
 family: cells

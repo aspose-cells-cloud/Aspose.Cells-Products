@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir MHTML en SQL API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir MHTML en SQL API pour Android
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format MHTML en fichier au format SQL.
 url: /fr/android/conversion/mhtml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

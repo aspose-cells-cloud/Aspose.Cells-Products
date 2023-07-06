@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON'dan MHTML'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: JSON'dan MHTML'ye Dönüştürme API için Python
+description:  JSON biçim dosyasını MHTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

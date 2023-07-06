@@ -1,10 +1,10 @@
 ﻿---
 title:  Conversion MHTML en SQL API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format MHTML en fichier au format SQL.
 url: /fr/java/conversion/mhtml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir MHTML en SQL" h2="Java bibliothèque pour convertir MHTML en SQL" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SQL et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/mhtml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir MHTML en SQL" h2="Java bibliothèque pour convertir MHTML en SQL" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir MHTML en SQL et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/mhtml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier MHTML en SQL en Java" >}}

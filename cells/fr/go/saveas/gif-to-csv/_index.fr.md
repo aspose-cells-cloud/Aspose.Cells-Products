@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer le GIF au format CSV API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format GIF en tant que fichier au format CSV.
 url: /fr/go/saveas/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

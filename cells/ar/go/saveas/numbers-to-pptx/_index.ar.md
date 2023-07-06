@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ NUMBERS كـ PPTX API لـ Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق NUMBERS كملف بتنسيق PPTX.
 url: /ar/go/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

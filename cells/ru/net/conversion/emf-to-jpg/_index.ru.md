@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в JPG Конвертировать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата EMF в файл формата JPG.
 url: /ru/net/conversion/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/emf-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл EMF в JPG в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в JPG является сложной задачей. Все переходы EMF в формат JPG выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации EMF в файлы JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из EMF в JPG — сложная задача. Все переходы EMF в формат JPG выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации EMF в файлы JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования EMF в формат JPG" gistPath="" %}}

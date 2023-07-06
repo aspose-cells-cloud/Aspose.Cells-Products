@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLSM som XLTX API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLSM som XLTX API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara XLSM-formatfil som XLTX-formatfil.
 url: /sv/python/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

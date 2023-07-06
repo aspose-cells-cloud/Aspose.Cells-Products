@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как XPS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS как файла формата XPS.
 url: /ru/android/saveas/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как SVG API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/numbers-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

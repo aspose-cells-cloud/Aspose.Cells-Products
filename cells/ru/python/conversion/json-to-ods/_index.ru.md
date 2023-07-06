@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование JSON в ODS API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата JSON в файл формата ODS.
 url: /ru/python/conversion/json-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования JSON в ODS" h2="Python библиотека для преобразования JSON в ODS" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации JSON в ODS и другие форматы документов с использованием Python." urlsection="conversion/json-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования JSON в ODS" h2="Python библиотека для преобразования JSON в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации JSON в ODS и другие форматы документов с использованием Python." urlsection="conversion/json-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в ODS в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из JSON в ODS — сложная задача. Все переходы между форматами JSON и ODS выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов JSON в ODS. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования JSON в формат ODS" gistPath="" %}}

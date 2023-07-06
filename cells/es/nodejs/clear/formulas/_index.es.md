@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar fórmulas en Microsoft Excel y Ope
 url: /es/nodejs/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear fórmulas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API para borrar fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="NodeJS Clear to clear fórmulas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar fórmulas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en NodeJS. Esta solución profesional borra fórmulas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando NodeJS." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Fórmulas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - NodeJS REST API" >}}

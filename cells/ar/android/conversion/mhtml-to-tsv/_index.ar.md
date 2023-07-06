@@ -1,6 +1,6 @@
 ﻿---
-title:  تحويل MHTML إلى TSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: تحويل MHTML إلى TSV API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق MHTML إلى ملف بتنسيق TSV.
 url: /ar/android/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

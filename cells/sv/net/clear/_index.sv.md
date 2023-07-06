@@ -1,14 +1,14 @@
 ﻿---
-title:  Rensa objekt
-description:  Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Rensa objekt med C#
+description:  Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil med C#. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/net/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rensa objekt" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rensa objekt med C#" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil med C#. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekttilläggslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med C# Förlängningslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

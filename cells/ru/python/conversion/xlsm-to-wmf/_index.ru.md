@@ -1,10 +1,10 @@
 ﻿---
-title: Преобразование XLSM в WMF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLSM в WMF API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSM в файл формата WMF.
 url: /ru/python/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSM в WMF" h2="Python библиотека для преобразования XLSM в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSM в WMF и другие форматы документов с использованием Python." urlsection="conversion/xlsm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSM в WMF" h2="Python библиотека для преобразования XLSM в WMF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSM в WMF и другие форматы документов с использованием Python." urlsection="conversion/xlsm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в WMF в Python" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Salva MHTML come GIF API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato MHTML come file in formato GIF.
 url: /it/python/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare MHTML come GIF" h2="Python libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online utilizzando Python." urlsection="saveas/mhtml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare MHTML come GIF" h2="Python libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online usando Python." urlsection="saveas/mhtml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file MHTML come GIF in Python" >}}

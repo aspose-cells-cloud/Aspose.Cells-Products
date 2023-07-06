@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTX come TXT API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLTX come file in formato TXT.
 url: /it/go/saveas/xltx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

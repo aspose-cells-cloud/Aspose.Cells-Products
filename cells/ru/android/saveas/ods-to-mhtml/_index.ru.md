@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как MHTML API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS в виде файла формата MHTML.
 url: /ru/android/saveas/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/ods-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как MHTML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из ODS в виде MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде файлов MHTML онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения ODS в формате MHTML" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLT till ODS Convert API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLT till ODS Convert API för Android
+description:  Använder Aspose.Cells Cloud SDK för Android för att konvertera XLT-formatfil till ODS-formatfil.
 url: /sv/android/conversion/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

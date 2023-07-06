@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSX как DOCX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSX в виде файла формата DOCX.
 url: /ru/ruby/saveas/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,10 +10,10 @@ url: /ru/ruby/saveas/xlsx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как DOCX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде DOCX — сложная задача. Все переходы формата XLSX в формат DOCX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLSX в виде DOCX — сложная задача. Все переходы формата XLSX в формат DOCX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSX в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLSX в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLSX в формате DOCX" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

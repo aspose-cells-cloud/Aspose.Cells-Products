@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da TSV a JSON API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato TSV in un file in formato JSON.
 url: /it/android/conversion/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/conversion/tsv-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file TSV in JSON in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da TSV a JSON è un'attività complessa. Tutte le transizioni del formato da TSV a JSON vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Android è una soluzione professionale per convertire file TSV in JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
+La conversione dei formati di file da TSV a JSON è un'attività complessa. Tutte le transizioni dal formato TSV al formato JSON vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TSV di origine. La nostra libreria Android è una soluzione professionale per convertire file TSV in JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire TSV in formato JSON" gistPath="" %}}

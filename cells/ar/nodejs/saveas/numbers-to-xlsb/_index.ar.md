@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ الأرقام كـ XLSB API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ الأرقام كـ XLSB API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLSB.
 url: /ar/nodejs/saveas/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

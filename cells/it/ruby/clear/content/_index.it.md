@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei contenuti su Microsoft Ex
 url: /it/ruby/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare il contenuto sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare il contenuto sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

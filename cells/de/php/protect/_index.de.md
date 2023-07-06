@@ -1,14 +1,14 @@
 ﻿---
-title: Protect 
-description: Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title:  Mit PHP schützen
+description:  Aspose.Cells Cloud REST API unterstützt Arbeitsmappen für Entschlüsselung, Verschlüsselung und digitale Signatur mit PHP. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/php/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protect" h2="Aspose.Cells Cloud SDK supports decryption, encryption, and digital signature workbooks." p="Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit PHP schützen" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Arbeitsmappen für Entschlüsselung, Verschlüsselung und digitale Signatur mit PHP. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protect Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Mit Verlängerungsgliedern PHP schützen" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 
@@ -16,22 +16,22 @@ url: /de/php/protect/
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cells" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/cells/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.cloud/cells" >}}
+{{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet" >}}
+{{< blocks/products/pf/slr-element name="API Referenzen" href="https://apireference.aspose.cloud/cells/" >}}
+{{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.cloud/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells Cloud SDK for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
-{{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells Cloud SDK for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.cloud/customers" >}}
+{{< blocks/products/pf/slr-element name="Sicherheit" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

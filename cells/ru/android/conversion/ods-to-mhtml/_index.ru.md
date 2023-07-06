@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование ODS в MHTML API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата ODS в файл формата MHTML.
 url: /ru/android/conversion/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/ods-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в MHTML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов ODS в MHTML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из ODS в MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов ODS в MHTML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования ODS в формат MHTML" gistPath="" %}}

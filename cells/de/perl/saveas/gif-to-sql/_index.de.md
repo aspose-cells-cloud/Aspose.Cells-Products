@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie GIF als SQL API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  GIF als SQL API für Perl speichern
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die GIF-Formatdatei als SQL-Formatdatei zu speichern.
 url: /de/perl/saveas/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API um GIF als SQL zu speichern" h2="Perl Bibliothek zum Speichern von GIF als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als SQL und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um GIF als SQL zu speichern" h2="Perl-Bibliothek zum Speichern von GIF als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um GIF als SQL und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/gif-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als SQL in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine GIF-Datei als SQL unter Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus GIF als SQL ist eine komplexe Aufgabe. Alle GIF-zu-SQL-Formatübergänge werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der GIF-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um GIF online als SQL-Dateien zu speichern. Dieses Cloud SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte SQL-Ausgabe.
+Das Speichern von GIF-Dateiformaten als SQL ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum SQL-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um GIF als SQL-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von GIF im SQL-Format" gistPath="" %}}
@@ -30,9 +30,9 @@ Das Speichern von Dateiformaten aus GIF als SQL ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um GIF als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att skydda Microsoft Excel & OpenOffi
 url: /sv/go/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Gå till biblioteket för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Go. Denna professionella lösning skyddar molnet Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med hjälp av Go." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Gå till biblioteket för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Go. Denna professionella lösning skyddar molnet Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med hjälp av Go." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Skydda molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - Gå REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى XLTX تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLSB إلى ملف بتنسيق XLTX.
 url: /ar/nodejs/conversion/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/xlsb-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى XLTX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSB إلى XLTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى XLTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLSB إلى XLTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XLTX مثالي.
+يعد تحويل تنسيقات الملفات من XLSB إلى XLTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى XLTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLSB إلى XLTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج XLTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLSB إلى تنسيق XLTX" gistPath="" %}}

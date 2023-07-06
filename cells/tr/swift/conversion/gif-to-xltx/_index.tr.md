@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF'ten XLTX'e Dönüştürme API for Swift
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/gif-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Swift\'de bir GIF dosyasını XLTX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını GIF'ten XLTX'e dönüştürmek karmaşık bir iştir. Tüm GIF'ten XLTX'e biçim geçişleri, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, GIF'i çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
+Dosya formatlarını GIF'ten XLTX'e dönüştürmek karmaşık bir iştir. Tüm GIF'ten XLTX'e biçim geçişleri, kaynak GIF elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, GIF'i çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="GIF\'i XLTX formatına dönüştürmek için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Converti ODS in XLS API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Converti ODS in XLS API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato ODS in un file in formato XLS.
 url: /it/perl/conversion/ods-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

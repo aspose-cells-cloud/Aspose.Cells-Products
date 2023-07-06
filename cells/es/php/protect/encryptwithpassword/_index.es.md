@@ -1,10 +1,10 @@
 ﻿---
-title:  Cifrar hoja de cálculo local con contraseña en la nube
-description:  API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifrar hojas de cálculo locales con contraseña por la nube Cells API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Cifre la hoja de cálculo local con contraseña con PHP en la nube
+description:  API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc con PHP. Cifre hojas de cálculo locales con contraseña mediante el SDK Cells Cloud API para PHP.
 url: /es/php/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para proteger la hoja de cálculo Microsoft Excel local y OpenOffice Calc con contraseña" h2="PHP biblioteca para proteger Microsoft Excel local y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en PHP. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando PHP." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para proteger la hoja de cálculo Microsoft Excel local y OpenOffice Calc con contraseña" h2="PHP biblioteca para proteger Microsoft Excel local y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en PHP. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando PHP." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteger local Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña - PHP REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till XLSM Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i TXT-format till fil i XLSM-format.
 url: /sv/perl/conversion/txt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

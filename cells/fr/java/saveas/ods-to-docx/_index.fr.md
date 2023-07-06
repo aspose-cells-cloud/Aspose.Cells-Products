@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer ODS sous DOCX API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format ODS en tant que fichier au format DOCX.
 url: /fr/java/saveas/ods-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer ODS au format DOCX" h2="Java bibliothèque pour enregistrer ODS au format DOCX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format DOCX et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/ods-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer ODS au format DOCX" h2="Java bibliothèque pour enregistrer ODS au format DOCX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format DOCX et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/ods-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format DOCX au Java" >}}

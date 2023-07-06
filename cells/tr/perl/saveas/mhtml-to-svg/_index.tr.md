@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML'yi Perl için SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Perl için MHTML'yi SVG API olarak kaydedin
+description:  MHTML biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

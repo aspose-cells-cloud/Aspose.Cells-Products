@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez BMP en tant que DIF API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format BMP en tant que fichier au format DIF.
 url: /fr/ruby/saveas/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

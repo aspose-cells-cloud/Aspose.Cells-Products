@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование GIF в MD API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата GIF в файл формата MD.
 url: /ru/nodejs/conversion/gif-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de Excel FODS à DIF via Rubis
+title:  Convertir de Excel FODS à DIF via Rubis
 description: Créer, modifier ou convertir des fichiers Excel avec REST API et Open Source Ruby SDK
 url: /fr/ruby/conversion/fods-to-dif/
 family: cells

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en JSON API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format XLSB en fichier au format JSON.
 url: /fr/java/conversion/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/java/conversion/xlsb-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en JSON en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSB en JSON est une tâche complexe. Toutes les transitions de format XLSB à JSON sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Java est une solution professionnelle pour convertir en ligne des fichiers XLSB en JSON. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie JSON parfaite.
+La conversion des formats de fichiers XLSB en JSON est une tâche complexe. Toutes les transitions de format XLSB vers JSON sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Java est une solution professionnelle pour convertir en ligne des fichiers XLSB en JSON. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour convertir XLSB au format JSON" gistPath="" %}}

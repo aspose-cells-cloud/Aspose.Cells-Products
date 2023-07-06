@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till TIFF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera PNG filformat till TIFF filformat.
 url: /sv/nodejs/conversion/png-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

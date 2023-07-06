@@ -1,6 +1,6 @@
 ﻿---
-title:  Converti da TXT a XML API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Converti da TXT a XML API per Python
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato TXT in un file in formato XML.
 url: /it/python/conversion/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

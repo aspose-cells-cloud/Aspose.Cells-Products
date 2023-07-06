@@ -1,6 +1,6 @@
 ﻿---
 title:  Конвертировать NUMBERS в DOCX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата NUMBERS в файл формата DOCX.
 url: /ru/go/conversion/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

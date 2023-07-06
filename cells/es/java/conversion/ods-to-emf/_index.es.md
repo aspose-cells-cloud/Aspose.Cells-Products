@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS a EMF Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato ODS a un archivo de formato EMF.
 url: /es/java/conversion/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar hipervínculos en Microsoft Excel
 url: /es/go/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar los hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Go. Esta solución profesional borra los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar los hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar hipervínculos en Microsoft Excel locales y flujos de trabajo de hojas de cálculo de OpenOffice Calc en Go. Esta solución profesional borra los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir a REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer les numéros sous PPTX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format NUMBERS en tant que fichier au format PPTX.
 url: /fr/android/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

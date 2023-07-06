@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ ODS API لـ Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق GIF كملف بتنسيق ODS.
 url: /ar/go/saveas/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

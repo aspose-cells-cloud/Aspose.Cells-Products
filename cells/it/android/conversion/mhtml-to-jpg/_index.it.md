@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da MHTML a JPG API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato MHTML in un file in formato JPG.
 url: /it/android/conversion/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

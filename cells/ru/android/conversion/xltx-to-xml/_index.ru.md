@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLTX в XML API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLTX в файл формата XML.
 url: /ru/android/conversion/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLTX в XML" h2="Библиотека Android для преобразования XLTX в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для онлайн-конвертации XLTX в XML и другие форматы документов с помощью Android." urlsection="conversion/xltx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLTX в XML" h2="Библиотека Android для преобразования XLTX в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLTX в XML и другие форматы документов онлайн с помощью Android." urlsection="conversion/xltx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XML в Android" >}}

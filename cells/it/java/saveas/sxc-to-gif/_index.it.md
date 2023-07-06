@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva SXC come GIF API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato SXC come file in formato GIF.
 url: /it/java/saveas/sxc-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

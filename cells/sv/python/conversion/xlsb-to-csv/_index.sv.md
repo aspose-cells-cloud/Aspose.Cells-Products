@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till CSV Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera fil i XLSB-format till fil i CSV-format.
 url: /sv/python/conversion/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

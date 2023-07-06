@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF a XPS Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato GIF a un archivo de formato XPS.
 url: /es/go/conversion/gif-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт ИЗОБРАЖЕНИЯ в GIF из электронной таблицы с помощью Java API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/java/export/picture-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/export/picture-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата GIF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта PICTURE в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов формата ИЗОБРАЖЕНИЕ в GIF выполняется нашим SDK Java при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата GIF. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Экспорт объекта PICTURE в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов формата PICTURE в GIF выполняется нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы PICTURE. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата GIF. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат GIF из электронной таблицы" gistPath="" %}}

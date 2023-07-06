@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить JPG как CSV API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить JPG как CSV API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата JPG в виде файла формата CSV.
 url: /ru/android/saveas/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

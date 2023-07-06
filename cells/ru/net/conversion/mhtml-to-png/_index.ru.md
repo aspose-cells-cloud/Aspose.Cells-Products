@@ -1,10 +1,10 @@
 ﻿---
-title:  MHTML в PNG Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: MHTML в PNG Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата MHTML в файл формата PNG.
 url: /ru/net/conversion/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в PNG" h2="библиотека C# для преобразования MHTML в PNG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в PNG и другие форматы документов онлайн с использованием C#." urlsection="conversion/mhtml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в PNG" h2="библиотека C# для преобразования MHTML в PNG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в PNG и другие форматы документов онлайн с помощью C#." urlsection="conversion/mhtml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в PNG в C#" >}}

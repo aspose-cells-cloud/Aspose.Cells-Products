@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM إلى MHTML تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLTM إلى ملف بتنسيق MHTML.
 url: /ar/android/conversion/xltm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

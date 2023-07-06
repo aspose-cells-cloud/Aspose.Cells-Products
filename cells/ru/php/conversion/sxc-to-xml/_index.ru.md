@@ -1,10 +1,10 @@
 ﻿---
-title:  Преобразование SXC в XML API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование SXC в XML API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата SXC в файл формата XML.
 url: /ru/php/conversion/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования SXC в XML" h2="PHP библиотека для преобразования SXC в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации SXC в XML и другие форматы документов с использованием PHP." urlsection="conversion/sxc-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования SXC в XML" h2="PHP библиотека для преобразования SXC в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-преобразования SXC в XML и другие форматы документов с использованием PHP." urlsection="conversion/sxc-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XML в PHP" >}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/sxc-to-xml/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования SXC в XML" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

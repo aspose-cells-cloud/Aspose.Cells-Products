@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için CSV'den JPG'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı JPG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/ruby/conversion/csv-to-jpg/
 Dosya formatlarını CSV'den JPG'ye dönüştürmek karmaşık bir iştir. Tüm CSV'den JPG formatına geçişler, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, CSV'yi çevrimiçi olarak JPG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de CSV\'yi JPG biçimine dönüştürmek için REST API kullanan kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de CSV\'yi JPG formatına dönüştürmek için REST API kullanan kod örneği" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

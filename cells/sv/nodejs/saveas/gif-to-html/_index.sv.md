@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara GIF som HTML API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara fil i GIF-format som fil i HTML-format.
 url: /sv/nodejs/saveas/gif-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

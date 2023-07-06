@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى XLTX تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLTX.
 url: /ar/ruby/conversion/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

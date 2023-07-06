@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF için CSV'yi PHP için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı EMF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP kullanılıyor.
 url: /tr/php/conversion/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

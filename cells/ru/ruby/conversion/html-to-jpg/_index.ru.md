@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML в JPG Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата HTML в файл формата JPG.
 url: /ru/ruby/conversion/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/html-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в JPG в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в JPG является сложной задачей. Все переходы HTML в формат JPG выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации HTML в файлы JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из HTML в JPG — сложная задача. Все переходы HTML в формат JPG выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации HTML в файлы JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования HTML в формат JPG" gistPath="" %}}

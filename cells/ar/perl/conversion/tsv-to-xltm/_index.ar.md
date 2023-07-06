@@ -1,10 +1,10 @@
 ﻿---
 title:  TSV إلى XLTM تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق TSV إلى ملف تنسيق XLTM.
 url: /ar/perl/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل TSV إلى XLTM" h2="Perl مكتبة لتحويل TSV إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل TSV إلى XLTM" h2="Perl مكتبة لتحويل TSV إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى XLTM في Perl" >}}

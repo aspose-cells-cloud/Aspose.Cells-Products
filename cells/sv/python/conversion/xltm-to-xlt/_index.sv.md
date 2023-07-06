@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till XLT Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera fil i XLTM-format till fil i XLT-format.
 url: /sv/python/conversion/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

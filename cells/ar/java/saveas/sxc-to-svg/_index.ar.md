@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ SVG API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق SXC كملف بتنسيق SVG.
 url: /ar/java/saveas/sxc-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

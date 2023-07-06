@@ -1,26 +1,26 @@
 ﻿---
 title: Exportieren Sie Json in die DOCX-Datei via PHP
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/php/export/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportieren Sie JSON in eine DOCX-Datei in der Cloud" h2="Excel & OpenOffice-Tabellenexport mit Open Source Cloud SDK für PHP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Exportieren Sie JSON in eine DOCX-Datei in der Cloud" h2="Excel & OpenOffice-Tabellenkalkulationsexport mit Open-Source-Cloud-SDK für PHP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title=" Exportieren Sie JSON in die DOCX-Datei im Cloud SDK für PHP" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und API-Version
+{{% blocks/products/pf/agp/feature-section-col title=" Exportieren Sie JSON in eine DOCX-Datei im Cloud SDK für PHP" %}}
+1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
+1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Rufen Sie die Methode ```cellsWorkbookPutConvertWorkBook``` auf, um den resultierenden DOCX-Stream abzurufen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel REST API" %}}
- Holen Sie sich den Excel Cloud SDK for .NET-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zur[Freigaben](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) für alternative Download-Optionen.
+ Holen Sie sich den Quellcode Excel Cloud SDK for .NET von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/releases) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-basiert an[API Referenz]() um mehr über die zu erfahren[Excel RUHE API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-based an[API Referenz]() um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP Code für JSON-zu-DOCX-Konvertierung" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP Code für die Konvertierung von JSON in DOCX" gistPath="" %}}
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
     <?php

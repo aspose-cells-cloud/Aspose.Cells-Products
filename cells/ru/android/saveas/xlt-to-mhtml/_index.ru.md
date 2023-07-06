@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLT как MHTML API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата XLT в виде файла формата MHTML.
 url: /ru/android/saveas/xlt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlt-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как MHTML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде MHTML — сложная задача. Все переходы между форматами XLT и MHTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Android — это профессиональное решение для сохранения XLT в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из XLT в виде MHTML — сложная задача. Все переходы между форматами XLT и MHTML выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Android — это профессиональное решение для сохранения файлов XLT в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLT в формате MHTML" gistPath="" %}}

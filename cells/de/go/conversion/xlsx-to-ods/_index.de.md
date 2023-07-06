@@ -1,16 +1,16 @@
 ﻿---
-title:  XLSX zu ODS konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSX zu ODS Konvertieren API für Go
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im XLSX-Format in eine Datei im ODS-Format zu konvertieren.
 url: /de/go/conversion/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rufen Sie API auf, um XLSX in ODS umzuwandeln" h2="Gehen Sie zur Bibliothek, um XLSX in ODS zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XLSX online mit Go in ODS und andere Dokumentformate zu konvertieren." urlsection="conversion/xlsx-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLSX in ODS zu konvertieren" h2="Gehen Sie zur Bibliothek, um XLSX in ODS zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSX in ODS und andere Dokumentformate mit Go." urlsection="conversion/xlsx-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSX-Datei in ODS in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSX in ODS ist eine komplexe Aufgabe. Alle XLSX-zu-ODS-Formatübergänge werden von unserem Go-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSX-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um XLSX-Dateien online in ODS-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSX in ODS ist eine komplexe Aufgabe. Alle XLSX-zu-ODS-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLSX-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSX- in ODS-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XLSX in das ODS-Format" gistPath="" %}}
@@ -48,10 +48,10 @@ Das Konvertieren von Dateiformaten von XLSX in ODS ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Verwendung von Go API zum Konvertieren von XLSX in ODS" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLSX in ODS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

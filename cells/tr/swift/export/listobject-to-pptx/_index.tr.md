@@ -10,7 +10,7 @@ url: /tr/swift/export/listobject-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de PPTX biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan PPTX dosyasına dışa aktarma karmaşık bir iştir. LISTOBJECT'i PPTX formatına aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak PPTX biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+LISTOBJECT nesnesini e-tablodan PPTX dosyasına dışa aktarma karmaşık bir iştir. LISTOBJECT'i PPTX formatına dışa aktarma geçişleri, Swift SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak PPTX biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan PPTX formatına dışa aktarmak için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}

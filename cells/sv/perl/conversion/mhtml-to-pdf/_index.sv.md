@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till PDF Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till PDF Konvertera API till Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i MHTML-format till fil i PDF-format.
 url: /sv/perl/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

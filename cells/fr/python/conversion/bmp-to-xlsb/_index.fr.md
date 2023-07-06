@@ -1,10 +1,10 @@
 ﻿---
 title:  BMP à XLSB Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format BMP en fichier au format XLSB.
 url: /fr/python/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir BMP en XLSB" h2="Bibliothèque Python pour convertir BMP en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir BMP en XLSB et d\'autres formats de document en ligne à l\'aide de Python." urlsection="conversion/bmp-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir BMP en XLSB" h2="Bibliothèque Python pour convertir BMP en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir BMP en XLSB et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/bmp-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en XLSB en Python" >}}

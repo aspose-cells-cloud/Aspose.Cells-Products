@@ -1,10 +1,10 @@
 ﻿---
 title:  TSV إلى XLTM تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق TSV إلى ملف تنسيق XLTM.
 url: /ar/python/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل TSV إلى XLTM" h2="Python مكتبة لتحويل TSV إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل TSV إلى XLTM" h2="Python مكتبة لتحويل TSV إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل TSV إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TSV إلى XLTM في Python" >}}

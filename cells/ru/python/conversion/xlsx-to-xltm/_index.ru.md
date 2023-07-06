@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSX в XLTM API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSX в файл формата XLTM.
 url: /ru/python/conversion/xlsx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/xlsx-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в XLTM в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в XLTM — сложная задача. Все переходы формата XLSX в формат XLTM выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSX в XLTM. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат в формате XLTM.
+Преобразование форматов файлов из XLSX в XLTM — сложная задача. Все переходы от формата XLSX к формату XLTM выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSX в XLTM. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSX в формат XLTM" gistPath="" %}}

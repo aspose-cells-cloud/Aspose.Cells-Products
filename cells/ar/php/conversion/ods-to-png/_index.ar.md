@@ -1,6 +1,6 @@
 ﻿---
-title: ODS إلى PNG تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  ODS إلى PNG تحويل API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق ODS إلى ملف بتنسيق PNG.
 url: /ar/php/conversion/ods-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

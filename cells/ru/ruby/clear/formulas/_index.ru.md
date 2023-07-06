@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки формул на
 url: /ru/ruby/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение с четкими формулами на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение с четкими формулами на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

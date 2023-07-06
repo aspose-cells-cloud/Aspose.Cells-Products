@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ MHTML API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف تنسيق XML كملف بتنسيق MHTML.
 url: /ar/python/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

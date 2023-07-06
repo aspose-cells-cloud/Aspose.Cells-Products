@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى ODS تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLS إلى ملف بتنسيق ODS.
 url: /ar/php/conversion/xls-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

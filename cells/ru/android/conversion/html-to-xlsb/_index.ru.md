@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование HTML в XLSB API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата HTML в файл формата XLSB.
 url: /ru/android/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/html-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLSB в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XLSB — сложная задача. Все переходы HTML в формат XLSB выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов HTML в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
+Преобразование форматов файлов из HTML в XLSB — сложная задача. Все переходы формата HTML в формат XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов HTML в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования HTML в формат XLSB" gistPath="" %}}

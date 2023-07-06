@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JPG в GIF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата JPG в файл формата GIF.
 url: /ru/go/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/jpg-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в GIF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в GIF — сложная задача. Все переходы между форматами JPG и GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JPG в GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из JPG в GIF — сложная задача. Все переходы форматов JPG в GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JPG в GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования JPG в формат GIF" gistPath="" %}}

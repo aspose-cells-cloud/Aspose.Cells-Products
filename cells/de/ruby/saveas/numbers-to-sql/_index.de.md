@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie NUMBERS als SQL API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern der Datei im NUMBERS-Format als SQL-Formatdatei.
 url: /de/ruby/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von NUMBERS als SQL" h2="Ruby-Bibliothek zum Speichern von NUMBERS als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um mit Ruby NUMBERS als SQL und andere Dokumentformate online zu speichern." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von NUMBERS als SQL" h2="Ruby-Bibliothek zum Speichern von ZAHLEN als SQL" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS als SQL und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine NUMBERS-Datei als SQL in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus NUMBERS als SQL ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu SQL werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um Zahlen online als SQL-Dateien zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und eine perfekte SQL-Ausgabe.
+Das Speichern von Dateiformaten aus NUMBERS als SQL ist eine komplexe Aufgabe. Alle Übergänge von NUMBERS zum SQL-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um ZAHLEN online als SQL-Dateien zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von NUMBERS im SQL-Format" gistPath="" %}}
@@ -33,15 +33,15 @@ Das Speichern von Dateiformaten aus NUMBERS als SQL ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um NUMBERS als SQL zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um ZAHLEN als SQL zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

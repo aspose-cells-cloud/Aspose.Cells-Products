@@ -1,13 +1,13 @@
 ﻿---
 title:  Convertir XML en XLTX API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XML en fichier au format XLTX.
 url: /fr/go/conversion/xml-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir XML en XLTX" h2="Bibliothèque Go pour convertir XML en XLTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir XML en XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xml-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XML en XLTX dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XML en XLTX en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion de formats de fichiers XML en XLTX est une tâche complexe. Toutes les transitions de format XML vers XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XML vers XLTX. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.

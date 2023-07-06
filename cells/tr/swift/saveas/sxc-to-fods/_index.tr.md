@@ -1,10 +1,10 @@
 ﻿---
 title:  SXC'yi Swift için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/sxc-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi FODS olarak kaydetmek için Swift API" h2="SXC\'yi FODS olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi Swift kullanarak çevrimiçi olarak FODS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi FODS olarak kaydetmek için Swift API" h2="SXC\'yi FODS olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi Swift kullanarak çevrimiçi olarak FODS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir SXC dosyasını Swift\'de FODS olarak kaydedin" >}}

@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح التعليقات على Microsoft Exc
 url: /ar/nodejs/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح التعليقات على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح التعليقات على جدول بيانات Excel Microsoft المحلي و OpenOffice Calc" h2="NodeJS مسح لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - NodeJS REST API" >}}

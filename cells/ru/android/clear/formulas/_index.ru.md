@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки формул на
 url: /ru/android/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Clear для очистки формул в локальном Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение с четкими формулами на локальном телефоне Microsoft Excel и электронной таблицей OpenOffice Calc с использованием Android." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Clear для очистки формул в локальном Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение с четкими формулами на локальном телефоне Microsoft Excel и электронной таблицей OpenOffice Calc с использованием Android." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить формулы на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Android REST API" >}}

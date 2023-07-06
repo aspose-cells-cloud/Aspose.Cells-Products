@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG à XLT Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format PNG en fichier au format XLT.
 url: /fr/php/conversion/png-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

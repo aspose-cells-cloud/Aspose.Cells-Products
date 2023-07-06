@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLSX как XLTX API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLSX как XLTX API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSX как файла формата XLTX.
 url: /ru/php/saveas/xlsx-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/xlsx-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как XLTX по адресу PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в XLTX — сложная задача. Все переходы между форматами XLSX и XLTX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLSX в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XLSX в XLTX — сложная задача. Все переходы между форматами XLSX и XLTX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека PHP — это профессиональное решение для сохранения файлов XLSX в виде файлов XLTX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XLSX в формате XLTX" gistPath="" %}}

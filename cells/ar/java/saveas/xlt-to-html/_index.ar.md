@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ HTML API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLT كملف بتنسيق HTML.
 url: /ar/java/saveas/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

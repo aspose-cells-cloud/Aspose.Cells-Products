@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ FODS API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق GIF كملف بتنسيق FODS.
 url: /ar/net/saveas/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/saveas/gif-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF كملف FODS في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من GIF كـ FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى FODS بواسطة C# SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ GIF كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
+يعد حفظ تنسيقات الملفات من GIF كـ FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى FODS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ GIF كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ GIF كتنسيق FODS" gistPath="" %}}

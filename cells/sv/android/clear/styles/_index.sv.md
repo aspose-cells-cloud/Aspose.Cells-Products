@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa stilar på Microsoft Excel
 url: /sv/android/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliggör stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa stilar på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliggör stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa stilar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

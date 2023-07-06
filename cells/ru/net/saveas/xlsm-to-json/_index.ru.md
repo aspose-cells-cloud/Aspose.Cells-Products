@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLSM как JSON API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLSM как JSON API для C#.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLSM в виде файла формата JSON.
 url: /ru/net/saveas/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlsm-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как JSON в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде JSON — сложная задача. Все переходы между форматами XLSM и JSON выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения XLSM в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов из XLSM в виде JSON — сложная задача. Все переходы XLSM в формат JSON выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека C# — это профессиональное решение для сохранения XLSM в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSM в формате JSON" gistPath="" %}}

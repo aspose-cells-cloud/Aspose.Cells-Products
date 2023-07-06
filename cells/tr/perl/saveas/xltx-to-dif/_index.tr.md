@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTX'i Perl için DIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTX format dosyasını DIF format dosyası olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/saveas/xltx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i DIF olarak kaydetmek için Perl API" h2="XLTX\'i DIF olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XLTX\'i Perl kullanarak DIF ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i DIF olarak kaydetmek için Perl API" h2="XLTX\'i DIF olarak kaydetmek için Perl kitaplığı" p="Perl\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Perl\'i kullanarak XLTX\'i DIF ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Perl\'de DIF olarak kaydedin" >}}

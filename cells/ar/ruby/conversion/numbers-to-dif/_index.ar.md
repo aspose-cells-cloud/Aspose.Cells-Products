@@ -1,6 +1,6 @@
 ﻿---
 title:  الأرقام إلى DIF تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق DIF.
 url: /ar/ruby/conversion/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в GIF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLSB в файл формата GIF.
 url: /ru/go/conversion/xlsb-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/conversion/xlsb-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в GIF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в GIF — сложная задача. Все переходы форматов XLSB в GIF выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из XLSB в GIF — сложная задача. Все переходы между форматами XLSB и GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLSB в формат GIF" gistPath="" %}}

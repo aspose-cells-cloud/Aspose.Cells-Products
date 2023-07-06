@@ -1,16 +1,16 @@
 ﻿---
-title:  MHTML zu DIF konvertieren API for Java
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  MHTML in DIF konvertieren API for Java
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer MHTML-Formatdatei in eine DIF-Formatdatei.
 url: /de/java/conversion/mhtml-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von MHTML in DIF" h2="Java Bibliothek zum Konvertieren von MHTML in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von MHTML in DIF und andere Dokumentformate unter Verwendung von Java." urlsection="conversion/mhtml-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von MHTML in DIF" h2="Java-Bibliothek zum Konvertieren von MHTML in DIF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um MHTML in DIF und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/mhtml-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in Java in DIF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in DIF in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in DIF ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu DIF werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle beibehalten wird. Unsere Java-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von MHTML- in DIF-Dateien. Dieses Cloud-SDK bietet Java-Entwicklern leistungsstarke Funktionen und eine perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in DIF ist eine komplexe Aufgabe. Alle MHTML-zu-DIF-Formatübergänge werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML- in DIF-Dateien. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von MHTML in das DIF-Format" gistPath="" %}}
@@ -48,15 +48,15 @@ Das Konvertieren von Dateiformaten von MHTML in DIF ist eine komplexe Aufgabe. A
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um MHTML in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

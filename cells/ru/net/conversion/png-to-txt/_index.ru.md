@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в TXT Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата PNG в файл формата TXT.
 url: /ru/net/conversion/png-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/png-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в TXT в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в TXT — сложная задача. Все переходы формата PNG в формат TXT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы TXT. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TXT.
+Преобразование форматов файлов из PNG в TXT — сложная задача. Все переходы PNG в формат TXT выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы TXT. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования PNG в формат TXT" gistPath="" %}}

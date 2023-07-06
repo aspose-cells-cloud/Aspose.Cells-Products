@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLS в FODS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLS в файл формата FODS.
 url: /ru/nodejs/conversion/xls-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как XLT API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TXT как файла формата XLT.
 url: /ru/ruby/saveas/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till PDF Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i MHTML-format till fil i PDF-format.
 url: /sv/android/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى XLS تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLSB إلى ملف بتنسيق XLS.
 url: /ar/android/conversion/xlsb-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

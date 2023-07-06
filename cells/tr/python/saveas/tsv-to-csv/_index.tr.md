@@ -1,6 +1,6 @@
 ﻿---
-title:  TSV'yi Python için CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TSV'yi Python için CSV API olarak kaydedin
+description:  TSV formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLSX sous DOCX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLSX en tant que fichier au format DOCX.
 url: /fr/android/saveas/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/android/saveas/xlsx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSX au format DOCX sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSX en tant que DOCX est une tâche complexe. Toutes les transitions de format XLSX vers DOCX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLSX en tant que fichiers DOCX en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DOCX parfaite.
+L'enregistrement de formats de fichiers à partir de XLSX en tant que DOCX est une tâche complexe. Toutes les transitions de format XLSX vers DOCX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLSX. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLSX en tant que fichiers DOCX en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DOCX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLSX au format DOCX" gistPath="" %}}

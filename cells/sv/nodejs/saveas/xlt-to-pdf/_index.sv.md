@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som PDF API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLT-formatfil som PDF-fil.
 url: /sv/nodejs/saveas/xlt-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

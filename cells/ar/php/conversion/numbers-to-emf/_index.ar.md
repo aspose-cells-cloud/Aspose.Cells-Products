@@ -1,10 +1,10 @@
 ﻿---
-title:  الأرقام إلى EMF حوّل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: الأرقام إلى EMF حوّل API إلى PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق EMF.
 url: /ar/php/conversion/numbers-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل الأرقام إلى EMF" h2="مكتبة PHP لتحويل الأرقام إلى EMF" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل NUMBERS إلى EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/numbers-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل الأرقام إلى EMF" h2="مكتبة PHP لتحويل الأرقام إلى EMF" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل الأرقام إلى EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/numbers-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى EMF في PHP" >}}

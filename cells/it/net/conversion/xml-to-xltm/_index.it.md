@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XML a XLTM API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato XML in un file in formato XLTM.
 url: /it/net/conversion/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

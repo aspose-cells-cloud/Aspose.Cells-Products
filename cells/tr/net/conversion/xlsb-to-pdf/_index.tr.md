@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB'den PDF'e C# için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSB'den PDF'e C# için API'i dönüştürün
+description:  XLSB formatındaki dosyayı PDF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlsb-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

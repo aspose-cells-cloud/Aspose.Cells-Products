@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى GIF تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق PNG إلى ملف بتنسيق GIF.
 url: /ar/go/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  ODS to MD Convert API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق ODS إلى ملف بتنسيق MD.
 url: /ar/java/conversion/ods-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل المواد المستنفدة للأوزون إلى MD" h2="Java مكتبة لتحويل المواد المستنفدة للأوزون إلى MD" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/ods-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل المواد المستنفدة للأوزون إلى MD" h2="Java مكتبة لتحويل المواد المستنفدة للأوزون إلى MD" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل ODS إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/ods-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى MD في Java" >}}

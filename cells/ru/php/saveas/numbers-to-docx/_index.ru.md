@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как DOCX API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата NUMBERS в виде файла формата DOCX.
 url: /ru/php/saveas/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/numbers-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате DOCX по адресу PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в формате DOCX — сложная задача. Все преобразования формата NUMBERS в формат DOCX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из NUMBERS в формате DOCX — сложная задача. Все преобразования формата NUMBERS в формат DOCX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для сохранения NUMBERS в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения NUMBERS в формате DOCX" gistPath="" %}}

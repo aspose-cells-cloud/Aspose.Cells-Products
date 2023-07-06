@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa diagram på Microsoft Exce
 url: /sv/android/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android Rensa för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Android. Denna professionella lösning tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

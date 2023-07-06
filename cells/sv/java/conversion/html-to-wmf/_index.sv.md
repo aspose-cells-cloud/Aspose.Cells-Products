@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till WMF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera HTML filformat till WMF format fil.
 url: /sv/java/conversion/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

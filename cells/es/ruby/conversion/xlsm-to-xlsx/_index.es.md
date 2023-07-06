@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM a XLSX Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLSM a un archivo de formato XLSX.
 url: /es/ruby/conversion/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

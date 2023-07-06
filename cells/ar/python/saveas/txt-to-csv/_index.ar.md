@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ TXT كملف CSV API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ TXT كملف CSV API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق TXT كملف بتنسيق CSV.
 url: /ar/python/saveas/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

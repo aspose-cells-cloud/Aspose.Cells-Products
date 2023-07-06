@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till MHTML Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera fil i TXT-format till fil i MHTML-format.
 url: /sv/go/conversion/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

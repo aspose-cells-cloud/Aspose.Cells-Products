@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT'yi C# için GIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını GIF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/txt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

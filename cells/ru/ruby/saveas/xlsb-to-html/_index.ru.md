@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLSB как HTML API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSB как файла формата HTML.
 url: /ru/ruby/saveas/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить XLSB как HTML" h2="Библиотека Ruby для сохранения XLSB как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSB как HTML и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xlsb-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLSB как HTML" h2="Библиотека Ruby для сохранения XLSB как HTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSB как HTML и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlsb-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как HTML в Ruby." >}}

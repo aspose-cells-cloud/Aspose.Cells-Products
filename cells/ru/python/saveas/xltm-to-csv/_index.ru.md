@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить XLTM как CSV API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTM как CSV API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLTM в виде файла формата CSV.
 url: /ru/python/saveas/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения XLTM в формате CSV" h2="Python библиотека для сохранения XLTM в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения XLTM в виде CSV и других форматов документов в Интернете с использованием Python." urlsection="saveas/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения XLTM в формате CSV" h2="Python библиотека для сохранения XLTM в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения XLTM в формате CSV и других форматов документов в Интернете с использованием Python." urlsection="saveas/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM в формате CSV по адресу Python." >}}

@@ -1,19 +1,19 @@
 ﻿---
-title:  EMF in ODS Konvertieren Sie API für PHP
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  EMF in ODS Konvertieren Sie API in PHP
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im EMF-Format in eine Datei im ODS-Format zu konvertieren.
 url: /de/php/conversion/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API um EMF in ODS umzuwandeln" h2="PHP-Bibliothek zum Konvertieren von EMF in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um EMF mithilfe von PHP online in ODS und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um EMF in ODS umzuwandeln" h2="PHP-Bibliothek zur Konvertierung von EMF in ODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit PHP in ODS und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in ODS in PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in ODS ist eine komplexe Aufgabe. Alle Formatübergänge von EMF zu ODS werden von unserem PHP SDK durchgeführt, während der strukturelle und logische Hauptinhalt der EMF-Quelltabelle beibehalten wird. Unsere PHP-Bibliothek ist eine professionelle Lösung, um EMF online in ODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet PHP-Entwicklern leistungsstarke Funktionen und eine perfekte ODS-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in ODS ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum ODS-Format werden von unserem SDK PHP durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere PHP-Bibliothek ist eine professionelle Lösung, um EMF online in ODS-Dateien zu konvertieren. Dieses Cloud SDK bietet PHP Entwicklern leistungsstarke Funktionalität und perfekte ODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zum Konvertieren von EMF in das ODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in PHP mit REST API zur Konvertierung von EMF in das ODS-Format" gistPath="" %}}
  
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von EMF in ODS ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um EMF in ODS umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkBook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie PHP API, um EMF in ODS zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkBook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

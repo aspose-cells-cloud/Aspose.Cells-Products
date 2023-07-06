@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM إلى DIF تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLTM إلى ملف بتنسيق DIF.
 url: /ar/android/conversion/xltm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

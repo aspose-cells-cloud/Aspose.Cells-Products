@@ -1,16 +1,16 @@
 ﻿---
-title:  TSV zu MHTML konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TSV in MHTML konvertieren API für Go
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im TSV-Format in eine Datei im MHTML-Format zu konvertieren.
 url: /de/go/conversion/tsv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rufen Sie API auf, um TSV in MHTML zu konvertieren" h2="Gehen Sie zur Bibliothek, um TSV in MHTML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um TSV online mit Go in MHTML und andere Dokumentformate zu konvertieren." urlsection="conversion/tsv-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um TSV in MHTML zu konvertieren" h2="Gehen Sie zur Bibliothek, um TSV in MHTML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TSV in MHTML und andere Dokumentformate mit Go." urlsection="conversion/tsv-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in Go in MHTML" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TSV-Datei in MHTML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TSV in MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu MHTML werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TSV-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um TSV-Dateien online in MHTML-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte MHTML-Ausgabe.
+Das Konvertieren von Dateiformaten von TSV in MHTML ist eine komplexe Aufgabe. Alle TSV-zu-MHTML-Formatübergänge werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TSV- in MHTML-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von TSV in das MHTML-Format" gistPath="" %}}
@@ -49,9 +49,9 @@ Das Konvertieren von Dateiformaten von TSV in MHTML ist eine komplexe Aufgabe. A
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um TSV in MHTML zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

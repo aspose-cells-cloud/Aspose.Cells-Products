@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните ODS как TIFF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата ODS как файла формата TIFF.
 url: /ru/net/saveas/ods-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения ODS как TIFF" h2="C# библиотека для сохранения ODS как TIFF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения ODS как TIFF и других форматов документов в Интернете с использованием C#." urlsection="saveas/ods-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения ODS как TIFF" h2="C# библиотека для сохранения ODS как TIFF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения ODS как TIFF и других форматов документов онлайн с использованием C#." urlsection="saveas/ods-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как TIFF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как TIFF — сложная задача. Все преобразования формата ODS в формат TIFF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека C# — это профессиональное решение для сохранения ODS в виде файлов TIFF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
+Сохранение форматов файлов из ODS как TIFF — сложная задача. Все переходы формата ODS в формат TIFF выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека C# — это профессиональное решение для сохранения ODS в виде файлов TIFF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения ODS в формате TIFF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: EMF إلى XLSM تحويل API ل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  EMF إلى XLSM تحويل API ل Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق EMF إلى ملف بتنسيق XLSM.
 url: /ar/perl/conversion/emf-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как JPG API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLTX в виде файла формата JPG.
 url: /ru/go/saveas/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

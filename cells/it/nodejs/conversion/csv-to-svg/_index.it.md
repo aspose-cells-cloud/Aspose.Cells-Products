@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in SVG Converti API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato CSV nel file in formato SVG.
 url: /it/nodejs/conversion/csv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

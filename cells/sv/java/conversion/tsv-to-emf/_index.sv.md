@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV till EMF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK for Java för att konvertera fil i TSV-format till fil i EMF-format.
 url: /sv/java/conversion/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

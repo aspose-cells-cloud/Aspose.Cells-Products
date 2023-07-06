@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML إلى PNG تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: MHTML إلى PNG تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق MHTML إلى ملف بتنسيق PNG.
 url: /ar/nodejs/conversion/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/mhtml-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى PNG في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PNG بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات PNG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PNG مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى PNG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PNG بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات PNG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PNG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق PNG" gistPath="" %}}

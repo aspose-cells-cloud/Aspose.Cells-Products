@@ -1,10 +1,10 @@
 ﻿---
 title:  HTML в XLSB Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата HTML в файл формата XLSB.
 url: /ru/net/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования HTML в XLSB" h2="Библиотека C# для преобразования HTML в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования HTML в XLSB и другие форматы документов онлайн с помощью C#." urlsection="conversion/html-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования HTML в XLSB" h2="C# библиотека для преобразования HTML в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования HTML в XLSB и другие форматы документов онлайн с помощью C#." urlsection="conversion/html-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLSB в C#" >}}

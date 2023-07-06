@@ -1,6 +1,6 @@
 ﻿---
 title: " SXC إلى PPTX: تحويل API إلى C#"
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق SXC إلى ملف بتنسيق PPTX.
 url: /ar/net/conversion/sxc-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

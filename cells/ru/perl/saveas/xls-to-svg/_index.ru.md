@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLS как SVG API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLS как файла формата SVG.
 url: /ru/perl/saveas/xls-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

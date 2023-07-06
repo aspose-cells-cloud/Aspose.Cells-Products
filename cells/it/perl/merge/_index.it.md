@@ -1,10 +1,10 @@
 ﻿---
-title:  Unisci
-description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Unisciti a Perl
+description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel con Perl. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/perl/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisciti a Perl" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel con Perl. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -20,9 +20,9 @@ url: /it/perl/merge/
 	<li><b>Immagini:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Altro:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Formato di output</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Formato di output</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Parola/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft Parola/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Ufficio aperto:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>Foglio di calcoloML, Xml</li>
 	<li><b>Testo:</b> Csv, Tsv, Txt (delimitato da tabulazioni)</li>
@@ -34,7 +34,7 @@ url: /it/perl/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Unisci collegamenti di estensione" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Unisci con i collegamenti di estensione Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

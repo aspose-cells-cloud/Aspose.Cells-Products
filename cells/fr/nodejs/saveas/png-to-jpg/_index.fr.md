@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer PNG au format JPG API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer le fichier au format PNG en tant que fichier au format JPG.
 url: /fr/nodejs/saveas/png-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

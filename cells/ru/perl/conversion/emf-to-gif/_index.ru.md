@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF в GIF Конвертировать API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата EMF в файл формата GIF.
 url: /ru/perl/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

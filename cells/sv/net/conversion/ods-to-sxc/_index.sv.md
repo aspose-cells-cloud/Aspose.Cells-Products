@@ -1,6 +1,6 @@
 ﻿---
-title: ODS till SXC Konvertera API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  ODS till SXC Konvertera API för C#
+description: Använder Aspose.Cells Cloud SDK för C# för att konvertera ODS-formatfil till SXC-formatfil.
 url: /sv/net/conversion/ods-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

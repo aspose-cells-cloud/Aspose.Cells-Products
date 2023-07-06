@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som JPG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara MHTML-formatfil som JPG-formatfil.
 url: /sv/php/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

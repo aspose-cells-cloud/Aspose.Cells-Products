@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как SQL API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLSB в виде файла формата SQL.
 url: /ru/nodejs/saveas/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlsb-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как SQL в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде SQL — сложная задача. Все переходы формата XLSB в формат SQL выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSB в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из XLSB в виде SQL — сложная задача. Все переходы формата XLSB в формат SQL выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSB в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLSB в формате SQL" gistPath="" %}}

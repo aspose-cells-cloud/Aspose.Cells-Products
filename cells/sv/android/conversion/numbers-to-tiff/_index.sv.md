@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS till TIFF Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i NUMBERS-format till fil i TIFF-format.
 url: /sv/android/conversion/numbers-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

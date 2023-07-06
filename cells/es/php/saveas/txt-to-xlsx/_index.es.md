@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde TXT como XLSX API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde TXT como XLSX API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato TXT como archivo de formato XLSX.
 url: /es/php/saveas/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

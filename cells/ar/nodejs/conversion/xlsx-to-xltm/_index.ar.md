@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى XLTM تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLSX إلى ملف بتنسيق XLTM.
 url: /ar/nodejs/conversion/xlsx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

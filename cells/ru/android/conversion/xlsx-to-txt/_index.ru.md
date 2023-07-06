@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSX в TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата XLSX в файл формата TXT.
 url: /ru/android/conversion/xlsx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/xlsx-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в TXT на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в TXT — сложная задача. Все переходы между форматами XLSX и TXT выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSX в TXT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XLSX в TXT — сложная задача. Все переходы между форматами XLSX и TXT выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSX в TXT. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLSX в формат TXT" gistPath="" %}}

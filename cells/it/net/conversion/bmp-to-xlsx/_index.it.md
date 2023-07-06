@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP a XLSX Converti API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato BMP in un file in formato XLSX.
 url: /it/net/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG بالشكل HTML API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق JPG كملف بتنسيق HTML.
 url: /ar/java/saveas/jpg-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

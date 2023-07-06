@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için ODS'den XLTX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  ODS biçim dosyasını XLTX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/ods-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/ods-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir ODS dosyasını XLTX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını ODS'den XLTX'e dönüştürmek karmaşık bir iştir. Tüm ODS'den XLTX'e format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, ODS'yi çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
+Dosya formatlarını ODS'den XLTX'e dönüştürmek karmaşık bir iştir. Tüm ODS'den XLTX'e biçim geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, ODS'yi çevrimiçi olarak XLTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi XLTX formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

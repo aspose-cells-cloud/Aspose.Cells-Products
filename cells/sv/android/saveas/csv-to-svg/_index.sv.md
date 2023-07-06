@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som SVG API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Android för att spara en fil i CSV-format som en fil i SVG-format.
 url: /sv/android/saveas/csv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

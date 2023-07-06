@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TSV в XLSM API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата TSV в файл формата XLSM.
 url: /ru/android/conversion/tsv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/tsv-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XLSM на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XLSM — сложная задача. Все переходы форматов TSV в XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в XLSM. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
+Преобразование форматов файлов из TSV в XLSM — сложная задача. Все переходы форматов TSV в XLSM выполняются нашим Android SDK с сохранением основного структурного и логического содержания исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в XLSM. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования TSV в формат XLSM" gistPath="" %}}

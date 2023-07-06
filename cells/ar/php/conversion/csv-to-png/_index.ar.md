@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى PNG حوّل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق CSV إلى ملف بتنسيق PNG.
 url: /ar/php/conversion/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

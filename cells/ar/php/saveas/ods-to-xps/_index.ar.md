@@ -1,13 +1,13 @@
 ﻿---
 title:  احفظ ODS كـ XPS API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق ODS كملف بتنسيق XPS.
 url: /ar/php/saveas/ods-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ المواد المستنفدة للأوزون كـ XPS" h2="مكتبة PHP لحفظ نظام الوثائق الرسمية كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ ODS كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/ods-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بالشكل XPS في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كـ XPS في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من ODS كـ XPS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى XPS بواسطة SDK PHP مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبتنا PHP هي حل احترافي لحفظ ODS كملفات XPS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XPS مثالي.

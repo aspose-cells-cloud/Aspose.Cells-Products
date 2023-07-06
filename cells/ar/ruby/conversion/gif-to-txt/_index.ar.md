@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى TXT - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لروبي لتحويل ملف بصيغة GIF إلى ملف بصيغة TXT.
 url: /ar/ruby/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

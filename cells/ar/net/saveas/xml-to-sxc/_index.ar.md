@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XML كـ SXC API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XML كـ SXC API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XML كملف بتنسيق SXC.
 url: /ar/net/saveas/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

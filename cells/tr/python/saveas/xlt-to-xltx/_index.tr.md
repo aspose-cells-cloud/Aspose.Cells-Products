@@ -1,6 +1,6 @@
 ﻿---
-title:  XLT'yi Python için XLTX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLT'yi Python için XLTX API olarak kaydedin
+description:  XLT biçim dosyasını XLTX biçim dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/saveas/xlt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/python/saveas/xlt-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Python\'de XLTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLT'den XLTX olarak kaydetmek karmaşık bir görevdir. Tüm XLT'den XLTX'e biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLT'yi çevrimiçi olarak XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıkışı sağlar.
+Dosya biçimlerini XLT'den XLTX olarak kaydetmek karmaşık bir iştir. Tüm XLT'den XLTX'e biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XLT'yi çevrimiçi olarak XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi XLTX formatı olarak kaydetmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}

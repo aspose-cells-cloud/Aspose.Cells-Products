@@ -1,16 +1,16 @@
 ﻿---
-title:  GIF zu FODS Konvertieren Sie API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  GIF zu FODS Konvertieren Sie API in C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer GIF-Formatdatei in eine FODS-Formatdatei.
 url: /de/net/conversion/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um GIF in FODS umzuwandeln" h2="C#-Bibliothek zum Konvertieren von GIF in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von GIF in FODS und andere Dokumentformate online mit C#." urlsection="conversion/gif-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von GIF in FODS" h2="C#-Bibliothek zum Konvertieren von GIF in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in FODS und andere Dokumentformate unter C#." urlsection="conversion/gif-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in C# in FODS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in FODS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von GIF in FODS ist eine komplexe Aufgabe. Alle GIF-zu-FODS-Formatübergänge werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der GIF-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um GIF-Dateien online in FODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von GIF in FODS ist eine komplexe Aufgabe. Alle Übergänge vom GIF- zum FODS-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-GIF-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von GIF- in FODS-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von GIF in das FODS-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von GIF in FODS ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um GIF in FODS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как TSV API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLSM в виде файла формата TSV.
 url: /ru/nodejs/saveas/xlsm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

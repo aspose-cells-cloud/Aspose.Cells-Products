@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى FODS - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JPG إلى ملف بتنسيق FODS.
 url: /ar/go/conversion/jpg-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/go/conversion/jpg-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى FODS في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى FODS بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى ملفات FODS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج FODS مثالي.
+يعد تحويل تنسيقات الملفات من JPG إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى FODS بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى ملفات FODS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل JPG إلى تنسيق FODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: أضف علامة مائية لمصنف محلي في Cloud
-description:  Cloud APIs & SDKs لإضافة علامة مائية لـ Microsoft Excel & OpenOffice Calc. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  أضف علامة مائية لمصنف محلي في Cloud
+description: Cloud APIs & SDKs لإضافة علامة مائية لـ Microsoft Excel & OpenOffice Calc. إضافة علامة مائية لجداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأشكال على Microsoft Excel & 
 url: /ar/android/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الأشكال في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android مسح لمسح الأشكال في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

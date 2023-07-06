@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till TXT Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i XLSB-format till fil i TXT-format.
 url: /sv/nodejs/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

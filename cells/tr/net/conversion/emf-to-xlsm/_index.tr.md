@@ -1,10 +1,10 @@
 ﻿---
-title: EMF'den XLSM'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  EMF'den XLSM'ye Dönüştürme API için C#
+description:  EMF biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/emf-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XLSM\'ye dönüştürmek için C# API" h2="EMF\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, EMF\'i çevrimiçi olarak C# kullanarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i XLSM\'ye dönüştürmek için C# API" h2="EMF\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, EMF\'i C# kullanarak çevrimiçi olarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/emf-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını C#\'de XLSM\'ye dönüştürün" >}}

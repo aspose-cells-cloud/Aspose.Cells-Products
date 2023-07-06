@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som XPS API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att spara fil i XLSB-format som fil i XPS-format.
 url: /sv/android/saveas/xlsb-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

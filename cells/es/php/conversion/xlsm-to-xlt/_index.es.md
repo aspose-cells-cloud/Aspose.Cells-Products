@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM a XLT Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLSM a XLT Convertir API para PHP
+description: Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLSM a un archivo de formato XLT.
 url: /es/php/conversion/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

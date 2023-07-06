@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en JPG API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format XLS en fichier au format JPG.
 url: /fr/perl/conversion/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

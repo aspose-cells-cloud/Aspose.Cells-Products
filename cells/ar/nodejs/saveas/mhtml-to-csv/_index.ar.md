@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ MHTML كملف CSV API من أجل NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ MHTML كملف CSV API من أجل NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق MHTML كملف بتنسيق CSV.
 url: /ar/nodejs/saveas/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

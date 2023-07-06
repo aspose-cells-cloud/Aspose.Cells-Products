@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie SHAPE aus der Tabelle mit Go API nach WMF
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie SHAPE aus der Tabellenkalkulation mit Go API nach WMF
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/go/export/shape-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um SHAPE in eine WMF-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um SHAPE in eine WMF-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von SHAPE-Dateien in das WMF-Format aus einer Online-Tabelle mit Go." urlsection="export/shape-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um SHAPE in eine WMF-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um SHAPE in eine WMF-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von SHAPE in eine WMF-Formatdatei aus einer Tabellenkalkulation mit Go." urlsection="export/shape-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine Datei im WMF-Format in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine WMF-Formatdatei in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren von SHAPE-Objekten in eine WMF-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von SHAPE zu WMF-Formatübergängen wird von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der SHAPE-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um SHAPE-Objekte online in Dateien im WMF-Format zu exportieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte WMF-Ausgabe.
+Das Exportieren eines SHAPE-Objekts aus einer Tabellenkalkulation in eine WMF-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von SHAPE in das WMF-Format wird von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SHAPE-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Export von SHAPE-Objekten in Dateien im WMF-Format. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Exportieren von SHAPE in das WMF-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Exportieren von SHAPE aus einer Tabellenkalkulation in das WMF-Format" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -57,8 +57,8 @@ Das Exportieren von SHAPE-Objekten in eine WMF-Datei aus einer Tabelle ist eine 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um SHAPE nach WMF zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

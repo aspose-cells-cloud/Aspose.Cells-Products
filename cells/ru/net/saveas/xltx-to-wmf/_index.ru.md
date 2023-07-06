@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLTX как WMF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLTX как WMF API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата XLTX в виде файла формата WMF.
 url: /ru/net/saveas/xltx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Converti da XML a FODS API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Converti da XML a FODS API per Perl
+description: Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XML in un file in formato FODS.
 url: /it/perl/conversion/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

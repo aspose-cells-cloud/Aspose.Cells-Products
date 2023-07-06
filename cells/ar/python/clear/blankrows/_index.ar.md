@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصفوف الفارغة على Micro
 url: /ar/python/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python امسح لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي يمسح الصفوف الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Python امسح لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Python. هذا الحل الاحترافي يمسح الصفوف الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Python." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف الفارغة في جدول بيانات Microsoft Excel و OpenOffice Calc المحلي - Python REST API" >}}

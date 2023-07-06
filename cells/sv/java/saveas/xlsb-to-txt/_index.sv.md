@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som TXT API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLSB-formatfil som TXT-formatfil.
 url: /sv/java/saveas/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTM كـ JPG API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLTM كملف بتنسيق JPG.
 url: /ar/net/saveas/xltm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

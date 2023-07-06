@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ DIF API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLSM كملف بتنسيق DIF.
 url: /ar/nodejs/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ url: /ar/nodejs/saveas/xlsm-to-dif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Node API لحفظ XLSM كـ DIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام العقدة API لحفظ XLSM كـ DIF" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة cellSaveAsPostDocumentSaveAs للحصول على الدفق الناتج</li>

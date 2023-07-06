@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez TSV sous EMF API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format TSV en tant que fichier au format EMF.
 url: /fr/ruby/saveas/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

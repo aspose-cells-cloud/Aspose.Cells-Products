@@ -1,6 +1,6 @@
 ﻿---
-title: Agregue una marca de agua para el libro de trabajo local en la nube
-description:  API y SDK en la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc. Agregar marca de agua para hojas de cálculo locales por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Agregue una marca de agua para el libro de trabajo local en la nube
+description: API y SDK en la nube para agregar marcas de agua para Microsoft Excel y OpenOffice Calc. Agregar marca de agua para hojas de cálculo locales por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

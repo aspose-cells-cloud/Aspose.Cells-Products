@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için JSON'dan JPG'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını JPG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/json-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/json-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Android\'de JPG\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini JSON'dan JPG'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan JPG formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JSON'u çevrimiçi olarak JPG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
+Dosya biçimlerini JSON'dan JPG'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan JPG formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, JSON'u çevrimiçi olarak JPG dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u JPG formatına dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

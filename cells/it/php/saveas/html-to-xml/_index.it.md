@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come XML API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato HTML come file in formato XML.
 url: /it/php/saveas/html-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

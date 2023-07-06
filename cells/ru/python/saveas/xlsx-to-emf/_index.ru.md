@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSX как EMF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSX как файла формата EMF.
 url: /ru/python/saveas/xlsx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

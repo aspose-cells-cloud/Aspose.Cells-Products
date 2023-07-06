@@ -1,10 +1,10 @@
 ﻿---
 title:  GIF إلى CSV - تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق GIF إلى ملف بتنسيق CSV.
 url: /ar/perl/conversion/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل GIF إلى CSV" h2="مكتبة Perl لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/gif-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل GIF إلى CSV" h2="مكتبة Perl لتحويل GIF إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل GIF إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/gif-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف GIF إلى CSV في Perl" >}}

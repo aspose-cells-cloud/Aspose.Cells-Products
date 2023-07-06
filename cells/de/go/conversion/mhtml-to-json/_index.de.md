@@ -1,16 +1,16 @@
 ﻿---
-title:  MHTML-zu-JSON-Konvertierung API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  MHTML zu JSON Konvertieren API für Go
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im MHTML-Format in eine Datei im JSON-Format zu konvertieren.
 url: /de/go/conversion/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um MHTML in JSON zu konvertieren" h2="Gehen Sie zur Bibliothek, um MHTML in JSON zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um MHTML online mit Go in JSON und andere Dokumentformate zu konvertieren." urlsection="conversion/mhtml-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um MHTML in JSON zu konvertieren" h2="Gehen Sie zur Bibliothek, um MHTML in JSON zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von MHTML in JSON und andere Dokumentformate mit Go." urlsection="conversion/mhtml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in Go in JSON" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in JSON in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von MHTML in JSON ist eine komplexe Aufgabe. Alle Formatübergänge von MHTML zu JSON werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der MHTML-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um MHTML-Dateien online in JSON-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von MHTML in JSON ist eine komplexe Aufgabe. Alle MHTML-zu-JSON-Formatübergänge werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-MHTML-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von MHTML- in JSON-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von MHTML in das JSON-Format" gistPath="" %}}
@@ -49,9 +49,9 @@ Das Konvertieren von Dateiformaten von MHTML in JSON ist eine komplexe Aufgabe. 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um MHTML in JSON zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

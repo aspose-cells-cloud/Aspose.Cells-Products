@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF в SVG Преобразование API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/emf-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования EMF в SVG" h2="Библиотека Swift для преобразования EMF в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования EMF в SVG и другие форматы документов онлайн с помощью Swift." urlsection="conversion/emf-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования EMF в SVG" h2="Библиотека Swift для преобразования EMF в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования EMF в SVG и других форматов документов онлайн с помощью Swift." urlsection="conversion/emf-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SVG в Swift" >}}

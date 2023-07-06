@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ XLS API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق JPG كملف بتنسيق XLS.
 url: /ar/go/saveas/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/go/saveas/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق XLS في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLS مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLS عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ JPG بتنسيق XLS" gistPath="" %}}

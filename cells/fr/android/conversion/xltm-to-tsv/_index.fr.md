@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTM en TSV API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLTM en fichier au format TSV.
 url: /fr/android/conversion/xltm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

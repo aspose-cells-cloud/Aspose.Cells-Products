@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG'yi PDF'e PHP için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: JPG'yi PDF'e PHP için API'e dönüştür
+description:  JPG formatındaki dosyayı PDF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/jpg-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

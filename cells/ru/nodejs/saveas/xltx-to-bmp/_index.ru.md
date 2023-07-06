@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLTX как BMP API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLTX как файла формата BMP.
 url: /ru/nodejs/saveas/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить XLTX как BMP" h2="Библиотека NodeJS для сохранения XLTX как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как BMP и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/xltx-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить XLTX как BMP" h2="Библиотека NodeJS для сохранения XLTX как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения XLTX как BMP и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/xltx-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как BMP в NodeJS." >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى JSON تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق EMF إلى ملف بتنسيق JSON.
 url: /ar/ruby/conversion/emf-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

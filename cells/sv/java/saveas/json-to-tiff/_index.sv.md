@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JSON som TIFF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara fil i JSON-format som fil i TIFF-format.
 url: /sv/java/saveas/json-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

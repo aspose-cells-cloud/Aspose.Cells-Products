@@ -1,10 +1,10 @@
 ﻿---
-title:  Yerel e-tabloyu Bulutta şifreyle şifreleyin
-description:  Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffice Calc. Yerel elektronik tabloları Cells Cloud API ile parola ile şifreleyin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Cloud'da NodeJS ile yerel e-tabloyu şifreyle şifreleyin
+description: Microsoft Excel ve NodeJS ile OpenOffice Calc'ı Korumak için Bulut API'leri ve SDK'lar. NodeJS için Cells Cloud API SDK ile yerel e-tabloları şifreyle şifreleyin.
 url: /tr/nodejs/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için NodeJS kitaplığı" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi parolalarla korur." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için NodeJS kitaplığı" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi parolalarla korur." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu parola ile koruyun - NodeJS REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить BMP как XLSB API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата BMP в виде файла формата XLSB.
 url: /ru/ruby/saveas/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/bmp-to-xlsb/
 Сохранение форматов файлов с BMP как XLSB — сложная задача. Все переходы формата BMP в формат XLSB выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для сохранения BMP в виде файлов XLSB онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате XLSB.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения BMP в формате XLSB" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения BMP в формате XLSB" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

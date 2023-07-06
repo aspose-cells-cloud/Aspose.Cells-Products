@@ -1,6 +1,6 @@
 ﻿---
-title:  XLT till XLSM Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLT till XLSM Konvertera API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera XLT-formatfil till XLSM-formatfil.
 url: /sv/android/conversion/xlt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

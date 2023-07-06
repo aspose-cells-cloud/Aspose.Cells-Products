@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP لتحويل MD API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق BMP إلى ملف بتنسيق MD.
 url: /ar/net/conversion/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

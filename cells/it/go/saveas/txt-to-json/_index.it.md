@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TXT come JSON API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato TXT come file in formato JSON.
 url: /it/go/saveas/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /it/go/saveas/txt-to-json/
 Salvare i formati di file da TXT come JSON è un compito complesso. Tutte le transizioni dal formato TXT al formato JSON vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TXT di origine. La nostra libreria Go è una soluzione professionale per salvare TXT come file JSON online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JSON perfetto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare TXT in formato JSON" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare TXT come formato JSON" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

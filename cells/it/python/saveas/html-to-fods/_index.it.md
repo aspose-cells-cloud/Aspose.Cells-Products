@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come FODS API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato HTML come file in formato FODS.
 url: /it/python/saveas/html-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

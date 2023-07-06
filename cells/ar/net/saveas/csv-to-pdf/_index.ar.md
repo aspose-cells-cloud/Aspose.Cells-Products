@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV بالشكل PDF API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق CSV كملف بتنسيق PDF.
 url: /ar/net/saveas/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

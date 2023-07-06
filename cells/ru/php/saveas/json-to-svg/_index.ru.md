@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как SVG API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JSON как файла формата SVG.
 url: /ru/php/saveas/json-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

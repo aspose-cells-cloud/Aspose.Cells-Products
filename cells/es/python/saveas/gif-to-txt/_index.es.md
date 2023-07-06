@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar GIF como TXT API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato GIF como archivo de formato TXT.
 url: /es/python/saveas/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

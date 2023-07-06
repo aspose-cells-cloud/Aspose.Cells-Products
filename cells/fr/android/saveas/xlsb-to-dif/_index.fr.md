@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer XLSB sous DIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLSB en tant que fichier au format DIF.
 url: /fr/android/saveas/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLSB au format DIF" h2="Bibliothèque Android pour enregistrer XLSB au format DIF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLSB au format DIF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xlsb-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format DIF dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format DIF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers XLSB au format DIF est une tâche complexe. Toutes les transitions de format XLSB à DIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLSB en tant que fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DIF parfaite.

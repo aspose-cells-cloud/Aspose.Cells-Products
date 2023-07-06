@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB a BMP Converti API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLSB nel file in formato BMP.
 url: /it/go/conversion/xlsb-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

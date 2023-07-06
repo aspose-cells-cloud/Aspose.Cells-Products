@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için MHTML'yi HTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: MHTML biçim dosyasını HTML biçim dosyası olarak kaydetmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/saveas/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

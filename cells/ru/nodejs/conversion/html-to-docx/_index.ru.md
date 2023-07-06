@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML в DOCX Конвертировать API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата HTML в файл формата DOCX.
 url: /ru/nodejs/conversion/html-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
-title:  XLSX zu XLTX Konvertieren API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSX in XLTX Konvertieren Sie API in C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im XLSX-Format in eine Datei im XLTX-Format.
 url: /de/net/conversion/xlsx-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um XLSX in XLTX umzuwandeln" h2="C# Bibliothek zum Konvertieren von XLSX in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XLSX in XLTX und andere Dokumentformate unter C#." urlsection="conversion/xlsx-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von XLSX in XLTX" h2="C#-Bibliothek zum Konvertieren von XLSX in XLTX" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSX in XLTX und andere Dokumentformate unter C#." urlsection="conversion/xlsx-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSX-Datei in XLTX in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSX in XLTX ist eine komplexe Aufgabe. Alle XLSX-zu-XLTX-Formatübergänge werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSX-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von XLSX- in XLTX-Dateien. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und perfekte XLTX-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSX in XLTX ist eine komplexe Aufgabe. Alle XLSX-zu-XLTX-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSX-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSX- in XLTX-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XLTX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von XLSX in das XLTX-Format" gistPath="" %}}
@@ -36,10 +36,10 @@ Das Konvertieren von Dateiformaten von XLSX in XLTX ist eine komplexe Aufgabe. A
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um XLSX in XLTX umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um XLSX in XLTX zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

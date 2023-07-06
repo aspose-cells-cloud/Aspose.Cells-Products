@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как SQL API для PHP.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата SXC в виде файла формата SQL.
 url: /ru/php/saveas/sxc-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как SQL в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из SXC в виде SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения SXC в формате SQL" gistPath="" %}}

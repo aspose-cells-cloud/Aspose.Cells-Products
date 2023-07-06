@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF لتحويل ODS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: EMF لتحويل ODS API for Java
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق EMF إلى ملف بتنسيق ODS.
 url: /ar/java/conversion/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

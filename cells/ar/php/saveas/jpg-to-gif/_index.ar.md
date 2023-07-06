@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ JPG بصيغة GIF API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق JPG كملف بتنسيق GIF.
 url: /ar/php/saveas/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ JPG كملف GIF" h2="مكتبة PHP لحفظ JPG بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ JPG كملف GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/jpg-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ JPG كملف GIF" h2="مكتبة PHP لحفظ JPG بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ JPG بتنسيق GIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/jpg-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بصيغة GIF في PHP" >}}

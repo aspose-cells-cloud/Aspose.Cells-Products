@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى XLTX - تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  JPG إلى XLTX - تحويل API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLTX.
 url: /ar/perl/conversion/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som XLTX API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara JPG-formatfil som XLTX-formatfil.
 url: /sv/php/saveas/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

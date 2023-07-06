@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TSV как TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата TSV в виде файла формата TXT.
 url: /ru/android/saveas/tsv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -35,7 +35,7 @@ url: /ru/android/saveas/tsv-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для сохранения TSV как TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API, чтобы сохранить TSV как TXT" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>

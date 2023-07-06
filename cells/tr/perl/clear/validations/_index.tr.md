@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API tarafından ye
 url: /tr/perl/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Perl kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizler." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için" h2="Perl Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizlemek için temizleyin" p="Yerel Microsoft Excel ve Perl\'deki OpenOffice Calc hesap tablosu iş akışlarındaki doğrulamaları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Perl kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki doğrulamaları temizler." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Hesap Tablosu - Perl REST API üzerindeki doğrulamaları temizle" >}}

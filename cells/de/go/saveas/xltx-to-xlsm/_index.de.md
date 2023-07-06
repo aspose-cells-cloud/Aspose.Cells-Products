@@ -1,19 +1,19 @@
 ﻿---
 title:  Speichern Sie XLTX als XLSM API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die XLTX-Formatdatei als XLSM-Formatdatei zu speichern.
 url: /de/go/saveas/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rufen Sie API auf, um XLTX als XLSM zu speichern" h2="Gehen Sie in die Bibliothek, um XLTX als XLSM zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XLTX als XLSM und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLTX als XLSM zu speichern" h2="Gehen Sie zur Bibliothek, um XLTX als XLSM zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLTX als XLSM und anderen Dokumentformaten mit Go." urlsection="saveas/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei als XLSM in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLTX als XLSM ist eine komplexe Aufgabe. Alle XLTX-zu-XLSM-Formatübergänge werden von unserem Go-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um XLTX als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und perfekte XLSM-Ausgabe.
+Das Speichern von Dateiformaten von XLTX als XLSM ist eine komplexe Aufgabe. Alle XLTX-zu-XLSM-Formatübergänge werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um XLTX als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von XLTX als XLSM-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von XLTX im XLSM-Format" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -32,8 +32,8 @@ Das Speichern von Dateiformaten von XLTX als XLSM ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLTX als XLSM zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

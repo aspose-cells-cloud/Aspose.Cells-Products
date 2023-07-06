@@ -1,10 +1,10 @@
 ﻿---
-title:  Combine varios archivos Excel en un archivo.
-description:  API y SDK en la nube para fusionar varios archivos Excel. Combine varios archivos Excel en un archivo por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Combine varios archivos Excel en un archivo con Go.
+description:  SDK y API en la nube para fusionar varios archivos Excel con Go
 url: /es/go/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para combinar varios archivos Excel en un solo archivo." h2="Vaya a la biblioteca para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en Go. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Go." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para combinar varios archivos Excel en un solo archivo." h2="Vaya a la biblioteca para fusionar archivos múltiples Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en Go. Esta solución profesional fusiona múltiples archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Go." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Combine varios archivos Excel en un archivo: vaya a REST API" >}}

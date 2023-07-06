@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохраните TSV как XLT API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата TSV в виде файла формата XLT.
 url: /ru/nodejs/saveas/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TSV как XLT" h2="Библиотека NodeJS для сохранения TSV как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TSV как XLT и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/tsv-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TSV как XLT" h2="Библиотека NodeJS для сохранения TSV как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TSV в виде XLT и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/tsv-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XLT в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV как XLT — сложная задача. Все переходы между форматами TSV и XLT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов TSV в формате XLT в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
+Сохранение форматов файлов из TSV как XLT — сложная задача. Все переходы форматов TSV в XLT выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов TSV в формате XLT в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения TSV в формате XLT" gistPath="" %}}

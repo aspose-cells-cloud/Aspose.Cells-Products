@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde JSON como FODS API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato JSON como archivo de formato FODS.
 url: /es/net/saveas/json-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

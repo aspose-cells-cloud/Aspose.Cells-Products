@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как TSV API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата MHTML в виде файла формата TSV.
 url: /ru/net/saveas/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/mhtml-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как TSV в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде TSV — сложная задача. Все переходы между форматами MHTML и TSV выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения файлов MHTML в формате TSV в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из MHTML в виде TSV — сложная задача. Все переходы между форматами MHTML и TSV выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения файлов MHTML в формате TSV в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения MHTML в формате TSV" gistPath="" %}}

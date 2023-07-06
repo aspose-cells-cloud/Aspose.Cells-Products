@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как DOCX API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS в виде файла формата DOCX.
 url: /ru/android/saveas/ods-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

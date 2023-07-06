@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar HTML como SXC API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato HTML como archivo de formato SXC.
 url: /es/java/saveas/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/java/saveas/html-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como SXC en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como SXC es una tarea compleja. Todas las transiciones de formato HTML a SXC se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Java es una solución profesional para guardar HTML como archivos SXC en línea. Este SDK de la nube ofrece a los desarrolladores de Java una potente funcionalidad y un resultado SXC perfecto.
+Guardar formatos de archivo desde HTML como SXC es una tarea compleja. Todas las transiciones de formato HTML a SXC se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Java es una solución profesional para guardar HTML como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de Java una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para guardar HTML como formato SXC" gistPath="" %}}

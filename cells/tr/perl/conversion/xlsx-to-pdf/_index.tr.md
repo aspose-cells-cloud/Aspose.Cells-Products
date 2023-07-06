@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX ila PDF Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSX ila PDF Perl için API'i dönüştürün
+description:  XLSX biçim dosyasını PDF biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlsx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

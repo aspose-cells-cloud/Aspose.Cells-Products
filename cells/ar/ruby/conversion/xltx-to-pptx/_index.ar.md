@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى PPTX - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLTX إلى ملف بتنسيق PPTX.
 url: /ar/ruby/conversion/xltx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/xltx-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى PPTX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLTX إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLTX إلى PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
+يعد تحويل تنسيقات الملفات من XLTX إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات XLTX إلى PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل XLTX إلى تنسيق PPTX" gistPath="" %}}

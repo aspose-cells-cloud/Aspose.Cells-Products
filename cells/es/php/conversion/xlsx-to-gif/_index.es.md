@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSX a GIF Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLSX a un archivo de formato GIF.
 url: /es/php/conversion/xlsx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSX a GIF" h2="PHP biblioteca para convertir XLSX a GIF" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSX a GIF y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsx-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSX a GIF" h2="PHP biblioteca para convertir XLSX a GIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSX a GIF y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsx-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo XLSX a GIF en PHP" >}}

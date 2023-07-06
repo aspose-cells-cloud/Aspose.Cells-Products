@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TXT som BMP API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara TXT-formatfilen som BMP-formatfil.
 url: /sv/python/saveas/txt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir XLS en TSV API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLS en fichier au format TSV.
 url: /fr/perl/conversion/xls-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir XLS en TSV" h2="bibliothèque Perl pour convertir XLS en TSV" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir XLS en TSV et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/xls-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir XLS en TSV" h2="bibliothèque Perl pour convertir XLS en TSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir XLS en TSV et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/xls-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLS en TSV en Perl" >}}

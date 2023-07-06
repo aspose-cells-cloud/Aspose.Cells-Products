@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TSV som TIFF API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använda Aspose.Cells Cloud SDK för Android för att spara TSV-formatfil som TIFF-fil.
 url: /sv/android/saveas/tsv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

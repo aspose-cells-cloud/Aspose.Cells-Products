@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer les numéros sous DOCX API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format NUMBERS en tant que fichier au format DOCX.
 url: /fr/perl/saveas/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer les NUMÉROS au format DOCX" h2="Bibliothèque Perl pour enregistrer les NUMÉROS au format DOCX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format DOCX et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/numbers-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer les NUMÉROS au format DOCX" h2="Bibliothèque Perl pour enregistrer les NUMÉROS au format DOCX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format DOCX et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/numbers-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format DOCX au Perl" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB'den EMF'e C# için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSB'den EMF'e C# için API'i dönüştürün
+description:  XLSB formatındaki dosyayı EMF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

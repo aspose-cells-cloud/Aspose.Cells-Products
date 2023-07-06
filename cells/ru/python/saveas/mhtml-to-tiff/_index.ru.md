@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните MHTML как TIFF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохраните MHTML как TIFF API для Python.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата MHTML как файла формата TIFF.
 url: /ru/python/saveas/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

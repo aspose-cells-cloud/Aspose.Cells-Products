@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TSV come XLSM API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato TSV come file in formato XLSM.
 url: /it/go/saveas/tsv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

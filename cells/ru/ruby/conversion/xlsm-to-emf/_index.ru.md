@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM в EMF Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLSM в файл формата EMF.
 url: /ru/ruby/conversion/xlsm-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xlsm-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в EMF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в EMF — сложная задача. Все переходы формата XLSM в формат EMF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSM в EMF. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод EMF.
+Преобразование форматов файлов из XLSM в EMF — сложная задача. Все переходы формата XLSM в формат EMF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSM в EMF. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLSM в формат EMF" gistPath="" %}}

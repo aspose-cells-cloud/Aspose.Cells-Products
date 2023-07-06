@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLSM sous DIF API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLSM en tant que fichier au format DIF.
 url: /fr/net/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить CSV как SQL API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата CSV в виде файла формата SQL.
 url: /ru/php/saveas/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения CSV как SQL" h2="PHP библиотека для сохранения CSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения CSV как SQL и других форматов документов в Интернете с использованием PHP." urlsection="saveas/csv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для сохранения CSV как SQL" h2="PHP библиотека для сохранения CSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения CSV в виде SQL и других форматов документов в Интернете с использованием PHP." urlsection="saveas/csv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как SQL в PHP." >}}

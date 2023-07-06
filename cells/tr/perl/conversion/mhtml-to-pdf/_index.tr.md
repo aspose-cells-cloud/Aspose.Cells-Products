@@ -1,6 +1,6 @@
 ﻿---
-title:  PDF için MHTML'yi Perl için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: PDF için MHTML'yi Perl için API'e dönüştür
+description:  MHTML biçim dosyasını PDF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

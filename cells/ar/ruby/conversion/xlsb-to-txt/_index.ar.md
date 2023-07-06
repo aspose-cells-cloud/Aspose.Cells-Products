@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB إلى TXT - تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSB إلى ملف بتنسيق TXT.
 url: /ar/ruby/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/conversion/xlsb-to-txt/
 يعد تحويل تنسيقات الملفات من XLSB إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى TXT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSB إلى TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل XLSB إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال كود في Ruby باستخدام REST API لتحويل XLSB إلى تنسيق TXT" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

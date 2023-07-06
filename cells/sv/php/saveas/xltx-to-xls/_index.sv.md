@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som XLS API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLTX-formatfil som XLS-formatfil.
 url: /sv/php/saveas/xltx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى TIFF تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLTX إلى ملف بتنسيق TIFF.
 url: /ar/android/conversion/xltx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'yi ODS olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV format dosyasını ODS format dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

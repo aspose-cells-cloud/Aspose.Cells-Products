@@ -1,16 +1,16 @@
 ﻿---
-title: Lägg till vattenstämpel för lokal arbetsbok i Cloud
-description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel & OpenOffice Calc. Lägger till vattenstämpel för lokala kalkylblad av Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title: Lägg till vattenstämpel för lokal arbetsbok med Android i molnet
+description:  Cloud API och SDK för att lägga till vattenstämpel för Microsoft Excel och OpenOffice Calc med Android. Lägger till vattenstämpel för lokala kalkylblad med Cells Cloud API SDK för Android.
 url: /sv/android/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Android. Denna professionella lösning lägger till vattenstämpel för Microsoft Excel och OpenOffice Calc-kalkylblad online med Android." urlsection="background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Android-bibliotek för att lägga till vattenstämpel för lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Watermark REST API för att lägga till vattenstämpel för lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Android. Denna professionella lösning lägger till vattenstämpel för Microsoft Excel och OpenOffice Calc-kalkylblad online med Android." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Lägg till vattenstämpel för lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" %}}
 <br/>
-Att lägga till vattenstämpel för ett lokalt kalkylblad är en komplex uppgift. Att lägga till vattenstämpel för lokala kalkylarksövergångar utförs av vår Android SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att lägga till vattenstämpel för lokala kalkylblad online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt API.
+Att lägga till vattenstämpel för ett lokalt kalkylblad med Android är en komplex uppgift. Att lägga till vattenstämpel för lokala kalkylarksövergångar utförs av vår Android SDK samtidigt som källkalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att lägga till vattenstämpel för lokala kalkylblad online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att lägga till vattenstämpel för lokala kalkylblad" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Watermark.java" %}}

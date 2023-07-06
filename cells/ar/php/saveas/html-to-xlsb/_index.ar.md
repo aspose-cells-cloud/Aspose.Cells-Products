@@ -1,6 +1,6 @@
 ﻿---
-title: وفر HTML كـ XLSB API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  وفر HTML كـ XLSB API مقابل PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق HTML كملف بتنسيق XLSB.
 url: /ar/php/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

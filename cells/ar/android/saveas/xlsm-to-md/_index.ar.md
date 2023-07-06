@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLSM باسم MD API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLSM كملف بتنسيق MD.
 url: /ar/android/saveas/xlsm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSM كـ MD" h2="مكتبة Android لحفظ XLSM كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSM كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLSM كـ MD" h2="مكتبة Android لحفظ XLSM كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLSM كـ MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xlsm-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM كملف MD في Android" >}}

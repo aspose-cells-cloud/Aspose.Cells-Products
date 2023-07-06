@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как XLT API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLTX в виде файла формата XLT.
 url: /ru/go/saveas/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xltx-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как XLT в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде XLT — сложная задача. Все переходы формата XLTX в формат XLT выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Go — это профессиональное решение для сохранения файлов XLTX в формате XLT онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLT.
+Сохранение форматов файлов из XLTX в виде XLT — сложная задача. Все переходы формата XLTX в формат XLT выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Go — это профессиональное решение для сохранения файлов XLTX в формате XLT в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLTX в формате XLT" gistPath="" %}}

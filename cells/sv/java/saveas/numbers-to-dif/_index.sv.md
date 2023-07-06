@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMMER som DIF API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara NUMBERS-formatfilen som DIF-formatfil.
 url: /sv/java/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

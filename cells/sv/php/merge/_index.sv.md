@@ -1,10 +1,10 @@
 ﻿---
-title:  Sammanfoga
-description: Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+title:  Slå samman med PHP
+description: Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil med PHP. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/php/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Sammanfoga" h2="Aspose.Cells Cloud SDK stöder slå samman flera Excel-filer till en Excel-fil." p="Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman med PHP" h2="Aspose.Cells Cloud SDK stöder slå samman flera Excel-filer till en Excel-fil." p="Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil med PHP. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -20,9 +20,9 @@ url: /sv/php/merge/
 	<li><b>Bilder:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Övrig:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Utmatningsformat</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Utmatningsformat</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft Word/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft Word/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Öppet kontor:</b> Ods, Fods, Ots</li>
 	<li><b>XML:</b>SpreadsheetML, XML</li>
 	<li><b>Text:</b> Csv, Tsv, Txt (TabDelimited)</li>
@@ -34,7 +34,7 @@ url: /sv/php/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Slå samman tilläggslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Slå samman med PHP Tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

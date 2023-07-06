@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/android/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المخططات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в XML API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата MHTML в файл формата XML.
 url: /ru/net/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/mhtml-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XML в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования MHTML в формат XML" gistPath="" %}}

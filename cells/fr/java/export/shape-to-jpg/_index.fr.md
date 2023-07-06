@@ -1,6 +1,6 @@
 ﻿---
 title:  Exportez SHAPE vers JPG à partir d'une feuille de calcul en utilisant Java API
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers Excel et d'objets internes vers des types de fichiers de format. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/java/export/shape-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/java/export/shape-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet SHAPE vers un fichier au format JPG en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exporter un objet SHAPE vers un fichier JPG à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions SHAPE vers le format JPG est effectuée par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul SHAPE source. Notre bibliothèque Java est une solution professionnelle pour exporter en ligne des objets SHAPE vers des fichiers au format JPG. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie JPG parfaite.
+Exporter un objet SHAPE vers un fichier JPG à partir d'une feuille de calcul est une tâche complexe. L'exportation des transitions de format SHAPE vers JPG est effectuée par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul SHAPE source. Notre bibliothèque Java est une solution professionnelle pour exporter en ligne des objets SHAPE vers des fichiers au format JPG. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour exporter SHAPE au format JPG à partir d\'une feuille de calcul" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLS'den WMF'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLS'den WMF'ye Dönüştürme API için Python
+description:  XLS biçimli dosyayı WMF biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/xls-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

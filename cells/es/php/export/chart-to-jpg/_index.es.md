@@ -1,10 +1,10 @@
 ﻿---
 title:  Exporte CHART a JPG desde una hoja de cálculo usando PHP API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/php/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar GRÁFICO a archivo JPG" h2="PHP biblioteca para exportar CHART a archivo JPG" p="Use Cells Export REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en PHP. Esta es una solución profesional para exportar CHART a un archivo de formato JPG desde una hoja de cálculo en línea usando PHP." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar GRÁFICO a archivo JPG" h2="PHP biblioteca para exportar CHART a archivo JPG" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en PHP. Esta es una solución profesional para exportar CHART a archivo de formato JPG desde hoja de cálculo en línea usando PHP." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato JPG en PHP" >}}

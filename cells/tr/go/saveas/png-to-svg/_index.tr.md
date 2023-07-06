@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'i Go için SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak PNG biçim dosyasını SVG biçim dosyası olarak kaydedin.
 url: /tr/go/saveas/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

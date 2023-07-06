@@ -1,6 +1,6 @@
 ﻿---
 title:  Очистить объекты
-description: Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает удаление внутренних объектов в файле Excel. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ XLTX API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق EMF كملف بتنسيق XLTX.
 url: /ar/java/saveas/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

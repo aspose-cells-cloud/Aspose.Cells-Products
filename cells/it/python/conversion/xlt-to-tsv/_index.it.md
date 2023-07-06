@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT in TSV Converti API in Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato XLT in un file in formato TSV.
 url: /it/python/conversion/xlt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

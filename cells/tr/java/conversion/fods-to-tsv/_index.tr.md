@@ -1,5 +1,5 @@
 ﻿---
-title: Bulutta FODS'yi TSV'ye dönüştürün via Java
+title:  Bulutta FODS'yi TSV'ye dönüştürün via Java
 description: REST API ve Açık Kaynak Java SDK ile Excel dosyaları oluşturun, düzenleyin veya dönüştürün
 url: /tr/java/conversion/fods-to-tsv/
 family: cells

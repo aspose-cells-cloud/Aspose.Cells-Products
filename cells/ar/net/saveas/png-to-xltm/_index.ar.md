@@ -1,6 +1,6 @@
 ﻿---
 title: وفر PNG كـ XLTM API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق PNG كملف بتنسيق XLTM.
 url: /ar/net/saveas/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

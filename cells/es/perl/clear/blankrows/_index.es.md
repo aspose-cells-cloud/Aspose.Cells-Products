@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/perl/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Borrar para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar filas en blanco en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra filas en blanco en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Borrar para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar filas en blanco en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra filas en blanco en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Perl REST API" >}}

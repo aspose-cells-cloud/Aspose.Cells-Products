@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JPG'yi DIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı DIF formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/jpg-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/jpg-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Ruby\'de DIF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini JPG'den DIF olarak kaydetmek karmaşık bir iştir. Tüm JPG'den DIF biçimine geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JPG'yi çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya biçimlerini JPG'den DIF olarak kaydetmek karmaşık bir iştir. Tüm JPG'den DIF formatına geçişler, kaynak JPG elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JPG'yi çevrimiçi DIF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JPG\'yi DIF formatı olarak kaydetmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

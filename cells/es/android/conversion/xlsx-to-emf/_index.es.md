@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX a EMF Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLSX a un archivo de formato EMF.
 url: /es/android/conversion/xlsx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

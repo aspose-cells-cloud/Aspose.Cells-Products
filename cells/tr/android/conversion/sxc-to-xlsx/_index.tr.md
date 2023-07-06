@@ -1,10 +1,10 @@
 ﻿---
 title:  Android için SXC'den XLSX'e Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını XLSX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/sxc-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSX\'e dönüştürmek için Android API" h2="SXC\'yi XLSX\'e dönüştürmek için Android kütüphanesi" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak SXC\'yi XLSX\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/sxc-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSX\'e dönüştürmek için Android API" h2="SXC\'yi XLSX\'e dönüştürmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak SXC\'yi XLSX\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/sxc-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir SXC dosyasını XLSX\'e dönüştürün" >}}

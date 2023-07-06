@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için XML'i JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/xml-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını Swift\'de JSON olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XML'den JSON olarak kaydetmek karmaşık bir iştir. Tüm XML'den JSON biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XML'i çevrimiçi olarak JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya biçimlerini XML'den JSON olarak kaydetmek karmaşık bir görevdir. Tüm XML'den JSON biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XML'i çevrimiçi olarak JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i JSON biçimi olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

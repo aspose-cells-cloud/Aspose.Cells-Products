@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF a XLTM Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: EMF a XLTM Convertir API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato EMF a un archivo de formato XLTM.
 url: /es/android/conversion/emf-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

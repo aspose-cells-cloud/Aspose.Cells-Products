@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT باسم JSON API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TXT كملف بتنسيق JSON.
 url: /ar/ruby/saveas/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

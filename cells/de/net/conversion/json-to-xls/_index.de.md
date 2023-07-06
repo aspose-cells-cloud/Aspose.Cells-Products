@@ -1,16 +1,16 @@
 ﻿---
-title:  JSON in XLS konvertieren API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title: JSON zu XLS Konvertieren Sie API in C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im JSON-Format in eine Datei im XLS-Format.
 url: /de/net/conversion/json-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um JSON in XLS zu konvertieren" h2="C#-Bibliothek zum Konvertieren von JSON in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von JSON in XLS und andere Dokumentformate unter C#." urlsection="conversion/json-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von JSON in XLS" h2="C#-Bibliothek zum Konvertieren von JSON in XLS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JSON in XLS und andere Dokumentformate unter Verwendung von C#." urlsection="conversion/json-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JSON-Datei in C# in XLS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JSON-Datei in XLS in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JSON in XLS ist eine komplexe Aufgabe. Alle Formatübergänge von JSON zu XLS werden von unserem C# SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der JSON-Quelltabelle beibehalten werden. Unsere C#-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von JSON- in XLS-Dateien. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte XLS-Ausgabe.
+Das Konvertieren von Dateiformaten von JSON in XLS ist eine komplexe Aufgabe. Alle Übergänge von JSON zum XLS-Format werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der JSON-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JSON- in XLS-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte XLS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von JSON in das XLS-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von JSON in XLS ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um JSON in XLS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

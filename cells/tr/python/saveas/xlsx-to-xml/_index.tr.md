@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX'i Python için XML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçim dosyasını XML biçim dosyası olarak kaydetmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/saveas/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

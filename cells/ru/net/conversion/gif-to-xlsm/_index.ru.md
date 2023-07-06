@@ -1,13 +1,13 @@
 ﻿---
 title:  Преобразование GIF в XLSM API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата GIF в файл формата XLSM.
 url: /ru/net/conversion/gif-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования GIF в XLSM" h2="C# библиотека для преобразования GIF в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования GIF в XLSM и другие форматы документов онлайн с помощью C#." urlsection="conversion/gif-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл GIF в XLSM по номеру C#." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в XLSM по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из GIF в XLSM — сложная задача. Все переходы формата GIF в формат XLSM выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов GIF в XLSM. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат XLSM.

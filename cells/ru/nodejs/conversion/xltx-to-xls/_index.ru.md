@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTX в XLS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLTX в файл формата XLS.
 url: /ru/nodejs/conversion/xltx-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

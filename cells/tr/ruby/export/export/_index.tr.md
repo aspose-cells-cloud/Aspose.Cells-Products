@@ -16,7 +16,7 @@ url: /tr/ruby/export/export/
 
 {{% blocks/products/pf/agp/feature-section-col title="Başlayın Excel REST API" %}}
  Excel Cloud SDK for .NET kaynak kodunu şu adresten alın:[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby) SDK'yı kendiniz derlemek veya[Salıverme](https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/releases) alternatif indirme seçenekleri için.
-şuna bir bak[geliştirici kılavuzu](https://docs.aspose.cloud/cells/developer-guide/) API Referans hakkında daha fazla bilgi için[]().
+ şuna bir bak[geliştirici kılavuzu](https://docs.aspose.cloud/cells/developer-guide/) API Referans hakkında daha fazla bilgi için[]().
  Ayrıca Swagger tabanlı bir göz atın[API Referans](https://apireference.aspose.cloud/cells/#/LightCells/PostExport) hakkında daha fazla bilgi edinmek için[Excel DİNLENME API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

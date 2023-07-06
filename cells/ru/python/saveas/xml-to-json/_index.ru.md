@@ -1,13 +1,13 @@
 ﻿---
-title:  Сохранить XML как JSON API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как JSON API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XML в виде файла формата JSON.
 url: /ru/python/saveas/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, чтобы сохранить XML как JSON" h2="Python библиотека для сохранения XML в формате JSON" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения XML в виде JSON и других форматов документов в Интернете с использованием Python." urlsection="saveas/xml-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как JSON в Python." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как JSON в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из XML в виде JSON — сложная задача. Все переходы между форматами XML и JSON выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для сохранения XML в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.

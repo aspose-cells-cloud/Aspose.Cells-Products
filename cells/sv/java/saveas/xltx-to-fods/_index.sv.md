@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som FODS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLTX-formatfil som FODS-formatfil.
 url: /sv/java/saveas/xltx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

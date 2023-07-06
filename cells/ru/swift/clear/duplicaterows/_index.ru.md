@@ -1,6 +1,6 @@
 ﻿---
 title:  Удаление повторяющихся строк в локальной книге в облаке
-description: Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -18,7 +18,7 @@ url: /ru/swift/clear/duplicate-rows/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для очистки повторяющихся строк" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Swift API для очистки повторяющихся строк" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод postClearObjects, чтобы получить результирующий поток</li>

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى XLTX - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLTX.
 url: /ar/go/conversion/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

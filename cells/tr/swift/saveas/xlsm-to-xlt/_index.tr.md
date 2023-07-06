@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için XLSM'yi XLT API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/xlsm-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSM dosyasını Swift\'de XLT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSM'den XLT olarak kaydetmek karmaşık bir görevdir. Tüm XLSM'den XLT formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLSM'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
+Dosya biçimlerini XLSM'den XLT olarak kaydetmek karmaşık bir görevdir. Tüm XLSM'den XLT formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLSM'yi çevrimiçi XLT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XLT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSM\'yi XLT formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

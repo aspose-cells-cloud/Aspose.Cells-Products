@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML a JSON Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato MHTML a un archivo de formato JSON.
 url: /es/go/conversion/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

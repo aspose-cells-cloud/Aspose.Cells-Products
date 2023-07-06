@@ -1,6 +1,6 @@
 ﻿---
-title: SXC'den PNG'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  SXC'den PNG'e Perl için API'i dönüştürün
+description:  SXC biçim dosyasını PNG biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/sxc-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

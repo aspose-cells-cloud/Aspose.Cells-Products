@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى SXC - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSX إلى ملف بتنسيق SXC.
 url: /ar/ruby/conversion/xlsx-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir JSON en XLSX API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir JSON en XLSX API pour NodeJS
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format JSON en fichier au format XLSX.
 url: /fr/nodejs/conversion/json-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

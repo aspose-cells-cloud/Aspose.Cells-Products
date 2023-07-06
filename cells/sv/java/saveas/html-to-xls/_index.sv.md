@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som XLS API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara HTML filformat som XLS-formatfil.
 url: /sv/java/saveas/html-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

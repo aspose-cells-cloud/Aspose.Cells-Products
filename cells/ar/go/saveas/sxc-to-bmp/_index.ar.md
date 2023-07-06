@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ BMP API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق SXC كملف تنسيق BMP.
 url: /ar/go/saveas/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

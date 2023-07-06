@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XLTM в XML API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLTM в XML API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTM в файл формата XML.
 url: /ru/net/conversion/xltm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

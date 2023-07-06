@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام باسم SXC API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق NUMBERS كملف بتنسيق SXC.
 url: /ar/php/saveas/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

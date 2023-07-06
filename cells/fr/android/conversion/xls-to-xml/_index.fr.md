@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en XML API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format XLS en fichier au format XML.
 url: /fr/android/conversion/xls-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

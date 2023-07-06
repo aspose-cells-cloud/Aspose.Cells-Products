@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar PNG como DIF API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato PNG como archivo de formato DIF.
 url: /es/net/saveas/png-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

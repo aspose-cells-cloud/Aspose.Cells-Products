@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как JPG API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/csv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как JPG в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы формата CSV в формат JPG выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы между форматами CSV и JPG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Swift — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения CSV в формате JPG" gistPath="" %}}

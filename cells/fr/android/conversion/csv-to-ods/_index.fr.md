@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir CSV en ODS API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format CSV en fichier au format ODS.
 url: /fr/android/conversion/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

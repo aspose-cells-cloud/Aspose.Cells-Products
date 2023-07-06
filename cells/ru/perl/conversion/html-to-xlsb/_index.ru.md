@@ -1,10 +1,10 @@
 ﻿---
 title:  HTML в XLSB Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата HTML в файл формата XLSB.
 url: /ru/perl/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования HTML в XLSB" h2="Библиотека Perl для преобразования HTML в XLSB" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования HTML в XLSB и другие форматы документов онлайн с использованием Perl." urlsection="conversion/html-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования HTML в XLSB" h2="Perl библиотека для преобразования HTML в XLSB" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования HTML в XLSB и другие форматы документов онлайн с использованием Perl." urlsection="conversion/html-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLSB в Perl" >}}

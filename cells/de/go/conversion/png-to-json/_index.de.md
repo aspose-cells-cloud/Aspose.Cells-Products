@@ -1,16 +1,16 @@
 ﻿---
-title:  PNG in JSON konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  PNG in JSON Konvertieren Sie API für Go
+description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um eine Datei im PNG-Format in eine JSON-Formatdatei zu konvertieren.
 url: /de/go/conversion/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um PNG in JSON zu konvertieren" h2="Gehen Sie zur Bibliothek, um PNG in JSON zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um PNG online mit Go in JSON und andere Dokumentformate zu konvertieren." urlsection="conversion/png-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um PNG in JSON zu konvertieren" h2="Gehen Sie zur Bibliothek, um PNG in JSON zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in JSON und andere Dokumentformate mit Go." urlsection="conversion/png-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in Go in JSON" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in JSON in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von PNG in JSON ist eine komplexe Aufgabe. Alle Formatübergänge von PNG zu JSON werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle PNG beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um PNG online in JSON-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte JSON-Ausgabe.
+Das Konvertieren von Dateiformaten von PNG in JSON ist eine komplexe Aufgabe. Alle Übergänge vom Format PNG zum JSON-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle PNG erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von PNG in JSON-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von PNG in das JSON-Format" gistPath="" %}}
@@ -49,9 +49,9 @@ Das Konvertieren von Dateiformaten von PNG in JSON ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um PNG in JSON zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

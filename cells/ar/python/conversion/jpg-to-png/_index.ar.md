@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى PNG حوّل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: JPG إلى PNG حوّل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JPG إلى ملف بتنسيق PNG.
 url: /ar/python/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

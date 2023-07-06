@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM إلى XPS تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTM إلى XPS تحويل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLTM إلى ملف بتنسيق XPS.
 url: /ar/perl/conversion/xltm-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

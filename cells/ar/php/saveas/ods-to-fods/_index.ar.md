@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ المواد المستنفدة للأوزون كـ FODS API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ المواد المستنفدة للأوزون كـ FODS API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق ODS كملف بتنسيق FODS.
 url: /ar/php/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/php/saveas/ods-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف FODS في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية باعتبارها FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى FODS بواسطة SDK PHP مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ ODS كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
+يعد حفظ تنسيقات الملفات من نظام الوثائق الرسمية باعتبارها FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى FODS بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحفظ ODS كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ ODS كتنسيق FODS" gistPath="" %}}

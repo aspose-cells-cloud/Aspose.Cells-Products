@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JSON как DOCX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JSON в виде файла формата DOCX.
 url: /ru/go/saveas/json-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/json-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как DOCX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для сохранения файлов JSON в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из JSON в виде DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для сохранения JSON в виде файлов DOCX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения JSON в формате DOCX" gistPath="" %}}

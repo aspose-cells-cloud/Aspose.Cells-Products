@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en XLSB API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLSM en fichier au format XLSB.
 url: /fr/python/conversion/xlsm-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

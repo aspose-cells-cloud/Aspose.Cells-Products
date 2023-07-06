@@ -1,10 +1,10 @@
 ﻿---
-title: Convertir XLT en XLSX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir XLT en XLSX API pour C#
+description: Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLT en fichier au format XLSX.
 url: /fr/net/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir XLT en XLSX" h2="Bibliothèque C# pour convertir XLT en XLSX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir XLT en XLSX et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/xlt-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir XLT en XLSX" h2="bibliothèque C# pour convertir XLT en XLSX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir XLT en XLSX et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/xlt-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLT en XLSX en C#" >}}

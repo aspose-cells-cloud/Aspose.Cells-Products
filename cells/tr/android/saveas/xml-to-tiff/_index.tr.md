@@ -1,10 +1,10 @@
 ﻿---
 title:  Android için XML'i TIFF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XML biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i TIFF olarak kaydetmek için Android API" h2="XML\'i TIFF olarak kaydetmek için Android kütüphanesi" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XML\'i TIFF olarak ve diğer belge biçimlerini çevrimiçi olarak Android kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i TIFF olarak kaydetmek için Android API" h2="XML\'i TIFF olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XML\'i TIFF olarak ve diğer belge biçimlerini çevrimiçi olarak Android kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XML dosyasını TIFF olarak kaydedin" >}}

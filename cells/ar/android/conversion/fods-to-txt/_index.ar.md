@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل FODS إلى TXT على Android
+title:  تحويل FODS إلى TXT على Android
 description: أتمتة Excel عمليات معالجة الملفات مثل الإنشاء والتحرير والتحويل باستخدام Cloud API و Android SDK مفتوح المصدر
 url: /ar/android/conversion/fods-to-txt/
 family: cells

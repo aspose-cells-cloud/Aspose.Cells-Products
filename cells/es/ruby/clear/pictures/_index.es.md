@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar imágenes en Microsoft Excel y Ope
 url: /es/ruby/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra imágenes en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra imágenes en el Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Imágenes claras en el Microsoft local Excel y en la hoja de cálculo OpenOffice Calc - Ruby REST API" >}}

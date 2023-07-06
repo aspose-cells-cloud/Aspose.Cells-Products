@@ -1,6 +1,6 @@
 ﻿---
 title:  وفر EMF كـ XLTX API مقابل Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق EMF كملف بتنسيق XLTX.
 url: /ar/perl/saveas/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP إلى SVG تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف بتنسيق BMP إلى ملف بتنسيق SVG.
 url: /ar/android/conversion/bmp-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

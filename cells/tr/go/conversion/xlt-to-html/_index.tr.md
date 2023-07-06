@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi HTML'e Dönüştürmek için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını HTML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

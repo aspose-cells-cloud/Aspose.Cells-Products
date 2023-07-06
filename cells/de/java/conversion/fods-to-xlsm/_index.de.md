@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie FODS in XLSM in der Cloud via Java
-description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API & Open Source Java SDK
+description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source Java SDK
 url: /de/java/conversion/fods-to-xlsm/
 family: cells
 platformtag: java
@@ -11,21 +11,21 @@ platform: Java
 otherformats: XLSB HTML ODS TXT CSV FODS XML TSV XLTM MD XLSM MHTML PDF DIF XLSX SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS mit Java in XLSM" h2="Automatisieren Sie die Excel- und OpenOffice-Dateikonvertierung mit dem Open-Source-Cloud-SDK for Java" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in XLSM mit Java" h2="Automatisieren Sie die Excel- und OpenOffice-Dateikonvertierung mit dem Open-Source-Cloud-SDK for Java" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Einfache FODS-zu-XLSM-Konvertierung" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und API-Version
+1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
+1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.Upload``` in den Standard-Cloud-Speicher hoch
 1. Rufen Sie ```CellsApi.cellsWorkbookGetWorkbook``` an, um die resultierende XLSM-Datei zu erhalten
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel API & Java SDK" %}}
- Holen Sie sich den Excel Cloud SDK for Java-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) um das SDK selbst zu kompilieren oder gehen Sie zur[Freigaben](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und Java" %}}
+ Holen Sie sich den Quellcode Excel Cloud SDK for Java von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-java) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-basiert an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr über die zu erfahren[Excel RUHE API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title="Java Code zum Konvertieren von FODS in XLSM" gistPath="" %}}

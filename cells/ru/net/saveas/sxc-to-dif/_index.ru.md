@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как DIF API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата SXC в качестве файла формата DIF.
 url: /ru/net/saveas/sxc-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

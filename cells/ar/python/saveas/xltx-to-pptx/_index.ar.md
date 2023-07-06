@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ PPTX API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLTX كملف بتنسيق PPTX.
 url: /ar/python/saveas/xltx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

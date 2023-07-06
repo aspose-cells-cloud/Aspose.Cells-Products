@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI TIFF'e Swift için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/conversion/numbers-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/numbers-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Swift\'de TIFF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-NUMBERS olan dosya formatlarını TIFF'e dönüştürmek karmaşık bir iştir. Tüm NUMBERS - TIFF biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi olarak TIFF dosyaya dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
+NUMBERS olan dosya formatlarını TIFF'e dönüştürmek karmaşık bir iştir. TIFF biçimine tüm NUMBERS geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi olarak TIFF dosyaya dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel TIFF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SAYILARI TIFF biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

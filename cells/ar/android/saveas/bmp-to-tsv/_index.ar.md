@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ BMP كـ TSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق BMP كملف بتنسيق TSV.
 url: /ar/android/saveas/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ TSV" h2="مكتبة Android لحفظ BMP كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ TSV" h2="مكتبة Android لحفظ BMP كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بتنسيق TSV في Android" >}}

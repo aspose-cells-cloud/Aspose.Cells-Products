@@ -1,10 +1,10 @@
 ﻿---
 title:  XLT в SVG Конвертировать API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLT в файл формата SVG.
 url: /ru/nodejs/conversion/xlt-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в SVG" h2="Библиотека NodeJS для преобразования XLT в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLT в SVG и другие форматы документов с использованием NodeJS." urlsection="conversion/xlt-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в SVG" h2="Библиотека NodeJS для преобразования XLT в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLT в SVG и другие форматы документов онлайн с использованием NodeJS." urlsection="conversion/xlt-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в SVG в NodeJS" >}}

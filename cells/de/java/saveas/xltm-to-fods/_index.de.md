@@ -1,6 +1,6 @@
 ﻿---
-title:  Speichern Sie XLTM als FODS API for Java
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  Speichern Sie XLTM unter FODS API for Java
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der XLTM-Formatdatei als FODS-Formatdatei.
 url: /de/java/saveas/xltm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,10 +10,10 @@ url: /de/java/saveas/xltm-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als FODS unter Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XLTM als FODS ist eine komplexe Aufgabe. Alle Formatübergänge von XLTM zu FODS werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle beibehalten wird. Unsere Java-Bibliothek ist eine professionelle Lösung, um XLTM als FODS-Dateien online zu speichern. Dieses Cloud-SDK bietet Java-Entwicklern leistungsstarke Funktionen und eine perfekte FODS-Ausgabe.
+Das Speichern von Dateiformaten aus XLTM als FODS ist eine komplexe Aufgabe. Alle XLTM-zu-FODS-Formatübergänge werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLTM-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um XLTM als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von XLTM als FODS-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von XLTM im FODS-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -36,15 +36,15 @@ Das Speichern von Dateiformaten aus XLTM als FODS ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XLTM als FODS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

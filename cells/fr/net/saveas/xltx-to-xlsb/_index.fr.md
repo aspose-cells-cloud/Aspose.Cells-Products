@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez XLTX sous XLSB API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLTX en tant que fichier au format XLSB.
 url: /fr/net/saveas/xltx-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLTX en XLSB" h2="C# bibliothèque pour enregistrer XLTX en XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format XLSB et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/xltx-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLTX en XLSB" h2="C# bibliothèque pour enregistrer XLTX en XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format XLSB et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/xltx-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format XLSB au C#" >}}

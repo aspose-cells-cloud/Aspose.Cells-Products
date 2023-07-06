@@ -1,6 +1,6 @@
 ﻿---
-title: Сохранить HTML как XLSB API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить HTML как XLSB API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата HTML в виде файла формата XLSB.
 url: /ru/python/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTX باسم DOCX API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLTX كملف بتنسيق DOCX.
 url: /ar/android/saveas/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ DOCX" h2="مكتبة Android لحفظ XLTX بتنسيق DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTX كـ DOCX" h2="مكتبة Android لحفظ XLTX بتنسيق DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTX بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX بتنسيق DOCX في Android" >}}

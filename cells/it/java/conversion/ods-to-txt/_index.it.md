@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti ODS in TXT API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato ODS in un file in formato TXT.
 url: /it/java/conversion/ods-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

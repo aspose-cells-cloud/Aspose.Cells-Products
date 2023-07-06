@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML إلى PDF تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: MHTML إلى PDF تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق MHTML إلى ملف بتنسيق PDF.
 url: /ar/nodejs/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/mhtml-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى PDF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PDF بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PDF مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى PDF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PDF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق PDF" gistPath="" %}}

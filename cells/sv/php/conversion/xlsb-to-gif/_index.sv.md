@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till GIF Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för PHP för att konvertera fil i XLSB-format till fil i GIF-format.
 url: /sv/php/conversion/xlsb-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ MD API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق JPG كملف بتنسيق MD.
 url: /ar/ruby/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ ODS كـ XLTM API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق ODS كملف بتنسيق XLTM.
 url: /ar/android/saveas/ods-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ ODS كـ XLTM" h2="مكتبة Android لحفظ ODS كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ ODS كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ ODS كـ XLTM" h2="مكتبة Android لحفظ ODS كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ ODS كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/ods-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS باسم XLTM في Android" >}}

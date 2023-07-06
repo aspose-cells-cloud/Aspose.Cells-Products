@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den XLSX'e C# için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını XLSX biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/net/conversion/png-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını C#\'de XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den XLSX'e dönüştürmek karmaşık bir iştir. PNG'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, PNG'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
+Dosya formatlarını PNG'den XLSX'e dönüştürmek karmaşık bir iştir. PNG'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, PNG'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PNG\'i XLSX formatına dönüştürmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

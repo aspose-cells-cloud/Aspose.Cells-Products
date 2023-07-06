@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte SHAPE a PNG desde una hoja de cálculo usando Go API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/go/export/shape-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /es/go/export/shape-to-png/
 Exportar un objeto SHAPE al archivo PNG desde una hoja de cálculo es una tarea compleja. Nuestro Go SDK realiza la exportación de SHAPE a las transiciones de formato PNG mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos SHAPE a archivos de formato PNG en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado PNG perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar SHAPE al formato PNG desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar SHAPE al formato PNG desde una hoja de cálculo" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

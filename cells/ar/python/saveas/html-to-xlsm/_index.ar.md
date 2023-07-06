@@ -1,6 +1,6 @@
 ﻿---
 title:  وفر HTML كـ XLSM API مقابل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق HTML كملف بتنسيق XLSM.
 url: /ar/python/saveas/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

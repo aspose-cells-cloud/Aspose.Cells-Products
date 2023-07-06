@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLSB som CSV API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLSB som CSV API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLSB-formatfil som CSV-fil.
 url: /sv/perl/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

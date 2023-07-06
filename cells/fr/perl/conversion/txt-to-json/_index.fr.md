@@ -1,6 +1,6 @@
 ﻿---
-title:  TXT en JSON Convertir API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: TXT en JSON Convertir API pour Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format TXT en fichier au format JSON.
 url: /fr/perl/conversion/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLTX в XLSM API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTX в файл формата XLSM.
 url: /ru/net/conversion/xltx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTX в XLSM" h2="C# библиотека для преобразования XLTX в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования XLTX в XLSM и другие форматы документов онлайн с помощью C#." urlsection="conversion/xltx-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования XLTX в XLSM" h2="C# библиотека для преобразования XLTX в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации XLTX в XLSM и другие форматы документов по телефону C#." urlsection="conversion/xltx-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XLSM в C#" >}}

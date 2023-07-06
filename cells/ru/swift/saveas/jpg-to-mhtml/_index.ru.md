@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как MHTML API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как MHTML" h2="Библиотека Swift для сохранения JPG как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения JPG как MHTML и других форматов документов онлайн с помощью Swift." urlsection="saveas/jpg-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как MHTML" h2="Библиотека Swift для сохранения JPG как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения JPG как MHTML и других форматов документов онлайн с использованием Swift." urlsection="saveas/jpg-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как MHTML в Swift" >}}

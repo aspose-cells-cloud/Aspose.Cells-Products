@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصيغ على Microsoft Excel & Open
 url: /ar/nodejs/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="NodeJS مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="NodeJS مسح لمسح الصيغ على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصيغ في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في NodeJS. هذا الحل الاحترافي يحتوي على صيغ واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام NodeJS." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصيغ في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - NodeJS REST API" >}}

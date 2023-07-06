@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG en tant que DOCX API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format PNG en tant que fichier au format DOCX.
 url: /fr/ruby/saveas/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

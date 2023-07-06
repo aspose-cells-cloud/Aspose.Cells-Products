@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование TSV в XLT API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование TSV в XLT API для C#
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата TSV в файл формата XLT.
 url: /ru/net/conversion/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/tsv-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XLT в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XLT — сложная задача. Все переходы между форматами TSV и XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TSV в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Преобразование форматов файлов из TSV в XLT — сложная задача. Все переходы форматов TSV в XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TSV в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования TSV в формат XLT" gistPath="" %}}

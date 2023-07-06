@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTX كـ XLT API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLTX كملف بتنسيق XLT.
 url: /ar/python/saveas/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLTX كـ XLT" h2="مكتبة Python لحفظ XLTX كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLTX بتنسيق XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltx-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLTX كـ XLT" h2="مكتبة Python لحفظ XLTX كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLTX كـ XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltx-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX باسم XLT في Python" >}}

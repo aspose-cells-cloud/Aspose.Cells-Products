@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить GIF как PDF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата GIF как файла формата PDF.
 url: /ru/android/saveas/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения GIF как PDF" h2="Библиотека Android для сохранения GIF как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения GIF как PDF и других форматов документов онлайн с помощью Android." urlsection="saveas/gif-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения GIF как PDF" h2="Библиотека Android для сохранения GIF как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения GIF в формате PDF и других форматов документов онлайн с помощью Android." urlsection="saveas/gif-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как PDF в Android" >}}

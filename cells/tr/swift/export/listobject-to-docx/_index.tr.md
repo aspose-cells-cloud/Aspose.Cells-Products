@@ -7,13 +7,13 @@ url: /tr/swift/export/listobject-to-docx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i DOCX dosyasına dışa aktarmak için Swift API" h2="LISTOBJECT\'i DOCX dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Swift kullanarak elektronik tablodan LISTOBJECT dosyasını DOCX biçiminde dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de DOCX biçim dosyasına aktarın" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de DOCX format dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan DOCX dosyasına dışa aktarmak karmaşık bir iştir. LISTOBJECT'i DOCX biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak DOCX biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
+LISTOBJECT nesnesini elektronik tablodan DOCX dosyasına dışa aktarmak karmaşık bir iştir. LISTOBJECT'i DOCX biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak DOCX biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan DOCX biçimine dışa aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan DOCX biçimine dışa aktarmak için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

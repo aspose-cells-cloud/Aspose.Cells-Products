@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт WORKBOOK в GIF из электронной таблицы с помощью Go API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/go/export/workbook-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/export/workbook-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата GIF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл GIF из электронной таблицы — сложная задача. Переходы экспорта WORKBOOK в формат GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
+Экспорт объекта WORKBOOK в файл GIF из электронной таблицы является сложной задачей. Переходы экспорта WORKBOOK в формат GIF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для экспорта WORKBOOK в формат GIF из электронной таблицы" gistPath="" %}}

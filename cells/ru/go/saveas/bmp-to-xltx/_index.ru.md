@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить BMP как XLTX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата BMP в формате XLTX.
 url: /ru/go/saveas/bmp-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

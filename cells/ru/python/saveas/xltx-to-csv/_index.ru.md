@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLTX как CSV API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLTX как CSV API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLTX в виде файла формата CSV.
 url: /ru/python/saveas/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

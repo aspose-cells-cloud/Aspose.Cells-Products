@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT in DIF Converti API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato XLT in file in formato DIF.
 url: /it/php/conversion/xlt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

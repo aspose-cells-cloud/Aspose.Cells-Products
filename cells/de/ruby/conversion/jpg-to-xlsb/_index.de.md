@@ -1,16 +1,16 @@
 ﻿---
 title:  JPG in XLSB konvertieren API für Ruby
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer JPG-Formatdatei in eine XLSB-Formatdatei.
 url: /de/ruby/conversion/jpg-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von JPG in XLSB" h2="Ruby-Bibliothek zum Konvertieren von JPG in XLSB" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von JPG in XLSB und andere Dokumentformate mit Ruby." urlsection="conversion/jpg-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Konvertieren von JPG in XLSB" h2="Ruby-Bibliothek zum Konvertieren von JPG in XLSB" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von JPG in XLSB und andere Dokumentformate mit Ruby." urlsection="conversion/jpg-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in Ruby in XLSB" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine JPG-Datei in XLSB in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von JPG in XLSB ist eine komplexe Aufgabe. Alle Formatübergänge vom JPG- ins XLSB-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der JPG-Quelltabelle beibehalten wird. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um JPG-Dateien online in XLSB-Dateien zu konvertieren. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionen und perfekte XLSB-Ausgabe.
+Das Konvertieren von Dateiformaten von JPG in XLSB ist eine komplexe Aufgabe. Alle Übergänge von JPG ins XLSB-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der JPG-Quelltabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von JPG- in XLSB-Dateien. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XLSB-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Konvertieren von JPG in das XLSB-Format" gistPath="" %}}
@@ -30,15 +30,15 @@ Das Konvertieren von Dateiformaten von JPG in XLSB ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API zum Konvertieren von JPG in XLSB" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Ruby API, um JPG in XLSB zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
-<li>Rubin 2.5 oder neuer</li>
+<li>Ruby 2.5 oder neuer</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

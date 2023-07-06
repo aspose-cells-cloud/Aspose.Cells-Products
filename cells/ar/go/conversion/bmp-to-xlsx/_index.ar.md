@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP إلى XLSX - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLSX.
 url: /ar/go/conversion/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

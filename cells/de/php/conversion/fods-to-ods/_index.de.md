@@ -1,6 +1,6 @@
 ﻿---
 title:  Konvertieren Sie FODS in ODS in der Cloud via PHP
-description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API & Open Source PHP SDK
+description: Erstellen, bearbeiten oder konvertieren Sie Excel-Dateien mit REST API und Open Source PHP SDK
 url: /de/php/conversion/fods-to-ods/
 family: cells
 platformtag: php
@@ -11,24 +11,24 @@ platform: PHP
 otherformats: XLTX TXT XPS DIF HTML ODS MHTML XLS XLTM TIFF TSV SVG MD XLSX XML FODS 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="Wandeln Sie FODS mit PHP in ODS um" h2="Automatisieren Sie die Konvertierung von Excel- und OpenOffice-Dateien mit Open Source Cloud SDK für PHP" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="Konvertieren Sie FODS in ODS mit PHP" h2="Automatisieren Sie die Excel- und OpenOffice-Dateikonvertierung mit dem Open-Source-Cloud-SDK für PHP" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie schnell FODS in ODS via PHP" %}}
-1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten
-1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und API-Version
+{{% blocks/products/pf/agp/feature-section-col title="Konvertieren Sie FODS schnell in ODS via PHP" %}}
+1.  Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten
+1. Initialisieren Sie ```CellsApi``` mit Client-ID, Client-Geheimnis, Basis-URL und Version API
 1. Laden Sie die FODS-Datei mit der Methode ```CellsApi.uploadFile``` in den Standard-Cloud-Speicher hoch
 1. Rufen Sie ```CellsApi.cellsSaveAsPostDocumentSaveAs``` an, um die resultierende ODS-Datei zu erhalten
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit Excel API & PHP SDK" %}}
- Holen Sie sich Excel Cloud SDK für PHP-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zur[Freigaben](https://releases.aspose.cloud/) für alternative Download-Optionen.
+{{% blocks/products/pf/agp/feature-section-col title="Beginnen Sie mit dem SDK Excel, API und PHP" %}}
+ Holen Sie sich das Excel Cloud SDK für den PHP-Quellcode von[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-php) um das SDK selbst zu kompilieren oder gehen Sie zu[Veröffentlichungen](https://releases.aspose.cloud/) für alternative Download-Optionen.
 
- Schauen Sie sich auch Swagger-basiert an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr über die zu erfahren[Excel RUHE API](https://products.aspose.cloud/cells/curl/).
+ Schauen Sie sich auch Swagger-based an[API Referenz](https://apireference.aspose.cloud/cells/) um mehr darüber zu erfahren[Excel REST API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="PHP Code für die Konvertierung von FODS zu ODS" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="PHP Code für die Konvertierung von FODS in ODS" gistPath="" %}}
 ```php
 
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ NUMBERS بصيغة GIF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق NUMBERS كملف بتنسيق GIF.
 url: /ar/android/saveas/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ الأرقام على هيئة GIF" h2="مكتبة Android لحفظ NUMBERS بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ الأرقام بصيغة GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/numbers-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ الأرقام على هيئة GIF" h2="مكتبة Android لحفظ NUMBERS بصيغة GIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ الأرقام بصيغة GIF وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Android." urlsection="saveas/numbers-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS بصيغة GIF في Android" >}}

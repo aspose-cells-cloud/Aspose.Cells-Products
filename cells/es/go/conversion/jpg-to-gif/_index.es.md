@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG a GIF Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato JPG a un archivo de formato GIF.
 url: /es/go/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/conversion/jpg-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo JPG a GIF en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de JPG a GIF es una tarea compleja. Todas las transiciones de formato JPG a GIF se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos JPG a GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida GIF perfecta.
+Convertir formatos de archivo de JPG a GIF es una tarea compleja. Todas las transiciones de formato JPG a GIF son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos JPG a GIF en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida GIF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir JPG a formato GIF" gistPath="" %}}

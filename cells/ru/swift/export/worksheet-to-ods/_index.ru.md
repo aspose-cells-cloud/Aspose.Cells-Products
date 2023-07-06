@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт WORKSHEET в ODS из электронной таблицы с помощью Swift API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/export/worksheet-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/export/worksheet-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата ODS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат ODS выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата ODS. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод ODS.
+Экспорт объекта WORKSHEET в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат ODS выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека Swift — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата ODS. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для экспорта WORKSHEET в формат ODS из электронной таблицы" gistPath="" %}}

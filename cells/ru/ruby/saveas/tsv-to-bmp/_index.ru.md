@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните TSV как BMP API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата TSV как файла формата BMP.
 url: /ru/ruby/saveas/tsv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения TSV как BMP" h2="Библиотека Ruby для сохранения TSV как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV как BMP и других форматов документов онлайн с использованием Ruby." urlsection="saveas/tsv-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить TSV как BMP" h2="Библиотека Ruby для сохранения TSV как BMP" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения TSV как BMP и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/tsv-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как BMP в Ruby." >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/tsv-to-bmp/
 Сохранение форматов файлов из TSV как BMP — сложная задача. Все переходы формата TSV в формат BMP выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения файлов TSV в формате BMP онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод BMP.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения TSV в формате BMP" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TSV в формате BMP" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

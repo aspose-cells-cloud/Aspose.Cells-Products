@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT till DIF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera TXT-formatfil till DIF-formatfil.
 url: /sv/nodejs/conversion/txt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

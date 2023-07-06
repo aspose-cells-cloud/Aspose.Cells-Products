@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa kommentarer på Microsoft 
 url: /sv/python/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Denna professionella lösning klarar kommentarer på lokala Microsoft Microsoft 376153481 Microsoft OpenOffice 3 076160 och 3 Calc 481616 och OpenOffice 4761608 och 476160 ." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Python Rensa för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Python. Denna professionella lösning klarar kommentarer på lokala Microsoft Microsoft 376153481 Microsoft OpenOffice 3 076160 och 3 Calc 481616 och OpenOffice 4761608 och 476160 ." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa kommentarer på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Python REST API" >}}

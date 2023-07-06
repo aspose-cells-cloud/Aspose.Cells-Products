@@ -1,6 +1,6 @@
 ﻿---
 title:  Go için XLS'den XLTM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLS biçim dosyasını XLTM biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/xls-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /tr/go/conversion/xls-to-xltm/
 Dosya formatlarını XLS'den XLTM'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den XLTM formatına geçişler, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLS'yi çevrimiçi olarak XLTM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLTM biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLTM formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

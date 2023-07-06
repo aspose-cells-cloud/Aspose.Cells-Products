@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ CSV API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق PNG كملف بتنسيق CSV.
 url: /ar/php/saveas/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

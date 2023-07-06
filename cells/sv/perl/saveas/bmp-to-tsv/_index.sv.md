@@ -1,6 +1,6 @@
 ﻿---
 title: Spara BMP som TSV API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara BMP filformat som TSV format fil.
 url: /sv/perl/saveas/bmp-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

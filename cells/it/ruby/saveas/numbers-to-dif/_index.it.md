@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva NUMBERS come DIF API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato NUMBERS come file in formato DIF.
 url: /it/ruby/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

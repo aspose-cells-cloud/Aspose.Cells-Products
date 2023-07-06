@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till EMF Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera HTML filformat till EMF filformat.
 url: /sv/go/conversion/html-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

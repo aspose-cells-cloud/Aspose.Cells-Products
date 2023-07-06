@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните ODS как HTML API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата ODS как файла формата HTML.
 url: /ru/php/saveas/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/ods-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как HTML в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как HTML — сложная задача. Все преобразования формата ODS в формат HTML выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения ODS в виде файлов HTML в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат HTML.
+Сохранение форматов файлов из ODS как HTML — сложная задача. Все переходы формата ODS в формат HTML выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека PHP — это профессиональное решение для сохранения ODS в виде файлов HTML в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения ODS в формате HTML" gistPath="" %}}

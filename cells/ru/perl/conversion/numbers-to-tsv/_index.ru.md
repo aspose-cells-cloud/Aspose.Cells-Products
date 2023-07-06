@@ -1,6 +1,6 @@
 ﻿---
-title:  НОМЕРА в TSV Конвертировать API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  НОМЕРА в TSV Преобразовать API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата TSV.
 url: /ru/perl/conversion/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/numbers-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в TSV в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в TSV — сложная задача. Все переходы NUMBERS в формат TSV выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TSV. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод TSV.
+Преобразование форматов файлов из NUMBERS в TSV — сложная задача. Все переходы NUMBERS в формат TSV выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TSV. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования NUMBERS в формат TSV" gistPath="" %}}

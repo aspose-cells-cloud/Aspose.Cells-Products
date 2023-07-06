@@ -1,6 +1,6 @@
 ﻿---
-title: NUMBERS till XLSB Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  NUMBERS till XLSB Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera NUMBERS-formatfil till XLSB-formatfil.
 url: /sv/perl/conversion/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

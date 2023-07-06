@@ -1,16 +1,16 @@
 ﻿---
 title:  HTML в BMP Преобразование API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата HTML в файл формата BMP.
 url: /ru/java/conversion/html-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования HTML в BMP" h2="библиотека Java для преобразования HTML в BMP" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования HTML в BMP и другие форматы документов в Интернете с использованием Java." urlsection="conversion/html-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования HTML в BMP" h2="Java библиотека для преобразования HTML в BMP" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования HTML в BMP и другие форматы документов в Интернете с использованием Java." urlsection="conversion/html-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в BMP в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования формата HTML в формат BMP" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى JSON تحويل API ل Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق HTML إلى ملف بتنسيق JSON.
 url: /ar/python/conversion/html-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/python/conversion/html-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف HTML إلى JSON في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى JSON بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. مكتبتنا Python هي حل احترافي لتحويل HTML إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى JSON بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل HTML إلى ملفات JSON عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل HTML إلى تنسيق JSON" gistPath="" %}}

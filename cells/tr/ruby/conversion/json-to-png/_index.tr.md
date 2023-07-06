@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JSON'u PNG'e API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını PNG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/json-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

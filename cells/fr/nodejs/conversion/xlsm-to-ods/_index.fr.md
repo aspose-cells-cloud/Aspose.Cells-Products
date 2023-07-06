@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en ODS API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format XLSM en fichier au format ODS.
 url: /fr/nodejs/conversion/xlsm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

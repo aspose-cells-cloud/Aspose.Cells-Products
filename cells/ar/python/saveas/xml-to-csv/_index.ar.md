@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XML بتنسيق CSV API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XML بتنسيق CSV API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XML كملف بتنسيق CSV.
 url: /ar/python/saveas/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

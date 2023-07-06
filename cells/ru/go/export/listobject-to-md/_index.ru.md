@@ -1,10 +1,10 @@
 ﻿---
 title:  Экспорт LISTOBJECT в MD из электронной таблицы с помощью Go API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/go/export/listobject-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы экспортировать LISTOBJECT в файл MD." h2="Библиотека Go для экспорта LISTOBJECT в файл MD" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта LISTOBJECT в файл формата MD из электронной таблицы онлайн с помощью Go." urlsection="export/listobject-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы экспортировать LISTOBJECT в файл MD." h2="Перейти к библиотеке для экспорта LISTOBJECT в файл MD" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта LISTOBJECT в файл формата MD из электронной таблицы онлайн с помощью Go." urlsection="export/listobject-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата MD в Go" >}}

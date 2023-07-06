@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأعمدة الفارغة على Mic
 url: /ar/go/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل API لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="انتقل إلى مسح لمسح الأعمدة الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الأعمدة الفارغة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="انتقل API لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح الأعمدة الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الأعمدة الفارغة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة في Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأعمدة الفارغة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

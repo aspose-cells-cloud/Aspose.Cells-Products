@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG en PPTX Convertir API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format PNG en fichier au format PPTX.
 url: /fr/go/conversion/png-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

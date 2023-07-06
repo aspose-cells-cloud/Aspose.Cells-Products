@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ MHTML كـ TXT API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق MHTML كملف بتنسيق TXT.
 url: /ar/python/saveas/mhtml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ MHTML كـ TXT" h2="Python مكتبة لحفظ MHTML كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ MHTML كـ TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ MHTML كـ TXT" h2="Python مكتبة لحفظ MHTML كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ MHTML كـ TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/mhtml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم TXT في Python" >}}

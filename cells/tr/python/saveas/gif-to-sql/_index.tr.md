@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF'i Python için SQL API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  GIF formatındaki dosyayı SQL formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

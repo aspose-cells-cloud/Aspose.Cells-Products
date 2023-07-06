@@ -1,10 +1,10 @@
 ﻿---
-title:  تشفير جدول البيانات المحلي بكلمة مرور في Cloud
-description:  Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc. قم بتشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API. تدعم SDK أنواعًا من لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  تشفير جدول البيانات المحلي بكلمة مرور باستخدام Android في Cloud
+description:  Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc مع Android. تشفير جداول البيانات المحلية بكلمة مرور بواسطة Cells Cloud API SDK لنظام Android.
 url: /ar/android/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Android لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Android. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Android." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة Android لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمات المرور في Android. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Android." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Android REST API" >}}

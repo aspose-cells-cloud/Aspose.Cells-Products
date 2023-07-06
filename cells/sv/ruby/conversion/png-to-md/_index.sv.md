@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG till MD Konvertera API för Ruby
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Ruby för att konvertera fil i PNG-format till fil i MD-format.
 url: /sv/ruby/conversion/png-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

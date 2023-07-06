@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG إلى XLTX - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  JPG إلى XLTX - تحويل API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق JPG إلى ملف بتنسيق XLTX.
 url: /ar/python/conversion/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

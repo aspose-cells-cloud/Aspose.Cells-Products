@@ -1,6 +1,6 @@
 ﻿---
-title: XML'den PNG'e C# için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XML'den PNG'e C# için API'e dönüştür
+description:  XML biçim dosyasını PNG biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/xml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

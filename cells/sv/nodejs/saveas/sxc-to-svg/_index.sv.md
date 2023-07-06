@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara SXC som SVG API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för NodeJS för att spara fil i SXC-format som fil i SVG-format.
 url: /sv/nodejs/saveas/sxc-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى JPG تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLS إلى ملف بتنسيق JPG.
 url: /ar/nodejs/conversion/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/xls-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLS إلى JPG في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLS إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى JPG بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLS المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLS إلى JPG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JPG مثالي.
+يعد تحويل تنسيقات الملفات من XLS إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLS إلى JPG بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XLS المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات XLS إلى JPG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JPG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل XLS إلى تنسيق JPG" gistPath="" %}}

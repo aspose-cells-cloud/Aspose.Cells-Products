@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX en JPG API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLTX en fichier au format JPG.
 url: /fr/python/conversion/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come CSV API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato XLSM come file in formato CSV.
 url: /it/ruby/saveas/xlsm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -33,7 +33,7 @@ Salvare i formati di file da XLSM come CSV è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Ruby API per salvare XLSM come CSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Ruby API per salvare XLSM come CSV" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama celle_salva_COME_inviare_documento_salva_come metodo per ottenere il flusso risultante</li>

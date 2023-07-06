@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSB a XLTX API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato XLSB in un file in formato XLTX.
 url: /it/php/conversion/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'u PDF API for Java olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JSON biçim dosyasını PDF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/json-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

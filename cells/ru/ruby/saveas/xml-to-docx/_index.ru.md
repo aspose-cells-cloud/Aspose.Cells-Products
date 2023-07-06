@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как DOCX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XML в виде файла формата DOCX.
 url: /ru/ruby/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/xml-to-docx/
 Сохранение форматов файлов из XML в виде DOCX — сложная задача. Все переходы формата XML в формат DOCX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для сохранения XML в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XML в формате DOCX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XML в формате DOCX" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

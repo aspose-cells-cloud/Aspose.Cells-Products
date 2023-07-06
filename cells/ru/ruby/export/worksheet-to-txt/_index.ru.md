@@ -1,10 +1,10 @@
 ﻿---
 title:  Экспорт WORKSHEET в TXT из электронной таблицы с использованием Ruby API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/ruby/export/worksheet-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта WORKSHEET в файл TXT" h2="Библиотека Ruby для экспорта WORKSHEET в файл TXT" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Ruby. Это профессиональное решение для экспорта файла формата WORKSHEET в TXT из электронной таблицы онлайн с использованием Ruby." urlsection="export/worksheet-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта WORKSHEET в файл TXT" h2="Библиотека Ruby для экспорта WORKSHEET в файл TXT" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Ruby. Это профессиональное решение для экспорта файла формата WORKSHEET в TXT из электронной таблицы онлайн с использованием Ruby." urlsection="export/worksheet-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата TXT в Ruby" >}}

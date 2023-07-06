@@ -1,10 +1,10 @@
 ﻿---
-title:  Cancella le righe duplicate nella cartella di lavoro locale in Cloud
-description: API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc. Cancella le righe duplicate sui fogli di calcolo locali tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title: Cancella le righe duplicate nella cartella di lavoro locale con Go in Cloud
+description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc with Go. Cancella le righe duplicate sui fogli di lavoro locali tramite Cells Cloud API SDK for Go
 url: /it/go/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai a Cancella per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe duplicate nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Go. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai a Cancella per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe duplicate nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc del foglio di calcolo in Go. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Go REST API" >}}

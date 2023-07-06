@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLTX en XML API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLTX en XML API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLTX en fichier au format XML.
 url: /fr/perl/conversion/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

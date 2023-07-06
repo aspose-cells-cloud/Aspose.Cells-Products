@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TXT в XLSX API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для преобразования файла формата TXT в файл формата XLSX.
 url: /ru/php/conversion/txt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/txt-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования TXT в XLSX" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

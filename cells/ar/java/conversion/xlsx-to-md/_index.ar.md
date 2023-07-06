@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSX إلى MD - تحويل API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق XLSX إلى ملف بتنسيق MD.
 url: /ar/java/conversion/xlsx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSX إلى MD" h2="Java مكتبة لتحويل XLSX إلى MD" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLSX إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsx-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSX إلى MD" h2="Java مكتبة لتحويل XLSX إلى MD" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLSX إلى MD وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsx-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSX إلى MD في Java" >}}

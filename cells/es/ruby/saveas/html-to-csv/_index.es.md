@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde HTML como CSV API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para guardar el archivo de formato HTML como archivo de formato CSV.
 url: /es/ruby/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/saveas/html-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como CSV en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como CSV es una tarea compleja. Todas las transiciones de formato HTML a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
+Guardar formatos de archivo desde HTML como CSV es una tarea compleja. Todas las transiciones de formato HTML a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar HTML como formato CSV" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт CHART в PDF из электронной таблицы с использованием NodeJS API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Экспорт CHART в PDF из электронной таблицы с помощью NodeJS API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/nodejs/export/chart-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/export/chart-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата PDF в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл PDF из электронной таблицы является сложной задачей. Экспорт CHART в переходы формата PDF выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека NodeJS — это профессиональное решение для экспорта объектов CHART в файлы формата PDF онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат PDF.
+Экспорт объекта CHART в файл PDF из электронной таблицы является сложной задачей. Экспорт CHART в переходы формата PDF выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека NodeJS — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата PDF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для экспорта CHART в формат PDF из электронной таблицы" gistPath="" %}}

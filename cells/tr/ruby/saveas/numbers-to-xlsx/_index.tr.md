@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Ruby için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını XLSX biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/saveas/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/numbers-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Ruby\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini XLSX olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan XLSX'e format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi olarak XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+NUMBERS dosya biçimlerini XLSX olarak kaydetmek karmaşık bir görevdir. Tüm NUMBERS'tan XLSX'e format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi olarak XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de REST API kullanarak SAYILARI XLSX formatı olarak kaydetmek için kod örneği" gistPath="" %}}

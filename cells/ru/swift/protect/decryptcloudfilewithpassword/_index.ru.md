@@ -1,5 +1,5 @@
 ﻿---
-title:  Расшифровать облачные таблицы с помощью пароля в облаке
+title:  Расшифровать облачные таблицы с паролем в облаке
 description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc расшифровывают с помощью пароля облачные файлы. Расшифруйте облачные таблицы с помощью Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/protect/decrypt-cloud-file-with-password/
 ---

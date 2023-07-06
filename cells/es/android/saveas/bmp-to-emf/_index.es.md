@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar BMP como EMF API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar BMP como EMF API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato BMP como archivo de formato EMF.
 url: /es/android/saveas/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

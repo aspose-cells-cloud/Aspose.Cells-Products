@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde NÚMEROS como XLT API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato NUMBERS como archivo de formato XLT.
 url: /es/php/saveas/numbers-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

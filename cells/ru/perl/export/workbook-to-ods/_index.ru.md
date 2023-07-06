@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспорт WORKBOOK в ODS из электронной таблицы с использованием Perl API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/perl/export/workbook-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/export/workbook-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата ODS в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKBOOK в формат ODS выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата ODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод ODS.
+Экспорт объекта WORKBOOK в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов WORKBOOK в формат ODS выполняется нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата ODS. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта WORKBOOK в формат ODS из электронной таблицы" gistPath="" %}}

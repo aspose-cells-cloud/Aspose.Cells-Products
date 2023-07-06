@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить MHTML как XLSB API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата MHTML как файла формата XLSB.
 url: /ru/perl/saveas/mhtml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить MHTML как XLSB" h2="Perl библиотека для сохранения MHTML как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения MHTML как XLSB и других форматов документов в Интернете с использованием Perl." urlsection="saveas/mhtml-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить MHTML как XLSB" h2="Perl библиотека для сохранения MHTML как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения документов MHTML как XLSB и других форматов в Интернете с использованием Perl." urlsection="saveas/mhtml-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSB в Perl." >}}

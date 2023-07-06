@@ -1,6 +1,6 @@
 ﻿---
-title: XLS в TIFF Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLS в TIFF Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLS в файл формата TIFF.
 url: /ru/python/conversion/xls-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

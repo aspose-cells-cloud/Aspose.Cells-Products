@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX إلى WMF - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTX إلى WMF - تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLTX إلى ملف بتنسيق WMF.
 url: /ar/python/conversion/xltx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

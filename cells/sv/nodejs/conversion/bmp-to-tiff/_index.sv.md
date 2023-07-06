@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till TIFF Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera BMP filformat till TIFF filformat.
 url: /sv/nodejs/conversion/bmp-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

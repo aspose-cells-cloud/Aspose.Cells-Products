@@ -1,6 +1,6 @@
 ﻿---
 title:  قراءة وكتابة وعرض وتحويل جداول البيانات (via C# REST SDK)
-description: SDKs لـ C# و ASP.NET وغيرها من اللغات المدعومة .NET لتطوير التطبيقات المستندة إلى السحابة لمعالجة Excel وجداول بيانات OpenOffice
+description:  SDKs لـ C# و ASP.NET وغيرها من اللغات المدعومة .NET لتطوير التطبيقات المستندة إلى السحابة لمعالجة Excel وجداول بيانات OpenOffice
 weight: 70
 url: /ar/net
 ---
@@ -118,14 +118,14 @@ url: /ar/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إضافة وتحديث وحذف الارتباطات التشعبية لورقة العمل
+ إضافة وتحديث وحذف الارتباطات التشعبية ورقة العمل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-قم بإضافة ListObject في مكان محدد في ملف Excel
+ قم بإضافة ListObject في مكان محدد في ملف Excel
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ url: /ar/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
+تلخيص بيانات ListObject كبيرة أو جدول مع Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ url: /ar/net
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose للسحابة
      </a>
- واحصل على معلومات التطبيق الخاص بك. هذا كل شيء! أنت جاهز لاستخدام Aspose.Cells Cloud SDK for .NET.
+واحصل على معلومات التطبيق الخاص بك. هذا كل شيء! أنت جاهز لاستخدام Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  توفر Aspose.Cells Cloud SDK for .NET جميع الميزات لإنشاء جداول البيانات وتحريرها وتحويلها إلى تنسيقات ملفات شائعة أخرى.

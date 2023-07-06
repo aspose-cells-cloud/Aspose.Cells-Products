@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'yi PNG'e, NodeJS için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı PNG formatındaki dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

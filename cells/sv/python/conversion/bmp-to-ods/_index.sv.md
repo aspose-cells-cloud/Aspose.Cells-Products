@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till ODS Konvertera API till Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Python för att konvertera BMP filformat till ODS format fil.
 url: /sv/python/conversion/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

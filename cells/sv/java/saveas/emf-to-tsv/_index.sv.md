@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara EMF som TSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara EMF filformat som TSV-formatfil.
 url: /sv/java/saveas/emf-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

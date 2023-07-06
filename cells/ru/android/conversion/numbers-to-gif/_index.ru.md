@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование чисел в GIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  NUMBERS to GIF Convert API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата NUMBERS в файл формата GIF.
 url: /ru/android/conversion/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -47,7 +47,7 @@ url: /ru/android/conversion/numbers-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования чисел в GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Java API для преобразования NUMBERS в GIF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>

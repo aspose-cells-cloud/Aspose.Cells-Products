@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG'den SQL'e Go için API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Aspose.Cells Cloud SDK for Go kullanılarak PNG biçimindeki dosyayı SQL biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

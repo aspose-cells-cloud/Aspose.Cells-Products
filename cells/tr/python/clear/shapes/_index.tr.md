@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc üzerinde şekilleri temizlemek 
 url: /tr/python/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temizlemek için Python API" h2="Python Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda şekilleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Python\'deki OpenOffice Calc hesap tablosu iş akışlarındaki şekilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri Python kullanarak temizler." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri temizlemek için Python API" h2="Python Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda şekilleri temizlemek için temizleyin" p="Yerel Microsoft Excel ve Python\'deki OpenOffice Calc hesap tablosu iş akışlarındaki şekilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki şekilleri Python kullanarak temizler." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunda net şekiller - Python REST API" >}}

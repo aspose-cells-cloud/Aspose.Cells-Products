@@ -1,6 +1,6 @@
 ﻿---
-title:  XLT till XML Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLT till XML Konvertera API för Python
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera XLT-formatfil till XML-formatfil.
 url: /sv/python/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

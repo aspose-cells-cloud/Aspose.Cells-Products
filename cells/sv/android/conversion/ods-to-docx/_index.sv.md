@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS till DOCX Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera ODS-formatfil till DOCX-formatfil.
 url: /sv/android/conversion/ods-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/android/conversion/ods-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till DOCX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till DOCX är en komplex uppgift. Alla ODS- till DOCX-formatövergångar utförs av vår Android SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera ODS till DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att konvertera filformat från ODS till DOCX är en komplex uppgift. Alla ODS till DOCX-formatövergångar utförs av vår Android SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera ODS till DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera ODS till DOCX-format" gistPath="" %}}

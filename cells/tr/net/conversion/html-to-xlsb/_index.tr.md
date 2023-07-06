@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML'den XLSB'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  HTML'den XLSB'ye Dönüştürme API, C# için
+description:  HTML formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

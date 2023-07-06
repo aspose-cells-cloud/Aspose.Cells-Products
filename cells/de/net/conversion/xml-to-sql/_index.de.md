@@ -1,16 +1,16 @@
 ﻿---
-title: XML-zu-SQL-Konvertierung API für C#
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XML in SQL konvertieren API für C#
+description: Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XML-Formatdatei in eine SQL-Formatdatei.
 url: /de/net/conversion/xml-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von XML in SQL" h2="C# Bibliothek zum Konvertieren von XML in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XML in SQL und andere Dokumentformate mit C#." urlsection="conversion/xml-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von XML in SQL" h2="C#-Bibliothek zum Konvertieren von XML in SQL" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XML in SQL und andere Dokumentformate unter C#." urlsection="conversion/xml-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XML-Datei in SQL in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XML in SQL ist eine komplexe Aufgabe. Alle XML-zu-SQL-Formatübergänge werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XML-Quelltabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von XML- in SQL-Dateien. Dieses Cloud SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte SQL-Ausgabe.
+Das Konvertieren von Dateiformaten von XML nach SQL ist eine komplexe Aufgabe. Alle XML-zu-SQL-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der XML-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XML- in SQL-Dateien. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte SQL-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Konvertieren von XML in das SQL-Format" gistPath="" %}}
@@ -37,9 +37,9 @@ Das Konvertieren von Dateiformaten von XML in SQL ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API zum Konvertieren von XML in SQL" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTM كـ DIF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق XLTM كملف بتنسيق DIF.
 url: /ar/android/saveas/xltm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTM كـ DIF" h2="مكتبة Android لحفظ XLTM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTM بتنسيق DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XLTM كـ DIF" h2="مكتبة Android لحفظ XLTM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XLTM بتنسيق DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xltm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق DIF في Android" >}}

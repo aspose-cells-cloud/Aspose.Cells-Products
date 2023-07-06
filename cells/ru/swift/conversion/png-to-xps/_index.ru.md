@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG в XPS Преобразование API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/png-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования PNG в XPS" h2="Библиотека Swift для преобразования PNG в XPS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования PNG в XPS и другие форматы документов онлайн с помощью Swift." urlsection="conversion/png-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования PNG в XPS" h2="Библиотека Swift для преобразования PNG в XPS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования PNG в XPS и других форматов документов онлайн с помощью Swift." urlsection="conversion/png-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в XPS в Swift" >}}

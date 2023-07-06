@@ -1,6 +1,6 @@
 ﻿---
-title: XLT в HTML Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLT в HTML Преобразование API в C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLT в файл формата HTML.
 url: /ru/net/conversion/xlt-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
+title: فك تشفير جداول البيانات المحلية بكلمة مرور في السحابة
 description:  Cloud APIs & SDKs لـ Microsoft Excel وإلغاء قفل OpenOffice Calc. فك تشفير جداول البيانات بواسطة Cells Cloud API. تدعم SDK أنواعًا من لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/ruby/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لفك تشفير Microsoft Excel محلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في Ruby. يقوم هذا الحل الاحترافي بفك تشفير جدول البيانات المحلي Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لفك تشفير Microsoft Excel محلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في Ruby. يقوم هذا الحل الاحترافي بفك تشفير جدول البيانات المحلي Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير جدول البيانات المحلي Microsoft Excel و OpenOffice Calc باستخدام كلمة مرور - Ruby REST API" >}}

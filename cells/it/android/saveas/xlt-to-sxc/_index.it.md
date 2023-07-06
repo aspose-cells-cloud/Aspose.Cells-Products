@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come SXC API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLT come file in formato SXC.
 url: /it/android/saveas/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/xlt-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLT come SXC in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLT come SXC è un compito complesso. Tutte le transizioni di formato da XLT a SXC vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per salvare XLT come file SXC online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SXC perfetto.
+Salvare i formati di file da XLT come SXC è un compito complesso. Tutte le transizioni di formato da XLT a SXC vengono eseguite dal nostro SDK Android mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per salvare XLT come file SXC online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SXC perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare XLT come formato SXC" gistPath="" %}}

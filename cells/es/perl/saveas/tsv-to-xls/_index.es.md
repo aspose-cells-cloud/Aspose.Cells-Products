@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar TSV como XLS API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar TSV como XLS API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato TSV como archivo de formato XLS.
 url: /es/perl/saveas/tsv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

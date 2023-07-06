@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM a HTML Converti API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLSM nel file in formato HTML.
 url: /it/go/conversion/xlsm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

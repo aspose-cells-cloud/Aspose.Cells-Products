@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som MHTML API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara BMP filformat som MHTML format fil.
 url: /sv/php/saveas/bmp-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG'yi Perl için MD API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı MD formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

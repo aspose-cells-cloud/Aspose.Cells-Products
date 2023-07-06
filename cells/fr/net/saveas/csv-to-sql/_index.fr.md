@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer CSV sous SQL API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format CSV en tant que fichier au format SQL.
 url: /fr/net/saveas/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/net/saveas/csv-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV en tant que SQL dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de CSV en tant que SQL est une tâche complexe. Toutes les transitions de format CSV vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers CSV en tant que SQL en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
+L'enregistrement de formats de fichiers à partir de CSV en tant que SQL est une tâche complexe. Toutes les transitions de format CSV vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque C# est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers SQL en ligne. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer CSV au format SQL" gistPath="" %}}

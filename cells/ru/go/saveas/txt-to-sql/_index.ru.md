@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TXT как SQL API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата TXT в виде файла формата SQL.
 url: /ru/go/saveas/txt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/txt-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как SQL в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде SQL — сложная задача. Все переходы TXT в формат SQL выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Go — это профессиональное решение для сохранения TXT в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из TXT в виде SQL — сложная задача. Все переходы формата TXT в формат SQL выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Go — это профессиональное решение для сохранения TXT в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения TXT в формате SQL" gistPath="" %}}

@@ -18,7 +18,7 @@ url: /ar/swift/clear/blank-columns/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لمسح الأعمدة الفارغة" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Swift API لمسح الأعمدة الفارغة" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postClearObjects للحصول على التدفق الناتج</li>

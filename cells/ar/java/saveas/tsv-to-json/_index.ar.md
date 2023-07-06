@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TSV كـ JSON API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TSV كملف بتنسيق JSON.
 url: /ar/java/saveas/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV كـ JSON" h2="مكتبة Java لحفظ TSV كـ JSON" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV كـ JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV كـ JSON" h2="مكتبة Java لحفظ TSV كـ JSON" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV كـ JSON وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV كملف JSON في Java" >}}

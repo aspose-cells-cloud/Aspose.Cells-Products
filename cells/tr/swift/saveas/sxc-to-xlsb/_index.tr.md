@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için SXC'yi XLSB API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSB olarak kaydetmek için Swift API" h2="SXC\'yi XLSB olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi XLSB olarak ve diğer belge formatlarını çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSB olarak kaydetmek için Swift API" h2="SXC\'yi XLSB olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi XLSB olarak ve diğer belge formatlarını çevrimiçi olarak Swift kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir SXC dosyasını Swift\'de XLSB olarak kaydedin" >}}

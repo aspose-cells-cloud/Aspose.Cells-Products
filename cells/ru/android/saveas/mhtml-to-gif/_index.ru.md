@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить MHTML как GIF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить MHTML как GIF API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата MHTML в виде файла формата GIF.
 url: /ru/android/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

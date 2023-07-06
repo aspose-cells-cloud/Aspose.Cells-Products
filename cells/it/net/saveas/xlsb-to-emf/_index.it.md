@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSB come EMF API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per salvare il file in formato XLSB come file in formato EMF.
 url: /it/net/saveas/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

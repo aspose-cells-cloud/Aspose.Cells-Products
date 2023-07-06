@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som XLTM API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att spara fil i PNG-format som fil i XLTM-format.
 url: /sv/go/saveas/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

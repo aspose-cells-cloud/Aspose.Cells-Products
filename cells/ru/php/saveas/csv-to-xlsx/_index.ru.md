@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить CSV как XLSX API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата CSV как файла формата XLSX.
 url: /ru/php/saveas/csv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как XLSX по адресу PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде XLSX — сложная задача. Все переходы между форматами CSV и XLSX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека PHP — это профессиональное решение для сохранения CSV в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод XLSX.
+Сохранение форматов файлов из CSV в виде XLSX — сложная задача. Все переходы между форматами CSV и XLSX выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека PHP — это профессиональное решение для сохранения CSV-файлов в формате XLSX в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения CSV в формате XLSX" gistPath="" %}}

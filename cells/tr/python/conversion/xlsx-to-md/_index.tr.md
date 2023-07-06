@@ -1,6 +1,6 @@
 ﻿---
-title: Python için XLSX'den MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Python için XLSX'den MD'ye Dönüştürme API
+description:  XLSX biçim dosyasını MD biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/xlsx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

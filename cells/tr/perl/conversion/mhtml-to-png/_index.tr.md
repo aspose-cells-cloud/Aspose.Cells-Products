@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG için MHTML'yi Perl için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: PNG için MHTML'yi Perl için API'e dönüştür
+description:  MHTML biçim dosyasını PNG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/conversion/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

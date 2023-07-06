@@ -1,6 +1,6 @@
 ﻿---
-title: TSV إلى HTML تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  TSV إلى HTML تحويل API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق TSV إلى ملف بتنسيق HTML.
 url: /ar/net/conversion/tsv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

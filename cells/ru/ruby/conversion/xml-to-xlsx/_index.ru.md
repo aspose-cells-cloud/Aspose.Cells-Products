@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в XLSX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XML в файл формата XLSX.
 url: /ru/ruby/conversion/xml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xml-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в XLSX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в XLSX — сложная задача. Все переходы между форматами XML и XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в XLSX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Преобразование форматов файлов из XML в XLSX — сложная задача. Все переходы между форматами XML и XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в XLSX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XML в формат XLSX" gistPath="" %}}

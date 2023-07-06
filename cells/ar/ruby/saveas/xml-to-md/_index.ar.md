@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ MD API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XML كملف بتنسيق MD.
 url: /ar/ruby/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

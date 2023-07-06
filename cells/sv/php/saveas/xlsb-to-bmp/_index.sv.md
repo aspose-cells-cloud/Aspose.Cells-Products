@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som BMP API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för PHP för att spara fil i XLSB-format som fil i BMP-format.
 url: /sv/php/saveas/xlsb-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

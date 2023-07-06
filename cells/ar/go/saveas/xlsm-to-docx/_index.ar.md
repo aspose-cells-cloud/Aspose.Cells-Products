@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLSM كـ DOCX API لـ Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف بتنسيق XLSM كملف بتنسيق DOCX.
 url: /ar/go/saveas/xlsm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

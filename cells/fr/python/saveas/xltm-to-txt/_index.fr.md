@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLTM sous TXT API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLTM en tant que fichier au format TXT.
 url: /fr/python/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

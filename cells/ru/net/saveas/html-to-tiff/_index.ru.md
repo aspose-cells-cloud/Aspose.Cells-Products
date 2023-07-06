@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как TIFF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата HTML как файла формата TIFF.
 url: /ru/net/saveas/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/html-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как TIFF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как TIFF — сложная задача. Все переходы форматов с HTML на TIFF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения файлов HTML как TIFF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
+Сохранение форматов файлов с HTML как TIFF — сложная задача. Все переходы форматов с HTML на TIFF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения файлов HTML как TIFF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате TIFF" gistPath="" %}}

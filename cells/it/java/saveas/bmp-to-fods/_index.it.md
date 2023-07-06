@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva BMP come FODS API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato BMP come file in formato FODS.
 url: /it/java/saveas/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

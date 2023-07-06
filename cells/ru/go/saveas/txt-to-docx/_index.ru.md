@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как DOCX API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата TXT как файла формата DOCX.
 url: /ru/go/saveas/txt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

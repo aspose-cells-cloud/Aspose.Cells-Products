@@ -1,6 +1,6 @@
 ﻿---
 title:  Proteger
-description:  Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -13,7 +13,7 @@ url: /sv/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK för Swift hjälper programmerare att sömlöst integrera Microsoft Excel & OpenOffice kalkylbladsvy och bearbetningsfunktioner i deras molnbaserade applikationer utvecklade i Swift. Aspose.Cells Cloud SDK för Swift är licensierad under MIT.</p>
-<p>Aspose.Cells Cloud SDK för Swift gör att dina Swift-appar kan hämta kalkylblad, kalkylblad och arbetsböcker lagrade i molnet samt skapa nya kalkylblad. Du kan också justera din Swift-kod för att bearbeta och ändra villkorlig formatering, diagram, uppgifter, former, filter, OleObjects, ranges, ListObjects och pivottabeller, inifrån dina applikationer utan att installera någon programvara från tredje part.</p>
+<p>Aspose.Cells Cloud SDK för Swift gör att dina Swift-appar kan hämta kalkylblad, kalkylblad och arbetsböcker lagrade i molnet samt skapa nya kalkylblad. Du kan också justera din Swift-kod för att bearbeta och modifiera villkorlig formatering, diagram, uppgifter, former, filter, OleObjects, ranges, ListObjects och pivottabeller, inifrån dina applikationer utan att installera någon programvara från tredje part.</p>
 <p>Använd Aspose.Cells Cloud SDK för Swift för att konvertera Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) & OpenOffice (ODS) kalkylblad till andra populära format, som XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited) ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF & Markdown (MD). Du kan också arbeta med SXC- och FODS-formaten med Aspose.Cells Cloud SDK för Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -160,7 +160,7 @@ url: /sv/swift
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sammanfatta data för stora ListObject eller tabell med pivottabell
+Sammanfatta data för stora ListObject eller tabell med pivottabell
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /sv/swift
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ta bort specifika eller alla OleObjects från kalkylbladet
+ Ta bort specifika eller alla OleObjects från kalkylbladet
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML в SVG Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: MHTML в SVG Преобразование API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата MHTML в файл формата SVG.
 url: /ru/nodejs/conversion/mhtml-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

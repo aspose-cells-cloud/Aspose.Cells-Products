@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT إلى DOCX تحويل API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق XLT إلى ملف بتنسيق DOCX.
 url: /ar/python/conversion/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  API cloud e SDK per Microsoft Excel e firma digitale OpenOffice Ca
 url: /it/perl/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API al cloud della firma digitale Microsoft Excel e foglio di calcolo OpenOffice Calc con password e file di firma digitale" h2="Perl biblioteca al cloud firma digitale Microsoft Excel e foglio di calcolo OpenOffice Calc con password e file di firma digitale" p="Utilizza Cells Firma digitale REST API per il cloud della firma digitale Microsoft Excel e il foglio di calcolo OpenOffice Calc con i flussi di lavoro del file della firma digitale e della password in Perl. 173481." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API al cloud della firma digitale Microsoft Excel e foglio di calcolo OpenOffice Calc con password e file di firma digitale" h2="Perl biblioteca al cloud firma digitale Microsoft Excel e foglio di calcolo OpenOffice Calc con password e file di firma digitale" p="Utilizza Cells Firma digitale REST API per il cloud della firma digitale Microsoft Excel e il foglio di calcolo OpenOffice Calc con i flussi di lavoro del file della firma digitale e della password in Perl. 173481." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Firma digitale cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password - Perl REST API" >}}

@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie TXT als XPS API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  Speichern Sie TXT unter XPS API für NodeJS
+description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im TXT-Format als Datei im Format XPS zu speichern.
 url: /de/nodejs/saveas/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von TXT als XPS" h2="NodeJS-Bibliothek zum Speichern von TXT als XPS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um TXT als XPS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/txt-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, um TXT als XPS zu speichern" h2="NodeJS-Bibliothek zum Speichern von TXT als XPS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um TXT als XPS und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/txt-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TXT-Datei als XPS in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus TXT als XPS ist eine komplexe Aufgabe. Alle Formatübergänge von TXT zu XPS werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TXT-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um TXT als XPS-Dateien online zu speichern. Dieses Cloud-SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte XPS-Ausgabe.
+Das Speichern von Dateiformaten aus TXT als XPS ist eine komplexe Aufgabe. Alle TXT-Formatübergänge in das XPS-Format werden von unserem NodeJS SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um TXT als XPS-Dateien online zu speichern. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte XPS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Speichern von TXT im XPS-Format" gistPath="" %}}
@@ -34,9 +34,9 @@ Das Speichern von Dateiformaten aus TXT als XPS ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um TXT als XPS zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TSV как EMF API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата TSV как файла формата EMF.
 url: /ru/nodejs/saveas/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/tsv-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как EMF в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV как EMF — сложная задача. Все переходы формата TSV в формат EMF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов TSV в формате EMF в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
+Сохранение форматов файлов из TSV как EMF — сложная задача. Все переходы формата TSV в формат EMF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов TSV в формате EMF онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения TSV в формате EMF" gistPath="" %}}

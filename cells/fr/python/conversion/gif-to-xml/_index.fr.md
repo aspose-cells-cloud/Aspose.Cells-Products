@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en XML API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format GIF en fichier au format XML.
 url: /fr/python/conversion/gif-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

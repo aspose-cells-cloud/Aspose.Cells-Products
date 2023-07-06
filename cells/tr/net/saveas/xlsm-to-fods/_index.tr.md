@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSM'yi C# için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSM'yi C# için FODS API olarak kaydedin
+description:  XLSM biçim dosyasını FODS biçim dosyası olarak kaydetmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/saveas/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

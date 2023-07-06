@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON a XLSM Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato JSON a un archivo de formato XLSM.
 url: /es/java/conversion/json-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

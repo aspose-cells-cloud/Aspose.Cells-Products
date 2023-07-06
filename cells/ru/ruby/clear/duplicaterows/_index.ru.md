@@ -1,10 +1,10 @@
 ﻿---
-title:  Удаление повторяющихся строк в локальной книге в облаке
-description: Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Удалите повторяющиеся строки в локальной книге с помощью Ruby в облаке
+description:  Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc с Ruby. Удаление повторяющихся строк в локальных электронных таблицах с помощью Cells Cloud API SDK для Ruby
 url: /ru/ruby/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить повторяющиеся строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение удаляет повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить повторяющиеся строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение удаляет повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLSX в MHTML API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLSX в MHTML" h2="Библиотека Swift для преобразования XLSX в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLSX в MHTML и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xlsx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLSX в MHTML" h2="Библиотека Swift для преобразования XLSX в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLSX в MHTML и другие форматы документов с помощью Swift." urlsection="conversion/xlsx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в MHTML в Swift" >}}

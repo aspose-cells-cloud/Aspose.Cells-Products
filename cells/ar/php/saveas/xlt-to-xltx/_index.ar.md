@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLT كـ XLTX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ XLTX API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLT كملف بتنسيق XLTX.
 url: /ar/php/saveas/xlt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

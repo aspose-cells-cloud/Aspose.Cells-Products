@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir MHTML en PPTX API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utiliser Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format MHTML en fichier au format PPTX.
 url: /fr/android/conversion/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

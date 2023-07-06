@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTM a DOCX API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLTM in un file in formato DOCX.
 url: /it/perl/conversion/xltm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

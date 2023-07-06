@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i GIF olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçimindeki dosyayı GIF biçimindeki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

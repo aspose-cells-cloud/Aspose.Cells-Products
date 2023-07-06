@@ -1,6 +1,6 @@
 ﻿---
-title: TSV till SQL Konvertera API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  TSV till SQL Konvertera API för PHP
+description: Använder Aspose.Cells Cloud SDK för PHP för att konvertera fil i TSV-format till fil i SQL-format.
 url: /sv/php/conversion/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

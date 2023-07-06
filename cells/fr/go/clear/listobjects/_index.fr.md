@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les objets de la liste sur Microsoft 
 url: /fr/go/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les objets de la liste sur les workflows de tableur locaux Microsoft Excel et OpenOffice Calc dans Go. Cette solution professionnelle répertorie les objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Go Clear pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les objets de la liste sur les workflows de tableur locaux Microsoft Excel et OpenOffice Calc dans Go. Cette solution professionnelle répertorie les objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc à l\'aide de Go." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer la liste des objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Go REST API" >}}

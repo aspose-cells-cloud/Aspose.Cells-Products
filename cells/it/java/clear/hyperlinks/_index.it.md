@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei collegamenti ipertestuali
 url: /it/java/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare i collegamenti ipertestuali sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare i collegamenti ipertestuali sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella i collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella collegamenti ipertestuali sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Java REST API" >}}

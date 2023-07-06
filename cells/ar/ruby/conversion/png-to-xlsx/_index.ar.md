@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى XLSX قم بتحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLSX.
 url: /ar/ruby/conversion/png-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

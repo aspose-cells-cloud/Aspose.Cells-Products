@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-tab
 url: /tr/nodejs/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki pivot tabloları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel numaralı telefondaki pivot tabloları ve NodeJS kullanan OpenOffice Calc elektronik tablosunu temizler." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, yerel Microsoft Excel ve OpenOffice Calc e-tablosundaki özet tabloları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki pivot tabloları temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki pivot tabloları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel numaralı telefondaki pivot tabloları ve NodeJS kullanan OpenOffice Calc elektronik tablosunu temizler." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda pivot tabloları temizleyin - NodeJS REST API" >}}

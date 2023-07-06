@@ -4,7 +4,7 @@ description: API cloud e SDK per proteggere Microsoft Excel e OpenOffice Calc. C
 url: /it/perl/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" h2="Perl libreria per proteggere cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Proteggi REST API per proteggere il cloud Microsoft Excel e il foglio di calcolo di OpenOffice Calc con i flussi di lavoro delle password in Perl. Questa soluzione professionale protegge il cloud Microsoft Excel e il foglio di calcolo di OpenOffice Calc online con le password utilizzando Perl." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" h2="Perl libreria per proteggere cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Proteggi REST API per proteggere il cloud Microsoft Excel e il foglio di calcolo di OpenOffice Calc con i flussi di lavoro delle password in Perl. Questa soluzione professionale protegge il cloud Microsoft Excel e il foglio di calcolo di OpenOffice Calc online con le password utilizzando Perl." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteggi cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password - Perl REST API" >}}

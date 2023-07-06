@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSX в CSV API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLSX в файл формата CSV.
 url: /ru/python/conversion/xlsx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

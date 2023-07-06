@@ -1,6 +1,6 @@
 ﻿---
-title: XLT إلى MD - تحويل API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLT إلى MD - تحويل API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLT إلى ملف بتنسيق MD.
 url: /ar/perl/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

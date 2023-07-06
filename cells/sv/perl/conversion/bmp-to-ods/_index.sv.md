@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP till ODS Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Perl för att konvertera BMP filformat till ODS format fil.
 url: /sv/perl/conversion/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

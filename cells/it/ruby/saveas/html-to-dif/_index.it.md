@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come DIF API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato HTML come file in formato DIF.
 url: /it/ruby/saveas/html-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

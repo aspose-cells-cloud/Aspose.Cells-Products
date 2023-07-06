@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните MHTML как XLT API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата MHTML в виде файла формата XLT.
 url: /ru/net/saveas/mhtml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/mhtml-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLT в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения файлов MHTML в формате XLT в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Сохранение форматов файлов из MHTML в виде XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для сохранения файлов MHTML в формате XLT в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения MHTML в формате XLT" gistPath="" %}}

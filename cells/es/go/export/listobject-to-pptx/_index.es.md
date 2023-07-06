@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte LISTOBJECT a PPTX desde una hoja de cálculo usando Go API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/go/export/listobject-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/export/listobject-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto LISTOBJECT a archivo de formato PPTX en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto LISTOBJECT a un archivo PPTX desde una hoja de cálculo es una tarea compleja. Nuestro Go SDK realiza la exportación de LISTOBJECT a transiciones de formato PPTX mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos LISTOBJECT a archivos de formato PPTX en línea. Este SDK de la nube brinda a los desarrolladores de Go una funcionalidad poderosa y una salida PPTX perfecta.
+Exportar un objeto LISTOBJECT a un archivo PPTX desde una hoja de cálculo es una tarea compleja. Nuestro Go SDK realiza la exportación de LISTOBJECT a transiciones de formato PPTX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos LISTOBJECT a archivos de formato PPTX en línea. Este SDK de la nube brinda a los desarrolladores de Go una funcionalidad poderosa y una salida PPTX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar LISTOBJECT a formato PPTX desde una hoja de cálculo" gistPath="" %}}

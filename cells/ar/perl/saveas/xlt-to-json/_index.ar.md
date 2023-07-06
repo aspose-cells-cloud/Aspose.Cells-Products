@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLT كـ JSON API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ JSON API لـ Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLT كملف بتنسيق JSON.
 url: /ar/perl/saveas/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

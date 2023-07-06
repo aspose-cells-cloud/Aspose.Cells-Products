@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الجداول المحورية على M
 url: /ar/android/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الجداول المحورية في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح الجداول المحورية في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الجداول المحورية على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Android. يقوم هذا الحل الاحترافي بمسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الجداول المحورية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Android REST API" >}}

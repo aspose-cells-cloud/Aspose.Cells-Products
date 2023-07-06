@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir GIF en ODS API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format GIF en fichier au format ODS.
 url: /fr/php/conversion/gif-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir GIF en ODS" h2="PHP bibliothèque pour convertir GIF en ODS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir en ligne GIF en ODS et d\'autres formats de documents à l\'aide de PHP." urlsection="conversion/gif-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir GIF en ODS" h2="PHP bibliothèque pour convertir GIF en ODS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir GIF en ODS et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/gif-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en ODS en PHP" >}}

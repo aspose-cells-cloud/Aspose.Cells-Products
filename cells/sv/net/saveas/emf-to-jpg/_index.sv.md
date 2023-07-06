@@ -1,6 +1,6 @@
 ﻿---
 title: Spara EMF som JPG API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för C# för att spara EMF filformat som JPG-format.
 url: /sv/net/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

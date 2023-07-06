@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как XPS API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XML как файла формата XPS.
 url: /ru/nodejs/saveas/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

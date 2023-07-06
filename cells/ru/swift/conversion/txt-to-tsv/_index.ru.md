@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование TXT в TSV API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/txt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования TXT в TSV" h2="Библиотека Swift для преобразования TXT в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации TXT в TSV и другие форматы документов с помощью Swift." urlsection="conversion/txt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования TXT в TSV" h2="Библиотека Swift для преобразования TXT в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации TXT в TSV и других форматов документов с помощью Swift." urlsection="conversion/txt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в TSV в Swift" >}}

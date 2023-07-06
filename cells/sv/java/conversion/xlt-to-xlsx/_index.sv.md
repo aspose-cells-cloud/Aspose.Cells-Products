@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT till XLSX Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i XLT-format till fil i XLSX-format.
 url: /sv/java/conversion/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

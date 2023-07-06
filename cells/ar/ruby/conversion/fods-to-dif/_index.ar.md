@@ -1,5 +1,5 @@
 ﻿---
-title: حوّل من Excel FODS إلى DIF via ياقوت
+title:  حوّل من Excel FODS إلى DIF via ياقوت
 description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Ruby SDK
 url: /ar/ruby/conversion/fods-to-dif/
 family: cells

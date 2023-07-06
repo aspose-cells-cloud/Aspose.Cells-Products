@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde PNG como MHTML API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde PNG como MHTML API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato PNG como archivo de formato MHTML.
 url: /es/nodejs/saveas/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

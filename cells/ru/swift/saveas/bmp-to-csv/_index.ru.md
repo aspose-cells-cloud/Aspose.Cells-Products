@@ -1,10 +1,10 @@
 ﻿---
-title: Сохранить BMP как CSV API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить BMP как CSV API для Swift
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить BMP как CSV" h2="Библиотека Swift для сохранения BMP в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения BMP в виде CSV и других форматов документов онлайн с помощью Swift." urlsection="saveas/bmp-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить BMP как CSV" h2="Библиотека Swift для сохранения BMP в формате CSV" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения BMP в формате CSV и других форматах документов в Интернете с помощью Swift." urlsection="saveas/bmp-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP в формате CSV в Swift." >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Сохранить CSV как DIF API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить CSV как DIF API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата CSV в виде файла формата DIF.
 url: /ru/net/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/csv-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как DIF по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде DIF — сложная задача. Все переходы между форматами CSV и DIF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека C# — это профессиональное решение для сохранения CSV-файлов в виде файлов DIF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод DIF.
+Сохранение форматов файлов из CSV в виде DIF — сложная задача. Все переходы между форматами CSV и DIF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека C# — это профессиональное решение для сохранения CSV-файлов в формате DIF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения CSV в формате DIF" gistPath="" %}}

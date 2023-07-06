@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le forme su Microsoft Excel e OpenOf
 url: /it/java/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare le forme sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare le forme sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella le forme sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Forme chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Java REST API" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Generatore e convertitore di fogli di calcolo cloud SDK e API REST
+title: Generatore e convertitore di fogli di calcolo cloud SDK e API REST
 description:  Gli SDK per le lingue più diffuse forniscono un'integrazione perfetta nelle tue app per leggere, modificare e convertire fogli di calcolo Excel e OpenOffice ospitati su cloud
 weight: 10
 url: /it/family
@@ -35,7 +35,7 @@ Python REST SDK per accedere a fogli cloud Excel e file ODS per leggere, modific
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK per Ruby" imgSrc="/sdk/aspose_cells-for-ruby.svg" productLink="/cells/ruby/" >}}
-Consenti alle tue app cloud Ruby di visualizzare, crittografare, modificare, convertire ed esportare fogli di calcolo Excel ospitati sul cloud.
+Consenti alle tue app cloud Ruby di visualizzare, crittografare, modificare, convertire ed esportare fogli di calcolo Excel ospitati nel cloud.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK per Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}

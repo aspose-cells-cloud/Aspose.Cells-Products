@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML إلى TIFF تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: MHTML إلى TIFF تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق MHTML إلى ملف بتنسيق TIFF.
 url: /ar/nodejs/conversion/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/mhtml-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى TIFF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى TIFF بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات TIFF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TIFF مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى TIFF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى TIFF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل ملفات MHTML إلى ملفات TIFF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TIFF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتحويل MHTML إلى تنسيق TIFF" gistPath="" %}}

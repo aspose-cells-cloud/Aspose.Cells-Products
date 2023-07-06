@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS in XLSB Converti API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato NUMBERS in un file in formato XLSB.
 url: /it/android/conversion/numbers-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

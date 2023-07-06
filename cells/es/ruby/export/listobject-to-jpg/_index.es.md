@@ -1,6 +1,6 @@
 ﻿---
 title:  Exporte LISTOBJECT a JPG desde una hoja de cálculo usando Ruby API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/ruby/export/listobject-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/ruby/export/listobject-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto LISTOBJECT a archivo de formato JPG en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto LISTOBJECT a un archivo JPG desde una hoja de cálculo es una tarea compleja. Nuestro Ruby SDK realiza la exportación de LISTOBJECT a transiciones de formato JPG mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida JPG perfecta.
+Exportar un objeto LISTOBJECT a un archivo JPG desde una hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato JPG se realiza mediante nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida JPG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para exportar LISTOBJECT a formato JPG desde una hoja de cálculo" gistPath="" %}}

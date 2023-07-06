@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ GIF كـ XLTX API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق GIF كملف بتنسيق XLTX.
 url: /ar/android/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ GIF كـ XLTX" h2="مكتبة Android لحفظ GIF كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ GIF بتنسيق XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/gif-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ GIF كـ XLTX" h2="مكتبة Android لحفظ GIF كـ XLTX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ GIF بتنسيق XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/gif-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF بصيغة XLTX في Android" >}}

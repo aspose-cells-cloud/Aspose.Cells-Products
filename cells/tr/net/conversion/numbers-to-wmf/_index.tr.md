@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS - WMF Dönüştür API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NUMBERS - WMF Dönüştür API için C#
+description:  NUMBERS biçim dosyasını WMF biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

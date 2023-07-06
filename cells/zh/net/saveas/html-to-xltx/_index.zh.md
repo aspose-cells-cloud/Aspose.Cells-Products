@@ -1,16 +1,16 @@
 ﻿---
-title: 将 HTML 保存为 XLTX API 为 C#
-description: 用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+title: 将 HTML 另存为 XLTX API 为 C#
+description: 使用Aspose.Cells Cloud SDK for C#将HTML格式文件保存为XLTX格式文件。
 url: /zh/net/saveas/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 HTML 保存为 XLTX" h2="C#库将HTML另存为XLTX" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将HTML另存为XLTX等文档格式的专业解决方案。" urlsection="saveas/html-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 HTML 保存为 XLTX" h2="C#库将HTML保存为XLTX" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将HTML保存为XLTX和其他文档格式的专业解决方案。" urlsection="saveas/html-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在C#中保存一个HTML文件为XLTX" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 HTML 文件另存为 C# 中的 XLTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 HTML 中的文件格式保存为 XLTX 是一项复杂的任务。所有 HTML 到 XLTX 格式的转换都由我们的 C# SDK 执行，同时保持源 HTML 电子表格的主要结构和逻辑内容。我们的 C# 库是将 HTML 在线保存为 XLTX 文件的专业解决方案。此 Cloud SDK 为 C# 开发人员提供了强大的功能和完美的 XLTX 输出。
+将 HTML 中的文件格式保存为 XLTX 是一项复杂的任务。所有 HTML 到 XLTX 格式的转换均由我们的 C# SDK 执行，同时保留源 HTML 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 HTML 保存为 XLTX 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能和完美的XLTX输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 HTML 保存为 XLTX 格式" gistPath="" %}}
@@ -27,16 +27,16 @@ url: /zh/net/saveas/html-to-xltx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用C# API将HTML另存为XLTX" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 C# API 将 HTML 另存为 XLTX" >}}
+<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>NET Framework 4.5.2 或更新版本</li>
-<li>网络标准 2.0 或更新版本</li>
+<li>NET Framework 4.5.2 或更高版本</li>
+<li>网络标准 2.0 或更高版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

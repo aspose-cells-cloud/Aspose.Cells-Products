@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer CSV sous WMF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format WMF.
 url: /fr/android/saveas/csv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer CSV au format WMF" h2="Bibliothèque Android pour enregistrer CSV au format WMF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format WMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/csv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format WMF dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format WMF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de CSV en tant que WMF est une tâche complexe. Toutes les transitions de format CSV vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers CSV en tant que fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.

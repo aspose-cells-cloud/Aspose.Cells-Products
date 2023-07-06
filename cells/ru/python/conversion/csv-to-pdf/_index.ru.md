@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в PDF Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата CSV в файл формата PDF.
 url: /ru/python/conversion/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

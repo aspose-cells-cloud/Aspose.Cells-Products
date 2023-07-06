@@ -1,6 +1,6 @@
 ﻿---
-title: CSV إلى XLSB - تحويل API إلى Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  CSV إلى XLSB - تحويل API إلى Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق CSV إلى ملف بتنسيق XLSB.
 url: /ar/python/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

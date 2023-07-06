@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ EMF كـ DOCX API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق EMF كملف بتنسيق DOCX.
 url: /ar/java/saveas/emf-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ EMF بتنسيق DOCX" h2="مكتبة Java لحفظ EMF كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ EMF بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/emf-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ EMF بتنسيق DOCX" h2="مكتبة Java لحفظ EMF كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ EMF بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/emf-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF بتنسيق DOCX في Java" >}}

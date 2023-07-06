@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата JPG в виде файла формата XML.
 url: /ru/python/saveas/jpg-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/jpg-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG в формате XML по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде XML — сложная задача. Все переходы между форматами JPG и XML выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Python — это профессиональное решение для сохранения файлов JPG в формате XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из JPG в виде XML — сложная задача. Все переходы между форматами JPG и XML выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Python — это профессиональное решение для сохранения файлов JPG в формате XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения JPG в формате XML" gistPath="" %}}

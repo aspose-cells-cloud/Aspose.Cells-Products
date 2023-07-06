@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML'yi XML olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  MHTML biçim dosyasını XML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/java/saveas/mhtml-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Java\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini MHTML'den XML olarak kaydetmek karmaşık bir görevdir. Tüm MHTML'den XML biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, MHTML'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya biçimlerini MHTML'den XML olarak kaydetmek karmaşık bir iştir. Tüm MHTML'den XML biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, MHTML'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XML formatı olarak kaydetmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}

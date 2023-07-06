@@ -1,6 +1,6 @@
 ﻿---
-title: CSV'yi Perl için DIF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  CSV'yi Perl için DIF API olarak kaydedin
+description:  CSV biçimli dosyayı DIF biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

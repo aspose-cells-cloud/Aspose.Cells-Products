@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM'yi NodeJS için MHTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLSM biçim dosyasını MHTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for NodeJS'yi kullanma.
 url: /tr/nodejs/saveas/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

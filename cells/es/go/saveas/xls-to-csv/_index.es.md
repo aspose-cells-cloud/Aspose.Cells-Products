@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLS como CSV API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato XLS como archivo de formato CSV.
 url: /es/go/saveas/xls-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

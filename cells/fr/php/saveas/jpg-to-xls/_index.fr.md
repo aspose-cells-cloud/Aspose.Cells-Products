@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer JPG sous XLS API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format JPG en tant que fichier au format XLS.
 url: /fr/php/saveas/jpg-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

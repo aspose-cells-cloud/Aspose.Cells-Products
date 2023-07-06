@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLSB'den JSON'a Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçimli dosyayı JSON biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

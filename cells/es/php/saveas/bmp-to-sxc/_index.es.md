@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como SXC API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato BMP como archivo de formato SXC.
 url: /es/php/saveas/bmp-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/php/saveas/bmp-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo BMP como SXC en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde BMP como SXC es una tarea compleja. Todas las transiciones de formato BMP a SXC se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca PHP es una solución profesional para guardar BMP como archivos SXC en línea. Este SDK de la nube ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado SXC perfecto.
+Guardar formatos de archivo desde BMP como SXC es una tarea compleja. Todas las transiciones de formato BMP a SXC se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca PHP es una solución profesional para guardar BMP como archivos SXC en línea. Este Cloud SDK ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para guardar BMP como formato SXC" gistPath="" %}}

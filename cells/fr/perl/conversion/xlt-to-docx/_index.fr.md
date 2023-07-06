@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en DOCX API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLT en fichier au format DOCX.
 url: /fr/perl/conversion/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

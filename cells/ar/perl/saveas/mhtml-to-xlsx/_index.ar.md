@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ MHTML كـ XLSX API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق MHTML كملف بتنسيق XLSX.
 url: /ar/perl/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ MHTML كـ XLSX" h2="مكتبة Perl لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ MHTML كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ MHTML كـ XLSX" h2="مكتبة Perl لحفظ MHTML كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ MHTML كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLSX في Perl" >}}

@@ -1,16 +1,16 @@
 ﻿---
-title:  Speichern Sie TSV als PNG API für Python
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TSV unter PNG API für Python speichern
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im TSV-Format als Datei im Format PNG zu speichern.
 url: /de/python/saveas/tsv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API um den TSV als PNG zu speichern" h2="Python-Bibliothek zum Speichern von TSV als PNG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um TSV als PNG und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/tsv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Speichern des TSV unter PNG" h2="Python-Bibliothek, um TSV als PNG zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um TSV als PNG und andere Dokumentformate online mit Python zu speichern." urlsection="saveas/tsv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als PNG in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei unter PNG in Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als PNG ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu PNG werden von unserem Python SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TSV-Quelltabelle beibehalten wird. Unsere Python-Bibliothek ist eine professionelle Lösung, um TSV online als PNG-Dateien zu speichern. Dieses Cloud-SDK bietet Python-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Speichern von Dateiformaten von TSV als PNG ist eine komplexe Aufgabe. Alle TSV-Formatübergänge in das PNG-Format werden von unserem Python-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TSV-Quelltabelle erhalten bleibt. Unsere Python-Bibliothek ist eine professionelle Lösung, um TSV als PNG-Dateien online zu speichern. Dieses Cloud SDK bietet Python Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Python mit REST API zum Speichern von TSV im PNG-Format" gistPath="" %}}
@@ -31,9 +31,9 @@ Das Speichern von Dateiformaten von TSV als PNG ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Python API, um TSV als PNG zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_speichern_als_Post_dokumentieren_speichern_als Methode, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

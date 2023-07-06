@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en PPTX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLT en fichier au format PPTX.
 url: /fr/net/conversion/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

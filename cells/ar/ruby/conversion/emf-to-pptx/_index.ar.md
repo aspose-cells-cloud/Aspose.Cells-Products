@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى PPTX قم بتحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق EMF إلى ملف بتنسيق PPTX.
 url: /ar/ruby/conversion/emf-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

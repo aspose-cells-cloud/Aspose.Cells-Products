@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XLSM API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата JPG в виде файла формата XLSM.
 url: /ru/ruby/saveas/jpg-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/jpg-to-xlsm/
 Сохранение форматов файлов из JPG в виде XLSM — сложная задача. Все переходы между форматами JPG и XLSM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для сохранения файлов JPG в формате XLSM онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLSM.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения JPG в формате XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения JPG в формате XLSM" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

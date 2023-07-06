@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversion CSV en XLS API pour NodeJS
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour convertir le fichier au format CSV en fichier au format XLS.
 url: /fr/nodejs/conversion/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

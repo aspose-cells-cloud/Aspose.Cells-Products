@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come WMF API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Ruby per salvare il file in formato PNG come file in formato WMF.
 url: /it/ruby/saveas/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

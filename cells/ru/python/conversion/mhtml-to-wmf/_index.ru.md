@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в WMF API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата MHTML в файл формата WMF.
 url: /ru/python/conversion/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из MHTML в WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования MHTML в формат WMF" gistPath="" %}}

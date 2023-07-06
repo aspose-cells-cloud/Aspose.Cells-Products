@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как MHTML API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSB в виде файла формата MHTML.
 url: /ru/ruby/saveas/xlsb-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xlsb-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как MHTML в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде MHTML — сложная задача. Все переходы формата XLSB в формат MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSB в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов из XLSB в виде MHTML — сложная задача. Все переходы между форматами XLSB и MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSB в виде файлов MHTML в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения XLSB в формате MHTML" gistPath="" %}}

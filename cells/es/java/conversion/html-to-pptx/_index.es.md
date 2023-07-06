@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML a PPTX Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: HTML a PPTX Convertir API for Java
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato HTML a un archivo de formato PPTX.
 url: /es/java/conversion/html-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

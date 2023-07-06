@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTM كـ TSV API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLTM كملف بتنسيق TSV.
 url: /ar/perl/saveas/xltm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLTM كـ TSV" h2="مكتبة Perl لحفظ XLTM كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLTM بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltm-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLTM كـ TSV" h2="مكتبة Perl لحفظ XLTM كـ TSV" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLTM بتنسيق TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltm-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM بتنسيق TSV في Perl" >}}

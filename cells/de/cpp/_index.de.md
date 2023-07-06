@@ -1,26 +1,26 @@
 ﻿---
-title:  CPP Cloud SDK zum Generieren, Bearbeiten und Konvertieren von Excel-Dateien via-REST-APIs
-description:  Verwenden Sie cURL-Befehle zum Erstellen von Spreadsheet Creator- und Konverter-Apps, die auf Microsoft-Excel- und OpenOffice-Dateien aus dem Cloud-Speicher zur Verarbeitung zugreifen
+title: CPP Cloud SDK zum Generieren, Bearbeiten und Konvertieren von Excel Dateien via REST-APIs
+description:  Verwenden Sie die Befehle cURL, um Anwendungen zum Erstellen und Konvertieren von Tabellenkalkulationen zu erstellen, die zur Verarbeitung auf Microsoft Excel und OpenOffice-Dateien aus dem Cloud-Speicher zugreifen
 weight: 50
 url: /de/cpp
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie Excel File Reader, Viewer & Converter Apps via CPP" h2="Entwickeln Sie via CPP, um Microsoft Excel und OpenOffice-Tabellenkalkulationen, Zeilen, Zellen, Diagramme, Hyperlinks und Pivot-Tabellen in der Cloud zu verarbeiten." logoImageSrc="/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for CPP" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie Excel Dateireader-, Viewer- und Konverter-Apps via CPP" h2="Entwickeln Sie via CPP, um Microsoft Excel und OpenOffice-Tabellenzeilen, Zellen, Diagramme, Hyperlinks und Pivot-Tabellen in der Cloud zu verarbeiten." logoImageSrc="/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for CPP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for CPP" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-cpp.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-cpp" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK for CPP hilft Entwicklern, ihre eigenen Cloud-basierten Anwendungen zum Erstellen, Lesen, Betrachten und Konvertieren von Tabellenkalkulationen mit der Go-Sprache zu erstellen. Das SDK bietet eine benutzerfreundliche Schnittstelle für Aspose.Cells REST API, um eine Vielzahl von Aufgaben der Tabellenkalkulation auszuführen, wie z. B. das Erstellen, Ändern, Konvertieren und Rendern von Excel-Dokumenten in der Cloud.</p>
-<p>Aspose.Cells Cloud SDK for CPP unterstützt mehrere erweiterte Funktionen in Bezug auf das Lesen und Schreiben von Tabellenkalkulationen vollständig, z. ein Arbeitsblatt verschieben, Daten in einem Arbeitsblatt sortieren, ein Blatt kopieren oder umbenennen, ein Arbeitsblatt einfrieren oder freigeben, eine Arbeitsmappe hinzufügen oder entfernen, eine Arbeitsmappe verschlüsseln oder entschlüsseln, eine Excel-Arbeitsmappe mit einem Kennwort schützen, Excel-Arbeitsmappen zusammenführen und vieles mehr.</p>
-<p>Mit Aspose.Cells Cloud SDK für CPP-Entwickler können mithilfe von CPP-Befehlen problemlos automatische Filter, Handhabung von Pivot-Tabellen und bedingte Formatierung von Tabellenkalkulationen durchgeführt werden. Das SDK bietet eine sehr leistungsstarke Konvertierungsoperation für Tabellenkalkulationsdateien und unterstützt vollständig die Konvertierung zwischen Microsoft Excel-Formaten wie XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM sowie die Konvertierung in andere gängige Dateiformate wie PDF, XPS, SVG , TIFF, Markdown- und DIF-Formate.</p>
+<p>Aspose.Cells Cloud SDK für CPP hilft Entwicklern, ihre eigenen Cloud-basierten Anwendungen zum Erstellen, Lesen, Betrachten und Konvertieren von Tabellenkalkulationen mithilfe der Go-Sprache zu erstellen. Das SDK bietet eine benutzerfreundliche Schnittstelle für Aspose.Cells REST API, um eine Vielzahl von Tabellenverarbeitungsaufgaben wie Erstellung, Änderung, Konvertierung und Wiedergabe von Excel-Dokumenten in der Cloud auszuführen.</p>
+<p>Aspose.Cells Cloud SDK für CPP unterstützt vollständig mehrere erweiterte Funktionen im Zusammenhang mit dem Lesen und Schreiben von Tabellenkalkulationen, z. B. das Erstellen einer neuen Tabellenkalkulation von Grund auf, das Ändern einer vorhandenen Datei, das Hinzufügen eines neuen Arbeitsblatts, das Importieren von Daten in ein Excel Arbeitsblatt, das Ein- und Ausblenden eines Arbeitsblatts, Verschieben Sie ein Arbeitsblatt, sortieren Sie Daten in einem Arbeitsblatt, kopieren Sie ein Blatt oder benennen Sie es um, frieren Sie ein Arbeitsblatt ein oder entsperren Sie es, fügen Sie eine Arbeitsmappe hinzu oder entfernen Sie es, verschlüsseln oder entschlüsseln Sie eine Arbeitsmappe, schützen Sie eine Excel-Arbeitsmappe mit einem Passwort, führen Sie Excel-Arbeitsmappen zusammen und vieles mehr.</p>
+<p>Mit dem Cloud SDK Aspose.Cells für CPP können Entwickler mithilfe von CPP-Befehlen problemlos automatische Filterung, Pivot-Tabellenverarbeitung und bedingte Formatierung in Tabellenkalkulationen durchführen. Das SDK bietet einen sehr leistungsstarken Konvertierungsvorgang für Tabellenkalkulationsdateien und unterstützt vollständig die Konvertierung zwischen Microsoft Excel-Formaten wie XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM sowie die Konvertierung in andere gängige Dateiformate wie PDF, XPS, SVG , TIFF, Markdown- und DIF-Formate.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h2="Auf einen Blick" description="Aspose.Cells Cloud kann alle Tabellenbearbeitungsaufgaben ausführen." >}}
+{{< blocks/products/pf/carousel-item h2="Auf einen Blick" description="Aspose.Cells Cloud kann alle Aufgaben zur Tabellenbearbeitung ausführen." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -40,18 +40,18 @@ url: /de/cpp
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h2="Unterstützte Dateiformate" description="Aspose.Cells Von der Cloud unterstützte Dateiformate." >}}
+{{< blocks/products/pf/carousel-item h2="Unterstützte Dateiformate" description="Aspose.Cells Cloud-unterstützte Dateiformate." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>OpenOffice:</b> ODS</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>TabellenkalkulationML:</b> XML</li>
 <li><b>Text:</b> CSV, TSV, TXT (Tabulatorgetrennt)</li>
 <li><b>Netz:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Nur Eingabe</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Abschlag)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -75,20 +75,20 @@ url: /de/cpp
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Excel Tabellenverarbeitungsfunktionen
+Excel Funktionen zur Tabellenverarbeitung
    </h2>
    <p>
    </p>
    <div class="col-lg-12">
     <h2 class="h2title">
- Erste Schritte mit Excel Spreadsheet Processing SDK
+ Beginnen Sie mit dem Excel Spreadsheet Processing SDK
     </h2>
     <p>
- Um mit Aspose.Cells Cloud SDK for CPP zu beginnen, müssen Sie nichts installieren. Alles, was Sie tun müssen, ist ein Konto bei zu erstellen
+ Um mit Aspose.Cells Cloud SDK für CPP zu beginnen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>
- und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App SID &amp; Schlüssel können Sie Aspose.Cells Cloud SDK für CPP auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Ruby bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Es ermöglicht Ihnen auch, Daten aus den Tabellenkalkulationen zur weiteren Verarbeitung oder Speicherung zu extrahieren.
+ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud SDK für CPP auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Ruby bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
     </p>
    </div>
    <div class="col-lg-12">
@@ -96,7 +96,7 @@ Excel Tabellenverarbeitungsfunktionen
  Konvertieren Sie Microsoft Excel oder OpenOffice Calc-Tabellen in verschiedene Formatdateien.
     </h2>
     <p>
-Aspose.Cells Cloud SDK for CPP enthält Funktionen zum programmgesteuerten Konvertieren von Excel-Arbeitsmappen in verschiedene Formatdateien mithilfe der CPP-Sprache. Microsoft Excel oder OpenOffice Calc-Tabellenkonvertierung ist ein komplexer Prozess. Viele Faktoren tragen zur Komplexität bei und sollten daher während des Transformationsprozesses berücksichtigt werden. Die Fähigkeit, Excel-Dateien in präziser professioneller Qualität von einem Format in ein anderes zu konvertieren, ist ein Top-Feature von Aspose.Cells Cloud.
+Aspose.Cells Cloud SDK für CPP verfügt über Funktionen zum programmgesteuerten Konvertieren von Excel Arbeitsmappen in Formatdateitypen mithilfe der CPP-Sprache. Microsoft Excel oder OpenOffice Calc-Tabellenkonvertierung ist ein komplexer Prozess. Viele Faktoren tragen zur Komplexität bei und sollten daher im Transformationsprozess berücksichtigt werden. Die Möglichkeit, Excel-Dateien in präziser professioneller Qualität von einem Format in ein anderes zu konvertieren, ist ein Top-Feature von Aspose.Cells Cloud.
     </p>
    </div>
    <div class="col-lg-12">
@@ -104,7 +104,7 @@ Aspose.Cells Cloud SDK for CPP enthält Funktionen zum programmgesteuerten Konve
  Schützen Sie Microsoft Excel via CPP-APIs
     </h2>
     <p>
- Aspose.Cells Cloud SDK for CPP enthält Funktionen zum programmgesteuerten Schützen der Arbeitsmappe Excel mithilfe der CPP-Sprache. Wie Arbeitsmappe mit Passwort schützen und entschützen, digitale Signatur für Arbeitsmappe hinzufügen.
+ Aspose.Cells Cloud SDK für CPP verfügt über Funktionen zum programmgesteuerten Schutz von Excel Arbeitsmappen mithilfe der CPP-Sprache. Beispielsweise können Sie die Arbeitsmappe mit einem Kennwort schützen bzw. den Schutz aufheben oder eine digitale Signatur für die Arbeitsmappe hinzufügen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -112,13 +112,13 @@ Aspose.Cells Cloud SDK for CPP enthält Funktionen zum programmgesteuerten Konve
  Führen Sie mehrere Microsoft Excel- oder OpenOffice Calc-Tabellen in einer Datei zusammen.
     </h2>
     <p>
-Aspose.Cells Cloud SDK für CPP enthält Funktionen zum programmgesteuerten Zusammenführen mehrerer Microsoft Excel- oder OpenOffice Calc-Tabellen in einer Datei unter Verwendung der CPP-Sprache. Unterstützt mehrere Arten von Formatdateieingaben. Und unterstützt Arten der Formatausgabe.
+Aspose.Cells Cloud SDK für CPP verfügt über Funktionen zum programmgesteuerten Zusammenführen mehrerer Microsoft Excel- oder OpenOffice Calc-Tabellen in einer Datei mithilfe der CPP-Sprache. Unterstützt mehrere Arten der Formatdateieingabe. Und unterstützt Arten der Formatausgabe.
     </p>
     <h2 class="h2title">
- Suchen und Ersetzen von Textarbeitsmappen
+ Textarbeitsmappen suchen und ersetzen
     </h2>
     <p>
- Aspose.Cells Cloud SDK for CPP bietet Unterstützung für die Arbeit mit Text in einer Arbeitsmappe mithilfe von CPP-Sprachbefehlen. Das SDK hat sehr nützliche Funktionen für die Textsuche und -aktualisierung bereitgestellt, z. B. das Suchen und Ersetzen von Text in einer Arbeitsmappe oder in einem Arbeitsblatt, das Abrufen von Textelementen aus Arbeitsblättern und vieles mehr. Darüber hinaus können Sie mit einfachen CPP-Befehlen auch Text, Bilder oder Formen aus einem Arbeitsblatt extrahieren.
+ Aspose.Cells Cloud SDK für CPP bietet Unterstützung für die Arbeit mit Text in einer Arbeitsmappe mithilfe von CPP-Sprachbefehlen. Das SDK bietet sehr nützliche Funktionen für die Textsuche und deren Aktualisierung, z. B. das Suchen und Ersetzen von Text in einer Arbeitsmappe oder einem Arbeitsblatt, das Abrufen von Textelementen aus Arbeitsblättern und vieles mehr. Darüber hinaus können Sie mit einfachen CPP-Befehlen auch Text, Bilder oder Formen aus einem Arbeitsblatt extrahieren.
     </p>
     <p>
     </p>
@@ -139,9 +139,9 @@ Aspose.Cells Cloud SDK für CPP enthält Funktionen zum programmgesteuerten Zusa
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.cloud/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells Cloud SDK für CPP?" tabId="success-stories" >}}

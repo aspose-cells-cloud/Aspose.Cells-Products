@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi C# için SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/xlt-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

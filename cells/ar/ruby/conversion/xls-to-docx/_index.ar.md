@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى DOCX - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLS إلى ملف بتنسيق DOCX.
 url: /ar/ruby/conversion/xls-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

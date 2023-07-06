@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare gli oggetti dell'elenco su Microsoft
 url: /it/ruby/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare gli oggetti elenco sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare gli oggetti elenco sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella elenco oggetti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

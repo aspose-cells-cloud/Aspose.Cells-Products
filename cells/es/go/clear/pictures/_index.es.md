@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar imágenes en Microsoft Excel y Ope
 url: /es/go/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra imágenes en el Microsoft Excel local y la hoja de cálculo OpenOffice Calc usando Go." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra imágenes en el Microsoft Excel local y la hoja de cálculo OpenOffice Calc usando Go." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Imágenes claras en el Microsoft local Excel y en la hoja de cálculo de OpenOffice Calc - Ir a REST API" >}}

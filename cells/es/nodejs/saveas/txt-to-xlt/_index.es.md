@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde TXT como XLT API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para guardar el archivo de formato TXT como archivo de formato XLT.
 url: /es/nodejs/saveas/txt-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/nodejs/saveas/txt-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo TXT como XLT en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de TXT como XLT es una tarea compleja. Todas las transiciones de formato TXT a XLT se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar archivos TXT como XLT en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLT perfecta.
+Guardar formatos de archivo de TXT como XLT es una tarea compleja. Nuestro SDK de NodeJS realiza todas las transiciones de formato TXT a XLT mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca NodeJS es una solución profesional para guardar archivos TXT como XLT en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y una salida XLT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para guardar TXT como formato XLT" gistPath="" %}}

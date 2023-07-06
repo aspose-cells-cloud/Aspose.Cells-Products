@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить MHTML как XLSB API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата MHTML как файла формата XLSB.
 url: /ru/go/saveas/mhtml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить MHTML как XLSB." h2="Библиотека Go для сохранения MHTML как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения MHTML как XLSB и других форматов документов онлайн с помощью Go." urlsection="saveas/mhtml-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить MHTML как XLSB." h2="Библиотека Go для сохранения MHTML как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения MHTML как XLSB и других форматов документов в Интернете с помощью Go." urlsection="saveas/mhtml-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSB в Go" >}}

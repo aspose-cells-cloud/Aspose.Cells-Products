@@ -1,16 +1,16 @@
 ﻿---
-title:  Cloud'daki yerel çalışma kitabındaki yinelenen satırları temizle
-description: Microsoft Excel ve OpenOffice Calc üzerinde yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Cells Cloud API ile yerel e-tablolardaki yinelenen satırları temizleyin. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title: Ruby in Cloud ile yerel çalışma kitabındaki yinelenen satırları temizleyin
+description:  Microsoft Excel ve Ruby ile OpenOffice Calc üzerindeki yinelenen satırı temizlemek için Bulut API'leri ve SDK'lar. Ruby için Cells Cloud API SDK ile yerel e-tablolardaki yinelenen satırları temizleyin
 url: /tr/ruby/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarında yinelenen satırları temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizler." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için Ruby Clear" p="Ruby\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarında yinelenen satırları temizlemek için Cells REST\'i Temizle API\'i kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yinelenen satırları temizler." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizle - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerinde yinelenen satırların temizlenmesi, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda yinelenen satırları temizlemek karmaşık bir iştir. Yerel Microsoft Excel ve OpenOffice Calc elektronik tablo geçişlerindeki yinelenen satırların temizlenmesi, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, yerel Microsoft Excel ve çevrimiçi OpenOffice Calc elektronik tablosundaki yinelenen satırları temizlemek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tablolardaki yinelenen satırları temizlemek için Ruby kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-DuplicateRows.rb" %}}

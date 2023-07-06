@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir XLTM en MD API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir XLTM en MD API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLTM en fichier au format MD.
 url: /fr/perl/conversion/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -12,9 +12,9 @@ url: /fr/php
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK pour PHP est conçu pour les développeurs afin de les aider à améliorer leurs applications de générateur, de visualisation et de conversion de feuilles de calcul basées sur le cloud programmées dans PHP. Notre SDK cloud de traitement de documents Excel est basé sur Aspose.Cells REST API. Aspose.Cells Cloud SDK pour PHP est disponible sous une licence MIT.</p>
+<p>Aspose.Cells Cloud SDK pour PHP est conçu pour les développeurs afin de les aider à améliorer leurs applications de générateur, de visualisation et de conversion de feuilles de calcul basées sur le cloud programmées dans PHP. Notre SDK cloud de traitement de documents Excel est basé sur Aspose.Cells REST API. Aspose.Cells Cloud SDK pour 076173 481 est disponible sous une licence MIT.</p>
 <p>Créer une feuille Excel dans PHP, travailler avec des formes automatiques, des filtres automatiques, des classeurs, des feuilles de calcul, des lignes, des cellules, des graphiques, une mise en forme conditionnelle, des ListObjects, des hyperliens, des OleObjects, des tableaux croisés dynamiques, des formes, des plages, des tâches, la sécurité, les validations de feuille de calcul et le cloud stockage de fichiers, le tout à l'aide du SDK Cloud Aspose.Cells simple pour PHP.</p>
-<p>Il permet également à votre code PHP de convertir les feuilles de calcul Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) et OpenOffice (ODS) en PDF, XPS, TIFF, SVG, DIF et MD (Markdown).</p>
+<p>Il permet également à votre code PHP de convertir les feuilles de calcul Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) et OpenOffice (ODS) en PDF, XPS, TIFF, SVG, DIF et MD (Mark vers le bas).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -43,7 +43,7 @@ url: /fr/php
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -146,7 +146,7 @@ url: /fr/php
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG в SXC Преобразование API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата PNG в файл формата SXC.
 url: /ru/net/conversion/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/png-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в SXC в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования PNG в формат SXC" gistPath="" %}}

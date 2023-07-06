@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как SQL API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JPG в виде файла формата SQL.
 url: /ru/perl/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

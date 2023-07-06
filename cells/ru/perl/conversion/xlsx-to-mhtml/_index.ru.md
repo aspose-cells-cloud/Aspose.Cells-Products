@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLSX в MHTML API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLSX в файл формата MHTML.
 url: /ru/perl/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLSX в MHTML" h2="Perl библиотека для преобразования XLSX в MHTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации XLSX в MHTML и другие форматы документов с использованием Perl." urlsection="conversion/xlsx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLSX в MHTML" h2="Perl библиотека для преобразования XLSX в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации XLSX в MHTML и другие форматы документов с использованием Perl." urlsection="conversion/xlsx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в MHTML в Perl" >}}

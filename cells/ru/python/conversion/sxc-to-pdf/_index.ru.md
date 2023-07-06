@@ -1,6 +1,6 @@
 ﻿---
-title: SXC в PDF Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  SXC в PDF Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата SXC в файл формата PDF.
 url: /ru/python/conversion/sxc-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/sxc-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в PDF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в PDF — сложная задача. Все переходы формата SXC в формат PDF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов SXC в файлы PDF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PDF.
+Преобразование форматов файлов из SXC в PDF — сложная задача. Все переходы формата SXC в формат PDF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов SXC в файлы PDF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования SXC в формат PDF" gistPath="" %}}

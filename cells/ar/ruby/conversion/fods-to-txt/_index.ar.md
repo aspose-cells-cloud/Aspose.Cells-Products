@@ -1,5 +1,5 @@
 ﻿---
-title:  حوّل من Excel FODS إلى TXT via Ruby
+title:  حوِّل من Excel FODS إلى TXT via Ruby
 description: إنشاء ملفات Excel أو تحريرها أو تحويلها باستخدام REST API & Open Source Ruby SDK
 url: /ar/ruby/conversion/fods-to-txt/
 family: cells
@@ -11,7 +11,7 @@ platform: Ruby
 otherformats: PDF TIFF XML XPS TSV XLS CSV XLTM HTML XLSB XLSX XLSM FODS DIF TXT SVG 
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى TXT مع Ruby" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
+{{< blocks/products/pf/agp/upper-banner-autogen h1="تحويل FODS إلى TXT مع روبي" h2="قراءة وتحرير وتصدير بيانات Excel إلى تنسيقات أخرى باستخدام Cloud SDK مفتوح المصدر لـ Ruby" >}}
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 

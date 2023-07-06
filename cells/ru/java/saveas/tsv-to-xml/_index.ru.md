@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TSV как XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата TSV в виде файла формата XML.
 url: /ru/java/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar hipervínculos en Microsoft Excel
 url: /es/ruby/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar los hipervínculos en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar los hipervínculos en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra los hipervínculos en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Ruby." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar hipervínculos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}

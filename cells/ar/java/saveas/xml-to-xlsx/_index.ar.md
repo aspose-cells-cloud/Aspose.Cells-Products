@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ XLSX API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XML كملف بتنسيق XLSX.
 url: /ar/java/saveas/xml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

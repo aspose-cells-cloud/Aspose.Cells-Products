@@ -1,10 +1,10 @@
 ﻿---
 title:  Android API kullanarak CHART'ı e-tablodan JPG'ye aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/android/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı JPG dosyasına aktarmak için Android API" h2="CHART\'ı JPG dosyasına dışa aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak çevrimiçi tablodan CHART\'ı JPG formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="CHART\'ı JPG dosyasına aktarmak için Android API" h2="CHART\'ı JPG dosyasına dışa aktarmak için Android kitaplığı" p="Android\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Android kullanarak CHART\'ı elektronik tablodan JPG formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="CHART nesnesini Android\'de JPG formatındaki dosyaya aktarın" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Exportar LIBRO DE TRABAJO a SQL desde una hoja de cálculo usando PHP API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/php/export/workbook-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar LIBRO DE TRABAJO a archivo SQL" h2="PHP biblioteca para exportar LIBRO DE TRABAJO a archivo SQL" p="Use Cells Export REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en PHP. Esta es una solución profesional para exportar WORKBOOK a un archivo de formato SQL desde una hoja de cálculo en línea usando PHP." urlsection="export/workbook-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para exportar LIBRO DE TRABAJO a archivo SQL" h2="PHP biblioteca para exportar LIBRO DE TRABAJO a archivo SQL" p="Use Cells Export REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en PHP. Esta es una solución profesional para exportar WORKBOOK a un archivo en formato SQL desde una hoja de cálculo en línea usando PHP." urlsection="export/workbook-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK a un archivo de formato SQL en PHP" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Сохранить EMF как CSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить EMF как CSV API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата EMF в виде файла формата CSV.
 url: /ru/nodejs/saveas/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  MHTML a HTML Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: MHTML a HTML Convertir API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato MHTML a un archivo de formato HTML.
 url: /es/python/conversion/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir MHTML a HTML" h2="Python biblioteca para convertir MHTML a HTML" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir MHTML a HTML y otros formatos de documentos en línea usando Python." urlsection="conversion/mhtml-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir MHTML a HTML" h2="Python biblioteca para convertir MHTML a HTML" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir MHTML a HTML y otros formatos de documentos en línea usando Python." urlsection="conversion/mhtml-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo MHTML a HTML en Python" >}}

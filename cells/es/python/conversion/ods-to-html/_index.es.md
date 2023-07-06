@@ -1,6 +1,6 @@
 ﻿---
-title: ODS a HTML Convertir API por Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  ODS a HTML Convertir API por Python
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir archivos de formato ODS a archivos de formato HTML.
 url: /es/python/conversion/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

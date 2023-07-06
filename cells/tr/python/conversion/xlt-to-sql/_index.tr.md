@@ -1,6 +1,6 @@
 ﻿---
-title: XLT'den SQL'e Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLT'den SQL'e Dönüştürme API için Python
+description: XLT biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

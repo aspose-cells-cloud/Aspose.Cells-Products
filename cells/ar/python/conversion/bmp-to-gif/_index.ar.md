@@ -1,6 +1,6 @@
 ﻿---
-title: BMP إلى GIF تحويل API عن Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  BMP إلى GIF تحويل API عن Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق BMP إلى ملف بتنسيق GIF.
 url: /ar/python/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

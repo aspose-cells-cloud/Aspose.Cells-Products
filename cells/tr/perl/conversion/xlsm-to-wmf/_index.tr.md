@@ -1,6 +1,6 @@
 ﻿---
-title: XLSM'den WMF'ye Dönüştürme API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLSM'den WMF'ye Dönüştürme API için Perl
+description:  XLSM biçim dosyasını WMF biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

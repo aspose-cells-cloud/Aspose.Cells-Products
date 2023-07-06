@@ -1,6 +1,6 @@
 ﻿---
-title: XLS en TIFF Convertir API en PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLS en TIFF Convertir API en PHP
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format XLS en fichier au format TIFF.
 url: /fr/php/conversion/xls-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

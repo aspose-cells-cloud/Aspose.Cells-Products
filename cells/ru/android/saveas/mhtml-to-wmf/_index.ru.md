@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как WMF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата MHTML в виде файла формата WMF.
 url: /ru/android/saveas/mhtml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как WMF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Android — это профессиональное решение для сохранения файлов MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения MHTML в формате WMF" gistPath="" %}}

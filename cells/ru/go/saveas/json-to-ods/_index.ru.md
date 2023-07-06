@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как ODS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JSON в виде файла формата ODS.
 url: /ru/go/saveas/json-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

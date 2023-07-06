@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC a TSV Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato SXC a un archivo de formato TSV.
 url: /es/php/conversion/sxc-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

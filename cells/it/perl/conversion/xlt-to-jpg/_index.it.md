@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT in JPG Converti API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLT in un file in formato JPG.
 url: /it/perl/conversion/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

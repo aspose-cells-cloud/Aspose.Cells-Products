@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSB come SXC API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato XLSB come file in formato SXC.
 url: /it/go/saveas/xlsb-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -31,7 +31,7 @@ Salvare i formati di file da XLSB come SXC è un compito complesso. Tutte le tra
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Go API per salvare XLSB come SXC" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLSB come SXC" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>

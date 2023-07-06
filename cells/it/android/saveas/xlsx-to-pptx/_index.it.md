@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSX come PPTX API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLSX come file in formato PPTX.
 url: /it/android/saveas/xlsx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/xlsx-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSX come PPTX in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da XLSX come PPTX è un'attività complessa. Tutte le transizioni di formato da XLSX a PPTX vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLSX di origine. La nostra libreria Android è una soluzione professionale per salvare XLSX come file PPTX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output PPTX perfetto.
+Il salvataggio dei formati di file da XLSX come PPTX è un'attività complessa. Tutte le transizioni di formato da XLSX a PPTX vengono eseguite dal nostro SDK Android mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLSX di origine. La nostra libreria Android è una soluzione professionale per salvare XLSX come file PPTX online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output PPTX perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per salvare XLSX come formato PPTX" gistPath="" %}}

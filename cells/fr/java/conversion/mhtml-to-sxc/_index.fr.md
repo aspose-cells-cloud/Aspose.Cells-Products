@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir MHTML en SXC API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format MHTML en fichier au format SXC.
 url: /fr/java/conversion/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

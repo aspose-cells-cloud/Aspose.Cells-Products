@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG to ODS - تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق JPG إلى ملف بتنسيق ODS.
 url: /ar/android/conversion/jpg-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

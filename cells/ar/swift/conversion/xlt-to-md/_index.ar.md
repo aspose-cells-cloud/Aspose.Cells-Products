@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT إلى MD - تحويل API لـ Swift
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
 url: /ar/swift/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  حفظ XLT كـ ODS API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLT كملف بتنسيق ODS.
 url: /ar/java/saveas/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة Java لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة Java لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT كملف ODS في Java" >}}

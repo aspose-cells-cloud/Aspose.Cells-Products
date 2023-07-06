@@ -1,6 +1,6 @@
 ﻿---
-title: Сохранить PNG как ODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить PNG как ODS API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата PNG в качестве файла формата ODS.
 url: /ru/perl/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

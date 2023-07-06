@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLTX som CSV API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLTX som CSV API för NodeJS
+description:  Använder Aspose.Cells Cloud SDK för NodeJS för att spara XLTX-formatfil som CSV-formatfil.
 url: /sv/nodejs/saveas/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

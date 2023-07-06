@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM en BMP Convertir API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: XLTM en BMP Convertir API pour Android
+description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLTM en fichier au format BMP.
 url: /fr/android/conversion/xltm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/android/conversion/xltm-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTM en BMP sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTM en BMP est une tâche complexe. Toutes les transitions de format XLTM vers BMP sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne les fichiers XLTM en BMP. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie BMP parfaite.
+La conversion des formats de fichiers de XLTM en BMP est une tâche complexe. Toutes les transitions de format XLTM vers BMP sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTM source. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne les fichiers XLTM en BMP. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie BMP parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir XLTM au format BMP" gistPath="" %}}

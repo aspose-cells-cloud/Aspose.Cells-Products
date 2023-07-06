@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX إلى BMP تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLTX إلى BMP تحويل API إلى PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLTX إلى ملف بتنسيق BMP.
 url: /ar/php/conversion/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

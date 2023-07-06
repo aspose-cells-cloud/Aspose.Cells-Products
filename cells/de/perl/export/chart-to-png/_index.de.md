@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie CHART nach PNG aus der Tabelle mit Perl API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie CHART aus der Tabellenkalkulation nach PNG mit Perl API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/perl/export/chart-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Exportieren von CHART in die Datei PNG" h2="Perl-Bibliothek zum Exportieren von CHART in die PNG-Datei" p="Verwenden Sie Cells Export REST API, um interne Objekt-Workflows von Tabellenkalkulationen in Perl zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von CHART in eine Datei im Format PNG aus Tabellenkalkulation online mit Perl." urlsection="export/chart-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um CHART in die Datei PNG zu exportieren" h2="Perl-Bibliothek zum Exportieren von CHART in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Perl zu exportieren. Dies ist eine professionelle Lösung, um CHART online aus einer Tabellenkalkulation in eine Datei im PNG-Format zu exportieren, indem Sie Perl verwenden." urlsection="export/chart-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das CHART-Objekt in die Formatdatei PNG in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des CHART-Objekts in die Datei PNG aus der Tabelle ist eine komplexe Aufgabe. Der Export von CHART in PNG-Formatübergänge wird von unserem Perl-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der CHART-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im PNG-Format zu exportieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Exportieren eines CHART-Objekts aus einer Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Übergänge im CHART-Format in das PNG-Format exportieren werden von unserem Perl-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der CHART-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um CHART-Objekte online in Dateien im PNG-Format zu exportieren. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von CHART in das Format PNG aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Exportieren von CHART in das Format PNG aus der Tabellenkalkulation" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -38,9 +38,9 @@ Das Exportieren des CHART-Objekts in die Datei PNG aus der Tabelle ist eine komp
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um CHART nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die post_export-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode post_export auf, um den resultierenden Stream zu erhalten</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

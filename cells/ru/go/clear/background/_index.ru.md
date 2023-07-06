@@ -4,13 +4,13 @@ description: Облачные API и SDK для очистки фона на Mic
 url: /ru/go/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить фон на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение очищает фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Go." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить фон на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение очищает фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Go." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка фона для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки фона в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам Go мощную функциональность и совершенный API.
+Очистка фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка фона для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки фона в локальной электронной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Go для очистки фона в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Background.go" %}}

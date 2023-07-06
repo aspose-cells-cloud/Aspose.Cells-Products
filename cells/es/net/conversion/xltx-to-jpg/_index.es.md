@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX a JPG Convertir API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para convertir un archivo de formato XLTX a un archivo de formato JPG.
 url: /es/net/conversion/xltx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

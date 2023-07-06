@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc di
 url: /sv/ruby/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Ruby-bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i Ruby. Denna professionella lösning digital signatur moln Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord och digital signatur fil med Ruby." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Ruby-bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i Ruby. Denna professionella lösning digital signatur moln Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord och digital signatur fil med Ruby." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Digital signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - Ruby REST API" >}}

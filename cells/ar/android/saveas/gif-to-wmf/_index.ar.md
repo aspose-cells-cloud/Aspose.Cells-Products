@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ GIF باسم WMF API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق GIF كملف بتنسيق WMF.
 url: /ar/android/saveas/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ GIF كـ WMF" h2="مكتبة Android لحفظ GIF كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ GIF بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/gif-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ GIF كـ WMF" h2="مكتبة Android لحفظ GIF كـ WMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ GIF بتنسيق WMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/gif-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF بصيغة WMF في Android" >}}

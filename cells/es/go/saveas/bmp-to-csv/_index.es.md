@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como CSV API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato BMP como archivo de formato CSV.
 url: /es/go/saveas/bmp-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

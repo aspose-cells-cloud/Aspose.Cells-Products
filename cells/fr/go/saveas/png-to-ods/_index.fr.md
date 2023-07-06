@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez PNG comme ODS API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format PNG en tant que fichier au format ODS.
 url: /fr/go/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer PNG en tant qu\'ODS" h2="Accédez à la bibliothèque pour enregistrer PNG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format ODS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/png-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer PNG comme ODS" h2="Accédez à la bibliothèque pour enregistrer PNG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format ODS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/png-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG en tant qu\'ODS dans Go" >}}

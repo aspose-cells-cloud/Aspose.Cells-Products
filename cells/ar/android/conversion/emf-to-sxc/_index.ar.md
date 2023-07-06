@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى SXC تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق EMF إلى ملف بتنسيق SXC.
 url: /ar/android/conversion/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX إلى XPS تحويل API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLSX إلى XPS تحويل API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLSX إلى ملف بتنسيق XPS.
 url: /ar/net/conversion/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

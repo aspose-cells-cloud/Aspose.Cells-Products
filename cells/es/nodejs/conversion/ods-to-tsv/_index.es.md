@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS a TSV Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato ODS a un archivo de formato TSV.
 url: /es/nodejs/conversion/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -35,7 +35,7 @@ Convertir formatos de archivo de ODS a TSV es una tarea compleja. Todas las tran
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el Nodo API para convertir ODS a TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Cómo usar el nodo API para convertir ODS a TSV" >}}
 <li> Crea una cuenta en<a href="https://dashboard.aspose.cloud/">Panel</a> para obtener la cuota API gratis y los detalles de autorización</li>
 <li>Inicialice CellsApi con ID de cliente, secreto de cliente, URL base y versión API</li>
 <li>Llame al método cellsWorkbookPutConvertWorkbook para obtener el flujo resultante</li>

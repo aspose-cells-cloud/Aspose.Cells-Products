@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversion CSV en DIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format CSV en fichier au format DIF.
 url: /fr/android/conversion/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

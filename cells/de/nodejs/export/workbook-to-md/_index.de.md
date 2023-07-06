@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK nach MD aus der Tabelle mit NodeJS API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie WORKBOOK aus der Tabelle mit NodeJS API nach MD
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/nodejs/export/workbook-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von WORKBOOK in eine MD-Datei" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im MD-Format aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren der Arbeitsmappe in eine MD-Datei" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in eine MD-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine MD-Formatdatei aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im MD-Format in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine MD-Formatdatei in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts in eine MD-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKBOOK zu MD-Formatübergängen wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKBOOK-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um WORKBOOK-Objekte online in Dateien im MD-Format zu exportieren. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und perfekte MD-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine MD-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das MD-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im MD-Format. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von WORKBOOK in das MD-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das MD-Format" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -41,9 +41,9 @@ Das Exportieren eines WORKBOOK-Objekts in eine MD-Datei aus einer Tabellenkalkul
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um WORKBOOK nach MD zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Knoten API zum Exportieren von WORKBOOK nach MD" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

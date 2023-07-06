@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar HTML como XML API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato HTML como archivo de formato XML.
 url: /es/go/saveas/html-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить XLTM как XLT API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTM в виде файла формата XLT.
 url: /ru/ruby/saveas/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как XLT" h2="Библиотека Ruby для сохранения XLTM как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как XLT и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltm-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как XLT" h2="Библиотека Ruby для сохранения XLTM как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как XLT и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xltm-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLT в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде XLT — сложная задача. Все переходы от формата XLTM к формату XLT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для сохранения XLTM в виде файлов XLT в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLT.
+Сохранение форматов файлов из XLTM в виде XLT — сложная задача. Все переходы от формата XLTM к формату XLT выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для сохранения XLTM в виде файлов XLT в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTM в формате XLT" gistPath="" %}}

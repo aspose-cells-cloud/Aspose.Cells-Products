@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS - WMF Dönüştür API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NUMBERS - WMF Dönüştür API için Python
+description:  NUMBERS biçim dosyasını WMF biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

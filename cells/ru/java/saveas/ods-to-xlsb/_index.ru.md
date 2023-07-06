@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить ODS как XLSB API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS в виде файла формата XLSB.
 url: /ru/java/saveas/ods-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения ODS как XLSB" h2="Java библиотека для сохранения ODS в формате XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения ODS в виде XLSB и других форматов документов в Интернете с использованием Java." urlsection="saveas/ods-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения ODS как XLSB" h2="Java библиотека для сохранения ODS как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения ODS в виде XLSB и других форматов документов в Интернете с использованием Java." urlsection="saveas/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLSB в Java." >}}

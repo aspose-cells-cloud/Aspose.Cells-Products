@@ -1,16 +1,16 @@
 ﻿---
 title:  HTML in TIFF Konvertieren Sie API für Android
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Android, um eine Datei im Format HTML in eine Datei im Format TIFF zu konvertieren.
 url: /de/android/conversion/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API, um HTML in TIFF umzuwandeln" h2="Android-Bibliothek zum Konvertieren von HTML in TIFF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um HTML in TIFF und andere Dokumentformate online mit Android zu konvertieren." urlsection="conversion/html-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Konvertieren von HTML in TIFF" h2="Android-Bibliothek zum Konvertieren von HTML in TIFF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von HTML in TIFF und anderen Dokumentformaten mit Android." urlsection="conversion/html-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine HTML-Datei in TIFF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von HTML in TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu TIFF werden von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle HTML beibehalten wird. Unsere Android-Bibliothek ist eine professionelle Lösung, um HTML-Dateien online in TIFF-Dateien zu konvertieren. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte TIFF-Ausgabe.
+Das Konvertieren von Dateiformaten von HTML in TIFF ist eine komplexe Aufgabe. Alle Formatübergänge von HTML zu TIFF werden von unserem Android SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle HTML erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von HTML- in TIFF-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und eine perfekte TIFF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Konvertieren von HTML in das Format TIFF" gistPath="" %}}
@@ -48,15 +48,15 @@ Das Konvertieren von Dateiformaten von HTML in TIFF ist eine komplexe Aufgabe. A
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um HTML in TIFF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

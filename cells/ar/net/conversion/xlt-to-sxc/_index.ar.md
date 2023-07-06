@@ -1,6 +1,6 @@
 ﻿---
 title: " XLT إلى SXC: تحويل API إلى C#"
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق XLT إلى ملف بتنسيق SXC.
 url: /ar/net/conversion/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

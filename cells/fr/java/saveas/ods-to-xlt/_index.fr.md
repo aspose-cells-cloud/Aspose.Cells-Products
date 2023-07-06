@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer ODS sous XLT API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format ODS en tant que fichier au format XLT.
 url: /fr/java/saveas/ods-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/java/saveas/ods-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format XLT au Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir d'ODS au format XLT est une tâche complexe. Toutes les transitions de format ODS vers XLT sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Java est une solution professionnelle pour enregistrer en ligne ODS sous forme de fichiers XLT. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XLT parfaite.
+L'enregistrement de formats de fichiers à partir d'ODS au format XLT est une tâche complexe. Toutes les transitions de format ODS vers XLT sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Java est une solution professionnelle pour enregistrer ODS en tant que fichiers XLT en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie XLT parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer ODS au format XLT" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM'yi Python için XLS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSM biçimli dosyayı XLS biçimli dosya olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/xlsm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

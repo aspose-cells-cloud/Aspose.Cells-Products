@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG till XLSX Konvertera API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att konvertera fil i JPG-format till fil i XLSX-format.
 url: /sv/python/conversion/jpg-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

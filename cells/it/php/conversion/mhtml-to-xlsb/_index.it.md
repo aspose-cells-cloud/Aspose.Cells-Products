@@ -1,6 +1,6 @@
 ﻿---
-title: MHTML in XLSB Converti API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  MHTML in XLSB Converti API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato MHTML in un file in formato XLSB.
 url: /it/php/conversion/mhtml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

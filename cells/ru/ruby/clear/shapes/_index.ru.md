@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки фигур на M
 url: /ru/ruby/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение для очистки форм на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Ruby." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear для очистки фигур в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки фигур в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение для очистки форм на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с использованием Ruby." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фигуры в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

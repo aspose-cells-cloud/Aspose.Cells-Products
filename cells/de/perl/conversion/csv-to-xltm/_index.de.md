@@ -1,16 +1,16 @@
 ﻿---
-title:  CSV in XLTM konvertieren API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title: CSV in XLTM Konvertieren Sie API in Perl
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer Datei im CSV-Format in eine Datei im XLTM-Format.
 url: /de/perl/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um CSV in XLTM zu konvertieren" h2="Perl-Bibliothek zum Konvertieren von CSV in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von CSV in XLTM und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/csv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von CSV in XLTM" h2="Perl-Bibliothek zum Konvertieren von CSV in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um CSV in XLTM und andere Dokumentformate online mit Perl zu konvertieren." urlsection="conversion/csv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in Perl in XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine CSV-Datei in XLTM in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von CSV in XLTM ist eine komplexe Aufgabe. Alle Formatübergänge von CSV zu XLTM werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Inhalt der Quell-CSV-Tabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von CSV- in XLTM-Dateien. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und perfekte XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von CSV in XLTM ist eine komplexe Aufgabe. Alle CSV-zu-XLTM-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von CSV- in XLTM-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von CSV in das XLTM-Format" gistPath="" %}}
@@ -43,10 +43,10 @@ Das Konvertieren von Dateiformaten von CSV in XLTM ist eine komplexe Aufgabe. Al
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um CSV in XLTM zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API zum Konvertieren von CSV in XLTM" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

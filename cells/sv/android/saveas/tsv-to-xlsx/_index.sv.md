@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TSV som XLSX API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Android för att spara TSV-formatfil som XLSX-formatfil.
 url: /sv/android/saveas/tsv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

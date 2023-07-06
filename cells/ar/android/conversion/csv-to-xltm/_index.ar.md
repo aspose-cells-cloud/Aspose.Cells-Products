@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV to XLTM - تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق CSV إلى ملف بتنسيق XLTM.
 url: /ar/android/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLTM'den HTML'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLTM'den HTML'e Perl için API'i dönüştürün
+description:  XLTM biçim dosyasını HTML biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xltm-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

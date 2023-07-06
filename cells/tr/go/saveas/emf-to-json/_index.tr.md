@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF'i Go için JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  EMF biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/saveas/emf-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i JSON olarak kaydetmek için API\'e gidin" h2="EMF\'i JSON olarak kaydetmek için kitaplığa gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Go\'yu kullanarak EMF\'i JSON ve diğer belge biçimleri olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="EMF\'i JSON olarak kaydetmek için API\'e gidin" h2="EMF\'i JSON olarak kaydetmek için kitaplığa gidin" p="Go\'da özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Go kullanarak EMF\'i JSON ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/emf-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını Go\'da JSON olarak kaydedin" >}}

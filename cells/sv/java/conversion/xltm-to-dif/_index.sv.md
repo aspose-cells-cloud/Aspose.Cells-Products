@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM till DIF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i XLTM-format till fil i DIF-format.
 url: /sv/java/conversion/xltm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

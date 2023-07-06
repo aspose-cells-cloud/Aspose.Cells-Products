@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TXT som PPTX API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Android för att spara TXT-formatfil som PPTX-formatfil.
 url: /sv/android/saveas/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

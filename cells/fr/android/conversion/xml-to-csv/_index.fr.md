@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en CSV API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir un fichier au format XML en fichier au format CSV.
 url: /fr/android/conversion/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

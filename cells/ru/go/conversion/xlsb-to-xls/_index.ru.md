@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в XLS API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLSB в файл формата XLS.
 url: /ru/go/conversion/xlsb-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Android için TXT API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını TXT biçim dosyası olarak kaydetmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/saveas/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

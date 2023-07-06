@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLTM'yi XML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLTM biçim dosyasını XML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xltm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/xltm-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTM dosyasını Android\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLTM'den XML olarak kaydetmek karmaşık bir görevdir. Tüm XLTM'den XML formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTM'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya biçimlerini XLTM'den XML olarak kaydetmek karmaşık bir görevdir. Tüm XLTM'den XML biçimine geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLTM'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi XML formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

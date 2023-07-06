@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLSB в XLTM API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/xlsb-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xlsb-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XLTM в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в XLTM — сложная задача. Все переходы от формата XLSB к формату XLTM выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLSB в XLTM. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLTM.
+Преобразование форматов файлов из XLSB в XLTM — сложная задача. Все переходы форматов XLSB в XLTM выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XLSB в XLTM. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XLSB в формат XLTM" gistPath="" %}}

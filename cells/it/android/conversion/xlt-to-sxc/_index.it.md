@@ -1,6 +1,6 @@
 ﻿---
-title:  Converti da XLT a SXC API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Converti da XLT a SXC API per Android
+description:  Utilizzo di Aspose.Cells Cloud SDK per Android per convertire il file in formato XLT in un file in formato SXC.
 url: /it/android/conversion/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/conversion/xlt-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLT in SXC in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLT a SXC è un'attività complessa. Tutte le transizioni di formato da XLT a SXC vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per convertire file XLT in SXC online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SXC perfetto.
+La conversione dei formati di file da XLT a SXC è un'attività complessa. Tutte le transizioni di formato da XLT a SXC vengono eseguite dal nostro SDK Android mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per convertire file XLT in SXC online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SXC perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire XLT nel formato SXC" gistPath="" %}}

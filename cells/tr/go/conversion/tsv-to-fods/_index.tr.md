@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV'den FODS'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TSV biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Go'yu kullanma.
 url: /tr/go/conversion/tsv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/go/conversion/tsv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Go\'da FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TSV'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm TSV'den FODS formatına geçişler, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, TSV'yi çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını TSV'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm TSV'den FODS formatına geçişler, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, TSV'yi çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi FODS formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

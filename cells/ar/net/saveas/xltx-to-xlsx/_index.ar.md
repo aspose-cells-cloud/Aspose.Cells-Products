@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ XLSX API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLTX كملف بتنسيق XLSX.
 url: /ar/net/saveas/xltx-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

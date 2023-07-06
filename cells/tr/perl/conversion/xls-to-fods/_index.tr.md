@@ -1,6 +1,6 @@
 ﻿---
-title: XLS'den FODS'ye Dönüştür API için Perl
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLS'den FODS'ye Dönüştür API için Perl
+description: XLS biçim dosyasını FODS biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xls-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

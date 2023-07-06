@@ -1,6 +1,6 @@
 ﻿---
 title: Converti da CSV a XLTM API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato CSV in un file in formato XLTM.
 url: /it/python/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

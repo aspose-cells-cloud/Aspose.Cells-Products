@@ -1,13 +1,13 @@
 ﻿---
-title:  Enregistrez XLS sous XLSX API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLS sous XLSX API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLS en tant que fichier au format XLSX.
 url: /fr/perl/saveas/xls-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLS en XLSX" h2="bibliothèque Perl pour enregistrer XLS en XLSX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format XLSX et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xls-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS sous XLSX dans Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS sous XLSX au Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers XLS au format XLSX est une tâche complexe. Toutes les transitions de format XLS vers XLSX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer en ligne des fichiers XLS au format XLSX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLSX parfaite.

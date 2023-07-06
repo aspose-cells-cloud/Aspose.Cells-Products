@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara PNG som XLSB API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara PNG som XLSB API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara PNG filformat som XLSB format fil.
 url: /sv/android/saveas/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

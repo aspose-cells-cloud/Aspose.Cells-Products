@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT a EMF Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato TXT a un archivo de formato EMF.
 url: /es/go/conversion/txt-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

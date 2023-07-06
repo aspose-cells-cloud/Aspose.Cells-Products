@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer ODS sous MHTML API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format ODS en tant que fichier au format MHTML.
 url: /fr/android/saveas/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

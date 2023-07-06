@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF'i Go için XPS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak EMF biçim dosyasını XPS biçim dosyası olarak kaydedin.
 url: /tr/go/saveas/emf-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

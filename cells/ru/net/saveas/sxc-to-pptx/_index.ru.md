@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как PPTX API для C#.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата SXC как файла формата PPTX.
 url: /ru/net/saveas/sxc-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

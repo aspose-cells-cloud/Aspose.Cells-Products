@@ -1,10 +1,10 @@
 ﻿---
 title: Enregistrez EMF au format JPG API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format EMF en tant que fichier au format JPG.
 url: /fr/net/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer EMF au format JPG" h2="Bibliothèque C# pour enregistrer EMF au format JPG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format JPG et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/emf-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer EMF au format JPG" h2="Bibliothèque C# pour enregistrer EMF au format JPG" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format JPG et d\'autres formats de document en ligne en utilisant C#." urlsection="saveas/emf-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier EMF au format JPG en C#" >}}

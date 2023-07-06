@@ -1,10 +1,10 @@
 ﻿---
-title: BMP'den XLSM'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  BMP'den XLSM'ye Dönüştürme API için C#
+description:  BMP biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/bmp-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i XLSM\'ye dönüştürmek için C# API" h2="BMP\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, BMP\'i çevrimiçi olarak C# kullanarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i XLSM\'ye dönüştürmek için C# API" h2="BMP\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, BMP\'i C# kullanarak çevrimiçi olarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını C#\'de XLSM\'ye dönüştürün" >}}

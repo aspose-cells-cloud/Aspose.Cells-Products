@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS в EMF Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата ODS в файл формата EMF.
 url: /ru/nodejs/conversion/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/ods-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в EMF в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в EMF — сложная задача. Все переходы формата ODS в формат EMF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации ODS в файлы EMF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
+Преобразование форматов файлов из ODS в EMF — сложная задача. Все переходы формата ODS в формат EMF выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации ODS в файлы EMF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования ODS в формат EMF" gistPath="" %}}
@@ -35,7 +35,7 @@ url: /ru/nodejs/conversion/ods-to-emf/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования ODS в EMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для преобразования ODS в EMF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>

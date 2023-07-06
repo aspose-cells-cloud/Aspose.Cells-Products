@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde PNG como HTML API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato PNG como archivo de formato HTML.
 url: /es/perl/saveas/png-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

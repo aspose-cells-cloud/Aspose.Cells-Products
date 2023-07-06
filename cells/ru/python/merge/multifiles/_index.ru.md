@@ -1,10 +1,10 @@
 ﻿---
-title:  Объедините несколько файлов Excel в файл.
-description:  Облачные API и SDK для объединения нескольких файлов Excel. Объедините несколько файлов Excel в файл с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Объедините несколько файлов Excel в файл с номером Python.
+description:  Облачные API и SDK для объединения нескольких файлов Excel с Python
 url: /ru/python/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для объединения нескольких файлов Excel в один файл." h2="Python библиотека для объединения нескольких Excel файлов в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Python. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием Python." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для объединения нескольких файлов Excel в один файл." h2="Python библиотека для объединения нескольких Excel файлов в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Python. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с использованием Python." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединить несколько файлов Excel в файл — Python REST API" >}}

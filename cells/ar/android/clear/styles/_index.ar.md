@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الأنماط على Microsoft Excel &
 url: /ar/android/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يتميز هذا الحل الاحترافي بأساليب واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Android مسح لمسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأنماط على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يتميز هذا الحل الاحترافي بأساليب واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأنماط على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}

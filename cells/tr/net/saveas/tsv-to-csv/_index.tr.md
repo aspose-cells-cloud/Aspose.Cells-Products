@@ -1,6 +1,6 @@
 ﻿---
-title:  TSV'yi C# için CSV API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TSV'yi C# için CSV API olarak kaydedin
+description:  TSV formatındaki dosyayı CSV formatındaki dosya olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/tsv-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

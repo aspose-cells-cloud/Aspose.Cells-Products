@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için NUMBERS - DIF Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını DIF biçim dosyasına dönüştürmek için Ruby için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/ruby/conversion/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Spara HTML som CSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara HTML som CSV API for Java
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara HTML filformat som CSV-formatfil.
 url: /sv/java/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

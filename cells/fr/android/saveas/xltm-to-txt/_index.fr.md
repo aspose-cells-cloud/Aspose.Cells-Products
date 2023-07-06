@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer XLTM sous TXT API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format TXT.
 url: /fr/android/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTM en TXT" h2="Bibliothèque Android pour enregistrer XLTM en TXT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format TXT et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format TXT dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format TXT sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers de XLTM au format TXT est une tâche complexe. Toutes les transitions de format XLTM vers TXT sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTM en tant que fichiers TXT en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TXT parfaite.

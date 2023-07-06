@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva SXC come ODS API per NodeJS
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for NodeJS per salvare il file in formato SXC come file in formato ODS.
 url: /it/nodejs/saveas/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/nodejs/saveas/sxc-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file SXC come ODS in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da SXC come ODS è un compito complesso. Tutte le transizioni del formato da SXC a ODS vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria NodeJS è una soluzione professionale per salvare SXC come file ODS online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output ODS perfetto.
+Il salvataggio dei formati di file da SXC come ODS è un compito complesso. Tutte le transizioni del formato da SXC a ODS vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria NodeJS è una soluzione professionale per salvare SXC come file ODS online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output ODS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per salvare SXC come formato ODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى XLTM - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق TSV إلى ملف تنسيق XLTM.
 url: /ar/go/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

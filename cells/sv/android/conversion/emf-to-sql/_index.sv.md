@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF till SQL Konvertera API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använda Aspose.Cells Cloud SDK för Android för att konvertera fil i EMF-format till fil i SQL-format.
 url: /sv/android/conversion/emf-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

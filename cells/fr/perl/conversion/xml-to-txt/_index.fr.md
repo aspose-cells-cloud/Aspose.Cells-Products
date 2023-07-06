@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XML en TXT API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XML en TXT API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XML en fichier au format TXT.
 url: /fr/perl/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: XLT'yi PNG'e Perl için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLT'yi PNG'e Perl için API'e dönüştür
+description:  XLT biçim dosyasını PNG biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLT come XLSB API per Android
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Android per salvare il file in formato XLT come file in formato XLSB.
 url: /it/android/saveas/xlt-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/android/saveas/xlt-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLT come XLSB in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLT come XLSB è un compito complesso. Tutte le transizioni dal formato XLT a XLSB vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per salvare XLT come file XLSB online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSB.
+Salvare i formati di file da XLT come XLSB è un compito complesso. Tutte le transizioni di formato da XLT a XLSB vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLT di origine. La nostra libreria Android è una soluzione professionale per salvare XLT come file XLSB online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per salvare XLT come formato XLSB" gistPath="" %}}

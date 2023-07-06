@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XLT в JSON API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLT в JSON API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLT в файл формата JSON.
 url: /ru/perl/conversion/xlt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

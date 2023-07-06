@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ BMP API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق PNG كملف بتنسيق BMP.
 url: /ar/java/saveas/png-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

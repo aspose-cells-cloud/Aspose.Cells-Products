@@ -1,6 +1,6 @@
 ﻿---
-title: Python için XLSM'den FODS'ye Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Python için XLSM'den FODS'ye Dönüştür API
+description: XLSM formatındaki dosyayı FODS formatındaki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

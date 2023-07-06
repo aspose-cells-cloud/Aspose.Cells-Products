@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как WMF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF в виде файла формата WMF.
 url: /ru/ruby/saveas/gif-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

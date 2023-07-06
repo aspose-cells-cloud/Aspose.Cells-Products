@@ -1,6 +1,6 @@
 ﻿---
-title: Сохранить BMP как ODS API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохранить BMP как ODS API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата BMP в качестве файла формата ODS.
 url: /ru/php/saveas/bmp-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

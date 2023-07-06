@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ PNG كـ JPG API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق PNG كملف بتنسيق JPG.
 url: /ar/ruby/saveas/png-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

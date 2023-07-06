@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSM как DIF API для PHP.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSM в виде файла формата DIF.
 url: /ru/php/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

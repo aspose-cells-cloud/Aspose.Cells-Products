@@ -4,7 +4,7 @@ description: Cloud API och SDK för att rensa pivottabeller på Microsoft Excel 
 url: /sv/android/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Android Clear för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Android Clear för att rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc kalkylblad" p="Använd Cells Rensa REST API för att rensa pivottabeller i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Android. Denna professionella lösning rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Android." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa pivottabeller på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Android REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните ODS как TSV API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните ODS как TSV API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата ODS в виде файла формата TSV.
 url: /ru/python/saveas/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/ods-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как TSV по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде TSV — сложная задача. Все переходы между форматами ODS и TSV выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Python — это профессиональное решение для сохранения ODS в виде файлов TSV в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из ODS в виде TSV — сложная задача. Все переходы между форматами ODS и TSV выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Python — это профессиональное решение для сохранения ODS в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения ODS в формате TSV" gistPath="" %}}

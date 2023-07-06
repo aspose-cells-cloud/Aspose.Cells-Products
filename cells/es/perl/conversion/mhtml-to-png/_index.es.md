@@ -1,10 +1,10 @@
 ﻿---
-title:  MHTML a PNG Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: MHTML a PNG Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato MHTML a un archivo de formato PNG.
 url: /es/perl/conversion/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir MHTML a PNG" h2="Perl biblioteca para convertir MHTML a PNG" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir MHTML a PNG y otros formatos de documentos en línea usando Perl." urlsection="conversion/mhtml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para convertir MHTML a PNG" h2="Perl biblioteca para convertir MHTML a PNG" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Perl. Esta es una solución profesional para convertir MHTML a PNG y otros formatos de documentos en línea usando Perl." urlsection="conversion/mhtml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo MHTML a PNG en Perl" >}}

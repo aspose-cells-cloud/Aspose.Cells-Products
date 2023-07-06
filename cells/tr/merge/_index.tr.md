@@ -1,6 +1,6 @@
 ﻿---
 title:  Birleştirmek
-description: Aspose.Cells Cloud REST API, birden çok Excel dosyasının bir Excel dosyasında birleştirilmesini destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, birden çok Excel dosyasının bir Excel dosyasında birleştirilmesini destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -23,9 +23,9 @@ url: /tr/merge/
 	<li><b>Görüntüler:</b> Png, Jpg, Gif, Emf</li>
 	<li><b>Diğer:</b> Pdf, Json, Markdown</li>
 	</ul></div>
-	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Çıkış biçimi</header><ul>
+	<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i>Çıkış biçimi</header><ul>
 	<li><b>Microsoft Excel:</b> Xls, Xlsx, Xlsb, Xlsm, Xlt, Xltx, Xltm</li>
-	<li><b>Microsoft kelime/PowerPoint:</b>Docx, Pptx</li>
+	<li><b>Microsoft kelime/PowerPoint:</b> Docx, Pptx</li>
 	<li><b>Açık ofis:</b> Oranlar, Fods, Otlar</li>
 	<li><b>XML:</b>E-tabloML, Xml</li>
 	<li><b>Metin:</b> CSV, Tsv, Txt (TabDelimited)</li>

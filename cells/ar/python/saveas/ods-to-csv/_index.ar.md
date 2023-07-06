@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ المواد المستنفدة للأوزون بصيغة CSV API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ المواد المستنفدة للأوزون بصيغة CSV API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق ODS كملف بتنسيق CSV.
 url: /ar/python/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

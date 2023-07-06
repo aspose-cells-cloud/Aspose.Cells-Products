@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva EMF come XPS API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato EMF come file in formato XPS.
 url: /it/ruby/saveas/emf-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

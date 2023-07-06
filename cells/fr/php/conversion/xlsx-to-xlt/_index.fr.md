@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir XLSX en XLT API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir XLSX en XLT API pour PHP
+description: Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format XLSX en fichier au format XLT.
 url: /fr/php/conversion/xlsx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Combine varios archivos Excel en un archivo.
-description:  API y SDK en la nube para fusionar varios archivos Excel. Combine varios archivos Excel en un archivo por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Combine varios archivos Excel en un archivo con Java.
+description:  API y SDK en la nube para fusionar varios archivos Excel con Java
 url: /es/java/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para combinar varios archivos Excel en un archivo." h2="Java biblioteca para fusionar varios archivos Excel en un archivo." p="Utilice Cells Combinar REST API para combinar varios archivos Excel en un archivo en Java. Esta solución profesional combina varios archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Java." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para combinar varios archivos Excel en un archivo." h2="Java biblioteca para fusionar múltiples archivos Excel en un archivo." p="Use Cells Combinar REST API para combinar varios archivos Excel en un archivo en Java. Esta solución profesional combina varios archivos Excel en una hoja de cálculo Microsoft Excel u OpenOffice Calc usando Java." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Combinar varios archivos Excel en un archivo - Java REST API" >}}

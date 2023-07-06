@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa valideringar på Microsoft
 url: /sv/net/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="C# Rensa för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i C#. Denna professionella lösning klarar valideringar på lokala Microsoft 36153481 40153481 Calc 36163481 och 36163481 40163481 3476 36163481 3476 34767 och 36163481. 81." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="C# Rensa för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Clear REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i C#. Denna professionella lösning klarar valideringar på lokala Microsoft 36153481 40153481 Calc 36163481 och 36163481 40163481 3476 36163481 3476 34767 och 36163481. 81." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - C# REST API" >}}

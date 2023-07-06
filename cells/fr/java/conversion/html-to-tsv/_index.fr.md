@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML à TSV Convertir API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format HTML en fichier au format TSV.
 url: /fr/java/conversion/html-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

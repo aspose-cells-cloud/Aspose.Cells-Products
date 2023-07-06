@@ -1,6 +1,6 @@
 ﻿---
-title: EMF'den XLSM'ye Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  EMF'den XLSM'ye Dönüştürme API için PHP
+description:  EMF biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/emf-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

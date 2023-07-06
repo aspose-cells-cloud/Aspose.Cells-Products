@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить HTML как MHTML API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата HTML в виде файла формата MHTML.
 url: /ru/net/saveas/html-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/html-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как MHTML в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как MHTML — сложная задача. Все переходы формата HTML в формат MHTML выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов MHTML в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Сохранение форматов файлов с HTML как MHTML — сложная задача. Все переходы формата HTML в формат MHTML выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов MHTML в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате MHTML" gistPath="" %}}

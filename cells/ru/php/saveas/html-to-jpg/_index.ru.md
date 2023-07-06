@@ -1,6 +1,6 @@
 ﻿---
 title: Сохранить HTML как JPG API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата HTML в виде файла формата JPG.
 url: /ru/php/saveas/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/php/saveas/html-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML в формате JPG в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML в виде JPG — сложная задача. Все переходы HTML в формат JPG выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения HTML в виде файлов JPG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов с HTML в виде JPG — сложная задача. Все переходы HTML в формат JPG выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения HTML в виде файлов JPG онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения HTML в формате JPG" gistPath="" %}}

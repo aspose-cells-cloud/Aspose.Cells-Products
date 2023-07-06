@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar NÚMEROS como ODS API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato NUMBERS como archivo de formato ODS.
 url: /es/java/saveas/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/java/saveas/numbers-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como ODS en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como ODS es una tarea compleja. Todas las transiciones de formato NUMBERS a ODS se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Java es una solución profesional para guardar NÚMEROS como archivos ODS en línea. Este SDK de Cloud ofrece a los desarrolladores de Java una potente funcionalidad y una salida ODS perfecta.
+Guardar formatos de archivo de NUMBERS como ODS es una tarea compleja. Todas las transiciones de formato de NUMBERS a ODS se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Java es una solución profesional para guardar NÚMEROS como archivos ODS en línea. Este SDK de Cloud ofrece a los desarrolladores de Java una potente funcionalidad y una salida ODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para guardar NÚMEROS como formato ODS" gistPath="" %}}

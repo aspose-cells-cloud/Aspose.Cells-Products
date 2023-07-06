@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как FODS API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата ODS в виде файла формата FODS.
 url: /ru/android/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/ods-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как FODS в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде FODS — сложная задача. Все переходы между форматами ODS и FODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
+Сохранение форматов файлов из ODS в виде FODS — сложная задача. Все переходы между форматами ODS и FODS выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для сохранения ODS в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения ODS в формате FODS" gistPath="" %}}

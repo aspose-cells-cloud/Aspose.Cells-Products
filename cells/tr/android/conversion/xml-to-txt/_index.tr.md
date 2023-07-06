@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XML'den TXT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XML biçim dosyasını TXT biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/conversion/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XML dosyasını TXT\'ye dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini XML'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XML'den TXT biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XML'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+Dosya biçimlerini XML'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XML'den TXT formatına geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XML'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i TXT formatına dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

@@ -1,16 +1,16 @@
 ﻿---
 title: 将 MHTML 保存为 HTML API 为 PHP
-description: 用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for PHP将MHTML格式文件保存为HTML格式文件。
 url: /zh/php/saveas/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 MHTML 保存为 HTML" h2="PHP 将 MHTML 保存为 HTML 的库" p="使用 Cells SaveAs REST API 在 PHP 创建自定义电子表格工作流。这是使用 PHP 在线将 MHTML 保存为 HTML 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 MHTML 保存为 HTML" h2="PHP 库，将 MHTML 保存为 HTML" p="使用 Cells SaveAs REST API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 MHTML 保存为 HTML 和其他文档格式的专业解决方案。" urlsection="saveas/mhtml-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 PHP 中保存一个 MHTML 文件为 HTML" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 MHTML 文件另存为 PHP 中的 HTML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 MHTML 中的文件格式保存为 HTML 是一项复杂的任务。所有 MHTML 到 HTML 格式的转换都由我们的 PHP SDK 执行，同时保持源 MHTML 电子表格的主要结构和逻辑内容。我们的 PHP 库是将 MHTML 在线保存为 HTML 文件的专业解决方案。此 Cloud SDK 为 PHP 开发人员提供了强大的功能和完美的 HTML 输出。
+将 MHTML 文件格式保存为 HTML 是一项复杂的任务。所有 MHTML 到 HTML 格式的转换均由我们的 PHP SDK 执行，同时保留源 MHTML 电子表格的主要结构和逻辑内容。我们的 PHP 库是在线将 MHTML 保存为 HTML 文件的专业解决方案。此Cloud SDK为PHP开发者提供了强大的功能和完美的HTML输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP 中的代码示例使用 REST API 将 MHTML 保存为 HTML 格式" gistPath="" %}}
@@ -32,14 +32,14 @@ url: /zh/php/saveas/mhtml-to-html/
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用PHP API将MHTML另存为HTML" >}}
-<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息</li>
+<li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
-<li>调用 cellsSaveAsPostDocumentSaveAs 方法获取结果流</li>
+<li>调用 cellsSaveAsPostDocumentSaveAs 方法来获取结果流</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="系统要求" >}}
-<li>PHP 7.4 或更新版本</li>
+<li>PHP 7.4 或更高版本</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

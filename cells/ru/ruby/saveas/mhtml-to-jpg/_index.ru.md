@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как JPG API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата MHTML в виде файла формата JPG.
 url: /ru/ruby/saveas/mhtml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ru/ruby/saveas/mhtml-to-jpg/
 Сохранение форматов файлов из MHTML в виде JPG — сложная задача. Все переходы между форматами MHTML и JPG выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для онлайн-сохранения MHTML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения MHTML в формате JPG" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения MHTML в формате JPG" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

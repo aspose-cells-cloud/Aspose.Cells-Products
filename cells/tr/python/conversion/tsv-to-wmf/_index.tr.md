@@ -1,6 +1,6 @@
 ﻿---
-title:  TSV'den WMF'ye Dönüştürme API için Python
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TSV'den WMF'ye Dönüştürme API için Python
+description:  TSV formatındaki dosyayı WMF formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/conversion/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

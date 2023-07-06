@@ -1,6 +1,6 @@
 ﻿---
-title:  CSV en JPG Convertir API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: CSV en JPG Convertir API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format CSV en fichier au format JPG.
 url: /fr/net/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XLTX كـ XLT API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق XLTX كملف بتنسيق XLT.
 url: /ar/perl/saveas/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLTX كـ XLT" h2="مكتبة Perl لحفظ XLTX كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLTX بتنسيق XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltx-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLTX كـ XLT" h2="مكتبة Perl لحفظ XLTX كـ XLT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLTX كـ XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xltx-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTX باسم XLT في Perl" >}}

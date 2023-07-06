@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JPG как PPTX API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата JPG в виде файла формата PPTX.
 url: /ru/perl/saveas/jpg-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -29,7 +29,7 @@ url: /ru/perl/saveas/jpg-to-pptx/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения JPG в формате PPTX" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для сохранения JPG как PPTX" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызов ячеек_сохранять_как_почта_документ_сохранять_как метод получения результирующего потока</li>

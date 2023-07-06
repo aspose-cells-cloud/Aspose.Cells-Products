@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione dei contenuti su Microsoft Ex
 url: /it/go/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai Cancella per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare il contenuto sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Go. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vai a API per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Vai Cancella per cancellare il contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare il contenuto sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Go. Questa soluzione professionale cancella i contenuti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Go." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella contenuto sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Go REST API" >}}

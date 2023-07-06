@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLSX som ODS API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLSX som ODS API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLSX-formatfil som ODS-formatfil.
 url: /sv/php/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

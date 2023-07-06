@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ PNG API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق MHTML كملف بتنسيق PNG.
 url: /ar/php/saveas/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

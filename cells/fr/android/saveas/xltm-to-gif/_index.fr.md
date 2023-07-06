@@ -1,13 +1,13 @@
 ﻿---
 title:  Enregistrer XLTM en tant que GIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format XLTM en tant que fichier au format GIF.
 url: /fr/android/saveas/xltm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTM au format GIF" h2="Bibliothèque Android pour enregistrer XLTM au format GIF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format GIF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format GIF dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format GIF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de XLTM au format GIF est une tâche complexe. Toutes les transitions de format XLTM vers GIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTM sous forme de fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie GIF parfaite.

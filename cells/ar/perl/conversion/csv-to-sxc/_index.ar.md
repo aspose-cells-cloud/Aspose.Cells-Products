@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل CSV إلى SXC API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق CSV إلى ملف بتنسيق SXC.
 url: /ar/perl/conversion/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/perl/conversion/csv-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى SXC في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SXC مثالي.
+يعد تحويل تنسيقات الملفات من CSV إلى SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى SXC بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات CSV إلى ملفات SXC عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SXC مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل CSV إلى تنسيق SXC" gistPath="" %}}

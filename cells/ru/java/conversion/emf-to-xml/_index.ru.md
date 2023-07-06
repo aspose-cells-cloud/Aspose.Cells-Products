@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование EMF в XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата EMF в файл формата XML.
 url: /ru/java/conversion/emf-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования EMF в XML" h2="Java библиотека для преобразования EMF в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования EMF в XML и другие форматы документов онлайн с использованием Java." urlsection="conversion/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования EMF в XML" h2="библиотека Java для преобразования EMF в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для преобразования EMF в XML и другие форматы документов онлайн с использованием Java." urlsection="conversion/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в XML в Java" >}}

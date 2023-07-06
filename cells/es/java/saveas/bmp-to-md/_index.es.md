@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar BMP como MD API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato BMP como archivo de formato MD.
 url: /es/java/saveas/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

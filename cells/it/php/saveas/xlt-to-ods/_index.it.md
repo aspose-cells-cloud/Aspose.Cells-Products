@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLT come ODS API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLT come ODS API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLT come file in formato ODS.
 url: /it/php/saveas/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

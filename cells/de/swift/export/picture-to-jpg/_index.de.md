@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie BILD mit Swift API aus der Tabelle in JPG
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie BILD aus einer Tabellenkalkulation mit Swift API in JPG
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/picture-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um PICTURE in eine JPG-Datei zu exportieren" h2="Swift-Bibliothek zum Exportieren von PICTURE in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von PICTURE-Dateien in das JPG-Format aus einer Online-Tabelle mit Swift." urlsection="export/picture-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von BILD in eine JPG-Datei" h2="Swift-Bibliothek zum Exportieren von BILD in eine JPG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von BILD-Dateien aus einer Tabellenkalkulation in das JPG-Format mit Swift." urlsection="export/picture-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in eine Datei im JPG-Format in Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das PICTURE-Objekt in Swift in eine JPG-Formatdatei" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren von PICTURE-Objekten in eine JPG-Datei aus einer Tabelle ist eine komplexe Aufgabe. Der Export von BILD zu JPG-Formatübergängen wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der BILD-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um PICTURE-Objekte online in Dateien im JPG-Format zu exportieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte JPG-Ausgabe.
+Das Exportieren eines PICTURE-Objekts aus einer Tabellenkalkulation in eine JPG-Datei ist eine komplexe Aufgabe. Der Export von Übergängen im PICTURE-Format in das JPG-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der PICTURE-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von PICTURE-Objekten in Dateien im JPG-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte JPG-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von PICTURE in das JPG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von PICTURE aus einer Tabellenkalkulation in das JPG-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -56,8 +56,8 @@ Das Exportieren von PICTURE-Objekten in eine JPG-Datei aus einer Tabelle ist ein
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um BILD in JPG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

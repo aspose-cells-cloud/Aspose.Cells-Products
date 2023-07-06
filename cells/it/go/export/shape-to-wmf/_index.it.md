@@ -1,6 +1,6 @@
 ﻿---
 title:  Esporta SHAPE in WMF dal foglio di calcolo utilizzando Go API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/go/export/shape-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/go/export/shape-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto SHAPE in un file in formato WMF in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto SHAPE in un file WMF da un foglio di calcolo è un'attività complessa. L'esportazione delle transizioni in formato SHAPE in formato WMF viene eseguita dal nostro SDK Go mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti SHAPE in file in formato WMF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output WMF perfetto.
+Esportare l'oggetto SHAPE in un file WMF da un foglio di calcolo è un'attività complessa. Le transizioni di esportazione da SHAPE a formato WMF vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti SHAPE in file in formato WMF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output WMF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare SHAPE nel formato WMF dal foglio di calcolo" gistPath="" %}}

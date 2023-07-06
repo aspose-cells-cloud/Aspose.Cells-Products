@@ -1,13 +1,13 @@
 ﻿---
 title:  Сохранить BMP как DIF API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить BMP как DIF" h2="Библиотека Swift для сохранения BMP как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения BMP в формате DIF и других форматах документов в Интернете с помощью Swift." urlsection="saveas/bmp-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DIF в Swift." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как DIF в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов с BMP в формате DIF является сложной задачей. Все переходы формата BMP в формат DIF выполняются нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Swift — это профессиональное решение для сохранения BMP в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод DIF.

@@ -1,6 +1,6 @@
 ﻿---
-title:  Экспорт WORKSHEET в GIF из электронной таблицы с помощью C# API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт WORKSHEET в GIF из электронной таблицы с помощью C# API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/net/export/worksheet-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -44,7 +44,7 @@ url: /ru/net/export/worksheet-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для экспорта РАБОЧЕЙ ТАБЛИЦЫ в GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать C# API для экспорта WORKSHEET в GIF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод PostExport, чтобы получить результирующий поток</li>

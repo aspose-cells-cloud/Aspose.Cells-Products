@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как XLTM API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XML в виде файла формата XLTM.
 url: /ru/ruby/saveas/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как XLTM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде XLTM — сложная задача. Все переходы между форматами XML и XLTM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для сохранения XML в виде файлов XLTM в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и превосходный результат в формате XLTM.
+Сохранение форматов файлов из XML в виде XLTM — сложная задача. Все переходы формата XML в формат XLTM выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для сохранения XML в виде файлов XLTM в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XML в формате XLTM" gistPath="" %}}

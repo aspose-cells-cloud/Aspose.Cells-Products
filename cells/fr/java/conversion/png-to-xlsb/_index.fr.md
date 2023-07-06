@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG à XLSB Convertir API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour convertir le fichier au format PNG en fichier au format XLSB.
 url: /fr/java/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir PNG en XLSB" h2="Bibliothèque Java pour convertir PNG en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir PNG en XLSB et d\'autres formats de document en ligne à l\'aide de Java." urlsection="conversion/png-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour convertir PNG en XLSB" h2="Bibliothèque Java pour convertir PNG en XLSB" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour convertir PNG en XLSB et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="conversion/png-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier PNG en XLSB en Java" >}}

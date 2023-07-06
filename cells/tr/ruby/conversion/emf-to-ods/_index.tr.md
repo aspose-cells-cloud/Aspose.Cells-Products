@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için EMF'i ODS'ye Dönüştür API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Ruby'nin EMF formatındaki dosyayı ODS formatındaki dosyaya dönüştürmesi için kullanılması.
 url: /tr/ruby/conversion/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

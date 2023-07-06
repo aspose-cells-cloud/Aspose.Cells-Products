@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XML'den XLTM'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XML biçim dosyasını XLTM biçim dosyasına dönüştürmek için Android için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/android/conversion/xml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

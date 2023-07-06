@@ -1,6 +1,6 @@
 ﻿---
 title:  Android için XLTM'den JSON'a Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLTM biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/conversion/xltm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

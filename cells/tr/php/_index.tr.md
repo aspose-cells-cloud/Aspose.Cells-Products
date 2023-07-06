@@ -12,9 +12,9 @@ url: /tr/php
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells PHP için Bulut SDK'sı, geliştiricilerin PHP'de programlanan bulut tabanlı elektronik tablo oluşturucu, görüntüleyici ve dönüştürücü uygulamalarını geliştirmelerine yardımcı olmaları için oluşturulmuştur. Excel belge işlemci bulut SDK'mız, Aspose.Cells REST API'e dayanmaktadır. 481 altında mevcuttur bir MIT lisansı.</p>
+<p>Aspose.Cells PHP için Bulut SDK'sı, geliştiricilerin PHP'de programlanan bulut tabanlı elektronik tablo oluşturucu, görüntüleyici ve dönüştürücü uygulamalarını geliştirmelerine yardımcı olmaları için oluşturulmuştur. Excel belge işlemci bulut SDK'mız, Aspose.Cells REST API'e dayanmaktadır. Aspose.Cells 076173 için Bulut SDK'sı 481 altında mevcuttur bir MIT lisansı.</p>
 <p>PHP'de Excel sayfası oluşturun, otomatik şekiller, otomatik filtreler, çalışma kitapları, çalışma sayfaları, satırlar, hücreler, grafikler, koşullu biçimlendirme, ListObjects, hyperlinks, OleObjects, pivot tablolar, şekiller, aralıklar, görevler, güvenlik, çalışma sayfası doğrulamaları ve bulut ile çalışın tümü PHP için basit Aspose.Cells Cloud SDK kullanan dosya depolama.</p>
-<p>Ayrıca PHP kodunuzun Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) ve OpenOffice (ODS) elektronik tablo belgelerini PDF, XPS, TIFF, SVG, DIF ve MD'ye dönüştürmesine olanak tanır (İşaretleme).</p>
+<p>Ayrıca PHP kodunuzun Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) ve OpenOffice (ODS) elektronik tablo belgelerini PDF, XPS, TIFF, SVG, DIF ve MD'ye dönüştürmesini sağlar (İşaretleme).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -160,7 +160,7 @@ url: /tr/php
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /tr/php
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Çalışma sayfasından belirli veya tüm OleObject'leri silin
+ Çalışma sayfasından belirli veya tüm OleObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ url: /tr/php
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">

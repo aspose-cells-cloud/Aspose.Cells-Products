@@ -1,6 +1,6 @@
 ﻿---
 title:  Lire, écrire, afficher et convertir des feuilles de calcul (via C# REST SDK)
-description: SDK pour C#, ASP.NET et autres langages pris en charge par .NET pour développer des applications basées sur le cloud pour le traitement de feuilles de calcul Excel et OpenOffice
+description:  SDK pour C#, ASP.NET et autres langages pris en charge par .NET pour développer des applications basées sur le cloud pour le traitement de feuilles de calcul Excel et OpenOffice
 weight: 70
 url: /fr/net
 ---
@@ -43,7 +43,7 @@ url: /fr/net
 {{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>
@@ -125,14 +125,14 @@ url: /fr/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ajouter un ListObject à un endroit spécifié dans le fichier Excel
+ Ajouter un ListObject à un endroit spécifié dans le fichier Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
+ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
+Résumer les données d'un grand ListObject ou d'une table avec un tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ Supprimer des ListObjects spécifiques ou tous dans une feuille de calcul
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
- et obtenez les informations de votre candidature. C'est tout! Vous êtes prêt à utiliser Aspose.Cells Cloud SDK for .NET.
+et obtenez les informations de votre candidature. C'est tout! Vous êtes prêt à utiliser Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Le SDK Cloud for .NET fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul dans d'autres formats de fichiers populaires.

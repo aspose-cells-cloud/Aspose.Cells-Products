@@ -1,10 +1,10 @@
 ﻿---
-title:  دمج ملفات Excel متعددة في ملف.
-description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة. دمج ملفات Excel متعددة في ملف بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  دمج ملفات Excel متعددة في ملف باستخدام Go.
+description:  Cloud APIs & SDKs لدمج عدة ملفات Excel مع Go
 url: /ar/go/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لدمج Excel عدة ملفات في ملف." h2="انتقل إلى المكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Go. يقوم هذا الحل الاحترافي بدمج ملفات Excel متعددة في جدول بيانات Microsoft Excel أو OpenOffice Calc باستخدام Go." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لدمج Excel عدة ملفات في ملف." h2="انتقل إلى المكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Go. يقوم هذا الحل الاحترافي بدمج ملفات Excel متعددة في جدول بيانات Microsoft Excel أو OpenOffice Calc باستخدام Go." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - Go REST API" >}}

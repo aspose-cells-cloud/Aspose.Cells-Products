@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da CSV a JSON API per C#
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per C# per convertire il file in formato CSV in un file in formato JSON.
 url: /it/net/conversion/csv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

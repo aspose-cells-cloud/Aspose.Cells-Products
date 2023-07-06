@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как PPTX API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF как файла формата PPTX.
 url: /ru/ruby/saveas/gif-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/gif-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как PPTX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде PPTX — сложная задача. Все переходы формата GIF в формат PPTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для сохранения файлов GIF в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
+Сохранение форматов файлов из GIF в виде PPTX — сложная задача. Все переходы формата GIF в PPTX выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Ruby — это профессиональное решение для сохранения файлов GIF в формате PPTX онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения GIF в формате PPTX" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir XLS en DIF API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format XLS en fichier au format DIF.
 url: /fr/php/conversion/xls-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir XLS en DIF" h2="bibliothèque PHP pour convertir XLS en DIF" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir XLS en DIF et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir XLS en DIF" h2="bibliothèque PHP pour convertir XLS en DIF" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir XLS en DIF et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLS en DIF en PHP" >}}

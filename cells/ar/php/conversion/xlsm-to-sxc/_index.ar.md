@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSM إلى SXC - تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLSM إلى ملف بتنسيق SXC.
 url: /ar/php/conversion/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSM إلى SXC" h2="مكتبة PHP لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSM إلى SXC" h2="مكتبة PHP لتحويل XLSM إلى SXC" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLSM إلى SXC وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى SXC في PHP" >}}

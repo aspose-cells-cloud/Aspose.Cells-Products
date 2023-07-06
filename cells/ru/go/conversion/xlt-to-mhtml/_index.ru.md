@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLT в MHTML API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Go для преобразования файла формата XLT в файл формата MHTML.
 url: /ru/go/conversion/xlt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

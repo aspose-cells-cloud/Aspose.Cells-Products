@@ -1,6 +1,6 @@
 ﻿---
-title: PNG إلى GIF تحويل API عن Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  PNG إلى GIF تحويل API عن Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل ملف تنسيق PNG إلى ملف بتنسيق GIF.
 url: /ar/python/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

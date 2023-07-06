@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOf
 url: /es/perl/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Formas claras a claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Perl Formas claras a claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Perl. Esta solución profesional borra formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Perl." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Formas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Perl REST API" >}}

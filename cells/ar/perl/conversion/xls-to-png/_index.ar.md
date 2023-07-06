@@ -1,6 +1,6 @@
 ﻿---
-title: XLS إلى PNG تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  XLS إلى PNG تحويل API إلى Perl
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLS إلى ملف بتنسيق PNG.
 url: /ar/perl/conversion/xls-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

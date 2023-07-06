@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى CSV - تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق TXT إلى ملف بتنسيق CSV.
 url: /ar/nodejs/conversion/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

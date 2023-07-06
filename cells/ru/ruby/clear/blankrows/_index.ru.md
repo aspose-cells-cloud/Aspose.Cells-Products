@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки пустых ст
 url: /ru/ruby/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки пустых строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Ruby Clear для очистки пустых строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить пустые строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение очищает пустые строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки пустых строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Ruby Clear для очистки пустых строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить пустые строки в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение очищает пустые строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с использованием Ruby." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить пустые строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

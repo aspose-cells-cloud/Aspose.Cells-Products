@@ -4,13 +4,13 @@ description: API y SDK en la nube para borrar el fondo en Microsoft Excel y Open
 url: /es/ruby/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar el fondo de los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar el fondo de los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Limpiar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Limpiar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro SDK de Ruby realiza la limpieza del fondo en las transiciones locales Microsoft Excel y de la hoja de cálculo de OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Ruby es una solución profesional para borrar el fondo en el Microsoft Excel local y la hoja de cálculo OpenOffice Calc en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un API perfecto.
+Limpiar el fondo en la hoja de cálculo local Microsoft Excel y OpenOffice Calc es una tarea compleja. Nuestro SDK de Ruby realiza la limpieza de antecedentes en las transiciones de hojas de cálculo locales Microsoft Excel y OpenOffice Calc mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Ruby es una solución profesional para borrar el fondo en el Microsoft Excel local y la hoja de cálculo OpenOffice Calc en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un API perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Código Ruby para borrar antecedentes en hojas de cálculo locales" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Background.rb" %}}

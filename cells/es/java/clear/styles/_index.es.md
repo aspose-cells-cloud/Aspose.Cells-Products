@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar estilos en Microsoft Excel y Open
 url: /es/java/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Java Estilos de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Java. Esta solución profesional borra estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Java." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Java Estilos de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar estilos en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Java. Esta solución profesional borra estilos en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Java." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar estilos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Java REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ MHTML كملف CSV API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ MHTML كملف CSV API لنظام Android
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق MHTML كملف بتنسيق CSV.
 url: /ar/android/saveas/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ MHTML كملف CSV" h2="مكتبة Android لحفظ MHTML كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ MHTML كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/mhtml-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ MHTML كملف CSV" h2="مكتبة Android لحفظ MHTML كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ MHTML كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/mhtml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML كملف CSV في Android" >}}

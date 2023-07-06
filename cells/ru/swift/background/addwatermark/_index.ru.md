@@ -1,6 +1,6 @@
 ﻿---
-title: Добавить водяной знак для локальной книги в облаке
-description:  Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc. Добавление водяных знаков для локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Добавить водяной знак для локальной книги в облаке
+description: Облачные API и SDK для добавления водяных знаков для Microsoft Excel и OpenOffice Calc. Добавление водяных знаков для локальных электронных таблиц с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

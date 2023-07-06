@@ -1,6 +1,6 @@
 ﻿---
 title:  تحويل JSON إلى XML API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق JSON إلى ملف بتنسيق XML.
 url: /ar/php/conversion/json-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

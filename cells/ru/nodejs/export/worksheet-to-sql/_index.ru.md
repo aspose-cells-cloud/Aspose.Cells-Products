@@ -1,6 +1,6 @@
 ﻿---
-title: Экспорт WORKSHEET в SQL из электронной таблицы с использованием NodeJS API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Экспорт WORKSHEET в SQL из электронной таблицы с использованием NodeJS API
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/nodejs/export/worksheet-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

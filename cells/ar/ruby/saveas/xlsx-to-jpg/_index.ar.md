@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSX بتنسيق JPG API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ XLSX كـ JPG API لروبي
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLSX كملف بتنسيق JPG.
 url: /ar/ruby/saveas/xlsx-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Cancella le righe duplicate nella cartella di lavoro locale in Cloud
-description: API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc. Cancella le righe duplicate sui fogli di calcolo locali tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title: Cancella le righe duplicate nella cartella di lavoro locale con Ruby in Cloud
+description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc con Ruby. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per Ruby
 url: /it/ruby/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe duplicate nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Ruby Clear per cancellare le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le righe duplicate nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Ruby. Questa soluzione professionale cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Ruby." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella le righe duplicate sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Ruby REST API" >}}

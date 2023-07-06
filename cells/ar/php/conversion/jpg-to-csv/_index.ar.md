@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG إلى CSV - تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق JPG إلى ملف بتنسيق CSV.
 url: /ar/php/conversion/jpg-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

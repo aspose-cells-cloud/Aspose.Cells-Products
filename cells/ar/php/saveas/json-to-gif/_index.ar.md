@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON بصيغة GIF API مقابل PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق JSON كملف بتنسيق GIF.
 url: /ar/php/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

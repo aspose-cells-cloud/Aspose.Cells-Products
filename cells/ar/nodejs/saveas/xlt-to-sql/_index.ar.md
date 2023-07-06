@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ SQL API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLT كملف بتنسيق SQL.
 url: /ar/nodejs/saveas/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/nodejs/saveas/xlt-to-sql/
 يعد حفظ تنسيقات الملفات من XLT كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى SQL بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLT كملفات SQL عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XLT بتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لحفظ XLT بتنسيق SQL" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

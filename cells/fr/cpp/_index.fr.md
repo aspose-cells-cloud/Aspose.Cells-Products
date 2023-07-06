@@ -1,5 +1,5 @@
 ﻿---
-title:  CPP Cloud SDK pour générer, modifier et convertir des fichiers Excel API REST via
+title: CPP Cloud SDK pour générer, modifier et convertir des fichiers Excel API REST via
 description:  Utilisez les commandes cURL pour créer des applications de création et de conversion de feuille de calcul qui accèdent aux fichiers Microsoft Excel et OpenOffice à partir du stockage en nuage pour le traitement
 weight: 50
 url: /fr/cpp
@@ -43,7 +43,7 @@ url: /fr/cpp
 {{< blocks/products/pf/carousel-item h2="Formats de fichiers pris en charge" description="Aspose.Cells Formats de fichiers pris en charge par le cloud." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Entrée sortie</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>Bureau ouvert:</b> SAO</li>
 <li><b>TableurML :</b> XML</li>
 <li><b>Texte:</b> CSV, TSV, TXT (délimité par des tabulations)</li>

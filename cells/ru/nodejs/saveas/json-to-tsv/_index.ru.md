@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как TSV API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата JSON в виде файла формата TSV.
 url: /ru/nodejs/saveas/json-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/json-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как TSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде TSV — сложная задача. Все переходы между форматами JSON и TSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из JSON в виде TSV — сложная задача. Все переходы между форматами JSON и TSV выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека NodeJS — это профессиональное решение для сохранения JSON в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения JSON в формате TSV" gistPath="" %}}
@@ -33,7 +33,7 @@ url: /ru/nodejs/saveas/json-to-tsv/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения JSON как TSV" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для сохранения JSON в формате TSV" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>

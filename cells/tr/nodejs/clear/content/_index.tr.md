@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. üzerindeki içeriği temizlem
 url: /tr/nodejs/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki içeriği temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizler." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için NodeJS API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için NodeJS Clear" p="NodeJS\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki içeriği temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, NodeJS kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizler." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizleyin - NodeJS REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara NUMBERS som SXC API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för C# för att spara NUMBERS-formatfilen som SXC-formatfil.
 url: /sv/net/saveas/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

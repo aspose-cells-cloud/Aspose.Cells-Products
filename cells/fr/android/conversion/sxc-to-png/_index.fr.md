@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC en PNG Convertir API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir le fichier au format SXC en fichier au format PNG.
 url: /fr/android/conversion/sxc-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

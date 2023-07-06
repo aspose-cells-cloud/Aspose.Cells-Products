@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX'i C# için PNG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçim dosyasını PNG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

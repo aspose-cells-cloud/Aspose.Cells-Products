@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ TSV كـ XLTM API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق TSV كملف بتنسيق XLTM.
 url: /ar/java/saveas/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV كـ XLTM" h2="مكتبة Java لحفظ TSV كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV كـ XLTM" h2="مكتبة Java لحفظ TSV كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV كـ XLTM في Java" >}}

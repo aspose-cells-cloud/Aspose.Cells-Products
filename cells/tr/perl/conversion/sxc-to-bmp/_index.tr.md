@@ -1,6 +1,6 @@
 ﻿---
-title: SXC'den BMP'e Perl için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  SXC'den BMP'e Perl için API'i dönüştürün
+description:  SXC biçim dosyasını BMP biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

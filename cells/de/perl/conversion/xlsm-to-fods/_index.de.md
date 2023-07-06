@@ -1,16 +1,16 @@
 ﻿---
-title: XLSM zu FODS konvertieren API für Perl
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLSM in FODS Konvertieren Sie API in Perl
+description: Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLSM-Formatdatei in eine FODS-Formatdatei.
 url: /de/perl/conversion/xlsm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um XLSM in FODS umzuwandeln" h2="Perl-Bibliothek zum Konvertieren von XLSM in FODS" p="Verwenden Sie Cells Konvertierung REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von XLSM in FODS und andere Dokumentformate unter Verwendung von Perl." urlsection="conversion/xlsm-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zur Konvertierung von XLSM in FODS" h2="Perl-Bibliothek zur Konvertierung von XLSM in FODS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLSM in FODS und andere Dokumentformate mit Perl." urlsection="conversion/xlsm-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in Perl in FODS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in FODS in Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in FODS ist eine komplexe Aufgabe. Alle XLSM-zu-FODS-Formatübergänge werden von unserem Perl SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle beibehalten wird. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XLSM-Dateien online in FODS-Dateien zu konvertieren. Dieses Cloud-SDK bietet Perl-Entwicklern leistungsstarke Funktionen und eine perfekte FODS-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in FODS ist eine komplexe Aufgabe. Alle XLSM-zu-FODS-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM- in FODS-Dateien. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Konvertieren von XLSM in das FODS-Format" gistPath="" %}}
@@ -44,9 +44,9 @@ Das Konvertieren von Dateiformaten von XLSM in FODS ist eine komplexe Aufgabe. A
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Perl API, um XLSM in FODS zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Zellen anrufen_Arbeitsmappe_setzen_Konvertieren_workbook-Methode, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufzellen_Arbeitsmappe_setzen_Konvertieren_Arbeitsmappenmethode, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

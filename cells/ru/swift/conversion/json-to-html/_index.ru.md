@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON в HTML Преобразование API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/json-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/json-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в HTML в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в HTML — сложная задача. Все переходы формата JSON в формат HTML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации JSON в файлы HTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Преобразование форматов файлов из JSON в HTML — сложная задача. Все переходы формата JSON в формат HTML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов JSON в файлы HTML. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования JSON в формат HTML" gistPath="" %}}

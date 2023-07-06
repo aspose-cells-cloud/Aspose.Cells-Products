@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde NUMBERS como DOCX API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato NUMBERS como archivo de formato DOCX.
 url: /es/go/saveas/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

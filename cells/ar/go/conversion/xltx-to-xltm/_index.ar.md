@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX إلى XLTM - تحويل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق XLTX إلى ملف بتنسيق XLTM.
 url: /ar/go/conversion/xltx-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

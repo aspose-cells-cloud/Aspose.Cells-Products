@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK in CSV aus der Tabelle mit Android API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie die Arbeitsmappe aus der Tabellenkalkulation in CSV mit Android API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/android/export/workbook-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Exportieren von WORKBOOK in eine CSV-Datei" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Tabellenkalkulationsobjekte in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im CSV-Format aus einer Online-Tabelle mit Android." urlsection="export/workbook-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Exportieren der Arbeitsmappe in eine CSV-Datei" h2="Android-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Android zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine Datei im CSV-Format aus einer Tabellenkalkulation online mit Android." urlsection="export/workbook-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im CSV-Format in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine CSV-Formatdatei in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts in eine CSV-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKBOOK zu CSV-Formatübergängen wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKBOOK-Quelltabelle beibehalten wird. Unsere Android-Bibliothek ist eine professionelle Lösung, um WORKBOOK-Objekte online in Dateien im CSV-Format zu exportieren. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das CSV-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-WORKBOOK-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im CSV-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK in das CSV-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das CSV-Format" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -51,16 +51,16 @@ Das Exportieren eines WORKBOOK-Objekts in eine CSV-Datei aus einer Tabellenkalku
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um WORKBOOK in CSV zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Exportieren einer Arbeitsmappe in CSV" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

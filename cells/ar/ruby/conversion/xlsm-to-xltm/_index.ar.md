@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى XLTM - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLSM إلى ملف بتنسيق XLTM.
 url: /ar/ruby/conversion/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/xlsm-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل تنسيق XLSM إلى XLTM" gistPath="" %}}

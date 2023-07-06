@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara PNG som HTML API för C#
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för C# för att spara PNG filformat som HTML filformat.
 url: /sv/net/saveas/png-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

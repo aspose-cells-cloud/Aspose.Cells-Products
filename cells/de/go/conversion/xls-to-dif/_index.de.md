@@ -1,16 +1,16 @@
 ﻿---
-title:  XLS zu DIF konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  XLS zu DIF Konvertieren API für Go
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine XLS-Formatdatei in eine DIF-Formatdatei zu konvertieren.
 url: /de/go/conversion/xls-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rufen Sie API auf, um XLS in DIF zu konvertieren" h2="Gehen Sie zur Bibliothek, um XLS in DIF zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um XLS in DIF und andere Dokumentformate online mit Go zu konvertieren." urlsection="conversion/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um XLS in DIF zu konvertieren" h2="Gehen Sie zur Bibliothek, um XLS in DIF zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLS in DIF und andere Dokumentformate mit Go." urlsection="conversion/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLS-Datei in DIF in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLS in DIF ist eine komplexe Aufgabe. Alle XLS-zu-DIF-Formatübergänge werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLS-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um XLS-Dateien online in DIF-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte DIF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLS in DIF ist eine komplexe Aufgabe. Alle XLS-zu-DIF-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLS-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLS- in DIF-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte DIF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XLS in das DIF-Format" gistPath="" %}}
@@ -49,9 +49,9 @@ Das Konvertieren von Dateiformaten von XLS in DIF ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um XLS in DIF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir SXC en XLSB API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format SXC en fichier au format XLSB.
 url: /fr/go/conversion/sxc-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

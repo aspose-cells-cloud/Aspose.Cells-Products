@@ -1,16 +1,16 @@
 ﻿---
-title:  TXT zu EMF Konvertieren Sie API für Swift
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  TXT in EMF Konvertieren Sie API für Swift
+description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
 url: /de/swift/conversion/txt-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um TXT in EMF umzuwandeln" h2="Swift-Bibliothek zum Konvertieren von TXT in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von TXT in EMF und andere Dokumentformate mit Swift." urlsection="conversion/txt-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Konvertieren von TXT in EMF" h2="Swift-Bibliothek zum Konvertieren von TXT in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Swift zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von TXT in EMF und andere Dokumentformate mit Swift." urlsection="conversion/txt-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine TXT-Datei in Swift in EMF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von TXT in EMF ist eine komplexe Aufgabe. Alle Formatübergänge von TXT zu EMF werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der TXT-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung zur Online-Konvertierung von TXT- in EMF-Dateien. Dieses Cloud-SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte EMF-Ausgabe.
+Das Konvertieren von Dateiformaten von TXT in EMF ist eine komplexe Aufgabe. Alle TXT-Formatübergänge in das EMF-Format werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der TXT-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von TXT- in EMF-Dateien. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Konvertieren von TXT in das EMF-Format" gistPath="" %}}
@@ -65,16 +65,16 @@ Das Konvertieren von Dateiformaten von TXT in EMF ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um TXT in EMF umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So konvertieren Sie TXT mit Swift API in EMF" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>macOS Monterey 12.4</li>
-<li>Schnell 4.2</li>
+<li>Swift 4.2</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

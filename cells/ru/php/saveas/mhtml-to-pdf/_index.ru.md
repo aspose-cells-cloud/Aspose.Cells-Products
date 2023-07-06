@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните MHTML как PDF API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Сохраните MHTML как PDF API для PHP.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата MHTML как файла формата PDF.
 url: /ru/php/saveas/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

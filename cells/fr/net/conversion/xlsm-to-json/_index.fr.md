@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLSM en JSON API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLSM en JSON API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLSM en fichier au format JSON.
 url: /fr/net/conversion/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

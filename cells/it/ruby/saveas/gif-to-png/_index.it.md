@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva GIF come PNG API per Ruby
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Ruby per salvare il file in formato GIF come file in formato PNG.
 url: /it/ruby/saveas/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

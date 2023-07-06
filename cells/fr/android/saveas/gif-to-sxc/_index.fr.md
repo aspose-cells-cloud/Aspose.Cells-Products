@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer GIF sous SXC API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format GIF en tant que fichier au format SXC.
 url: /fr/android/saveas/gif-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

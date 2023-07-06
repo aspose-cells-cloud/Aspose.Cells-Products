@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara TXT som PPTX API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara TXT-formatfilen som PPTX-formatfil.
 url: /sv/perl/saveas/txt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

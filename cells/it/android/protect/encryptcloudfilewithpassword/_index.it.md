@@ -4,7 +4,7 @@ description: API cloud e SDK per proteggere Microsoft Excel e OpenOffice Calc. C
 url: /it/android/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" h2="Libreria Android per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Protect REST API per proteggere il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con flussi di lavoro con password in Android. Questa soluzione professionale protegge il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando Android." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" h2="Libreria Android per proteggere il cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Usa Cells Protect REST API per proteggere il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc con flussi di lavoro con password in Android. Questa soluzione professionale protegge il cloud Microsoft Excel e il foglio di calcolo OpenOffice Calc online con password utilizzando Android." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteggi cloud Microsoft Excel e foglio di calcolo OpenOffice Calc con password - Android REST API" >}}

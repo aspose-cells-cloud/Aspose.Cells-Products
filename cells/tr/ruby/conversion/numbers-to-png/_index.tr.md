@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için SAYILARI PNG'e API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını PNG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/conversion/numbers-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

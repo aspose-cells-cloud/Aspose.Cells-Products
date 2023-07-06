@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/perl/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API bulutu korumak için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Perl bulutu korumak için kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Perl\'deki parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Microsoft Microsoft bulutunu ve Perl\'i kullanan parolalarla çevrimiçi OpenOffice Calc elektronik tablosunu korur." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API bulutu korumak için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Perl bulutu korumak için kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API\'i kullanın Microsoft Excel ve Perl\'deki parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Microsoft Microsoft bulutunu ve Perl\'i kullanan parolalarla çevrimiçi OpenOffice Calc elektronik tablosunu korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc elektronik tablosunu şifreyle - Perl REST API" >}}

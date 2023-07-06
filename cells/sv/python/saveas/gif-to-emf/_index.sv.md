@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara GIF som EMF API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara GIF-formatfil som EMF-fil.
 url: /sv/python/saveas/gif-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

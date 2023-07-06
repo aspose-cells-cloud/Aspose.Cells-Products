@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTX كـ PDF API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLTX كملف بتنسيق PDF.
 url: /ar/ruby/saveas/xltx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

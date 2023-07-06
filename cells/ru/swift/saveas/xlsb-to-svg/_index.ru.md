@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как SVG API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/xlsb-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsb-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как SVG в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB как SVG — сложная задача. Все переходы между форматами XLSB и SVG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате SVG в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
+Сохранение форматов файлов из XLSB как SVG — сложная задача. Все переходы между форматами XLSB и SVG выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате SVG онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSB в формате SVG" gistPath="" %}}

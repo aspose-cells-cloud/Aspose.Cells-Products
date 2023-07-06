@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование XLSB в TXT API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование XLSB в TXT API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLSB в файл формата TXT.
 url: /ru/net/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

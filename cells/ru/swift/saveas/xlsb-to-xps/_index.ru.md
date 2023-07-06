@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как XPS API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/xlsb-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/xlsb-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как XPS в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB как XPS — сложная задача. Все переходы между форматами XLSB и XPS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате XPS в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
+Сохранение форматов файлов из XLSB как XPS — сложная задача. Все переходы между форматами XLSB и XPS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Swift — это профессиональное решение для сохранения файлов XLSB в формате XPS онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения XLSB в формате XPS" gistPath="" %}}

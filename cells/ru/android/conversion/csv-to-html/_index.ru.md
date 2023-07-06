@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV в HTML Конвертировать API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата CSV в файл формата HTML.
 url: /ru/android/conversion/csv-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/conversion/csv-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в HTML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в HTML — сложная задача. Все переходы между форматами CSV и HTML выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов CSV в файлы HTML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод HTML.
+Преобразование форматов файлов из CSV в HTML — сложная задача. Все переходы между форматами CSV и HTML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов CSV в файлы HTML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования CSV в формат HTML" gistPath="" %}}

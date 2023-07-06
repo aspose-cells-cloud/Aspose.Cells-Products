@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF в HTML Преобразование API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/conversion/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования EMF в HTML" h2="Библиотека Swift для преобразования EMF в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования EMF в HTML и другие форматы документов онлайн с помощью Swift." urlsection="conversion/emf-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования EMF в HTML" h2="Библиотека Swift для преобразования EMF в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования EMF в HTML и других форматов документов онлайн с помощью Swift." urlsection="conversion/emf-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в HTML в Swift" >}}

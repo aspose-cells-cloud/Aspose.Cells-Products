@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc. üzerindeki resimleri temizleme
 url: /tr/go/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri netleştirir." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için API\'e gidin" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri temizlemek için Temizle\'ye gidin" p="Go\'da yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki resimleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Go\'yu kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki resimleri netleştirir." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunda net resimler - Go REST API" >}}

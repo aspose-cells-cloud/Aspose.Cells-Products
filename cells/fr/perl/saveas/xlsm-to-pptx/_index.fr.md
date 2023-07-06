@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez XLSM sous PPTX API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSM en tant que fichier au format PPTX.
 url: /fr/perl/saveas/xlsm-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLSM en tant que PPTX" h2="Bibliothèque Perl pour enregistrer XLSM en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format PPTX et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xlsm-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLSM en tant que PPTX" h2="Bibliothèque Perl pour enregistrer XLSM en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM en tant que PPTX et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xlsm-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM au format PPTX au Perl" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: PNG в DOCX Преобразовать API в C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  PNG в DOCX Преобразовать API в C#
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата PNG в файл формата DOCX.
 url: /ru/net/conversion/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/png-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в DOCX в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в DOCX — сложная задача. Все переходы формата PNG в формат DOCX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы DOCX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный вывод в формате DOCX.
+Преобразование форматов файлов из PNG в DOCX — сложная задача. Все переходы формата PNG в формат DOCX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для онлайн-конвертации PNG в файлы DOCX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования PNG в формат DOCX" gistPath="" %}}

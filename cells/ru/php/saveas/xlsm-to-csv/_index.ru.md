@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLSM как CSV API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLSM как CSV API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSM в виде файла формата CSV.
 url: /ru/php/saveas/xlsm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

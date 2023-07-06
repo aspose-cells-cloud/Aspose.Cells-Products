@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON كـ XPS API من أجل Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق JSON كملف بتنسيق XPS.
 url: /ar/ruby/saveas/json-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

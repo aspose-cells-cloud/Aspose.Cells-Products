@@ -1,6 +1,6 @@
 ﻿---
-title: NUMBERS in PPTX Converti API in Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  NUMBERS in PPTX Converti API in Python
+description:  Utilizzo di Aspose.Cells Cloud SDK per Python per convertire il file in formato NUMBERS in un file in formato PPTX.
 url: /it/python/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

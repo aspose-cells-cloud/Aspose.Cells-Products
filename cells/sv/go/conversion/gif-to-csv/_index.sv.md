@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF till CSV Konvertera API för Go
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Go för att konvertera GIF-formatfil till CSV-formatfil.
 url: /sv/go/conversion/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

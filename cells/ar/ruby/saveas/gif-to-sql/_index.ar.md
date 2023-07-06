@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF كـ SQL API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق GIF كملف بتنسيق SQL.
 url: /ar/ruby/saveas/gif-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /ar/ruby/saveas/gif-to-sql/
 يعد حفظ تنسيقات الملفات من GIF كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى SQL بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ GIF كملفات SQL عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لحفظ GIF بتنسيق SQL" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ GIF بتنسيق SQL" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

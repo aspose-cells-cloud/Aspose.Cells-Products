@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML لتحويل MD API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق HTML إلى ملف بتنسيق MD.
 url: /ar/java/conversion/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

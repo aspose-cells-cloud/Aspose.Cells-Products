@@ -1,6 +1,6 @@
 ﻿---
-title:  حفظ الأرقام باسم DIF API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: حفظ الأرقام باسم DIF API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق NUMBERS كملف بتنسيق DIF.
 url: /ar/nodejs/saveas/numbers-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/numbers-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS كملف DIF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من NUMBERS كـ DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى DIF بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات الأرقام. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ الأرقام كملفات DIF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DIF مثالي.
+يعد حفظ تنسيقات الملفات من NUMBERS كـ DIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى DIF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات NUMBERS. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ الأرقام كملفات DIF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DIF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ الأرقام بتنسيق DIF" gistPath="" %}}

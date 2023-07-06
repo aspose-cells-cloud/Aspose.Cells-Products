@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в PPTX API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата MHTML в файл формата PPTX.
 url: /ru/nodejs/conversion/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/mhtml-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в PPTX в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в PPTX — сложная задача. Все переходы между форматами MHTML и PPTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов MHTML в PPTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод PPTX.
+Преобразование форматов файлов из MHTML в PPTX — сложная задача. Все переходы форматов MHTML в PPTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов MHTML в PPTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования MHTML в формат PPTX" gistPath="" %}}

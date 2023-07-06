@@ -1,6 +1,6 @@
 ﻿---
 title:  Экспортируйте SHAPE в PNG из электронной таблицы, используя Go API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/go/export/shape-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/export/shape-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата PNG в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл PNG из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат PNG выполняется нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SHAPE. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата PNG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PNG.
+Экспорт объекта SHAPE в файл PNG из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат PNG выполняется нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека Go — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата PNG. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для экспорта SHAPE в формат PNG из электронной таблицы" gistPath="" %}}

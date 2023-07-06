@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrez XLTX sous ODS API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez XLTX sous ODS API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLTX en tant que fichier au format ODS.
 url: /fr/php/saveas/xltx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

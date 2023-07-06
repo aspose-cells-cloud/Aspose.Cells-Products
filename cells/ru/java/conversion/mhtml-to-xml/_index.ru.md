@@ -1,16 +1,16 @@
 ﻿---
 title:  Преобразование MHTML в XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата MHTML в файл формата XML.
 url: /ru/java/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования MHTML в XML" h2="Java библиотека для преобразования MHTML в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-преобразования MHTML в XML и другие форматы документов с использованием Java." urlsection="conversion/mhtml-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования MHTML в XML" h2="Java библиотека для преобразования MHTML в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации MHTML в XML и другие форматы документов с использованием Java." urlsection="conversion/mhtml-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XML в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования MHTML в формат XML" gistPath="" %}}

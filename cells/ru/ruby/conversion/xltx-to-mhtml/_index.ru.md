@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTX в MHTML API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата XLTX в файл формата MHTML.
 url: /ru/ruby/conversion/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xltx-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в MHTML в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в MHTML — сложная задача. Все переходы форматов XLTX в MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в MHTML. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из XLTX в MHTML — сложная задача. Все переходы формата XLTX в формат MHTML выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в MHTML. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLTX в формат MHTML" gistPath="" %}}

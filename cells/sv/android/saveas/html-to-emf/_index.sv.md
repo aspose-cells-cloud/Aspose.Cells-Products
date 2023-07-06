@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara HTML som EMF API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara HTML som EMF API för Android
+description:  Använda Aspose.Cells Cloud SDK för Android för att spara fil i formatet HTML som fil i formatet EMF.
 url: /sv/android/saveas/html-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

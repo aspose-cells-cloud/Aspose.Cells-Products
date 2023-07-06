@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX'den XML'e Dönüştürme API için PHP
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XLSX'den XML'e Dönüştürme API için PHP
+description:  XLSX biçimli dosyayı XML biçimli dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

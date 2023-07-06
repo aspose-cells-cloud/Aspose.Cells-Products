@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как GIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLSB в виде файла формата GIF.
 url: /ru/ruby/saveas/xlsb-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xlsb-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение файла XLSB в формате GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в формате GIF — сложная задача. Все переходы между форматами XLSB и GIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSB в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов из XLSB в формате GIF — сложная задача. Все переходы форматов XLSB в GIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLSB в формате GIF в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLSB в формате GIF" gistPath="" %}}

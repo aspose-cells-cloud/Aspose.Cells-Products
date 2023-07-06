@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى SVG قم بالتحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق XLS إلى ملف بتنسيق SVG.
 url: /ar/ruby/conversion/xls-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

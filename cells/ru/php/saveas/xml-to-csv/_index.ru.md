@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XML как CSV API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XML как CSV API для PHP
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML как файла формата CSV.
 url: /ru/php/saveas/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS API kullanarak ÇALIŞMA KİTABI'nı e-tablodan JSON'a aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/nodejs/export/workbook-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/nodejs/export/workbook-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini NodeJS\'de JSON biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini e-tablodan JSON dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u JSON biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak JSON formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+ÇALIŞMA KİTABI nesnesini e-tablodan JSON dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u JSON biçimine dışa aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak JSON formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan JSON formatına dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

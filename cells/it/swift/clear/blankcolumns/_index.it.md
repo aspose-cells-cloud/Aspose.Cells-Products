@@ -18,7 +18,7 @@ Cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenO
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per cancellare le colonne vuote" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Come utilizzare Swift API per cancellare le colonne vuote" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo postClearObjects per ottenere il flusso risultante</li>

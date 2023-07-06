@@ -1,10 +1,10 @@
 ﻿---
-title:  TSV'yi C# için XLSX API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TSV'yi C# için XLSX API olarak kaydedin
+description:  TSV format dosyasını XLSX format dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/tsv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi XLSX olarak kaydetmek için C# API" h2="TSV\'yi XLSX olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, C#\'i kullanarak TSV\'yi XLSX ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="TSV\'yi XLSX olarak kaydetmek için C# API" h2="TSV\'yi XLSX olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, TSV\'yi XLSX olarak ve diğer belge formatlarını çevrimiçi olarak C# kullanarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/tsv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını C#\'de XLSX olarak kaydedin" >}}

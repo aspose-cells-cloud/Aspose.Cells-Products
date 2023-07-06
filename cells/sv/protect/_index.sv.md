@@ -1,6 +1,6 @@
 ﻿---
 title:  Skydda
-description:  Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description: Aspose.Cells Cloud REST API stöder arbetsböcker för dekryptering, kryptering och digitala signaturer. SDK stöder utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

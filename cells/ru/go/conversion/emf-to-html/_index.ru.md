@@ -1,10 +1,10 @@
 ﻿---
 title:  EMF в HTML Преобразование API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для преобразования файла формата EMF в файл формата HTML.
 url: /ru/go/conversion/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать EMF в HTML." h2="Библиотека Go для преобразования EMF в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования EMF в HTML и другие форматы документов онлайн с помощью Go." urlsection="conversion/emf-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы преобразовать EMF в HTML." h2="Перейти к библиотеке для преобразования EMF в HTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования EMF в HTML и другие форматы документов онлайн с помощью Go." urlsection="conversion/emf-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в HTML в Go" >}}

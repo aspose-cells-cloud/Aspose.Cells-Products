@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ملف CSV كـ PPTX API لـ Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق CSV كملف بتنسيق PPTX.
 url: /ar/perl/saveas/csv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

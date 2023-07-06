@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde TSV como XLTX API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde TSV como XLTX API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato TSV como archivo de formato XLTX.
 url: /es/net/saveas/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

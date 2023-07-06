@@ -1,6 +1,6 @@
 ﻿---
 title:  Чтение, запись, просмотр и преобразование электронных таблиц (via C# REST SDK)
-description: SDK для C#, ASP.NET и других поддерживаемых языков .NET для разработки облачных приложений для обработки электронных таблиц Excel и OpenOffice.
+description:  SDK для C#, ASP.NET и других поддерживаемых языков .NET для разработки облачных приложений для обработки электронных таблиц Excel и OpenOffice.
 weight: 70
 url: /ru/net
 ---
@@ -14,7 +14,7 @@ url: /ru/net
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK for .NET расширяет возможности ваших приложений .NET за счет бесшовной интеграции функций обработки электронных таблиц, которые позволяют вашим облачным программам получать доступ и изменять рабочие книги, рабочие листы, электронные таблицы, строки, а также отдельные ячейки без установки какого-либо стороннего программного обеспечения. Aspose.Cells Cloud SDK for .NET распространяется по лицензии MIT.</p>
 <p>Aspose.Cells Cloud SDK for .NET работает как интерфейс к базовому Aspose.Cells REST API. Он упрощает работу по программированию .NET, когда речь идет о работе со сводными таблицами, OleObjects, ListObjects, задачами, фигурами, гиперссылками и комментариями.</p>
-<p>Используя Aspose.Cells Cloud SDK for .NET, вы можете включить в своем коде C# автоматическую фильтрацию, а также применить условное форматирование к электронным таблицам. Поддержка преобразования файлов также достаточно обширна, так как с помощью облачного приложения Microsoft вы сможете конвертировать документы Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и OpenOffice (ODS) в PDF, XPS, SVG, TIFF, форматы Markdown и DIF.</p>
+<p>Используя Aspose.Cells Cloud SDK for .NET, вы можете включить в своем коде C# автоматическую фильтрацию, а также применять условное форматирование к электронным таблицам. Поддержка преобразования файлов также достаточно обширна, так как с помощью облачного приложения Microsoft вы сможете конвертировать документы Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) и OpenOffice (ODS) в PDF, XPS, SVG, TIFF, форматы Markdown и DIF.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -43,7 +43,7 @@ url: /ru/net
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
@@ -125,14 +125,14 @@ url: /ru/net
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Добавить ListObject в указанное место в файле Excel
+ Добавить ListObject в указанное место в файле Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Удалить определенные или все объекты ListObject на листе
+ Удалить определенные или все объекты ListObject на листе
     </p>
    </div>
    <div class="col-lg-4">
@@ -146,7 +146,7 @@ url: /ru/net
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">
@@ -214,7 +214,7 @@ url: /ru/net
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose для облака
      </a>
- и получите информацию о приложении. Вот и все! Вы готовы к использованию Aspose.Cells Cloud SDK for .NET.
+и получите информацию о приложении. Вот и все! Вы готовы к использованию Aspose.Cells Cloud SDK for .NET.
     </p>
     <p>
  Aspose.Cells Cloud SDK for .NET предоставляет все функции для создания, редактирования и преобразования электронных таблиц в другие популярные форматы файлов.

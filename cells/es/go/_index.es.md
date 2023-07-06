@@ -13,7 +13,7 @@ url: /es/go
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud Go SDK ayuda a los desarrolladores a crear sus propias aplicaciones de creación, lectura, visualización y conversión de hojas de cálculo basadas en la nube utilizando el lenguaje Go. El SDK proporciona una interfaz fácil de usar para Aspose.Cells REST API para realizar una amplia gama de tareas de procesamiento de hojas de cálculo, como la creación, modificación, conversión y representación de Excel documentos en la nube.</p>
-<p>Aspose.Cells Cloud Go SDK es totalmente compatible con varias funciones avanzadas relacionadas con la lectura y escritura de hojas de cálculo, como crear una nueva hoja de cálculo desde cero, modificar un archivo existente, agregar una nueva hoja de trabajo, importar datos a una hoja de trabajo Excel, ocultar y mostrar una hoja de trabajo, mover una hoja de trabajo, ordenar datos en una hoja de trabajo, copiar o cambiar el nombre de una hoja, congelar o descongelar una hoja de trabajo, agregar o eliminar un libro de trabajo, cifrar o descifrar un libro de trabajo, proteger con contraseña un libro de trabajo Excel, combinar libros de trabajo de Excel y mucho más.</p>
+<p>Aspose.Cells Cloud Go SDK es totalmente compatible con varias funciones avanzadas relacionadas con la lectura y escritura de hojas de cálculo, como crear una nueva hoja de cálculo desde cero, modificar un archivo existente, agregar una nueva hoja de trabajo, importar datos a una hoja de trabajo Excel, ocultar y mostrar una hoja de trabajo, mover una hoja de trabajo, ordenar datos en una hoja de trabajo, copiar o cambiar el nombre de una hoja, congelar o descongelar una hoja de trabajo, agregar o eliminar un libro de trabajo, cifrar o descifrar un libro de trabajo, proteger con contraseña un libro de trabajo Excel, fusionar libros de trabajo de Excel y mucho más.</p>
 <p>Usando Aspose.Cells Cloud Go SDK, el desarrollador puede lograr fácilmente el filtrado automático, el manejo de tablas dinámicas y el formato condicional en hojas de cálculo usando los comandos Go. El SDK ha proporcionado una operación de conversión de archivos de hoja de cálculo muy poderosa y admite totalmente la interconversión entre formatos Microsoft Excel como XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, así como la conversión a otros formatos de archivo populares como PDF, XPS, SVG , TIFF, formatos Markdown y DIF.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -160,7 +160,7 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Resumir datos de ListObject o Table grandes con Pivot Table
+Resumir datos de ListObject o Table grandes con Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ Excel Funciones de procesamiento de hojas de cálculo
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Eliminar OleObjects específicos o todos de la hoja de trabajo
+ Eliminar OleObjects específicos o todos de la hoja de trabajo
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,7 +231,7 @@ Eliminar OleObjects específicos o todos de la hoja de trabajo
  Comience con Excel SDK de procesamiento de hojas de cálculo
     </h2>
     <p>
- Para comenzar con Aspose.Cells Cloud SDK for Go, no necesita instalar nada. Todo lo que necesita hacer es crear una cuenta en
+Para comenzar con Aspose.Cells Cloud SDK for Go, no necesita instalar nada. Todo lo que necesita hacer es crear una cuenta en
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
@@ -240,10 +240,10 @@ Eliminar OleObjects específicos o todos de la hoja de trabajo
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Generar el libro de trabajo Excel a partir de una plantilla
+ Generar el libro de trabajo Excel a partir de una plantilla
     </h2>
     <p>
- Aspose.Cells Cloud Go SDK ha incluido la funcionalidad para crear mediante programación un libro de trabajo Excel a partir de un archivo de plantilla usando el lenguaje Go. Una vez que se crea el libro de trabajo, puede modificarlo fácilmente según sus propias necesidades. Puede agregar una nueva hoja al libro de trabajo, asignarle un nombre, establecer las fuentes que desee, aplicar estilos a las celdas, eliminar una hoja y mucho más. También puede crear un libro de trabajo a partir de un archivo de plantilla SmartMarker con solo un par de líneas de código.
+Aspose.Cells Cloud Go SDK ha incluido la funcionalidad para crear mediante programación un libro de trabajo Excel a partir de un archivo de plantilla usando el lenguaje Go. Una vez que se crea el libro de trabajo, puede modificarlo fácilmente según sus propias necesidades. Puede agregar una nueva hoja al libro de trabajo, asignarle un nombre, establecer las fuentes que desee, aplicar estilos a las celdas, eliminar una hoja y mucho más. También puede crear un libro de trabajo a partir de un archivo de plantilla SmartMarker con solo un par de líneas de código.
     </p>
    </div>
    <div class="col-lg-12">
@@ -256,7 +256,7 @@ Chart es una herramienta poderosa que ayuda a los usuarios a presentar datos de 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Mango Cells y amperio; Filas en una hoja de trabajo
+ Mango Cells y amperio; Filas en una hoja de cálculo
     </h2>
     <p>
 Aspose.Cells Cloud Go SDK ha incluido varias funciones importantes para manejar filas dentro de Microsoft Excel Hoja de trabajo via Aplicación Go. Admite agregar nuevas filas a una hoja de cálculo, ocultar y mostrar filas, obtener datos de filas de una hoja de cálculo, copiar filas, agrupar y desagrupar filas, ajustar automáticamente filas y columnas de una hoja de cálculo, eliminar filas de la hoja de cálculo y mucho más. Al igual que las filas, los desarrolladores también pueden administrar fácilmente sus celdas en la hoja de trabajo. Admite funciones como agregar celdas, combinar varias celdas, establecer fórmulas en una celda, borrar el contenido de una celda, aplicar formato de texto enriquecido, etc.

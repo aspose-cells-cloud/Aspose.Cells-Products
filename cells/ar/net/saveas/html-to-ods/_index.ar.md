@@ -1,6 +1,6 @@
 ﻿---
-title: احفظ HTML كـ ODS API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ HTML كـ ODS API مقابل C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق HTML كملف بتنسيق ODS.
 url: /ar/net/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

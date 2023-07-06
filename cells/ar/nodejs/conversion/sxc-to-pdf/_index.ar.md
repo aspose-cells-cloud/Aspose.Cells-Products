@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC إلى PDF تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق SXC إلى ملف بتنسيق PDF.
 url: /ar/nodejs/conversion/sxc-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

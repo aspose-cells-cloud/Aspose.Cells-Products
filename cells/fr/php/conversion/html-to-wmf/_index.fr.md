@@ -1,6 +1,6 @@
 ﻿---
-title: HTML en WMF Convertir API pour PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  HTML en WMF Convertir API pour PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format HTML en fichier au format WMF.
 url: /fr/php/conversion/html-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

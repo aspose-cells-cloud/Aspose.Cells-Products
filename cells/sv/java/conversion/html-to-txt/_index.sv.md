@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML till TXT Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i formatet HTML till fil i TXT-format.
 url: /sv/java/conversion/html-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir SXC en TXT API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format SXC en fichier au format TXT.
 url: /fr/python/conversion/sxc-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

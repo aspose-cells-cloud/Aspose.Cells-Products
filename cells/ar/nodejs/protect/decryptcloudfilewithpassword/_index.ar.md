@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel وفك تشفير OpenOffic
 url: /ar/nodejs/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة NodeJS لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمة المرور في NodeJS. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام NodeJS." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة NodeJS لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمة المرور في NodeJS. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام NodeJS." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - NodeJS REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva EMF come ODS API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per salvare il file in formato EMF come file in formato ODS.
 url: /it/go/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

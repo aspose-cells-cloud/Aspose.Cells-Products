@@ -1,6 +1,6 @@
 ﻿---
-title: XLT'den FODS'ye Dönüştürme API için C#
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  XLT'den FODS'ye Dönüştürme API için C#
+description: XLT biçim dosyasını FODS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/conversion/xlt-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

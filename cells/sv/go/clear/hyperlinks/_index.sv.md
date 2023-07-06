@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa hyperlänkar på Microsoft
 url: /sv/go/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå Rensa för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Go. Denna professionella lösning rensar hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå till API för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Gå Rensa för att rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa hyperlänkar i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Go. Denna professionella lösning rensar hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Go." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa hyperlänkar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Gå REST API" >}}

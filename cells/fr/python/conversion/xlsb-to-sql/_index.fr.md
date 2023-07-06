@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB en SQL Convertir API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLSB en SQL Convertir API pour Python
+description: Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLSB en fichier au format SQL.
 url: /fr/python/conversion/xlsb-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

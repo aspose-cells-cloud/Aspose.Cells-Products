@@ -1,16 +1,16 @@
 ﻿---
 title:  EMF in XML konvertieren API für Go
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden Sie das Aspose.Cells Cloud SDK für Go, um eine Datei im EMF-Format in eine XML-Formatdatei zu konvertieren.
 url: /de/go/conversion/emf-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um EMF in XML zu konvertieren" h2="Gehen Sie zur Bibliothek, um EMF in XML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um EMF online mit Go in XML und andere Dokumentformate zu konvertieren." urlsection="conversion/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um EMF in XML zu konvertieren" h2="Gehen Sie zur Bibliothek, um EMF in XML zu konvertieren" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von EMF in XML und andere Dokumentformate mit Go." urlsection="conversion/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine EMF-Datei in Go in XML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von EMF in XML ist eine komplexe Aufgabe. Alle Übergänge vom EMF- ins XML-Format werden von unserem Go-SDK durchgeführt, während der strukturelle und logische Hauptinhalt der EMF-Quelltabelle beibehalten wird. Unsere Go-Bibliothek ist eine professionelle Lösung, um EMF online in XML-Dateien zu konvertieren. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionen und eine perfekte XML-Ausgabe.
+Das Konvertieren von Dateiformaten von EMF in XML ist eine komplexe Aufgabe. Alle Übergänge vom Format EMF zum XML-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle EMF erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von EMF in XML-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von EMF in das XML-Format" gistPath="" %}}
@@ -49,9 +49,9 @@ Das Konvertieren von Dateiformaten von EMF in XML ist eine komplexe Aufgabe. All
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Go API, um EMF in XML zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die CellsWorkbookPutConvertWorkbook-Methode auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „CellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

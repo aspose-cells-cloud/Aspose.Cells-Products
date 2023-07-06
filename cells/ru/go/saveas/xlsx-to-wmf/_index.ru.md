@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLSX как WMF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSX в виде файла формата WMF.
 url: /ru/go/saveas/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLSX как WMF." h2="Перейти в библиотеку, чтобы сохранить XLSX как WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLSX как WMF и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsx-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLSX как WMF." h2="Библиотека Go для сохранения XLSX в формате WMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLSX как WMF и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlsx-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как WMF в Go" >}}

@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar comentarios en Microsoft Excel y 
 url: /es/php/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Comentarios de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar los comentarios en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en PHP. Esta solución profesional borra los comentarios en los Microsoft Excel locales y la hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="PHP Comentarios de claro a claro en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Clear REST API para borrar los comentarios en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en PHP. Esta solución profesional borra los comentarios en los Microsoft Excel locales y la hoja de cálculo OpenOffice Calc usando PHP." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - PHP REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى DOCX تحويل API إلى PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق XLSM إلى ملف بتنسيق DOCX.
 url: /ar/php/conversion/xlsm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

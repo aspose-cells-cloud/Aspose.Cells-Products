@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить ODS как CSV API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить ODS как CSV API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата ODS в виде файла формата CSV.
 url: /ru/net/saveas/ods-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  TSV in JSON Converti API in Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: TSV in JSON Converti API in Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato TSV in un file in formato JSON.
 url: /it/perl/conversion/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

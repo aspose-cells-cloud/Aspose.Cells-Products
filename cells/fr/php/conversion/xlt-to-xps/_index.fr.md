@@ -1,6 +1,6 @@
 ﻿---
-title: XLT en XPS Convertir API en PHP
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  XLT en XPS Convertir API en PHP
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format XLT en fichier au format XPS.
 url: /fr/php/conversion/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

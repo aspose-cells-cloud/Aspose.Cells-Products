@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV a GIF Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato TSV a un archivo de formato GIF.
 url: /es/python/conversion/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

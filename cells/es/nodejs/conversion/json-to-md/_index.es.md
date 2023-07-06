@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON a MD Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JSON a MD Convertir API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato JSON a un archivo de formato MD.
 url: /es/nodejs/conversion/json-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

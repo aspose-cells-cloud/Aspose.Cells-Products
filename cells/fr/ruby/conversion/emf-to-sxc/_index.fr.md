@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF en SXC Convertir API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: EMF en SXC Convertir API pour Ruby
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format EMF en fichier au format SXC.
 url: /fr/ruby/conversion/emf-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

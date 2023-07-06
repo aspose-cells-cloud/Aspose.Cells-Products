@@ -1,10 +1,10 @@
 ﻿---
-title:  Exporter WORKBOOK vers TXT à partir d'une feuille de calcul à l'aide de NodeJS API
-description: Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers Excel et d'objets internes vers des types de fichiers de format. SDK prend en charge les types de langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title: Exporter WORKBOOK vers TXT à partir d'une feuille de calcul à l'aide de NodeJS API
+description:  Aspose.Cells Cloud REST API prend en charge l'exportation de fichiers au format {0} vers {1} à l'aide de {2}.
 url: /fr/nodejs/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour exporter WORKBOOK vers un fichier TXT" h2="Bibliothèque NodeJS pour exporter WORKBOOK vers un fichier TXT" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans NodeJS. Il s\'agit d\'une solution professionnelle pour exporter un fichier au format WORKBOOK vers TXT à partir d\'une feuille de calcul en ligne à l\'aide de NodeJS." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour exporter WORKBOOK vers un fichier TXT" h2="Bibliothèque NodeJS pour exporter WORKBOOK vers un fichier TXT" p="Utilisez Cells Export REST API pour exporter les workflows d\'objets internes de feuille de calcul dans NodeJS. Il s\'agit d\'une solution professionnelle pour exporter un fichier WORKBOOK au format TXT à partir d\'une feuille de calcul en ligne à l\'aide de NodeJS." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporter l\'objet WORKBOOK vers un fichier au format TXT dans NodeJS" >}}

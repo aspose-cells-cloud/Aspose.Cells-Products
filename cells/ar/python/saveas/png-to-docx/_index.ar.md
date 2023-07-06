@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ PNG كـ DOCX API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق PNG كملف بتنسيق DOCX.
 url: /ar/python/saveas/png-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ PNG بتنسيق DOCX" h2="مكتبة Python لحفظ PNG كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ PNG بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ PNG بتنسيق DOCX" h2="مكتبة Python لحفظ PNG كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ PNG بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/png-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف PNG بتنسيق DOCX في Python" >}}

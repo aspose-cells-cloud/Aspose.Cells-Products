@@ -1,6 +1,6 @@
 ﻿---
 title: 在 Android 上将 FODS 转换为 SXC
-description: 使用云 API 和开源 Android SDK 自动化 Excel 文件操作操作，例如创建、编辑和转换
+description: 自动化 Excel 文件操作操作，例如使用云 API 和开源 Android SDK 创建、编辑和转换
 url: /zh/android/conversion/fods-to-sxc/
 family: cells
 platformtag: android
@@ -15,20 +15,20 @@ otherformats: XLSB DIF XLSX CSV XLTM SVG FODS XML TXT MD XPS HTML TIFF TSV PDF X
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Android 应用程序中的 FODS 到 SXC 转换" %}}
-1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获得免费的 API 配额和授权详细信息
-1. 使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 ```CellsApi```
+{{% blocks/products/pf/agp/feature-section-col title="Android 应用程序中 FODS 到 SXC 的转换" %}}
+1. 创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息
+1. 使用客户端 ID、客户端密钥、基本 URL 和 API 版本初始化 ```CellsApi```
 1. 使用 ```CellsApiUtil.Upload``` 方法将 FODS 文件上传到默认云存储
-1. 拨打```CellsApi.cellsWorkbookGetWorkbook```获取生成的SXC文件
+1. 致电 ```CellsApi.cellsWorkbookGetWorkbook``` 获取生成的 SXC 文件
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="开始使用 Excel REST API" %}}
-从 获取 Excel Cloud SDK for ANDROID 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)替代下载选项。
+获取 Excel Cloud SDK for ANDROID 源代码[GitHub](https://github.com/aspose-cells-cloud/aspose-cells-cloud-android)自己编译 SDK 或前往[发布](https://releases.aspose.cloud/)以获得替代下载选项。
 
-也可以看看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
+另请查看基于 Swagger 的[API 参考](https://apireference.aspose.cloud/cells/)了解更多关于[Excel 休息 API](https://products.aspose.cloud/cells/curl/).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-autogen title="Android：从 FODS 到 SXC 的转换" gistPath="" %}}
+{{% blocks/products/pf/agp/code-autogen title="Android：FODS 到 SXC 转换" gistPath="" %}}
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
 try {

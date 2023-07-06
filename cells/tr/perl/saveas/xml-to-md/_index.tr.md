@@ -1,6 +1,6 @@
 ﻿---
 title:  XML'i Perl için MD API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Perl kullanılarak XML biçim dosyasını MD biçim dosyası olarak kaydedin.
 url: /tr/perl/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

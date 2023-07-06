@@ -1,6 +1,6 @@
 ﻿---
-title:  Salva XLS come FODS API per PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Salva XLS come FODS API per PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in formato XLS come file in formato FODS.
 url: /it/php/saveas/xls-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

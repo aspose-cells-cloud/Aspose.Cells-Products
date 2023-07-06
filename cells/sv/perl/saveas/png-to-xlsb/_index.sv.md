@@ -1,6 +1,6 @@
 ﻿---
-title: Spara PNG som XLSB API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  Spara PNG som XLSB API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara PNG filformat som XLSB format fil.
 url: /sv/perl/saveas/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

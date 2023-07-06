@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح عمليات التحقق على Micros
 url: /ar/android/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يوضح هذا الحل الاحترافي عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Android Clear لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Android. يعمل هذا الحل الاحترافي على مسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Android." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التحقق من صحة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Android REST API" >}}

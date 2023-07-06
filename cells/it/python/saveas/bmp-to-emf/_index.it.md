@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva BMP come EMF API per Python
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file in formato BMP come file in formato EMF.
 url: /it/python/saveas/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

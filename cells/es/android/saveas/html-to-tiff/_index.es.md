@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar HTML como TIFF API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar HTML como TIFF API para Android
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato HTML como archivo de formato TIFF.
 url: /es/android/saveas/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

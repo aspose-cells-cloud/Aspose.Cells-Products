@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML'i Go için TIFF API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  Aspose.Cells Cloud SDK for Go kullanılarak HTML biçim dosyasını TIFF biçim dosyası olarak kaydedin.
 url: /tr/go/saveas/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XML كـ SXC API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XML كـ SXC API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XML كملف بتنسيق SXC.
 url: /ar/php/saveas/xml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование XLT в SQL API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLT в SQL API для C#
+description: Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLT в файл формата SQL.
 url: /ru/net/conversion/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как PPTX API для PHP.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XLSB как файла формата PPTX.
 url: /ru/php/saveas/xlsb-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

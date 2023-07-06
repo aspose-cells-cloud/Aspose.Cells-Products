@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer CSV sous DIF API pour Android
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrer CSV sous DIF API pour Android
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format DIF.
 url: /fr/android/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

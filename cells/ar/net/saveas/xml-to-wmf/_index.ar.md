@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XML كـ WMF API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XML كـ WMF API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XML كملف بتنسيق WMF.
 url: /ar/net/saveas/xml-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSM como JPG API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato XLSM como archivo de formato JPG.
 url: /es/python/saveas/xlsm-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

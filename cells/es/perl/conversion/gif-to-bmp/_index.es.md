@@ -1,6 +1,6 @@
 ﻿---
-title:  GIF a BMP Convertir API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: GIF a BMP Convertir API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para convertir un archivo de formato GIF a un archivo de formato BMP.
 url: /es/perl/conversion/gif-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

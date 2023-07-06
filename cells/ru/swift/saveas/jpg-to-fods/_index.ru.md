@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохранить JPG как FODS API для Swift
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
 url: /ru/swift/saveas/jpg-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как FODS" h2="Библиотека Swift для сохранения JPG как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения JPG как FODS и других форматов документов онлайн с помощью Swift." urlsection="saveas/jpg-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить JPG как FODS" h2="Библиотека Swift для сохранения JPG как FODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения JPG как FODS и других форматов документов в Интернете с использованием Swift." urlsection="saveas/jpg-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как FODS в Swift" >}}

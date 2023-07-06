@@ -1,6 +1,6 @@
 ﻿---
-title: EMF إلى GIF تحويل API عن C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  EMF إلى GIF تحويل API عن C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لتحويل ملف تنسيق EMF إلى ملف بتنسيق GIF.
 url: /ar/net/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

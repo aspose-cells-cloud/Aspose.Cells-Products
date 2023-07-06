@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как EMF API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата ODS как файла формата EMF.
 url: /ru/java/saveas/ods-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/ods-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как EMF в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS как EMF — сложная задача. Все преобразования формата ODS в формат EMF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для сохранения ODS в виде файлов EMF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат EMF.
+Сохранение форматов файлов из ODS как EMF — сложная задача. Все переходы формата ODS в формат EMF выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Java — это профессиональное решение для сохранения ODS в виде файлов EMF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения ODS в формате EMF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP в MD Конвертировать API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для преобразования файла формата BMP в файл формата MD.
 url: /ru/ruby/conversion/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

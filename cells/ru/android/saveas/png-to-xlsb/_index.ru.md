@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить PNG как XLSB API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить PNG как XLSB API для Android
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата PNG в виде файла формата XLSB.
 url: /ru/android/saveas/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/android/saveas/png-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XLSB в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как XLSB — сложная задача. Все переходы PNG в формат XLSB выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Android — это профессиональное решение для сохранения PNG в виде файлов XLSB онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
+Сохранение форматов файлов с PNG как XLSB — сложная задача. Все переходы формата PNG в формат XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Android — это профессиональное решение для сохранения PNG в виде файлов XLSB онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения PNG в формате XLSB" gistPath="" %}}

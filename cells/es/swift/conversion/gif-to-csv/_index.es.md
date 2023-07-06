@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF a CSV Convertir API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/gif-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /es/swift/conversion/gif-to-csv/
 Convertir formatos de archivo de GIF a CSV es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato GIF a CSV mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos GIF a CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir formato GIF a CSV" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para convertir GIF a formato CSV" gistPath="" %}}
  
 ```swift
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/

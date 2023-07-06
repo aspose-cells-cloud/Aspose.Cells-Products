@@ -1,6 +1,6 @@
 ﻿---
-title: Converti da TSV a MD API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Converti da TSV a MD API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato TSV in un file in formato MD.
 url: /it/perl/conversion/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

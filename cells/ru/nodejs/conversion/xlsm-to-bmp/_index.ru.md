@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSM в BMP Преобразование API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для преобразования файла формата XLSM в файл формата BMP.
 url: /ru/nodejs/conversion/xlsm-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSM в BMP" h2="Библиотека NodeJS для преобразования XLSM в BMP" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSM в BMP и другие форматы документов онлайн с использованием NodeJS." urlsection="conversion/xlsm-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSM в BMP" h2="Библиотека NodeJS для преобразования XLSM в BMP" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSM в BMP и другие форматы документов онлайн с помощью NodeJS." urlsection="conversion/xlsm-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в BMP в NodeJS" >}}

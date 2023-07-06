@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLSX como WMF API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para guardar el archivo de formato XLSX como archivo de formato WMF.
 url: /es/java/saveas/xlsx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

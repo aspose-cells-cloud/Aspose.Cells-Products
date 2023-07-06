@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOf
 url: /es/ruby/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar formas en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Ruby Clear para borrar formas en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar formas en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Ruby. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Ruby." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Formas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ruby REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez PNG comme DIF API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format PNG en tant que fichier au format DIF.
 url: /fr/java/saveas/png-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/java/saveas/png-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG au format DIF dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de PNG au format DIF est une tâche complexe. Toutes les transitions du format PNG vers le format DIF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Java est une solution professionnelle pour enregistrer PNG sous forme de fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie DIF parfaite.
+L'enregistrement des formats de fichiers à partir de PNG au format DIF est une tâche complexe. Toutes les transitions de format PNG vers DIF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Java est une solution professionnelle pour enregistrer PNG sous forme de fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie DIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer PNG au format DIF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i HTML olarak kaydet Perl için API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: BMP biçim dosyasını HTML biçim dosyası olarak kaydetmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/saveas/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

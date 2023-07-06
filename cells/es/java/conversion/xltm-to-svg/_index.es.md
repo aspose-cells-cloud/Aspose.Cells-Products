@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM a SVG Convertir API for Java
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo de formato XLTM a un archivo de formato SVG.
 url: /es/java/conversion/xltm-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

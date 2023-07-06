@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLTX a DIF API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato XLTX in un file in formato DIF.
 url: /it/perl/conversion/xltx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

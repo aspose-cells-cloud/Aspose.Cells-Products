@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir TSV en MD API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir TSV en MD API pour Python
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format TSV en fichier au format MD.
 url: /fr/python/conversion/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

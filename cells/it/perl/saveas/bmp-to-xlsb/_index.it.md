@@ -1,6 +1,6 @@
 ﻿---
-title: Salva BMP come XLSB API per Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  Salva BMP come XLSB API per Perl
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in formato BMP come file in formato XLSB.
 url: /it/perl/saveas/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

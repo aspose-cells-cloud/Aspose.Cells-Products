@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için JPG'yi JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/saveas/jpg-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

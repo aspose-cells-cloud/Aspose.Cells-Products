@@ -4,7 +4,7 @@ description: Microsoft Excel ve OpenOffice Calc üzerinde arka planı temizlemek
 url: /tr/python/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için Python API" h2="Python Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunda arka planı temizlemek için temizleyin" p="Yerel Microsoft Excel ve Python\'deki OpenOffice Calc hesap tablosu iş akışlarındaki arka planı temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve Python kullanarak OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki arka planı temizlemek için Python API" h2="Python Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunda arka planı temizlemek için temizleyin" p="Yerel Microsoft Excel ve Python\'deki OpenOffice Calc hesap tablosu iş akışlarındaki arka planı temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve Python kullanarak OpenOffice Calc elektronik tablosundaki arka planı temizler." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunda arka planı temizle - Python REST API" >}}

@@ -1,13 +1,13 @@
 ﻿---
 title:  CSV a TXT Convertir API para Swift
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
 url: /es/swift/conversion/csv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir CSV a TXT" h2="Biblioteca Swift para convertir CSV a TXT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir CSV a TXT y otros formatos de documentos en línea usando Swift." urlsection="conversion/csv-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo CSV a TXT en Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo CSV a TXT en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de CSV a TXT es una tarea compleja. Todas las transiciones de formato CSV a TXT son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo CSV de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos CSV a TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida TXT perfecta.

@@ -1,10 +1,10 @@
 ﻿---
-title:  Unisci più file Excel in un file.
-description:  API cloud e SDK per l'unione di più file Excel. Unisci più file Excel in un file tramite Cells Cloud API. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Unisci più file Excel in un file con Ruby.
+description:  API cloud e SDK per l'unione di più file Excel con Ruby
 url: /it/ruby/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per unire più file Excel in un unico file." h2="Libreria Ruby per unire più file Excel in un file." p="Usa Cells Merge REST API per unire più file Excel in un file in Ruby. Questa soluzione professionale unisce più file Excel in un foglio di calcolo Microsoft Excel o OpenOffice Calc utilizzando Ruby." urlsection="merge/multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API per unire più file Excel in un unico file." h2="Libreria Ruby per unire più file Excel in un file." p="Usa Cells Merge REST API per unire più file Excel in un file in Ruby. Questa soluzione professionale unisce più file Excel in un foglio di calcolo Microsoft Excel o OpenOffice Calc utilizzando Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Unisci più file Excel in un file - Ruby REST API" >}}

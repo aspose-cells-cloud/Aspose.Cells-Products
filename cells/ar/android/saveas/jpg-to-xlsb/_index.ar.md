@@ -1,16 +1,16 @@
 ﻿---
 title:  احفظ JPG باسم XLSB API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق JPG كملف بتنسيق XLSB.
 url: /ar/android/saveas/jpg-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ XLSB" h2="مكتبة Android لحفظ JPG كـ XLSB" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG بتنسيق XLSB وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ XLSB" h2="مكتبة Android لحفظ JPG كـ XLSB" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG بتنسيق XLSB وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق XLSB في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG كـ XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLSB بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLSB عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج XLSB مثالي.
+يعد حفظ تنسيقات الملفات من JPG كـ XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLSB بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLSB عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج XLSB مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ JPG بتنسيق XLSB" gistPath="" %}}

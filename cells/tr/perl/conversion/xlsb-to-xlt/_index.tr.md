@@ -1,6 +1,6 @@
 ﻿---
-title: Perl için XLSB'den XLT'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Perl için XLSB'den XLT'ye Dönüştürme API
+description: XLSB biçimli dosyayı XLT biçimli dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/xlsb-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

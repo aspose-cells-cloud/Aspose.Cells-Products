@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM till XLTM Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSM-format till fil i XLTM-format.
 url: /sv/perl/conversion/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

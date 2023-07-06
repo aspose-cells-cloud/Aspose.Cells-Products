@@ -1,10 +1,10 @@
 ﻿---
-title:  Convertir XLS en JSON API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLS en JSON API pour Perl
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format XLS en fichier au format JSON.
 url: /fr/perl/conversion/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir XLS en JSON" h2="bibliothèque Perl pour convertir XLS en JSON" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir XLS en JSON et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/xls-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir XLS en JSON" h2="bibliothèque Perl pour convertir XLS en JSON" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir XLS en JSON et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/xls-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLS en JSON en Perl" >}}

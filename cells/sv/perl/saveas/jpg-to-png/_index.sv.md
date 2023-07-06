@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som PNG API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara JPG-formatfil som PNG-fil.
 url: /sv/perl/saveas/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

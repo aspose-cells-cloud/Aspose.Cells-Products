@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva ODS come XLSM API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per salvare il file in formato ODS come file in formato XLSM.
 url: /it/java/saveas/ods-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

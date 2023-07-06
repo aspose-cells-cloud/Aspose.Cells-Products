@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer les numéros sous PPTX API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format NUMBERS en tant que fichier au format PPTX.
 url: /fr/net/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer les NUMÉROS au format PPTX" h2="Bibliothèque C# pour enregistrer les NUMÉROS au format PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format PPTX et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/numbers-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer les NUMÉROS au format PPTX" h2="Bibliothèque C# pour enregistrer les NUMÉROS au format PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format PPTX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/numbers-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format PPTX au C#" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i FODS olarak kaydet API for Java
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını FODS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/java/saveas/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="BMP dosyasını Java\'de FODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya biçimlerini FODS olarak kaydetmek karmaşık bir iştir. Tüm BMP'den FODS formatına geçişler, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+BMP'den dosya biçimlerini FODS olarak kaydetmek karmaşık bir iştir. BMP'den FODS biçimine geçişlerin tümü, Java SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. Java kitaplığımız, BMP'i çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i FODS formatı olarak kaydetmek için REST API\'i kullanan Java\'deki kod örneği" gistPath="" %}}

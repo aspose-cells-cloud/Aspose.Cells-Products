@@ -1,6 +1,6 @@
 ﻿---
-title: Guarde HTML como XLSB API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  Guarde HTML como XLSB API para C#
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato HTML como archivo de formato XLSB.
 url: /es/net/saveas/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

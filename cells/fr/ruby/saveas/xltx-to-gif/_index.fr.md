@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLTX en tant que GIF API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format XLTX en tant que fichier au format GIF.
 url: /fr/ruby/saveas/xltx-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/ruby/saveas/xltx-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format GIF dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLTX au format GIF est une tâche complexe. Toutes les transitions de format XLTX vers GIF sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer XLTX en tant que fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie GIF parfaite.
+L'enregistrement de formats de fichiers à partir de XLTX au format GIF est une tâche complexe. Toutes les transitions de format XLTX vers GIF sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTX. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer XLTX en tant que fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer XLTX au format GIF" gistPath="" %}}

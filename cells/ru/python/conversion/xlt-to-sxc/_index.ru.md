@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLT в SXC API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLT в файл формата SXC.
 url: /ru/python/conversion/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLT в SXC" h2="Python библиотека для преобразования XLT в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLT в SXC и другие форматы документов с использованием Python." urlsection="conversion/xlt-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLT в SXC" h2="Python библиотека для преобразования XLT в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для преобразования XLT в SXC и другие форматы документов онлайн с использованием Python." urlsection="conversion/xlt-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в SXC в Python" >}}

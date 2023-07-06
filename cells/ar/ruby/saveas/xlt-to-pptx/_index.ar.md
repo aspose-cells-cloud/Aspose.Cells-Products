@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ PPTX API لـ Ruby
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLT كملف بتنسيق PPTX.
 url: /ar/ruby/saveas/xlt-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/ruby/saveas/xlt-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT بتنسيق PPTX في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLT كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ XLT كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من XLT كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى PPTX بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ XLT كملفات PPTX عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ XLT بتنسيق PPTX" gistPath="" %}}

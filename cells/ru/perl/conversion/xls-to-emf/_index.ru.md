@@ -1,6 +1,6 @@
 ﻿---
-title: XLS в EMF Преобразование API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XLS в EMF Преобразование API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата XLS в файл формата EMF.
 url: /ru/perl/conversion/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

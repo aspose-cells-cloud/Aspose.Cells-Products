@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки диаграмм
 url: /ru/go/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить диаграммы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение для очистки диаграмм на локальном телефоне Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Go." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить диаграммы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Go Clear для очистки диаграмм в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки диаграмм в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение для очистки диаграмм на локальном телефоне Microsoft Excel и электронной таблицы OpenOffice Calc с использованием Go." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить диаграммы на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — Go REST API" >}}

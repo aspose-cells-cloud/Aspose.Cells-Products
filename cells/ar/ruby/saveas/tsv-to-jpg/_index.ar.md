@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV بصيغة JPG API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف TSV كملف بتنسيق JPG.
 url: /ar/ruby/saveas/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

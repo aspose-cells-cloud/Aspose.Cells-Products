@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование ODS в XML API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование ODS в XML API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата ODS в файл формата XML.
 url: /ru/python/conversion/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

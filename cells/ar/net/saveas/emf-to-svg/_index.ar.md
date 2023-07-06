@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ SVG API مقابل C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق EMF كملف بتنسيق SVG.
 url: /ar/net/saveas/emf-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

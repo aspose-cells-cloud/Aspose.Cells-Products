@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как CSV API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата MHTML в виде файла формата CSV.
 url: /ru/php/saveas/mhtml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

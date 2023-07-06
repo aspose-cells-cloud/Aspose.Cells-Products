@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM إلى GIF تحويل API إلى Perl
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف تنسيق XLSM إلى ملف بتنسيق GIF.
 url: /ar/perl/conversion/xlsm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/perl/conversion/xlsm-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى GIF في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعتبر مكتبتنا Perl حلاً احترافيًا لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج GIF مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى GIF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى GIF بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. مكتبتنا Perl هي حل احترافي لتحويل ملفات XLSM إلى GIF عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج GIF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل XLSM إلى تنسيق GIF" gistPath="" %}}

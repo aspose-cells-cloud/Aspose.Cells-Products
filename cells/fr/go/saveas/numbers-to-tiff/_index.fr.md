@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez les numéros sous TIFF API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format NUMBERS en tant que fichier au format TIFF.
 url: /fr/go/saveas/numbers-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/go/saveas/numbers-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS sous le nom TIFF dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme TIFF est une tâche complexe. Toutes les transitions de format NUMBERS vers TIFF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers NUMBERS en tant que TIFF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie TIFF parfaite.
+L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme TIFF est une tâche complexe. Toutes les transitions de format NUMBERS vers TIFF sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers NUMBERS sous la forme TIFF en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie TIFF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer NUMBERS au format TIFF" gistPath="" %}}

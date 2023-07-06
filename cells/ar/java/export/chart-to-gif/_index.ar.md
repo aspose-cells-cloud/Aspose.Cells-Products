@@ -1,10 +1,10 @@
 ﻿---
 title:  قم بتصدير CHART إلى GIF من جدول البيانات باستخدام Java API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/java/export/chart-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتصدير المخطط البياني إلى ملف GIF" h2="مكتبة Java لتصدير المخطط إلى ملف GIF" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائنات الداخلية لجدول البيانات في Java. هذا حل احترافي لتصدير ملف بتنسيق GIF من جدول بيانات عبر الإنترنت باستخدام Java." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتصدير المخطط البياني إلى ملف GIF" h2="مكتبة Java لتصدير المخطط إلى ملف GIF" p="استخدم Cells Export REST API لتصدير مهام سير عمل الكائن الداخلي لجدول البيانات في Java. هذا حل احترافي لتصدير ملف بتنسيق CHART إلى ملف GIF من جدول بيانات عبر الإنترنت باستخدام Java." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن CHART إلى ملف بتنسيق GIF في Java" >}}

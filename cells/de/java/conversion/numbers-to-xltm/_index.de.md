@@ -1,16 +1,16 @@
 ﻿---
-title:  NUMBERS zu XLTM Konvertieren API for Java
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title:  ZAHLEN in XLTM Konvertieren Sie API for Java
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XLTM-Format.
 url: /de/java/conversion/numbers-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API um NUMBERS in XLTM umzuwandeln" h2="Java Bibliothek zum Konvertieren von NUMBERS in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung zur Online-Konvertierung von NUMBERS in XLTM und andere Dokumentformate unter Verwendung von Java." urlsection="conversion/numbers-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von NUMBERS in XLTM" h2="Java-Bibliothek zum Konvertieren von NUMBERS in XLTM" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um NUMBERS online mit Java in XLTM und andere Dokumentformate zu konvertieren." urlsection="conversion/numbers-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine NUMBERS-Datei in Java in XLTM" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine NUMBERS-Datei in XLTM in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von NUMBERS in XLTM ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS zu XLTM werden von unserem Java SDK durchgeführt, während der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle beibehalten wird. Unsere Java-Bibliothek ist eine professionelle Lösung, um NUMBERS online in XLTM-Dateien umzuwandeln. Dieses Cloud-SDK bietet Java-Entwicklern leistungsstarke Funktionen und perfekte XLTM-Ausgabe.
+Das Konvertieren von Dateiformaten von NUMBERS in XLTM ist eine komplexe Aufgabe. Alle Formatübergänge von NUMBERS in das XLTM-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der NUMBERS-Quelltabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um NUMBERS online in XLTM-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLTM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Konvertieren von NUMBERS in das XLTM-Format" gistPath="" %}}
@@ -47,16 +47,16 @@ Das Konvertieren von Dateiformaten von NUMBERS in XLTM ist eine komplexe Aufgabe
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um NUMBERS in XLTM umzuwandeln" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um NUMBERS in XLTM zu konvertieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Maven 2.2.0 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

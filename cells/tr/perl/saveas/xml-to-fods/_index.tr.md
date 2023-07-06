@@ -1,6 +1,6 @@
 ﻿---
-title:  XML'i Perl için FODS API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: XML'i Perl için FODS API olarak kaydedin
+description:  XML biçim dosyasını FODS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

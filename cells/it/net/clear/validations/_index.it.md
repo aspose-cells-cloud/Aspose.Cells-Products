@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione delle convalide su Microsoft 
 url: /it/net/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le convalide sui fogli di lavoro locali Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="C# Cancella per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in C#. Questa soluzione professionale cancella le convalide sui fogli di lavoro locali Microsoft Excel e OpenOffice Calc utilizzando C#." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convalide chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - C# REST API" >}}

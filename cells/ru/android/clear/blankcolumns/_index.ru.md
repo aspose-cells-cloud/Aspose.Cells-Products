@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки пустых ст
 url: /ru/android/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Очистить, чтобы очистить пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки пустых столбцов в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение очищает пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc" h2="Android Очистить, чтобы очистить пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки пустых столбцов в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Android. Это профессиональное решение очищает пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Android." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Android REST API" >}}

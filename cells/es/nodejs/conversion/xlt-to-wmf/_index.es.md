@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT a WMF API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato XLT a un archivo de formato WMF.
 url: /es/nodejs/conversion/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -160,7 +160,7 @@ url: /tr/java
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
+Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -174,7 +174,7 @@ url: /tr/java
     <em class="fa fa-eye-slash ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Çalışma sayfasından belirli veya tüm OleObject'leri silin
+ Çalışma sayfasından belirli veya tüm OleObject'leri silin
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ url: /tr/java
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Sayfa düzenini, başlığı &amp; altbilgi
+ Sayfa düzenini, başlığı &amp; alt bilgi
     </p>
    </div>
    <div class="col-lg-4">
@@ -251,7 +251,7 @@ ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anah
 Çalışma Sayfalarını İşlemek için Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplandırın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
+Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyala, çalışma sayfası satırlarını ve sütunlarını gruplandır, çalışma sayfası satırlarını ve sütunlarını gizle, çalışma sayfası sütun ve satır stillerini ayarla, HTMLSTRING değerini hücreye ayarla, hücre aralığı değerini ayarla ve diğer birçok çalışma sayfası ayarını değiştir.
     </p>
    </div>
    <div class="col-lg-12">

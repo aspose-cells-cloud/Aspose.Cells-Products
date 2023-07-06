@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le immagini su Microsoft Excel e Ope
 url: /it/android/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le immagini sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Android. Questa soluzione professionale cancella le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Android Cancella per cancellare le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le immagini sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Android. Questa soluzione professionale cancella le immagini sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Android." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Immagini nitide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Android REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XML sous BMP API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XML en tant que fichier au format BMP.
 url: /fr/go/saveas/xml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

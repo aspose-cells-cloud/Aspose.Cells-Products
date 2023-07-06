@@ -1,6 +1,6 @@
 ﻿---
-title:  JPG в EMF Конвертировать API в Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: JPG в EMF Конвертировать API в Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата JPG в файл формата EMF.
 url: /ru/perl/conversion/jpg-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

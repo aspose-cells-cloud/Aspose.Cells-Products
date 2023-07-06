@@ -1,10 +1,10 @@
 ﻿---
-title:  Зашифровать локальную таблицу паролем в облаке
-description:  Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc. Шифруйте локальные электронные таблицы с помощью пароля Cells Cloud API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Зашифруйте локальную таблицу паролем с помощью Go in Cloud
+description: Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с Go. Шифруйте локальные электронные таблицы с помощью пароля с помощью Cells Cloud API SDK для Go.
 url: /ru/go/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы защитить локальный номер Microsoft Excel и электронную таблицу OpenOffice Calc паролем." h2="Библиотека Go для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Protect REST API для защиты локальной Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Go. Это профессиональное решение защищает Microsoft Excel и электронную таблицу OpenOffice Calc в Интернете с помощью паролей с помощью Go." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы защитить локальный номер Microsoft Excel и электронную таблицу OpenOffice Calc паролем." h2="Библиотека Go для защиты локального Microsoft Excel и электронной таблицы OpenOffice Calc паролем" p="Используйте Cells Protect REST API для защиты локальной Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Go. Это профессиональное решение защищает Microsoft Excel и электронную таблицу OpenOffice Calc в Интернете с помощью паролей с помощью Go." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защитите локальный Microsoft Excel и электронную таблицу OpenOffice Calc паролем — Go REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde BMP como SXC API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato BMP como archivo de formato SXC.
 url: /es/android/saveas/bmp-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

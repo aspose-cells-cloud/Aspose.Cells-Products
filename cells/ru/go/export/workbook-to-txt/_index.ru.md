@@ -1,10 +1,10 @@
 ﻿---
 title:  Экспорт WORKBOOK в TXT из электронной таблицы с помощью Go API
-description: Aspose.Cells Облачный REST API поддерживает экспорт Excel файлов и внутренних объектов в различные форматы файлов. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/go/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы экспортировать WORKBOOK в файл TXT." h2="Библиотека Go для экспорта WORKBOOK в файл TXT" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта файла формата WORKBOOK в TXT из электронной таблицы онлайн с помощью Go." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы экспортировать WORKBOOK в файл TXT." h2="Перейти в библиотеку для экспорта WORKBOOK в файл TXT" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Go. Это профессиональное решение для экспорта файла формата WORKBOOK в TXT из электронной таблицы онлайн с помощью Go." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата TXT в Go" >}}

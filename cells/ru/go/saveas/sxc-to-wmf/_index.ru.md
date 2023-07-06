@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как WMF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата SXC в виде файла формата WMF.
 url: /ru/go/saveas/sxc-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

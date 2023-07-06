@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование BMP в PPTX API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование BMP в PPTX API for Java
+description:  Использование Aspose.Cells Cloud SDK for Java для преобразования файла формата BMP в файл формата PPTX.
 url: /ru/java/conversion/bmp-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF en XLTX Convertir API pour Ruby
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour convertir le fichier au format EMF en fichier au format XLTX.
 url: /fr/ruby/conversion/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -13,7 +13,7 @@ url: /fr/ruby/conversion/emf-to-xltx/
 La conversion des formats de fichiers de EMF en XLTX est une tâche complexe. Toutes les transitions de format EMF vers XLTX sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers EMF en fichiers XLTX. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLTX parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir EMF au format XLTX" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code en Ruby utilisant REST API pour convertir EMF au format XLTX" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

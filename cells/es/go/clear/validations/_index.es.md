@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar validaciones en Microsoft Excel y
 url: /es/go/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar las validaciones en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar las validaciones en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las validaciones en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra las validaciones en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para borrar las validaciones en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar las validaciones en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las validaciones en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra las validaciones en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Go." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar validaciones en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir a REST API" >}}

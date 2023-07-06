@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI PHP için JSON API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: NUMBERS biçim dosyasını JSON biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP kullanılıyor.
 url: /tr/php/saveas/numbers-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

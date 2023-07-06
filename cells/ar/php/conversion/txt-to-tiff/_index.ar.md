@@ -1,6 +1,6 @@
 ﻿---
-title: TXT إلى TIFF تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  TXT إلى TIFF تحويل API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق TXT إلى ملف بتنسيق TIFF.
 url: /ar/php/conversion/txt-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

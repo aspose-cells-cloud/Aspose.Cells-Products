@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar objetos de lista en Microsoft Exce
 url: /es/go/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar la lista de objetos en Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Go." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para borrar la lista de objetos en Microsoft Excel local y en la hoja de cálculo de OpenOffice Calc" h2="Vaya a Borrar para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Go. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Go." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Ir a REST API" >}}

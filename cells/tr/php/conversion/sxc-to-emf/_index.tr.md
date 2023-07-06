@@ -1,6 +1,6 @@
 ﻿---
-title: SXC'den EMF'e PHP için API'i dönüştürün
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  SXC'den EMF'e PHP için API'i dönüştürün
+description:  SXC biçim dosyasını EMF biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/sxc-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

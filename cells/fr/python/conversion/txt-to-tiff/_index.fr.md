@@ -1,6 +1,6 @@
 ﻿---
-title: TXT en TIFF Convertir API en Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  TXT en TIFF Convertir API en Python
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format TXT en fichier au format TIFF.
 url: /fr/python/conversion/txt-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

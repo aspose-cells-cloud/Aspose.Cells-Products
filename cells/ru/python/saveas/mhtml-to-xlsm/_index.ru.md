@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить MHTML как XLSM API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата MHTML в виде файла формата XLSM.
 url: /ru/python/saveas/mhtml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

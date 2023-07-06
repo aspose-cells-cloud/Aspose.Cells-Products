@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde SXC como FODS API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde SXC como FODS API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato SXC como archivo de formato FODS.
 url: /es/perl/saveas/sxc-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

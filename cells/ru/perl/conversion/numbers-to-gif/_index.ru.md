@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS to GIF Конвертировать API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата NUMBERS в файл формата GIF.
 url: /ru/perl/conversion/numbers-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -43,7 +43,7 @@ url: /ru/perl/conversion/numbers-to-gif/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования чисел в GIF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Perl API для преобразования NUMBERS в GIF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызов ячеек_рабочая тетрадь_помещать_конвертировать_метод рабочей книги для получения результирующего потока</li>

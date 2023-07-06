@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLS a XLSB API for Java
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Java per convertire il file in formato XLS in un file in formato XLSB.
 url: /it/java/conversion/xls-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

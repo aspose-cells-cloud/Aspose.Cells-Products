@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için CSV'yi BMP'e API'e Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV formatındaki dosyayı BMP formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Ruby kullanılıyor.
 url: /tr/ruby/conversion/csv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

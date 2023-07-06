@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ XPS API من أجل Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لحفظ ملف تنسيق SXC كملف تنسيق XPS.
 url: /ar/go/saveas/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

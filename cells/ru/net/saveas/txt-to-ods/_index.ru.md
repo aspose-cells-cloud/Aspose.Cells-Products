@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните TXT как ODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните TXT как ODS API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата TXT в качестве файла формата ODS.
 url: /ru/net/saveas/txt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/saveas/txt-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как ODS по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде ODS — сложная задача. Все переходы TXT в формат ODS выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека C# — это профессиональное решение для сохранения TXT в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из TXT в виде ODS — сложная задача. Все переходы TXT в формат ODS выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека C# — это профессиональное решение для сохранения TXT в виде файлов ODS в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения TXT в формате ODS" gistPath="" %}}

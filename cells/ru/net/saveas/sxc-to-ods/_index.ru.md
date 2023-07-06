@@ -1,16 +1,16 @@
 ﻿---
-title:  Сохраните SXC как ODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните SXC как ODS API для C#
+description:  Использование Aspose.Cells Cloud SDK для C# для сохранения файла формата SXC в качестве файла формата ODS.
 url: /ru/net/saveas/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения SXC как ODS" h2="C# библиотека для сохранения SXC как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения SXC в виде ODS и других форматов документов онлайн по номеру C#." urlsection="saveas/sxc-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения SXC как ODS" h2="C# библиотека для сохранения SXC как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения SXC в виде ODS и других форматов документов онлайн по телефону C#." urlsection="saveas/sxc-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как ODS по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде ODS — сложная задача. Все переходы формата SXC в формат ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из SXC в виде ODS — сложная задача. Все переходы формата SXC в формат ODS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов ODS в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения SXC в формате ODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование XLS в XLT API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование XLS в XLT API для Python
+description: Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XLS в файл формата XLT.
 url: /ru/python/conversion/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

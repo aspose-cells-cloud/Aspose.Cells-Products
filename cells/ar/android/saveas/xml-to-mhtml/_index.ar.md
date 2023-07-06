@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ XML كـ MHTML API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق XML كملف بتنسيق MHTML.
 url: /ar/android/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XML كـ MHTML" h2="مكتبة Android لحفظ XML بتنسيق MHTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ XML بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ XML كـ MHTML" h2="مكتبة Android لحفظ XML بتنسيق MHTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ XML بتنسيق MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بتنسيق MHTML في Android" >}}

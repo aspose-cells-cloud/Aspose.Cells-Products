@@ -1,10 +1,10 @@
 ﻿---
-title:  Yerel e-tabloyu Bulutta şifreyle şifreleyin
-description:  Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffice Calc. Yerel elektronik tabloları Cells Cloud API ile parola ile şifreleyin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Bulutta Perl ile yerel e-tabloyu şifreyle şifreleyin
+description:  Microsoft Excel ve OpenOffice Calc ile Perl'i Korumak için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, Perl için Cells Cloud API SDK ile şifreyle şifreleyin.
 url: /tr/perl/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel koruma için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Perl yerel Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosunu korumak için kitaplık" p="Yerel Microsoft Excel\'i ve OpenOffice Calc hesap tablosunu Perl\'deki parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel\'i ve çevrimiçi OpenOffice Calc elektronik tablosunu Perl kullanan parolalarla korur." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API yerel koruma için Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Perl yerel Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosunu korumak için kitaplık" p="Yerel Microsoft Excel\'i ve OpenOffice Calc hesap tablosunu Perl\'deki parola iş akışlarıyla korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Microsoft Excel\'i ve çevrimiçi OpenOffice Calc elektronik tablosunu Perl kullanan parolalarla korur." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile koruyun - Perl REST API" >}}

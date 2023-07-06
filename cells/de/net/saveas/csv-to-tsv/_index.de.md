@@ -1,16 +1,16 @@
 ﻿---
 title:  CSV als TSV API für C# speichern
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Speichern von CSV-Formatdateien als TSV-Formatdateien.
 url: /de/net/saveas/csv-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API um CSV als TSV zu speichern" h2="C#-Bibliothek zum Speichern von CSV als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um CSV als TSV und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/csv-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um CSV als TSV zu speichern" h2="C#-Bibliothek zum Speichern von CSV als TSV" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von CSV als TSV und anderen Dokumentformaten unter C#." urlsection="saveas/csv-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als TSV in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine CSV-Datei als TSV unter C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus CSV als TSV ist eine komplexe Aufgabe. Alle Formatübergänge von CSV zu TSV werden von unserem C# SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der CSV-Quelltabelle beibehalten werden. Unsere C#-Bibliothek ist eine professionelle Lösung, um CSV als TSV-Dateien online zu speichern. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und perfekte TSV-Ausgabe.
+Das Speichern von Dateiformaten von CSV als TSV ist eine komplexe Aufgabe. Alle CSV-zu-TSV-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-CSV-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um CSV-Dateien online als TSV-Dateien zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte TSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Speichern von CSV im TSV-Format" gistPath="" %}}
@@ -28,8 +28,8 @@ Das Speichern von Dateiformaten aus CSV als TSV ist eine komplexe Aufgabe. Alle 
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um CSV als TSV zu speichern" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die CellsSaveAsPostDocumentSaveAs-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

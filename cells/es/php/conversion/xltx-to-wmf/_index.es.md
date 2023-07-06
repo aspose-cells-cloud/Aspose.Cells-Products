@@ -1,6 +1,6 @@
 ﻿---
-title: XLTX a WMF Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLTX a WMF Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLTX a un archivo de formato WMF.
 url: /es/php/conversion/xltx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

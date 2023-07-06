@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON إلى XLT - تحويل API للروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق JSON إلى ملف بتنسيق XLT.
 url: /ar/ruby/conversion/json-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

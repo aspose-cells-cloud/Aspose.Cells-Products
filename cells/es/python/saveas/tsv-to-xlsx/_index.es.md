@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar TSV como XLSX API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar TSV como XLSX API para Python
+description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato TSV como archivo de formato XLSX.
 url: /es/python/saveas/tsv-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

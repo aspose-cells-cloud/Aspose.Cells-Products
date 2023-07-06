@@ -1,6 +1,6 @@
 ﻿---
-title:  TIFF için MHTML'yi PHP için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: TIFF için MHTML'yi PHP için API'e dönüştür
+description:  MHTML biçim dosyasını TIFF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/conversion/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Cal
 url: /es/php/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para proteger la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" h2="PHP biblioteca para proteger la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en PHP. Esta solución profesional protege la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando PHP." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para proteger la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" h2="PHP biblioteca para proteger la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en PHP. Esta solución profesional protege la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando PHP." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña - PHP REST API" >}}

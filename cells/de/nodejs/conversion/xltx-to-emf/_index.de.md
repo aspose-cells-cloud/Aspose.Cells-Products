@@ -1,16 +1,16 @@
 ﻿---
-title:  XLTX in EMF Konvertieren Sie API für NodeJS
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+title: XLTX in EMF Konvertieren Sie API für NodeJS
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLTX-Formatdatei in eine Datei im EMF-Format.
 url: /de/nodejs/conversion/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von XLTX in EMF" h2="NodeJS-Bibliothek zum Konvertieren von XLTX in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um XLTX online mit NodeJS in EMF und andere Dokumentformate zu konvertieren." urlsection="conversion/xltx-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zur Konvertierung von XLTX in EMF" h2="NodeJS-Bibliothek zum Konvertieren von XLTX in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in EMF und andere Dokumentformate mit NodeJS." urlsection="conversion/xltx-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in NodeJS in EMF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in EMF in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLTX in EMF ist eine komplexe Aufgabe. Alle Formatübergänge von XLTX zu EMF werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle beibehalten wird. Unsere NodeJS-Bibliothek ist eine professionelle Lösung, um XLTX-Dateien online in EMF-Dateien zu konvertieren. Dieses Cloud-SDK bietet NodeJS-Entwicklern leistungsstarke Funktionen und eine perfekte EMF-Ausgabe.
+Das Konvertieren von Dateiformaten von XLTX in EMF ist eine komplexe Aufgabe. Alle XLTX-Formatübergänge in das EMF-Format werden von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der XLTX-Quelltabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLTX- in EMF-Dateien. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Konvertieren von XLTX in das EMF-Format" gistPath="" %}}
@@ -36,9 +36,9 @@ Das Konvertieren von Dateiformaten von XLTX in EMF ist eine komplexe Aufgabe. Al
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie den Knoten API, um XLTX in EMF zu konvertieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellWorkbookPutConvertWorkbook auf, um den resultierenden Stream abzurufen</li>
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsWorkbookPutConvertWorkbook“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,10 +1,10 @@
 ﻿---
 title:  Guardar XLS como PPTX API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato XLS como archivo de formato PPTX.
 url: /es/go/saveas/xls-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para guardar XLS como PPTX" h2="Ir a la biblioteca para guardar XLS como PPTX" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XLS como PPTX y otros formatos de documentos en línea usando Go." urlsection="saveas/xls-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para guardar XLS como PPTX" h2="Vaya a la biblioteca para guardar XLS como PPTX" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XLS como PPTX y otros formatos de documentos en línea usando Go." urlsection="saveas/xls-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XLS como PPTX en Go" >}}

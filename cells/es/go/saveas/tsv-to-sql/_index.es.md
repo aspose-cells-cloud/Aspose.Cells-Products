@@ -1,13 +1,13 @@
 ﻿---
 title:  Guarde TSV como SQL API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de formato TSV como archivo de formato SQL.
 url: /es/go/saveas/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya a API para guardar TSV como SQL" h2="Ir a la biblioteca para guardar TSV como SQL" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar TSV como SQL y otros formatos de documentos en línea usando Go." urlsection="saveas/tsv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo TSV como SQL en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo TSV como SQL en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Guardar formatos de archivo de TSV como SQL es una tarea compleja. Todas las transiciones de formato TSV a SQL se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TSV de origen. Nuestra biblioteca Go es una solución profesional para guardar TSV como archivos SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida SQL perfecta.

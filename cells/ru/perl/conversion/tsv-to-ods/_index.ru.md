@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование TSV в ODS API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата TSV в файл формата ODS.
 url: /ru/perl/conversion/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/perl/conversion/tsv-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл TSV в ODS по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в ODS — сложная задача. Все переходы между форматами TSV и ODS выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в ODS. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из TSV в ODS — сложная задача. Все переходы между форматами TSV и ODS выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в ODS. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования TSV в формат ODS" gistPath="" %}}

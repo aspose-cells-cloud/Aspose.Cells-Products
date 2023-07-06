@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки сводных т
 url: /ru/nodejs/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки сводных таблиц в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки сводных таблиц в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки сводных таблиц в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение для очистки сводных таблиц на локальном компьютере Microsoft Excel и электронной таблицы OpenOffice Calc с использованием NodeJS." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки сводных таблиц в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки сводных таблиц в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки сводных таблиц в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение для очистки сводных таблиц на локальном компьютере Microsoft Excel и электронной таблицы OpenOffice Calc с использованием NodeJS." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить сводные таблицы на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — NodeJS REST API" >}}

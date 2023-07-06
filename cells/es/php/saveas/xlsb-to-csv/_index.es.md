@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar XLSB como CSV API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar XLSB como CSV API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato XLSB como archivo de formato CSV.
 url: /es/php/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

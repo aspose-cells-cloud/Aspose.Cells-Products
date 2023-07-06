@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLT som SXC API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLT som SXC API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som SXC-formatfil.
 url: /sv/perl/saveas/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

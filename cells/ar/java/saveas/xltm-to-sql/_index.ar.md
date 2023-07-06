@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTM كـ SQL API for Java
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLTM كملف بتنسيق SQL.
 url: /ar/java/saveas/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

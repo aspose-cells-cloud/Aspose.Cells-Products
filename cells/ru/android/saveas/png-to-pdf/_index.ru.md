@@ -1,6 +1,6 @@
 ﻿---
 title: Сохранить PNG как PDF API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата PNG как файла формата PDF.
 url: /ru/android/saveas/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

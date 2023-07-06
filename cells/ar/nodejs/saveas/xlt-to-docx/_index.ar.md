@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ DOCX API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLT كملف بتنسيق DOCX.
 url: /ar/nodejs/saveas/xlt-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

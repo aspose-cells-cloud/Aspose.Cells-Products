@@ -1,16 +1,16 @@
 ﻿---
 title:  Сохранить XLS как XLT API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLS как файла формата XLT.
 url: /ru/go/saveas/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLS как XLT." h2="Перейти в библиотеку, чтобы сохранить XLS как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLS как XLT и других форматов документов онлайн с помощью Go." urlsection="saveas/xls-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы сохранить XLS как XLT." h2="Перейти в библиотеку, чтобы сохранить XLS как XLT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLS как XLT и других форматов документов онлайн с помощью Go." urlsection="saveas/xls-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLT в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в XLT — сложная задача. Все переходы между форматами XLS и XLT выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате XLT в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLT.
+Сохранение форматов файлов из XLS в виде XLT — сложная задача. Все переходы между форматами XLS и XLT выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате XLT в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLS в формате XLT" gistPath="" %}}

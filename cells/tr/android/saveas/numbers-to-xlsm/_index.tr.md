@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMARALARI Android için XLSM API olarak kaydet
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını XLSM biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/numbers-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/android/saveas/numbers-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir NUMBERS dosyasını XLSM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini XLSM olarak kaydetmek karmaşık bir görevdir. Tüm NUMBERS - XLSM biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi XLSM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıktısı sağlar.
+NUMBERS dosya biçimlerini XLSM olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS - XLSM biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, NUMBERS'i çevrimiçi XLSM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'i XLSM biçiminde kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

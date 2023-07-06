@@ -1,6 +1,6 @@
 ﻿---
-title: PNG till GIF Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  PNG till GIF Konvertera API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i PNG-format till fil i GIF-format.
 url: /sv/perl/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

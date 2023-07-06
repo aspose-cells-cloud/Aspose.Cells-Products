@@ -1,6 +1,6 @@
 ﻿---
-title:  JSON a XLSB Convertir API para NodeJS
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: JSON a XLSB Convertir API para NodeJS
+description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato JSON a un archivo de formato XLSB.
 url: /es/nodejs/conversion/json-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

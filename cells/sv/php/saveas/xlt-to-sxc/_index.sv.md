@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLT som SXC API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLT som SXC API för PHP
+description:  Använder Aspose.Cells Cloud SDK för PHP för att spara XLT-formatfil som SXC-formatfil.
 url: /sv/php/saveas/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare gli oggetti dell'elenco su Microsoft
 url: /it/java/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare gli oggetti dell\'elenco sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella gli oggetti dell\'elenco sui fogli di lavoro locali Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Java Cancella per cancellare gli oggetti dell\'elenco sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Clear REST API per cancellare gli oggetti dell\'elenco sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Java. Questa soluzione professionale cancella gli oggetti dell\'elenco sui fogli di lavoro locali Microsoft Excel e OpenOffice Calc utilizzando Java." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella elenco oggetti sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Java REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara XLT som CSV API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara XLT som CSV API för Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som CSV-formatfil.
 url: /sv/perl/saveas/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

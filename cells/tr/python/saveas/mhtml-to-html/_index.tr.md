@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML'yi Python için HTML API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  Python için MHTML'yi HTML API olarak kaydedin
+description:  MHTML biçim dosyasını HTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

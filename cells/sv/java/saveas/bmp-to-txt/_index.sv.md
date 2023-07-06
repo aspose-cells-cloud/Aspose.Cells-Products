@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som TXT API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara BMP filformat som fil i TXT-format.
 url: /sv/java/saveas/bmp-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

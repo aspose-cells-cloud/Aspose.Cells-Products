@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara HTML som SVG API för PHP
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använd Aspose.Cells Cloud SDK för PHP för att spara HTML filformat som SVG filformat.
 url: /sv/php/saveas/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

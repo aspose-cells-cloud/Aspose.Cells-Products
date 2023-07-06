@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLTM в ODS API для C#
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для C# для преобразования файла формата XLTM в файл формата ODS.
 url: /ru/net/conversion/xltm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/net/conversion/xltm-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразуйте файл XLTM в ODS по номеру C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в ODS — сложная задача. Все переходы от формата XLTM к формату ODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTM в ODS. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из XLTM в ODS — сложная задача. Все переходы от формата XLTM к формату ODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTM в ODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLTM в формат ODS" gistPath="" %}}

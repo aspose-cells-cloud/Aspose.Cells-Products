@@ -1,6 +1,6 @@
 ﻿---
 title:  XML in BMP Converti API per Go
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XML nel file in formato BMP.
 url: /it/go/conversion/xml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

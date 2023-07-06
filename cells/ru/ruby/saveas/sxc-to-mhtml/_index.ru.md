@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните SXC как MHTML API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата SXC в виде файла формата MHTML.
 url: /ru/ruby/saveas/sxc-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения SXC как MHTML" h2="Библиотека Ruby для сохранения SXC как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения SXC как MHTML и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/sxc-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения SXC как MHTML" h2="Библиотека Ruby для сохранения SXC как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения SXC в виде MHTML и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/sxc-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как MHTML в Ruby" >}}

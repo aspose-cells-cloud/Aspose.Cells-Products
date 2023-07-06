@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML in HTML Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: MHTML in HTML Converti API in PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato MHTML nel file in formato HTML.
 url: /it/php/conversion/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

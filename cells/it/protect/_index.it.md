@@ -1,6 +1,6 @@
 ﻿---
 title:  Proteggere
-description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description: Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -16,7 +16,7 @@ url: /it/protect/
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{< blocks/products/pf/product-card-row title="Opera popolare" >}}
-{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Decrittare con password" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Net" title="Decrittografare con password" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/protect/decrypt-with-password/" >}}
 
 {{< blocks/products/cells/cells-cloud-feature pfName="Aspose.Cells Cloud SDK for Go" title="Firma digitale" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/go/protect/digital-signature/" >}}
 

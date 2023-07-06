@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML إلى SVG تحويل API لروبي
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق HTML إلى ملف بتنسيق SVG.
 url: /ar/ruby/conversion/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

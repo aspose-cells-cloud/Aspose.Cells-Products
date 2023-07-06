@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование JSON в TXT API для Android
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата JSON в файл формата TXT.
 url: /ru/android/conversion/json-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

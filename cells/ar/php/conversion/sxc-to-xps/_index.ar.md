@@ -1,6 +1,6 @@
 ﻿---
-title: SXC إلى XPS تحويل API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  SXC إلى XPS تحويل API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف تنسيق SXC إلى ملف بتنسيق XPS.
 url: /ar/php/conversion/sxc-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

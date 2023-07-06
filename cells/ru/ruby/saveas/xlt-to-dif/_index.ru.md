@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLT как DIF API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLT в виде файла формата DIF.
 url: /ru/ruby/saveas/xlt-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xlt-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как DIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде DIF — сложная задача. Все переходы между форматами XLT и DIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLT в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
+Сохранение форматов файлов из XLT в виде DIF — сложная задача. Все переходы между форматами XLT и DIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Ruby — это профессиональное решение для сохранения XLT в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLT в формате DIF" gistPath="" %}}

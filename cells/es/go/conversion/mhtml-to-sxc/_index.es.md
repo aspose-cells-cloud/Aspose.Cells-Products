@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML a SXC Convertir API para Go
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de formato MHTML a un archivo de formato SXC.
 url: /es/go/conversion/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/go/conversion/mhtml-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo MHTML a SXC en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de MHTML a SXC es una tarea compleja. Todas las transiciones de formato MHTML a SXC las realiza nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos MHTML a SXC en línea. Este SDK de Cloud ofrece a los desarrolladores de Go una potente funcionalidad y un resultado SXC perfecto.
+Convertir formatos de archivo de MHTML a SXC es una tarea compleja. Todas las transiciones de formato MHTML a SXC son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos MHTML a SXC en línea. Este SDK de Cloud ofrece a los desarrolladores de Go una potente funcionalidad y un resultado SXC perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir MHTML a formato SXC" gistPath="" %}}

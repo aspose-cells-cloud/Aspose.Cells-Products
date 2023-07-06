@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar columnas en blanco en Microsoft Ex
 url: /es/android/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las columnas en blanco en los flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra las columnas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Android Clear para borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar las columnas en blanco en los flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Android. Esta solución profesional borra las columnas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con Android." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar columnas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Android REST API" >}}

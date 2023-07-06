@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLS a XLTX API per andare
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLS in un file in formato XLTX.
 url: /it/go/conversion/xls-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

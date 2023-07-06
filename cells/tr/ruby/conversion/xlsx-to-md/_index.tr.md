@@ -1,6 +1,6 @@
 ﻿---
 title:  Ruby için XLSX'ten MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSX biçim dosyasını MD biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Ruby'yi kullanma.
 url: /tr/ruby/conversion/xlsx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

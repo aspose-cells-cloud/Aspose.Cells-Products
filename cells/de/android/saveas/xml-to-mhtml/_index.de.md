@@ -1,16 +1,16 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für Android
-description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabelle in ein anderes Dateiformat.
+description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von XML-Formatdateien als MHTML-Formatdateien.
 url: /de/android/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von XML als MHTML" h2="Android-Bibliothek zum Speichern von XML als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung, um XML als MHTML und andere Dokumentformate online mit Android zu speichern." urlsection="saveas/xml-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Speichern von XML als MHTML" h2="Android-Bibliothek zum Speichern von XML als MHTML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Android zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XML als MHTML und anderen Dokumentformaten mit Android." urlsection="saveas/xml-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XML-Datei als MHTML in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. Alle Formatübergänge von XML zu MHTML werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XML-Quelltabelle beibehalten werden. Unsere Android-Bibliothek ist eine professionelle Lösung, um XML als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte MHTML-Ausgabe.
+Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. Alle XML-zu-MHTML-Formatübergänge werden von unserem Android SDK durchgeführt, während der wichtigste strukturelle und logische Inhalt der XML-Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Speichern von XML als MHTML-Dateien. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von XML im MHTML-Format" gistPath="" %}}
@@ -35,16 +35,16 @@ Das Speichern von Dateiformaten aus XML als MHTML ist eine komplexe Aufgabe. All
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API zum Speichern von XML als MHTML" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
-<li>Rufen Sie die Methode cellsSaveAsPostDocumentSaveAs auf, um den resultierenden Stream abzurufen</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Java API, um XML als MHTML zu speichern" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
+<li>Rufen Sie die Methode „cellsSaveAsPostDocumentSaveAs“ auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="System Anforderungen" >}}
 <li>Android 7 oder neuer</li>
-<li>Java(TM) SE Laufzeitumgebung</li>
+<li>Java(TM) SE-Laufzeitumgebung</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 
 {{< /blocks/products/cells/cells-cloud-section >}}

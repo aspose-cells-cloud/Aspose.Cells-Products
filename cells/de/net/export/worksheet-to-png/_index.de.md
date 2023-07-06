@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie das ARBEITSBLATT nach PNG aus der Tabelle mit C# API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabellenkalkulation nach PNG mit C# API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/net/export/worksheet-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Exportieren des ARBEITSBLATTS in die Datei PNG" h2="C#-Bibliothek zum Exportieren von WORKSHEET in die PNG-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTERN in eine Datei im PNG-Format aus einer Online-Tabelle unter Verwendung von C#." urlsection="export/worksheet-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um ARBEITSBLATT in die Datei PNG zu exportieren" h2="C#-Bibliothek zum Exportieren von ARBEITSBLATT in die Datei PNG" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Net zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTEN in eine Datei im Format PNG aus einer Online-Tabelle mit C#." urlsection="export/worksheet-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in die Formatdatei PNG in C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKSHEET-Objekts in die Datei PNG aus der Tabelle ist eine komplexe Aufgabe. Der Export von WORKSHEET in PNG-Formatübergänge wird von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle beibehalten wird. Unsere C#-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im PNG-Format zu exportieren. Dieses Cloud-SDK bietet C#-Entwicklern leistungsstarke Funktionen und eine perfekte PNG-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in die Datei PNG ist eine komplexe Aufgabe. Formatübergänge beim Exportieren von WORKSHEET in das PNG-Format werden von unserem C# SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im PNG-Format. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und eine perfekte PNG Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das PNG-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in C# mit REST API zum Exportieren von WORKSHEET in das PNG-Format aus der Tabellenkalkulation" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -44,9 +44,9 @@ Das Exportieren des WORKSHEET-Objekts in die Datei PNG aus der Tabelle ist eine 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um WORKSHEET nach PNG zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie C# API, um ARBEITSBLATT nach PNG zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die PostExport-Methode auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

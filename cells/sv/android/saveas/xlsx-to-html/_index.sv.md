@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som HTML API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Android för att spara XLSX-formatfil som HTML-fil.
 url: /sv/android/saveas/xlsx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

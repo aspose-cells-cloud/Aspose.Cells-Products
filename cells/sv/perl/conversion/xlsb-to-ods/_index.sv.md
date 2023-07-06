@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till ODS Konvertera API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera XLSB-formatfil till ODS-formatfil.
 url: /sv/perl/conversion/xlsb-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

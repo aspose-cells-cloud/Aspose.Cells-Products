@@ -1,6 +1,6 @@
 ﻿---
-title:  MHTML till PNG Konvertera API för NodeJS
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: MHTML till PNG Konvertera API för NodeJS
+description:  Använda Aspose.Cells Cloud SDK för NodeJS för att konvertera fil i MHTML-format till fil i PNG-format.
 url: /sv/nodejs/conversion/mhtml-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez XLTX sous XLT API pour Python
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLTX en tant que fichier au format XLT.
 url: /fr/python/saveas/xltx-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTX en tant que XLT" h2="Bibliothèque Python pour enregistrer XLTX en XLT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format XLT et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/xltx-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTX en tant que XLT" h2="Bibliothèque Python pour enregistrer XLTX en XLT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format XLT et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltx-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format XLT au Python" >}}

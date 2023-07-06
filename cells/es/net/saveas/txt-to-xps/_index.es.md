@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde TXT como XPS API para C#
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato TXT como archivo de formato XPS.
 url: /es/net/saveas/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

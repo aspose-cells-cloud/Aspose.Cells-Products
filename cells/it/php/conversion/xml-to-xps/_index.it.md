@@ -1,6 +1,6 @@
 ﻿---
-title: XML in XPS Converti API in PHP
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title:  XML in XPS Converti API in PHP
+description:  Utilizzo di Aspose.Cells Cloud SDK per PHP per convertire il file in formato XML nel file in formato XPS.
 url: /it/php/conversion/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

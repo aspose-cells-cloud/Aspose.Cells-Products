@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLS som CSV API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK for Java för att spara XLS-formatfil som CSV-formatfil.
 url: /sv/java/saveas/xls-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

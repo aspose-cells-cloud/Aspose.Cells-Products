@@ -1,6 +1,6 @@
 ﻿---
-title: PHP için XLTM'den MD'ye Dönüştürme API
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  PHP için XLTM'den MD'ye Dönüştürme API
+description:  XLTM biçim dosyasını MD biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/xltm-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

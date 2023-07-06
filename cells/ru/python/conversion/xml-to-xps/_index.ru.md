@@ -1,6 +1,6 @@
 ﻿---
-title: XML в XPS Преобразование API в Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  XML в XPS Преобразование API в Python
+description:  Использование Aspose.Cells Cloud SDK для Python для преобразования файла формата XML в файл формата XPS.
 url: /ru/python/conversion/xml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/conversion/xml-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XML в XPS в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в XPS — сложная задача. Все преобразования формата XML в формат XPS выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации XML в файлы XPS. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из XML в XPS — сложная задача. Все переходы между форматами XML и XPS выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации XML в файлы XPS. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XML в формат XPS" gistPath="" %}}

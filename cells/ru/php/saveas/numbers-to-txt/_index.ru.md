@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как TXT API для PHP
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата NUMBERS в формате TXT.
 url: /ru/php/saveas/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -31,7 +31,7 @@ url: /ru/php/saveas/numbers-to-txt/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для сохранения NUMBERS в формате TXT" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API, чтобы сохранить НОМЕРА как TXT" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод cellSaveAsPostDocumentSaveAs, чтобы получить результирующий поток</li>

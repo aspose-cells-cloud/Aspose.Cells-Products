@@ -1,10 +1,10 @@
 ﻿---
-title:  Удаление повторяющихся строк в локальной книге в облаке
-description: Облачные API и SDK для удаления повторяющихся строк в Microsoft Excel и OpenOffice Calc. Очистите повторяющиеся строки в локальных электронных таблицах с помощью облака Cells API. SDK поддерживает различные языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Удалите повторяющиеся строки в локальной книге с помощью Python в облаке
+description:  Облачные API и SDK для очистки повторяющихся строк в Microsoft Excel и OpenOffice Calc с Python. Удаление повторяющихся строк в локальных электронных таблицах с помощью облачного SDK Cells API для Python
 url: /ru/python/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Python Очистить, чтобы удалить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки повторяющихся строк в рабочих процессах локальных Microsoft Excel и электронных таблиц OpenOffice Calc в Python. Это профессиональное решение удаляет повторяющиеся строки в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Python." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для удаления повторяющихся строк в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Python Очистить, чтобы удалить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки повторяющихся строк в рабочих процессах локальных Microsoft Excel и электронных таблиц OpenOffice Calc в Python. Это профессиональное решение очищает повторяющиеся строки в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью Python ." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить повторяющиеся строки в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Python REST API" >}}

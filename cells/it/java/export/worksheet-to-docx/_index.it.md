@@ -1,10 +1,10 @@
 ﻿---
 title:  Esporta FOGLIO DI LAVORO in DOCX dal foglio di calcolo utilizzando Java API
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di file Excel e oggetti interni in tipi di file di formato. L'SDK supporta i tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di file in formato {0} in {1} utilizzando {2}.
 url: /it/java/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per esportare WORKSHEET in file DOCX" h2="Java libreria per esportare WORKSHEET in file DOCX" p="Usa Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Java. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato DOCX dal foglio di calcolo online utilizzando Java." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API per esportare WORKSHEET in file DOCX" h2="Java libreria per esportare WORKSHEET in file DOCX" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Java. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato DOCX dal foglio di calcolo online utilizzando Java." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato DOCX in Java" >}}

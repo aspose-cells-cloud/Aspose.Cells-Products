@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara BMP som FODS API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara BMP filformat som FODS format fil.
 url: /sv/python/saveas/bmp-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

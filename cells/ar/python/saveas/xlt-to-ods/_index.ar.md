@@ -1,10 +1,10 @@
 ﻿---
-title:  احفظ XLT كـ ODS API لـ Python
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLT كـ ODS API لـ Python
+description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق XLT كملف بتنسيق ODS.
 url: /ar/python/saveas/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة Python لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xlt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLT كمواد مستنفدة للأوزون" h2="مكتبة Python لحفظ XLT كـ ODS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLT على أنه ODS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xlt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLT كملف ODS في Python" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF إلى JPG - تحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق GIF إلى ملف بتنسيق JPG.
 url: /ar/android/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

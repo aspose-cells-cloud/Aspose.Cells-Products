@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX إلى BMP تحويل API لـ NodeJS
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTX إلى BMP تحويل API لـ NodeJS
+description:  استخدام Aspose.Cells Cloud SDK لـ NodeJS لتحويل ملف تنسيق XLTX إلى ملف بتنسيق BMP.
 url: /ar/nodejs/conversion/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

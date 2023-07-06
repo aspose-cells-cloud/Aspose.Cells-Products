@@ -1,6 +1,6 @@
 ﻿---
-title: XLSB a HTML Convertir API para PHP
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  XLSB a HTML Convertir API para PHP
+description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de formato XLSB a un archivo de formato HTML.
 url: /es/php/conversion/xlsb-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

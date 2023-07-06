@@ -1,14 +1,14 @@
 ﻿---
-title:  Proteger
-description:  Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Proteger con Android
+description:  Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital con Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/android/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteger" h2="Aspose.Cells Cloud SDK admite libros de trabajo de descifrado, cifrado y firma digital." p="Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteger con Android" h2="Aspose.Cells Cloud SDK admite libros de trabajo de descifrado, cifrado y firma digital." p="Aspose.Cells Cloud REST API admite libros de trabajo de descifrado, cifrado y firma digital con Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Proteger enlaces de extensión" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Proteger con enlaces de extensión de Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

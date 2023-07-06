@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX إلى PPTX قم بتحويل API لنظام Android
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لتحويل ملف تنسيق XLSX إلى ملف بتنسيق PPTX.
 url: /ar/android/conversion/xlsx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

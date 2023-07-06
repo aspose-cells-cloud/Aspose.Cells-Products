@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc di
 url: /sv/go/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Gå biblioteket till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med arbetsflöden för lösenord och digitala signaturfiler i Go. Detta professionella digitala signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord och digital signaturfil med hjälp av Go." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gå API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Gå biblioteket till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med arbetsflöden för lösenord och digitala signaturfiler i Go. Detta professionella digitala signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord och digital signaturfil med hjälp av Go." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Digital signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - Gå REST API" >}}

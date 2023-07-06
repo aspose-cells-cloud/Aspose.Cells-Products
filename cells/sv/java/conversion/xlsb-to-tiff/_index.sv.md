@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till TIFF Konvertera API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att konvertera fil i XLSB-format till fil i TIFF-format.
 url: /sv/java/conversion/xlsb-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

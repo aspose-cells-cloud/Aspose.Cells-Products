@@ -1,6 +1,6 @@
 ﻿---
-title:  Enregistrer TSV sous TXT API for Java
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Enregistrez TSV sous TXT API for Java
+description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format TSV en tant que fichier au format TXT.
 url: /fr/java/saveas/tsv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

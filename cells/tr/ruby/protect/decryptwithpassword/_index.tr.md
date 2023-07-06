@@ -1,10 +1,10 @@
 ﻿---
-title:  Yerel e-tabloların şifresini Cloud'da şifreyle çözün
+title: Yerel e-tabloların şifresini Cloud'da şifreyle çözün
 description:  Microsoft Excel ve OpenOffice Calc kilidi için Bulut API'leri ve SDK'lar. E-tabloların şifresi Cells Bulut API tarafından çözülür. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/ruby/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel şifresini çözmek için Ruby API ve şifreli OpenOffice Calc elektronik tablosu" h2="Yerel Microsoft Excel şifresini çözmek için Ruby kitaplığı ve şifreli OpenOffice Calc elektronik tablosu" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Ruby\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel şifresini çözmek için Ruby API ve şifreli OpenOffice Calc elektronik tablosu" h2="Yerel Microsoft Excel şifresini çözmek için Ruby kitaplığı ve şifreli OpenOffice Calc elektronik tablosu" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Ruby\'de parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Ruby kullanarak yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifrelerini çevrimiçi olarak şifrelerle çözer." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Ruby REST API" >}}

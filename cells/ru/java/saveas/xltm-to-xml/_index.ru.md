@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTM как XML API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLTM в виде файла формата XML.
 url: /ru/java/saveas/xltm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/xltm-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM в формате XML по адресу Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в формате XML — сложная задача. Все переходы формата XLTM в формат XML выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Java — это профессиональное решение для сохранения XLTM в виде файлов XML в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из XLTM в виде XML — сложная задача. Все переходы формата XLTM в формат XML выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Java — это профессиональное решение для сохранения XLTM в виде XML-файлов в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLTM в формате XML" gistPath="" %}}

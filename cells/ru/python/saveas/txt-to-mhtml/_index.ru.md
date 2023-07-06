@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните TXT как MHTML API для Python.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата TXT как файла формата MHTML.
 url: /ru/python/saveas/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

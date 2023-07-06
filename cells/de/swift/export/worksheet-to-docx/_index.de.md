@@ -1,19 +1,19 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT nach DOCX aus der Tabelle mit Swift API
-description: Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in Formatdateien. SDK unterstützt Arten von Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie ARBEITSBLATT aus der Tabelle mit Swift API nach DOCX
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/worksheet-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, um WORKSHEET in eine DOCX-Datei zu exportieren" h2="Swift-Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe für interne Objekte von Tabellenkalkulationen in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBLÄTTERN in DOCX-Formatdateien aus Tabellenkalkulationen online mit Swift." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Exportieren von ARBEITSBLATT in eine DOCX-Datei" h2="Swift-Bibliothek zum Exportieren von WORKSHEET in eine DOCX-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Swift zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine DOCX-Formatdatei aus einer Tabellenkalkulation online mit Swift." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im DOCX-Format in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkalkulation ist eine komplexe Aufgabe. Der Export von WORKSHEET in das DOCX-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKSHEET-Quelltabelle beibehalten wird. Unsere Swift-Bibliothek ist eine professionelle Lösung, um WORKSHEET-Objekte online in Dateien im DOCX-Format zu exportieren. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionen und eine perfekte DOCX-Ausgabe.
+Das Exportieren eines WORKSHEET-Objekts aus einer Tabellenkalkulation in eine DOCX-Datei ist eine komplexe Aufgabe. Übergänge zum Exportieren von WORKSHEET in das DOCX-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKSHEET-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKSHEET-Objekten in Dateien im DOCX-Format. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte DOCX-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKSHEET in das DOCX-Format aus der Tabelle" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKSHEET aus der Tabellenkalkulation in das DOCX-Format" gistPath="" %}}
   
 ```swift
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-swift/
@@ -55,9 +55,9 @@ Das Exportieren eines WORKSHEET-Objekts in eine DOCX-Datei aus einer Tabellenkal
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um WORKSHEET nach DOCX zu exportieren" >}}
-<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um kostenlose API Kontingent- und Autorisierungsdetails zu erhalten</li>
-<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und API-Version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="So verwenden Sie Swift API, um ARBEITSBLATT nach DOCX zu exportieren" >}}
+<li> Erstellen Sie ein Konto unter<a href="https://dashboard.aspose.cloud/">Armaturenbrett</a> um ein kostenloses API-Kontingent und Autorisierungsdetails zu erhalten</li>
+<li>Initialisieren Sie CellsApi mit Client-ID, Client-Geheimnis, Basis-URL und Version API</li>
 <li>Rufen Sie die Methode postExport auf, um den resultierenden Stream abzurufen</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

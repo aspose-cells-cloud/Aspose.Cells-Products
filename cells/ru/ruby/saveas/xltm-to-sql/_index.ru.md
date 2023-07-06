@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLTM как SQL API для Ruby
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XLTM в виде файла формата SQL.
 url: /ru/ruby/saveas/xltm-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как SQL" h2="Библиотека Ruby для сохранения XLTM как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как SQL и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xltm-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как SQL" h2="Библиотека Ruby для сохранения XLTM как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как SQL и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltm-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SQL в Ruby" >}}

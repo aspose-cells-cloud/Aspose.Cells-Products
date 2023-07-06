@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için HTML'i SVG API olarak kaydedin
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
 url: /tr/swift/saveas/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/html-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını Swift\'de SVG olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-HTML'deki dosya biçimlerini SVG olarak kaydetmek karmaşık bir iştir. HTML'den SVG'e tüm format geçişleri, kaynak HTML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, HTML'i çevrimiçi olarak SVG dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+HTML'deki dosya biçimlerini SVG olarak kaydetmek karmaşık bir iştir. HTML'den SVG'e tüm biçim geçişleri, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, HTML'i çevrimiçi olarak SVG dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="HTML\'i SVG formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title: TXT'yi XPS'e Perl için API'e dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title:  TXT'yi XPS'e Perl için API'e dönüştür
+description:  TXT biçim dosyasını XPS biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/txt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

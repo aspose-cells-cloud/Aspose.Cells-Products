@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG'den SXC'ye NodeJS için API'i Dönüştür
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: PNG'den SXC'ye NodeJS için API'i Dönüştür
+description:  PNG biçimindeki dosyayı SXC biçimindeki dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

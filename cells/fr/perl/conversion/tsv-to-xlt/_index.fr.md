@@ -1,6 +1,6 @@
 ﻿---
-title: Convertir TSV en XLT API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title:  Convertir TSV en XLT API pour Perl
+description: Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format TSV en fichier au format XLT.
 url: /fr/perl/conversion/tsv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

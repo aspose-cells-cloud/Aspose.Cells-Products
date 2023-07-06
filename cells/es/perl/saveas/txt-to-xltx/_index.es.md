@@ -1,6 +1,6 @@
 ﻿---
-title:  Guardar TXT como XLTX API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guardar TXT como XLTX API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato TXT como archivo de formato XLTX.
 url: /es/perl/saveas/txt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

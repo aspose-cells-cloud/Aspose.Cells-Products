@@ -1,10 +1,10 @@
 ﻿---
-title:  Decrittografa fogli di calcolo locali con password in Cloud
+title: Decrittografa fogli di calcolo locali con password in Cloud
 description:  API cloud e SDK per Microsoft Excel e sblocco di OpenOffice Calc. Fogli di calcolo decrittografati dal Cells Cloud API. L'SDK supporta tipi di linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/nodejs/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="Libreria NodeJS per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare i flussi di lavoro locali Microsoft Excel e OpenOffice Calc con password in NodeJS. Questa soluzione professionale decodifica il foglio di calcolo locale Microsoft Excel e OpenOffice Calc online con password utilizzando NodeJS." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="Libreria NodeJS per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" p="Utilizzare Cells Decrypt REST API per decrittografare i flussi di lavoro locali Microsoft Excel e OpenOffice Calc con password in NodeJS. Questa soluzione professionale decodifica il foglio di calcolo locale Microsoft Excel e OpenOffice Calc online con password utilizzando NodeJS." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Decrittografa il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password - NodeJS REST API" >}}

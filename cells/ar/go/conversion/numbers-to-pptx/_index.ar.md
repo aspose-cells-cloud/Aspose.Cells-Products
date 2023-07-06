@@ -1,10 +1,10 @@
 ﻿---
 title:  NUMBERS إلى PPTX حوّل API إلى Go
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق PPTX.
 url: /ar/go/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل الأرقام إلى PPTX" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل الأرقام إلى PPTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل الأرقام إلى PPTX" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل NUMBERS إلى PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى PPTX في Go" >}}

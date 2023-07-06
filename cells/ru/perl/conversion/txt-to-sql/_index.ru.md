@@ -1,6 +1,6 @@
 ﻿---
-title: Преобразование TXT в SQL API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title:  Преобразование TXT в SQL API для Perl
+description: Использование Aspose.Cells Cloud SDK для Perl для преобразования файла формата TXT в файл формата SQL.
 url: /ru/perl/conversion/txt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

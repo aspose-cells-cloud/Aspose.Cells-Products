@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить XLSX как ODS API для Python
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить XLSX как ODS API для Python
+description:  Использование Aspose.Cells Cloud SDK для Python для сохранения файла формата XLSX в качестве файла формата ODS.
 url: /ru/python/saveas/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/python/saveas/xlsx-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как ODS по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде ODS — сложная задача. Все переходы между форматами XLSX и ODS выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения XLSX в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из XLSX в виде ODS — сложная задача. Все переходы между форматами XLSX и ODS выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Python — это профессиональное решение для сохранения XLSX в виде файлов ODS в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XLSX в формате ODS" gistPath="" %}}

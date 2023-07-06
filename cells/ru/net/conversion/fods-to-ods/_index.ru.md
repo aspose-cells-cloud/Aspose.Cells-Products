@@ -1,5 +1,5 @@
 ﻿---
-title: Преобразование FODS в ODS via .NET
+title:  Преобразование FODS в ODS via .NET
 description: Создавайте, редактируйте или конвертируйте Excel файлы с помощью Cloud API и Open Source .NET SDK
 url: /ru/net/conversion/fods-to-ods/
 family: cells

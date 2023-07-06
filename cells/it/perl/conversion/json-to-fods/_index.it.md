@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON in FODS Converti API in Perl
-description:  API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per convertire il file in formato JSON in un file in formato FODS.
 url: /it/perl/conversion/json-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

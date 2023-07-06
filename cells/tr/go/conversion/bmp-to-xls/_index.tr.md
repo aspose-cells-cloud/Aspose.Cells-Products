@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP'i XLS'ye Dönüştür API for Go
-description:  Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: Aspose.Cells Cloud SDK for Go kullanılarak BMP biçimindeki dosyayı XLS biçimindeki dosyaya dönüştürün.
 url: /tr/go/conversion/bmp-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как TSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата GIF в формате файла TSV.
 url: /ru/nodejs/saveas/gif-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/gif-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате TSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов GIF в формате TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из GIF в виде TSV — сложная задача. Все переходы формата GIF в TSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов GIF в формате TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения GIF в формате TSV" gistPath="" %}}

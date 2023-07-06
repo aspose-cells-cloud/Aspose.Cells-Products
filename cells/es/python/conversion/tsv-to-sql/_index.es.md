@@ -1,6 +1,6 @@
 ﻿---
-title: TSV a SQL Convertir API para Python
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  TSV a SQL Convertir API para Python
+description: Usando Aspose.Cells Cloud SDK para Python para convertir un archivo de formato TSV a un archivo de formato SQL.
 url: /es/python/conversion/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

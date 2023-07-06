@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLS sous BMP API pour Go
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format XLS en tant que fichier au format BMP.
 url: /fr/go/saveas/xls-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

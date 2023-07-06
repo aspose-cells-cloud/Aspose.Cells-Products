@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLTX как MD API for Java
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLTX в качестве файла формата MD.
 url: /ru/java/saveas/xltx-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/java/saveas/xltx-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как MD в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде MD — сложная задача. Все переходы от формата XLTX к формату MD выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для сохранения XLTX в виде файлов MD в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат MD.
+Сохранение форматов файлов из XLTX в виде MD — сложная задача. Все переходы от формата XLTX к формату MD выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для сохранения XLTX в виде файлов MD в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLTX в формате MD" gistPath="" %}}

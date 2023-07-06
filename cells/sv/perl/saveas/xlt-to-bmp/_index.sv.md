@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLT som BMP API för Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använd Aspose.Cells Cloud SDK för Perl för att spara XLT-formatfil som BMP-fil.
 url: /sv/perl/saveas/xlt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

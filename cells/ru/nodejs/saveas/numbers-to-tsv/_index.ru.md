@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохранить NUMBERS как TSV API для NodeJS
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохранить NUMBERS как TSV API для NodeJS
+description:  Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата NUMBERS в виде файла формата TSV.
 url: /ru/nodejs/saveas/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/numbers-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как TSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде TSV — сложная задача. Все переходы NUMBERS в формат TSV выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
+Сохранение форматов файлов из NUMBERS в виде TSV — сложная задача. Все переходы NUMBERS в формат TSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде файлов TSV в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения NUMBERS в формате TSV" gistPath="" %}}

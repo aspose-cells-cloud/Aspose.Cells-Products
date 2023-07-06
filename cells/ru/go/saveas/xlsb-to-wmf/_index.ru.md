@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как WMF API для Go
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB в виде файла формата WMF.
 url: /ru/go/saveas/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/xlsb-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как WMF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде WMF — сложная задача. Все переходы форматов XLSB в WMF выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения XLSB в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод WMF.
+Сохранение форматов файлов из XLSB в виде WMF — сложная задача. Все переходы форматов XLSB в WMF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для сохранения файлов XLSB в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLSB в формате WMF" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Descifrar hojas de cálculo locales con contraseña en la nube
+title: Descifrar hojas de cálculo locales con contraseña en la nube
 description:  Desbloqueo de API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Hojas de cálculo descifradas por la nube Cells API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/protect/decrypt-with-password/
 ---

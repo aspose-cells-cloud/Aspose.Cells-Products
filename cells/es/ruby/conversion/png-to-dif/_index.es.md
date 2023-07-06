@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG a DIF Convertir API para Ruby
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato PNG a un archivo de formato DIF.
 url: /es/ruby/conversion/png-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir PNG a DIF" h2="Biblioteca Ruby para convertir PNG a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir PNG a DIF y otros formatos de documentos en línea usando Ruby." urlsection="conversion/png-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rubí API para convertir PNG a DIF" h2="Biblioteca Ruby para convertir PNG a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir PNG a DIF y otros formatos de documentos en línea usando Ruby." urlsection="conversion/png-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a DIF en Ruby" >}}

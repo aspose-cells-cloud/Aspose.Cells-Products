@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSX كـ XLSM API لـ C#
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSX كـ XLSM API لـ C#
+description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق XLSX كملف بتنسيق XLSM.
 url: /ar/net/saveas/xlsx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/saveas/xlsx-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX باسم XLSM في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX كـ XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XLSM بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبتنا C# هي حل احترافي لحفظ XLSX كملفات XLSM عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLSM مثالي.
+يعد حفظ تنسيقات الملفات من XLSX كـ XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى XLSM بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. تعد مكتبتنا C# حلاً احترافيًا لحفظ XLSX كملفات XLSM عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLSM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ XLSX بتنسيق XLSM" gistPath="" %}}

@@ -12,8 +12,8 @@ url: /ru/perl
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-perl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDk для Perl позволяет быстро разрабатывать конкурентоспособные облачные приложения Microsoft Excel и OpenOffice для создания электронных таблиц, чтения, слияния, разделения, шифрования и преобразования на языке программирования Perl. Aspose.Cells Cloud SDK для Perl создан на основе Aspose.Cells REST API. Наш Cells Cloud SDK распространяется под лицензией MIT.</p>
-<p>Aspose.Cells Cloud SDK для Perl позволяет вашему коду Perl получать доступ к облачным рабочим листам и изменять автоматические фильтры, рабочие книги, ячейки, столбцы, строки, диаграммы, фигуры, гиперссылки, условное форматирование, OleObjects, разрывы страниц, ListObjects, сводные таблицы, задачи и диапазоны . Включите программу Perl для преобразования XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS в DIF, PDF, XPS, TIFF, SVG, MD (Markdown), XML (SpreadsheetML), CSV, TSV, TXT (TabDelimited) , HTML и форматы MHTML.</p>
+<p>Aspose.Cells Cloud SDk для Perl позволяет быстро разрабатывать конкурентоспособные облачные приложения Microsoft Excel и OpenOffice для создания электронных таблиц, чтения, слияния, разделения, шифрования и преобразования на языке программирования Perl. Aspose.Cells Cloud SDK для Perl создан на основе Aspose.Cells REST API. Наш Cells Cloud SDK лицензирован MIT.</p>
+<p>Aspose.Cells Cloud SDK для Perl позволяет вашему коду Perl получать доступ к облачным рабочим листам и изменять автоматические фильтры, рабочие книги, ячейки, столбцы, строки, диаграммы, фигуры, гиперссылки, условное форматирование, OleObjects, разрывы страниц, ListObjects, сводные таблицы, задачи и диапазоны . Включите свою программу Perl для преобразования XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS TO DIF, PDF, XPS, TIFF, SVG, md (Marddown), Sclodesm (Sclodeml), Sprowd -Shiptmv (Sciestml), Scietml), Scietml (Scipeml), Scietshiptm (Sciet), Scietshiptm.shiptmvshipship. Битва) , HTML и форматы MHTML.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -42,7 +42,7 @@ url: /ru/perl
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
@@ -145,7 +145,7 @@ url: /ru/perl
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Удалить определенные или все объекты ListObject на листе
+ Удалить определенные или все объекты ListObject на листе
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +159,7 @@ url: /ru/perl
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">

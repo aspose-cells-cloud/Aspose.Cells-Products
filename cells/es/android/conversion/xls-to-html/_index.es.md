@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS a HTML Convertir API para Android
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLS a un archivo de formato HTML.
 url: /es/android/conversion/xls-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

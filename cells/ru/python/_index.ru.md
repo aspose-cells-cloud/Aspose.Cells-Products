@@ -13,8 +13,8 @@ url: /ru/python
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK For Python помогает разрабатывать облачные приложения для создания электронных таблиц, средства просмотра, слияния, разделения, шифрования и конвертирования на языке программирования Python. Aspose.Cells Cloud SDK для Python распространяется по лицензии MIT и работает на базе Aspose.Cells REST API.</p>
-<p>Aspose.Cells Cloud SDK для Python позволяет вашему коду Python выполнять функции от базового до расширенного уровня в Microsoft Excel и электронных таблицах OpenOffice, размещенных в облачном хранилище. Используйте вашу программу Python для работы со сводными таблицами, работы с XML (SpreadsheetML), чтения файлов Excel в облаке via Python, преобразования XLSX в HTML, CSV, PDF, XPS, MD (Markdown), DIF, TIFF и других поддерживаемых форматов.</p>
-<p>Aspose.Cells Cloud SDK для Python позволяет вашим Python программам создавать несколько электронных таблиц, управлять рабочими листами, рабочими книгами, настраивать листы, применять условное форматирование, управлять задачами, формулами, автофильтрами, Oleobjects, ListObjects и другими объектами электронных таблиц Excel без установки каких-либо сторонних программ. программное обеспечение.</p>
+<p>Aspose.Cells Cloud SDK для Python позволяет вашему коду Python выполнять функции от базового до расширенного уровня в Microsoft Excel и электронных таблицах OpenOffice, размещенных в облачном хранилище. Используйте вашу программу Python для работы со сводными таблицами, работы с XML (SpreadsheetML), чтения Excel файлов в облаке via Python, преобразования XLSX в HTML, CSV, PDF, XPS, MD (Markdown), DIF, 07611 23481 и другие поддерживаемые форматы файлов.</p>
+<p>Aspose.Cells Cloud SDK для Python позволяет программам Python создавать несколько электронных таблиц, управлять рабочими листами, рабочими книгами, настраивать листы, применять условное форматирование, управлять задачами, формулами, автофильтрами, Oleobjects, ListObjects и другими объектами электронных таблиц Excel без установки каких-либо сторонних программ. программное обеспечение.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -43,7 +43,7 @@ url: /ru/python
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells Форматы файлов, поддерживаемые облаком." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Ввод, вывод</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>ОпенОфис:</b> ОРВ</li>
 <li><b>Электронная таблицаML:</b> XML</li>
 <li><b>Текст:</b> CSV, TSV, TXT (с разделителями табуляции)</li>
@@ -146,7 +146,7 @@ url: /ru/python
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Удалить определенные или все объекты ListObject на листе
+ Удалить определенные или все объекты ListObject на листе
     </p>
    </div>
    <div class="col-lg-4">
@@ -160,7 +160,7 @@ url: /ru/python
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
+Суммируйте данные большого объекта ListObject или таблицы с помощью сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">

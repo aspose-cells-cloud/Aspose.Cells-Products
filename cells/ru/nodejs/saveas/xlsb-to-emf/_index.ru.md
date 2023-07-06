@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLSB как EMF API для NodeJS.
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для NodeJS для сохранения файла формата XLSB как файла формата EMF.
 url: /ru/nodejs/saveas/xlsb-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

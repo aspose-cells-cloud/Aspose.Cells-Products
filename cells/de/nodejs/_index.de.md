@@ -1,25 +1,25 @@
 ﻿---
-title:  Zugriff, Lesen und Verarbeiten von Cloud Excel-Dateien (via Node.js SDK)
-description:  Entwickeln Sie Microsoft Excel & OpenOffice Cloud-basierte Spreadsheet Viewer, Exporter & Konverter-Apps in Node.js via REST API
+title:  Auf Cloud-Excel-Dateien zugreifen, diese lesen und verarbeiten (via Node.js SDK)
+description:  Entwickeln Sie Microsoft Excel & OpenOffice cloudbasierte Tabellenkalkulations-Viewer-, Exporter- und Konverter-Apps in Node.js via REST API
 weight: 80
 url: /de/nodejs
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK zum Verarbeiten und Exportieren von Excel-Dateien" h2="Entwickeln Sie Microsoft Excel & OpenOffice Cloud-basierte Spreadsheet Viewer, Exporter & Konverter-Apps in Node.js via REST API." logoImageSrc="/headers/aspose_cells-for-node.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js REST SDK zum Verarbeiten und Exportieren von Excel-Dateien" h2="Entwickeln Sie Microsoft Excel & OpenOffice cloudbasierte Tabellenkalkulations-Viewer-, Exporter- und Konverter-Apps in Node.js via REST API." logoImageSrc="/headers/aspose_cells-for-node.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Node.js" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-node" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells Cloud SDK für Node.js ermöglicht es Ihren Cloud-basierten Anwendungen, Excel-Tabellen zu lesen, XLSX-Arbeitsmappen zu exportieren, Microsoft Excel- und OpenOffice-Dokumente in PDF, XPS, TIFF, Markdown (MD), DIF, SVG, XML (SpreadsheetML), CSV zu konvertieren , TSV, HTML und andere unterstützte Formate, ohne Software von Drittanbietern zu installieren.</p>
-<p>Aspose.Cells Cloud SDK für Node.js erhält seine robuste Funktionalität von zugrundeliegendem Aspose.Cells REST API und ermöglicht Ihrem Node.js-Code, mit Excel bedingter Formatierung, automatischen Filtern, automatischen Formen, Diagrammen, OleObjects, Seitenumbrüchen, ListObjects, Pivot-Tabellen zu arbeiten, Aufgaben und Reichweiten. Verwenden Sie einfache Node.js-Befehle, um XLS-, XLSX-, XLSB-, XLSM-, XLT-, XLTX-, XLTM- und ODS-Dateien programmgesteuert zu erstellen, zu aktualisieren, zu verschlüsseln, zusammenzuführen, mit einem Kennwort zu schützen, zu exportieren und in andere unterstützte Formate zu konvertieren.</p>
+<p>Aspose.Cells Cloud SDK für Node.js ermöglicht es Ihren cloudbasierten Anwendungen, Excel-Tabellen zu lesen, XLSX-Arbeitsmappen zu exportieren, Microsoft Excel & OpenOffice-Dokumente in PDF, XPS, TIFF, Markdown (MD), DIF, SVG, XML (Sp readsheetML), CSV , TSV, HTML und andere unterstützte Formate, ohne dass Software von Drittanbietern installiert werden muss.</p>
+<p>Aspose.Cells Cloud SDK für Node.js erhält seine robuste Funktionalität vom zugrunde liegenden Aspose.Cells REST API und ermöglicht die Arbeit Ihres Node.js-Codes mit Excel bedingter Formatierung, automatischen Filtern, automatischen Formen, Diagrammen, OleObjects, Seitenumbrüchen, ListObjects, Pivot-Tabellen, Aufgaben und Bereiche. Verwenden Sie einfache Node.js-Befehle, um XLS-, XLSX-, XLSB-, XLSM-, XLT-, XLTX-, XLTM- und ODS-Dateien programmgesteuert zu erstellen, zu aktualisieren, zu verschlüsseln, zusammenzuführen, mit einem Passwort zu schützen, zu exportieren und in andere unterstützte Formate zu konvertieren.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Aspose.Cells Cloud kann alle Tabellenbearbeitungsaufgaben ausführen." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Aspose.Cells Cloud kann alle Aufgaben zur Tabellenbearbeitung ausführen." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -39,18 +39,18 @@ url: /de/nodejs
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells Von der Cloud unterstützte Dateiformate." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells Cloud-unterstützte Dateiformate." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>OpenOffice:</b> ODS</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>TabellenkalkulationML:</b> XML</li>
 <li><b>Text:</b> CSV, TSV, TXT (Tabulatorgetrennt)</li>
 <li><b>Netz:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Nur Eingabe</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Abschlag)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -74,7 +74,7 @@ url: /de/nodejs
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Erweiterte Funktionen zum Bearbeiten von Excel-Tabellen
+ Erweiterte Funktionen zum Bearbeiten von Excel Tabellenkalkulationen
    </h2>
    <p>
    </p>
@@ -96,7 +96,7 @@ url: /de/nodejs
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rufen Sie Informationen zum Rand des Diagrammbereichs oder zum Füllformat ab
+ Informieren Sie sich über den Rahmen oder das Füllformat des Diagrammbereichs
     </p>
    </div>
    <div class="col-lg-4">
@@ -110,14 +110,14 @@ url: /de/nodejs
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Diagrammlegende abrufen, aktualisieren, ein- oder ausblenden
+ Diagrammlegende abrufen, aktualisieren, anzeigen oder ausblenden
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Abrufen, Aktualisieren, Diagrammtitel und Einstellen der Sichtbarkeit
+ Abrufen, Aktualisieren, Diagrammtitel und Festlegen der Sichtbarkeit
     </p>
    </div>
    <div class="col-lg-4">
@@ -138,35 +138,35 @@ url: /de/nodejs
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fügen Sie ein ListObject an der angegebenen Stelle in der Datei Excel hinzu
+ Fügen Sie an der angegebenen Stelle in der Datei Excel ein ListObject hinzu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
+ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Konvertieren Sie ListObject oder Tabelle in einen Zellbereich
+ Konvertieren Sie ein ListObject oder eine Tabelle in einen Zellbereich
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fassen Sie Daten von großen Listenobjekten oder Tabellen mit Pivot-Tabellen zusammen
+Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hinzufügen von OleObjects zum Arbeitsblatt Excel
+ Fügen Sie OleObjects zum Arbeitsblatt Excel hinzu
     </p>
    </div>
    <div class="col-lg-4">
@@ -187,7 +187,7 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Seiteneinrichtung, Kopfzeile &amp; Fusszeile
+ Seiteneinrichtung, Kopfzeile und Seiteneinteilung manipulieren. Fusszeile
     </p>
    </div>
    <div class="col-lg-4">
@@ -215,7 +215,7 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hinzufügen, Aktualisieren oder Löschen von Formen aus einem Arbeitsblatt
+ Fügen Sie Formen zu einem Arbeitsblatt hinzu, aktualisieren oder löschen Sie sie
     </p>
    </div>
    <div class="col-lg-4">
@@ -227,22 +227,22 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Erste Schritte mit Excel Spreadsheet Processing SDK
+ Beginnen Sie mit dem Excel Spreadsheet Processing SDK
     </h2>
     <p>
- Um mit Aspose.Cells Cloud SDK für Node.js zu beginnen, müssen Sie nichts installieren. Alles, was Sie tun müssen, ist ein Konto bei zu erstellen
+Um mit dem Aspose.Cells Cloud SDK für Node.js zu beginnen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>
-und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App SID &amp; Schlüssel können Sie Aspose.Cells Cloud SDK für Node.js auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Node.js bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Es ermöglicht Ihnen auch, Daten aus den Tabellenkalkulationen zur weiteren Verarbeitung oder Speicherung zu extrahieren.
+ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud SDK für Node.js auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK für Node.js bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Verarbeitung von Arbeitsmappen via Cloud SDK
+ Verarbeiten von Arbeitsmappen via Cloud SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK für Node.js ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, Passwortschutz, Exportieren in unterstützte Dateiformate, Lesen der Textelemente der Arbeitsmappe, automatisches Anpassen von Arbeitsmappenzeilen unter Ignorieren ausgeblendeter Elemente, Verschlüsseln des Arbeitsmappenpassworts und Bereitstellen Verschlüsselungsschlüssellänge, Daten in Arbeitsmappe importieren, alle Formeln in Arbeitsmappe berechnen, Formelberechnungseinstellungen durch Bereitstellung einer Präzisionsstrategie usw. festlegen, intelligente Markierung verwenden, Arbeitsmappe von Anforderungsinhalt in ein anderes Format konvertieren, Passwort anwenden, um Inhaltsänderungen zuzulassen.
+Aspose.Cells Cloud SDK für Node.js ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und das Bereitstellen Länge des Verschlüsselungsschlüssels, Daten in die Arbeitsmappe importieren, alle Formeln in der Arbeitsmappe berechnen, Formelberechnungseinstellungen durch Bereitstellung einer Präzisionsstrategie festlegen usw., Smart Marker verwenden, Arbeitsmappe vom Anforderungsinhalt in ein anderes Format konvertieren, Kennwort anwenden, um Inhaltsänderungen zu ermöglichen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -250,18 +250,18 @@ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App SID &amp; Schl
 Cloud SDK zum Verarbeiten von Arbeitsblättern
     </h2>
     <p>
-Mit Aspose.Cells Cloud SDK für Node.js können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zellendaten oder Zellstile anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, Zellformeln berechnen, Zellinhalte löschen und kopieren Zelle in eine andere Zelle kopieren, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle festlegen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
+Mit dem Cloud SDK Aspose.Cells für Node.js können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zellendaten oder den Zellenstil anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, die Zellformel berechnen, Zellinhalte löschen und kopieren Zelle in eine andere Zelle kopieren, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle setzen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Nutzen Sie die Leistungsfähigkeit von Pivot-Tabellen &amp; Bereiche
+ Nutzen Sie die Leistungsfähigkeit von Pivot Tables &amp; Bereiche
     </h2>
     <p>
- Aspose.Cells Cloud SDK für Node.js ermöglicht Ihnen das Hinzufügen einer Pivot-Tabelle zu einem Arbeitsblatt, das Hinzufügen oder Löschen von Pivot-Feldern zu einer Pivot-Tabelle, das Hinzufügen oder Entfernen von Pivot-Filtern für den Index der Pivot-Tabelle, das Aktualisieren des Zellenstils für die Pivot-Tabelle und das Berechnen der Daten der Pivot-Tabelle in Zellen .
+ Aspose.Cells Mit dem Cloud SDK für Node.js können Sie eine Pivot-Tabelle zum Arbeitsblatt hinzufügen, Pivot-Felder zur Pivot-Tabelle hinzufügen oder löschen, einen Pivot-Filter für den Pivot-Tabellenindex hinzufügen oder entfernen, den Zellenstil für die Pivot-Tabelle aktualisieren und die Daten der Pivot-Tabelle in Zellen berechnen .
     </p>
     <p>
-Aspose.Cells Cloud SDK für Node.js kann auch verwendet werden, um eine Zellenliste in einem Bereich nach Bereichsnamen oder Zeilenspaltenindizes abzurufen, die Spaltenbreite des Bereichs festzulegen, einen Zellbereich zu einer einzelnen Zelle zu kombinieren und den aktuellen Bereich in den Zielbereich zu verschieben , legt den Umrissrahmen um einen Bereich von Zellen fest, legt die Zeilenhöhe des Bereichs fest, legt den Stil des Bereichs fest, löst zusammengeführte Zellen dieses Bereichs, fügt einen Wert in den Bereich ein und konvertiert seinen Datentyp und kopiert den Bereich in das Arbeitsblatt.
+Aspose.Cells Cloud SDK für Node.js kann auch verwendet werden, um eine Zellenliste in einem Bereich nach Bereichsnamen oder Zeilenspaltenindizes abzurufen, die Spaltenbreite des Bereichs festzulegen, einen Zellbereich zu einer einzelnen Zelle zusammenzufassen und den aktuellen Bereich in den Zielbereich zu verschieben , legt den Umrissrahmen um einen Zellbereich fest, legt die Zeilenhöhe des Bereichs fest, legt den Stil des Bereichs fest, hebt zusammengeführte Zellen dieses Bereichs auf, fügt einen Wert in den Bereich ein und konvertiert seinen Datentyp und kopiert den Bereich im Arbeitsblatt.
     </p>
    </div>
   </div>
@@ -280,9 +280,9 @@ Aspose.Cells Cloud SDK für Node.js kann auch verwendet werden, um eine Zellenli
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.cloud/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells Cloud SDK für Node.js?" tabId="success-stories" >}}

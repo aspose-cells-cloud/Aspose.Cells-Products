@@ -1,10 +1,10 @@
 ﻿---
-title:  Enregistrez TSV sous ODS API pour Perl
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Enregistrez TSV sous ODS API pour Perl
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format TSV en tant que fichier au format ODS.
 url: /fr/perl/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer TSV comme ODS" h2="bibliothèque Perl pour enregistrer TSV en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/tsv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer TSV comme ODS" h2="bibliothèque Perl pour enregistrer TSV en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/tsv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV en tant qu\'ODS dans Perl" >}}

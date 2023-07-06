@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som HTML API för Python
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Python för att spara fil i MHTML-format som fil i HTML-format.
 url: /sv/python/saveas/mhtml-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

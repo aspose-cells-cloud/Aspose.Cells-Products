@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ XLSM كـ XLSX API لـ PHP
-description:  Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: احفظ XLSM كـ XLSX API لـ PHP
+description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق XLSM كملف بتنسيق XLSX.
 url: /ar/php/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

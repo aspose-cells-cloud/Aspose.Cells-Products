@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara JPG som SQL API for Java
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK for Java för att spara JPG-formatfil som SQL-formatfil.
 url: /sv/java/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

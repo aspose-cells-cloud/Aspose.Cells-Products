@@ -1,6 +1,6 @@
 ﻿---
-title: XLSX till TIFF Konvertera API till Perl
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  XLSX till TIFF Konvertera API till Perl
+description:  Använder Aspose.Cells Cloud SDK för Perl för att konvertera fil i XLSX-format till fil i TIFF-format.
 url: /sv/perl/conversion/xlsx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

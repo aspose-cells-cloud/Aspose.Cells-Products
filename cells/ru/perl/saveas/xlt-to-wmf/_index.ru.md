@@ -1,6 +1,6 @@
 ﻿---
-title:  Сохраните XLT как WMF API для Perl
-description:  Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Сохраните XLT как WMF API для Perl
+description:  Использование Aspose.Cells Cloud SDK для Perl для сохранения файла формата XLT в виде файла формата WMF.
 url: /ru/perl/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

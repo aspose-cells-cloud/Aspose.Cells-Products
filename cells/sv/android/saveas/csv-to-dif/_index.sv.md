@@ -1,6 +1,6 @@
 ﻿---
-title:  Spara CSV som DIF API för Android
-description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: Spara CSV som DIF API för Android
+description:  Använder Aspose.Cells Cloud SDK för Android för att spara CSV-formatfil som DIF-formatfil.
 url: /sv/android/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

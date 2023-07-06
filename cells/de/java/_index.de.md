@@ -1,26 +1,26 @@
 ﻿---
-title:  Erstellen und ändern Sie Excel-Tabellen in der Cloud (Java REST SDK)
-description:  Verwenden Sie cURL-Befehle zum Erstellen von Spreadsheet Creator- und Konverter-Apps, die auf Microsoft-Excel- und OpenOffice-Dateien aus dem Cloud-Speicher zur Verarbeitung zugreifen
+title:  Erstellen und Ändern von Excel-Tabellen in der Cloud (Java REST SDK)
+description:  Verwenden Sie die Befehle cURL, um Anwendungen zum Erstellen und Konvertieren von Tabellenkalkulationen zu erstellen, die zur Verarbeitung auf Microsoft Excel und OpenOffice-Dateien aus dem Cloud-Speicher zugreifen
 weight: 60
 url: /de/java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java SDK zum Erstellen und Ändern von Excel Dateien via REST API" h2="Bietet nahtlose Integration von Excel- und OpenOffice-Tabellenverarbeitungsfunktionen in Cloud-basierte Java-Anwendungen." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java SDK zum Erstellen und Ändern von Excel Dateien via REST API" h2="Bietet eine nahtlose Integration von Excel- und OpenOffice-Tabellenverarbeitungsfunktionen in cloudbasierte Java-Anwendungen." logoImageSrc="/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-java" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Es ermöglicht Ihrem Java-Programm, eine Excel-Arbeitsmappe aus einer Smart-Marker-Vorlage zu erstellen. Zusammenführen, Teilen, Verschlüsseln, Entschlüsseln und Anwenden von Passwörtern auf Excel-Arbeitsmappen in der Cloud. Berechnen Sie alle Formeln in einer Arbeitsmappe mit dem einfachen Java Code via Cloud SDK.</p>
-<p>Mit Aspose.Cells Cloud SDK for Java können Sie mit einfachen Java-Anweisungen Barcodes aus Arbeitsblattbildern extrahieren, verschiedene Arten von Filtern (Datumsfilter, Symbolfilter, dynamischer Filter) in einem Arbeitsblatt anwenden und mit allen oder einzelnen Zeilen, Spalten und Zellen darin arbeiten ein Arbeitsblatt.</p>
-<p>Sie können auch mit Microsoft Excel Diagrammen, bedingter Formatierung, Hyperlinks, ListObjects, OleObjects, Seitenumbrüchen, Seiteneinrichtung, Bildern, Pivot-Tabellen und der Verwaltung von Cloud-Dateien und -Ordnern arbeiten.</p>
+<p>Damit kann Ihr Java-Programm eine Excel-Arbeitsmappe aus einer Smart-Marker-Vorlage erstellen. Führen Sie Excel Arbeitsmappen in der Cloud zusammen, teilen Sie sie auf, verschlüsseln Sie sie, entschlüsseln Sie sie und wenden Sie ein Kennwort an. Berechnen Sie alle Formeln in einer Arbeitsmappe mit dem einfachen Cloud-SDK Java Code via.</p>
+<p>Mit Aspose.Cells Cloud SDK for Java können Sie mit einfachen Java-Anweisungen Barcodes aus Arbeitsblattbildern extrahieren, verschiedene Arten von Filtern (Datumsfilter, dynamischer Symbolfilter) in einem Arbeitsblatt anwenden und mit allen oder einzelnen Zeilen, Spalten und Zellen darin arbeiten ein Arbeitsblatt.</p>
+<p>Sie können auch mit Diagrammen, bedingter Formatierung, Hyperlinks, ListObjets, OleObjects, Seitenumbrüchen, Seiteneinrichtung, Bildern, Pivot-Tabellen und Cloud-Datei- und Ordnerverwaltung arbeiten.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Aspose.Cells Cloud kann alle Tabellenbearbeitungsaufgaben ausführen." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Aspose.Cells Cloud kann alle Aufgaben zur Tabellenbearbeitung ausführen." >}}
 <div class="diagram1 d1-cloud">
 <div class="d1-row">
 <div class="d1-col d1-left"> </div>
@@ -40,18 +40,18 @@ url: /de/java
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells Von der Cloud unterstützte Dateiformate." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells Cloud-unterstützte Dateiformate." >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b>XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input-Output</header><ul><li><b>Microsoft Excel:</b> XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM</li>
 <li><b>OpenOffice:</b> ODS</li>
-<li><b>SpreadsheetML:</b> XML</li>
+<li><b>TabellenkalkulationML:</b> XML</li>
 <li><b>Text:</b> CSV, TSV, TXT (Tabulatorgetrennt)</li>
 <li><b>Netz:</b> HTML, MHTML</li>
 </ul></div>
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Nur Eingabe</header><ul><li>SXC, FODS</li>
-</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Abschlag)</li>
+</ul><header><i class="fa  fa-mail-forward"> </i> Nur Ausgabe</header><ul><li>DIF, PDF, XPS, TIFF, SVG, MD (Markdown)</li>
 </ul></div>
 <!--/right--></div>
 <!--/row-->
@@ -97,7 +97,7 @@ url: /de/java
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rufen Sie Informationen zum Rand des Diagrammbereichs oder zum Füllformat ab
+ Informieren Sie sich über den Rahmen oder das Füllformat des Diagrammbereichs
     </p>
    </div>
    <div class="col-lg-4">
@@ -111,14 +111,14 @@ url: /de/java
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Diagrammlegende abrufen, aktualisieren, ein- oder ausblenden
+ Diagrammlegende abrufen, aktualisieren, anzeigen oder ausblenden
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Abrufen, Aktualisieren, Diagrammtitel und Einstellen der Sichtbarkeit
+ Abrufen, Aktualisieren, Diagrammtitel und Festlegen der Sichtbarkeit
     </p>
    </div>
    <div class="col-lg-4">
@@ -139,35 +139,35 @@ url: /de/java
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fügen Sie ein ListObject an der angegebenen Stelle in der Datei Excel hinzu
+ Fügen Sie an der angegebenen Stelle in der Datei Excel ein ListObject hinzu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
+ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Konvertieren Sie ListObject oder Tabelle in einen Zellbereich
+ Konvertieren Sie ein ListObject oder eine Tabelle in einen Zellbereich
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fassen Sie Daten von großen Listenobjekten oder Tabellen mit Pivot-Tabellen zusammen
+Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer Pivot-Tabelle zusammen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hinzufügen von OleObjects zum Arbeitsblatt Excel
+ Fügen Sie OleObjects zum Arbeitsblatt Excel hinzu
     </p>
    </div>
    <div class="col-lg-4">
@@ -188,7 +188,7 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Seiteneinrichtung, Kopfzeile &amp; Fusszeile
+ Seiteneinrichtung, Kopfzeile und Seiteneinteilung manipulieren. Fusszeile
     </p>
    </div>
    <div class="col-lg-4">
@@ -216,7 +216,7 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hinzufügen, Aktualisieren oder Löschen von Formen aus einem Arbeitsblatt
+ Fügen Sie Formen zu einem Arbeitsblatt hinzu, aktualisieren oder löschen Sie sie
     </p>
    </div>
    <div class="col-lg-4">
@@ -228,22 +228,22 @@ Löschen Sie bestimmte oder alle ListObjects in einem Arbeitsblatt
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Erste Schritte mit Excel Spreadsheet Processing SDK
+ Beginnen Sie mit dem Excel Spreadsheet Processing SDK
     </h2>
     <p>
- Um mit Aspose.Cells Cloud SDK for Java zu beginnen, müssen Sie nichts installieren. Alles, was Sie tun müssen, ist ein Konto bei zu erstellen
+ Um mit Aspose.Cells Cloud SDK for Java zu beginnen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>
-und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App SID &amp; Schlüssel können Sie Aspose.Cells Cloud SDK for Java auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK for Java bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Es ermöglicht Ihnen auch, Daten aus den Tabellenkalkulationen zur weiteren Verarbeitung oder Speicherung zu extrahieren.
+und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App-SID &amp; Mit dem Schlüssel können Sie Aspose.Cells Cloud SDK for Java auf jeder Plattform verwenden, die REST-APIs unterstützt. Aspose.Cells Cloud SDK for Java bietet Ihnen alle Funktionen zum Erstellen, Bearbeiten und Konvertieren von Tabellenkalkulationen. Außerdem können Sie Daten aus den Tabellenkalkulationen extrahieren, um sie weiter zu verarbeiten oder zu speichern.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Verarbeitung von Arbeitsmappen via Cloud SDK
+ Verarbeiten von Arbeitsmappen via Cloud SDK
     </h2>
     <p>
- Aspose.Cells Cloud SDK for Java ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, Passwortschutz, Exportieren in unterstützte Dateiformate, Lesen der Textelemente von Arbeitsmappen, automatisches Anpassen von Arbeitsmappenzeilen unter Ignorieren ausgeblendeter Elemente, Verschlüsseln von Arbeitsmappenkennwörtern und Bereitstellen von Verschlüsselungsschlüssellängen , Daten in die Arbeitsmappe importieren, alle Formeln in der Arbeitsmappe berechnen, Einstellungen für die Formelberechnung festlegen, indem Sie eine Präzisionsstrategie usw. bereitstellen, Smart Marker verwenden, die Arbeitsmappe vom angeforderten Inhalt in ein anderes Format konvertieren, ein Kennwort anwenden, um die Änderung des Inhalts zuzulassen.
+ Aspose.Cells Cloud SDK for Java ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen von Textelementen der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren ausgeblendeter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung der Länge des Verschlüsselungsschlüssels , Daten in die Arbeitsmappe importieren, alle Formeln in der Arbeitsmappe berechnen, Formelberechnungseinstellungen festlegen, indem Sie eine Präzisionsstrategie angeben usw., Smart Marker verwenden, Arbeitsmappe vom Anforderungsinhalt in ein anderes Format konvertieren, Kennwort anwenden, um Inhaltsänderungen zu ermöglichen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -251,18 +251,18 @@ und erhalten Sie Ihre Bewerbungsinformationen. Sobald Sie die App SID &amp; Schl
 Cloud SDK zum Verarbeiten von Arbeitsblättern
     </h2>
     <p>
-Mit Aspose.Cells Cloud SDK for Java können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zellendaten oder Zellenstile nach Zellennamen abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten nach ihrem Index lesen, Zellenformeln berechnen, Zelleninhalte löschen, Zellen in eine andere kopieren Zelle, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle festlegen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
+Mit Aspose.Cells Cloud SDK for Java können Sie eine bestimmte Zeile oder alle Zeilen im Arbeitsblatt löschen, Arbeitsblatt-Zelldaten oder den Zellenstil anhand des Zellennamens abrufen, Arbeitsblatt-Zeilen- oder -Spaltendaten anhand ihres Index lesen, die Zellformel berechnen, Zellinhalte löschen und eine Zelle in eine andere kopieren Zelle, Arbeitsblattspalten und -zeilen kopieren, Arbeitsblattzeilen und -spalten gruppieren, Arbeitsblattzeilen und -spalten ausblenden, Arbeitsblattspalten- und -zeilenstile festlegen, HTMLSTRING-Wert in Zelle festlegen, Zellbereichswert festlegen und viele andere Arbeitsblatteinstellungen ändern.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Nutzen Sie die Leistungsfähigkeit von Pivot-Tabellen &amp; Bereiche
+ Nutzen Sie die Leistungsfähigkeit von Pivot Tables &amp; Bereiche
     </h2>
     <p>
- Aspose.Cells Mit dem Cloud SDK for Java können Sie eine Pivot-Tabelle zu einem Arbeitsblatt hinzufügen, Pivot-Felder zu einer Pivot-Tabelle hinzufügen oder daraus löschen, einen Pivot-Filter für einen Pivot-Tabellenindex hinzufügen oder entfernen, den Zellenstil für eine Pivot-Tabelle aktualisieren und die Daten einer Pivot-Tabelle in Zellen berechnen.
+ Aspose.Cells Mit dem Cloud SDK for Java können Sie eine Pivot-Tabelle zum Arbeitsblatt hinzufügen, Pivot-Felder zur Pivot-Tabelle hinzufügen oder löschen, einen Pivot-Filter für den Pivot-Tabellenindex hinzufügen oder entfernen, den Zellenstil für die Pivot-Tabelle aktualisieren und die Daten der Pivot-Tabelle in Zellen berechnen.
     </p>
     <p>
-Aspose.Cells Cloud SDK for Java kann auch verwendet werden, um eine Zellenliste in einem Bereich nach Bereichsnamen oder Zeilenspaltenindizes abzurufen, die Spaltenbreite des Bereichs festzulegen, einen Zellbereich zu einer einzelnen Zelle zu kombinieren, den aktuellen Bereich in den Zielbereich zu verschieben und eine Gliederung festzulegen Rahmen um einen Bereich von Zellen., Zeilenhöhe des Bereichs festlegen, Stil des Bereichs festlegen, zusammengeführte Zellen dieses Bereichs aufheben, einen Wert in den Bereich einfügen und seinen Datentyp konvertieren und den Bereich in das Arbeitsblatt kopieren.
+Aspose.Cells Cloud SDK for Java kann auch verwendet werden, um eine Zellenliste in einem Bereich nach Bereichsnamen oder Zeilenspaltenindizes abzurufen, die Spaltenbreite des Bereichs festzulegen, einen Zellbereich zu einer einzelnen Zelle zusammenzufassen, den aktuellen Bereich in den Zielbereich zu verschieben und die Umrisse festzulegen Rahmen um einen Bereich von Zellen legen, Zeilenhöhe des Bereichs festlegen, Stil des Bereichs festlegen, zusammengeführte Zellen dieses Bereichs aufheben, einen Wert in den Bereich einfügen und seinen Datentyp konvertieren sowie den Bereich im Arbeitsblatt kopieren.
     </p>
    </div>
   </div>
@@ -281,9 +281,9 @@ Aspose.Cells Cloud SDK for Java kann auch verwendet werden, um eine Zellenliste 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.cloud/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.cloud/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.cloud/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.cloud" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells Cloud SDK for Java?" tabId="success-stories" >}}

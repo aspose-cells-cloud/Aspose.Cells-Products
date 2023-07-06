@@ -1,6 +1,6 @@
 ﻿---
-title:  Guarde XLSM como JSON API para Perl
-description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: Guarde XLSM como JSON API para Perl
+description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato XLSM como archivo de formato JSON.
 url: /es/perl/saveas/xlsm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

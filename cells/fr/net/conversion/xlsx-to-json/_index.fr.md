@@ -1,6 +1,6 @@
 ﻿---
-title:  XLSX en JSON Convertir API pour C#
-description:  API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: XLSX en JSON Convertir API pour C#
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLSX en fichier au format JSON.
 url: /fr/net/conversion/xlsx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
