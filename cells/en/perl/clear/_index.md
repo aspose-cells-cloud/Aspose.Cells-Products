@@ -1,14 +1,14 @@
 ---
-title: Clear objects with Perl 
-description: Aspose.Cells Cloud REST API supports clear inner objects in an Excel file with Perl. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Clear objects using Perl 
+description: Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using Perl. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /perl/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Clear objects with Perl" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file with Perl. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Clear objects using Perl" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports clear inner objects in an Excel file using Perl. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Clear objects with Perl Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Clear objects using Perl Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/perl/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

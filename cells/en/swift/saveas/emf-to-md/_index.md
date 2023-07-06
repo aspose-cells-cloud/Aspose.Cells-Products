@@ -1,6 +1,6 @@
 ---
 title: Save EMF as MD API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save EMF format file as MD format file. 
 url: /swift/saveas/emf-to-md/
 ---
 

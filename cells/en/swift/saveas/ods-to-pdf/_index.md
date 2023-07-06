@@ -1,6 +1,6 @@
 ---
 title: Save ODS as PDF API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save ODS format file as PDF format file. 
 url: /swift/saveas/ods-to-pdf/
 ---
 

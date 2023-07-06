@@ -1,6 +1,6 @@
 ---
 title: NUMBERS to JSON Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert NUMBERS format file to JSON format file. 
 url: /swift/conversion/numbers-to-json/
 ---
 

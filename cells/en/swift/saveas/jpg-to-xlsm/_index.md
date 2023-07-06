@@ -1,6 +1,6 @@
 ---
 title: Save JPG as XLSM API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save JPG format file as XLSM format file. 
 url: /swift/saveas/jpg-to-xlsm/
 ---
 

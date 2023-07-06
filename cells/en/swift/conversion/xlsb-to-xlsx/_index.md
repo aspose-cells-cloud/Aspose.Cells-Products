@@ -1,6 +1,6 @@
 ---
 title: XLSB to XLSX Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert XLSB format file to XLSX format file. 
 url: /swift/conversion/xlsb-to-xlsx/
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: Protect 
-description: Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Protect using Swift 
+description: Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks using Swift. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protect" h2="Aspose.Cells Cloud SDK supports decryption, encryption, and digital signature workbooks." p="Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protect using Swift" h2="Aspose.Cells Cloud SDK supports decryption, encryption, and digital signature workbooks." p="Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks using Swift. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protect Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protect using Swift Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/swift/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

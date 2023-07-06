@@ -1,6 +1,6 @@
 ---
 title: Save TXT as XLSM API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save TXT format file as XLSM format file. 
 url: /swift/saveas/txt-to-xlsm/
 ---
 

@@ -6,7 +6,7 @@ url: /swift/clear/content/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear content on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear content on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear content on local Microsoft Excel and OpenOffice Calc spreadsheet - Swift REST API" >}}

@@ -1,6 +1,6 @@
 ---
 title: JSON to BMP Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert JSON format file to BMP format file. 
 url: /swift/conversion/json-to-bmp/
 ---
 

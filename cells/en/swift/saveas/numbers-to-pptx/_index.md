@@ -1,6 +1,6 @@
 ---
 title: Save NUMBERS as PPTX API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save NUMBERS format file as PPTX format file. 
 url: /swift/saveas/numbers-to-pptx/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: MHTML to MD Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert MHTML format file to MD format file. 
 url: /swift/conversion/mhtml-to-md/
 ---
 

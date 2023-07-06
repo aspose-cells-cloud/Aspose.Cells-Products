@@ -1,6 +1,6 @@
 ---
 title: BMP to CSV Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert BMP format file to CSV format file. 
 url: /swift/conversion/bmp-to-csv/
 ---
 

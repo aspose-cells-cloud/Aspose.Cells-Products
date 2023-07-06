@@ -1,6 +1,6 @@
 ---
 title: Save XLTM as BMP API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save XLTM format file as BMP format file. 
 url: /swift/saveas/xltm-to-bmp/
 ---
 

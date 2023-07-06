@@ -6,7 +6,7 @@ url: /swift/clear/list-objects/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet - Swift REST API" >}}

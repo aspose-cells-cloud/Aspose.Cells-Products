@@ -6,7 +6,7 @@ url: /swift/clear/blank-columns/
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Swift Clear to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Swift. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet - Swift REST API" >}}

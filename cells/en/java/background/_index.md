@@ -1,14 +1,14 @@
 ---
-title: Set background with Java 
-description: Aspose.Cells Cloud REST API supports set background for Excel file with Java. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Set background using Java 
+description: Aspose.Cells Cloud REST API supports set background for Excel file using Java. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /java/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Set background with Java" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file with Java. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Set background using Java" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file using Java. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Set background with Java Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Set background using Java Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/java/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

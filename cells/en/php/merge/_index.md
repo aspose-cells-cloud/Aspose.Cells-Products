@@ -1,10 +1,10 @@
 ---
-title: Merge with PHP 
-description: Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file with PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
+title: Merge using PHP 
+description: Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file using PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
 url: /php/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Merge with PHP" h2="Aspose.Cells Cloud SDK supports merge multiple Excel files into an Excel file.." p="Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file with PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Merge using PHP" h2="Aspose.Cells Cloud SDK supports merge multiple Excel files into an Excel file.." p="Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file using PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /php/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Merge with PHP Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Merge using PHP Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/php/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

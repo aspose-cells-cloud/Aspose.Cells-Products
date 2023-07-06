@@ -1,6 +1,6 @@
 ---
 title: PNG to WMF Convert API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to convert PNG format file to WMF format file. 
 url: /swift/conversion/png-to-wmf/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Save CSV as PNG API for Swift 
-description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc. Convert spreadsheet to other format file. 
+description: Using Aspose.Cells Cloud SDK for Swift to save CSV format file as PNG format file. 
 url: /swift/saveas/csv-to-png/
 ---
 
