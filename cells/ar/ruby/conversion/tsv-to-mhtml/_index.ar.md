@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى MHTML - تحويل API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق TSV إلى ملف بتنسيق MHTML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف TSV إلى ملف بتنسيق MHTML.
 url: /ar/ruby/conversion/tsv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

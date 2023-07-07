@@ -10,7 +10,7 @@ url: /tr/ruby/conversion/numbers-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Ruby\'de FODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini NUMBERS'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan FODS'ye format geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya biçimlerini NUMBERS'den FODS'ye dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan FODS'ye biçim geçişleri, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi olarak FODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NUMBERS\'i FODS formatına dönüştürmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

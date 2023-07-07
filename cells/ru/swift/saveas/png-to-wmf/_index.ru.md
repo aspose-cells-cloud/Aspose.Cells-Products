@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как WMF API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG в виде файла формата WMF.
 url: /ru/swift/saveas/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

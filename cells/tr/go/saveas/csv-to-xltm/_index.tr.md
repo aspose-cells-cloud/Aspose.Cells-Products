@@ -10,7 +10,7 @@ url: /tr/go/saveas/csv-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir CSV dosyasını Go\'da XLTM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini CSV'den XLTM olarak kaydetmek karmaşık bir iştir. Tüm CSV'den XLTM formatına geçişler, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+Dosya biçimlerini CSV'den XLTM olarak kaydetmek karmaşık bir görevdir. Tüm CSV'den XLTM formatına geçişler, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="CSV\'yi XLTM biçiminde kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

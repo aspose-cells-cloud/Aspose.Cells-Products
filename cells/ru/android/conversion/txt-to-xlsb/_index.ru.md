@@ -10,7 +10,7 @@ url: /ru/android/conversion/txt-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в XLSB в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в XLSB — сложная задача. Все переходы формата TXT в формат XLSB выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TXT в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
+Преобразование форматов файлов из TXT в XLSB — сложная задача. Все переходы между форматами TXT и XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TXT в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования TXT в формат XLSB" gistPath="" %}}

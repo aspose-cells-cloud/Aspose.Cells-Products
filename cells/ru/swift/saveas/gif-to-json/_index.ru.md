@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как JSON API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата GIF в виде файла формата JSON.
 url: /ru/swift/saveas/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/gif-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как JSON в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде JSON — сложная задача. Все переходы формата GIF в формат JSON выполняются нашим Swift SDK с сохранением основного структурного и логического содержания исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для сохранения файлов GIF в формате JSON в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из GIF в виде JSON — сложная задача. Все переходы формата GIF в формат JSON выполняются нашим Swift SDK с сохранением основного структурного и логического содержания исходной электронной таблицы GIF. Наша библиотека Swift — это профессиональное решение для сохранения файлов GIF в формате JSON онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения GIF в формате JSON" gistPath="" %}}

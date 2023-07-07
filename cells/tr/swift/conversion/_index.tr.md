@@ -1,10 +1,10 @@
 ﻿---
-title:  Dönüştürmek
-description:  Aspose.Cells Cloud REST API, excel dosyalarının farklı biçim dosyalarına dönüştürülmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Swift kullanarak dönüştürme
+description: Aspose.Cells Cloud REST API, Excel dosyalarının Swift kullanılarak farklı biçim dosyalarına dönüştürülmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/swift/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Dönüştürmek" h2="Aspose.Cells Cloud SDK, dosya biçimi dönüştürmeyi destekler. Desteklenen dosya biçimi 30\'dan fazla dosya biçimine sahiptir." p="Aspose.Cells Cloud REST API, excel dosyalarının farklı biçim dosyalarına dönüştürülmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift kullanarak dönüştürme" h2="Aspose.Cells Cloud SDK, dosya biçimi dönüştürmeyi destekler. Desteklenen dosya biçimi 30\'dan fazla dosya biçimine sahiptir." p="Aspose.Cells Cloud REST API, Excel dosyalarının Swift kullanılarak farklı biçim dosyalarına dönüştürülmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /tr/swift/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Bulut SDK'sı</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Dönüşüm Uzantısı bağlantıları" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Swift Uzantısı bağlantılarını kullanarak dönüştürme" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

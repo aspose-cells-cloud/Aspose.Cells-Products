@@ -1,14 +1,14 @@
 ﻿---
-title:  Définir l'arrière-plan avec Python
-description:  Aspose.Cells Cloud REST API prend en charge l'arrière-plan défini pour le fichier Excel avec Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Définir l'arrière-plan à l'aide de Python
+description:  Aspose.Cells Cloud REST API prend en charge l'arrière-plan défini pour le fichier Excel à l'aide de Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/python/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir l\'arrière-plan avec Python" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge l\'arrière-plan défini pour le fichier Excel avec Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir l\'arrière-plan à l\'aide de Python" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge l\'arrière-plan défini pour le fichier Excel à l\'aide de Python. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Définir l\'arrière-plan avec les liens d\'extension Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Définir l\'arrière-plan à l\'aide des liens d\'extension Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف 
 url: /ar/python/saveas/bmp-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ BMP بتنسيق DOCX" h2="مكتبة Python لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/bmp-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ BMP بتنسيق DOCX" h2="مكتبة Python لحفظ BMP كـ DOCX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ BMP بتنسيق DOCX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/bmp-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بتنسيق DOCX في Python" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için SXC'den CSV'ye Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını CSV biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei i
 url: /de/ruby/saveas/html-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um HTML als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von HTML als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von HTML als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/html-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um HTML als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von HTML als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um HTML als ODS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/html-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine HTML-Datei als ODS in Ruby" >}}

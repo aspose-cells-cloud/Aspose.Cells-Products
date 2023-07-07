@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB in MD Konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLSB-Formatdatei in eine MD-Formatdatei.
 url: /de/swift/conversion/xlsb-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

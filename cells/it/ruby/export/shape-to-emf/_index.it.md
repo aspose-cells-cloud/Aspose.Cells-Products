@@ -10,7 +10,7 @@ url: /it/ruby/export/shape-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto SHAPE nel file in formato EMF in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto SHAPE nel file EMF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da SHAPE a EMF viene eseguita dal nostro SDK Ruby mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti SHAPE in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output EMF perfetto.
+Esportare l'oggetto SHAPE nel file EMF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni di formato da SHAPE a EMF viene eseguita dal nostro Ruby SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti SHAPE in file in formato EMF online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output EMF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per esportare SHAPE nel formato EMF dal foglio di calcolo" gistPath="" %}}

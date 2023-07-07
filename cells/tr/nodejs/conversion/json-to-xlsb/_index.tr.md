@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/json-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını NodeJS\'de XLSB\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini JSON'dan XLSB'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan XLSB'ye biçim geçişleri, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, JSON'u çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
+Dosya biçimlerini JSON'dan XLSB'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan XLSB'ye biçim geçişleri, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, JSON'u çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u XLSB formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

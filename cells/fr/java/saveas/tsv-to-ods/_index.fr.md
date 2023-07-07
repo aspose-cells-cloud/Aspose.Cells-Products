@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le
 url: /fr/java/saveas/tsv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer TSV comme ODS" h2="bibliothèque Java pour enregistrer TSV en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/tsv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer TSV comme ODS" h2="bibliothèque Java pour enregistrer TSV en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Java." urlsection="saveas/tsv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV en tant qu\'ODS dans Java" >}}

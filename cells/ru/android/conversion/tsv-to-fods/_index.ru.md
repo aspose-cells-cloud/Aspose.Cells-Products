@@ -10,7 +10,7 @@ url: /ru/android/conversion/tsv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в FODS на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в FODS — сложная задача. Все переходы между форматами TSV и FODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в FODS. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
+Преобразование форматов файлов из TSV в FODS — сложная задача. Все переходы форматов TSV в FODS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов TSV в FODS. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования TSV в формат FODS" gistPath="" %}}

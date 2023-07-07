@@ -10,7 +10,7 @@ url: /ru/php/saveas/mhtml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как WMF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из MHTML в виде WMF — сложная задача. Все переходы форматов MHTML в WMF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения MHTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения MHTML в формате WMF" gistPath="" %}}

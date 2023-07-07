@@ -10,7 +10,7 @@ url: /ar/perl/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Perl REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية و API مثالي.
+تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Perl SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية و API مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl كود لجداول بيانات سحابة التشفير" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Examples-Perl-Workbook-EncryptWorkbook-1.pl" %}}

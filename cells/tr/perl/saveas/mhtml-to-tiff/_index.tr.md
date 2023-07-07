@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi TIFF API olarak kaydedin
+title:  MHTML'yi Perl için TIFF API olarak kaydedin
 description:  MHTML biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-tiff/
 ---

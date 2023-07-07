@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xltx-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в CSV в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в CSV — сложная задача. Все переходы из формата XLTX в формат CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLTX в CSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
+Преобразование форматов файлов из XLTX в CSV — сложная задача. Все переходы из формата XLTX в формат CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержания исходной электронной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLTX в CSV. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLTX в формат CSV" gistPath="" %}}

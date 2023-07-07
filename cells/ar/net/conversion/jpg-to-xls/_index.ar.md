@@ -10,7 +10,7 @@ url: /ar/net/conversion/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى XLS في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة C# SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبتنا C# هي حل احترافي لتحويل ملفات JPG إلى XLS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLS مثالي.
+يعد تحويل تنسيقات الملفات من JPG إلى XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. مكتبتنا C# هي حل احترافي لتحويل ملفات JPG إلى XLS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل JPG إلى تنسيق XLS" gistPath="" %}}

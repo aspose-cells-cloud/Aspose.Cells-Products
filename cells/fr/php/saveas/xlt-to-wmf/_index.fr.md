@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLT sous WMF API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLT en tant que fichier au format WMF.
+description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XLT en tant que fichier au format WMF.
 url: /fr/php/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

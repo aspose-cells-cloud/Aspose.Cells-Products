@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/ods-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLSX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде XLSX — сложная задача. Все переходы от формата ODS к формату XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Сохранение форматов файлов из ODS в виде XLSX — сложная задача. Все переходы формата ODS в формат XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов XLSX в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения ODS в формате XLSX" gistPath="" %}}

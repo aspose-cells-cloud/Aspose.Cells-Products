@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xltm-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в GIF — сложная задача. Все переходы между форматами XLTM и GIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTM в GIF. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
+Преобразование форматов файлов из XLTM в GIF — сложная задача. Все переходы между форматами XLTM и GIF выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTM в GIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLTM в формат GIF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить НОМЕРА как BMP API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата NUMBERS как файла формата BMP.
 url: /ru/swift/saveas/numbers-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/numbers-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как BMP в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как BMP — сложная задача. Все переходы формата NUMBERS в формат BMP выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения файлов NUMBERS в формате BMP онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод BMP.
+Сохранение форматов файлов из NUMBERS как BMP — сложная задача. Все переходы форматов NUMBERS в BMP выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Swift — это профессиональное решение для сохранения файлов NUMBERS в формате BMP онлайн. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения NUMBERS в формате BMP" gistPath="" %}}

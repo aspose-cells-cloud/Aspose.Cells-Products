@@ -10,7 +10,7 @@ url: /ru/python/export/chart-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта CHART в файл формата WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта CHART в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов CHART в формат WMF выполняется нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека Python — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Экспорт объекта CHART в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов CHART в формат WMF выполняется нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы CHART. Наша библиотека Python — это профессиональное решение для онлайн-экспорта объектов CHART в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для экспорта CHART в формат WMF из электронной таблицы" gistPath="" %}}

@@ -7,7 +7,7 @@ url: /fr/android/saveas/xltm-to-wmf/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTM en WMF" h2="Bibliothèque Android pour enregistrer XLTM en WMF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format WMF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format WMF sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format WMF dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers de XLTM au format WMF est une tâche complexe. Toutes les transitions de format XLTM vers WMF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format WMF. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie WMF parfaite.

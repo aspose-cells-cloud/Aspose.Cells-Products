@@ -217,7 +217,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de trabajo
+ Agregar, actualizar o eliminar formas de una hoja de cálculo
     </p>
    </div>
    <div class="col-lg-4">

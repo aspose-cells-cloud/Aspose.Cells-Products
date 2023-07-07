@@ -1,10 +1,10 @@
 ﻿---
-title:  Guardar como con Perl
-description:  Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato con Perl. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Guardar como usando Perl
+description:  Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato utilizando Perl. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/perl/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar como con Perl" h2="Aspose.Cells Cloud SDK admite guardar libros de trabajo en otros formatos. Los formatos de archivo admitidos tienen más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato con Perl. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar como usando Perl" h2="Aspose.Cells Cloud SDK admite guardar libros de trabajo en otros formatos. Los formatos de archivo admitidos tienen más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato utilizando Perl. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /es/perl/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Guardar como con Perl Enlaces de extensión" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Guardar como usando Perl Enlaces de extensión" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

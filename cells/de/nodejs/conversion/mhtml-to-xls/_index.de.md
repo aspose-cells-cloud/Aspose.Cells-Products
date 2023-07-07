@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML zu XLS Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer MHTML-Formatdatei in eine XLS-Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um eine MHTML-Formatdatei in eine XLS-Formatdatei zu konvertieren.
 url: /de/nodejs/conversion/mhtml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

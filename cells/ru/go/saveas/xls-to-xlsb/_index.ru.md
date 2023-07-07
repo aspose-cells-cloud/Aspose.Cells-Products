@@ -10,7 +10,7 @@ url: /ru/go/saveas/xls-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как XLSB в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в XLSB — сложная задача. Все переходы между форматами XLS и XLSB выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате XLSB онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из XLS в XLSB — сложная задача. Все переходы между форматами XLS и XLSB выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLS. Наша библиотека Go — это профессиональное решение для сохранения файлов XLS в формате XLSB онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLS в формате XLSB" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLTX unter TIFF API für C#
+title:  Speichern Sie XLTX als TIFF API für C#
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im XLTX-Format als Datei im Format TIFF zu speichern.
 url: /de/net/saveas/xltx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als TIFF zu speichern" h2="C#-Bibliothek, um XLTX als TIFF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX unter TIFF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als TIFF zu speichern" h2="C#-Bibliothek, um XLTX als TIFF zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX als TIFF und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei unter TIFF in C#" >}}

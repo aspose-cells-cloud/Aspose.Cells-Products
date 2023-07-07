@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSM als XLTX API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die XLSM-Formatdatei als XLTX-Formatdatei zu speichern.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von XLSM-Formatdateien als XLTX-Formatdateien.
 url: /de/ruby/saveas/xlsm-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

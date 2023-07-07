@@ -4,13 +4,13 @@ description: Использование Aspose.Cells Cloud SDK для PHP для
 url: /ru/php/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования GIF в JPG" h2="PHP библиотека для преобразования GIF в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации GIF в JPG и другие форматы документов с использованием PHP." urlsection="conversion/gif-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования GIF в JPG" h2="PHP библиотека для преобразования GIF в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации GIF в JPG и другие форматы документов с использованием PHP." urlsection="conversion/gif-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте GIF-файл в JPG по номеру PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в JPG — сложная задача. Все переходы формата GIF в JPG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов GIF в JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из GIF в JPG — сложная задача. Все переходы формата GIF в JPG выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов GIF в JPG. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования GIF в формат JPG" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/gif-to-jpg/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования GIF в JPG" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

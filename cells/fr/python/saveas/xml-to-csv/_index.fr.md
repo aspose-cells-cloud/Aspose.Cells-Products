@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrer XML au format CSV API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XML en tant que fichier au format CSV.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XML en tant que fichier au format CSV.
 url: /fr/python/saveas/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

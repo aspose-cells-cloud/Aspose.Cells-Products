@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بت
 url: /ar/net/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ TSV على هيئة XML" h2="C# مكتبة لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ TSV كـ XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لحفظ TSV على هيئة XML" h2="مكتبة C# لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Net. هذا حل احترافي لحفظ TSV كـ XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام C#." urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق XML في C#" >}}

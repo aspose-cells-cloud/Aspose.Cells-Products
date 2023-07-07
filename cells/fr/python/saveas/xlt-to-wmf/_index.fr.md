@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLT sous WMF API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLT en tant que fichier au format WMF.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLT en tant que fichier au format WMF.
 url: /fr/python/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

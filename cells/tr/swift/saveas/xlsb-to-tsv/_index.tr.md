@@ -1,10 +1,10 @@
 ﻿---
 title:  XLSB'yi Swift için TSV API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLSB biçim dosyasını TSV biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/saveas/xlsb-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB\'yi TSV olarak kaydetmek için Swift API" h2="XLSB\'yi TSV olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XLSB\'yi Swift kullanarak çevrimiçi olarak TSV ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLSB\'yi TSV olarak kaydetmek için Swift API" h2="XLSB\'yi TSV olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XLSB\'yi Swift kullanarak çevrimiçi olarak TSV ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xlsb-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını Swift\'de TSV olarak kaydedin" >}}

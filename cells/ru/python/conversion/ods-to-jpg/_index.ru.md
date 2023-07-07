@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования ODS в JPG" h2="Python библиотека для преобразования ODS в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации ODS в JPG и другие форматы документов с использованием Python." urlsection="conversion/ods-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования ODS в JPG" h2="Python библиотека для преобразования ODS в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации ODS в JPG и другие форматы документов с использованием Python." urlsection="conversion/ods-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в JPG в Python" >}}

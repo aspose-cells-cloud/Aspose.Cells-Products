@@ -1,6 +1,6 @@
 ﻿---
 title:  مسح الخلفية في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/go/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

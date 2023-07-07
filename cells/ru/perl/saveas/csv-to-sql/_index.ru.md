@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/saveas/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения CSV как SQL" h2="Perl библиотека для сохранения CSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения CSV в виде SQL и других форматов документов в Интернете с использованием Perl." urlsection="saveas/csv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения CSV как SQL" h2="Perl библиотека для сохранения CSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения CSV как SQL и других форматов документов в Интернете с использованием Perl." urlsection="saveas/csv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV как SQL в Perl." >}}

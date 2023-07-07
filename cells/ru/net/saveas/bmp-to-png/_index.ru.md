@@ -10,7 +10,7 @@ url: /ru/net/saveas/bmp-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как PNG в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения файлов BMP как PNG онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение форматов файлов с BMP как PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения файлов BMP как PNG онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения BMP в формате PNG" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS بتنسيق JPG API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLS كملف بتنسيق JPG.
 url: /ar/swift/saveas/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

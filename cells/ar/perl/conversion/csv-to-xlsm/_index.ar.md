@@ -4,7 +4,7 @@ description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف
 url: /ar/perl/conversion/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل CSV إلى XLSM" h2="Perl مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل CSV إلى XLSM" h2="Perl مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى XLSM في Perl" >}}

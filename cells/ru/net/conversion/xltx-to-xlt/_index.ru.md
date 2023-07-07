@@ -10,7 +10,7 @@ url: /ru/net/conversion/xltx-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в XLT в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в XLT — сложная задача. Все переходы формата XLTX в формат XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTX в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Преобразование форматов файлов из XLTX в XLT — сложная задача. Все переходы от формата XLTX к формату XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLTX в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLTX в формат XLT" gistPath="" %}}

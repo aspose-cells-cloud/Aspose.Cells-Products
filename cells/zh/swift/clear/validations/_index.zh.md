@@ -4,7 +4,7 @@ description: 用于在 Microsoft Excel 和 OpenOffice Calc 上进行清除验证
 url: /zh/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" p="使用 Cells Clear REST API 清除 Swift 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程的验证。这个专业的解决方案使用 Swift 对本地 Microsoft Excel 和 OpenOffice Calc 电子表格进行验证。" urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证" p="使用 Cells Clear REST API 清除 Swift 中本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程的验证。这个专业的解决方案使用 Swift 对本地 Microsoft Excel 和 OpenOffice Calc 电子表格进行验证。" urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的验证 - Swift REST API" >}}

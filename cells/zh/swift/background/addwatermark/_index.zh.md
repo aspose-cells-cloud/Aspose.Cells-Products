@@ -1,16 +1,16 @@
 ﻿---
-title: 为云端本地工作簿添加水印
-description: 用于为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。 Cells云API为本地电子表格添加水印。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 在云中使用 Swift 为本地工作簿添加水印
+description: 用于使用 Swift 为 Microsoft Excel 和 OpenOffice Calc 添加水印的云 API 和 SDK。通过 Cells Cloud API SDK for Swift 为本地电子表格添加水印。
 url: /zh/swift/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印" h2="Swift 库为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印" p="使用 Cells Watermark REST API 为 Swift 中的本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程添加水印。这个专业的解决方案使用 Swift 在线为 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印。" urlsection="background/add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印" h2="Swift 库为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印" p="使用 Cells Watermark REST API 为 Swift 中的本地 Microsoft Excel 和 OpenOffice Calc 电子表格工作流程添加水印。这个专业的解决方案使用 Swift 在线为 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印。" urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="为本地 Microsoft Excel 和 OpenOffice Calc 电子表格添加水印 - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/watermark" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostWatermark" apimethod="POST" %}}
 <br/>
-为本地电子表格添加水印是一项复杂的任务。为本地电子表格转换添加水印是由我们的 Swift SDK 执行的，同时保留源电子表格的主要结构和逻辑内容。我们的 Swift 库是为在线本地电子表格添加水印的专业解决方案。这个Cloud SDK为Swift开发者提供了强大的功能和完美的API。
+使用 Swift 为本地电子表格添加水印是一项复杂的任务。为本地电子表格转换添加水印是由我们的 Swift SDK 执行的，同时保留源电子表格的主要结构和逻辑内容。我们的 Swift 库是为在线本地电子表格添加水印的专业解决方案。这个Cloud SDK为Swift开发者提供了强大的功能和完美的API。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Swift 中使用 REST API 为本地电子表格添加水印的代码示例" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Watermark.swift" %}}

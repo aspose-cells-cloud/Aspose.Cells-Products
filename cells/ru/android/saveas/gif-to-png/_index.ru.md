@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Android д
 url: /ru/android/saveas/gif-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения GIF как PNG" h2="Библиотека Android для сохранения GIF как PNG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения GIF в формате PNG и других форматов документов онлайн с помощью Android." urlsection="saveas/gif-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения GIF как PNG" h2="Библиотека Android для сохранения GIF как PNG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения GIF как PNG и других форматов документов онлайн с помощью Android." urlsection="saveas/gif-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF как PNG в Android" >}}

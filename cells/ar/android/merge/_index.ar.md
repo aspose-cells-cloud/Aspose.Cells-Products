@@ -1,10 +1,10 @@
 ﻿---
-title:  دمج مع Android
-description:  Aspose.Cells Cloud REST API يدعم دمج عدة ملفات Excel في ملف Excel مع Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  دمج باستخدام Android
+description:  Aspose.Cells Cloud REST API يدعم دمج عدة ملفات Excel في ملف Excel باستخدام Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/android/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج مع Android" h2="Aspose.Cells Cloud SDK يدعم دمج ملفات Excel متعددة في ملف Excel .." p="Aspose.Cells Cloud REST API يدعم دمج عدة ملفات Excel في ملف Excel مع Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="دمج باستخدام Android" h2="Aspose.Cells Cloud SDK يدعم دمج ملفات Excel متعددة في ملف Excel .." p="Aspose.Cells Cloud REST API يدعم دمج عدة ملفات Excel في ملف Excel باستخدام Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ar/android/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="دمج مع روابط امتداد Android" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="الدمج باستخدام روابط امتداد Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

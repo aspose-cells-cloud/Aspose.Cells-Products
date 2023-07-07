@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için CSV'yi ODS API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV biçim dosyasını ODS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/saveas/csv-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

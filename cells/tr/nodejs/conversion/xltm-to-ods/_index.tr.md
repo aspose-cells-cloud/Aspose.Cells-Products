@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xltm-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTM dosyasını NodeJS\'de ODS\'ye dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTM'den ODS'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den ODS formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLTM'yi çevrimiçi olarak ODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+Dosya formatlarını XLTM'den ODS'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den ODS formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLTM'yi çevrimiçi olarak ODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi ODS formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

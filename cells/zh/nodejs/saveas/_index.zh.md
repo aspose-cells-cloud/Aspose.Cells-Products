@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 NodeJS 保存
-description: Aspose.Cells Cloud REST API 支持使用 NodeJS 将 Excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: Aspose.Cells Cloud REST API 支持使用 NodeJS 将 excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/nodejs/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 NodeJS 保存" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 NodeJS 将 Excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 NodeJS 保存" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 NodeJS 将 excel 文件保存为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

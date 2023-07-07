@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX'i BMP'e Swift için API'e Dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLTX biçim dosyasını BMP biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

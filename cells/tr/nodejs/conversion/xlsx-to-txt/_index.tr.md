@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlsx-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSX dosyasını NodeJS\'de TXT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSX'ten TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten TXT'ye biçim geçişleri, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSX'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+Dosya formatlarını XLSX'ten TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten TXT formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSX'i çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i TXT formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

@@ -8,7 +8,7 @@ url: /de/ruby/background/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mit Ruby-Erweiterungslinks fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe von Ruby-Erweiterungslinks fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

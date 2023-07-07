@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in TIFF Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLTX-Formatdatei in eine Datei im TIFF-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im XLTX-Format in eine Datei im Format TIFF zu konvertieren.
 url: /de/net/conversion/xltx-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

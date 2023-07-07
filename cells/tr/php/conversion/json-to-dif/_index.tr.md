@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan DIF'ye Dönüştürme API için PHP
-description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
+description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

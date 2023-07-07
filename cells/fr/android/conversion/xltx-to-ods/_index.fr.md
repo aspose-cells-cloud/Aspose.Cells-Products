@@ -10,7 +10,7 @@ url: /fr/android/conversion/xltx-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en ODS sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTX en ODS est une tâche complexe. Toutes les transitions de format XLTX vers ODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTX. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne des fichiers XLTX en ODS. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie ODS parfaite.
+La conversion des formats de fichiers de XLTX en ODS est une tâche complexe. Toutes les transitions de format XLTX vers ODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne des fichiers XLTX en ODS. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir XLTX au format ODS" gistPath="" %}}

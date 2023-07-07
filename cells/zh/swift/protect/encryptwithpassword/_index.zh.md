@@ -1,10 +1,10 @@
 ﻿---
-title: 在云端使用密码加密本地电子表格
-description: 用于保护的云 API 和 SDK Microsoft Excel 和 OpenOffice Calc。通过Cells云API对本地电子表格进行密码加密。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用云中的 Swift 使用密码加密本地电子表格
+description: 用于使用 Swift 保护 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。通过 Cells Cloud API SDK for Swift 使用密码加密本地电子表格。
 url: /zh/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 使用密码保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="使用密码保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格的 Swift 库" p="使用 Cells Protect REST API 保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Swift 中的密码工作流程。这个专业的解决方案使用 Swift 使用密码在线保护 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 使用密码保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="使用密码保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格的 Swift 库" p="使用 Cells Protect REST API 保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Swift 中的密码工作流程。这个专业的解决方案使用 Swift 使用密码在线保护 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用密码保护本地 Microsoft Excel 和 OpenOffice Calc 电子表格 - Swift REST API" >}}

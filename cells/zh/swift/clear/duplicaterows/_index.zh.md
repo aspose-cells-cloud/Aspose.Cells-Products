@@ -1,10 +1,10 @@
 ﻿---
-title: 清除云端本地工作簿上的重复行
-description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的重复行的云 API 和 SDK。通过Cells云API清除本地电子表格中的重复行。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Cloud 中的 Swift 清除本地工作簿上的重复行
+description: 用于使用 Swift 清除 Microsoft Excel 和 OpenOffice Calc 上的重复行的云 API 和 SDK。通过 Cells Cloud API SDK for Swift 清除本地电子表格上的重复行
 url: /zh/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的重复行。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行。" urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的重复行。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行。" urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的重复行 - Swift REST API" >}}

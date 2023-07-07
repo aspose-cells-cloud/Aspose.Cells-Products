@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in XPS Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLTX-Formatdatei in eine Datei im XPS-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im XLTX-Format in eine Datei im Format XPS zu konvertieren.
 url: /de/net/conversion/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

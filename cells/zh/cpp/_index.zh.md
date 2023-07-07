@@ -104,7 +104,7 @@ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式将 Excel �
 保护 Microsoft Excel via CPP API
     </h2>
     <p>
- Aspose.Cells 适用于 CPP 的 Cloud SDK 包含使用 CPP 语言以编程方式保护 Excel 工作簿的功能。例如用密码保护和取消保护工作簿，为工作簿添加数字签名。
+ Aspose.Cells Cloud SDK for CPP 包含使用 CPP 语言以编程方式保护 Excel 工作簿的功能。例如用密码保护和取消保护工作簿，为工作簿添加数字签名。
     </p>
    </div>
    <div class="col-lg-12">

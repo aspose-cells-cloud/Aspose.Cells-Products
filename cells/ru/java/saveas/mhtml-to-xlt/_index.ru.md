@@ -10,7 +10,7 @@ url: /ru/java/saveas/mhtml-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLT в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения файлов MHTML в формате XLT в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Сохранение форматов файлов из MHTML в виде XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для сохранения файлов MHTML в формате XLT в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения MHTML в формате XLT" gistPath="" %}}

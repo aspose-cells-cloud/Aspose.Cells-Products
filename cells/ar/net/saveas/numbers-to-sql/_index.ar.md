@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ SQL API لـ C#
+title:  احفظ الأرقام باسم SQL API لـ C#
 description:  استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق NUMBERS كملف بتنسيق SQL.
 url: /ar/net/saveas/numbers-to-sql/
 ---

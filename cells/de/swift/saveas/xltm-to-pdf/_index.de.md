@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM unter PDF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im XLTM-Format als Datei im Format PDF zu speichern.
 url: /de/swift/saveas/xltm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

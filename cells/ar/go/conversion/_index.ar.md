@@ -1,10 +1,10 @@
 ﻿---
-title:  التحويل مع Go
+title:  التحويل باستخدام Go
 description: Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Go. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/go/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="التحويل مع Go" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Go. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="التحويل باستخدام Go" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Go. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

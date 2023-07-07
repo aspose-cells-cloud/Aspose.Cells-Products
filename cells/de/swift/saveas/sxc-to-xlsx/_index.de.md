@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als XLSX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von SXC-Formatdateien als XLSX-Formatdateien.
 url: /de/swift/saveas/sxc-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

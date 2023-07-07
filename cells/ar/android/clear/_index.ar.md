@@ -1,10 +1,10 @@
 ﻿---
 title:  مسح الكائنات باستخدام Android
-description:  Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel مع Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel باستخدام Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/android/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات باستخدام Android" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel مع Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات باستخدام Android" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم مسح الكائنات الداخلية في ملف Excel باستخدام Android. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

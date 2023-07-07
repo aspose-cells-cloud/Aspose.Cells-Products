@@ -1,10 +1,10 @@
 ﻿---
-title:  Conversion avec Go
-description: Aspose.Cells Cloud REST API prend en charge la conversion de fichiers Excel en différents types de fichiers de format avec Go. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Conversion à l'aide de Go
+description: Aspose.Cells Cloud REST API prend en charge la conversion de fichiers Excel en différents types de fichiers de format à l'aide de Go. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/go/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversion avec Go" h2="Aspose.Cells Le SDK Cloud prend en charge la conversion de format de fichier. Le format de fichier pris en charge compte plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge la conversion de fichiers Excel en différents types de fichiers de format avec Go. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversion à l\'aide de Go" h2="Aspose.Cells Le SDK Cloud prend en charge la conversion de format de fichier. Le format de fichier pris en charge compte plus de 30 formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge la conversion de fichiers Excel en différents types de fichiers de format à l\'aide de Go. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /fr/go/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Conversion avec les liens d\'extension Go" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Conversion à l\'aide de liens d\'extension Go" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

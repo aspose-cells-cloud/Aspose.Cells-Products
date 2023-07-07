@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu MD Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im SXC-Format in eine Datei im MD-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer SXC-Formatdatei in eine MD-Formatdatei.
 url: /de/nodejs/conversion/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

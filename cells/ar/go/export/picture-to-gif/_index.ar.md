@@ -10,7 +10,7 @@ url: /ar/go/export/picture-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق GIF في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن PICTURE إلى ملف GIF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير PICTURE إلى تنسيق GIF بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق GIF عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج GIF مثالي.
+يعد تصدير كائن PICTURE إلى ملف GIF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير PICTURE إلى تنسيق GIF بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق GIF عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج GIF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتصدير PICTURE إلى تنسيق GIF من جدول البيانات" gistPath="" %}}

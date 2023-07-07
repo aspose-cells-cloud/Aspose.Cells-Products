@@ -215,7 +215,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de trabajo
+ Agregar, actualizar o eliminar formas de una hoja de cálculo
     </p>
    </div>
    <div class="col-lg-4">
@@ -250,7 +250,7 @@ Aspose.Cells Cloud SDK para Ruby le permite crear, dividir, fusionar, buscar y r
 Cloud SDK para procesar hojas de trabajo
     </h2>
     <p>
-Con Aspose.Cells Cloud SDK para Ruby, puede eliminar una fila específica o todas las filas de la hoja de cálculo, obtener datos de celda de la hoja de cálculo o estilo de celda por nombre de celda, leer datos de fila o columna de la hoja de cálculo por su índice, calcular fórmula de celda, borrar contenido de celda, copiar celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columna y fila de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celda y modificar muchas otras configuraciones de la hoja de trabajo.
+Con Aspose.Cells Cloud SDK for Ruby, puede eliminar una fila específica o todas las filas de la hoja de cálculo, obtener datos de celda de la hoja de cálculo o estilo de celda por nombre de celda, leer datos de fila o columna de la hoja de cálculo por su índice, calcular fórmula de celda, borrar contenido de celda, copiar celda en otra celda, copiar columnas y filas de la hoja de trabajo, agrupar filas y columnas de la hoja de trabajo, ocultar filas y columnas de la hoja de trabajo, establecer estilos de columna y fila de la hoja de trabajo, establecer el valor HTMLSTRING en la celda, establecer el valor del rango de celda y modificar muchas otras configuraciones de la hoja de trabajo.
     </p>
    </div>
    <div class="col-lg-12">
@@ -261,7 +261,7 @@ Con Aspose.Cells Cloud SDK para Ruby, puede eliminar una fila específica o toda
  Aspose.Cells Cloud SDK para Ruby le permite agregar una tabla dinámica en la hoja de trabajo, agregar o eliminar campos dinámicos en la tabla dinámica, agregar o eliminar el filtro dinámico para el índice de la tabla dinámica, actualizar el estilo de celda para la tabla dinámica y calcular los datos de la tabla dinámica en las celdas.
     </p>
     <p>
-Aspose.Cells Cloud SDK for Ruby también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, conjuntos delinee el borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de trabajo.
+Aspose.Cells Cloud SDK for Ruby también se puede usar para obtener una lista de celdas en un rango por nombre de rango o índices de columna de fila, establecer el ancho de columna del rango, combinar un rango de celdas en una sola celda, mover el rango actual al rango de destino, conjuntos delinee el borde alrededor de un rango de celdas, establezca la altura de la fila del rango, establezca el estilo del rango, deshaga las celdas combinadas de este rango, coloque un valor en el rango y convierta su tipo de datos, y copie el rango en la hoja de cálculo.
     </p>
    </div>
   </div>

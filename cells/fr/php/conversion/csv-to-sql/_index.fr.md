@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV en SQL Convertir API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format CSV en fichier au format SQL.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format CSV en fichier au format SQL.
 url: /fr/php/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

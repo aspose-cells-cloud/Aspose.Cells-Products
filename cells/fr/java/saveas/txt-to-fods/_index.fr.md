@@ -1,5 +1,5 @@
 ﻿---
-title:  Enregistrez TXT sous FODS API for Java
+title:  Enregistrer TXT sous FODS API for Java
 description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format TXT en tant que fichier au format FODS.
 url: /fr/java/saveas/txt-to-fods/
 ---

@@ -10,7 +10,7 @@ url: /de/go/conversion/xlsm-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in Go in SVG" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in SVG ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das SVG-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM in SVG-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in SVG ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das SVG-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM-Dateien in SVG-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte SVG-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XLSM in das Format SVG" gistPath="" %}}

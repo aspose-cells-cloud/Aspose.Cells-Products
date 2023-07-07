@@ -10,7 +10,7 @@ url: /tr/nodejs/export/listobject-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini NodeJS\'de WMF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i WMF biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+LISTOBJECT nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i WMF biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak WMF formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan WMF formatına dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

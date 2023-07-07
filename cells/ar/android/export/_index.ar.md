@@ -1,10 +1,10 @@
 ﻿---
-title:  تصدير مع Android
+title:  تصدير باستخدام Android
 description:  Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Android. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/android/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير مع Android" h2="Aspose.Cells Cloud SDK يدعم تصدير المصنفات والعناصر الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Android. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير باستخدام Android" h2="Aspose.Cells Cloud SDK يدعم تصدير المصنفات والعناصر الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Android. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

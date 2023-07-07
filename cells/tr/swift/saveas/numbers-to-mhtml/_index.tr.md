@@ -1,6 +1,6 @@
 ﻿---
 title:  SAYILARI Swift için MHTML API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  NUMBERS biçim dosyasını MHTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift kullanılıyor.
 url: /tr/swift/saveas/numbers-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/numbers-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Swift\'de MHTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini MHTML olarak kaydetmek karmaşık bir görevdir. Tüm NUMBERS'tan MHTML formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+NUMBERS dosya biçimlerini MHTML olarak kaydetmek karmaşık bir iştir. Tüm NUMBERS'tan MHTML formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, NUMBERS'i çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SAYILARI MHTML formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

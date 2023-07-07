@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa tomma kolumner på Microsof
 url: /sv/swift/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma kolumner i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning rensar tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa tomma kolumner på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa tomma kolumner i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning rensar tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa tomma kolumner på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}
@@ -18,7 +18,7 @@ Att rensa tomma kolumner på lokala Microsoft Excel och OpenOffice Calc-kalkylbl
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Hur man använder Swift API för att rensa tomma kolumner" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Hur man använder Swift API för att rensa tomma kolumner" >}}
 <li> Skapa ett konto på<a href="https://dashboard.aspose.cloud/">instrumentbräda</a> för att få gratis API kvot & auktoriseringsinformation</li>
 <li>Initiera CellsApi med klient-id, klienthemlighet, basadress och version API</li>
 <li>Anrop postClearObjects-metoden för att få den resulterande strömmen</li>

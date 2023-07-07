@@ -1,6 +1,6 @@
 ﻿---
 title: Convertir XLT en XML API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format XLT en fichier au format XML.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format XLT en fichier au format XML.
 url: /fr/net/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

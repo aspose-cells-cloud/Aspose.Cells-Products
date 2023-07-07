@@ -4,13 +4,13 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le 
 url: /fr/net/saveas/xltm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLTM en XLSX" h2="Bibliothèque C# pour enregistrer XLTM en XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLSX et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/xltm-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer XLTM en XLSX" h2="Bibliothèque C# pour enregistrer XLTM en XLSX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLSX et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/xltm-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM sous XLSX dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLTM au format XLSX est une tâche complexe. Toutes les transitions de format XLTM vers XLSX sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format XLSX. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XLSX parfaite.
+L'enregistrement des formats de fichiers de XLTM au format XLSX est une tâche complexe. Toutes les transitions de format XLTM à XLSX sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format XLSX. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie XLSX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer XLTM au format XLSX" gistPath="" %}}

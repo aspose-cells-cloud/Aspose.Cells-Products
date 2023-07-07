@@ -10,7 +10,7 @@ url: /ru/python/conversion/bmp-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в PNG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования формата BMP в формат PNG" gistPath="" %}}

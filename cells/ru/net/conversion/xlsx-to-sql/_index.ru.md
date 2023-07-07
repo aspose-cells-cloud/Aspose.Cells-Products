@@ -10,7 +10,7 @@ url: /ru/net/conversion/xlsx-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в SQL в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в SQL — сложная задача. Все переходы между форматами XLSX и SQL выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSX в SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XLSX в SQL — сложная задача. Все переходы из формата XLSX в формат SQL выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLSX в SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLSX в формат SQL" gistPath="" %}}

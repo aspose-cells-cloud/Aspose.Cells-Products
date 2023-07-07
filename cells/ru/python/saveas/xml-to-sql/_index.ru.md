@@ -10,7 +10,7 @@ url: /ru/python/saveas/xml-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как SQL в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде SQL — сложная задача. Все переходы между форматами XML и SQL выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для сохранения XML в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из XML в виде SQL — сложная задача. Все переходы между форматами XML и SQL выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для сохранения XML в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XML в формате SQL" gistPath="" %}}

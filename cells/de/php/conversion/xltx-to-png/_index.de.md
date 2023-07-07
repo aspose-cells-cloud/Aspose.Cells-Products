@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in PNG Konvertieren Sie API in PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLTX-Formatdatei in eine Datei im PNG-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine Datei im XLTX-Format in eine Datei im Format PNG zu konvertieren.
 url: /de/php/conversion/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

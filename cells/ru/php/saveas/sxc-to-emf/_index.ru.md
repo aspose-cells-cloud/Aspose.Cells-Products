@@ -10,7 +10,7 @@ url: /ru/php/saveas/sxc-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как EMF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как EMF — сложная задача. Все переходы формата SXC в формат EMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в виде файлов EMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат EMF.
+Сохранение форматов файлов из SXC как EMF — сложная задача. Все переходы формата SXC в формат EMF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека PHP — это профессиональное решение для сохранения SXC в виде файлов EMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения SXC в формате EMF" gistPath="" %}}

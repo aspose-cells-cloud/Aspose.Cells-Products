@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için SXC'yi MD API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını MD biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/saveas/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi MD olarak kaydetmek için Swift API" h2="SXC\'yi MD olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi Swift kullanarak çevrimiçi olarak MD ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi MD olarak kaydetmek için Swift API" h2="SXC\'yi MD olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, SXC\'yi Swift kullanarak çevrimiçi olarak MD ve diğer belge formatları olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir SXC dosyasını Swift\'de MD olarak kaydedin" >}}

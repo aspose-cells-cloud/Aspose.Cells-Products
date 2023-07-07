@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi XPS'e Swift için API'e Dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLT biçim dosyasını XPS biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xlt-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/xlt-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Swift\'de XPS\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den XPS'e dönüştürmek karmaşık bir iştir. XLT'den XPS'e tüm biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi olarak XPS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
+Dosya formatlarını XLT'den XPS'e dönüştürmek karmaşık bir iştir. Tüm XLT - XPS biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi olarak XPS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XPS çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi XPS biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

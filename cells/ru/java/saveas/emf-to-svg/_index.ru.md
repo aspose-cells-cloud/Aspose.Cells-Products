@@ -10,7 +10,7 @@ url: /ru/java/saveas/emf-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как SVG в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как SVG — сложная задача. Все переходы форматов с EMF на SVG выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения файлов EMF как SVG онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов с EMF как SVG — сложная задача. Все переходы форматов с EMF на SVG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения файлов EMF как SVG онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате SVG" gistPath="" %}}

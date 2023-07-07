@@ -1,6 +1,6 @@
 ﻿---
 title:  Bulutta Python ile yerel e-tabloyu şifreyle şifreleyin
-description:  Microsoft Excel ve OpenOffice Calc ile Python'i Korumak için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, Python için Cells Cloud API SDK ile şifreyle şifreleyin.
+description:  Microsoft Excel ve Python ile OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, Python için Cells Cloud API SDK ile şifreyle şifreleyin.
 url: /tr/python/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

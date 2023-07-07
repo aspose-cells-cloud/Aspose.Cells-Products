@@ -4,7 +4,7 @@ description:  Utilizzo di Aspose.Cells Cloud SDK per Python per salvare il file 
 url: /it/python/saveas/jpg-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare JPG come MHTML" h2="Python libreria per salvare JPG come MHTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare JPG come MHTML e altri formati di documenti online utilizzando Python." urlsection="saveas/jpg-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API per salvare JPG come MHTML" h2="Python libreria per salvare JPG come MHTML" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Python. Questa è una soluzione professionale per salvare JPG come MHTML e altri formati di documenti online usando Python." urlsection="saveas/jpg-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JPG come MHTML in Python" >}}

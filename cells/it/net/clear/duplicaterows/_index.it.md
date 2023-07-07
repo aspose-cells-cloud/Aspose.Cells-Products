@@ -1,6 +1,6 @@
 ﻿---
 title: Cancella le righe duplicate nella cartella di lavoro locale con C# in Cloud
-description:  API cloud e SDK per cancellare le righe duplicate su Microsoft Excel e OpenOffice Calc con C#. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per C#
+description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc con C#. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per C#
 url: /it/net/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

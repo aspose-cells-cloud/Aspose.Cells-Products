@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fi
 url: /fr/go/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir XLTX en CSV" h2="Aller à la bibliothèque pour convertir XLTX en CSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir XLTX en CSV et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xltx-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir XLTX en CSV" h2="Allez à la bibliothèque pour convertir XLTX en CSV" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir XLTX en CSV et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/xltx-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en CSV en Go" >}}

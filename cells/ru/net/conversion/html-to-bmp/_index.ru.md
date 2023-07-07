@@ -10,7 +10,7 @@ url: /ru/net/conversion/html-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в BMP в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования формата HTML в формат BMP" gistPath="" %}}

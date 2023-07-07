@@ -10,7 +10,7 @@ url: /ru/android/conversion/numbers-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в SXC на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в SXC — сложная задача. Все преобразования форматов NUMBERS в SXC выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в SXC. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод SXC.
+Преобразование форматов файлов из NUMBERS в SXC — сложная задача. Все преобразования формата NUMBERS в формат SXC выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в SXC. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования NUMBERS в формат SXC" gistPath="" %}}

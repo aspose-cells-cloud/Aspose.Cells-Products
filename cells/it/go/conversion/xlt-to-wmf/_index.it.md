@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da XLT a WMF API per Go
+title:  Conversione da XLT a WMF API per andare
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato XLT in un file in formato WMF.
 url: /it/go/conversion/xlt-to-wmf/
 ---

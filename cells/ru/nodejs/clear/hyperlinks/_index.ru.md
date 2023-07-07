@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки гиперссы
 url: /ru/nodejs/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки гиперссылок в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает гиперссылки на локальные Microsoft Excel и электронные таблицы OpenOffice Calc с помощью NodeJS." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="NodeJS Clear для очистки гиперссылок в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки гиперссылок в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в NodeJS. Это профессиональное решение очищает гиперссылки на локальные Microsoft Excel и электронные таблицы OpenOffice Calc с помощью NodeJS." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить гиперссылки на локальные Microsoft Excel и электронные таблицы OpenOffice Calc — NodeJS REST API" >}}

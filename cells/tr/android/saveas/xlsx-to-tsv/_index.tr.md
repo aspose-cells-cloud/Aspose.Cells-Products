@@ -10,7 +10,7 @@ url: /tr/android/saveas/xlsx-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLSX dosyasını TSV olarak kaydetme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLSX'ten TSV olarak kaydetmek karmaşık bir iştir. Tüm XLSX'ten TSV formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSX'i çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
+Dosya formatlarını XLSX'ten TSV olarak kaydetmek karmaşık bir iştir. Tüm XLSX'ten TSV'ye format geçişleri, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSX'i çevrimiçi TSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TSV çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i TSV formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

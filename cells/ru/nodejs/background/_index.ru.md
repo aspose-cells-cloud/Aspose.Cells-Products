@@ -8,7 +8,7 @@ url: /ru/nodejs/background/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Установить фон со ссылками расширения NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установите фон, используя ссылки расширения NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

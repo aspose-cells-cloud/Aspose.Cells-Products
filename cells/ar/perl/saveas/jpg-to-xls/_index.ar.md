@@ -10,7 +10,7 @@ url: /ar/perl/saveas/jpg-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق XLS في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Perl SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ JPG كملفات XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLS مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل XLS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLS بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبتنا Perl حلاً احترافيًا لحفظ JPG كملفات XLS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ JPG بتنسيق XLS" gistPath="" %}}

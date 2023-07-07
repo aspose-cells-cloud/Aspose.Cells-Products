@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSM كـ DIF" h2="مكتبة Perl لحفظ XLSM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSM كـ DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSM كـ DIF" h2="مكتبة Perl لحفظ XLSM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSM بتنسيق DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM كملف DIF في Perl" >}}

@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/txt-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını NodeJS\'de ODS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini TXT'den ODS'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den ODS formatına geçişler, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak ODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+Dosya biçimlerini TXT'den ODS'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den ODS formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, TXT'yi çevrimiçi olarak ODS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi ODS formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

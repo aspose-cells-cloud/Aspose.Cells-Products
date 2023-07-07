@@ -10,7 +10,7 @@ url: /tr/go/conversion/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir MHTML dosyasını Go\'da XLSM\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını MHTML'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm MHTML'den XLSM'ye format geçişleri, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, MHTML'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
+Dosya biçimlerini MHTML'den XLSM'ye dönüştürmek karmaşık bir iştir. Tüm MHTML'den XLSM'ye format geçişleri, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, MHTML'yi çevrimiçi olarak XLSM dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSM çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XLSM formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

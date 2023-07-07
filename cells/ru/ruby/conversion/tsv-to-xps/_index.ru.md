@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/tsv-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в XPS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в XPS — сложная задача. Все переходы формата TSV в формат XPS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TSV в XPS. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XPS.
+Преобразование форматов файлов из TSV в XPS — сложная задача. Все переходы формата TSV в формат XPS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TSV в XPS. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования TSV в формат XPS" gistPath="" %}}

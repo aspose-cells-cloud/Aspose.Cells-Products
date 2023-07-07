@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ SXC كـ SVG API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق SXC كملف تنسيق SVG.
 url: /ar/swift/saveas/sxc-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

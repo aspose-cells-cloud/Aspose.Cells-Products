@@ -1,5 +1,5 @@
 ﻿---
-title:  PHP için MHTML'yi SVG API olarak kaydedin
+title:  MHTML'yi PHP için SVG API olarak kaydedin
 description:  MHTML biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-svg/
 ---

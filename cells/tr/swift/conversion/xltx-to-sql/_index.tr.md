@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için XLTX'ten SQL'e Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLTX biçim dosyasını SQL biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

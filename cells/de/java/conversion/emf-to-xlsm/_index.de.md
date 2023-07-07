@@ -1,5 +1,5 @@
 ﻿---
-title:  EMF in XLSM Konvertieren Sie API in for Java
+title:  EMF in XLSM konvertieren API for Java
 description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format EMF in eine Datei im XLSM-Format.
 url: /de/java/conversion/emf-to-xlsm/
 ---

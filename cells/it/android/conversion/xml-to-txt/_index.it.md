@@ -10,7 +10,7 @@ url: /it/android/conversion/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XML in TXT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XML a TXT è un'attività complessa. Tutte le transizioni di formato da XML a TXT vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Android è una soluzione professionale per convertire file XML in TXT online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output TXT perfetto.
+La conversione dei formati di file da XML a TXT è un'attività complessa. Tutte le transizioni dal formato XML a TXT vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Android è una soluzione professionale per convertire file XML in TXT online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output TXT perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire XML in formato TXT" gistPath="" %}}

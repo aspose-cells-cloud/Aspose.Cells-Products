@@ -1,5 +1,5 @@
 ﻿---
-title:  PNG لتحويل XLS API for Java
+title:  PNG إلى XLS تحويل API for Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق PNG إلى ملف بتنسيق XLS.
 url: /ar/java/conversion/png-to-xls/
 ---

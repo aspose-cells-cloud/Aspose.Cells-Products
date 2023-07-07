@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/txt-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в JSON в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в JSON — сложная задача. Все переходы формата TXT в формат JSON выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в JSON. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из TXT в JSON — сложная задача. Все переходы между форматами TXT и JSON выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов TXT в JSON. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования TXT в формат JSON" gistPath="" %}}

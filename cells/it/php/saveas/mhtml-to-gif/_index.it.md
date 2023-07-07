@@ -4,7 +4,7 @@ description: Utilizzo di Aspose.Cells Cloud SDK per PHP per salvare il file in f
 url: /it/php/saveas/mhtml-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per salvare MHTML come GIF" h2="PHP libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in PHP. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online usando PHP." urlsection="saveas/mhtml-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per salvare MHTML come GIF" h2="PHP libreria per salvare MHTML come GIF" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in PHP. Questa è una soluzione professionale per salvare MHTML come GIF e altri formati di documenti online utilizzando PHP." urlsection="saveas/mhtml-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file MHTML come GIF in PHP" >}}

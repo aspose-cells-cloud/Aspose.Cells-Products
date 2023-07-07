@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xml-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в JPG в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XML в JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XML в формат JPG" gistPath="" %}}

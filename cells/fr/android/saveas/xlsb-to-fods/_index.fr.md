@@ -10,7 +10,7 @@ url: /fr/android/saveas/xlsb-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB en tant que FODS dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que FODS est une tâche complexe. Toutes les transitions de format XLSB vers FODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que FODS. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie FODS parfaite.
+L'enregistrement de formats de fichiers à partir de XLSB en tant que FODS est une tâche complexe. Toutes les transitions de format XLSB à FODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que FODS. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLSB au format FODS" gistPath="" %}}

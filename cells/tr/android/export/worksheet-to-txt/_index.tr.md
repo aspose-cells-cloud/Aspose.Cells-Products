@@ -10,7 +10,7 @@ url: /tr/android/export/worksheet-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Android\'de TXT format dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini elektronik tablodan TXT dosyasına aktarma karmaşık bir görevdir. WORKSHEET'i TXT formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak TXT biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
+WORKSHEET nesnesini elektronik tablodan TXT dosyasına aktarma karmaşık bir görevdir. WORKSHEET'i TXT biçimine aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak TXT biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i elektronik tablodan TXT biçimine dışa aktarmak için REST API kullanan Android\'de kod örneği" gistPath="" %}}

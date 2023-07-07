@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi Swift için WMF API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  XLT biçim dosyasını WMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/saveas/xlt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/saveas/xlt-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Swift\'de WMF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLT'den WMF olarak kaydetmek karmaşık bir iştir. Tüm XLT'den WMF'ye biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+Dosya biçimlerini XLT'den WMF olarak kaydetmek karmaşık bir görevdir. Tüm XLT'den WMF'ye biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi WMF formatı olarak kaydetmek için REST API kullanan Swift kod örneği" gistPath="" %}}

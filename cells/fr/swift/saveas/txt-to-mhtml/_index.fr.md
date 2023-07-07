@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer TXT sous MHTML API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format TXT en tant que fichier au format MHTML.
 url: /fr/swift/saveas/txt-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

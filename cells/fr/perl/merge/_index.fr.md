@@ -1,10 +1,10 @@
 ﻿---
-title:  Fusionner avec Perl
-description: Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel avec Perl. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Fusionner en utilisant Perl
+description: Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel à l'aide de Perl. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/perl/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner avec Perl" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel." p="Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel avec Perl. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Fusionner en utilisant Perl" h2="Aspose.Cells Cloud SDK prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel." p="Aspose.Cells Cloud REST API prend en charge la fusion de plusieurs fichiers Excel dans un fichier Excel à l\'aide de Perl. Le SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /fr/perl/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Fusionner avec les liens d\'extension Perl" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Fusionner à l\'aide des liens d\'extension Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

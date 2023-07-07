@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için CSV'yi XLS API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  CSV biçim dosyasını XLS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift kullanılıyor.
 url: /tr/swift/saveas/csv-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

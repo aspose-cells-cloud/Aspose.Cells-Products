@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als MD API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLS-Formatdateien als MD-Formatdateien.
 url: /de/swift/saveas/xls-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

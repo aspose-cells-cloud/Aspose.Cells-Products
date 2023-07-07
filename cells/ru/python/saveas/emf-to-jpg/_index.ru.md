@@ -10,7 +10,7 @@ url: /ru/python/saveas/emf-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF в формате JPG в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF в виде JPG — сложная задача. Все переходы EMF в формат JPG выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для сохранения EMF в виде файлов JPG онлайн. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
+Сохранение форматов файлов с EMF в виде JPG — сложная задача. Все переходы EMF в формат JPG выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для сохранения EMF в виде файлов JPG онлайн. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения EMF в формате JPG" gistPath="" %}}

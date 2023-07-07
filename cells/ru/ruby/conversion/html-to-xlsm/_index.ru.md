@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
 url: /ru/ruby/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования HTML в XLSM" h2="Библиотека Ruby для преобразования HTML в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования HTML в XLSM и другие форматы документов онлайн с использованием Ruby." urlsection="conversion/html-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для преобразования HTML в XLSM" h2="Библиотека Ruby для преобразования HTML в XLSM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для преобразования HTML в XLSM и другие форматы документов онлайн с помощью Ruby." urlsection="conversion/html-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLSM в Ruby" >}}

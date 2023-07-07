@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ XLTX API لـ Perl
+title:  احفظ الأرقام كـ XLTX API مقابل Perl
 description: استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLTX.
 url: /ar/perl/saveas/numbers-to-xltx/
 ---

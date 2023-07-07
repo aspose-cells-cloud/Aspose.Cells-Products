@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/sxc-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف SXC إلى TSV في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى TSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى TSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل SXC إلى تنسيق TSV" gistPath="" %}}

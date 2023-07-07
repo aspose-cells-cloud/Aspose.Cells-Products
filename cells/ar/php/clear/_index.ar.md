@@ -1,14 +1,14 @@
 ﻿---
-title:  امسح الأشياء باستخدام PHP
-description:  Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel مع PHP يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  مسح الكائنات باستخدام PHP
+description:  Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/php/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="امسح الأشياء باستخدام PHP" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel مع PHP يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="مسح الكائنات باستخدام PHP" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم الكائنات الداخلية الواضحة في ملف Excel باستخدام PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="امسح العناصر باستخدام وصلات التمديد PHP" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="امسح العناصر باستخدام وصلات الامتداد PHP" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

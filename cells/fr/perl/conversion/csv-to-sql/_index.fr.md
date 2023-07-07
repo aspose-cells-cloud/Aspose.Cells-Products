@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV en SQL Convertir API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format CSV en fichier au format SQL.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format CSV en fichier au format SQL.
 url: /fr/perl/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

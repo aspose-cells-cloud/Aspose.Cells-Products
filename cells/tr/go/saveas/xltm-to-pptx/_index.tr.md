@@ -10,7 +10,7 @@ url: /tr/go/saveas/xltm-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTM dosyasını Go\'da PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLTM'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLTM'den PPTX'e format geçişleri, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTM'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+Dosya formatlarını XLTM'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm XLTM'den PPTX'e format geçişleri, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTM'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi PPTX formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

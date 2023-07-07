@@ -1,6 +1,6 @@
 ﻿---
 title:  Cifrar hoja de cálculo en la nube con contraseña en la nube
-description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifre la hoja de cálculo en la nube con la contraseña de Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifre la hoja de cálculo en la nube con contraseña por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/ruby/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

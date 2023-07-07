@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/png-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="PNG dosyasını Ruby\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-PNG'den dosya biçimlerini XML olarak kaydetmek karmaşık bir görevdir. PNG'den XML biçimine geçişlerin tümü, kaynak PNG elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, PNG'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+PNG'den dosya biçimlerini XML olarak kaydetmek karmaşık bir iştir. PNG'den XML biçimine geçişlerin tümü, kaynak PNG elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, PNG'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PNG\'i XML formatı olarak kaydetmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

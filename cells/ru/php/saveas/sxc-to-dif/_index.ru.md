@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как DIF API для PHP.
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата SXC в качестве файла формата DIF.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата SXC в виде файла формата DIF.
 url: /ru/php/saveas/sxc-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

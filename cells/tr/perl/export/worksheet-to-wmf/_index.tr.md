@@ -10,7 +10,7 @@ url: /tr/perl/export/worksheet-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Perl\'de WMF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-WORKSHEET nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık bir görevdir. WORKSHEET'i WMF biçimine dışa aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak WMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+WORKSHEET nesnesini elektronik tablodan WMF dosyasına dışa aktarma karmaşık bir görevdir. WORKSHEET'i WMF biçimine dışa aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken Perl SDK'mız tarafından gerçekleştirilir. Perl kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak WMF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Perl geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i elektronik tablodan WMF formatına dışa aktarmak için REST API kullanan Perl\'deki kod örneği" gistPath="" %}}

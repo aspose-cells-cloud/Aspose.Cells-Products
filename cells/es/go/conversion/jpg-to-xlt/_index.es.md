@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK for Go para convertir un archivo de 
 url: /es/go/conversion/jpg-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para convertir JPG a XLT" h2="Ir a la biblioteca para convertir JPG a XLT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir JPG a XLT y otros formatos de documentos en línea usando Go." urlsection="conversion/jpg-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya API para convertir JPG a XLT" h2="Ir a la biblioteca para convertir JPG a XLT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir JPG a XLT y otros formatos de documentos en línea usando Go." urlsection="conversion/jpg-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo JPG a XLT en Go" >}}

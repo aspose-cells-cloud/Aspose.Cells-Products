@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xls-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını NodeJS\'de SXC\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den SXC'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den SXC'ye format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıktısı sağlar.
+Dosya formatlarını XLS'den SXC'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den SXC'ye biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak SXC dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi SXC formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

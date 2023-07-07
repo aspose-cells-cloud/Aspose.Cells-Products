@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ ODS كـ XML API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق ODS كملف بتنسيق XML.
 url: /ar/swift/saveas/ods-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

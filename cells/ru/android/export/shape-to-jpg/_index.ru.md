@@ -10,7 +10,7 @@ url: /ru/android/export/shape-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата JPG в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл JPG из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат JPG выполняется нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SHAPE. Наша библиотека Android — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
+Экспорт объекта SHAPE в файл JPG из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат JPG выполняется нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека Android — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для экспорта SHAPE в формат JPG из электронной таблицы" gistPath="" %}}

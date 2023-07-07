@@ -1,10 +1,10 @@
 ﻿---
 title:  Zusammenführen mit PHP
-description: Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit PHP. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von PHP. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/php/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Zusammenführen mit PHP" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit PHP. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Zusammenführen mit PHP" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von PHP. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

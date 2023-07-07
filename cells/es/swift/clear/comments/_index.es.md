@@ -4,7 +4,7 @@ description:  API y SDK en la nube para borrar comentarios en Microsoft Excel y 
 url: /es/swift/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar comentarios sobre flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra los comentarios sobre el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar comentarios sobre flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra los comentarios sobre el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar comentarios en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}

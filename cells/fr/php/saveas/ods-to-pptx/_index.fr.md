@@ -7,7 +7,7 @@ url: /fr/php/saveas/ods-to-pptx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer ODS en tant que PPTX" h2="Bibliothèque PHP pour enregistrer ODS en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/ods-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS en tant que PPTX dans PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format PPTX au PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir d'ODS en tant que PPTX est une tâche complexe. Toutes les transitions de format ODS vers PPTX sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque PHP est une solution professionnelle pour enregistrer ODS en tant que fichiers PPTX en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie PPTX parfaite.

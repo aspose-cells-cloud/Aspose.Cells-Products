@@ -1,6 +1,6 @@
 ﻿---
 title:  Зашифруйте локальную таблицу паролем с помощью Go in Cloud
-description: Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc с Go. Шифруйте локальные электронные таблицы с помощью пароля с помощью Cells Cloud API SDK для Go.
+description: Облачные API и SDK для защиты Microsoft Excel и OpenOffice Calc with Go. Шифруйте локальные электронные таблицы с помощью пароля с помощью Cells Cloud API SDK для Go.
 url: /ru/go/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

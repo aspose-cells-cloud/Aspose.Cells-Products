@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/csv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir CSV dosyasını Ruby\'de WMF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini CSV'den WMF olarak kaydetmek karmaşık bir iştir. Tüm CSV'den WMF'ye biçim geçişleri, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, CSV'yi çevrimiçi olarak WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
+Dosya biçimlerini CSV'den WMF olarak kaydetmek karmaşık bir görevdir. Tüm CSV'den WMF'ye biçim geçişleri, kaynak CSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, CSV'yi çevrimiçi olarak WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de CSV\'yi WMF formatı olarak kaydetmek için REST API kullanan kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  ZAHLEN in XLS Konvertieren Sie API in PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XLS-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine Datei im NUMBERS-Format in eine Datei im XLS-Format zu konvertieren.
 url: /de/php/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

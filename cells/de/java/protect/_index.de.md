@@ -1,14 +1,14 @@
 ﻿---
 title:  Mit Java schützen
-description:  Aspose.Cells Cloud REST API unterstützt Arbeitsmappen für Entschlüsselung, Verschlüsselung und digitale Signatur mit Java. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von Java. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/java/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Java schützen" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Arbeitsmappen für Entschlüsselung, Verschlüsselung und digitale Signatur mit Java. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Java schützen" h2="Aspose.Cells Cloud SDK unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur." p="Aspose.Cells Cloud REST API unterstützt Entschlüsselung, Verschlüsselung und Arbeitsmappen mit digitaler Signatur unter Verwendung von Java. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Mit Verlängerungsgliedern Java schützen" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Schützen Sie mit den Erweiterungslinks Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

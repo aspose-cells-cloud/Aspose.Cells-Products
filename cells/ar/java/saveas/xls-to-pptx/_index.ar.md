@@ -1,5 +1,5 @@
 ﻿---
-title:  حفظ XLS كـ PPTX API for Java
+title:  احفظ XLS كـ PPTX API for Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف بتنسيق XLS كملف بتنسيق PPTX.
 url: /ar/java/saveas/xls-to-pptx/
 ---

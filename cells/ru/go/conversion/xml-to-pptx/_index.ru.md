@@ -10,7 +10,7 @@ url: /ru/go/conversion/xml-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в PPTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в PPTX — сложная задача. Все переходы между форматами XML и PPTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в PPTX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
+Преобразование форматов файлов из XML в PPTX — сложная задача. Все переходы формата XML в формат PPTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в PPTX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XML в формат PPTX" gistPath="" %}}

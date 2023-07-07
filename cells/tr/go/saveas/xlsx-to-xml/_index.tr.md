@@ -10,7 +10,7 @@ url: /tr/go/saveas/xlsx-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSX dosyasını Go\'da XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSX'ten XML olarak kaydetmek karmaşık bir iştir. Tüm XLSX'ten XML formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLSX'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya biçimlerini XLSX'ten XML olarak kaydetmek karmaşık bir iştir. Tüm XLSX'ten XML biçimine geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLSX'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i XML formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

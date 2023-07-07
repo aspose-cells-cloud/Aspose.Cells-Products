@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als CSV API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im HTML-Format als Datei im CSV-Format zu speichern.
 url: /de/swift/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

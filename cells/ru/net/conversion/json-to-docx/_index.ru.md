@@ -10,7 +10,7 @@ url: /ru/net/conversion/json-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в DOCX в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов JSON в DOCX. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из JSON в DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов JSON в DOCX. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования JSON в формат DOCX" gistPath="" %}}

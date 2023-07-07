@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLTX unter XPS API für C#
+title:  Speichern Sie XLTX als XPS API für C#
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im XLTX-Format als Datei im Format XPS zu speichern.
 url: /de/net/saveas/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als XPS zu speichern" h2="C#-Bibliothek, um XLTX als XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX unter XPS und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als XPS zu speichern" h2="C#-Bibliothek, um XLTX als XPS zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX als XPS und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei unter XPS in C#" >}}

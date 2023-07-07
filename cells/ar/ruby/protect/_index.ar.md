@@ -1,14 +1,14 @@
 ﻿---
-title:  حماية مع روبي
-description: Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  حماية باستخدام روبي
+description: Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/ruby/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="حماية مع روبي" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حماية باستخدام روبي" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="حماية مع وصلات تمديد روبي" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="حماية باستخدام روابط ملحق روبي" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

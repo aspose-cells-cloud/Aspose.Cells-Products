@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/html-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق HTML إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل HTML إلى تنسيق XLTM" gistPath="" %}}

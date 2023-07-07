@@ -10,7 +10,7 @@ url: /ru/android/conversion/xlsb-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в SQL в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в SQL — сложная задача. Все переходы между форматами XLSB и SQL выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов XLSB в SQL. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XLSB в SQL — сложная задача. Все переходы формата XLSB в формат SQL выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSB в SQL. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLSB в формат SQL" gistPath="" %}}

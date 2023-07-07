@@ -10,7 +10,7 @@ url: /tr/android/export/shape-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="SHAPE nesnesini Android\'de EMF biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-SHAPE nesnesini elektronik tablodan EMF dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i EMF biçimine dışa aktarma geçişleri, kaynak SHAPE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak EMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
+SHAPE nesnesini elektronik tablodan EMF dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i EMF biçimine dışa aktarma geçişleri, kaynak SHAPE elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak EMF biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel EMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i e-tablodan EMF biçimine dışa aktarmak için REST API kullanan Android\'de kod örneği" gistPath="" %}}

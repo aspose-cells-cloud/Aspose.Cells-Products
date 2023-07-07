@@ -1,14 +1,14 @@
 ﻿---
-title:  C# ile koruyun
-description:  Aspose.Cells Cloud REST API, C# ile şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  C# kullanarak koruyun
+description:  Aspose.Cells Cloud REST API, C# kullanan şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/net/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# ile koruyun" h2="Aspose.Cells Cloud SDK, şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler." p="Aspose.Cells Cloud REST API, C# ile şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# kullanarak koruyun" h2="Aspose.Cells Cloud SDK, şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler." p="Aspose.Cells Cloud REST API, C# kullanan şifre çözme, şifreleme ve dijital imza çalışma kitaplarını destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="C# Uzantı bağlantıları ile koruyun" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="C# Uzantı bağlantılarını kullanarak koruyun" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

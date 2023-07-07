@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} 
 url: /tr/net/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için C# API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için C# kitaplığı" p="Net\'te elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, LISTOBJECT\'i C# kullanarak elektronik tablodan ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, LISTOBJECT\'i ODS dosyasına aktarmak için" h2="LISTOBJECT\'i ODS dosyasına aktarmak için C# kitaplığı" p="Net\'te elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, LISTOBJECT\'i C# kullanarak elektronik tablodan ODS formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini C#\'de ODS biçim dosyasına aktarın" >}}

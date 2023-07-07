@@ -1,5 +1,5 @@
 ﻿---
-title:  JPG in CSV konvertieren API für C#
+title:  JPG in CSV konvertieren API in C#
 description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer JPG-Formatdatei in eine CSV-Formatdatei.
 url: /de/net/conversion/jpg-to-csv/
 ---

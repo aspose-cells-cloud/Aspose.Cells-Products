@@ -10,7 +10,7 @@ url: /ru/go/saveas/xltm-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как SQL в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде SQL — сложная задача. Все переходы из формата XLTM в формат SQL выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из XLTM в виде SQL — сложная задача. Все переходы из формата XLTM в формат SQL выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для сохранения XLTM в виде файлов SQL в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLTM в формате SQL" gistPath="" %}}

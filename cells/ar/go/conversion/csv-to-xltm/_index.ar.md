@@ -13,7 +13,7 @@ url: /ar/go/conversion/csv-to-xltm/
 يعد تحويل تنسيقات الملفات من CSV إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLTM بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل CSV إلى تنسيق XLTM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل تنسيق CSV إلى تنسيق XLTM" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

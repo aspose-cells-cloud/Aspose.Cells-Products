@@ -10,7 +10,7 @@ url: /ru/python/saveas/png-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как SVG в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как SVG — сложная задача. Все переходы форматов с PNG на SVG выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для сохранения файлов PNG как SVG онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов с PNG как SVG — сложная задача. Все переходы форматов с PNG на SVG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для сохранения файлов PNG как SVG онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения PNG в формате SVG" gistPath="" %}}

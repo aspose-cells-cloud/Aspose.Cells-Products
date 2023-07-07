@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSM en XML API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format XLSM en fichier au format XML.
 url: /fr/swift/conversion/xlsm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/python/conversion/csv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в JPG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в JPG — сложная задача. Все переходы из формата CSV в формат JPG выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов CSV в JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из CSV в JPG — сложная задача. Все переходы между форматами CSV и JPG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов CSV в JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования CSV в формат JPG" gistPath="" %}}

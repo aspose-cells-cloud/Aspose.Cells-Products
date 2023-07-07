@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar objetos de lista en Microsoft Exce
 url: /es/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Swift." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Borrar REST API para borrar objetos de lista en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra la lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Swift." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar lista de objetos en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}

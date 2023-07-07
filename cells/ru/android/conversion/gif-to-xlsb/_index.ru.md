@@ -10,7 +10,7 @@ url: /ru/android/conversion/gif-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в XLSB в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в XLSB — сложная задача. Все переходы формата GIF в формат XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов GIF в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
+Преобразование форматов файлов из GIF в XLSB — сложная задача. Все переходы формата GIF в формат XLSB выполняются нашим Android SDK с сохранением основного структурного и логического содержания исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов GIF в XLSB. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования GIF в формат XLSB" gistPath="" %}}

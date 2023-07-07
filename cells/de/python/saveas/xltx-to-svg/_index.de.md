@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter SVG API für Python
+title:  Speichern Sie XLTX als SVG API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format SVG zu speichern.
 url: /de/python/saveas/xltx-to-svg/
 ---

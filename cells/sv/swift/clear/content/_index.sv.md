@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa innehåll på Microsoft Ex
 url: /sv/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning tydliggör innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa innehåll i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning tydliggör innehåll på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa innehåll på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}

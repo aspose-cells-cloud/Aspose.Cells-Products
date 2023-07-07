@@ -10,7 +10,7 @@ url: /ru/perl/conversion/html-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в SVG в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в SVG — сложная задача. Все переходы форматов с HTML на SVG выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов HTML в SVG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
+Преобразование форматов файлов из HTML в SVG — сложная задача. Все переходы форматов с HTML на SVG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов HTML в SVG. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования формата HTML в формат SVG" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /it/ruby/saveas/xml-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XML come TSV in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XML come TSV è un compito complesso. Tutte le transizioni dal formato XML al formato TSV vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per salvare XML come file TSV online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output TSV perfetto.
+Salvare i formati di file da XML come TSV è un compito complesso. Tutte le transizioni di formato da XML a TSV vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per salvare XML come file TSV online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output TSV perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per salvare XML come formato TSV" gistPath="" %}}

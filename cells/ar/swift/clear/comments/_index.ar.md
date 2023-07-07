@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح التعليقات على Microsoft Exc
 url: /ar/swift/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Swift Clear لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Swift Clear لمسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح التعليقات على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي التعليقات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التعليقات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Swift REST API" >}}

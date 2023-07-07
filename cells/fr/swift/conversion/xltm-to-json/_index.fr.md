@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLTM en JSON API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLTM en JSON API pour Swift
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format XLTM en fichier au format JSON.
 url: /fr/swift/conversion/xltm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -7,7 +7,7 @@ url: /ru/go/saveas/emf-to-pdf/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить EMF как PDF." h2="Перейти в библиотеку, чтобы сохранить EMF как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения EMF как PDF и других форматов документов в Интернете с помощью Go." urlsection="saveas/emf-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как PDF в Go." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как PDF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов с EMF как PDF — сложная задача. Все переходы форматов с EMF на PDF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Go — это профессиональное решение для сохранения файлов EMF как PDF онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод PDF.

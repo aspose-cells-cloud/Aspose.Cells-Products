@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить ODS как XLSB API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата ODS в виде файла формата XLSB.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата ODS в виде файла формата XLSB.
 url: /ru/go/saveas/ods-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/go/saveas/ods-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как XLSB в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде XLSB — сложная задача. Все переходы от формата ODS к формату XLSB выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде файлов XLSB онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
+Сохранение форматов файлов из ODS в виде XLSB — сложная задача. Все переходы от формата ODS к формату XLSB выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-сохранения ODS в виде файлов XLSB. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате XLSB" gistPath="" %}}

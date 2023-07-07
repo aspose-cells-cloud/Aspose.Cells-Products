@@ -10,7 +10,7 @@ url: /es/android/saveas/bmp-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo BMP como XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde BMP como XLS es una tarea compleja. Todas las transiciones de formato BMP a XLS se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca de Android es una solución profesional para guardar BMP como archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
+Guardar formatos de archivo desde BMP como XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato BMP a XLS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca de Android es una solución profesional para guardar BMP como archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar BMP como formato XLS" gistPath="" %}}

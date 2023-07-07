@@ -4,7 +4,7 @@ description:  XML biçimindeki dosyayı JPG biçimindeki dosyaya dönüştürmek
 url: /tr/android/conversion/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JPG\'ye dönüştürmek için Android API" h2="XML\'i JPG\'ye dönüştürmek için Android kütüphanesi" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak XML\'i JPG\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JPG\'ye dönüştürmek için Android API" h2="XML\'i JPG\'ye dönüştürmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Android kullanarak çevrimiçi olarak XML\'i JPG\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XML dosyasını JPG\'ye dönüştürün" >}}

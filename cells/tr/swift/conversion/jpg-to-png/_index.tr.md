@@ -1,10 +1,10 @@
 ﻿---
 title:  JPG'yi PNG'e Swift için API'e dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  JPG formatındaki dosyayı PNG formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/jpg-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi PNG\'e dönüştürmek için Swift API" h2="JPG\'yi PNG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JPG\'yi Swift kullanarak çevrimiçi olarak PNG\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi PNG\'e dönüştürmek için Swift API" h2="JPG\'yi PNG\'e dönüştürmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JPG\'yi Swift kullanarak çevrimiçi olarak PNG\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Swift\'de PNG\'e dönüştürün" >}}

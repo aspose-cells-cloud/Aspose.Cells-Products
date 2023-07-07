@@ -1,14 +1,14 @@
 ﻿---
-title:  Protéger
-description: Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Protégez-vous avec Swift
+description: Aspose.Cells Cloud REST API prend en charge le déchiffrement, le chiffrement et les classeurs de signature numérique à l'aide de Swift. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protéger" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez-vous avec Swift" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge le déchiffrement, le chiffrement et les classeurs de signature numérique à l\'aide de Swift. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protéger les liens d\'extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protéger à l\'aide de liens d\'extension Swift" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

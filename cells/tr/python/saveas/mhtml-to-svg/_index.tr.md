@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi SVG API olarak kaydedin
+title:  MHTML'yi Python için SVG API olarak kaydedin
 description:  MHTML biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-svg/
 ---

@@ -4,7 +4,7 @@ description: استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل ملف
 url: /ar/perl/conversion/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLTX إلى SQL" h2="Perl مكتبة لتحويل XLTX إلى SQL" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLTX إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xltx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLTX إلى SQL" h2="Perl مكتبة لتحويل XLTX إلى SQL" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLTX إلى SQL وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xltx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى SQL في Perl" >}}

@@ -10,7 +10,7 @@ url: /ru/perl/saveas/tsv-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как SQL в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде SQL — сложная задача. Все переходы TSV в формат SQL выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для сохранения TSV в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из TSV в виде SQL — сложная задача. Все переходы между форматами TSV и SQL выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для сохранения TSV в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения TSV в формате SQL" gistPath="" %}}

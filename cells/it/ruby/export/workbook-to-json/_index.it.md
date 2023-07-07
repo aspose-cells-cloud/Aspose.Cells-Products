@@ -10,7 +10,7 @@ url: /it/ruby/export/workbook-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato JSON in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKBOOK in un file JSON dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato JSON viene eseguita dal nostro Ruby SDK mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti WORKBOOK in file in formato JSON online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output JSON perfetto.
+L'esportazione dell'oggetto WORKBOOK in un file JSON dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato JSON viene eseguita dal nostro SDK Ruby mantenendo il principale contenuto strutturale e logico del foglio di lavoro WORKBOOK di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti WORKBOOK in file in formato JSON online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output JSON perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per esportare WORKBOOK in formato JSON dal foglio di calcolo" gistPath="" %}}

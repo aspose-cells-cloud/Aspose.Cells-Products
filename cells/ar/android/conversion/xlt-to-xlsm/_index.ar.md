@@ -13,7 +13,7 @@ url: /ar/android/conversion/xlt-to-xlsm/
 يعد تحويل تنسيقات الملفات من XLT إلى XLSM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLT إلى XLSM بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLT المصدر. مكتبة Android الخاصة بنا هي حل احترافي لتحويل ملفات XLT إلى XLSM عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج XLSM مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل تنسيق XLT إلى تنسيق XLSM" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل XLT إلى تنسيق XLSM" gistPath="" %}}
  
 ```java
     // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

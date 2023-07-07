@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP'den XLSB'ye Dönüştürme API, Python için
-description:  BMP formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
+title:  BMP'den XLSB'ye Dönüştürme API için Python
+description:  BMP biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

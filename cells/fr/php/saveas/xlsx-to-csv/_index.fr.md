@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLSX au format CSV API pour PHP
-description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XLSX en tant que fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLSX en tant que fichier au format CSV.
 url: /fr/php/saveas/xlsx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

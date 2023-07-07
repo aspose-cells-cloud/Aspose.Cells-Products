@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSB a SXC API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLSB in un file in formato SXC.
 url: /it/swift/conversion/xlsb-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

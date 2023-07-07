@@ -10,7 +10,7 @@ url: /de/java/saveas/tsv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als XLSX unter Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als XLSX ist eine komplexe Aufgabe. Alle TSV-zu-XLSX-Formatübergänge werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um TSV als XLSX-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLSX-Ausgabe.
+Das Speichern von Dateiformaten von TSV als XLSX ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum XLSX-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um TSV als XLSX-Dateien online zu speichern. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte XLSX-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zum Speichern von TSV im XLSX-Format" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Exportar HOJA DE TRABAJO a CSV desde una hoja de cálculo usando Swift API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title: Exportar HOJA DE TRABAJO a CSV desde una hoja de cálculo usando Swift API
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/swift/export/worksheet-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/export/worksheet-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto HOJA DE TRABAJO a archivo de formato CSV en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto HOJA DE TRABAJO a un archivo CSV desde una hoja de cálculo es una tarea compleja. La exportación de la HOJA DE TRABAJO a las transiciones de formato CSV se realiza mediante nuestro SDK de Swift mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de la HOJA DE TRABAJO de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida CSV perfecta.
+Exportar un objeto HOJA DE TRABAJO a un archivo CSV desde una hoja de cálculo es una tarea compleja. La exportación de HOJA DE TRABAJO a las transiciones de formato CSV se realiza mediante nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca Swift es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para exportar HOJA DE TRABAJO a formato CSV desde una hoja de cálculo" gistPath="" %}}

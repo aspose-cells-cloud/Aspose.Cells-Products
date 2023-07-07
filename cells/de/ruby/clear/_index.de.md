@@ -8,7 +8,7 @@ url: /de/ruby/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mit Ruby-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mithilfe von Ruby-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

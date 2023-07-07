@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде MD — сложная задача. Все переходы между форматами XLT и MD выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения XLT в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из XLT в виде MD — сложная задача. Все переходы между форматами XLT и MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения XLT в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLT в формате MD" gistPath="" %}}

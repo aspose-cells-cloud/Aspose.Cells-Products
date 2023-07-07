@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ SQL API لـ PHP
+title:  احفظ الأرقام باسم SQL API لـ PHP
 description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق NUMBERS كملف بتنسيق SQL.
 url: /ar/php/saveas/numbers-to-sql/
 ---

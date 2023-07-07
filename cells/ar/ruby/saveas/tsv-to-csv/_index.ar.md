@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ TSV كملف CSV API من أجل Ruby
+title:  احفظ TSV كملف CSV API لـ Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TSV كملف بتنسيق CSV.
 url: /ar/ruby/saveas/tsv-to-csv/
 ---

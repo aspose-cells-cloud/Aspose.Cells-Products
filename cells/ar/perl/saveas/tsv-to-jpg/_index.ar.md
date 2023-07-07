@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ TSV بصيغة JPG" h2="Perl مكتبة لحفظ TSV بصيغة JPG" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ TSV بتنسيق JPG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/tsv-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ TSV بصيغة JPG" h2="Perl مكتبة لحفظ TSV بصيغة JPG" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ TSV بتنسيق JPG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/tsv-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق JPG في Perl" >}}

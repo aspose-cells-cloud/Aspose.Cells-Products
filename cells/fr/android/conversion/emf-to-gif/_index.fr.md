@@ -10,7 +10,7 @@ url: /fr/android/conversion/emf-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier EMF en GIF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de EMF en GIF est une tâche complexe. Toutes les transitions du format EMF au format GIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque Android est une solution professionnelle pour convertir EMF en fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie GIF parfaite.
+La conversion des formats de fichiers de EMF en GIF est une tâche complexe. Toutes les transitions du format EMF vers le format GIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque Android est une solution professionnelle pour convertir EMF en fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir EMF au format GIF" gistPath="" %}}

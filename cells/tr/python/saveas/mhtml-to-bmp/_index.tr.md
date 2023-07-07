@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi BMP API olarak kaydedin
+title:  MHTML'yi Python için BMP API olarak kaydedin
 description:  MHTML biçim dosyasını BMP biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-bmp/
 ---

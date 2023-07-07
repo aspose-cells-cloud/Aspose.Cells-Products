@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB в формате XML по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде XML — сложная задача. Все переходы формата XLSB в формат XML выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека C# — это профессиональное решение для сохранения XLSB в виде XML-файлов в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из XLSB в виде XML — сложная задача. Все переходы форматов XLSB в XML выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека C# — это профессиональное решение для сохранения XLSB в виде XML-файлов в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSB в формате XML" gistPath="" %}}

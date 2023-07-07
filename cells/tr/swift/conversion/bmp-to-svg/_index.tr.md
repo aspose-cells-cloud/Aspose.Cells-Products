@@ -1,10 +1,10 @@
 ﻿---
 title:  BMP'den SVG'e Swift için API'i dönüştürün
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  BMP biçim dosyasını SVG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/bmp-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i SVG\'e dönüştürmek için Swift API" h2="BMP\'i SVG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak BMP\'i SVG\'e ve diğer belge formatlarını çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="BMP\'i SVG\'e dönüştürmek için Swift API" h2="BMP\'i SVG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak BMP\'i SVG\'e ve diğer belge biçimlerini çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/bmp-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını Swift\'de SVG\'e dönüştürün" >}}

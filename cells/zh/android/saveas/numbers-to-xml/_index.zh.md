@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Android将NUMBERS格式文件保�
 url: /zh/android/saveas/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将数字保存为 XML" h2="将 NUMBERS 保存为 XML 的 Android 库" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是一个使用 Android 在线将 NUMBERS 保存为 XML 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将数字保存为 XML" h2="将 NUMBERS 保存为 XML 的 Android 库" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 NUMBERS 保存为 XML 和其他文档格式的专业解决方案。" urlsection="saveas/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Android 中将 NUMBERS 文件另存为 XML" >}}

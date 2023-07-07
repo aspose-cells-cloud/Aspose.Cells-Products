@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xlsx-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в WMF в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в WMF — сложная задача. Все переходы форматов XLSX в WMF выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSX в WMF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XLSX в WMF — сложная задача. Все переходы формата XLSX в формат WMF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSX в WMF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLSX в формат WMF" gistPath="" %}}

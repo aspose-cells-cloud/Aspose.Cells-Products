@@ -10,7 +10,7 @@ url: /tr/ruby/conversion/json-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Ruby\'de CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini JSON'dan CSV'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan CSV formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JSON'u çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+Dosya biçimlerini JSON'dan CSV'ye dönüştürmek karmaşık bir iştir. Tüm JSON'dan CSV formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JSON'u çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u CSV formatına dönüştürmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

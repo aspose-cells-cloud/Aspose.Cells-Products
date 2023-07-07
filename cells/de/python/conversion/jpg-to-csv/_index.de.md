@@ -1,5 +1,5 @@
 ﻿---
-title:  JPG in CSV konvertieren API für Python
+title:  JPG in CSV konvertieren API in Python
 description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer JPG-Formatdatei in eine CSV-Formatdatei.
 url: /de/python/conversion/jpg-to-csv/
 ---

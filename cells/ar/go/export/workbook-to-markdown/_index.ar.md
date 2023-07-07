@@ -10,7 +10,7 @@ url: /ar/go/export/workbook-to-markdown/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتصدير كائن WORKBOOK إلى ملف بتنسيق MARKDOWN في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف MARKDOWN من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKBOOK إلى تنسيق MARKDOWN بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MARKDOWN عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج MARKDOWN مثالي.
+يعد تصدير كائن كتاب العمل إلى ملف MARKDOWN من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق MARKDOWN بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MARKDOWN عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج MARKDOWN مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير WORKBOOK إلى تنسيق MARKDOWN من جدول البيانات" gistPath="" %}}

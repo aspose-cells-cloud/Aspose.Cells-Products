@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML'den XLSB'ye Dönüştürme API, Python için
-description:  HTML formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
+title:  HTML'den XLSB'ye Dönüştürme API için Python
+description:  HTML biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /tr/nodejs/export/listobject-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini NodeJS\'de ODS biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i ODS biçimine dışa aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+LISTOBJECT nesnesini elektronik tablodan ODS dosyasına dışa aktarma karmaşık bir görevdir. LISTOBJECT'i ODS biçimine aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak ODS formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i elektronik tablodan ODS formatına dışa aktarmak için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

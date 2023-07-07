@@ -10,7 +10,7 @@ url: /fr/ruby/conversion/sxc-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier SXC en XLT en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de SXC en XLT est une tâche complexe. Toutes les transitions de format SXC vers XLT sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque Ruby est une solution professionnelle pour convertir en ligne des fichiers SXC en XLT. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLT parfaite.
+La conversion des formats de fichiers de SXC en XLT est une tâche complexe. Toutes les transitions de format SXC vers XLT sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul SXC source. Notre bibliothèque Ruby est une solution professionnelle pour convertir des fichiers SXC en XLT en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie XLT parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour convertir SXC au format XLT" gistPath="" %}}

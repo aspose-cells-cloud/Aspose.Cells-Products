@@ -10,7 +10,7 @@ url: /ru/ruby/export/shape-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат GIF выполняется нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
+Экспорт объекта SHAPE в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат GIF выполняется нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для экспорта SHAPE в формат GIF из электронной таблицы" gistPath="" %}}

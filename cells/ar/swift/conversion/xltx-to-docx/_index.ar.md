@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX إلى DOCX - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTX إلى DOCX - تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLTX إلى ملف بتنسيق DOCX.
 url: /ar/swift/conversion/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/xltx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى DOCX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLTX إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل ملفات XLTX إلى DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
+يعد تحويل تنسيقات الملفات من XLTX إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLTX إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLTX المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات XLTX إلى DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل XLTX إلى تنسيق DOCX" gistPath="" %}}

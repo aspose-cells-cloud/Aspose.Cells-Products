@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV in XLTX konvertieren API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer TSV-Formatdatei in eine XLTX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im TSV-Format in eine Datei im XLTX-Format.
 url: /de/java/conversion/tsv-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in MHTML Konvertieren Sie API in Perl
-description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
 url: /de/perl/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

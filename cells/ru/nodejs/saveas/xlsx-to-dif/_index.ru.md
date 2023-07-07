@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlsx-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как DIF в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде DIF — сложная задача. Все переходы формата XLSX в формат DIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSX в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
+Сохранение форматов файлов из XLSX в виде DIF — сложная задача. Все переходы формата XLSX в формат DIF выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSX в виде файлов DIF онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLSX в формате DIF" gistPath="" %}}

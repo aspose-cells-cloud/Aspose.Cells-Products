@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/numbers-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS в формате XML в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде XML-файлов онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
+Сохранение форматов файлов из NUMBERS в виде XML — сложная задача. Все переходы формата NUMBERS в формат XML выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека NodeJS — это профессиональное решение для сохранения NUMBERS в виде XML-файлов в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения NUMBERS в формате XML" gistPath="" %}}

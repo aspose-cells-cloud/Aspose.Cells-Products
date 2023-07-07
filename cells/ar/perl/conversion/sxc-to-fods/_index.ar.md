@@ -10,7 +10,7 @@ url: /ar/perl/conversion/sxc-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى FODS في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى FODS مهمة معقدة. يتم إجراء جميع انتقالات تنسيق SXC إلى FODS بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات SXC إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج FODS مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى FODS بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. تعد مكتبتنا Perl حلاً احترافيًا لتحويل ملفات SXC إلى ملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل SXC إلى تنسيق FODS" gistPath="" %}}

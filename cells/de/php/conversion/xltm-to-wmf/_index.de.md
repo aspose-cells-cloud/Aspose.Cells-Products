@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM zu WMF Konvertieren Sie API in PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLTM-Formatdatei in eine WMF-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Konvertieren einer Datei im XLTM-Format in eine Datei im WMF-Format.
 url: /de/php/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

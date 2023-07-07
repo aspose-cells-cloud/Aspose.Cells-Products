@@ -32,7 +32,7 @@ url: /sv/android/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Exportera med länkar till Android Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exportera med Android Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

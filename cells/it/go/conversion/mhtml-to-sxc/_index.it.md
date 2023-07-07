@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da MHTML a SXC API per Go
+title:  Conversione da MHTML a SXC API per andare
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato MHTML in un file in formato SXC.
 url: /it/go/conversion/mhtml-to-sxc/
 ---

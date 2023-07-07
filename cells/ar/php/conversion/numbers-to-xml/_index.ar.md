@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 url: /ar/php/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل الأرقام إلى XML" h2="PHP مكتبة لتحويل الأرقام إلى XML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل الأرقام إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل الأرقام إلى XML" h2="PHP مكتبة لتحويل الأرقام إلى XML" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل الأرقام إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى XML في PHP" >}}

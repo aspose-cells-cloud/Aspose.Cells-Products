@@ -10,7 +10,7 @@ url: /ru/net/saveas/numbers-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как WMF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде WMF — сложная задача. Все переходы NUMBERS в формат WMF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов WMF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из NUMBERS в виде WMF — сложная задача. Все переходы NUMBERS в формат WMF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения NUMBERS в формате WMF" gistPath="" %}}

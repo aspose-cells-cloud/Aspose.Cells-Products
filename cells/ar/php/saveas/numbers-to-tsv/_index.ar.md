@@ -10,7 +10,7 @@ url: /ar/php/saveas/numbers-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS كملف TSV في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من NUMBERS مثل TSV مهمة معقدة. يتم إجراء جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ الأرقام كملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج TSV مثالي.
+يعد حفظ تنسيقات الملفات من NUMBERS مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ الأرقام كملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في PHP باستخدام REST API لحفظ الأرقام بتنسيق TSV" gistPath="" %}}

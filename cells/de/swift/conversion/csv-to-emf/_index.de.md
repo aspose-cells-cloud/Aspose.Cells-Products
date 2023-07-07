@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV in EMF Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer CSV-Formatdatei in eine Datei im EMF-Format.
 url: /de/swift/conversion/csv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

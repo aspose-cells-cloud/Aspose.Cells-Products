@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/conversion/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLS в XLT" h2="Библиотека NodeJS для преобразования XLS в XLT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLS в XLT и других форматов документов с помощью NodeJS." urlsection="conversion/xls-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLS в XLT" h2="Библиотека NodeJS для преобразования XLS в XLT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLS в XLT и других форматов документов с использованием NodeJS." urlsection="conversion/xls-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в XLT в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в XLT — сложная задача. Все переходы между форматами XLS и XLT выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLS в XLT. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
+Преобразование форматов файлов из XLS в XLT — сложная задача. Все переходы между форматами XLS и XLT выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLS в XLT. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLS в формат XLT" gistPath="" %}}

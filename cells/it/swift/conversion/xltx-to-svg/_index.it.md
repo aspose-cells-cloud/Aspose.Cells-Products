@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX a SVG Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLTX nel file in formato SVG.
 url: /it/swift/conversion/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

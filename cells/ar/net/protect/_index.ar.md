@@ -1,14 +1,14 @@
 ﻿---
-title:  احم بـ C#
-description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع C#. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  احم باستخدام C#
+description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام C#. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/net/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احم بـ C#" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع C#. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احم باستخدام C#" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام C#. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="قم بالحماية باستخدام روابط التمديد C#" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="الحماية باستخدام C# روابط الامتداد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

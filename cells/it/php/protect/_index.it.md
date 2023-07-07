@@ -1,14 +1,14 @@
 ﻿---
-title:  Proteggi con PHP
-description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con PHP. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Proteggi usando PHP
+description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando PHP. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/php/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi con PHP" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con PHP. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi usando PHP" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando PHP. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Proteggi con i collegamenti di estensione PHP" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Proteggi utilizzando i collegamenti di estensione PHP" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

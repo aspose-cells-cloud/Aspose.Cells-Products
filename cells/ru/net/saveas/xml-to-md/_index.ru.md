@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/saveas/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML как MD" h2="C# библиотека для сохранения XML как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в виде MD и других форматов документов в Интернете с использованием C#." urlsection="saveas/xml-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML как MD" h2="C# библиотека для сохранения XML как MD" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в виде MD и других форматов документов онлайн по телефону C#." urlsection="saveas/xml-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как MD в C#." >}}

@@ -10,7 +10,7 @@ url: /ru/perl/conversion/png-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в SXC в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из PNG в SXC — сложная задача. Все переходы формата PNG в формат SXC выполняются нашим пакетом SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации PNG в файлы SXC. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования PNG в формат SXC" gistPath="" %}}

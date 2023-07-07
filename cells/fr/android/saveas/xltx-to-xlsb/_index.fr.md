@@ -7,7 +7,7 @@ url: /fr/android/saveas/xltx-to-xlsb/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLTX en XLSB" h2="Bibliothèque Android pour enregistrer XLTX en XLSB" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX au format XLSB et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xltx-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format XLSB sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format XLSB dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers de XLTX au format XLSB est une tâche complexe. Toutes les transitions de format XLTX vers XLSB sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLTX au format XLSB. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLSB parfaite.

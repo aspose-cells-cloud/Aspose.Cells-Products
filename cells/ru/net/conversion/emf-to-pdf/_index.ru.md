@@ -10,7 +10,7 @@ url: /ru/net/conversion/emf-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в PDF в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в PDF — сложная задача. Все переходы форматов с EMF на PDF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов EMF в PDF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PDF.
+Преобразование форматов файлов из EMF в PDF — сложная задача. Все переходы форматов с EMF на PDF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов EMF в PDF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования формата EMF в формат PDF" gistPath="" %}}

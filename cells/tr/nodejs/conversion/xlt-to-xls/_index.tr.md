@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını NodeJS\'de XLS\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm XLT'den XLS formatına geçişler, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLT'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
+Dosya formatlarını XLT'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm XLT'den XLS'ye biçim geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLT'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi XLS formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

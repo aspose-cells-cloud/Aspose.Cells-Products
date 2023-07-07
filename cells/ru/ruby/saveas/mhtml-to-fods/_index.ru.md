@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/mhtml-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде FODS — сложная задача. Все переходы между форматами MHTML и FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения MHTML в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Сохранение форматов файлов из MHTML в виде FODS — сложная задача. Все переходы между форматами MHTML и FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Ruby — это профессиональное решение для сохранения MHTML в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения MHTML в формате FODS" gistPath="" %}}

@@ -7,7 +7,7 @@ url: /ru/perl/conversion/txt-to-dif/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TXT в DIF" h2="Perl библиотека для преобразования TXT в DIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации TXT в DIF и другие форматы документов с использованием Perl." urlsection="conversion/txt-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в DIF в Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в DIF по номеру Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из TXT в DIF — сложная задача. Все переходы формата TXT в формат DIF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TXT в DIF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод DIF.

@@ -7,7 +7,7 @@ url: /fr/python/saveas/png-to-txt/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer PNG en TXT" h2="Bibliothèque Python pour enregistrer PNG au format TXT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format TXT et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/png-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG au format TXT dans Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier PNG au format TXT dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers à partir de PNG en tant que TXT est une tâche complexe. Toutes les transitions du format PNG vers le format TXT sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque Python est une solution professionnelle pour enregistrer PNG sous forme de fichiers TXT en ligne. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie TXT parfaite.

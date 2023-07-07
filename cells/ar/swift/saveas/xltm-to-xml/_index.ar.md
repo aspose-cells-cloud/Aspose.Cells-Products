@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTM كـ XML API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق XLTM كملف بتنسيق XML.
 url: /ar/swift/saveas/xltm-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

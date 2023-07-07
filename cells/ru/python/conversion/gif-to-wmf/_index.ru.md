@@ -10,7 +10,7 @@ url: /ru/python/conversion/gif-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов GIF в WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из GIF в WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов GIF в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования GIF в формат WMF" gistPath="" %}}

@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/ruby/export/workbook-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren der Arbeitsmappe in eine CSV-Datei" h2="Ruby-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine Datei im CSV-Format aus einer Tabellenkalkulation online mit Ruby." urlsection="export/workbook-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren der Arbeitsmappe in eine CSV-Datei" h2="Ruby-Bibliothek zum Exportieren von WORKBOOK in eine CSV-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in CSV-Formatdateien aus Tabellenkalkulationen online mit Ruby." urlsection="export/workbook-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine CSV-Formatdatei in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das CSV-Format werden von unserem Ruby SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-WORKBOOK-Tabelle erhalten bleiben. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im CSV-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte CSV-Ausgabe.
+Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das CSV-Format werden von unserem Ruby SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im CSV-Format. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und eine perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das CSV-Format" gistPath="" %}}

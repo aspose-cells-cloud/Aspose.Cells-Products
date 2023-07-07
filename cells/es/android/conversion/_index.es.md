@@ -1,10 +1,10 @@
 ﻿---
-title:  Conversión con Android
-description: Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato con Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Conversión usando Android
+description: Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato usando Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/android/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversión con Android" h2="Aspose.Cells Cloud SDK admite la conversión de formato de archivo. El formato de archivo compatible tiene más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato con Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversión usando Android" h2="Aspose.Cells Cloud SDK admite la conversión de formato de archivo. El formato de archivo compatible tiene más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la conversión de archivos de Excel a diferentes tipos de archivos de formato usando Android. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /es/android/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Conversión con enlaces de extensión de Android" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Conversión usando enlaces de extensión de Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

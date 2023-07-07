@@ -1,10 +1,10 @@
 ﻿---
 title:  NUMBERS 到 ODS 转换 API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将NUMBERS格式文件转换为ODS格式文件。
 url: /zh/swift/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 NUMBERS 转换为 ODS" h2="将 NUMBERS 转换为 ODS 的 Swift 库" p="使用 Cells Conversion REST API 在 Swift 中创建自定义电子表格工作流程。这是使用 Swift 在线将 NUMBERS 转换为 ODS 和其他文档格式的专业解决方案。" urlsection="conversion/numbers-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 将 NUMBERS 转换为 ODS" h2="将 NUMBERS 转换为 ODS 的 Swift 库" p="使用 Cells Conversion REST API 在 Swift 中创建自定义电子表格工作流程。这是一个使用 Swift 在线将 NUMBERS 转换为 ODS 和其他文档格式的专业解决方案。" urlsection="conversion/numbers-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Swift 中将 NUMBERS 文件转换为 ODS" >}}

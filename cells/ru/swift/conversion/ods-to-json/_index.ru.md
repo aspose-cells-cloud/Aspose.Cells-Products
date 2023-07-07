@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование ODS в JSON API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата ODS в файл формата JSON.
 url: /ru/swift/conversion/ods-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/ods-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в JSON в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы от ODS к формату JSON выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования ODS в формат JSON" gistPath="" %}}

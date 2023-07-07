@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML till ODS Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera MHTML-formatfil till ODS-formatfil.
 url: /sv/swift/conversion/mhtml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

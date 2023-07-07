@@ -10,7 +10,7 @@ url: /tr/android/saveas/xlsb-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını Android\'de FODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını XLSB'den FODS olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den FODS formatına geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSB'yi çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını XLSB'den FODS olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den FODS formatına geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSB'yi çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSB\'yi FODS formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

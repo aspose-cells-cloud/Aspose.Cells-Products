@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTM come XLSB API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato XLTM come file in formato XLSB.
 url: /it/swift/saveas/xltm-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

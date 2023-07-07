@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter TIFF API für PHP
+title:  Speichern Sie XLTX als TIFF API für PHP
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im XLTX-Format als Datei im Format TIFF zu speichern.
 url: /de/php/saveas/xltx-to-tiff/
 ---

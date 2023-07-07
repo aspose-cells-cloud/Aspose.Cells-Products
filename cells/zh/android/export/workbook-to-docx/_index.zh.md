@@ -1,5 +1,5 @@
 ﻿---
-title: 使用 Android API 将电子表格中的 WORKBOOK 导出到 DOCX
+title: 使用 Android API 将电子表格中的 WORKBOOK 导出为 DOCX
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/android/export/workbook-to-docx/
 ---

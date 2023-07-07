@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLSM come MHTML API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato XLSM come file in formato MHTML.
 url: /it/swift/saveas/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

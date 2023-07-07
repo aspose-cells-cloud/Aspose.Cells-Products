@@ -1,6 +1,6 @@
 ﻿---
 title:  JPG a EMF Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato JPG nel file in formato EMF.
 url: /it/swift/conversion/jpg-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

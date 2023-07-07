@@ -10,7 +10,7 @@ url: /ru/android/conversion/xlsm-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в WMF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в WMF — сложная задача. Все переходы из формата XLSM в формат WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSM в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
+Преобразование форматов файлов из XLSM в WMF — сложная задача. Все переходы между форматами XLSM и WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSM в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLSM в формат WMF" gistPath="" %}}

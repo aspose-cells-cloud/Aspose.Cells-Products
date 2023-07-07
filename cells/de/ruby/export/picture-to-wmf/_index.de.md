@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie PICTURE aus der Tabelle mit Ruby API nach WMF
+title:  Exportieren Sie PICTURE aus der Tabellenkalkulation mit Ruby API nach WMF
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/ruby/export/picture-to-wmf/
 ---

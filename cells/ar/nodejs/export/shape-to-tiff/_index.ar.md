@@ -10,7 +10,7 @@ url: /ar/nodejs/export/shape-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق TIFF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى TIFF بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات SHAPE. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق TIFF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TIFF مثالي.
+يعد تصدير كائن SHAPE إلى ملف TIFF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى TIFF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SHAPE. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق TIFF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TIFF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتصدير الشكل إلى تنسيق TIFF من جدول البيانات" gistPath="" %}}

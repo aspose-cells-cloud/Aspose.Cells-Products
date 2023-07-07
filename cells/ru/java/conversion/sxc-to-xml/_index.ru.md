@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/conversion/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования SXC в XML" h2="Java библиотека для преобразования SXC в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-преобразования SXC в XML и другие форматы документов с использованием Java." urlsection="conversion/sxc-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования SXC в XML" h2="Java библиотека для преобразования SXC в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации SXC в XML и другие форматы документов с использованием Java." urlsection="conversion/sxc-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XML в Java" >}}

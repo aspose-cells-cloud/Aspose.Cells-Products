@@ -1,6 +1,6 @@
 ﻿---
 title:  Nesneleri Temizle
-description:  Aspose.Cells Cloud REST API, bir Excel dosyasındaki net iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+description:  Aspose.Cells Cloud REST API, bir Excel dosyasındaki açık iç nesneleri destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}

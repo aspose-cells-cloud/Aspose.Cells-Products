@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie unter C#
+title:  Speichern unter C#
 description:  Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien als Formatdateien mit C#. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/net/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern Sie unter C#" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in anderen Formaten. Die unterstützten Dateiformate umfassen mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien als Formatdateien mit C#. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Speichern unter C#" h2="Aspose.Cells Cloud SDK unterstützt das Speichern von Arbeitsmappen in anderen Formaten. Die unterstützten Dateiformate umfassen mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt das Speichern von Excel-Dateien als Formatdateien unter Verwendung von C#. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /de/net/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Speichern unter C# Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Speichern unter Verwendung von C# Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

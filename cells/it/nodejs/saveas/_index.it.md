@@ -1,10 +1,10 @@
 ﻿---
-title:  Salva come con NodeJS
-description: Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato con NodeJS. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Salva come usando NodeJS
+description: Aspose.Cells Cloud REST API supporta il salvataggio di file Excel come tipi di file di formato utilizzando NodeJS. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/nodejs/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva come con NodeJS" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato con NodeJS. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva come usando NodeJS" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file Excel come tipi di file di formato utilizzando NodeJS. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /it/nodejs/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Salva con nome con i collegamenti dell\'estensione NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Salva con nome utilizzando i collegamenti dell\'estensione NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

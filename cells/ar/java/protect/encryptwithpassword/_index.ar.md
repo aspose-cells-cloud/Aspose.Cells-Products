@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لحماية Microsoft Excel & OpenOffice Calc ب
 url: /ar/java/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع كلمة مرور" h2="مكتبة Java لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في Java. هذا الحل الاحترافي يحمي Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام Java." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع كلمة مرور" h2="مكتبة Java لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Protect REST API لحماية Microsoft Excel المحلي وجدول بيانات OpenOffice Calc مع سير عمل كلمة المرور في Java. يحمي هذا الحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Java." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Java REST API" >}}

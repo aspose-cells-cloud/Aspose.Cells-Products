@@ -1,14 +1,14 @@
 ﻿---
-title:  Protégez avec PHP
-description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec PHP. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Protégez en utilisant PHP
+description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l'aide de PHP. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/php/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez avec PHP" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec PHP. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez en utilisant PHP" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l\'aide de PHP. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protégez avec les liens d\'extension PHP" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protégez en utilisant les liens d\'extension PHP" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

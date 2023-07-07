@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/saveas/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения GIF в формате XLS" h2="Python библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения GIF в формате XLS и других форматов документов в Интернете с использованием Python." urlsection="saveas/gif-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения GIF в формате XLS" h2="Python библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения GIF в формате XLS и других форматах документов в Интернете с использованием Python." urlsection="saveas/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате XLS по номеру Python." >}}

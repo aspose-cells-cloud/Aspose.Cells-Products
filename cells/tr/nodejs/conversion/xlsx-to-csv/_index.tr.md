@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlsx-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSX dosyasını NodeJS\'de CSV\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSX'ten CSV'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten CSV formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSX'i çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+Dosya formatlarını XLSX'ten CSV'ye dönüştürmek karmaşık bir iştir. Tüm XLSX'ten CSV formatına geçişler, kaynak XLSX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSX'i çevrimiçi olarak CSV dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSX\'i CSV formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

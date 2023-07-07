@@ -13,7 +13,7 @@ url: /es/java/export/listobject-to-emf/
 Exportar el objeto LISTOBJECT al archivo EMF desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato EMF se realiza mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Java es una solución profesional para exportar objetos LISTOBJECT a archivos de formato EMF en línea. Este SDK de Cloud ofrece a los desarrolladores de Java una potente funcionalidad y un resultado EMF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para exportar LISTOBJECT al formato EMF desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para exportar LISTOBJECT al formato EMF desde la hoja de cálculo" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/

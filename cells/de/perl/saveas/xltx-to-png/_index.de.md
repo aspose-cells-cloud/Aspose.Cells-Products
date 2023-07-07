@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter PNG API für Perl
+title:  Speichern Sie XLTX als PNG API für Perl
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im XLTX-Format als Datei im Format PNG zu speichern.
 url: /de/perl/saveas/xltx-to-png/
 ---

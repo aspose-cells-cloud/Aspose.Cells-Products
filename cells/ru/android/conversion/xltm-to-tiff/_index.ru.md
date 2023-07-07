@@ -10,7 +10,7 @@ url: /ru/android/conversion/xltm-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в TIFF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в TIFF — сложная задача. Все переходы формата XLTM в формат TIFF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLTM в TIFF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
+Преобразование форматов файлов из XLTM в TIFF — сложная задача. Все переходы между форматами XLTM и TIFF выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLTM в TIFF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLTM в формат TIFF" gistPath="" %}}

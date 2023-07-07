@@ -10,7 +10,7 @@ url: /tr/go/saveas/xlsb-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını Go\'da TXT olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSB'den TXT olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den TXT biçimine geçişler, kaynak XLSB e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLSB'yi çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
+Dosya biçimlerini XLSB'den TXT olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den TXT biçimine geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLSB'yi çevrimiçi TXT dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSB\'yi TXT formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

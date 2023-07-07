@@ -1,10 +1,10 @@
 ﻿---
-title:  Unisci con Vai
-description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel con Go. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Unisci usando Go
+description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel utilizzando Go. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/go/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci con Vai" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel con Go. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci usando Go" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel utilizzando Go. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /it/go/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Unisci con i link Go Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Unisci utilizzando i link Go Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

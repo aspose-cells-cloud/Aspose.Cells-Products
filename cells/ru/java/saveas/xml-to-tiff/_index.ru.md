@@ -10,7 +10,7 @@ url: /ru/java/saveas/xml-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как TIFF в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как TIFF — сложная задача. Все переходы между форматами XML и TIFF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для сохранения XML-файлов в формате TIFF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
+Сохранение форматов файлов из XML как TIFF — сложная задача. Все переходы между форматами XML и TIFF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для сохранения XML в виде файлов TIFF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XML в формате TIFF" gistPath="" %}}

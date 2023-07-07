@@ -1,6 +1,6 @@
 ﻿---
-title:  XML till CSV Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XML till CSV Konvertera API för Swift
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera XML-formatfil till CSV-formatfil.
 url: /sv/swift/conversion/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

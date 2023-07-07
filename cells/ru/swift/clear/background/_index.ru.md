@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки фона на Mic
 url: /ru/swift/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки фона в локальной таблице Microsoft Excel и OpenOffice Calc" h2="Swift Clear для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки фона в локальной таблице Microsoft Excel и OpenOffice Calc" h2="Swift Clear для очистки фона в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить фон в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить фон на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Swift REST API" >}}

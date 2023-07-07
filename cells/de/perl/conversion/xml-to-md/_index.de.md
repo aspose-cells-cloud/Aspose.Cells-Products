@@ -1,6 +1,6 @@
 ﻿---
-title:  XML in MD Konvertieren Sie API in Perl
-description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
+title:  XML in MD konvertieren API für Perl
+description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
 url: /de/perl/conversion/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

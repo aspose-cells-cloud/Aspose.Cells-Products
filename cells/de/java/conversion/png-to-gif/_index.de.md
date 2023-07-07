@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in GIF konvertieren API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im PNG-Format in eine GIF-Formatdatei zu konvertieren.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format PNG in eine Datei im GIF-Format zu konvertieren.
 url: /de/java/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

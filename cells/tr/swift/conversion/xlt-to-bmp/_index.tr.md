@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT'yi BMP'e Swift için API'e Dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XLT biçim dosyasını BMP biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xlt-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/xlt-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Swift\'de BMP\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLT'den BMP'e dönüştürmek karmaşık bir iştir. XLT'den BMP'e tüm biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıkışı sağlar.
+Dosya formatlarını XLT'den BMP'e dönüştürmek karmaşık bir iştir. Tüm XLT - BMP biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLT'yi çevrimiçi olarak BMP dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel BMP çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi BMP biçimine dönüştürmek için REST API kullanan Swift kod örneği" gistPath="" %}}

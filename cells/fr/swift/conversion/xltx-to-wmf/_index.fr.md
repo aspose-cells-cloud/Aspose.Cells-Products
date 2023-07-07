@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX en WMF API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLTX en fichier au format WMF.
 url: /fr/swift/conversion/xltx-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

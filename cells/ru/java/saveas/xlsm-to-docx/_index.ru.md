@@ -10,7 +10,7 @@ url: /ru/java/saveas/xlsm-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM в формате DOCX по адресу Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для сохранения XLSM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из XLSM в виде DOCX — сложная задача. Все переходы из формата XLSM в формат DOCX выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для сохранения XLSM в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLSM в формате DOCX" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 PHP 进行保护
-description: Aspose.Cells Cloud REST API 支持使用 PHP 进行解密、加密和数字签名工作簿。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 保护使用PHP
+description:  Aspose.Cells Cloud REST API 支持使用 PHP 进行解密、加密和数字签名工作簿。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/php/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 PHP 进行保护" h2="Aspose.Cells Cloud SDK支持解密、加密、数字签名工作簿。" p="Aspose.Cells Cloud REST API 支持使用 PHP 进行解密、加密和数字签名工作簿。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="保护使用PHP" h2="Aspose.Cells Cloud SDK支持解密、加密、数字签名工作簿。" p="Aspose.Cells Cloud REST API 支持使用 PHP 进行解密、加密和数字签名工作簿。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

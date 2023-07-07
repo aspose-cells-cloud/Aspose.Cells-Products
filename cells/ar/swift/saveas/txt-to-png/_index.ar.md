@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كـ PNG API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق TXT كملف تنسيق PNG.
 url: /ar/swift/saveas/txt-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

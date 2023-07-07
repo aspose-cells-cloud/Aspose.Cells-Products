@@ -4,13 +4,13 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/nodejs/export/listobject-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von LISTOBJECT in eine JSON-Datei" h2="NodeJS-Bibliothek zum Exportieren von LISTOBJECT in eine JSON-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine JSON-Formatdatei aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/listobject-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von LISTOBJECT in eine JSON-Datei" h2="NodeJS-Bibliothek zum Exportieren von LISTOBJECT in eine JSON-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von LISTOBJECT in eine Datei im JSON-Format aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/listobject-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das LISTOBJECT-Objekt in eine JSON-Formatdatei in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine JSON-Datei ist eine komplexe Aufgabe. Der Export von LISTOBJECT-Formatübergängen in das JSON-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
+Das Exportieren eines LISTOBJECT-Objekts aus einer Tabellenkalkulation in eine JSON-Datei ist eine komplexe Aufgabe. Der Export von Übergängen von LISTOBJECT in das JSON-Format wird von unserem NodeJS SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-LISTOBJECT-Tabelle erhalten bleibt. Unsere NodeJS-Bibliothek ist eine professionelle Lösung zum Online-Export von LISTOBJECT-Objekten in Dateien im JSON-Format. Dieses Cloud SDK bietet NodeJS-Entwicklern leistungsstarke Funktionalität und perfekte JSON-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in NodeJS mit REST API zum Exportieren von LISTOBJECT in das JSON-Format aus einer Tabellenkalkulation" gistPath="" %}}

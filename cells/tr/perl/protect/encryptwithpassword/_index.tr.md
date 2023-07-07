@@ -1,6 +1,6 @@
 ﻿---
 title:  Bulutta Perl ile yerel e-tabloyu şifreyle şifreleyin
-description:  Microsoft Excel ve OpenOffice Calc ile Perl'i Korumak için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, Perl için Cells Cloud API SDK ile şifreyle şifreleyin.
+description:  Microsoft Excel ve Perl ile OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, Perl için Cells Cloud API SDK ile şifreyle şifreleyin.
 url: /tr/perl/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

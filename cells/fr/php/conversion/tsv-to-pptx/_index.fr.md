@@ -4,7 +4,7 @@ description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier
 url: /fr/php/conversion/tsv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir TSV en PPTX" h2="bibliothèque PHP pour convertir TSV en PPTX" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir TSV en PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/tsv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir TSV en PPTX" h2="bibliothèque PHP pour convertir TSV en PPTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir TSV en PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/tsv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TSV en PPTX en PHP" >}}

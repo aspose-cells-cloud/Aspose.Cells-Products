@@ -1,14 +1,14 @@
 ﻿---
-title:  Impostare lo sfondo con Java
-description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel con Java. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Imposta lo sfondo usando Java
+description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel utilizzando Java. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/java/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Impostare lo sfondo con Java" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel con Java. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Imposta lo sfondo usando Java" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel utilizzando Java. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Impostare lo sfondo con i collegamenti di estensione Java" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Imposta lo sfondo utilizzando i collegamenti di estensione Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

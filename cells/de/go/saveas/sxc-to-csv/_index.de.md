@@ -4,7 +4,7 @@ description:  Verwenden Sie Aspose.Cells Cloud SDK für Go, um SXC-Formatdateien
 url: /de/go/saveas/sxc-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um SXC als CSV zu speichern" h2="Gehen Sie zur Bibliothek, um SXC als CSV zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von SXC als CSV und anderen Dokumentformaten mit Go." urlsection="saveas/sxc-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um SXC als CSV zu speichern" h2="Gehen Sie zur Bibliothek, um SXC als CSV zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Go zu erstellen. Dies ist eine professionelle Lösung, um SXC als CSV und andere Dokumentformate online mit Go zu speichern." urlsection="saveas/sxc-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als CSV in Go" >}}

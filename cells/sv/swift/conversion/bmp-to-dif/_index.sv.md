@@ -1,6 +1,6 @@
 ﻿---
-title: BMP till DIF Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title:  BMP till DIF Konvertera API för Swift
+description:  Använda Aspose.Cells Cloud SDK för Swift för att konvertera BMP filformat till DIF-format fil.
 url: /sv/swift/conversion/bmp-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

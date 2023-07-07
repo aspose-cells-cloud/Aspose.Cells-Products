@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/sxc-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ SXC كـ HTML" h2="مكتبة Perl لحفظ SXC كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ SXC كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/sxc-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ SXC كـ HTML" h2="مكتبة Perl لحفظ SXC كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ SXC كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/sxc-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كـ HTML في Perl" >}}

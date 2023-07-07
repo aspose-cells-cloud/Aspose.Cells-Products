@@ -10,7 +10,7 @@ url: /ru/python/saveas/html-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как MD в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как MD — сложная задача. Все переходы формата HTML в формат MD выполняются нашим пакетом SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов MD в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов с HTML как MD — сложная задача. Все переходы формата HTML в формат MD выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для сохранения HTML в виде файлов MD в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения HTML в формате MD" gistPath="" %}}

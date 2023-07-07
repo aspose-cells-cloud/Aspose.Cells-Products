@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine MHTM
 url: /de/python/conversion/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API, um MHTML in XPS zu konvertieren" h2="Python-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um MHTML in XPS und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/mhtml-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von MHTML in XPS" h2="Python-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um MHTML in XPS und andere Dokumentformate online mit Python zu konvertieren." urlsection="conversion/mhtml-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in XPS in Python" >}}

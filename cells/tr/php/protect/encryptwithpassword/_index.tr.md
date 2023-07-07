@@ -1,6 +1,6 @@
 ﻿---
 title:  Bulutta PHP ile yerel e-tabloyu şifreyle şifreleyin
-description:  Microsoft Excel ve OpenOffice Calc ile PHP'i Korumak için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, PHP için Cells Cloud API SDK ile şifreyle şifreleyin.
+description:  Microsoft Excel ve PHP ile OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, PHP için Cells Cloud API SDK ile şifreyle şifreleyin.
 url: /tr/php/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

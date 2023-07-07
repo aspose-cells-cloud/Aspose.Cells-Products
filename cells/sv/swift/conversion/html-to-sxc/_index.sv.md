@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML till SXC Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: HTML till SXC Konvertera API för Swift
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera HTML filformat till SXC format fil.
 url: /sv/swift/conversion/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

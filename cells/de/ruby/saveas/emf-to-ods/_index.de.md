@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei i
 url: /de/ruby/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um EMF als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von EMF als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von EMF als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/emf-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um EMF als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von EMF als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um EMF als ODS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/emf-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine EMF-Datei als ODS in Ruby" >}}

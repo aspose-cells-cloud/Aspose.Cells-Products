@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV إلى XLTM - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق TSV إلى ملف تنسيق XLTM.
 url: /ar/swift/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

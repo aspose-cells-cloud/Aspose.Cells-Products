@@ -10,7 +10,7 @@ url: /ru/net/conversion/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XLTX в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот Cloud SDK предоставляет разработчикам C# мощную функциональность и превосходный результат XLTX.
+Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот Cloud SDK предоставляет разработчикам C# мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования HTML в формат XLTX" gistPath="" %}}

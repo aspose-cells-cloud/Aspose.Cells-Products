@@ -1,5 +1,5 @@
 ﻿---
-title:  CSV in JSON Konvertieren API for Java
+title:  CSV zu JSON Konvertieren API for Java
 description: Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im CSV-Format in eine Datei im JSON-Format.
 url: /de/java/conversion/csv-to-json/
 ---

@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/go/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için API\'e gidin Microsoft Excel ve OpenOffice Calc e-tablosu şifreyle" h2="Bulutu korumak için kitaplığa gidin Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API Microsoft Excel\'i ve Go\'da parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu Go kullanarak şifrelerle çevrimiçi olarak korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için API\'e gidin Microsoft Excel ve OpenOffice Calc e-tablosu şifreyle" h2="Bulutu korumak için kitaplığa gidin Microsoft Excel ve şifreyle OpenOffice Calc elektronik tablosu" p="Bulutu korumak için Cells Protect REST API Microsoft Excel\'i ve Go\'da parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, bulutu Microsoft Excel ve OpenOffice Calc elektronik tablosunu Go kullanarak şifrelerle çevrimiçi olarak korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc e-tablosunu şifreyle - Go REST API" >}}

@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/sxc-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف SXC إلى PPTX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من SXC إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
+يعد تحويل تنسيقات الملفات من SXC إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات SXC إلى PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل SXC إلى تنسيق PPTX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV in TIFF Konvertieren Sie API in for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer TSV-Formatdatei in eine Datei im TIFF-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im TSV-Format in eine Datei im TIFF-Format.
 url: /de/java/conversion/tsv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

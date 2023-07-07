@@ -10,7 +10,7 @@ url: /ru/perl/saveas/emf-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как BMP в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как BMP — сложная задача. Все переходы форматов с EMF на BMP выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для сохранения файлов EMF как BMP онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
+Сохранение форматов файлов с EMF как BMP — сложная задача. Все переходы форматов с EMF на BMP выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для сохранения файлов EMF как BMP онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения EMF в формате BMP" gistPath="" %}}

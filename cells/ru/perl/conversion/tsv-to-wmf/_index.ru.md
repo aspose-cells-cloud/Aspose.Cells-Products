@@ -10,7 +10,7 @@ url: /ru/perl/conversion/tsv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в WMF в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в WMF — сложная задача. Все переходы между форматами TSV и WMF выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в WMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из TSV в WMF — сложная задача. Все переходы между форматами TSV и WMF выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов TSV в WMF. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования TSV в формат WMF" gistPath="" %}}

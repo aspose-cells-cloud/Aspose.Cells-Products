@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als JPG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XML-Formatdateien als JPG-Formatdateien.
 url: /de/swift/saveas/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

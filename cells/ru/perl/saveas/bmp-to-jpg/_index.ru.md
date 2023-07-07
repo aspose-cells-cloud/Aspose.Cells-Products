@@ -10,7 +10,7 @@ url: /ru/perl/saveas/bmp-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP в формате JPG в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в виде JPG — сложная задача. Все переходы BMP в формат JPG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения BMP в виде файлов JPG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
+Сохранение форматов файлов с BMP в виде JPG — сложная задача. Все переходы BMP в формат JPG выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Perl — это профессиональное решение для сохранения BMP в виде файлов JPG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения BMP в формате JPG" gistPath="" %}}

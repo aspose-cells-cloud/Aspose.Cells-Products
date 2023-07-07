@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar imágenes en Microsoft Excel y Ope
 url: /es/java/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para borrar imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc" h2="Java Borrar imágenes claras en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en Microsoft Excel local y flujos de trabajo de hoja de cálculo OpenOffice Calc en Java. Esta solución profesional borra imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Java." urlsection="clear/Pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para borrar imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc" h2="Java Borrar imágenes claras en Microsoft Excel local y hoja de cálculo OpenOffice Calc" p="Use Cells Clear REST API para borrar imágenes en los flujos de trabajo de hoja de cálculo local Microsoft Excel y OpenOffice Calc en Java. Esta solución profesional borra imágenes en Microsoft Excel local y hoja de cálculo OpenOffice Calc usando Java." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Imágenes claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Java RESTO API" >}}

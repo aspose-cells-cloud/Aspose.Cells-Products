@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования MHTML в XML" h2="Python библиотека для преобразования MHTML в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации MHTML в XML и другие форматы документов с использованием Python." urlsection="conversion/mhtml-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования MHTML в XML" h2="Python библиотека для преобразования MHTML в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-преобразования MHTML в XML и другие форматы документов с использованием Python." urlsection="conversion/mhtml-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XML в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из MHTML в XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов MHTML в XML. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования MHTML в формат XML" gistPath="" %}}

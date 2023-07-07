@@ -10,7 +10,7 @@ url: /ar/go/conversion/txt-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف TXT إلى XLTM في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من TXT إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLTM بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLTM مثالي.
+يعد تحويل تنسيقات الملفات من TXT إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLTM بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات TXT إلى XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل تنسيق TXT إلى XLTM" gistPath="" %}}

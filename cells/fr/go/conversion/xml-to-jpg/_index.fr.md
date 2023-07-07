@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XML en JPG API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir un fichier au format XML en fichier au format JPG.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir un fichier au format XML en fichier au format JPG.
 url: /fr/go/conversion/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

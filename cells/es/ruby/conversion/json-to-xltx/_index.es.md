@@ -10,7 +10,7 @@ url: /es/ruby/conversion/json-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo JSON a XLTX en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de JSON a XLTX es una tarea compleja. Nuestro Ruby SDK realiza todas las transiciones de formato JSON a XLTX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos JSON a XLTX en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLTX perfecta.
+Convertir formatos de archivo de JSON a XLTX es una tarea compleja. Todas las transiciones de formato JSON a XLTX las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos JSON a XLTX en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLTX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir JSON a formato XLTX" gistPath="" %}}

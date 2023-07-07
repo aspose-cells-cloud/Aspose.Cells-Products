@@ -4,7 +4,7 @@ description:  XML biçim dosyasını JPG biçim dosyası olarak kaydetmek için 
 url: /tr/net/saveas/xml-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JPG olarak kaydetmek için C# API" h2="XML\'i JPG olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XML\'i C# kullanarak çevrimiçi olarak JPG ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i JPG olarak kaydetmek için C# API" h2="XML\'i JPG olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, C#\'i kullanarak XML\'i JPG ve diğer belge biçimleri olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını C#\'de JPG olarak kaydedin" >}}

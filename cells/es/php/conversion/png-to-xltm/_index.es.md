@@ -4,7 +4,7 @@ description: Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo de
 url: /es/php/conversion/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir PNG a XLTM" h2="PHP biblioteca para convertir PNG a XLTM" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir PNG a XLTM y otros formatos de documentos en línea usando PHP." urlsection="conversion/png-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir PNG a XLTM" h2="PHP biblioteca para convertir PNG a XLTM" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir PNG a XLTM y otros formatos de documentos en línea usando PHP." urlsection="conversion/png-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo PNG a XLTM en PHP" >}}

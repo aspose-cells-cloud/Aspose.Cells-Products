@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare le tabelle pivot su Microsoft Excel 
 url: /it/swift/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le tabelle pivot sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le tabelle pivot sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella tabelle pivot sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

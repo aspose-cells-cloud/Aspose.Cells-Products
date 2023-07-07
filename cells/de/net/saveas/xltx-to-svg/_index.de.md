@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLTX unter SVG API für C#
+title:  Speichern Sie XLTX als SVG API für C#
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im XLTX-Format als Datei im Format SVG zu speichern.
 url: /de/net/saveas/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als SVG zu speichern" h2="C#-Bibliothek, um XLTX als SVG zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX unter SVG und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als SVG zu speichern" h2="C#-Bibliothek, um XLTX als SVG zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX als SVG und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei unter SVG in C#" >}}

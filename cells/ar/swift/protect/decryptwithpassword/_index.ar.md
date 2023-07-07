@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel وإلغاء قفل OpenOff
 url: /ar/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة سويفت لفك تشفير Microsoft Excel محلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير Microsoft Excel المحلي وجدول OpenOffice Calc مع سير عمل كلمة المرور في Swift. يقوم هذا الحل الاحترافي بفك تشفير جدول البيانات المحلي Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Swift." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API لفك تشفير Microsoft Excel المحلي وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة سويفت لفك تشفير Microsoft Excel محلي وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير Microsoft Excel المحلي وجدول OpenOffice Calc مع سير عمل كلمة المرور في Swift. يقوم هذا الحل الاحترافي بفك تشفير جدول البيانات المحلي Microsoft Excel و OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Swift." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام كلمة مرور - Swift REST API" >}}

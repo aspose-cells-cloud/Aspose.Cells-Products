@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlsx-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как MD в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде MD — сложная задача. Все переходы от формата XLSX к формату MD выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSX в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из XLSX в виде MD — сложная задача. Все переходы формата XLSX в формат MD выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSX в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLSX в формате MD" gistPath="" %}}

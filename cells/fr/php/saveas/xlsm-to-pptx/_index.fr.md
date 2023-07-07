@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le
 url: /fr/php/saveas/xlsm-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLSM en tant que PPTX" h2="Bibliothèque PHP pour enregistrer XLSM en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM en tant que PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/xlsm-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLSM en tant que PPTX" h2="Bibliothèque PHP pour enregistrer XLSM en tant que PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLSM au format PPTX et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/xlsm-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM au format PPTX au PHP" >}}

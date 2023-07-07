@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/numbers-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى ODS" h2="Java مكتبة لتحويل الأرقام إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل الأرقام إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى ODS" h2="Java مكتبة لتحويل الأرقام إلى ODS" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل الأرقام إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى ODS في Java" >}}

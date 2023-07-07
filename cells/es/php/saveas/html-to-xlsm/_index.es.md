@@ -10,7 +10,7 @@ url: /es/php/saveas/html-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como XLSM en PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca PHP es una solución profesional para guardar HTML como archivos XLSM en línea. Este SDK de la nube ofrece a los desarrolladores de PHP una potente funcionalidad y una salida XLSM perfecta.
+Guardar formatos de archivo desde HTML como XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca PHP es una solución profesional para guardar HTML como archivos XLSM en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para guardar HTML como formato XLSM" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/xlsb-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSB إلى ODS" h2="Java مكتبة لتحويل XLSB إلى ODS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLSB إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsb-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLSB إلى ODS" h2="Java مكتبة لتحويل XLSB إلى ODS" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLSB إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xlsb-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى ODS في Java" >}}

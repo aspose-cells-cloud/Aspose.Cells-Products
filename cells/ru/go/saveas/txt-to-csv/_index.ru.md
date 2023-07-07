@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TXT как CSV API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата TXT в формате файла CSV.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата TXT в формате файла CSV.
 url: /ru/go/saveas/txt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

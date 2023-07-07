@@ -10,7 +10,7 @@ url: /ru/go/saveas/xlt-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как JSON в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде JSON — сложная задача. Все переходы между форматами XLT и JSON выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения XLT в виде файлов JSON онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из XLT в виде JSON — сложная задача. Все переходы формата XLT в JSON выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения XLT в виде файлов JSON онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLT в формате JSON" gistPath="" %}}

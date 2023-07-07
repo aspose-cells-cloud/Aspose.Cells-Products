@@ -1,10 +1,10 @@
 ﻿---
 title: 使用 Android 进行保护
-description: Aspose.Cells Cloud REST API 支持 Android 工作簿的解密、加密和数字签名。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+description: Aspose.Cells Cloud REST API 支持使用 Android 的解密、加密和数字签名工作簿。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/android/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Android 进行保护" h2="Aspose.Cells Cloud SDK支持解密、加密、数字签名工作簿。" p="Aspose.Cells Cloud REST API 支持 Android 工作簿的解密、加密和数字签名。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Android 进行保护" h2="Aspose.Cells Cloud SDK支持解密、加密、数字签名工作簿。" p="Aspose.Cells Cloud REST API 支持使用 Android 的解密、加密和数字签名工作簿。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки коммента
 url: /ru/ruby/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки комментариев к локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear, чтобы очистить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API, чтобы очистить комментарии к Microsoft Excel и рабочим процессам электронных таблиц OpenOffice Calc в Ruby. Это профессиональное решение четко комментирует локальные Microsoft Excel и электронные таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/Comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для очистки комментариев к локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Ruby Clear, чтобы очистить комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить комментарии к Microsoft Excel и рабочим процессам электронных таблиц OpenOffice Calc в Ruby. Это профессиональное решение четко комментирует локальные Microsoft Excel и электронные таблицы OpenOffice Calc с использованием Ruby." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc — Ruby REST API" >}}

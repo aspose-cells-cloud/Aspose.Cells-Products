@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Python将XLS格式文件保存为D
 url: /zh/python/saveas/xls-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 XLS 保存为 DIF" h2="Python 库将 XLS 保存为 DIF" p="使用 Cells SaveAs REST API 在 Python 中创建自定义电子表格工作流程。这是使用 Python 在线将 XLS 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 XLS 保存为 DIF" h2="Python 将 XLS 保存为 DIF 的库" p="使用 Cells SaveAs REST API 在 Python 中创建自定义电子表格工作流程。这是使用 Python 在线将 XLS 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Python 中将 XLS 文件另存为 DIF" >}}

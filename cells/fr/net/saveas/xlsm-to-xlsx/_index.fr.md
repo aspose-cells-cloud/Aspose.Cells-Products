@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLSM sous XLSX API pour C#
-description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLSM en tant que fichier au format XLSX.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLSM en tant que fichier au format XLSX.
 url: /fr/net/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

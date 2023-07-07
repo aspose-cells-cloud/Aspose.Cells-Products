@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara SXC som MD API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara en fil i SXC-format som en fil i MD-format.
 url: /sv/swift/saveas/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

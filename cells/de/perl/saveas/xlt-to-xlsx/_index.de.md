@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLT als XLSX API für Perl
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die XLT-Formatdatei als XLSX-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im XLT-Format als Datei im XLSX-Format zu speichern.
 url: /de/perl/saveas/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

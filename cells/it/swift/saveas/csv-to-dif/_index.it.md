@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva CSV come DIF API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato CSV come file in formato DIF.
 url: /it/swift/saveas/csv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

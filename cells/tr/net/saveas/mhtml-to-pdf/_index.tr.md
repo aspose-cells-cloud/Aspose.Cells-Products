@@ -1,5 +1,5 @@
 ﻿---
-title:  C# için MHTML'yi PDF API olarak kaydedin
+title:  MHTML'yi C# için PDF API olarak kaydedin
 description:  MHTML biçim dosyasını PDF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-pdf/
 ---

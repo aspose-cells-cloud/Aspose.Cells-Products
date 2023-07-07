@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/png-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف PNG إلى ODS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من PNG إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات PNG إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل PNG إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يعد تحويل تنسيقات الملفات من PNG إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات PNG إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات PNG المصدر. تعتبر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل PNG إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل PNG إلى تنسيق ODS" gistPath="" %}}

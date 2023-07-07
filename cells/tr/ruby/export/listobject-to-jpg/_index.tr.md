@@ -10,7 +10,7 @@ url: /tr/ruby/export/listobject-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Ruby\'de JPG formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan JPG dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i JPG formatına aktarma geçişleri, kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak JPG formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
+LISTOBJECT nesnesini e-tablodan JPG dosyasına aktarmak karmaşık bir iştir. LISTOBJECT'i JPG formatına aktarma geçişleri, kaynak LISTOBJECT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak JPG formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel JPG çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan JPG formatına dışa aktarmak için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

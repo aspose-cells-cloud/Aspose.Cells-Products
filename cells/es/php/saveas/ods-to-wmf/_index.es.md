@@ -1,5 +1,5 @@
 ﻿---
-title:  Guarde ODS como WMF API para PHP
+title:  Guardar ODS como WMF API para PHP
 description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato ODS como archivo de formato WMF.
 url: /es/php/saveas/ods-to-wmf/
 ---

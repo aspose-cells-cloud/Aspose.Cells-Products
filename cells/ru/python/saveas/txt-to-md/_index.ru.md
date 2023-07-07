@@ -10,7 +10,7 @@ url: /ru/python/saveas/txt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как MD в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Python — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод MD.
+Сохранение форматов файлов из TXT как MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Python — это профессиональное решение для сохранения TXT в виде файлов MD в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения TXT в формате MD" gistPath="" %}}

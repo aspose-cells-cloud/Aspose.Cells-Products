@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als XLTM API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern einer ODS-Formatdatei als XLTM-Formatdatei.
 url: /de/swift/saveas/ods-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

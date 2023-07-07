@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как XLTX API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JPG как файла формата XLTX.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата JPG в виде файла формата XLTX.
 url: /ru/php/saveas/jpg-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

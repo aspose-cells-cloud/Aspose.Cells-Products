@@ -10,7 +10,7 @@ url: /ru/ruby/export/workbook-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов WORKBOOK в формат GIF выполняется нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
+Экспорт объекта WORKBOOK в файл GIF из электронной таблицы является сложной задачей. Экспорт переходов WORKBOOK в формат GIF выполняется нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Ruby — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата GIF. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для экспорта WORKBOOK в формат GIF из электронной таблицы" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB a ODS Convertir API para Android
+title:  Convertir XLSB a ODS API para Android
 description:  Usando Aspose.Cells Cloud SDK para Android para convertir un archivo de formato XLSB a un archivo de formato ODS.
 url: /es/android/conversion/xlsb-to-ods/
 ---

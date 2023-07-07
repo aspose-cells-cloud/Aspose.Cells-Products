@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine MHTML-Fo
 url: /de/net/conversion/mhtml-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um MHTML in PDF zu konvertieren" h2="C#-Bibliothek zum Konvertieren von MHTML in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in PDF und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von MHTML in PDF" h2="C#-Bibliothek zum Konvertieren von MHTML in PDF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in PDF und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in PDF in C#" >}}

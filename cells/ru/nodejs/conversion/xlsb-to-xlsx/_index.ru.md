@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/conversion/xlsb-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в XLSX" h2="Библиотека NodeJS для преобразования XLSB в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в XLSX и других форматов документов с использованием NodeJS." urlsection="conversion/xlsb-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в XLSX" h2="Библиотека NodeJS для преобразования XLSB в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в XLSX и других форматов документов с помощью NodeJS." urlsection="conversion/xlsb-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XLSX в NodeJS" >}}

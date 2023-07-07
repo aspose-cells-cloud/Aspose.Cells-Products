@@ -8,7 +8,7 @@ url: /zh/ruby/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="使用 Ruby Extension 链接清除对象" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Ruby 扩展链接清除对象" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

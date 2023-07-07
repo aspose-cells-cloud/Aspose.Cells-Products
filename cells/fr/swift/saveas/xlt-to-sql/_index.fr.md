@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT sous SQL API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format XLT en tant que fichier au format SQL.
 url: /fr/swift/saveas/xlt-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

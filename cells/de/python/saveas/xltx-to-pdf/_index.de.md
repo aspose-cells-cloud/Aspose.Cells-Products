@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter PDF API für Python
+title:  Speichern Sie XLTX als PDF API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format PDF zu speichern.
 url: /de/python/saveas/xltx-to-pdf/
 ---

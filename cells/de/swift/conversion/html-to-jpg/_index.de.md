@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in JPG Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um eine Datei im HTML-Format in eine JPG-Formatdatei zu konvertieren.
 url: /de/swift/conversion/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

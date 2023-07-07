@@ -10,7 +10,7 @@ url: /ru/python/saveas/sxc-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как SQL в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC в виде SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для сохранения SXC в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из SXC в виде SQL — сложная задача. Все переходы формата SXC в формат SQL выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Python — это профессиональное решение для сохранения SXC в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения SXC в формате SQL" gistPath="" %}}

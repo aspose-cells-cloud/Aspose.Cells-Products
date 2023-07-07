@@ -1,6 +1,6 @@
 ﻿---
 title:  XLT 到 MD 转换 API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将XLT格式文件转换为MD格式文件。
 url: /zh/swift/conversion/xlt-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON كـ PPTX API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JSON كملف بتنسيق PPTX.
 url: /ar/swift/saveas/json-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTM en JSON API pour Go
-description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format XLTM en fichier au format JSON.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format XLTM en fichier au format JSON.
 url: /fr/go/conversion/xltm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

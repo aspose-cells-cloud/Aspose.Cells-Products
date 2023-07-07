@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLSX au format CSV API pour Perl
-description:  Utilisation de Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSX en tant que fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XLSX en tant que fichier au format CSV.
 url: /fr/perl/saveas/xlsx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  ODS biçim dosyasını XLSM biçim dosyasına dönüştürmek içi
 url: /tr/net/conversion/ods-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi XLSM\'ye dönüştürmek için C# API" h2="ODS\'yi XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, C#\'i kullanarak ODS\'yi XLSM\'ye ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/ods-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ODS\'yi XLSM\'ye dönüştürmek için C# API" h2="ODS\'yi XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, ODS\'yi XLSM\'ye ve diğer belge formatlarını çevrimiçi olarak C# kullanarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/ods-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını C#\'de XLSM\'ye dönüştürün" >}}

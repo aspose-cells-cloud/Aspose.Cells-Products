@@ -4,7 +4,7 @@ description: Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier
 url: /fr/perl/conversion/ods-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir ODS en XLT" h2="bibliothèque Perl pour convertir ODS en XLT" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir ODS en XLT et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/ods-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir ODS en XLT" h2="bibliothèque Perl pour convertir ODS en XLT" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir ODS en XLT et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/ods-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en XLT en Perl" >}}

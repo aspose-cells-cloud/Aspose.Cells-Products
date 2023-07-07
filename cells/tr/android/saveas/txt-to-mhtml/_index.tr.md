@@ -10,7 +10,7 @@ url: /tr/android/saveas/txt-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TXT dosyasını MHTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini TXT'den MHTML olarak kaydetmek karmaşık bir iştir. Tüm TXT'den MHTML'ye biçim geçişleri, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya biçimlerini TXT'den MHTML olarak kaydetmek karmaşık bir iştir. Tüm TXT'den MHTML formatına geçişler, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi MHTML formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

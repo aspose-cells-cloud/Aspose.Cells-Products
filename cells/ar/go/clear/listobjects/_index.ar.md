@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح عناصر القائمة على Microso
 url: /ar/go/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells امسح REST API لمسح كائنات القائمة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جدول البيانات في Go. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/List-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جدول البيانات في Go. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Go." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح كائنات القائمة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Go REST API" >}}

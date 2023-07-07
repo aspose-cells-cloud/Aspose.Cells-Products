@@ -10,7 +10,7 @@ url: /ru/net/conversion/sxc-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в MHTML в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в MHTML — сложная задача. Все переходы формата SXC в формат MHTML выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов SXC в MHTML. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из SXC в MHTML — сложная задача. Все переходы формата SXC в формат MHTML выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов SXC в MHTML. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования SXC в формат MHTML" gistPath="" %}}

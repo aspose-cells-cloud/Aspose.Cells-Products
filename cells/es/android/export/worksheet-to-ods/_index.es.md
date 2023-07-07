@@ -10,7 +10,7 @@ url: /es/android/export/worksheet-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto HOJA DE TRABAJO a archivo de formato ODS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto HOJA DE TRABAJO a un archivo ODS desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de HOJA DE TRABAJO a transiciones de formato ODS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato ODS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida ODS perfecta.
+Exportar un objeto HOJA DE TRABAJO a un archivo ODS desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de HOJA DE TRABAJO a las transiciones de formato ODS mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos HOJA DE TRABAJO a archivos de formato ODS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida ODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para exportar HOJA DE TRABAJO a formato ODS desde hoja de cálculo" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fi
 url: /fr/net/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir GIF en TXT" h2="C# bibliothèque pour convertir GIF en TXT" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir GIF en TXT et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/gif-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour convertir GIF en TXT" h2="C# bibliothèque pour convertir GIF en TXT" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour convertir des GIF en TXT et d\'autres formats de documents en ligne en utilisant C#." urlsection="conversion/gif-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en TXT en C#" >}}

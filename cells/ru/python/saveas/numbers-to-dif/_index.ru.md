@@ -10,7 +10,7 @@ url: /ru/python/saveas/numbers-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как DIF в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде DIF — сложная задача. Все переходы формата NUMBERS в формат DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов DIF онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод DIF.
+Сохранение форматов файлов из NUMBERS в виде DIF — сложная задача. Все преобразования форматов NUMBERS в DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов DIF онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения NUMBERS в формате DIF" gistPath="" %}}

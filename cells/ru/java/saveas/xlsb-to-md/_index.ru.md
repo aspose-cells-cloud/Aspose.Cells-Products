@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как MD API for Java
-description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB как файла формата MD.
+description:  Использование Aspose.Cells Cloud SDK for Java для сохранения файла формата XLSB в качестве файла формата MD.
 url: /ru/java/saveas/xlsb-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

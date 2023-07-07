@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlsm-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSM dosyasını NodeJS\'de XLS\'ye dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSM'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den XLS formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSM'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
+Dosya formatlarını XLSM'den XLS'ye dönüştürmek karmaşık bir iştir. Tüm XLSM'den XLS formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSM'yi çevrimiçi olarak XLS dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XLS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSM\'yi XLS formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

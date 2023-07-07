@@ -10,7 +10,7 @@ url: /sv/android/saveas/ods-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en ODS-fil som DOCX i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från ODS som DOCX är en komplex uppgift. Alla ODS till DOCX-formatövergångar utförs av vår Android SDK samtidigt som källkodens ODS-kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
+Att spara filformat från ODS som DOCX är en komplex uppgift. Alla ODS- till DOCX-formatövergångar utförs av vår Android SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att spara ODS som DOCX-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt DOCX-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att spara ODS som DOCX-format" gistPath="" %}}

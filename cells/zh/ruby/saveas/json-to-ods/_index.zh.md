@@ -1,5 +1,5 @@
 ﻿---
-title: 对于 Ruby，将 JSON 保存为 ODS API
+title: 将 JSON 保存为 ODS API（适用于 Ruby）
 description: 使用Aspose.Cells Cloud SDK for Ruby将JSON格式文件保存为ODS格式文件。
 url: /zh/ruby/saveas/json-to-ods/
 ---

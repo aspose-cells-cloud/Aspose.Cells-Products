@@ -13,7 +13,7 @@ url: /tr/go/conversion/bmp-to-json/
 Dosya biçimlerini BMP'den JSON'a dönüştürmek karmaşık bir iştir. BMP'den JSON biçimine geçişlerin tümü, kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, BMP'i çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i JSON formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="BMP\'i JSON biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

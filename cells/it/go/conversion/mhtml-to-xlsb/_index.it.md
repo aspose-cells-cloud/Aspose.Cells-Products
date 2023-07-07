@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da MHTML a XLSB API per andare
+title:  Conversione da MHTML a XLSB API per Go
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato MHTML in un file in formato XLSB.
 url: /it/go/conversion/mhtml-to-xlsb/
 ---
@@ -10,7 +10,7 @@ url: /it/go/conversion/mhtml-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file MHTML in XLSB in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da MHTML a XLSB è un'attività complessa. Tutte le transizioni dal formato MHTML al formato XLSB vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo MHTML di origine. La nostra libreria Go è una soluzione professionale per convertire file MHTML in XLSB online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSB.
+La conversione dei formati di file da MHTML a XLSB è un'attività complessa. Tutte le transizioni dal formato MHTML a XLSB vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo MHTML di origine. La nostra libreria Go è una soluzione professionale per convertire file MHTML in XLSB online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per convertire MHTML in formato XLSB" gistPath="" %}}

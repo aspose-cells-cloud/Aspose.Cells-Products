@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как CSV API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSB в виде файла формата CSV.
 url: /ru/swift/saveas/xlsb-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

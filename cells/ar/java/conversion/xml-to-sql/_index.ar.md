@@ -10,7 +10,7 @@ url: /ar/java/conversion/xml-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف XML إلى SQL في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Java SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لتحويل XML إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
+يعد تحويل تنسيقات الملفات من XML إلى SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Java الخاصة بنا حلاً احترافيًا لتحويل XML إلى ملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل XML إلى تنسيق SQL" gistPath="" %}}

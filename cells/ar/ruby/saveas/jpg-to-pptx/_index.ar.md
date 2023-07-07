@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ JPG كـ PPTX API لروبي
+title:  احفظ JPG كـ PPTX API لـ Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق JPG كملف بتنسيق PPTX.
 url: /ar/ruby/saveas/jpg-to-pptx/
 ---

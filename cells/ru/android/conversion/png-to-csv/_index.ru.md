@@ -10,7 +10,7 @@ url: /ru/android/conversion/png-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл PNG в CSV на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в CSV — сложная задача. Все переходы PNG в формат CSV выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Преобразование форматов файлов из PNG в CSV — сложная задача. Все переходы PNG в формат CSV выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации PNG в файлы CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования PNG в формат CSV" gistPath="" %}}

@@ -4,7 +4,7 @@ description: Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Speichern der 
 url: /de/nodejs/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von TSV als XML" h2="NodeJS-Bibliothek zum Speichern von TSV als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um TSV als XML und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von TSV als XML" h2="NodeJS-Bibliothek zum Speichern von TSV als XML" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von TSV als XML und anderen Dokumentformaten mit NodeJS." urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als XML in NodeJS" >}}

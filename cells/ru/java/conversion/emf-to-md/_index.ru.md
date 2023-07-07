@@ -10,7 +10,7 @@ url: /ru/java/conversion/emf-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в MD в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в MD является сложной задачей. Все переходы формата EMF в формат MD выполняются нашим пакетом SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации EMF в файлы MD. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод MD.
+Преобразование форматов файлов из EMF в MD является сложной задачей. Все переходы формата EMF в формат MD выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации EMF в файлы MD. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования EMF в формат MD" gistPath="" %}}

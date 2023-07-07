@@ -4,7 +4,7 @@ description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer
 url: /fr/android/saveas/jpg-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer JPG en tant qu\'ODS" h2="Bibliothèque Android pour enregistrer JPG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer JPG en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/jpg-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer JPG en tant qu\'ODS" h2="Bibliothèque Android pour enregistrer JPG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format ODS et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/jpg-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JPG en tant qu\'ODS dans Android" >}}

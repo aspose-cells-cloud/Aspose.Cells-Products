@@ -10,7 +10,7 @@ url: /ru/java/export/listobject-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата ODS в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов LISTOBJECT в формат ODS выполняется нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
+Экспорт объекта LISTOBJECT в файл ODS из электронной таблицы является сложной задачей. Экспорт переходов формата LISTOBJECT в формат ODS выполняется нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы LISTOBJECT. Наша библиотека Java — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата ODS. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для экспорта LISTOBJECT в формат ODS из электронной таблицы" gistPath="" %}}

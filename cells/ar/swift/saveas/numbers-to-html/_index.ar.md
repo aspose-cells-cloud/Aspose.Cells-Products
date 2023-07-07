@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام باسم HTML API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق NUMBERS كملف بتنسيق HTML.
 url: /ar/swift/saveas/numbers-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLSX como XPS API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato XLSX como archivo de formato XPS.
 url: /es/swift/saveas/xlsx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

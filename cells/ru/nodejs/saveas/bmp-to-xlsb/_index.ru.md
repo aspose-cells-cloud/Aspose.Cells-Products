@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/saveas/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить BMP как XLSB" h2="Библиотека NodeJS для сохранения BMP как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения BMP в формате XLSB и других форматах документов в Интернете с использованием NodeJS." urlsection="saveas/bmp-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API, чтобы сохранить BMP как XLSB" h2="Библиотека NodeJS для сохранения BMP как XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения BMP в формате XLSB и других форматах документов в Интернете с помощью NodeJS." urlsection="saveas/bmp-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XLSB в NodeJS." >}}

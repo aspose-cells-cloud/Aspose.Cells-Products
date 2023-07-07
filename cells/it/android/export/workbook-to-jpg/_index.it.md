@@ -10,7 +10,7 @@ url: /it/android/export/workbook-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato JPG in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKBOOK in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato JPG viene eseguita dal nostro Android SDK mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JPG perfetto.
+L'esportazione dell'oggetto WORKBOOK in un file JPG dal foglio di calcolo è un'attività complessa. Le transizioni di esportazione del WORKBOOK in formato JPG vengono eseguite dal nostro Android SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo del WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JPG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per esportare WORKBOOK in formato JPG dal foglio di calcolo" gistPath="" %}}

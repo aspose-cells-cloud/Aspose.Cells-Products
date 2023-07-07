@@ -1,10 +1,10 @@
 ﻿---
-title:  Unisciti a Ruby
-description:  Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel con Ruby. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Unisci usando Ruby
+description:  Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel utilizzando Ruby. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/ruby/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisciti a Ruby" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel con Ruby. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci usando Ruby" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel utilizzando Ruby. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /it/ruby/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Unisci con i link dell\'estensione Ruby" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Unisci utilizzando i collegamenti dell\'estensione Ruby" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

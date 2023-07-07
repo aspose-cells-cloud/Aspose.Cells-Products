@@ -10,7 +10,7 @@ url: /ru/net/saveas/tsv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV в формате JPG по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде JPG — сложная задача. Все переходы TSV в формат JPG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов JPG онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из TSV в виде JPG — сложная задача. Все переходы TSV в формат JPG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов JPG онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения TSV в формате JPG" gistPath="" %}}

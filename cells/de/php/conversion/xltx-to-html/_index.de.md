@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in HTML Konvertieren Sie API in PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLTX-Formatdatei in eine Datei im HTML-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine Datei im XLTX-Format in eine Datei im Format HTML zu konvertieren.
 url: /de/php/conversion/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

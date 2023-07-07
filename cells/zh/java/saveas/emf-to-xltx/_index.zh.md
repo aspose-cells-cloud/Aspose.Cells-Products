@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Java将EMF格式文件保存为XLT
 url: /zh/java/saveas/emf-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API 将 EMF 保存为 XLTX" h2="Java库将EMF保存为XLTX" p="使用Cells SaveAs REST API在Java中创建自定义电子表格工作流程。这是使用Java在线将EMF保存为XLTX和其他文档格式的专业解决方案。" urlsection="saveas/emf-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API 将 EMF 保存为 XLTX" h2="Java库将EMF保存为XLTX" p="使用 Cells SaveAs REST API 在 Java 中创建自定义电子表格工作流程。这是使用 Java 在线将 EMF 保存为 XLTX 和其他文档格式的专业解决方案。" urlsection="saveas/emf-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 EMF 文件另存为 Java 中的 XLTX" >}}

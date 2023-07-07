@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API поддерживает экспор�
 url: /ru/java/export/workbook-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта WORKBOOK в файл JSON" h2="Java библиотека для экспорта WORKBOOK в файл JSON" p="Используйте Cells Экспорт REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата WORKBOOK в файл формата JSON из электронной таблицы онлайн с использованием Java." urlsection="export/workbook-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для экспорта WORKBOOK в файл JSON" h2="Java библиотека для экспорта WORKBOOK в файл JSON" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Java. Это профессиональное решение для экспорта файла формата WORKBOOK в файл формата JSON из электронной таблицы онлайн с использованием Java." urlsection="export/workbook-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата JSON в Java" >}}

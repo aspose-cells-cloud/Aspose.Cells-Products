@@ -4,7 +4,7 @@ description: Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice C
 url: /de/swift/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle mit Passwort-Workflows in Swift zu schützen. Diese professionelle Lösung schützt die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle online mit Passwörtern mithilfe von Swift." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Schutz der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle mit Passwort-Workflows in Swift zu schützen. Diese professionelle Lösung schützt die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle online mit Passwörtern mithilfe von Swift." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Schützen Sie die Cloud Microsoft Excel und die OpenOffice Calc-Tabelle mit dem Passwort – Swift REST API" >}}

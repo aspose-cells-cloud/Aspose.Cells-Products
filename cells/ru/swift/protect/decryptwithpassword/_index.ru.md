@@ -4,7 +4,7 @@ description:  Облачные API и SDK для разблокировки Micr
 url: /ru/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Swift для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки локальных Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с паролями, используя Swift." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Swift для расшифровки локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки локальных Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает локальные Microsoft Excel и электронные таблицы OpenOffice Calc онлайн с паролями, используя Swift." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Расшифровать локальный Microsoft Excel и электронную таблицу OpenOffice Calc с паролем - Swift REST API" >}}

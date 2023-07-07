@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/conversion/xlsx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSX в DOCX" h2="Java библиотека для преобразования XLSX в DOCX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSX в DOCX и другие форматы документов с использованием Java." urlsection="conversion/xlsx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования XLSX в DOCX" h2="Java библиотека для преобразования XLSX в DOCX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации XLSX в DOCX и другие форматы документов с использованием Java." urlsection="conversion/xlsx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в DOCX по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в DOCX — сложная задача. Все переходы из формата XLSX в формат DOCX выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSX в DOCX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLSX в DOCX — сложная задача. Все переходы из формата XLSX в формат DOCX выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSX в DOCX. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSX в формат DOCX" gistPath="" %}}

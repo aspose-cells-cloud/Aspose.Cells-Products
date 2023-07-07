@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en WMF API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format XLS en fichier au format WMF.
 url: /fr/swift/conversion/xls-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

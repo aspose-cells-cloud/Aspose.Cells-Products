@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le 
 url: /fr/net/saveas/csv-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer CSV sous XPS" h2="C# bibliothèque pour enregistrer CSV sous XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous XPS et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/csv-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer CSV sous XPS" h2="Bibliothèque C# pour enregistrer CSV sous XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous XPS et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/csv-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV sous XPS dans C#" >}}

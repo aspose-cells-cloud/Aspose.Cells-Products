@@ -216,7 +216,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de trabajo
+ Agregar, actualizar o eliminar formas de una hoja de cálculo
     </p>
    </div>
    <div class="col-lg-4">
@@ -256,7 +256,7 @@ Chart es una herramienta poderosa que ayuda a los usuarios a presentar datos de 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Mango Cells y amperio; Filas en una hoja de cálculo
+ Mango Cells y amperio; Filas en una hoja de trabajo
     </h2>
     <p>
 Aspose.Cells Cloud Go SDK ha incluido varias funciones importantes para manejar filas dentro de Microsoft Excel Hoja de trabajo via Aplicación Go. Admite agregar nuevas filas a una hoja de cálculo, ocultar y mostrar filas, obtener datos de filas de una hoja de cálculo, copiar filas, agrupar y desagrupar filas, ajustar automáticamente filas y columnas de una hoja de cálculo, eliminar filas de la hoja de cálculo y mucho más. Al igual que las filas, los desarrolladores también pueden administrar fácilmente sus celdas en la hoja de trabajo. Admite funciones como agregar celdas, combinar varias celdas, establecer fórmulas en una celda, borrar el contenido de una celda, aplicar formato de texto enriquecido, etc.

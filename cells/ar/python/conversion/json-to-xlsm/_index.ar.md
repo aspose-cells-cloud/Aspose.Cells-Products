@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل م�
 url: /ar/python/conversion/json-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل JSON إلى XLSM" h2="Python مكتبة لتحويل JSON إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل JSON إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/json-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل JSON إلى XLSM" h2="Python مكتبة لتحويل JSON إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل JSON إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/json-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى XLSM في Python" >}}

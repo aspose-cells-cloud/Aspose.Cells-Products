@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ JSON API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق XML كملف بتنسيق JSON.
 url: /ar/swift/saveas/xml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

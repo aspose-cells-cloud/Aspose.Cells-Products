@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки содержим
 url: /ru/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Swift Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Swift." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Swift Clear для очистки содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Swift." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — Swift REST API" >}}

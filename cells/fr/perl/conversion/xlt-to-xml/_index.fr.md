@@ -1,6 +1,6 @@
 ﻿---
 title: Convertir XLT en XML API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format XLT en fichier au format XML.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format XLT en fichier au format XML.
 url: /fr/perl/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als CSV API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der JSON-Formatdatei als CSV-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer JSON-Formatdatei als CSV-Formatdatei.
 url: /de/java/saveas/json-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

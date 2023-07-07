@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 url: /ar/php/conversion/json-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل JSON إلى XLSM" h2="PHP مكتبة لتحويل JSON إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل JSON إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/json-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل JSON إلى XLSM" h2="PHP مكتبة لتحويل JSON إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل JSON إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/json-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى XLSM في PHP" >}}

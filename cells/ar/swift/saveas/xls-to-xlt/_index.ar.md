@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLS كـ XLT API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLS كملف بتنسيق XLT.
 url: /ar/swift/saveas/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

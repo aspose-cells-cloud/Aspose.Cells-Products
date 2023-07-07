@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS - XLSX Dönüştürme API for Swift
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: NUMBERS - XLSX Dönüştürme API for Swift
+description:  NUMBERS biçim dosyasını XLSX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer les numéros sous DOCX API pour Android
-description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format NUMBERS en tant que fichier au format DOCX.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format NUMBERS en tant que fichier au format DOCX.
 url: /fr/android/saveas/numbers-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

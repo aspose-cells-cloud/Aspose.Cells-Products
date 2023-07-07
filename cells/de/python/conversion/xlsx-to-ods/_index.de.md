@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in ODS Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLSX-Formatdatei in eine ODS-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer XLSX-Formatdatei in eine ODS-Formatdatei.
 url: /de/python/conversion/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

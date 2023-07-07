@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan DIF'ye Dönüştürme API için Perl
-description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
+description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

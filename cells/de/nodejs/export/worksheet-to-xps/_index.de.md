@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie ARBEITSBLATT aus der Tabelle mit NodeJS API nach XPS
+title:  Exportieren Sie WORKSHEET aus der Tabelle mit NodeJS API nach XPS
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/nodejs/export/worksheet-to-xps/
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title:  BMP in XLSM Konvertieren Sie API in for Java
+title:  BMP in XLSM konvertieren API for Java
 description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format BMP in eine Datei im XLSM-Format.
 url: /de/java/conversion/bmp-to-xlsm/
 ---

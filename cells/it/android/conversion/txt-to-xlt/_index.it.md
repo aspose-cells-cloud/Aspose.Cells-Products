@@ -10,7 +10,7 @@ url: /it/android/conversion/txt-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file TXT in XLT in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da TXT a XLT è un'attività complessa. Tutte le transizioni di formato da TXT a XLT vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TXT di origine. La nostra libreria Android è una soluzione professionale per convertire file TXT in XLT online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output XLT perfetto.
+La conversione dei formati di file da TXT a XLT è un'attività complessa. Tutte le transizioni dal formato TXT a XLT vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TXT di origine. La nostra libreria Android è una soluzione professionale per convertire file TXT in XLT online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output XLT perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire TXT in formato XLT" gistPath="" %}}

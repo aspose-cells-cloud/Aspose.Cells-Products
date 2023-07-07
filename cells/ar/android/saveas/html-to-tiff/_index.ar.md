@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 url: /ar/android/saveas/html-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ HTML كـ TIFF" h2="مكتبة Android لحفظ HTML كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ HTML كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ HTML كـ TIFF" h2="مكتبة Android لحفظ HTML كـ TIFF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ HTML كـ TIFF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/html-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف HTML بالشكل TIFF في Android" >}}

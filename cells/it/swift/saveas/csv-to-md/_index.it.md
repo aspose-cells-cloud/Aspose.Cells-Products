@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva CSV come MD API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato CSV come file in formato MD.
 url: /it/swift/saveas/csv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

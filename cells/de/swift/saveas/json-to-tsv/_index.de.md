@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als TSV API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der JSON-Formatdatei als TSV-Formatdatei.
 url: /de/swift/saveas/json-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

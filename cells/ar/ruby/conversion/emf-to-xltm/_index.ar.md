@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/emf-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف EMF إلى XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من EMF إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد تحويل تنسيقات الملفات من EMF إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق EMF إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات EMF المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل EMF إلى ملفات XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل EMF إلى تنسيق XLTM" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/android/conversion/emf-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SQL в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в SQL — сложная задача. Все переходы EMF в формат SQL выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации EMF в файлы SQL. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из EMF в SQL — сложная задача. Все переходы EMF в формат SQL выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Android — это профессиональное решение для онлайн-конвертации EMF в файлы SQL. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования EMF в формат SQL" gistPath="" %}}

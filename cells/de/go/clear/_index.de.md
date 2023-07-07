@@ -1,14 +1,14 @@
 ﻿---
-title:  Löschen Sie Objekte mit Go
+title:  Objekte mit Go löschen
 description:  Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/go/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Löschen Sie Objekte mit Go" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Objekte mit Go löschen" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mit Go Extension-Links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mithilfe von Go-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

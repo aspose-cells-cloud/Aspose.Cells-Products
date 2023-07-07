@@ -10,7 +10,7 @@ url: /ru/net/conversion/emf-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в PNG в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в PNG — сложная задача. Все переходы форматов с EMF на PNG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов EMF в PNG. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из EMF в PNG — сложная задача. Все переходы форматов с EMF на PNG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов EMF в PNG. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования формата EMF в формат PNG" gistPath="" %}}

@@ -7,7 +7,7 @@ url: /it/go/export/worksheet-to-pdf/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per esportare il FOGLIO DI LAVORO nel file PDF" h2="Vai alla libreria per esportare il FOGLIO DI LAVORO nel file PDF" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Go. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato PDF dal foglio di calcolo online utilizzando Go." urlsection="export/worksheet-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato PDF in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file di formato PDF in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare l'oggetto WORKSHEET nel file PDF dal foglio di calcolo è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni di formato PDF viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti WORKSHEET in file in formato PDF online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output PDF perfetto.

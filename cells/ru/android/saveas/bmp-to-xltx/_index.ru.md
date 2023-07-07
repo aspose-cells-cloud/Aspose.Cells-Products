@@ -10,7 +10,7 @@ url: /ru/android/saveas/bmp-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XLTX в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как XLTX — сложная задача. Все переходы формата BMP в формат XLTX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Android — это профессиональное решение для сохранения BMP в виде файлов XLTX онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
+Сохранение форматов файлов с BMP как XLTX — сложная задача. Все переходы формата BMP в формат XLTX выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Android — это профессиональное решение для сохранения BMP в виде файлов XLTX онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения BMP в формате XLTX" gistPath="" %}}

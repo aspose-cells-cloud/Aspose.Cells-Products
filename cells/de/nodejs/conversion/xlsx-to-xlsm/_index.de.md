@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX zu XLSM Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLSX-Formatdatei in eine XLSM-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im XLSX-Format in eine Datei im XLSM-Format.
 url: /de/nodejs/conversion/xlsx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

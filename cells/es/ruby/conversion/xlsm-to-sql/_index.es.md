@@ -1,5 +1,5 @@
 ﻿---
-title:  Convertir XLSM a SQL API para Ruby
+title:  XLSM a SQL Convertir API para Ruby
 description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo de formato XLSM a un archivo de formato SQL.
 url: /es/ruby/conversion/xlsm-to-sql/
 ---

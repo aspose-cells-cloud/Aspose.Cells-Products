@@ -10,7 +10,7 @@ url: /ru/go/conversion/xlsb-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в WMF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в WMF — сложная задача. Все переходы форматов XLSB в WMF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в WMF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод WMF.
+Преобразование форматов файлов из XLSB в WMF — сложная задача. Все переходы форматов XLSB в WMF выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в WMF. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLSB в формат WMF" gistPath="" %}}

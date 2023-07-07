@@ -10,7 +10,7 @@ url: /ar/go/saveas/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM بتنسيق JPG في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSM بتنسيق JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى JPG بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج JPG مثالي.
+يعد حفظ تنسيقات الملفات من XLSM بتنسيق JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى JPG بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ XLSM كملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج JPG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ XLSM بتنسيق JPG" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Guardar NÚMEROS como XLTM API para Android
+title:  Guarde NÚMEROS como XLTM API para Android
 description:  Usando Aspose.Cells Cloud SDK para Android para guardar el archivo de formato NUMBERS como archivo de formato XLTM.
 url: /es/android/saveas/numbers-to-xltm/
 ---

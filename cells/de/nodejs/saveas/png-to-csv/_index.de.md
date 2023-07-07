@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als CSV API für NodeJS
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für NodeJS, um die Datei im PNG-Format als CSV-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im PNG-Format als CSV-Formatdatei zu speichern.
 url: /de/nodejs/saveas/png-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

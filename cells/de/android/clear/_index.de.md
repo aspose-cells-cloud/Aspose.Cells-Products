@@ -8,7 +8,7 @@ url: /de/android/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mit Android-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mithilfe von Android-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

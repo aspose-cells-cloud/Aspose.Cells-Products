@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/png-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в TSV в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в TSV — сложная задача. Все переходы формата PNG в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов PNG в TSV. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из PNG в TSV — сложная задача. Все переходы PNG в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов PNG в TSV. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования PNG в формат TSV" gistPath="" %}}

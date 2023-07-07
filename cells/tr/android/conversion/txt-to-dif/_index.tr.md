@@ -10,7 +10,7 @@ url: /tr/android/conversion/txt-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TXT dosyasını DIF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini TXT'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den DIF formatına geçişler, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya biçimlerini TXT'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den DIF'e biçim geçişleri, kaynak TXT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TXT'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi DIF formatına dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

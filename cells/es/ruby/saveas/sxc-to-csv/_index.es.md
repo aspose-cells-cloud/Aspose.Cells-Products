@@ -10,7 +10,7 @@ url: /es/ruby/saveas/sxc-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo SXC como CSV en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Ruby es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
+Guardar formatos de archivo de SXC como CSV es una tarea compleja. Todas las transiciones de formato SXC a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Ruby es una solución profesional para guardar SXC como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar SXC como formato CSV" gistPath="" %}}

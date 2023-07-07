@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF in XLSX Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato EMF in un file in formato XLSX.
 url: /it/swift/conversion/emf-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

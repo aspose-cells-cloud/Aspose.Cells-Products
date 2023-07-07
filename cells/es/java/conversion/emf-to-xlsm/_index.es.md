@@ -10,7 +10,7 @@ url: /es/java/conversion/emf-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo EMF a XLSM en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de EMF a XLSM es una tarea compleja. Todas las transiciones de formato EMF a XLSM se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca Java es una solución profesional para convertir EMF a archivos XLSM en línea. Este SDK de la nube ofrece a los desarrolladores de Java una potente funcionalidad y una salida XLSM perfecta.
+Convertir formatos de archivo de EMF a XLSM es una tarea compleja. Todas las transiciones de formato EMF a XLSM se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca Java es una solución profesional para convertir EMF a archivos XLSM en línea. Este SDK de Cloud ofrece a los desarrolladores de Java una potente funcionalidad y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Java usando REST API para convertir EMF al formato XLSM" gistPath="" %}}

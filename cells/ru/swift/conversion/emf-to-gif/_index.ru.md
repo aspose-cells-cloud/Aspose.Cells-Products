@@ -1,6 +1,6 @@
 ﻿---
-title:  Преобразование EMF в GIF API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+title: Преобразование EMF в GIF API для Swift
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата EMF в файл формата GIF.
 url: /ru/swift/conversion/emf-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

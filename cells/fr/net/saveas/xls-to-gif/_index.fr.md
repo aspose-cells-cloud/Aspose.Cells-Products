@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLS au format GIF API pour C#
-description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLS en tant que fichier au format GIF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLS en tant que fichier au format GIF.
 url: /fr/net/saveas/xls-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

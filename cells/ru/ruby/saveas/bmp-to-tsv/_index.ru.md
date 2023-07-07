@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/bmp-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как TSV в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
+Сохранение форматов файлов с BMP в виде TSV — сложная задача. Все переходы BMP в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для сохранения BMP в виде файлов TSV онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения BMP в формате TSV" gistPath="" %}}

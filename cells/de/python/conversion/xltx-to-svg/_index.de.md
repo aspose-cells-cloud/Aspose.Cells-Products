@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in SVG Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLTX-Formatdatei in eine Datei im SVG-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine Datei im XLTX-Format in eine Datei im Format SVG zu konvertieren.
 url: /de/python/conversion/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

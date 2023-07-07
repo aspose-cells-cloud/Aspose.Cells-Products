@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversion CSV en SXC API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format CSV en fichier au format SXC.
 url: /fr/swift/conversion/csv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

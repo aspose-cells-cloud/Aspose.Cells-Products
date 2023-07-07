@@ -1,14 +1,14 @@
 ﻿---
 title:  Rensa objekt med NodeJS
-description:  Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description:  Aspose.Cells Cloud REST API stöder rensa inre objekt i en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/nodejs/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Rensa objekt med NodeJS" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder klara inre objekt i en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Rensa objekt med NodeJS" h2="Aspose.Cells Cloud SDK stöder tydligt innehåll, stil, diagram, tabell, bakgrund och så vidare i Excel-filer." p="Aspose.Cells Cloud REST API stöder rensa inre objekt i en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med NodeJS Extension-länkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med hjälp av NodeJS Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/go/export/workbook-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um die Arbeitsmappe in eine JPG-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um ARBEITSMAPPE in eine JPG-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine JPG-Formatdatei aus einer Tabellenkalkulation online mit Go." urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Gehen Sie zu API, um die Arbeitsmappe in eine JPG-Datei zu exportieren" h2="Gehen Sie zur Bibliothek, um die Arbeitsmappe in eine JPG-Datei zu exportieren" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Go zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von Arbeitsmappen in eine JPG-Formatdatei aus einer Tabellenkalkulation online mit Go." urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine JPG-Formatdatei in Go" >}}

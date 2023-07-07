@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ XLTX API لـ PHP
+title:  احفظ الأرقام كـ XLTX API مقابل PHP
 description: استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLTX.
 url: /ar/php/saveas/numbers-to-xltx/
 ---

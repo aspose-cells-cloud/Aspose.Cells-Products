@@ -1,6 +1,6 @@
 ﻿---
 title: 将 EMF 另存为 Swift 的 ODS API
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将EMF格式文件保存为ODS格式文件。
 url: /zh/swift/saveas/emf-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

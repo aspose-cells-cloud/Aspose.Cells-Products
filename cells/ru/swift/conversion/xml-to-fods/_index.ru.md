@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XML в FODS API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XML в файл формата FODS.
 url: /ru/swift/conversion/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/conversion/xml-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в FODS в Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в FODS — сложная задача. Все переходы между форматами XML и FODS выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в FODS. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод FODS.
+Преобразование форматов файлов из XML в FODS — сложная задача. Все переходы между форматами XML и FODS выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Swift — это профессиональное решение для онлайн-конвертации файлов XML в FODS. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для преобразования XML в формат FODS" gistPath="" %}}

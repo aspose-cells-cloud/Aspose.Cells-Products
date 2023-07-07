@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu FODS Konvertieren API für NodeJS
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um eine Datei im XLSB-Format in eine Datei im FODS-Format zu konvertieren.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im XLSB-Format in eine Datei im FODS-Format.
 url: /de/nodejs/conversion/xlsb-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

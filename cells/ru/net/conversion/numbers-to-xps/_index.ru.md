@@ -10,7 +10,7 @@ url: /ru/net/conversion/numbers-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XPS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XPS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из NUMBERS в XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов NUMBERS в XPS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования NUMBERS в формат XPS" gistPath="" %}}

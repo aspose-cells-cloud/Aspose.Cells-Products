@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/jpg-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XLTM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XLTM — сложная задача. Все переходы между форматами JPG и XLTM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JPG в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
+Преобразование форматов файлов из JPG в XLTM — сложная задача. Все переходы между форматами JPG и XLTM выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JPG в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования JPG в формат XLTM" gistPath="" %}}

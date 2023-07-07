@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için TXT'den XML'e Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  TXT biçim dosyasını XML biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/txt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/txt-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını Swift\'de XML\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TXT'den XML'e dönüştürmek karmaşık bir iştir. Tüm TXT'den XML formatına geçişler, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, TXT'yi çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya formatlarını TXT'den XML'e dönüştürmek karmaşık bir iştir. Tüm TXT'den XML biçimine geçişler, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, TXT'yi çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi XML formatına dönüştürmek için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}

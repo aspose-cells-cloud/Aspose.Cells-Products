@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xls-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как BMP в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS как BMP — сложная задача. Все переходы между форматами XLS и BMP выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате BMP в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат BMP.
+Сохранение форматов файлов из XLS как BMP — сложная задача. Все переходы между форматами XLS и BMP выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLS в формате BMP в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLS в формате BMP" gistPath="" %}}

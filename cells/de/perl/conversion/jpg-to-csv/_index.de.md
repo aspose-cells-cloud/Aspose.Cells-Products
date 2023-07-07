@@ -1,5 +1,5 @@
 ﻿---
-title:  JPG in CSV konvertieren API für Perl
+title:  JPG in CSV konvertieren API in Perl
 description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer JPG-Formatdatei in eine CSV-Formatdatei.
 url: /de/perl/conversion/jpg-to-csv/
 ---

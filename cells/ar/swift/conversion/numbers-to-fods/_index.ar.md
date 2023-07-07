@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS إلى FODS حوّل API إلى Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: NUMBERS إلى FODS حوّل API إلى Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق FODS.
 url: /ar/swift/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

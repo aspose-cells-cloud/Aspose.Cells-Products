@@ -1,10 +1,10 @@
 ﻿---
-title:  Go ile farklı kaydet
-description:  Aspose.Cells Cloud REST API, excel dosyalarının Go ile biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Go kullanarak kaydet
+description:  Aspose.Cells Cloud REST API, Excel dosyalarının Go kullanılarak biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/go/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go ile farklı kaydet" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının diğer biçimler olarak kaydedilmesini destekler. Desteklenen dosya biçimleri 30\'dan fazla dosya biçimine sahiptir." p="Aspose.Cells Cloud REST API, excel dosyalarının Go ile biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Go kullanarak kaydet" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının diğer biçimler olarak kaydedilmesini destekler. Desteklenen dosya biçimleri 30\'dan fazla dosya biçimine sahiptir." p="Aspose.Cells Cloud REST API, Excel dosyalarının Go kullanılarak biçim dosyaları olarak kaydedilmesini destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /tr/go/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Bulut SDK'sı</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Go Extension bağlantılarıyla farklı kaydet" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Go Extension bağlantılarını kullanarak farklı kaydet" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

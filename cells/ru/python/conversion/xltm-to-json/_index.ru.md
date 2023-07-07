@@ -10,7 +10,7 @@ url: /ru/python/conversion/xltm-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в JSON в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в JSON — сложная задача. Все переходы из формата XLTM в формат JSON выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTM в JSON. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из XLTM в JSON — сложная задача. Все переходы XLTM в формат JSON выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTM в JSON. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLTM в формат JSON" gistPath="" %}}

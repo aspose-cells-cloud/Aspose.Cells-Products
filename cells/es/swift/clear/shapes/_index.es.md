@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar formas en Microsoft Excel y OpenOf
 url: /es/swift/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Swift." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar formas en flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra formas en la hoja de cálculo local Microsoft Excel y OpenOffice Calc usando Swift." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Formas claras en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}

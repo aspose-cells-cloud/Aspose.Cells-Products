@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie MHTML als PPTX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von MHTML-Formatdateien als PPTX-Formatdateien.
 url: /de/swift/saveas/mhtml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

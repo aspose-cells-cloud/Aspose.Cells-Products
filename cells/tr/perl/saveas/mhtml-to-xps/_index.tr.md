@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi XPS API olarak kaydedin
+title:  MHTML'yi Perl için XPS API olarak kaydedin
 description:  MHTML biçim dosyasını XPS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-xps/
 ---

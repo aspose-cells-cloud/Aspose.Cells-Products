@@ -10,7 +10,7 @@ url: /ru/java/conversion/emf-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в TIFF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в TIFF — сложная задача. Все переходы форматов с EMF на TIFF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов EMF в TIFF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
+Преобразование форматов файлов из EMF в TIFF — сложная задача. Все переходы форматов с EMF на TIFF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов EMF в TIFF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования формата EMF в формат TIFF" gistPath="" %}}

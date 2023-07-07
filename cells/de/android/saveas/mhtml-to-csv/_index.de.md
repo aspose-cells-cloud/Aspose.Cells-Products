@@ -10,7 +10,7 @@ url: /de/android/saveas/mhtml-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine MHTML-Datei als CSV in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus MHTML als CSV ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum CSV-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-MHTML-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um MHTML als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
+Das Speichern von Dateiformaten aus MHTML als CSV ist eine komplexe Aufgabe. Alle Übergänge vom MHTML- zum CSV-Format werden von unserem Android SDK durchgeführt, wobei die wichtigsten strukturellen und logischen Inhalte der Quell-MHTML-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung, um MHTML als CSV-Dateien online zu speichern. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Speichern von MHTML im CSV-Format" gistPath="" %}}

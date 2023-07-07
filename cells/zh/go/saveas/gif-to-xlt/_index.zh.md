@@ -7,7 +7,7 @@ url: /zh/go/saveas/gif-to-xlt/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="去API将GIF另存为XLT" h2="转到库将 GIF 保存为 XLT" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 GIF 保存为 XLT 和其他文档格式的专业解决方案。" urlsection="saveas/gif-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 GIF 文件保存为 XLT" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 GIF 文件另存为 XLT" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 GIF 文件格式保存为 XLT 是一项复杂的任务。所有 GIF 到 XLT 格式的转换均由我们的 Go SDK 执行，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 Go 库是在线将 GIF 保存为 XLT 文件的专业解决方案。该Cloud SDK为Go开发人员提供了强大的功能和完美的XLT输出。

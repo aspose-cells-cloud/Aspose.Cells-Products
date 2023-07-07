@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie NUMBERS als WMF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im NUMBERS-Format als WMF-Formatdatei.
 url: /de/swift/saveas/numbers-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

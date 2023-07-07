@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/sxc-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в XLSM в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из SXC в XLSM — сложная задача. Все переходы формата SXC в формат XLSM выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов SXC в XLSM. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из SXC в XLSM — сложная задача. Все переходы формата SXC в формат XLSM выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов SXC в XLSM. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования SXC в формат XLSM" gistPath="" %}}

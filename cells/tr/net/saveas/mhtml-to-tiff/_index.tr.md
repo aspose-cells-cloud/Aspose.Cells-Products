@@ -1,5 +1,5 @@
 ﻿---
-title:  C# için MHTML'yi TIFF API olarak kaydedin
+title:  MHTML'yi C# için TIFF API olarak kaydedin
 description:  MHTML biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-tiff/
 ---

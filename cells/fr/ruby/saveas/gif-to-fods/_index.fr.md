@@ -10,7 +10,7 @@ url: /fr/ruby/saveas/gif-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF en tant que FODS dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de GIF en tant que FODS est une tâche complexe. Toutes les transitions de format GIF à FODS sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie FODS parfaite.
+L'enregistrement de formats de fichiers à partir de GIF en tant que FODS est une tâche complexe. Toutes les transitions de format GIF vers FODS sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer GIF au format FODS" gistPath="" %}}

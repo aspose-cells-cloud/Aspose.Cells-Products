@@ -1,10 +1,10 @@
 ﻿---
-title:  حفظ باسم مع NodeJS
+title:  حفظ باستخدام NodeJS
 description: Aspose.Cells Cloud REST API يدعم حفظ ملفات Excel كأنواع من ملفات التنسيق باستخدام NodeJS. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/nodejs/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ باسم مع NodeJS" h2="Aspose.Cells Cloud SDK يدعم حفظ المصنفات كتنسيقات أخرى. تحتوي تنسيقات الملفات المدعومة على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم حفظ ملفات Excel كأنواع من ملفات التنسيق باستخدام NodeJS. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="حفظ باستخدام NodeJS" h2="Aspose.Cells Cloud SDK يدعم حفظ المصنفات كتنسيقات أخرى. تحتوي تنسيقات الملفات المدعومة على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم حفظ ملفات Excel كأنواع من ملفات التنسيق باستخدام NodeJS. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ar/nodejs/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="حفظ باسم مع روابط تمديد NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="احفظ باستخدام روابط امتداد NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

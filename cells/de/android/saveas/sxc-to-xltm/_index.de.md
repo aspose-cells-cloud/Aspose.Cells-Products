@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als XLTM API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um Dateien im SXC-Format als Dateien im XLTM-Format zu speichern.
+description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von SXC-Formatdateien als XLTM-Formatdateien.
 url: /de/android/saveas/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar filas en blanco en Microsoft Excel
 url: /es/swift/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra filas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Utilice Cells Clear REST API para borrar las filas en blanco en los flujos de trabajo de hojas de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra filas en blanco en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Borrar filas en blanco en la hoja de cálculo local Microsoft Excel y OpenOffice Calc - Swift REST API" >}}

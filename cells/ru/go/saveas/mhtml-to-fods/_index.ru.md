@@ -10,7 +10,7 @@ url: /ru/go/saveas/mhtml-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как FODS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде FODS — сложная задача. Все переходы формата MHTML в формат FODS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
+Сохранение форматов файлов из MHTML в виде FODS — сложная задача. Все переходы между форматами MHTML и FODS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения MHTML в формате FODS" gistPath="" %}}

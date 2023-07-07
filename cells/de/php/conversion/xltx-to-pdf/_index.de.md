@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in PDF Konvertieren Sie API in PHP
-description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer XLTX-Formatdatei in eine Datei im PDF-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine Datei im XLTX-Format in eine Datei im Format PDF zu konvertieren.
 url: /de/php/conversion/xltx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

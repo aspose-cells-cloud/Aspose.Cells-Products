@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP'den XLSB'ye Dönüştürme API, Perl için
-description:  BMP formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
+title:  BMP'den XLSB'ye Dönüştürme API için Perl
+description:  BMP biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için Perl için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/perl/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

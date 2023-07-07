@@ -243,7 +243,7 @@ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer 
  Verarbeiten von Arbeitsmappen via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK für Python ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen der Textelemente der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung eines Verschlüsselungsschlüssels Länge, Importieren von Daten in die Arbeitsmappe, Berechnen aller Formeln in der Arbeitsmappe, Festlegen der Formelberechnungseinstellungen durch Bereitstellung einer Präzisionsstrategie usw., Verwenden von Smart Marker, Konvertieren der Arbeitsmappe vom angeforderten Inhalt in ein anderes Format, Anwenden eines Kennworts, um die Inhaltsänderung zu ermöglichen.
+Aspose.Cells Cloud SDK für Python ermöglicht Ihnen das Erstellen, Teilen, Zusammenführen, Suchen und Ersetzen von Text, den Passwortschutz, den Export in ein unterstütztes Dateiformat, das Lesen der Textelemente der Arbeitsmappe, das automatische Anpassen von Arbeitsmappenzeilen unter Ignorieren versteckter Elemente, das Verschlüsseln des Arbeitsmappenkennworts und die Bereitstellung eines Verschlüsselungsschlüssels Länge, Importieren von Daten in die Arbeitsmappe, Berechnen aller Formeln in der Arbeitsmappe, Festlegen der Formelberechnungseinstellungen durch Angabe einer Präzisionsstrategie usw., Verwenden von Smart Marker, Konvertieren der Arbeitsmappe vom angeforderten Inhalt in ein anderes Format, Anwenden eines Kennworts, um die Inhaltsänderung zu ermöglichen.
     </p>
    </div>
    <div class="col-lg-12">

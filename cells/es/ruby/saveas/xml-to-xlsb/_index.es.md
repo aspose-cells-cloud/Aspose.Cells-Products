@@ -10,7 +10,7 @@ url: /es/ruby/saveas/xml-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XML como XLSB en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de XML como XLSB es una tarea compleja. Todas las transiciones de formato XML a XLSB son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar XML como archivos XLSB en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLSB perfecta.
+Guardar formatos de archivo desde XML como XLSB es una tarea compleja. Todas las transiciones de formato XML a XLSB son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar XML como archivos XLSB en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLSB perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar XML como formato XLSB" gistPath="" %}}

@@ -7,7 +7,7 @@ url: /fr/android/saveas/xls-to-dif/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XLS au format DIF" h2="Bibliothèque Android pour enregistrer XLS en DIF" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XLS au format DIF et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS au format DIF dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLS au format DIF sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers XLS au format DIF est une tâche complexe. Toutes les transitions de format XLS vers DIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLS au format DIF. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DIF parfaite.

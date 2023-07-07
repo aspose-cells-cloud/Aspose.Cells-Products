@@ -10,7 +10,7 @@ url: /fr/python/saveas/xltm-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM sous XLSX dans Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLTM au format XLSX est une tâche complexe. Toutes les transitions de format XLTM vers XLSX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format XLSX. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie XLSX parfaite.
+L'enregistrement des formats de fichiers de XLTM au format XLSX est une tâche complexe. Toutes les transitions de format XLTM à XLSX sont effectuées par notre SDK Python tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Python est une solution professionnelle pour enregistrer en ligne des fichiers XLTM au format XLSX. Ce SDK Cloud offre aux développeurs Python des fonctionnalités puissantes et une sortie XLSX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Python utilisant REST API pour enregistrer XLTM au format XLSX" gistPath="" %}}

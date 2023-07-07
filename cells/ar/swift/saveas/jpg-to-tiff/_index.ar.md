@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JPG كـ TIFF API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JPG كملف تنسيق TIFF.
 url: /ar/swift/saveas/jpg-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/perl/conversion/mhtml-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLTX в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLTX — сложная задача. Все переходы форматов MHTML в XLTX выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLTX.
+Преобразование форматов файлов из MHTML в XLTX — сложная задача. Все преобразования форматов MHTML в XLTX выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов MHTML в XLTX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования MHTML в формат XLTX" gistPath="" %}}

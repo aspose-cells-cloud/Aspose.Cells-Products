@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK para Python para convertir un archiv
 url: /es/python/conversion/tsv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir TSV a DIF" h2="Python biblioteca para convertir TSV a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir TSV a DIF y otros formatos de documentos en línea usando Python." urlsection="conversion/tsv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir TSV a DIF" h2="Python biblioteca para convertir TSV a DIF" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir TSV a DIF y otros formatos de documentos en línea usando Python." urlsection="conversion/tsv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo TSV a DIF en Python" >}}

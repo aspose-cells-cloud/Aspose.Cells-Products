@@ -10,7 +10,7 @@ url: /ru/android/saveas/bmp-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP в формате GIF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP в формате GIF — сложная задача. Все переходы BMP в формат GIF выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека для Android — это профессиональное решение для сохранения BMP в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.
+Сохранение форматов файлов с BMP в формате GIF — сложная задача. Все переходы BMP в формат GIF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека для Android — это профессиональное решение для сохранения BMP в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения BMP в формате GIF" gistPath="" %}}

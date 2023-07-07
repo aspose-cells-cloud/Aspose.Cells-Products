@@ -1,6 +1,6 @@
 ﻿---
-title: LISTOBJECT'i Swift API kullanarak e-tablodan SQL'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  LISTOBJECT'i Swift API kullanarak e-tablodan SQL'e aktarın
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/swift/export/listobject-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/export/listobject-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Swift\'de SQL format dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-LISTOBJECT nesnesini e-tablodan SQL dosyasına aktarma karmaşık bir iştir. LISTOBJECT'i SQL biçimine aktarma geçişleri, kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak SQL biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
+LISTOBJECT nesnesini e-tablodan SQL dosyasına aktarma karmaşık bir iştir. LISTOBJECT'i SQL biçimine dışa aktarma geçişleri, Swift SDK'mız tarafından gerçekleştirilir ve kaynak LISTOBJECT e-tablosunun ana yapısal ve mantıksal içeriği korunur. Swift kitaplığımız, LISTOBJECT nesnelerini çevrimiçi olarak SQL biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel SQL çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="LISTOBJECT\'i e-tablodan SQL biçimine aktarmak için REST API kullanan Swift kod örneği" gistPath="" %}}

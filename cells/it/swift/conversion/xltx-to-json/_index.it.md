@@ -1,6 +1,6 @@
 ﻿---
-title:  Converti da XLTX a JSON API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: Converti da XLTX a JSON API per Swift
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLTX in un file in formato JSON.
 url: /it/swift/conversion/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV إلى PDF قم بالتحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق CSV إلى ملف بتنسيق PDF.
 url: /ar/swift/conversion/csv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

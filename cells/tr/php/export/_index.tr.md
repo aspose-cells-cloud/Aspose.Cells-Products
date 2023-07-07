@@ -1,10 +1,10 @@
 ﻿---
-title: PHP ile dışa aktarma
-description:  Aspose.Cells Cloud REST API, çalışma kitabını ve dahili nesneleri PHP ile her türlü formata aktarmayı destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title: PHP kullanarak dışa aktarın
+description:  Aspose.Cells Cloud REST API, çalışma kitabını ve dahili nesneleri PHP kullanarak her türlü biçime aktarmayı destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/php/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP ile dışa aktarma" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının ve dahili nesnelerin 30\'dan fazla dosya biçimine dışa aktarılmasını destekler." p="Aspose.Cells Cloud REST API, çalışma kitabını ve dahili nesneleri PHP ile her türlü formata aktarmayı destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP kullanarak dışa aktarın" h2="Aspose.Cells Cloud SDK, çalışma kitaplarının ve dahili nesnelerin 30\'dan fazla dosya biçimine dışa aktarılmasını destekler." p="Aspose.Cells Cloud REST API, çalışma kitabını ve dahili nesneleri PHP kullanarak her türlü biçime aktarmayı destekler. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /tr/php/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Bulut SDK'sı</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="PHP Uzantı bağlantıları ile dışa aktarma" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="PHP Uzantı bağlantılarını kullanarak dışa aktarın" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

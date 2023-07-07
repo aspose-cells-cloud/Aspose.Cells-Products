@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLTX a XLSB API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description: Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato XLTX a un archivo de formato XLSB.
 url: /es/swift/conversion/xltx-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

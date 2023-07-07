@@ -10,7 +10,7 @@ url: /de/android/protect/encrypt-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Schützen Sie die lokale Microsoft Excel und die OpenOffice Calc-Tabelle mit dem Passwort – Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Der Schutz einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Der Schutz einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem Android SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um lokale Tabellenkalkulationen online mit einem Passwort zu schützen. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte API.
+Der Schutz einer lokalen Tabelle mit einem Passwort ist eine komplexe Aufgabe. Der Schutz einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem Android SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quelltabelle erhalten bleibt. Unsere Android-Bibliothek ist eine professionelle Lösung, um lokale Tabellenkalkulationen online mit einem Passwort zu schützen. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionalität und perfekte API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zur Verschlüsselung lokaler Tabellenkalkulationen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Protect.java" %}}

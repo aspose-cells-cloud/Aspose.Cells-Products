@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als XLSB API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der ODS-Formatdatei als XLSB-Formatdatei.
 url: /de/swift/saveas/ods-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

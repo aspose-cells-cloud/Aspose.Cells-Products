@@ -10,7 +10,7 @@ url: /tr/nodejs/protect/decrypt-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/unlock" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostUnlock" apimethod="POST" %}}
 <br/>
-Yerel bir e-tablonun şifresini bir parola ile çözmek karmaşık bir iştir. Yerel elektronik tablonun şifresini şifre geçişleriyle çözme, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel e-tabloların şifresini çevrimiçi bir parolayla çözmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel bir e-tablonun şifresini bir parola ile çözmek karmaşık bir iştir. Yerel elektronik tablonun şifresini parola geçişleriyle çözme, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, yerel e-tabloların şifresini çevrimiçi bir parolayla çözmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tabloların şifresini çözmek için NodeJs kodu" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Unlock.js" %}}

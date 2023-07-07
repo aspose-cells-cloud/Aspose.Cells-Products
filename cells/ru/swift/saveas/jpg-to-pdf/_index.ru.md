@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как PDF API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата JPG как файла формата PDF.
 url: /ru/swift/saveas/jpg-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

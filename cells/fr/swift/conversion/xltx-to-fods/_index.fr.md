@@ -1,6 +1,6 @@
 ﻿---
-title:  Convertir XLTX en FODS API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+title: Convertir XLTX en FODS API pour Swift
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format XLTX en fichier au format FODS.
 url: /fr/swift/conversion/xltx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/conversion/xltx-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en FODS dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTX en FODS est une tâche complexe. Toutes les transitions de format XLTX vers FODS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTX. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLTX en FODS. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie FODS parfaite.
+La conversion des formats de fichiers de XLTX en FODS est une tâche complexe. Toutes les transitions de format XLTX vers FODS sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Swift est une solution professionnelle pour convertir en ligne des fichiers XLTX en FODS. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour convertir XLTX au format FODS" gistPath="" %}}

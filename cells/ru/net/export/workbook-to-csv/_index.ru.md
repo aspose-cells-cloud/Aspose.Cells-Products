@@ -10,7 +10,7 @@ url: /ru/net/export/workbook-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата CSV в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл CSV из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат CSV выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата CSV. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод в формате CSV.
+Экспорт объекта WORKBOOK в файл CSV из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат CSV выполняется нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата CSV. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта WORKBOOK в формат CSV из электронной таблицы" gistPath="" %}}

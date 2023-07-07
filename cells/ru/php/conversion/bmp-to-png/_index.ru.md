@@ -10,7 +10,7 @@ url: /ru/php/conversion/bmp-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в PNG в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат PNG.
+Преобразование форматов файлов из BMP в PNG — сложная задача. Все переходы форматов с BMP на PNG выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов BMP в PNG. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования формата BMP в формат PNG" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/bmp-to-png/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования BMP в PNG" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

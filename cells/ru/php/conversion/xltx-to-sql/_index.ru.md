@@ -4,13 +4,13 @@ description: Использование Aspose.Cells Cloud SDK для PHP для
 url: /ru/php/conversion/xltx-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XLTX в SQL" h2="PHP библиотека для преобразования XLTX в SQL" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации XLTX в SQL и другие форматы документов с использованием PHP." urlsection="conversion/xltx-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для преобразования XLTX в SQL" h2="PHP библиотека для преобразования XLTX в SQL" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для онлайн-конвертации XLTX в SQL и другие форматы документов с использованием PHP." urlsection="conversion/xltx-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в SQL в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в SQL — сложная задача. Все переходы из формата XLTX в формат SQL выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTX в SQL. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XLTX в SQL — сложная задача. Все переходы из формата XLTX в формат SQL выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов XLTX в SQL. Этот Cloud SDK предоставляет PHP разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования XLTX в формат SQL" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/xltx-to-sql/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования XLTX в SQL" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

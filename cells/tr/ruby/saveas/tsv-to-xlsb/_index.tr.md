@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/tsv-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Ruby\'de XLSB olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını TSV'den XLSB olarak kaydetmek karmaşık bir iştir. Tüm TSV'den XLSB'ye biçim geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, TSV'yi çevrimiçi olarak XLSB dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
+Dosya formatlarını TSV'den XLSB olarak kaydetmek karmaşık bir iştir. Tüm TSV'den XLSB'ye format geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, TSV'yi çevrimiçi olarak XLSB dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de TSV\'yi XLSB formatı olarak kaydetmek için REST API kullanan kod örneği" gistPath="" %}}

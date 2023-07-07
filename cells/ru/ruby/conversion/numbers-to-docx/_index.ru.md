@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/numbers-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в DOCX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DOCX — сложная задача. Все переходы NUMBERS в формат DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации NUMBERS в файлы DOCX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из NUMBERS в DOCX — сложная задача. Все переходы NUMBERS в формат DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации NUMBERS в файлы DOCX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования NUMBERS в формат DOCX" gistPath="" %}}

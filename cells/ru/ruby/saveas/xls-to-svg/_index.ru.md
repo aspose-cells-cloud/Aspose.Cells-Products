@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
 url: /ru/ruby/saveas/xls-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы сохранить XLS как SVG" h2="Библиотека Ruby для сохранения XLS как SVG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLS как SVG и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xls-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLS как SVG" h2="Библиотека Ruby для сохранения XLS как SVG" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLS как SVG и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xls-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как SVG в Ruby." >}}

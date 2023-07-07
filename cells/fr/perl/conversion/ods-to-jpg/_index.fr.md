@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le 
 url: /fr/perl/conversion/ods-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir ODS en JPG" h2="Perl bibliothèque pour convertir ODS en JPG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir ODS en JPG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/ods-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour convertir ODS en JPG" h2="Perl bibliothèque pour convertir ODS en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour convertir ODS en JPG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="conversion/ods-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en JPG en Perl" >}}

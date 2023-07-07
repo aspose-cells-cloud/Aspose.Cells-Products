@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter HTML API für Python
+title:  Speichern Sie XLTX als HTML API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format HTML zu speichern.
 url: /de/python/saveas/xltx-to-html/
 ---

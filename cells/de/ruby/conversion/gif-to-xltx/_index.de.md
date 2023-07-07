@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF in XLTX konvertieren API für Ruby
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um eine Datei im GIF-Format in eine Datei im XLTX-Format zu konvertieren.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer GIF-Formatdatei in eine XLTX-Formatdatei.
 url: /de/ruby/conversion/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -8,7 +8,7 @@ url: /sv/nodejs/protect/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Skydda med NodeJS Extension-länkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Skydda med hjälp av NodeJS Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

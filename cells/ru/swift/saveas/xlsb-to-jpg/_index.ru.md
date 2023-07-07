@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как JPG API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSB в виде файла формата JPG.
 url: /ru/swift/saveas/xlsb-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

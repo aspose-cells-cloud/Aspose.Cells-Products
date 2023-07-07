@@ -5,7 +5,7 @@ weight: 70
 url: /fr/net
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Construire Excel Applications de visualisation et de conversion via C# REST SDK" h2="SDK faciles pour C#, ASP.NET et autres langages pris en charge par .NET pour développer des applications basées sur le cloud pour le traitement de feuilles de calcul Excel et OpenOffice." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Build Excel Applications de visualisation et de conversion via C# SDK REST" h2="SDK faciles pour C#, ASP.NET et autres langages pris en charge par .NET pour développer des applications basées sur le cloud pour le traitement de feuilles de calcul Excel et OpenOffice." logoImageSrc="/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="Cloud SDK for .NET" >}}
 

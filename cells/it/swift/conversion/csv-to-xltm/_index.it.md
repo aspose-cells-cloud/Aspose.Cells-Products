@@ -1,6 +1,6 @@
 ﻿---
 title:  Conversione da CSV a XLTM API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato CSV in un file in formato XLTM.
 url: /it/swift/conversion/csv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

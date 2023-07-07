@@ -10,7 +10,7 @@ url: /ru/go/conversion/ods-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в JSON в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из ODS в JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов ODS в JSON. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования ODS в формат JSON" gistPath="" %}}

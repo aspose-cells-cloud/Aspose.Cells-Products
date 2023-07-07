@@ -4,7 +4,7 @@ description:  Utilizzo di Aspose.Cells Cloud SDK per Perl per salvare il file in
 url: /it/perl/saveas/jpg-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per salvare JPG come PPTX" h2="Perl libreria per salvare JPG come PPTX" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per salvare JPG come PPTX e altri formati di documenti online utilizzando Perl." urlsection="saveas/jpg-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API per salvare JPG come PPTX" h2="Perl libreria per salvare JPG come PPTX" p="Usa Cells SaveAs REST API per creare flussi di lavoro di fogli di calcolo personalizzati in Perl. Questa è una soluzione professionale per salvare JPG come PPTX e altri formati di documenti online usando Perl." urlsection="saveas/jpg-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JPG come PPTX in Perl" >}}

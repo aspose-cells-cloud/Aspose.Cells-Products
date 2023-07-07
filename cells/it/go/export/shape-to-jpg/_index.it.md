@@ -10,7 +10,7 @@ url: /it/go/export/shape-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto SHAPE in un file in formato JPG in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto SHAPE in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni in formato SHAPE in formato JPG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti SHAPE in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
+Esportare l'oggetto SHAPE in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni in formato SHAPE in formato JPG viene eseguita dal nostro SDK Go mantenendo il contenuto strutturale e logico principale del foglio di calcolo SHAPE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti SHAPE in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare SHAPE in formato JPG dal foglio di calcolo" gistPath="" %}}

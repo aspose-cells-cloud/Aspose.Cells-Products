@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie CHART aus der Tabelle mit NodeJS API nach TIFF
+title:  Exportieren Sie CHART aus der Tabellenkalkulation nach TIFF mit NodeJS API
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/nodejs/export/chart-to-tiff/
 ---

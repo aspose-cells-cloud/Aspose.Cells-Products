@@ -1,6 +1,6 @@
 ﻿---
 title: XLTM zu DOCX Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im XLTM-Format in eine Datei im DOCX-Format.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLTM-Formatdatei in eine DOCX-Formatdatei.
 url: /de/nodejs/conversion/xltm-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

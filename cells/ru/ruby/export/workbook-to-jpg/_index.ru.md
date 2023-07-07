@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API поддерживает экспор�
 url: /ru/ruby/export/workbook-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта WORKBOOK в файл JPG" h2="Библиотека Ruby для экспорта WORKBOOK в файл JPG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронной таблицы в Ruby. Это профессиональное решение для экспорта WORKBOOK в файл формата JPG из электронной таблицы онлайн с использованием Ruby." urlsection="export/workbook-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для экспорта WORKBOOK в файл JPG" h2="Библиотека Ruby для экспорта WORKBOOK в файл JPG" p="Используйте Cells Export REST API для экспорта рабочих процессов внутренних объектов электронных таблиц в Ruby. Это профессиональное решение для экспорта WORKBOOK в файл формата JPG из электронной таблицы онлайн с использованием Ruby." urlsection="export/workbook-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата JPG в Ruby" >}}

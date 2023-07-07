@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva TXT come JSON API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato TXT come file in formato JSON.
 url: /it/swift/saveas/txt-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

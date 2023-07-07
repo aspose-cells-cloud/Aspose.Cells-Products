@@ -10,7 +10,7 @@ url: /fr/go/saveas/gif-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF au format XLT dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de GIF en tant que XLT est une tâche complexe. Toutes les transitions de format GIF vers XLT sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers GIF au format XLT. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLT parfaite.
+L'enregistrement de formats de fichiers à partir de GIF en tant que XLT est une tâche complexe. Toutes les transitions de format GIF vers XLT sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers GIF au format XLT en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLT parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer GIF au format XLT" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/json-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Ruby\'de CSV olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini JSON'dan CSV olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan CSV formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JSON'u çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+Dosya biçimlerini JSON'dan CSV olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan CSV formatına geçişler, kaynak JSON elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, JSON'u çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u CSV formatı olarak kaydetmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

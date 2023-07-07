@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование MHTML в JSON API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата MHTML в файл формата JSON.
 url: /ru/swift/conversion/mhtml-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

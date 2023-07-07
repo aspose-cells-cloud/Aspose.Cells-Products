@@ -10,7 +10,7 @@ url: /zh/net/saveas/xltx-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLTX 文件另存为 C# 中的 ODS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 XLTX 中的文件格式保存为 ODS 是一项复杂的任务。所有 XLTX 到 ODS 格式的转换均由我们的 C# SDK 执行，同时保留源 XLTX 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 XLTX 保存为 ODS 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能和完美的ODS输出。
+将 XLTX 中的文件格式保存为 ODS 是一项复杂的任务。所有 XLTX 到 ODS 格式的转换均由我们的 C# SDK 执行，同时保留源 XLTX 电子表格的主要结构和逻辑内容。我们的 C# 库是将 XLTX 在线保存为 ODS 文件的专业解决方案。该Cloud SDK为C#开发者提供了强大的功能和完美的ODS输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# 中的代码示例使用 REST API 将 XLTX 保存为 ODS 格式" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als MHTML API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im PNG-Format als MHTML-Formatdatei zu speichern.
 url: /de/swift/saveas/png-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

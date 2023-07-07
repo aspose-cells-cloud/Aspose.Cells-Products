@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir l
 url: /fr/python/conversion/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir les NUMBERS en XLTX" h2="Python bibliothèque pour convertir les NUMBERS en XLTX" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en XLTX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/numbers-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir les NUMBERS en XLTX" h2="Python bibliothèque pour convertir les NUMBERS en XLTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en XLTX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/numbers-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en XLTX en Python" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Export
-description:  Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Mit Swift exportieren
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Export" h2="Aspose.Cells Cloud SDK unterstützt den Export von Arbeitsmappen und internen Objekten in mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Swift exportieren" h2="Aspose.Cells Cloud SDK unterstützt den Export von Arbeitsmappen und internen Objekten in mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Swift. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /de/swift/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Erweiterungslinks exportieren" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exportieren Sie mithilfe von Swift-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

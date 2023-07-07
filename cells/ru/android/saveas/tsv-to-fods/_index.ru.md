@@ -10,7 +10,7 @@ url: /ru/android/saveas/tsv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как FODS в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде FODS — сложная задача. Все переходы между форматами TSV и FODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для сохранения TSV в виде файлов FODS онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
+Сохранение форматов файлов из TSV в виде FODS — сложная задача. Все переходы форматов TSV в FODS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Android — это профессиональное решение для сохранения TSV в виде файлов FODS онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения TSV в формате FODS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM zu FODS Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+title: XLTM zu FODS Konvertieren Sie API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLTM-Format in eine Datei im FODS-Format.
 url: /de/swift/conversion/xltm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

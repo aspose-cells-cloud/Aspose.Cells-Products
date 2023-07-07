@@ -4,7 +4,7 @@ description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichie
 url: /fr/net/saveas/csv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer CSV en XLT" h2="C# bibliothèque pour enregistrer CSV en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format XLT et d\'autres formats de documents en ligne en utilisant le C#." urlsection="saveas/csv-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer CSV en XLT" h2="C# bibliothèque pour enregistrer CSV en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format XLT et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/csv-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV au format XLT au C#" >}}

@@ -4,7 +4,7 @@ description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer 
 url: /fr/nodejs/saveas/emf-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer EMF au format XML" h2="Bibliothèque NodeJS pour enregistrer EMF au format XML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format XML et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/emf-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer EMF au format XML" h2="Bibliothèque NodeJS pour enregistrer EMF au format XML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer EMF au format XML et d\'autres formats de document en ligne à l\'aide de NodeJS." urlsection="saveas/emf-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier EMF au format XML dans NodeJS" >}}

@@ -10,7 +10,7 @@ url: /ru/go/conversion/xlsm-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в CSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в CSV — сложная задача. Все переходы между форматами XLSM и CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSM в CSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
+Преобразование форматов файлов из XLSM в CSV — сложная задача. Все переходы из формата XLSM в формат CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSM в CSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLSM в формат CSV" gistPath="" %}}

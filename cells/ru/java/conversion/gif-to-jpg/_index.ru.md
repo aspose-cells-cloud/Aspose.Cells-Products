@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования GIF в JPG" h2="Java библиотека для преобразования GIF в JPG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации GIF в JPG и другие форматы документов с использованием Java." urlsection="conversion/gif-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования GIF в JPG" h2="Java библиотека для преобразования GIF в JPG" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации GIF в JPG и другие форматы документов с использованием Java." urlsection="conversion/gif-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте GIF-файл в JPG по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из GIF в JPG — сложная задача. Все переходы формата GIF в JPG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов GIF в JPG. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из GIF в JPG — сложная задача. Все переходы формата GIF в JPG выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов GIF в JPG. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования GIF в формат JPG" gistPath="" %}}

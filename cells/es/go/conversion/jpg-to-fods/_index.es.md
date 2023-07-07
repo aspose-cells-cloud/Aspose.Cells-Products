@@ -10,7 +10,7 @@ url: /es/go/conversion/jpg-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo JPG a FODS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de JPG a FODS es una tarea compleja. Todas las transiciones de formato JPG a FODS son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos JPG a FODS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida FODS perfecta.
+Convertir formatos de archivo de JPG a FODS es una tarea compleja. Todas las transiciones de formato JPG a FODS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos JPG a FODS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida FODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir JPG a formato FODS" gistPath="" %}}

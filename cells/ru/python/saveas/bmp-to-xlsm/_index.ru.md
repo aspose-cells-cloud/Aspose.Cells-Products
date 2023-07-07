@@ -10,7 +10,7 @@ url: /ru/python/saveas/bmp-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XLSM в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как XLSM — сложная задача. Все переходы формата BMP в формат XLSM выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Python — это профессиональное решение для сохранения BMP в виде файлов XLSM онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов с BMP как XLSM — сложная задача. Все переходы формата BMP в формат XLSM выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Python — это профессиональное решение для сохранения BMP в виде файлов XLSM онлайн. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения BMP в формате XLSM" gistPath="" %}}

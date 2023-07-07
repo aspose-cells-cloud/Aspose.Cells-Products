@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for C#将BMP格式文件转换为MD格
 url: /zh/net/conversion/bmp-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 BMP 转换为MD" h2="C#库将BMP转换为MD" p="使用 Cells Conversion REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将BMP转换为MD和其他文档格式的专业解决方案。" urlsection="conversion/bmp-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 BMP 转换为 MD" h2="C#库将BMP转换为MD" p="使用 Cells Conversion REST API 在 Net 中创建自定义电子表格工作流程。这是使用C#在线将BMP转换为MD和其他文档格式的专业解决方案。" urlsection="conversion/bmp-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将BMP文件转换为C#中的MD" >}}

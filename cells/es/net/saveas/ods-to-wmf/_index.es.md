@@ -1,5 +1,5 @@
 ﻿---
-title:  Guarde ODS como WMF API para C#
+title:  Guardar ODS como WMF API para C#
 description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato ODS como archivo de formato WMF.
 url: /es/net/saveas/ods-to-wmf/
 ---

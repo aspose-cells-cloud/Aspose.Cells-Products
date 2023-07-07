@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JSON en SQL API pour Android
-description: Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format JSON en fichier au format SQL.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour convertir le fichier au format JSON en fichier au format SQL.
 url: /fr/android/conversion/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

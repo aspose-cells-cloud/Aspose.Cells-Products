@@ -10,7 +10,7 @@ url: /ru/python/saveas/mhtml-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XML в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для сохранения файлов MHTML в виде XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
+Сохранение форматов файлов из MHTML в виде XML — сложная задача. Все переходы форматов MHTML в XML выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Python — это профессиональное решение для сохранения файлов MHTML в виде XML в Интернете. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения MHTML в формате XML" gistPath="" %}}

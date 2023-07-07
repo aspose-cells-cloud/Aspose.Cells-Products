@@ -4,7 +4,7 @@ description: XLTX biçim dosyasını HTML biçim dosyası olarak kaydetmek için
 url: /tr/android/saveas/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i HTML olarak kaydetmek için Android API" h2="XLTX\'i HTML olarak kaydetmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Android kullanarak XLTX\'i HTML olarak ve diğer belge biçimlerini çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTX\'i HTML olarak kaydetmek için Android API" h2="XLTX\'i HTML olarak kaydetmek için Android kütüphanesi" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Android kullanarak XLTX\'i HTML olarak ve diğer belge biçimlerini çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xltx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLTX dosyasını HTML olarak kaydedin" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title: Swift API kullanarak ÇALIŞMA TABLOSUNU e-tablodan GIF'e aktarın
-description:  Aspose.Cells Cloud REST API, Excel dosyasının ve dahili nesnelerin dosya biçimi türlerine dışa aktarılmasını destekler. SDK, geliştirme dili türlerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Swift API kullanarak ÇALIŞMA TABLOSUNU e-tablodan GIF'e aktarın
+description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} biçiminde dışa aktarmayı destekler.
 url: /tr/swift/export/worksheet-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift API" h2="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, ÇALIŞMA TABLOSUNU Swift kullanarak elektronik tablodan GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift API" h2="ÇALIŞMA TABLOSUNU GIF dosyasına dışa aktarmak için Swift kitaplığı" p="Swift\'de elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Swift kullanarak ÇALIŞMA TABLOSUNU elektronik tablodan GIF formatındaki dosyaya aktarmak için profesyonel bir çözümdür." urlsection="export/worksheet-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKSHEET nesnesini Swift\'de GIF formatındaki dosyaya aktarın" >}}

@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى PPTX" h2="Java مكتبة لتحويل الأرقام إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى PPTX" h2="Java مكتبة لتحويل الأرقام إلى PPTX" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى PPTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى PPTX في Java" >}}

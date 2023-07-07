@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ CSV API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق EMF كملف بتنسيق CSV.
 url: /ar/swift/saveas/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

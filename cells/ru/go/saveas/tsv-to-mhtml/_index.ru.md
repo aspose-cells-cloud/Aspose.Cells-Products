@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Go для
 url: /ru/go/saveas/tsv-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить TSV как MHTML." h2="Библиотека Go для сохранения TSV как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения TSV как MHTML и других форматов документов онлайн с помощью Go." urlsection="saveas/tsv-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить TSV как MHTML." h2="Библиотека Go для сохранения TSV как MHTML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения TSV как MHTML и других форматов документов в Интернете с помощью Go." urlsection="saveas/tsv-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как MHTML в Go" >}}

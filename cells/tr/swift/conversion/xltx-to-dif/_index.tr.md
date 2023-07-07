@@ -1,6 +1,6 @@
 ﻿---
-title:  Swift için XLTX'den DIF'e Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Swift için XLTX'den DIF'e Dönüştürme API
+description:  XLTX biçim dosyasını DIF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xltx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/xltx-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTX dosyasını Swift\'de DIF\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTX'ten DIF'e dönüştürmek karmaşık bir iştir. Tüm XLTX'ten DIF biçimine geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLTX'i çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya formatlarını XLTX'ten DIF'e dönüştürmek karmaşık bir iştir. Tüm XLTX'ten DIF biçimine geçişler, kaynak XLTX elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XLTX'i çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTX\'i DIF biçimine dönüştürmek için REST API\'i kullanan Swift kod örneği" gistPath="" %}}

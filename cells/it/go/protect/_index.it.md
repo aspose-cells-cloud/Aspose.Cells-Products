@@ -1,14 +1,14 @@
 ﻿---
-title:  Proteggi con Go
-description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con Go. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Proteggi usando Go
+description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando Go. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/go/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi con Go" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con Go. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi usando Go" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando Go. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Proteggi con i link Go Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Proteggi usando i link Go Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

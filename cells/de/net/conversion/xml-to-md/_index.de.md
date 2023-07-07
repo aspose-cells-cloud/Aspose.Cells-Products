@@ -1,6 +1,6 @@
 ﻿---
-title:  XML in MD Konvertieren Sie API in C#
-description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
+title:  XML in MD konvertieren API für C#
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
 url: /de/net/conversion/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som TXT API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara XLSX-formatfil som TXT-formatfil.
 url: /sv/swift/saveas/xlsx-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

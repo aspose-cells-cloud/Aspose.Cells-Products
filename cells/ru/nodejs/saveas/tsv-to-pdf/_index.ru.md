@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для NodeJS д�
 url: /ru/nodejs/saveas/tsv-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TSV как PDF" h2="Библиотека NodeJS для сохранения TSV как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TSV как PDF и других форматов документов онлайн с помощью NodeJS." urlsection="saveas/tsv-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TSV как PDF" h2="Библиотека NodeJS для сохранения TSV как PDF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TSV как PDF и других форматов документов онлайн с использованием NodeJS." urlsection="saveas/tsv-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как PDF в NodeJS." >}}

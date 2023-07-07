@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez XLSM sous XLSX API pour Perl
-description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSM en tant que fichier au format XLSX.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XLSM en tant que fichier au format XLSX.
 url: /fr/perl/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

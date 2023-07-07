@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS إلى PDF قم بالتحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق ODS إلى ملف بتنسيق PDF.
 url: /ar/swift/conversion/ods-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/ods-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى PDF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعتبر مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
+يعد تحويل تنسيقات الملفات من ODS إلى PDF مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى PDF بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل ملفات ODS إلى ملفات PDF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PDF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل ODS إلى تنسيق PDF" gistPath="" %}}

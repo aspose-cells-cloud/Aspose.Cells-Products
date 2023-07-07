@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/nodejs/export/shape-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von SHAPE in eine WMF-Datei" h2="NodeJS-Bibliothek zum Exportieren von SHAPE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Online-Export von SHAPE in eine WMF-Formatdatei aus einer Tabellenkalkulation mit NodeJS." urlsection="export/shape-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von SHAPE in eine WMF-Datei" h2="NodeJS-Bibliothek zum Exportieren von SHAPE in eine WMF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von SHAPE in eine WMF-Formatdatei aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/shape-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das SHAPE-Objekt in eine WMF-Formatdatei in NodeJS" >}}

@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Go لتحويل ملف 
 url: /ar/go/conversion/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل الأرقام إلى XLTX" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى XLTX" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل NUMBERS إلى XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لتحويل NUMBERS إلى XLTX" h2="اذهب إلى المكتبة لتحويل NUMBERS إلى XLTX" p="استخدم Cells Conversion REST API لإنشاء جداول بيانات سير عمل مخصصة في Go. هذا حل احترافي لتحويل NUMBERS إلى XLTX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Go." urlsection="conversion/numbers-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى XLTX في Go" >}}

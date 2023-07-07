@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG in GIF Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+title: PNG in GIF Konvertieren Sie API für Swift
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um eine Datei im PNG-Format in eine GIF-Formatdatei zu konvertieren.
 url: /de/swift/conversion/png-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

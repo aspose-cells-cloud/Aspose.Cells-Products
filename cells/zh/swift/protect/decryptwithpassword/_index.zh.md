@@ -4,7 +4,7 @@ description: Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK 解锁。电
 url: /zh/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格的 Swift 库" p="使用 Cells Decrypt REST API 在 Swift 中使用密码工作流程解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格。这个专业的解决方案使用 Swift 使用密码在线解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格的 Swift 库" p="使用 Cells Decrypt REST API 在 Swift 中使用密码工作流程解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格。这个专业的解决方案使用 Swift 使用密码在线解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格 - Swift REST API" >}}

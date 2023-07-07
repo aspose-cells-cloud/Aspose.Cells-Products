@@ -1,5 +1,5 @@
 ﻿---
-title: XLT 到 XLTX 转换 API for Java
+title: XLT 至 XLTX 转换 API for Java
 description: 使用Aspose.Cells Cloud SDK for Java将XLT格式文件转换为XLTX格式文件。
 url: /zh/java/conversion/xlt-to-xltx/
 ---

@@ -4,7 +4,7 @@ description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fich
 url: /fr/python/conversion/tsv-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir TSV en PPTX" h2="bibliothèque Python pour convertir TSV en PPTX" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir TSV en PPTX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/tsv-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir TSV en PPTX" h2="bibliothèque Python pour convertir TSV en PPTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir TSV en PPTX et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/tsv-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TSV en PPTX en Python" >}}

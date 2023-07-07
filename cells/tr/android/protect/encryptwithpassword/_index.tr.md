@@ -10,7 +10,7 @@ url: /tr/android/protect/encrypt-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu şifreyle koruyun - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel bir e-tabloyu parola geçişleriyle koruma, kaynak e-tablonun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, yerel e-tabloları çevrimiçi bir parolayla korumak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel bir e-tabloyu şifre geçişleriyle koruma, kaynak e-tablonun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, yerel e-tabloları çevrimiçi bir parolayla korumak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel e-tabloları şifrelemek için REST API kullanan Android\'de kod örneği" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Protect.java" %}}

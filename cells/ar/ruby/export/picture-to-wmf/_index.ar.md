@@ -10,7 +10,7 @@ url: /ar/ruby/export/picture-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف بتنسيق WMF في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن PICTURE إلى ملف WMF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير الصورة إلى تنسيق WMF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن PICTURE إلى ملف WMF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير PICTURE إلى تنسيق WMF بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج WMF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتصدير PICTURE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}

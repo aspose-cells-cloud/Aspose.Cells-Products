@@ -10,7 +10,7 @@ url: /ru/perl/saveas/numbers-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SVG в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как SVG — сложная задача. Все преобразования форматов NUMBERS в SVG выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов SVG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов из NUMBERS как SVG — сложная задача. Все преобразования форматов NUMBERS в SVG выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов SVG онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения NUMBERS в формате SVG" gistPath="" %}}

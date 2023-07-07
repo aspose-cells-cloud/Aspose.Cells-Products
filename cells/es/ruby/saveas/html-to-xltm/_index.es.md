@@ -10,7 +10,7 @@ url: /es/ruby/saveas/html-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como XLTM en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como XLTM es una tarea compleja. Todas las transiciones de formato HTML a XLTM se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos XLTM en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLTM perfecta.
+Guardar formatos de archivo desde HTML como XLTM es una tarea compleja. Todas las transiciones de formato HTML a XLTM son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos XLTM en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLTM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar HTML como formato XLTM" gistPath="" %}}

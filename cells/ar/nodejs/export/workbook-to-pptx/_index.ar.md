@@ -10,7 +10,7 @@ url: /ar/nodejs/export/workbook-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق PPTX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم تنفيذ عمليات تصدير كتاب العمل إلى انتقالات تنسيق PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
+يعد تصدير كائن كتاب العمل إلى ملف PPTX من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKBOOK إلى تنسيق PPTX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق PPTX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتصدير كتاب العمل إلى تنسيق PPTX من جدول البيانات" gistPath="" %}}

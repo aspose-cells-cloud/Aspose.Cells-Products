@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrer JPG sous ODS API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format JPG en tant que fichier au format ODS.
 url: /fr/swift/saveas/jpg-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JPG en tant qu\'ODS" h2="Bibliothèque Swift pour enregistrer JPG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format ODS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/jpg-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer JPG en tant qu\'ODS" h2="Bibliothèque Swift pour enregistrer JPG en tant qu\'ODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer JPG en tant qu\'ODS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/jpg-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JPG en tant qu\'ODS dans Swift" >}}

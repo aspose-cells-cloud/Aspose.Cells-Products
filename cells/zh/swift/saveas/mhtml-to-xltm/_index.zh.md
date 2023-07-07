@@ -1,6 +1,6 @@
 ﻿---
 title: 将 MHTML 保存为 XLTM API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将MHTML格式文件保存为XLTM格式文件。
 url: /zh/swift/saveas/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

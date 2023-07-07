@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM als FODS API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTM-Formatdateien als FODS-Formatdateien.
 url: /de/swift/saveas/xltm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /fr/android/saveas/xltx-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX en tant qu\'ODS dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLTX en tant qu'ODS est une tâche complexe. Toutes les transitions de format XLTX vers ODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTX. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTX en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie ODS parfaite.
+L'enregistrement de formats de fichiers à partir de XLTX en tant qu'ODS est une tâche complexe. Toutes les transitions de format XLTX vers ODS sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLTX en tant que fichiers ODS en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie ODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLTX au format ODS" gistPath="" %}}

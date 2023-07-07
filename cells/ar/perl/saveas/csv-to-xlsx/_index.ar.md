@@ -7,7 +7,7 @@ url: /ar/perl/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ CSV كـ XLSX" h2="مكتبة Perl لحفظ CSV كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ CSV كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/csv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بتنسيق XLSX في Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV كملف XLSX في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من CSV مثل XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLSX بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لحفظ CSV كملفات XLSX عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLSX مثالي.

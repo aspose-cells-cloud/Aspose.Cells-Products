@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX a SVG Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLSX nel file in formato SVG.
 url: /it/swift/conversion/xlsx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

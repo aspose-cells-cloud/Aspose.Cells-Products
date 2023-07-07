@@ -10,7 +10,7 @@ url: /tr/android/export/shape-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="SHAPE nesnesini Android\'de SVG biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-SHAPE nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i SVG biçimine dışa aktarma geçişleri, kaynak SHAPE e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
+SHAPE nesnesini elektronik tablodan SVG dosyasına dışa aktarma karmaşık bir görevdir. SHAPE'i SVG biçimine dışa aktarma geçişleri, kaynak SHAPE elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SHAPE nesnelerini çevrimiçi olarak SVG biçimindeki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel SVG çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SHAPE\'i e-tablodan SVG biçimine dışa aktarmak için REST API kullanan Android\'de kod örneği" gistPath="" %}}

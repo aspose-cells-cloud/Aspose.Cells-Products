@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX إلى JSON - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title: XLTX إلى JSON - تحويل API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLTX إلى ملف بتنسيق JSON.
 url: /ar/swift/conversion/xltx-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Преобразование XLT в XLSM API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLT в файл формата XLSM.
 url: /ru/swift/conversion/xlt-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als XLTM API für PHP speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die GIF-Formatdatei als XLTM-Formatdatei zu speichern.
+description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Speichern von GIF-Formatdateien als XLTM-Formatdateien.
 url: /de/php/saveas/gif-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

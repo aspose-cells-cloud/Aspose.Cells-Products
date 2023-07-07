@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/tsv-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV sous TIFF dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de TSV sous le nom TIFF est une tâche complexe. Toutes les transitions de format TSV vers TIFF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers TSV sous le nom TIFF. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie TIFF parfaite.
+L'enregistrement des formats de fichiers à partir de TSV sous le nom TIFF est une tâche complexe. Toutes les transitions de format TSV vers TIFF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul TSV source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers TSV sous TIFF en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie TIFF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer TSV au format TIFF" gistPath="" %}}

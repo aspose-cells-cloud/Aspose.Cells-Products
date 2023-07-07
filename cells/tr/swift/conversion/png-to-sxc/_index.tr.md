@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG'den SXC'ye Swift için API'i Dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: PNG'den SXC'ye Swift için API'i Dönüştür
+description:  PNG biçim dosyasını SXC biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

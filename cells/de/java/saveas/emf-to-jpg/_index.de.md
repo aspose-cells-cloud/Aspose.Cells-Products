@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als JPG API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format EMF als Datei im JPG-Format zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format EMF als JPG-Formatdatei zu speichern.
 url: /de/java/saveas/emf-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

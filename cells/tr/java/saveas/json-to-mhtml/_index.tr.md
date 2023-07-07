@@ -10,7 +10,7 @@ url: /tr/java/saveas/json-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Java\'de MHTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini JSON'dan MHTML olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan MHTML formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JSON'u çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya biçimlerini JSON'dan MHTML olarak kaydetmek karmaşık bir iştir. Tüm JSON'dan MHTML formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JSON'u çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u MHTML formatı olarak kaydetmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}

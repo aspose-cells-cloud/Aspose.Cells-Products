@@ -1,5 +1,5 @@
 ﻿---
-title:  C# için MHTML'yi PNG API olarak kaydedin
+title:  MHTML'yi C# için PNG API olarak kaydedin
 description:  MHTML biçim dosyasını PNG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-png/
 ---

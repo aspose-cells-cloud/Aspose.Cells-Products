@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 url: /ar/android/saveas/bmp-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ EMF" h2="مكتبة Android لحفظ BMP كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ EMF" h2="مكتبة Android لحفظ BMP كـ EMF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP كـ EMF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بالشكل EMF في Android" >}}

@@ -4,7 +4,7 @@ description:  JSON biçim dosyasını XLTX biçim dosyasına dönüştürmek iç
 url: /tr/net/conversion/json-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u XLTX\'e dönüştürmek için C# API" h2="JSON\'u XLTX\'e dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JSON\'u XLTX\'e ve diğer belge formatlarını çevrimiçi olarak C# kullanarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u XLTX\'e dönüştürmek için C# API" h2="JSON\'u XLTX\'e dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JSON\'u C# kullanarak çevrimiçi olarak XLTX\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="C#\'de bir JSON dosyasını XLTX\'e dönüştürün" >}}

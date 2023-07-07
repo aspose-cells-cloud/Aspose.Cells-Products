@@ -10,7 +10,7 @@ url: /es/go/saveas/jpg-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo JPG como FODS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de JPG como FODS es una tarea compleja. Todas las transiciones de formato JPG a FODS son realizadas por nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para guardar archivos JPG como FODS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida FODS perfecta.
+Guardar formatos de archivo de JPG como FODS es una tarea compleja. Todas las transiciones de formato JPG a FODS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Go es una solución profesional para guardar archivos JPG como FODS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida FODS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para guardar JPG como formato FODS" gistPath="" %}}

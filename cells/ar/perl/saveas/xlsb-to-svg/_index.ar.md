@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/xlsb-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSB كـ SVG" h2="مكتبة Perl لحفظ XLSB كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSB كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsb-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSB كـ SVG" h2="مكتبة Perl لحفظ XLSB كـ SVG" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSB كـ SVG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsb-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بالشكل SVG في Perl" >}}

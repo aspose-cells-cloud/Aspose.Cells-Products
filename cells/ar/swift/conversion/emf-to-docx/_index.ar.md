@@ -1,6 +1,6 @@
 ﻿---
 title:  EMF إلى DOCX قم بتحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق EMF إلى ملف بتنسيق DOCX.
 url: /ar/swift/conversion/emf-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

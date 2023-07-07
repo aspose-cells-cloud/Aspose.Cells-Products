@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف ب�
 url: /ar/java/saveas/xlsb-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSB كـ XLTM" h2="Java مكتبة لحفظ XLSB كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSB كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ XLSB كـ XLTM" h2="Java مكتبة لحفظ XLSB كـ XLTM" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ XLSB كـ XLTM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/xlsb-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كـ XLTM في Java" >}}

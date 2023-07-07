@@ -1,14 +1,14 @@
 ﻿---
-title:  Impostare lo sfondo con Python
-description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel con Python. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Imposta lo sfondo usando Python
+description:  Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel utilizzando Python. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/python/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Impostare lo sfondo con Python" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel con Python. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Imposta lo sfondo usando Python" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel utilizzando Python. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Impostare lo sfondo con i collegamenti di estensione Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Imposta lo sfondo utilizzando i collegamenti di estensione Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

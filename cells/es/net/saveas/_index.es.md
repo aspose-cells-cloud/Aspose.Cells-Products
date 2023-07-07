@@ -1,10 +1,10 @@
 ﻿---
-title:  Guardar como con C#
-description:  Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato con C#. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Guardar como usando C#
+description:  Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato utilizando C#. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/net/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar como con C#" h2="Aspose.Cells Cloud SDK admite guardar libros de trabajo en otros formatos. Los formatos de archivo admitidos tienen más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato con C#. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Guardar como usando C#" h2="Aspose.Cells Cloud SDK admite guardar libros de trabajo en otros formatos. Los formatos de archivo admitidos tienen más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite guardar archivos de Excel como tipos de archivos de formato utilizando C#. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /es/net/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Guardar como con C# Enlaces de extensión" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Guardar como usando C# Enlaces de extensión" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

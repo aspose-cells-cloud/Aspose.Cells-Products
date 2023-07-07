@@ -10,7 +10,7 @@ url: /es/ruby/saveas/png-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo PNG como CSV en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde PNG como CSV es una tarea compleja. Todas las transiciones de formato PNG a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de origen PNG. Nuestra biblioteca Ruby es una solución profesional para guardar PNG como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
+Guardar formatos de archivo desde PNG como CSV es una tarea compleja. Todas las transiciones de formato PNG a CSV las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca Ruby es una solución profesional para guardar PNG como archivos CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar PNG como formato CSV" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ar/net/saveas/mhtml-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف MHTML باسم XLTX في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من MHTML لأن XLTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى XLTX بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا C# هي حل احترافي لحفظ MHTML كملفات XLTX عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLTX مثالي.
+يعد حفظ تنسيقات الملفات من MHTML لأن XLTX مهمة معقدة. يتم إجراء جميع انتقالات تنسيق MHTML إلى XLTX بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا C# هي حل احترافي لحفظ MHTML كملفات XLTX عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج XLTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ MHTML بتنسيق XLTX" gistPath="" %}}

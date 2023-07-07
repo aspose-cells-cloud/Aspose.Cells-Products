@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM zu WMF Konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im XLSM-Format in eine Datei im WMF-Format.
 url: /de/swift/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

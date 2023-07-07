@@ -10,7 +10,7 @@ url: /ar/android/saveas/txt-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق CSV في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى CSV بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. مكتبة Android الخاصة بنا هي حل احترافي لحفظ TXT كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج CSV مثالي.
+يعد حفظ تنسيقات الملفات من TXT كملف CSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى CSV بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لحفظ TXT كملفات CSV عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج CSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لحفظ TXT بتنسيق CSV" gistPath="" %}}

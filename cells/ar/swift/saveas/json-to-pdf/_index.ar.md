@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON باسم PDF API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JSON كملف تنسيق PDF.
 url: /ar/swift/saveas/json-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

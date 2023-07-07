@@ -10,7 +10,7 @@ url: /ru/android/saveas/sxc-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как XLTX в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как XLTX — сложная задача. Все переходы формата SXC в формат XLTX выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Android — это профессиональное решение для сохранения файлов SXC в формате XLTX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
+Сохранение форматов файлов из SXC как XLTX — сложная задача. Все переходы формата SXC в формат XLTX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Android — это профессиональное решение для сохранения файлов SXC в формате XLTX в Интернете. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения SXC в формате XLTX" gistPath="" %}}

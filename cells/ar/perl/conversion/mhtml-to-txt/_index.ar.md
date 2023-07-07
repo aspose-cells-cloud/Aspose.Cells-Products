@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل مل�
 url: /ar/perl/conversion/mhtml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل MHTML إلى TXT" h2="Perl مكتبة لتحويل MHTML إلى TXT" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Perl. هذا حل احترافي لتحويل MHTML إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل MHTML إلى TXT" h2="Perl مكتبة لتحويل MHTML إلى TXT" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل MHTML إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/mhtml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى TXT في Perl" >}}

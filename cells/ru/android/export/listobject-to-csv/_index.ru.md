@@ -10,7 +10,7 @@ url: /ru/android/export/listobject-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта LISTOBJECT в файл формата CSV в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта LISTOBJECT в файл CSV из электронной таблицы — сложная задача. Экспорт переходов LISTOBJECT в формат CSV выполняется нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы LISTOBJECT. Наша библиотека Android — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Экспорт объекта LISTOBJECT в файл CSV из электронной таблицы — сложная задача. Экспорт переходов LISTOBJECT в формат CSV выполняется нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы LISTOBJECT. Наша библиотека для Android — это профессиональное решение для онлайн-экспорта объектов LISTOBJECT в файлы формата CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для экспорта LISTOBJECT в формат CSV из электронной таблицы" gistPath="" %}}

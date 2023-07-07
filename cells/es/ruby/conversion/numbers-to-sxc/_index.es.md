@@ -13,7 +13,7 @@ url: /es/ruby/conversion/numbers-to-sxc/
 Convertir formatos de archivo de NUMBERS a SXC es una tarea compleja. Todas las transiciones de formato de NUMBERS a SXC las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo de NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para convertir NUMBERS a archivos SXC en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y un resultado SXC perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir NÚMEROS al formato SXC" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir NÚMEROS a formato SXC" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

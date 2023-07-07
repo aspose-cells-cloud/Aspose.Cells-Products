@@ -13,7 +13,7 @@ url: /tr/go/conversion/mhtml-to-xml/
 Dosya formatlarını MHTML'den XML'e dönüştürmek karmaşık bir iştir. Tüm MHTML'den XML biçimine geçişler, kaynak MHTML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, MHTML'yi çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XML biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="MHTML\'yi XML formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

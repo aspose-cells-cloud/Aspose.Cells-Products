@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva JSON come XLTM API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato JSON come file in formato XLTM.
 url: /it/swift/saveas/json-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa diagram på Microsoft Exce
 url: /sv/swift/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Swift. Den här professionella lösningen tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa diagram på lokala arbetsflöden Microsoft Excel och OpenOffice Calc kalkylblad i Swift. Den här professionella lösningen tydliga diagram på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa diagram på lokala Microsoft Excel och OpenOffice Calc kalkylblad - Swift REST API" >}}

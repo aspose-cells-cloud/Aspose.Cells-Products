@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter BMP API für Perl
+title:  Speichern Sie XLTX als BMP API für Perl
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im XLTX-Format als Datei im Format BMP zu speichern.
 url: /de/perl/saveas/xltx-to-bmp/
 ---

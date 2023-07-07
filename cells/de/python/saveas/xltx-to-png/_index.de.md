@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter PNG API für Python
+title:  Speichern Sie XLTX als PNG API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format PNG zu speichern.
 url: /de/python/saveas/xltx-to-png/
 ---

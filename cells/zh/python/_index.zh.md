@@ -13,7 +13,7 @@ url: /zh/python
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK For Python 可帮助您使用 Python 编程语言开发云电子表格生成器、查看器、合并、拆分、加密和转换器应用程序。 Aspose.Cells 适用于 Python 的 Cloud SDK 根据 MIT 许可证分发，并由底层 Aspose.Cells REST API 提供支持。</p>
-<p>Aspose.Cells 适用于 Python 的 Cloud SDK 允许您的 Python 代码在 Microsoft Excel 以及云存储上托管的 OpenOffice 电子表格上执行基本到高级的功能。使用 Python 程序处理数据透视表、使用 XML (SpreadsheetML)、读取云中的 Excel 文件 via Python、将 XLSX 转换为 HTML、CSV、PDF、XPS、MD (Markdown)、DIF、07611 23481 和其他支持的文件格式。</p>
+<p>Aspose.Cells 适用于 Python 的 Cloud SDK 允许您的 Python 代码在 Microsoft Excel 以及云存储上托管的 OpenOffice 电子表格上执行基本到高级的功能。使用 Python 程序处理数据透视表、使用 XML (SpreadsheetML)、读取云中的 Excel 文件 via Python、将 XLSX 转换为 HTML、CSV、PDF、XPS、MD (Markdown)、DIF、0761 123481 和其他支持的文件格式。</p>
 <p>Aspose.Cells Cloud SDK for Python 使您的 Python 程序能够创建多个电子表格、管理工作表、工作簿、工作表设置、应用条件格式、管理任务、公式、自动筛选器、Oleobjects、ListObjects 和其他 Excel 电子表格实体，而无需安装任何第三方软件。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -243,7 +243,7 @@ url: /zh/python
 处理工作簿 via 云SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Python 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
+Aspose.Cells Cloud SDK for Python 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项目、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
     </p>
    </div>
    <div class="col-lg-12">

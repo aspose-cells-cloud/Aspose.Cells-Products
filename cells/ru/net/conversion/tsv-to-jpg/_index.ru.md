@@ -10,7 +10,7 @@ url: /ru/net/conversion/tsv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в JPG в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в JPG — сложная задача. Все переходы TSV в формат JPG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TSV в JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из TSV в JPG — сложная задача. Все переходы TSV в формат JPG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TSV в JPG. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования TSV в формат JPG" gistPath="" %}}

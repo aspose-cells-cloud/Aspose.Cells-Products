@@ -1,10 +1,10 @@
 ﻿---
-title: 使用 Perl 清除物体
-description: Aspose.Cells Cloud REST API 支持使用 Excel 文件中的 Perl 清晰内部对象。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Perl 清除对象
+description: Aspose.Cells Cloud REST API 支持使用 Perl 清晰显示 Excel 文件中的内部对象。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/perl/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Perl 清除物体" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持使用 Excel 文件中的 Perl 清晰内部对象。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Perl 清除对象" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持使用 Perl 清晰显示 Excel 文件中的内部对象。SDK 支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

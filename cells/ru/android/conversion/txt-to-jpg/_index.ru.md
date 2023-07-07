@@ -1,5 +1,5 @@
 ﻿---
-title:  Конвертировать TXT в JPG API для Android
+title:  Преобразование TXT в JPG API для Android
 description:  Использование Aspose.Cells Cloud SDK для Android для преобразования файла формата TXT в файл формата JPG.
 url: /ru/android/conversion/txt-to-jpg/
 ---

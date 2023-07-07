@@ -13,7 +13,7 @@ url: /de/ruby/saveas/bmp-to-xml/
 Das Speichern von Dateiformaten aus BMP als XML ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum XML-Format werden von unserem Ruby SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Ruby-Bibliothek ist eine professionelle Lösung, um BMP als XML-Dateien online zu speichern. Dieses Cloud SDK bietet Ruby-Entwicklern leistungsstarke Funktionalität und perfekte XML-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von BMP im XML-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Ruby mit REST API zum Speichern von BMP als XML-Format" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

@@ -10,7 +10,7 @@ url: /tr/ruby/export/workbook-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Ruby\'de ODS biçim dosyasına aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan ODS dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u ODS biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
+ÇALIŞMA KİTABI nesnesini elektronik tablodan ODS dosyasına aktarma karmaşık bir görevdir. WORKBOOK'u ODS biçimine aktarma geçişleri, kaynak WORKBOOK elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, WORKBOOK nesnelerini çevrimiçi olarak ODS formatındaki dosyalara aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel ODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı elektronik tablodan ODS formatına aktarmak için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX als TSV API für NodeJS
-description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die XLSX-Formatdatei als TSV-Formatdatei zu speichern.
+description: Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Speichern von XLSX-Formatdateien als TSV-Formatdateien.
 url: /de/nodejs/saveas/xlsx-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

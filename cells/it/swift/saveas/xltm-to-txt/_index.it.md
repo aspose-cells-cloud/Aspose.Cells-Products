@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLTM come TXT API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato XLTM come file in formato TXT.
 url: /it/swift/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /it/swift/saveas/xltm-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTM come TXT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTM come TXT è un compito complesso. Tutte le transizioni dal formato XLTM al formato TXT vengono eseguite dal nostro SDK Swift mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Swift è una soluzione professionale per salvare XLTM come file TXT online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un output TXT perfetto.
+Salvare i formati di file da XLTM come TXT è un compito complesso. Tutte le transizioni dal formato XLTM al formato TXT vengono eseguite dal nostro Swift SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLTM di origine. La nostra libreria Swift è una soluzione professionale per salvare XLTM come file TXT online. Questo Cloud SDK offre agli sviluppatori Swift potenti funzionalità e un output TXT perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Swift utilizzando REST API per salvare XLTM come formato TXT" gistPath="" %}}

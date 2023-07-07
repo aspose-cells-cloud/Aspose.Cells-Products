@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM in CSV konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+title: XLTM in CSV konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLTM-Formatdatei in eine CSV-Formatdatei.
 url: /de/swift/conversion/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

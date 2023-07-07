@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xltx-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX в формате CSV в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде CSV — сложная задача. Все переходы из формата XLTX в формат CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLTX в виде файлов CSV онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
+Сохранение форматов файлов из XLTX в виде CSV — сложная задача. Все переходы из формата XLTX в формат CSV выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержания исходной электронной таблицы XLTX. Наша библиотека NodeJS — это профессиональное решение для сохранения XLTX в виде файлов CSV онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLTX в формате CSV" gistPath="" %}}

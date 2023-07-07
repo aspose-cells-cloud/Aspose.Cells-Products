@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML in XLSM Konvertieren Sie API in for Java
+title:  HTML in XLSM konvertieren API for Java
 description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format HTML in eine Datei im XLSM-Format.
 url: /de/java/conversion/html-to-xlsm/
 ---

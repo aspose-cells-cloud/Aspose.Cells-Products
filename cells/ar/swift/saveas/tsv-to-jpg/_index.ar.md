@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV كـ JPG API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق TSV كملف بتنسيق JPG.
 url: /ar/swift/saveas/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/tsv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق JPG في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TSV كـ JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى JPG بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ TSV كملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج JPG مثالي.
+يعد حفظ تنسيقات الملفات من TSV كـ JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TSV إلى JPG بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات TSV. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ TSV كملفات JPG عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج JPG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ TSV بتنسيق JPG" gistPath="" %}}

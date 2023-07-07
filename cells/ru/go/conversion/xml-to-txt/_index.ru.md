@@ -10,7 +10,7 @@ url: /ru/go/conversion/xml-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в TXT в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в TXT — сложная задача. Все переходы форматов XML в TXT выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в TXT. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XML в TXT — сложная задача. Все переходы между форматами XML и TXT выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XML в TXT. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XML в формат TXT" gistPath="" %}}

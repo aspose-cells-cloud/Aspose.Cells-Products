@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in ODS Konvertieren Sie API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLSX-Formatdatei in eine ODS-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer XLSX-Formatdatei in eine ODS-Formatdatei.
 url: /de/perl/conversion/xlsx-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

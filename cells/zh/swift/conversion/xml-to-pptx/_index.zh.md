@@ -1,6 +1,6 @@
 ﻿---
 title:  XML 到 PPTX 转换 API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将XML格式文件转换为PPTX格式文件。
 url: /zh/swift/conversion/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

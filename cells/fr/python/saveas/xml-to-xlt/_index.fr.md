@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XML sous XLT API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XML en tant que fichier au format XLT.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XML en tant que fichier au format XLT.
 url: /fr/python/saveas/xml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

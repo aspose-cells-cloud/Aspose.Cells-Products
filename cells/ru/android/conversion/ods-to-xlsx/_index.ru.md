@@ -10,7 +10,7 @@ url: /ru/android/conversion/ods-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в XLSX на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в XLSX — сложная задача. Все переходы от формата ODS к формату XLSX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов ODS в XLSX. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате XLSX.
+Преобразование форматов файлов из ODS в XLSX — сложная задача. Все переходы формата ODS в формат XLSX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов ODS в XLSX. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования ODS в формат XLSX" gistPath="" %}}

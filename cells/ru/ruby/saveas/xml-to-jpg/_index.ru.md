@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xml-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как JPG в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-сохранения XML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из XML в виде JPG — сложная задача. Все переходы между форматами XML и JPG выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-сохранения XML-файлов в формате JPG. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XML в формате JPG" gistPath="" %}}

@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/conversion/xlsb-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в XLTX" h2="Библиотека NodeJS для преобразования XLSB в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в XLTX и других форматов документов с помощью NodeJS." urlsection="conversion/xlsb-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSB в XLTX" h2="Библиотека NodeJS для преобразования XLSB в XLTX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSB в XLTX и других форматов документов с использованием NodeJS." urlsection="conversion/xlsb-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XLTX в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в XLTX — сложная задача. Все переходы формата XLSB в формат XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в XLTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из XLSB в XLTX — сложная задача. Все переходы между форматами XLSB и XLTX выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLSB в XLTX. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLSB в формат XLTX" gistPath="" %}}

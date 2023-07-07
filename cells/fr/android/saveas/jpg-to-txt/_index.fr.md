@@ -7,7 +7,7 @@ url: /fr/android/saveas/jpg-to-txt/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer JPG en TXT" h2="Bibliothèque Android pour enregistrer JPG en TXT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format TXT et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/jpg-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JPG au format TXT dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JPG au format TXT sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de JPG en tant que TXT est une tâche complexe. Toutes les transitions de format JPG vers TXT sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul JPG source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers JPG en tant que fichiers TXT en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TXT parfaite.

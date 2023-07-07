@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل SXC إلى XLTM" h2="Java مكتبة لتحويل SXC إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل SXC إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/sxc-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل SXC إلى XLTM" h2="Java مكتبة لتحويل SXC إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل SXC إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/sxc-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLTM في Java" >}}

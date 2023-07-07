@@ -4,7 +4,7 @@ description:  API cloud e SDK per Microsoft Excel e sblocco di OpenOffice Calc. 
 url: /it/php/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="PHP libreria per decifrare locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt Rest API per decrittografare Local Microsoft Excel e foglio di calcolo Calc -office con flussi di lavoro password in PHP. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice Calcs Onlines con password online con password online con password di 076176176" urlsection="protect/Decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API per decifrare il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password" h2="PHP libreria per decifrare locale Microsoft Excel e foglio di calcolo OpenOffice Calc con password" p="Utilizzare Cells Decrypt Rest API per decrittografare Local Microsoft Excel e foglio di calcolo Calc -office con flussi di lavoro password in PHP. Questa soluzione professionale decrypts Microsoft Excel e OpenSoffice Open Onlines Onlines con password online con password di 076176176" urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Decrittografa il foglio di calcolo locale Microsoft Excel e OpenOffice Calc con password - PHP REST API" >}}

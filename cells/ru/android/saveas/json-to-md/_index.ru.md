@@ -10,7 +10,7 @@ url: /ru/android/saveas/json-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как MD в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде MD — сложная задача. Все переходы формата JSON в формат MD выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения JSON в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов из JSON в виде MD — сложная задача. Все переходы формата JSON в формат MD выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для сохранения JSON в виде файлов MD в Интернете. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения JSON в формате MD" gistPath="" %}}

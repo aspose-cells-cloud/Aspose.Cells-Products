@@ -13,7 +13,7 @@ url: /es/php/export/listobject-to-pdf/
 Exportar el objeto LISTOBJECT al archivo PDF desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato PDF se realiza mediante nuestro SDK PHP mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca PHP es una solución profesional para exportar objetos LISTOBJECT a archivos de formato PDF en línea. Este SDK de Cloud ofrece a los desarrolladores de PHP una potente funcionalidad y un resultado PDF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar LISTOBJECT al formato PDF desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en PHP usando REST API para exportar LISTOBJECT al formato PDF desde la hoja de cálculo" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/

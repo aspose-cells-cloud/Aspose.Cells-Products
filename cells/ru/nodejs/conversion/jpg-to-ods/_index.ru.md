@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/jpg-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в ODS в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в ODS — сложная задача. Все переходы между форматами JPG и ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов JPG в ODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
+Преобразование форматов файлов из JPG в ODS — сложная задача. Все переходы из формата JPG в формат ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов JPG в ODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования JPG в формат ODS" gistPath="" %}}

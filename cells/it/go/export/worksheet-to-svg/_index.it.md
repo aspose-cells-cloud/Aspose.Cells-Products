@@ -7,7 +7,7 @@ url: /it/go/export/worksheet-to-svg/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per esportare il FOGLIO DI LAVORO nel file SVG" h2="Vai alla libreria per esportare il FOGLIO DI LAVORO nel file SVG" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Go. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato SVG dal foglio di calcolo online utilizzando Go." urlsection="export/worksheet-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato SVG in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file di formato SVG in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare l'oggetto WORKSHEET nel file SVG dal foglio di calcolo è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni di formato SVG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti WORKSHEET in file in formato SVG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output SVG perfetto.

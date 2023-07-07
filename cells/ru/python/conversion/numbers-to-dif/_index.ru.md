@@ -10,7 +10,7 @@ url: /ru/python/conversion/numbers-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в DIF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в DIF — сложная задача. Все переходы формата NUMBERS в формат DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов NUMBERS в DIF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из NUMBERS в DIF — сложная задача. Все преобразования форматов NUMBERS в DIF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов NUMBERS в DIF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования NUMBERS в формат DIF" gistPath="" %}}

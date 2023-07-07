@@ -4,7 +4,7 @@ description:  NUMBERS biçim dosyasını SQL biçim dosyasına dönüştürmek i
 url: /tr/ruby/conversion/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı SQL\'e dönüştürmek için Ruby API" h2="NUMBERS\'i SQL\'e dönüştürmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Ruby kullanarak çevrimiçi olarak NUMBERS\'ı SQL\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NUMBERS\'ı SQL\'e dönüştürmek için Ruby API" h2="NUMBERS\'i SQL\'e dönüştürmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Ruby kullanarak çevrimiçi olarak NUMBERS\'i SQL\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Ruby\'de SQL\'e dönüştürün" >}}

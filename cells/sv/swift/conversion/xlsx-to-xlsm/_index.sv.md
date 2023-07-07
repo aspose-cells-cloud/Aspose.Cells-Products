@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX till XLSM Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description: Använder Aspose.Cells Cloud SDK för Swift för att konvertera XLSX-formatfil till XLSM-formatfil.
 url: /sv/swift/conversion/xlsx-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

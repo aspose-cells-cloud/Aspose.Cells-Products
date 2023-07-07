@@ -10,7 +10,7 @@ url: /ru/java/conversion/xlt-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в WMF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в WMF — сложная задача. Все переходы между форматами XLT и WMF выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLT в WMF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XLT в WMF — сложная задача. Все переходы между форматами XLT и WMF выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLT в WMF. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLT в формат WMF" gistPath="" %}}

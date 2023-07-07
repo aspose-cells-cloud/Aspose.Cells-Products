@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei i
 url: /de/ruby/saveas/png-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um PNG als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von PNG als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von PNG als ODS und anderen Dokumentformaten mit Ruby." urlsection="saveas/png-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um PNG als ODS zu speichern" h2="Ruby-Bibliothek zum Speichern von PNG als ODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung, um PNG als ODS und andere Dokumentformate online mit Ruby zu speichern." urlsection="saveas/png-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine PNG-Datei als ODS in Ruby" >}}

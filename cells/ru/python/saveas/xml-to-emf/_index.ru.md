@@ -10,7 +10,7 @@ url: /ru/python/saveas/xml-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как EMF в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как EMF — сложная задача. Все переходы между форматами XML и EMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для сохранения XML-файлов в формате EMF в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат EMF.
+Сохранение форматов файлов из XML как EMF — сложная задача. Все переходы между форматами XML и EMF выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для сохранения XML в виде файлов EMF в Интернете. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат EMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения XML в формате EMF" gistPath="" %}}

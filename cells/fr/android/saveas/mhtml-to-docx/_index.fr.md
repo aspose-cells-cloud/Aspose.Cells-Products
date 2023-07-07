@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistre
 url: /fr/android/saveas/mhtml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer MHTML au format DOCX" h2="Bibliothèque Android pour enregistrer MHTML au format DOCX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format DOCX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/mhtml-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer MHTML au format DOCX" h2="Bibliothèque Android pour enregistrer MHTML en DOCX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer MHTML au format DOCX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/mhtml-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML au format DOCX sous Android" >}}

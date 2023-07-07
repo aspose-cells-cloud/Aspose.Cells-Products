@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/bmp-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد تحويل تنسيقات الملفات من BMP إلى XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل BMP إلى تنسيق XLTM" gistPath="" %}}

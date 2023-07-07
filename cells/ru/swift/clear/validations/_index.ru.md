@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки проверок
 url: /ru/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc" h2="Swift Clear, чтобы очистить валидацию в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc" h2="Swift Clear, чтобы очистить валидацию в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить проверки на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Swift REST API" >}}

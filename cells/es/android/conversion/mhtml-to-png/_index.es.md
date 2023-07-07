@@ -10,7 +10,7 @@ url: /es/android/conversion/mhtml-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo MHTML a PNG en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de MHTML a PNG es una tarea compleja. Todas las transiciones de formato MHTML a PNG las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos MHTML a PNG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida PNG perfecta.
+Convertir formatos de archivo de MHTML a PNG es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato MHTML a PNG mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para convertir archivos MHTML a PNG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida PNG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir MHTML al formato PNG" gistPath="" %}}

@@ -4,7 +4,7 @@ description: "Cloud API:er och SDK:er för att rensa former på Microsoft Excel 
 url: /sv/swift/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa former i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning formar tydliga former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa former på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa former i lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning formar tydliga former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa former på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter XPS API für Python
+title:  Speichern Sie XLTX als XPS API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format XPS zu speichern.
 url: /de/python/saveas/xltx-to-xps/
 ---

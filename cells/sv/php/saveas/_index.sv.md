@@ -34,7 +34,7 @@ url: /sv/php/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Spara som med PHP Förlängningslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Spara som att använda PHP Tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

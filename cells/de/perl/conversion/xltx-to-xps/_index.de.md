@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in XPS Konvertieren Sie API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLTX-Formatdatei in eine Datei im XPS-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um eine Datei im XLTX-Format in eine Datei im Format XPS zu konvertieren.
 url: /de/perl/conversion/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

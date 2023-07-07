@@ -8,7 +8,7 @@ url: /ru/go/background/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Установить фон со ссылками Go Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установите фон, используя ссылки Go Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

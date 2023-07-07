@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Go для с
 url: /ru/go/saveas/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLTM как XLS." h2="Перейти в библиотеку, чтобы сохранить XLTM как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLTM как XLS и других форматов документов онлайн с помощью Go." urlsection="saveas/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLTM как XLS." h2="Перейти в библиотеку, чтобы сохранить XLTM как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLTM как XLS и других форматов документов в Интернете с помощью Go." urlsection="saveas/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLS в Go" >}}

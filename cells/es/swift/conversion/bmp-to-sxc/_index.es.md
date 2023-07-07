@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP a SXC Convertir API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title: BMP a SXC Convertir API para Swift
+description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato BMP a un archivo de formato SXC.
 url: /es/swift/conversion/bmp-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

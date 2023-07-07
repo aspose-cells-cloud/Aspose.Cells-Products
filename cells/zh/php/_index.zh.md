@@ -14,7 +14,7 @@ url: /zh/php
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK for PHP 专为开发人员构建，可帮助他们增强在 PHP 中编程的基于云的电子表格生成器、查看器和转换器应用程序。我们的 Excel 文档处理器云 SDK 基于 Aspose.Cells REST API。 Aspose.Cells Cloud SDK for PHP 现已推出下麻省理工学院的许可证。</p>
 <p>在 PHP 中创建 Excel 工作表，使用自动形状、自动筛选器、工作簿、工作表、行、单元格、图表、条件格式、ListObjects、超链接、OleObjects、数据透视表、形状、范围、任务、安全性、工作表验证和云文件存储，全部使用简单的Aspose.Cells Cloud SDK for PHP。</p>
-<p>它还允许您的 PHP 代码将 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 电子表格文档转换为 PDF、XPS、TIFF、SVG、DIF、 ＆MD（降价）。</p>
+<p>它还允许您的 PHP 代码将 Microsoft Excel（XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM）和 OpenOffice (ODS) 电子表格文档转换为 PDF、XPS、TIFF、SVG、DIF 和MD（降价）。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -243,7 +243,7 @@ url: /zh/php
 处理工作簿 via 云SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for PHP 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
+Aspose.Cells Cloud SDK for PHP 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项目、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
     </p>
    </div>
    <div class="col-lg-12">

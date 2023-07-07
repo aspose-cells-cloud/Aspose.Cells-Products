@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните XLS как DOCX API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLS в виде файла формата DOCX.
 url: /ru/swift/saveas/xls-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer 
 url: /fr/nodejs/saveas/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLSX en tant que FODS" h2="Bibliothèque NodeJS pour enregistrer XLSX en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX en tant que FODS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xlsx-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLSX en tant que FODS" h2="Bibliothèque NodeJS pour enregistrer XLSX en tant que FODS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLSX au format FODS et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xlsx-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSX en tant que FODS dans NodeJS" >}}

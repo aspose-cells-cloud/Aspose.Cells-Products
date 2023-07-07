@@ -10,7 +10,7 @@ url: /tr/python/conversion/png-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Python\'de XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını PNG'den XLSX'e dönüştürmek karmaşık bir iştir. PNG'den XLSX formatına geçişlerin tümü, Python SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, PNG'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+Dosya formatlarını PNG'den XLSX'e dönüştürmek karmaşık bir iştir. PNG'den XLSX formatına geçişlerin tümü, Python SDK'mız tarafından gerçekleştirilir ve kaynak PNG e-tablosunun ana yapısal ve mantıksal içeriği korunur. Python kitaplığımız, PNG'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PNG\'i XLSX formatına dönüştürmek için REST API\'i kullanan Python\'deki kod örneği" gistPath="" %}}

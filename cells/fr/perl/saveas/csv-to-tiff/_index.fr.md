@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer l
 url: /fr/perl/saveas/csv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer CSV sous TIFF" h2="Perl bibliothèque pour enregistrer CSV sous TIFF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous TIFF et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/csv-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer CSV sous TIFF" h2="Bibliothèque Perl pour enregistrer CSV sous TIFF" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous TIFF et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/csv-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV sous TIFF dans Perl" >}}

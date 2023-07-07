@@ -10,7 +10,7 @@ url: /ru/net/saveas/xls-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как PPTX по адресу C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в виде PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для сохранения файлов XLS в формате PPTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
+Сохранение форматов файлов из XLS в виде PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для сохранения файлов XLS в формате PPTX в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLS в формате PPTX" gistPath="" %}}

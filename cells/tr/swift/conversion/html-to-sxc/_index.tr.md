@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML'den SXC'ye Swift için API'i Dönüştür
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: HTML'den SXC'ye Swift için API'i Dönüştür
+description:  HTML biçim dosyasını SXC biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

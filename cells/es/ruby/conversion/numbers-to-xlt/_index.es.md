@@ -10,7 +10,7 @@ url: /es/ruby/conversion/numbers-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo NUMBERS a XLT en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de NUMBERS a XLT es una tarea compleja. Todas las transiciones de formato NUMBERS a XLT son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para convertir NUMBERS a archivos XLT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLT perfecta.
+Convertir formatos de archivo de NUMBERS a XLT es una tarea compleja. Todas las transiciones de formato NUMBERS a XLT se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para convertir NUMBERS a archivos XLT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir NÚMEROS a formato XLT" gistPath="" %}}

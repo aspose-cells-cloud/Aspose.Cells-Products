@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/conversion/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSM в MHTML" h2="Библиотека NodeJS для преобразования XLSM в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSM в MHTML и другие форматы документов с использованием NodeJS." urlsection="conversion/xlsm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSM в MHTML" h2="Библиотека NodeJS для преобразования XLSM в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLSM в MHTML и другие форматы документов с помощью NodeJS." urlsection="conversion/xlsm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в MHTML в NodeJS" >}}

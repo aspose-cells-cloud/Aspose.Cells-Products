@@ -10,7 +10,7 @@ url: /ru/php/export/shape-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта SHAPE в файл формата WMF в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта SHAPE в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат WMF выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата WMF. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод WMF.
+Экспорт объекта SHAPE в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов SHAPE в формат WMF выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы SHAPE. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов SHAPE в файлы формата WMF. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для экспорта SHAPE в формат WMF из электронной таблицы" gistPath="" %}}

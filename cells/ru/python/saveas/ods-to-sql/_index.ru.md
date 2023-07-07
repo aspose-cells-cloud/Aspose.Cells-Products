@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения ODS как SQL" h2="Python библиотека для сохранения ODS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения ODS в виде SQL и других форматов документов в Интернете с использованием Python." urlsection="saveas/ods-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения ODS как SQL" h2="Python библиотека для сохранения ODS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения ODS как SQL и других форматов документов в Интернете с использованием Python." urlsection="saveas/ods-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как SQL в Python." >}}

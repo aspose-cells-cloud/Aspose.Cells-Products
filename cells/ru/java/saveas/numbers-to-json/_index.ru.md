@@ -10,7 +10,7 @@ url: /ru/java/saveas/numbers-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как JSON в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде JSON — сложная задача. Все переходы NUMBERS в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Сохранение форматов файлов из NUMBERS в виде JSON — сложная задача. Все преобразования формата NUMBERS в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения NUMBERS в формате JSON" gistPath="" %}}

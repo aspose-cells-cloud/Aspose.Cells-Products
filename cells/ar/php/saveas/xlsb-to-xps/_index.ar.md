@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لحفظ ملف ب�
 url: /ar/php/saveas/xlsb-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLSB كـ XPS" h2="مكتبة PHP لحفظ XLSB كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLSB كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlsb-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ XLSB كـ XPS" h2="مكتبة PHP لحفظ XLSB كـ XPS" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ XLSB كـ XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/xlsb-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بالشكل XPS في PHP" >}}

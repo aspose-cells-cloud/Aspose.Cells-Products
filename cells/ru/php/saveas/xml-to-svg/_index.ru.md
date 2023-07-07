@@ -10,7 +10,7 @@ url: /ru/php/saveas/xml-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как SVG в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как SVG — сложная задача. Все переходы между форматами XML и SVG выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML-файлов в формате SVG в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов из XML как SVG — сложная задача. Все переходы между форматами XML и SVG выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML в виде файлов SVG в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XML в формате SVG" gistPath="" %}}

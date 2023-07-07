@@ -10,7 +10,7 @@ url: /tr/ruby/conversion/txt-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TXT dosyasını Ruby\'de XLSB\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TXT'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den XLSB'ye format geçişleri, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, TXT'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
+Dosya formatlarını TXT'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm TXT'den XLSB'ye format geçişleri, kaynak TXT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, TXT'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TXT\'yi XLSB formatına dönüştürmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

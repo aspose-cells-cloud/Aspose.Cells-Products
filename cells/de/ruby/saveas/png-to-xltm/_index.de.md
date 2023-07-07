@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als XLTM API für Ruby
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für Ruby, um die Datei im PNG-Format als XLTM-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die Datei im PNG-Format als XLTM-Formatdatei zu speichern.
 url: /de/ruby/saveas/png-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

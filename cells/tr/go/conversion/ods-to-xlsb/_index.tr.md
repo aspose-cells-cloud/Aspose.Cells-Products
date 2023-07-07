@@ -10,7 +10,7 @@ url: /tr/go/conversion/ods-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını Go\'da XLSB\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını ODS'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm ODS'den XLSB'ye format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıkışı sağlar.
+Dosya formatlarını ODS'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm ODS'den XLSB'ye format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi XLSB formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

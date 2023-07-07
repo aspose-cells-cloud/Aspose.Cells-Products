@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT au format CSV API pour Go
-description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format XLT en tant que fichier au format CSV.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format XLT en tant que fichier au format CSV.
 url: /fr/go/saveas/xlt-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

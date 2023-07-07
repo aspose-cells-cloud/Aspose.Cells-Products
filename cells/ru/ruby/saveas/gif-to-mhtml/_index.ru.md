@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как MHTML API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF в виде файла формата MHTML.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата GIF как файла формата MHTML.
 url: /ru/ruby/saveas/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

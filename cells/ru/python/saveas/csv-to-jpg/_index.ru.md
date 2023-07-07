@@ -10,7 +10,7 @@ url: /ru/python/saveas/csv-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл CSV в формате JPG по адресу Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы из формата CSV в формат JPG выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из CSV в виде JPG — сложная задача. Все переходы между форматами CSV и JPG выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Python — это профессиональное решение для онлайн-сохранения CSV-файлов в формате JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения CSV в формате JPG" gistPath="" %}}

@@ -13,7 +13,7 @@ url: /es/go/conversion/xlsx-to-xls/
 Convertir formatos de archivo de XLSX a XLS es una tarea compleja. Todas las transiciones de formato XLSX a XLS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSX de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XLSX a XLS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida XLS perfecta.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir XLSX a formato XLS" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir formato XLSX a XLS" gistPath="" %}}
  
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

@@ -10,7 +10,7 @@ url: /ru/android/conversion/numbers-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл NUMBERS в ODS на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в ODS — сложная задача. Все переходы NUMBERS в формат ODS выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в ODS. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод ODS.
+Преобразование форматов файлов из NUMBERS в ODS — сложная задача. Все переходы NUMBERS в формат ODS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации файлов NUMBERS в ODS. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования NUMBERS в формат ODS" gistPath="" %}}

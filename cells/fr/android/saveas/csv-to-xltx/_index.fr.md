@@ -7,7 +7,7 @@ url: /fr/android/saveas/csv-to-xltx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer CSV en XLTX" h2="Bibliothèque Android pour enregistrer CSV en XLTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer CSV au format XLTX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/csv-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format XLTX sous Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier CSV au format XLTX dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers CSV au format XLTX est une tâche complexe. Toutes les transitions de format CSV vers XLTX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul CSV source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers CSV au format XLTX. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XLTX parfaite.

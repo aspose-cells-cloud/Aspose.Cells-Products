@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML in XLT Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: HTML in XLT Converti API per Swift
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato HTML in un file in formato XLT.
 url: /it/swift/conversion/html-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

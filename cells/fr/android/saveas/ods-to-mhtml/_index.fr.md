@@ -7,7 +7,7 @@ url: /fr/android/saveas/ods-to-mhtml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer ODS en MHTML" h2="Bibliothèque Android pour enregistrer ODS en MHTML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format MHTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/ods-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format MHTML dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS au format MHTML sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir d'ODS au format MHTML est une tâche complexe. Toutes les transitions de format ODS vers MHTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Android est une solution professionnelle pour enregistrer ODS sous forme de fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MHTML parfaite.

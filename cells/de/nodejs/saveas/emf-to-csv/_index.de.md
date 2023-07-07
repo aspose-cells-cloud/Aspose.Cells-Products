@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als CSV API für NodeJS
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für NodeJS, um die Datei im EMF-Format als CSV-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im EMF-Format als CSV-Formatdatei zu speichern.
 url: /de/nodejs/saveas/emf-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

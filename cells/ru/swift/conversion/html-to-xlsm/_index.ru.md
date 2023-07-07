@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML в XLSM Преобразование API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата HTML в файл формата XLSM.
 url: /ru/swift/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

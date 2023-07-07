@@ -10,7 +10,7 @@ url: /es/nodejs/conversion/json-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo JSON a MD en NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de JSON a MD es una tarea compleja. Todas las transiciones de formato JSON a MD las realiza nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos JSON a MD en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y un resultado MD perfecto.
+Convertir formatos de archivo de JSON a MD es una tarea compleja. Todas las transiciones de formato JSON a MD se realizan mediante nuestro SDK de NodeJS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JSON de origen. Nuestra biblioteca NodeJS es una solución profesional para convertir archivos JSON a MD en línea. Este SDK de Cloud brinda a los desarrolladores de NodeJS una funcionalidad poderosa y un resultado MD perfecto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en NodeJS usando REST API para convertir JSON a formato MD" gistPath="" %}}

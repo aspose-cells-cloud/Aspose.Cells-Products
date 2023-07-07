@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie MHTML unter XPS API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im MHTML-Format als Datei im Format XPS zu speichern.
 url: /de/swift/saveas/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /es/android/conversion/html-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo HTML a XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a XLS es una tarea compleja. Todas las transiciones de formato HTML a XLS se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
+Convertir formatos de archivo de HTML a XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a XLS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir HTML a formato XLS" gistPath="" %}}

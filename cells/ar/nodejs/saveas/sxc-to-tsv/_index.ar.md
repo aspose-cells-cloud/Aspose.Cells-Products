@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/sxc-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كملف TSV في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى TSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ SXC كملفات TSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TSV مثالي.
+يعد حفظ تنسيقات الملفات من SXC مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى TSV بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ SXC كملفات TSV عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ SXC بتنسيق TSV" gistPath="" %}}

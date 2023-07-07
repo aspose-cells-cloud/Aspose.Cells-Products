@@ -13,7 +13,7 @@ url: /zh/ruby/saveas/sxc-to-tiff/
 将 SXC 中的文件格式保存为 TIFF 是一项复杂的任务。所有 SXC 到 TIFF 格式的转换均由我们的 Ruby SDK 执行，同时保留源 SXC 电子表格的主要结构和逻辑内容。我们的 Ruby 库是在线将 SXC 保存为 TIFF 文件的专业解决方案。该Cloud SDK为Ruby开发人员提供了强大的功能和完美的TIFF输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中的代码示例，使用 REST API 将 SXC 保存为 TIFF 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中使用 REST API 将 SXC 保存为 TIFF 格式的代码示例" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

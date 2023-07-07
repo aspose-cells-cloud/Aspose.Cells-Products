@@ -10,7 +10,7 @@ url: /tr/nodejs/saveas/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını NodeJS\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSB'den XML olarak kaydetmek karmaşık bir görevdir. Tüm XLSB'den XML biçimine geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSB'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya biçimlerini XLSB'den XML olarak kaydetmek karmaşık bir görevdir. Tüm XLSB'den XML formatına geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSB'yi çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSB\'yi XML formatı olarak kaydetmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

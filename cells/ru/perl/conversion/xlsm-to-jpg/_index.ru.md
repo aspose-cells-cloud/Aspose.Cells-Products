@@ -10,7 +10,7 @@ url: /ru/perl/conversion/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в JPG в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в JPG — сложная задача. Все переходы из формата XLSM в формат JPG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLSM в JPG. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Преобразование форматов файлов из XLSM в JPG — сложная задача. Все переходы XLSM в формат JPG выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLSM в JPG. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLSM в формат JPG" gistPath="" %}}

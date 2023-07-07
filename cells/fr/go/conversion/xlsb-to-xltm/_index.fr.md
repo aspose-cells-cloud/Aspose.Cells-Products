@@ -10,7 +10,7 @@ url: /fr/go/conversion/xlsb-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XLTM dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLSB en XLTM est une tâche complexe. Toutes les transitions de format XLSB vers XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XLSB en XLTM. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
+La conversion des formats de fichiers XLSB en XLTM est une tâche complexe. Toutes les transitions de format XLSB à XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers XLSB en XLTM. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir le format XLSB au format XLTM" gistPath="" %}}

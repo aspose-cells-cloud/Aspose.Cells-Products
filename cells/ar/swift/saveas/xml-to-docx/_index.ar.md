@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XML كـ DOCX API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق XML كملف بتنسيق DOCX.
 url: /ar/swift/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML بتنسيق DOCX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ XML كملفات DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
+يعد حفظ تنسيقات الملفات من XML كـ DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لحفظ XML كملفات DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ XML بتنسيق DOCX" gistPath="" %}}

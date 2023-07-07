@@ -10,7 +10,7 @@ url: /tr/android/saveas/xlt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Android\'de MD olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLT'den MD olarak kaydetmek karmaşık bir görevdir. Tüm XLT'den MD'ye format geçişleri, kaynak XLT e-tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLT'yi çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
+Dosya biçimlerini XLT'den MD olarak kaydetmek karmaşık bir görevdir. Tüm XLT'den MD formatına geçişler, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLT'yi çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi MD formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

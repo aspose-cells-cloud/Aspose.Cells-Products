@@ -1,10 +1,10 @@
 ﻿---
-title:  Umstellung mit Perl
-description:  Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien mit Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Konvertierung mit Perl
+description:  Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien mithilfe von Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/perl/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Umstellung mit Perl" h2="Aspose.Cells Cloud SDK unterstützt die Konvertierung von Dateiformaten. Das unterstützte Dateiformat umfasst mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien mit Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Konvertierung mit Perl" h2="Aspose.Cells Cloud SDK unterstützt die Konvertierung von Dateiformaten. Das unterstützte Dateiformat umfasst mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt die Konvertierung von Excel-Dateien in verschiedene Arten von Formatdateien mithilfe von Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /de/perl/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Umbau mit Perl Verlängerungsgliedern" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Konvertierung mit Perl Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

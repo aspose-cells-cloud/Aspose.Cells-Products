@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als JPG API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format HTML als Datei im JPG-Format zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format HTML als JPG-Formatdatei zu speichern.
 url: /de/java/saveas/html-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

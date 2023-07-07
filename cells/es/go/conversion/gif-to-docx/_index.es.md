@@ -10,7 +10,7 @@ url: /es/go/conversion/gif-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo GIF a DOCX en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de GIF a DOCX es una tarea compleja. Todas las transiciones de formato GIF a DOCX se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos GIF a DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida DOCX perfecta.
+Convertir formatos de archivo de GIF a DOCX es una tarea compleja. Todas las transiciones de formato GIF a DOCX las realiza nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo GIF de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos GIF a DOCX en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida DOCX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para convertir GIF a formato DOCX" gistPath="" %}}

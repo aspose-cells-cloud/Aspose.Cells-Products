@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi XPS API olarak kaydedin
+title:  MHTML'yi Python için XPS API olarak kaydedin
 description:  MHTML biçim dosyasını XPS biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-xps/
 ---

@@ -4,7 +4,7 @@ description: PNG biçim dosyasını SQL biçim dosyasına dönüştürmek için 
 url: /tr/nodejs/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i SQL\'e dönüştürmek için NodeJS API" h2="PNG\'i SQL\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, NodeJS kullanarak PNG\'i çevrimiçi olarak SQL ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i SQL\'e dönüştürmek için NodeJS API" h2="PNG\'i SQL\'e dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, NodeJS kullanarak PNG\'i SQL\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="PNG dosyasını NodeJS\'de SQL\'e dönüştürün" >}}

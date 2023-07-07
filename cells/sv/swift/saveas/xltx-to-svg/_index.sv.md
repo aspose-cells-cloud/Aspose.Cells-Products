@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLTX som SVG API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara fil i XLTX-format som fil i SVG-format.
 url: /sv/swift/saveas/xltx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

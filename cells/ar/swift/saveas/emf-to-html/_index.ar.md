@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ EMF كـ HTML API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق EMF كملف تنسيق HTML.
 url: /ar/swift/saveas/emf-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

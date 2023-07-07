@@ -1,10 +1,10 @@
 ﻿---
-title: 另存为 PHP
-description:  Aspose.Cells Cloud REST API 支持将excel文件保存为PHP的各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 另存为使用PHP
+description:  Aspose.Cells Cloud REST API支持使用PHP将excel文件保存为各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/php/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="另存为 PHP" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持将excel文件保存为PHP的各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="另存为使用PHP" h2="Aspose.Cells Cloud SDK支持将工作簿保存为其他格式。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API支持使用PHP将excel文件保存为各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /zh/php/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="另存为 PHP 扩展链接" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 PHP 扩展链接另存为" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

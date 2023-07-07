@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını NodeJS\'de XML\'e dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLSB'den XML'e dönüştürmek karmaşık bir iştir. Tüm XLSB'den XML biçimine geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSB'yi çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+Dosya formatlarını XLSB'den XML'e dönüştürmek karmaşık bir iştir. Tüm XLSB'den XML formatına geçişler, kaynak XLSB elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLSB'yi çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSB\'yi XML formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

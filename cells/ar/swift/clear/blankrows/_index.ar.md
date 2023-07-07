@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الصفوف الفارغة على Micro
 url: /ar/swift/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح الصفوف الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح الصفوف الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف الفارغة في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الصفوف الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="امسح الصفوف الفارغة في جدول بيانات Microsoft Excel و OpenOffice Calc المحلي - Swift REST API" >}}

@@ -4,7 +4,7 @@ description:  Cloud-APIs und SDKs zum Löschen von Diagrammen unter Microsoft Ex
 url: /de/android/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Android Clear zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Android zu löschen. Diese professionelle Lösung löscht Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Android." urlsection="clear/Charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Android Clear zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Android zu löschen. Diese professionelle Lösung ermöglicht klare Diagramme auf lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit Android." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Android REST API" >}}

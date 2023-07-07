@@ -1,14 +1,14 @@
 ﻿---
-title:  Установить фон с C#
-description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с C#. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Установите фон, используя C#
+description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью C#. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/net/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Установить фон с C#" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с C#. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Установите фон, используя C#" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью C#. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Установите фон со ссылками расширения C#" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установить фон с помощью ссылок расширения C#" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

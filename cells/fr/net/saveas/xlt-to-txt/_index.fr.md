@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez XLT sous TXT API pour C#
-description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLT en tant que fichier au format TXT.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLT en tant que fichier au format TXT.
 url: /fr/net/saveas/xlt-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

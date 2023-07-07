@@ -10,7 +10,7 @@ url: /fr/android/saveas/xlt-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT en tant que TSV dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLT en tant que TSV est une tâche complexe. Toutes les transitions de format XLT vers TSV sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLT au format TSV. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TSV parfaite.
+L'enregistrement de formats de fichiers à partir de XLT en tant que TSV est une tâche complexe. Toutes les transitions de format XLT à TSV sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XLT au format TSV. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie TSV parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLT au format TSV" gistPath="" %}}

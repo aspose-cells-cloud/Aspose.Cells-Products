@@ -10,7 +10,7 @@ url: /tr/net/saveas/emf-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını C#\'de FODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya biçimlerini FODS olarak kaydetmek karmaşık bir iştir. EMF'den FODS biçimine geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, EMF'i çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+EMF'den dosya biçimlerini FODS olarak kaydetmek karmaşık bir iştir. Tüm EMF'den FODS formatına geçişler, C# SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, EMF'i çevrimiçi FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="EMF\'i FODS formatı olarak kaydetmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

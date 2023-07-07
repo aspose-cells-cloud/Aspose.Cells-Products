@@ -10,7 +10,7 @@ url: /ru/perl/conversion/emf-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в MD в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в MD является сложной задачей. Все переходы формата EMF в формат MD выполняются нашим пакетом SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации EMF в файлы MD. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод MD.
+Преобразование форматов файлов из EMF в MD является сложной задачей. Все переходы формата EMF в формат MD выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации EMF в файлы MD. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования EMF в формат MD" gistPath="" %}}

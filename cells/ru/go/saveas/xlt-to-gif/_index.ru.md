@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Go для с
 url: /ru/go/saveas/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLT в формате GIF." h2="Библиотека Go для сохранения XLT в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLT в виде GIF и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlt-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить XLT в формате GIF." h2="Библиотека Go для сохранения XLT в формате GIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения XLT в формате GIF и других форматов документов в Интернете с помощью Go." urlsection="saveas/xlt-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT в формате GIF в Go" >}}

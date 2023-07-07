@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1}
 url: /zh/android/export/chart-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将图表导出为GIF文件" h2="Android 库将图表导出为 GIF 文件" p="使用 Cells Export REST API 在 Android 中导出电子表格内部对象工作流程。这是一个使用 Android 在线电子表格将图表导出为 GIF 格式文件的专业解决方案。" urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将图表导出为GIF文件" h2="Android 库将图表导出为 GIF 文件" p="使用 Cells Export REST API 在 Android 中导出电子表格内部对象工作流程。这是使用 Android 在线电子表格将图表导出为 GIF 格式文件的专业解决方案。" urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在Android中将CHART对象导出为GIF格式文件" >}}

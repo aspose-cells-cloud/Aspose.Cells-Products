@@ -10,7 +10,7 @@ url: /es/net/conversion/html-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a XLSM en C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca C# es una solución profesional para convertir HTML a archivos XLSM en línea. Este SDK de la nube ofrece a los desarrolladores de C# una potente funcionalidad y una salida XLSM perfecta.
+Convertir formatos de archivo de HTML a XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca C# es una solución profesional para convertir HTML a archivos XLSM en línea. Este SDK de Cloud ofrece a los desarrolladores de C# una potente funcionalidad y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para convertir HTML al formato XLSM" gistPath="" %}}

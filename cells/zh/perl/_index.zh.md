@@ -13,7 +13,7 @@ url: /zh/perl
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells 适用于 Perl 的 Cloud SDK 使您能够使用 Perl 编程语言快速开发具有竞争力的基于云的 Microsoft Excel 和 OpenOffice 电子表格生成器、阅读器、合并、拆分、加密和转换器应用程序。 Aspose.Cells Cloud SDK for Perl 构建于 Aspose.Cells REST API 之上。我们的 Cells Cloud SDK 已获得 MIT 许可。</p>
-<p>Aspose.Cells Cloud SDK for Perl 使您的 Perl 代码能够访问云工作表并修改自动筛选器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。 Enable your Perl program to convert XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, ODS to DIF, PDF, XPS, TIFF, SVG, MD (Markdown), XML (SpreadsheetML), CSV, TSV, TXT (TabDelimited) 、HTML 和 MHTML 格式。</p>
+<p>Aspose.Cells Cloud SDK for Perl 使您的 Perl 代码能够访问云工作表并修改自动筛选器、工作簿、单元格、列、行、图表、形状、超链接、条件格式、OleObjects、分页符、ListObjects、数据透视表、任务和范围。使您的 Perl 程序能够将 XLS、XLSX、XLSB、XLSM、XLT、XLTX、XLTM、ODS 转换为 DIF、PDF、XPS、TIFF、SVG、MD (Markdown)、XML (SpreadsheetML)、CSV、TSV、TXT (TabDelimited) 、HTML 和 MHTML 格式。</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
@@ -242,7 +242,7 @@ url: /zh/perl
 处理工作簿 via 云SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Perl 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
+Aspose.Cells Cloud SDK for Perl 允许您创建、拆分、合并、搜索和替换文本、密码保护、导出为支持的文件格式、读取工作簿的文本项目、自动调整工作簿行同时忽略隐藏元素、加密工作簿密码并提供加密密钥长度、将数据导入工作簿、计算工作簿中的所有公式、通过提供精度策略等设置公式计算设置、使用智能标记、将工作簿从请求内容转换为其他格式、应用密码以允许内容修改。
     </p>
    </div>
    <div class="col-lg-12">

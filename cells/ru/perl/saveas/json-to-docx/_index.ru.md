@@ -10,7 +10,7 @@ url: /ru/perl/saveas/json-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как DOCX по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для сохранения файлов JSON в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из JSON в виде DOCX — сложная задача. Все переходы формата JSON в формат DOCX выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Perl — это профессиональное решение для сохранения файлов JSON в виде файлов DOCX в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения JSON в формате DOCX" gistPath="" %}}

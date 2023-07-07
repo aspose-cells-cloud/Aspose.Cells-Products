@@ -4,7 +4,7 @@ description: استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف 
 url: /ar/java/conversion/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل CSV إلى XLSM" h2="Java مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل CSV إلى XLSM" h2="Java مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى XLSM في Java" >}}

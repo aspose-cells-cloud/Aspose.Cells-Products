@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als XLTM API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im EMF-Format als XLTM-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

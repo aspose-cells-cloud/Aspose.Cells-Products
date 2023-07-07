@@ -1,10 +1,10 @@
 ﻿---
-title:  التحويل مع Python
+title:  التحويل باستخدام Python
 description:  Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Python. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/python/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="التحويل مع Python" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Python. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="التحويل باستخدام Python" h2="Aspose.Cells Cloud SDK يدعم تحويل تنسيق الملف. يحتوي تنسيق الملف المدعوم على أكثر من 30 تنسيقًا للملفات." p="Aspose.Cells Cloud REST API يدعم تحويل ملفات Excel إلى أنواع مختلفة من ملفات التنسيق باستخدام Python. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ar/python/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="التحويل مع Python وصلات التمديد" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="التحويل باستخدام Python وصلات الامتداد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xml-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как BMP в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как BMP — сложная задача. Все переходы между форматами XML и BMP выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML-файлов в формате BMP в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
+Сохранение форматов файлов из XML как BMP — сложная задача. Все переходы между форматами XML и BMP выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов BMP в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XML в формате BMP" gistPath="" %}}

@@ -7,7 +7,7 @@ url: /ar/php/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لحفظ CSV كـ XLSX" h2="مكتبة PHP لحفظ CSV كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لحفظ CSV كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="saveas/csv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بتنسيق XLSX في PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV كملف XLSX في PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من CSV مثل XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLSX بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة PHP الخاصة بنا حلاً احترافيًا لحفظ CSV كملفات XLSX عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية وإخراج XLSX مثالي.

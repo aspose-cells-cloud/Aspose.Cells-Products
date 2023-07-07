@@ -1,5 +1,5 @@
 ﻿---
-title:  PHP için MHTML'yi BMP API olarak kaydedin
+title:  MHTML'yi PHP için BMP API olarak kaydedin
 description:  MHTML biçim dosyasını BMP biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-bmp/
 ---

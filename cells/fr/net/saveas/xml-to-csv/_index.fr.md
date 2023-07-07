@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrer XML au format CSV API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XML en tant que fichier au format CSV.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XML en tant que fichier au format CSV.
 url: /fr/net/saveas/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

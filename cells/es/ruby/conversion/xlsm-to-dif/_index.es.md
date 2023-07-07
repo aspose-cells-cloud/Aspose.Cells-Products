@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo 
 url: /es/ruby/conversion/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XLSM a DIF" h2="Biblioteca Ruby para convertir XLSM a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XLSM a DIF y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XLSM a DIF" h2="Biblioteca Ruby para convertir XLSM a DIF" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XLSM a DIF y otros formatos de documentos en línea utilizando Ruby." urlsection="conversion/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSM a DIF en Ruby" >}}

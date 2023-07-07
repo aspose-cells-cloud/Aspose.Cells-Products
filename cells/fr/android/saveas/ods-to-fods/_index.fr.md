@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer ODS sous FODS API pour Android
-description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format ODS en tant que fichier au format FODS.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format ODS en tant que fichier au format FODS.
 url: /fr/android/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

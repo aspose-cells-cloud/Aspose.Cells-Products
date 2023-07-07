@@ -1,10 +1,10 @@
 ﻿---
-title: 转换
-description: Aspose.Cells Cloud REST API 支持将excel文件转换为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Swift 进行转换
+description: Aspose.Cells Cloud REST API 支持使用 Swift 将 excel 文件转换为不同类型的格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/swift/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转换" h2="Aspose.Cells Cloud SDK支持文件格式转换。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持将excel文件转换为各种格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Swift 进行转换" h2="Aspose.Cells Cloud SDK支持文件格式转换。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 Swift 将 excel 文件转换为不同类型的格式文件。 SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /zh/swift/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>云SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="转化扩展链接" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Swift 扩展链接进行转换" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,10 +1,10 @@
 ﻿---
-title:  Enregistrer sous avec C#
-description:  Aspose.Cells Cloud REST API prend en charge l'enregistrement de fichiers Excel en tant que types de fichiers de format avec C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Enregistrer sous en utilisant C#
+description:  Aspose.Cells Cloud REST API prend en charge l'enregistrement de fichiers Excel en tant que types de fichiers de format à l'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/net/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer sous avec C#" h2="Aspose.Cells Le SDK Cloud prend en charge l\'enregistrement des classeurs sous d\'autres formats. Les formats de fichiers pris en charge ont plus de 30+ formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'enregistrement de fichiers Excel en tant que types de fichiers de format avec C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Enregistrer sous en utilisant C#" h2="Aspose.Cells Le SDK Cloud prend en charge l\'enregistrement des classeurs sous d\'autres formats. Les formats de fichiers pris en charge ont plus de 30+ formats de fichiers." p="Aspose.Cells Cloud REST API prend en charge l\'enregistrement de fichiers Excel en tant que types de fichiers de format à l\'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /fr/net/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Enregistrer sous avec C# Liens d\'extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Enregistrer sous en utilisant les liens d\'extension C#" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

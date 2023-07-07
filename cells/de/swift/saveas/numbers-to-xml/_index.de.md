@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie NUMBERS als XML API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im NUMBERS-Format als XML-Formatdatei zu speichern.
 url: /de/swift/saveas/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

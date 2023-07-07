@@ -1,6 +1,6 @@
 ﻿---
 title:  Objekte mit NodeJS löschen
-description:  Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mit NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description:  Aspose.Cells Cloud REST API unterstützt klare innere Objekte in einer Excel-Datei mithilfe von NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/nodejs/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -8,7 +8,7 @@ url: /de/nodejs/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mit NodeJS-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Löschen Sie Objekte mithilfe von NodeJS-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

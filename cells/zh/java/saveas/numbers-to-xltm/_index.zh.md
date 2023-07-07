@@ -1,6 +1,6 @@
 ﻿---
 title: 将号码另存为 XLTM API for Java
-description: 使用 Aspose.Cells Cloud SDK for Java 将 NUMBERS 格式文件保存为 XLTM 格式文件。
+description: 使用Aspose.Cells Cloud SDK for Java将NUMBERS格式文件保存为XLTM格式文件。
 url: /zh/java/saveas/numbers-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

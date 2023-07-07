@@ -10,7 +10,7 @@ url: /ru/php/saveas/html-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XPS в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как XPS — сложная задача. Все переходы форматов с HTML на XPS выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов HTML как XPS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов с HTML как XPS — сложная задача. Все переходы форматов с HTML на XPS выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов HTML как XPS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения HTML в формате XPS" gistPath="" %}}

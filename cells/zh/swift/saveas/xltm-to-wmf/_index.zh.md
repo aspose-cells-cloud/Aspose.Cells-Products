@@ -1,6 +1,6 @@
 ﻿---
 title: 将 XLTM 保存为 WMF API 以用于 Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用 Aspose.Cells Cloud SDK for Swift 将 XLTM 格式文件保存为 WMF 格式文件。
 url: /zh/swift/saveas/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS en MHTML Convertir API pour PHP
-description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier au format ODS en fichier au format MHTML.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir le fichier au format ODS en fichier au format MHTML.
 url: /fr/php/conversion/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

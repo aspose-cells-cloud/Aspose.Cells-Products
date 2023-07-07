@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM zu WMF Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLTM-Formatdatei in eine WMF-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer Datei im XLTM-Format in eine Datei im WMF-Format.
 url: /de/python/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG إلى SQL - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق PNG إلى ملف بتنسيق SQL.
 url: /ar/swift/conversion/png-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

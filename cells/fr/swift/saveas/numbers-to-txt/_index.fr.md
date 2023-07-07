@@ -1,10 +1,10 @@
 ﻿---
 title:  Enregistrez les NUMÉROS sous TXT API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format NUMBERS en tant que fichier au format TXT.
 url: /fr/swift/saveas/numbers-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer les NUMÉROS au format TXT" h2="Bibliothèque Swift pour enregistrer les NUMBERS au format TXT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMÉROS au format TXT et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/numbers-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour enregistrer les NUMÉROS au format TXT" h2="Bibliothèque Swift pour enregistrer les NUMBERS au format TXT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format TXT et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="saveas/numbers-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format TXT dans Swift" >}}

@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/xlsx-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSX باسم SXC في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSX مثل SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى SXC بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLSX كملفات SXC عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SXC مثالي.
+يعد حفظ تنسيقات الملفات من XLSX مثل SXC مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSX إلى SXC بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSX المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLSX كملفات SXC عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SXC مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XLSX بتنسيق SXC" gistPath="" %}}

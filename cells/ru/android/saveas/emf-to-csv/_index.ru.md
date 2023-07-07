@@ -10,7 +10,7 @@ url: /ru/android/saveas/emf-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF в формате CSV на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF в формате CSV — сложная задача. Все переходы EMF в формат CSV выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека для Android — это профессиональное решение для сохранения EMF в виде файлов CSV онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение форматов файлов с EMF в формате CSV — сложная задача. Все переходы EMF в формат CSV выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека для Android — это профессиональное решение для сохранения EMF в виде файлов CSV онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения EMF в формате CSV" gistPath="" %}}

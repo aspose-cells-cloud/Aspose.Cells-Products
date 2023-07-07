@@ -1,10 +1,10 @@
 ﻿---
 title:  Slå samman med NodeJS
-description: Aspose.Cells Cloud REST API stöder slå samman flera Excel-filer till en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
+description: Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift.
 url: /sv/nodejs/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman med NodeJS" h2="Aspose.Cells Cloud SDK stöder slå samman flera Excel-filer till en Excel-fil." p="Aspose.Cells Cloud REST API stöder slå samman flera Excel-filer till en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Slå samman med NodeJS" h2="Aspose.Cells Cloud SDK stöder slå samman flera Excel-filer till en Excel-fil." p="Aspose.Cells Cloud REST API stöder sammanfogning av flera Excel-filer till en Excel-fil med NodeJS. SDK stöder flera utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /sv/nodejs/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Slå samman med NodeJS Extension-länkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Slå samman med hjälp av NodeJS Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

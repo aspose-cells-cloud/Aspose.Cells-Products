@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva XLS come SXC API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato XLS come file in formato SXC.
 url: /it/swift/saveas/xls-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

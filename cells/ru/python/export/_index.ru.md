@@ -1,10 +1,10 @@
 ﻿---
-title: Экспорт с Python
-description:  Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы с помощью Python. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title: Экспорт с использованием Python
+description:  Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы с использованием Python. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/python/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт с Python" h2="Aspose.Cells Cloud SDK поддерживает экспорт книг и внутренних объектов в более чем 30 форматов файлов." p="Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы с помощью Python. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Экспорт с использованием Python" h2="Aspose.Cells Cloud SDK поддерживает экспорт книг и внутренних объектов в более чем 30 форматов файлов." p="Aspose.Cells Cloud REST API поддерживает экспорт рабочей книги и внутренних объектов во все форматы с использованием Python. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /ru/python/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Облачный SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Экспорт со ссылками расширения Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Экспорт с использованием ссылок расширения Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -4,13 +4,13 @@ description:  Облачные API и SDK для очистки содержим
 url: /ru/go/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Go Clear для очистки содержимого локального Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Go." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." h2="Перейти Очистить, чтобы очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте Cells Clear REST API для очистки содержимого в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Go. Это профессиональное решение очищает содержимое локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Go." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить содержимое локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc — Go REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc является сложной задачей. Очистка содержимого в локальных переходах электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки формул в локальном Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам Go мощную функциональность и совершенный API.
+Очистка содержимого локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc является сложной задачей. Очистка содержимого в локальных переходах электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Go — это профессиональное решение для очистки формул в локальном Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот Cloud SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Go для очистки содержимого в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Content.go" %}}

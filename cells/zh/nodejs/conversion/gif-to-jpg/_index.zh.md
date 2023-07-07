@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for NodeJS将GIF格式文件转换为J
 url: /zh/nodejs/conversion/gif-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API 将 GIF 转换为 JPG" h2="NodeJS 库将 GIF 转换为 JPG" p="使用 Cells Conversion REST API 在 NodeJS 中创建自定义电子表格工作流程。这是使用 NodeJS 在线将 GIF 转换为 JPG 等文档格式的专业解决方案。" urlsection="conversion/gif-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API 将 GIF 转换为 JPG" h2="用于将 GIF 转换为 JPG 的 NodeJS 库" p="使用 Cells Conversion REST API 在 NodeJS 中创建自定义电子表格工作流程。这是使用 NodeJS 在线将 GIF 转换为 JPG 等文档格式的专业解决方案。" urlsection="conversion/gif-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 NodeJS 中将 GIF 文件转换为 JPG" >}}

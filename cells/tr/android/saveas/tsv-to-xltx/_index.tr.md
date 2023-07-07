@@ -10,7 +10,7 @@ url: /tr/android/saveas/tsv-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TSV dosyasını XLTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını TSV'den XLTX olarak kaydetmek karmaşık bir iştir. Tüm TSV'den XLTX'e biçim geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
+Dosya formatlarını TSV'den XLTX olarak kaydetmek karmaşık bir iştir. Tüm TSV'den XLTX'e format geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak XLTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel XLTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi XLTX formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

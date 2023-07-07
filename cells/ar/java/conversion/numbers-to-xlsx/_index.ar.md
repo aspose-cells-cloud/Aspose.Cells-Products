@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى XLSX" h2="Java مكتبة لتحويل الأرقام إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى XLSX" h2="Java مكتبة لتحويل الأرقام إلى XLSX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى XLSX في Java" >}}

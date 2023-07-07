@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS إلى SQL - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XLS إلى ملف بتنسيق SQL.
 url: /ar/swift/conversion/xls-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

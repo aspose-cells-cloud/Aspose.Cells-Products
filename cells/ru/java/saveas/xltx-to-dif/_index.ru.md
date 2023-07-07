@@ -10,7 +10,7 @@ url: /ru/java/saveas/xltx-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как DIF по адресу Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в виде DIF — сложная задача. Все переходы формата XLTX в формат DIF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для сохранения XLTX в виде файлов DIF онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
+Сохранение форматов файлов из XLTX в виде DIF — сложная задача. Все переходы формата XLTX в формат DIF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для сохранения XLTX в виде файлов DIF онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLTX в формате DIF" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/numbers-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как DOCX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в формате DOCX — сложная задача. Все переходы NUMBERS в формат DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для сохранения NUMBERS в виде файлов DOCX онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из NUMBERS в формате DOCX — сложная задача. Все переходы NUMBERS в формат DOCX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для сохранения NUMBERS в виде файлов DOCX онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения NUMBERS в формате DOCX" gistPath="" %}}

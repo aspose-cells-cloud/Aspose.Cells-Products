@@ -10,7 +10,7 @@ url: /ru/net/saveas/png-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как FODS в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как FODS — сложная задача. Все переходы формата PNG в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для сохранения PNG в виде файлов FODS онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат FODS.
+Сохранение форматов файлов с PNG как FODS — сложная задача. Все переходы формата PNG в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека C# — это профессиональное решение для сохранения PNG в виде файлов FODS онлайн. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и отличные результаты FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения PNG в формате FODS" gistPath="" %}}

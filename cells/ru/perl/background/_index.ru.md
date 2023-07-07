@@ -1,14 +1,14 @@
 ﻿---
-title:  Установить фон с Perl
-description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с Perl. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Установите фон, используя Perl
+description:  Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Perl. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/perl/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Установить фон с Perl" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с Perl. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Установите фон, используя Perl" h2="Aspose.Cells Cloud SDK поддерживает четкое содержимое, стиль, диаграмму, таблицу, фон и т. д. в файлах Excel." p="Aspose.Cells Cloud REST API поддерживает установку фона для файла Excel с помощью Perl. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Установите фон со ссылками расширения Perl" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Установить фон с помощью ссылок расширения Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

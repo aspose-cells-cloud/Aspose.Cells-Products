@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для Android д
 url: /ru/android/saveas/xltx-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLTX как DOCX" h2="Библиотека Android для сохранения XLTX как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLTX как DOCX и других форматов документов онлайн с помощью Android." urlsection="saveas/xltx-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения XLTX как DOCX" h2="Библиотека Android для сохранения XLTX как DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения XLTX как DOCX и других форматов документов в Интернете с помощью Android." urlsection="saveas/xltx-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как DOCX на Android" >}}

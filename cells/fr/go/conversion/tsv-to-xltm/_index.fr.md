@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir TSV en XLTM API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fichier au format TSV en fichier au format XLTM.
+description:  Utiliser Aspose.Cells Cloud SDK for Go pour convertir le fichier au format TSV en fichier au format XLTM.
 url: /fr/go/conversion/tsv-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

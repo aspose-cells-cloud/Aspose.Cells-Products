@@ -10,7 +10,7 @@ url: /ru/java/saveas/gif-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате DOCX по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в формате DOCX — сложная задача. Все переходы формата GIF в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Java — это профессиональное решение для сохранения GIF в формате DOCX онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из GIF в формате DOCX — сложная задача. Все переходы формата GIF в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека Java — это профессиональное решение для сохранения GIF в формате DOCX в Интернете. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения GIF в формате DOCX" gistPath="" %}}

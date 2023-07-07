@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel والتوقيع الرقم
 url: /ar/swift/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" h2="مكتبة سويفت لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API لسحابة التوقيع الرقمي Microsoft Excel وجداول بيانات OpenOffice Calc مع مسارات عمل ملفات كلمة المرور وملف التوقيع الرقمي في Swift. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت مع كلمات مرور وملف توقيع رقمي باستخدام Swift." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API إلى سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" h2="مكتبة سويفت لسحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور وملف توقيع رقمي" p="استخدم Cells التوقيع الرقمي REST API لسحابة التوقيع الرقمي Microsoft Excel وجداول بيانات OpenOffice Calc مع كلمات مرور ومهام سير عمل ملف التوقيع الرقمي في Swift. سحابة التوقيع الرقمي للحل الاحترافي Microsoft Excel وجدول بيانات OpenOffice Calc عبر الإنترنت مع كلمات مرور وملف توقيع رقمي باستخدام Swift." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="سحابة التوقيع الرقمي Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Swift REST API" >}}

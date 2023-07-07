@@ -1,5 +1,5 @@
 ﻿---
-title:  HTML لتحويل XLS API for Java
+title:  HTML إلى XLS تحويل API for Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق HTML إلى ملف بتنسيق XLS.
 url: /ar/java/conversion/html-to-xls/
 ---

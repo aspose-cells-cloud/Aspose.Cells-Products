@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API admite la exportación de archivos de 
 url: /es/java/export/chart-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para exportar GRÁFICO a archivo JPG" h2="Java biblioteca para exportar CHART a archivo JPG" p="Use Cells Exportar REST API para exportar flujos de trabajo de objetos internos de hoja de cálculo en Java. Esta es una solución profesional para exportar CHART a archivo de formato JPG desde hoja de cálculo en línea usando Java." urlsection="export/chart-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para exportar GRÁFICO a archivo JPG" h2="Java biblioteca para exportar CHART a archivo JPG" p="Use Cells Export REST API para exportar flujos de trabajo de objetos internos de hojas de cálculo en Java. Esta es una solución profesional para exportar CHART a un archivo de formato JPG desde una hoja de cálculo en línea usando Java." urlsection="export/chart-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto CHART a archivo de formato JPG en Java" >}}

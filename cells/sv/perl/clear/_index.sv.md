@@ -8,7 +8,7 @@ url: /sv/perl/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med Perl Förlängningslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med Perl Tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

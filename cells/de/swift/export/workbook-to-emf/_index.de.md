@@ -1,6 +1,6 @@
 ﻿---
-title: Exportieren Sie WORKBOOK aus der Tabelle mit Swift API nach EMF
-description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Exportieren Sie WORKBOOK aus der Tabelle mit Swift API nach EMF
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/workbook-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/export/workbook-to-emf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine Datei im Format EMF in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei EMF ist eine komplexe Aufgabe. Der Export von WORKBOOK-Formatübergängen in das EMF-Format wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der WORKBOOK-Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format EMF. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
+Das Exportieren des WORKBOOK-Objekts aus der Tabellenkalkulation in die Datei EMF ist eine komplexe Aufgabe. Der Export von WORKBOOK in das EMF-Format wird von unserem Swift SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quell-WORKBOOK-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im Format EMF. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte EMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Exportieren von WORKBOOK aus der Tabelle in das Format EMF" gistPath="" %}}

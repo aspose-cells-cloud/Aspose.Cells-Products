@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSM als TSV API für Android
-description: Verwenden Sie Aspose.Cells Cloud SDK für Android, um XLSM-Formatdateien als TSV-Formatdateien zu speichern.
+description: Verwenden von Aspose.Cells Cloud SDK für Android zum Speichern von XLSM-Formatdateien als TSV-Formatdateien.
 url: /de/android/saveas/xlsm-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: Cancella le righe duplicate nella cartella di lavoro locale con Perl in Cloud
-description:  API cloud e SDK per cancellare le righe duplicate su Microsoft Excel e OpenOffice Calc con Perl. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per Perl
+description:  API cloud e SDK per cancellare la riga duplicata su Microsoft Excel e OpenOffice Calc con Perl. Cancella le righe duplicate sui fogli di calcolo locali tramite l'SDK Cells Cloud API per Perl
 url: /it/perl/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

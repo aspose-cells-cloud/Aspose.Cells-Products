@@ -10,7 +10,7 @@ url: /it/ruby/conversion/xml-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XML in TSV in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XML a TSV è un'attività complessa. Tutte le transizioni dal formato XML al formato TSV vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per convertire file XML in TSV online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output TSV perfetto.
+La conversione dei formati di file da XML a TSV è un'attività complessa. Tutte le transizioni di formato da XML a TSV vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XML di origine. La nostra libreria Ruby è una soluzione professionale per convertire file XML in TSV online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output TSV perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per convertire XML in formato TSV" gistPath="" %}}

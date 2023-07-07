@@ -1,10 +1,10 @@
 ﻿---
 title:  مسح الخلفية في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الخلفية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="سويفت مسح لمسح الخلفية على Excel Excel و Microsoft المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الخلفية في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. هذا الحل الاحترافي خلفية واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الخلفية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="سويفت مسح لمسح الخلفية على Excel Excel و Microsoft المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الخلفية في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. هذا الحل الاحترافي خلفية واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الخلفية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Swift REST API" >}}

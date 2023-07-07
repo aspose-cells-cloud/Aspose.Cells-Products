@@ -10,7 +10,7 @@ url: /ru/android/conversion/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл HTML в XLTX на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
+Преобразование форматов файлов из HTML в XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов HTML в XLTX. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования HTML в формат XLTX" gistPath="" %}}

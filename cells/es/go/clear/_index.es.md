@@ -1,14 +1,14 @@
 ﻿---
-title:  Borrar objetos con Go
-description:  Aspose.Cells Cloud REST API admite objetos internos claros en un archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Borrar objetos usando Ir
+description:  Aspose.Cells Cloud REST API admite objetos internos claros en un archivo Excel mediante Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/go/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Borrar objetos con Go" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite objetos internos claros en un archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Borrar objetos usando Ir" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite objetos internos claros en un archivo Excel mediante Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Borrar objetos con enlaces de extensión Go" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Borrar objetos usando los enlaces de la extensión Go" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

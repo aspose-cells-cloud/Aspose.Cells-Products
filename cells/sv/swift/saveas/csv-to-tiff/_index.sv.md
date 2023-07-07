@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som TIFF API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara en fil i CSV-format som en fil i TIFF-format.
 url: /sv/swift/saveas/csv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

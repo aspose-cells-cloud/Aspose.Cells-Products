@@ -10,7 +10,7 @@ url: /tr/android/conversion/xlsm-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir XLSM dosyasını JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini XLSM'den JSON'a dönüştürmek karmaşık bir iştir. Tüm XLSM'den JSON formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSM'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya biçimlerini XLSM'den JSON'a dönüştürmek karmaşık bir iştir. Tüm XLSM'den JSON biçimine geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLSM'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSM\'yi JSON biçimine dönüştürmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

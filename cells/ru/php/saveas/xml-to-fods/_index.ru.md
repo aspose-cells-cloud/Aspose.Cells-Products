@@ -1,6 +1,6 @@
 ﻿---
 title: Сохраните XML как FODS API для PHP
-description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML в качестве файла формата FODS.
+description:  Использование Aspose.Cells Cloud SDK для PHP для сохранения файла формата XML в виде файла формата FODS.
 url: /ru/php/saveas/xml-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

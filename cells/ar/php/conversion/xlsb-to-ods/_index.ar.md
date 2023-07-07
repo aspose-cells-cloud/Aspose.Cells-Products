@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 url: /ar/php/conversion/xlsb-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSB إلى ODS" h2="PHP مكتبة لتحويل XLSB إلى ODS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLSB إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsb-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSB إلى ODS" h2="PHP مكتبة لتحويل XLSB إلى ODS" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل XLSB إلى ODS وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsb-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSB إلى ODS في PHP" >}}

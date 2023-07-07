@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ الأرقام كـ PPTX API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق NUMBERS كملف بتنسيق PPTX.
 url: /ar/swift/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/numbers-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف NUMBERS بتنسيق PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من NUMBERS كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ الأرقام كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد حفظ تنسيقات الملفات من NUMBERS كـ PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ الأرقام كملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ الأرقام بتنسيق PPTX" gistPath="" %}}

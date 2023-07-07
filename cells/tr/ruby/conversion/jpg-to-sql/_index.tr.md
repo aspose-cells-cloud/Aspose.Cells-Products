@@ -4,7 +4,7 @@ description:  JPG formatındaki dosyayı SQL formatındaki dosyaya dönüştürm
 url: /tr/ruby/conversion/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi SQL\'e dönüştürmek için Ruby API" h2="JPG\'yi SQL\'e dönüştürmek için Ruby kütüphanesi" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Ruby kullanarak JPG\'yi SQL\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JPG\'yi SQL\'e dönüştürmek için Ruby API" h2="JPG\'yi SQL\'e dönüştürmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Ruby kullanarak JPG\'yi SQL\'e ve diğer belge biçimlerine çevrimiçi dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/jpg-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JPG dosyasını Ruby\'de SQL\'e dönüştürün" >}}

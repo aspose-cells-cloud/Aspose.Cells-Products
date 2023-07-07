@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ JSON كـ MHTML" h2="مكتبة Perl لحفظ JSON كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ JSON كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/json-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ JSON كـ MHTML" h2="مكتبة Perl لحفظ JSON كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ JSON كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/json-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم MHTML في Perl" >}}

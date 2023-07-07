@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine MHTML-F
 url: /de/php/conversion/mhtml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um MHTML in EMF zu konvertieren" h2="PHP-Bibliothek zum Konvertieren von MHTML in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um MHTML in EMF und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/mhtml-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von MHTML in EMF" h2="PHP-Bibliothek zum Konvertieren von MHTML in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um MHTML in EMF und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/mhtml-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in EMF in PHP" >}}

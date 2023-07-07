@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez CSV sous BMP API pour Android
-description: Utiliser Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format BMP.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format CSV en tant que fichier au format BMP.
 url: /fr/android/saveas/csv-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

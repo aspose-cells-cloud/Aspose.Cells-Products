@@ -10,7 +10,7 @@ url: /ru/python/saveas/png-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XLTX в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для сохранения PNG в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат XLTX.
+Сохранение форматов файлов с PNG как XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Python — это профессиональное решение для сохранения PNG в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Python мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения PNG в формате XLTX" gistPath="" %}}

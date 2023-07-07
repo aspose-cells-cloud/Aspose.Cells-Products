@@ -10,7 +10,7 @@ url: /fr/android/saveas/xlt-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT au format DIF dans Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers XLT au format DIF est une tâche complexe. Toutes les transitions de format XLT vers DIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLT en tant que fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DIF parfaite.
+L'enregistrement de formats de fichiers XLT au format DIF est une tâche complexe. Toutes les transitions de format XLT à DIF sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XLT source. Notre bibliothèque Android est une solution professionnelle pour enregistrer XLT en tant que fichiers DIF en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie DIF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer XLT au format DIF" gistPath="" %}}

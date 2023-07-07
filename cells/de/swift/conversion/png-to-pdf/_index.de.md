@@ -1,6 +1,6 @@
 ﻿---
 title:  PNG in PDF Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im Format PNG in eine Datei im Format PDF zu konvertieren.
 url: /de/swift/conversion/png-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

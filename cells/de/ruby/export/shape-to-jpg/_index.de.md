@@ -1,5 +1,5 @@
 ﻿---
-title:  Exportieren Sie SHAPE aus der Tabelle mit Ruby API in JPG
+title:  Exportieren Sie SHAPE aus der Tabellenkalkulation mit Ruby API in JPG
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/ruby/export/shape-to-jpg/
 ---

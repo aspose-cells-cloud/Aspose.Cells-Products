@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV als WMF API für Swift speichern
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von TSV-Formatdateien als WMF-Formatdateien.
 url: /de/swift/saveas/tsv-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/saveas/tsv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine TSV-Datei als WMF in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle Übergänge vom TSV- zum WMF-Format werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-TSV-Tabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um TSV als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
+Das Speichern von Dateiformaten von TSV als WMF ist eine komplexe Aufgabe. Alle Formatübergänge von TSV zu WMF werden von unserem Swift SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-TSV-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um TSV als WMF-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte WMF-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von TSV im WMF-Format" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSX в XML" h2="Python библиотека для преобразования XLSX в XML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSX в XML и другие форматы документов с использованием Python." urlsection="conversion/xlsx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSX в XML" h2="Python библиотека для преобразования XLSX в XML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSX в XML и другие форматы документов с использованием Python." urlsection="conversion/xlsx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в XML в Python" >}}

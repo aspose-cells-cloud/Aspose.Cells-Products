@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/csv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ CSV بتنسيق TXT" h2="مكتبة Perl لحفظ CSV كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ CSV بتنسيق TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/csv-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ CSV بتنسيق TXT" h2="مكتبة Perl لحفظ CSV كـ TXT" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ CSV بتنسيق TXT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/csv-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV كملف TXT في Perl" >}}

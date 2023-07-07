@@ -10,7 +10,7 @@ url: /ru/perl/saveas/numbers-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как HTML в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как HTML — сложная задача. Все преобразования форматов NUMBERS в HTML выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов HTML онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат HTML.
+Сохранение форматов файлов из NUMBERS как HTML — сложная задача. Все преобразования форматов NUMBERS в HTML выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов HTML онлайн. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения NUMBERS в формате HTML" gistPath="" %}}

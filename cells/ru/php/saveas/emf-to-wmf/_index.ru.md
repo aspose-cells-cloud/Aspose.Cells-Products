@@ -10,7 +10,7 @@ url: /ru/php/saveas/emf-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как WMF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как WMF — сложная задача. Все переходы формата EMF в формат WMF выполняются нашим пакетом SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека PHP — это профессиональное решение для сохранения EMF в виде файлов WMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов с EMF как WMF — сложная задача. Все переходы формата EMF в формат WMF выполняются нашим пакетом SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека PHP — это профессиональное решение для сохранения EMF в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения EMF в формате WMF" gistPath="" %}}

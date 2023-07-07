@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/conversion/numbers-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для конвертации NUMBERS в SXC" h2="Java библиотека для преобразования NUMBERS в SXC" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации NUMBERS в SXC и другие форматы документов с использованием Java." urlsection="conversion/numbers-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для конвертации NUMBERS в SXC" h2="Java библиотека для преобразования NUMBERS в SXC" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации NUMBERS в SXC и другие форматы документов с использованием Java." urlsection="conversion/numbers-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в SXC в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в SXC — сложная задача. Все преобразования форматов NUMBERS в SXC выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в SXC. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из NUMBERS в SXC — сложная задача. Все преобразования формата NUMBERS в формат SXC выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в SXC. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат SXC" gistPath="" %}}

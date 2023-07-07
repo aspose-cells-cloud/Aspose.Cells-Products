@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter BMP API für Python
+title:  Speichern Sie XLTX als BMP API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format BMP zu speichern.
 url: /de/python/saveas/xltx-to-bmp/
 ---

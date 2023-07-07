@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer l
 url: /fr/perl/saveas/xlt-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLT en tant que TSV" h2="Bibliothèque Perl pour enregistrer XLT en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format TSV et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/xlt-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer XLT en tant que TSV" h2="Bibliothèque Perl pour enregistrer XLT en tant que TSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer XLT au format TSV et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/xlt-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLT en tant que TSV au Perl" >}}

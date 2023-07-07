@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK for Go para guardar el archivo de fo
 url: /es/go/saveas/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para guardar XML como ODS" h2="Vaya a la biblioteca para guardar XML como ODS" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XML como ODS y otros formatos de documentos en línea usando Go." urlsection="saveas/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya al API para guardar XML como ODS" h2="Ir a la biblioteca para guardar XML como ODS" p="Utilice Cells SaveAs REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para guardar XML como ODS y otros formatos de documentos en línea usando Go." urlsection="saveas/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo XML como ODS en Go" >}}

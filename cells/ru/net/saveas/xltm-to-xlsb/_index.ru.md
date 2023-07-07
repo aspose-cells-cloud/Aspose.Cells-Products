@@ -10,7 +10,7 @@ url: /ru/net/saveas/xltm-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLSB в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде XLSB — сложная задача. Все переходы между форматами XLTM и XLSB выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения XLTM в виде файлов XLSB в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Сохранение форматов файлов из XLTM в виде XLSB — сложная задача. Все переходы от формата XLTM к формату XLSB выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека C# — это профессиональное решение для сохранения XLTM в виде файлов XLSB в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLTM в формате XLSB" gistPath="" %}}

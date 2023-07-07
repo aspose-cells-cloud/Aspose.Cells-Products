@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als HTML API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im ODS-Format als Datei im Format HTML zu speichern.
 url: /de/swift/saveas/ods-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/saveas/ods-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei unter dem Namen HTML in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus ODS als HTML ist eine komplexe Aufgabe. Alle ODS-Formatübergänge in das HTML-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Online-Speichern von ODS-Dateien im Format HTML. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
+Das Speichern von Dateiformaten aus ODS als HTML ist eine komplexe Aufgabe. Alle ODS-Formatübergänge in das HTML-Format werden von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-ODS-Tabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung, um ODS als HTML-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und eine perfekte HTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von ODS im HTML-Format" gistPath="" %}}

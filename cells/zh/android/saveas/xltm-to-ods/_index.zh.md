@@ -1,5 +1,5 @@
 ﻿---
-title: 将 XLTM 另存为 Android 版 ODS API
+title: 将 XLTM 保存为适用于 Android 的 ODS API
 description: 使用Aspose.Cells Cloud SDK for Android将XLTM格式文件保存为ODS格式文件。
 url: /zh/android/saveas/xltm-to-ods/
 ---

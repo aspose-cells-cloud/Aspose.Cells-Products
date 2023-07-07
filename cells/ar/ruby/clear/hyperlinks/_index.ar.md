@@ -10,7 +10,7 @@ url: /ar/ruby/clear/hyperlinks/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الارتباطات التشعبية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الارتباطات التشعبية الموجودة في جدول بيانات OpenOffice Calc المحلي Microsoft Microsoft و OpenOffice Calc مهمة معقدة. مسح الارتباطات التشعبية على Excel Microsoft المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول بيانات OpenOffice Calc بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لمسح الارتباطات التشعبية الموجودة على جدول بيانات Excel Microsoft المحلي وجداول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية و API مثاليًا.
+يعد مسح الارتباطات التشعبية الموجودة في جدول بيانات OpenOffice Calc المحلي Microsoft Microsoft و OpenOffice Calc مهمة معقدة. مسح الارتباطات التشعبية على Microsoft Excel و OpenOffice Calc المحلي يتم تنفيذ انتقالات جداول بيانات OpenOffice Calc بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لمسح الارتباطات التشعبية الموجودة على جدول بيانات Excel Microsoft المحلي وجداول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="كود روبي لمسح الارتباطات التشعبية في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-Clear-Hyperlink.rb" %}}

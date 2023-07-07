@@ -235,7 +235,7 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
      <a href="https://dashboard.aspose.cloud/#/apps">
  Bulut için Aspose
      </a>
- ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarıyla, REST API'lerini destekleyen herhangi bir platformda Aspose.Cells Cloud SDK for Swift'i kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı size e-tablo oluşturmanız, düzenlemeniz ve dönüştürmeniz için gereken tüm özellikleri sağlar. Ayrıca, daha fazla işleme veya depolama için elektronik tablolardan veri çıkarmanıza olanak tanır.
+ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anahtarıyla, REST API'lerini destekleyen herhangi bir platformda Aspose.Cells Cloud SDK for Swift'i kullanmaya hazırsınız. Aspose.Cells Swift için Bulut SDK'sı size e-tablo oluşturmanız, düzenlemeniz ve dönüştürmeniz için gereken tüm özellikleri sağlar. Ayrıca, daha fazla işleme veya depolama için elektronik tablolardan veri çıkarmanıza olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,7 +243,7 @@ Pivot Tablo ile büyük ListObject veya Tablo verilerini özetleyin
  Çalışma Kitaplarını İşleme via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Swift için Bulut SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine dışa aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını belirleme, akıllı işaretçi kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için parola uygulama.
+ Aspose.Cells Swift için Bulut SDK, metin oluşturmanıza, bölmenize, birleştirmenize, aramanıza ve değiştirmenize, parola korumasına, desteklenen dosya biçimine dışa aktarmanıza, çalışma kitabının metin öğelerini okumanıza, gizli öğeleri yok sayarak çalışma kitabı satırlarını otomatik sığdırmanıza, çalışma kitabı parolasını şifrelemenize ve şifreleme anahtarı sağlamanıza olanak tanır uzunluk, çalışma kitabına veri aktarma, çalışma kitabındaki tüm formülleri hesaplama, hassas strateji vb. sağlayarak formül hesaplama ayarlarını belirleme, akıllı işaretçi kullanma, çalışma kitabını istek içeriğinden başka bir formata dönüştürme, içerik değişikliğine izin vermek için parola uygulama.
     </p>
    </div>
    <div class="col-lg-12">
@@ -286,7 +286,7 @@ Aspose.Cells Swift için Cloud SDK, aralık adına veya satır sütun dizinlerin
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Swift için Aspose.Cells Bulut SDK?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Swift için Aspose.Cells Bulut SDK\'sı?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Güvenlik" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}

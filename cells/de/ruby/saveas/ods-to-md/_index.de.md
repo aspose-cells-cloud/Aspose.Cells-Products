@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als MD API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern einer ODS-Formatdatei als MD-Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Ruby, um die ODS-Formatdatei als MD-Formatdatei zu speichern.
 url: /de/ruby/saveas/ods-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

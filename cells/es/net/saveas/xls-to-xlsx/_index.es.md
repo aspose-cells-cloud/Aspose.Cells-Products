@@ -1,5 +1,5 @@
 ﻿---
-title: Guardar XLS como XLSX API para C#
+title: Guarde XLS como XLSX API para C#
 description:  Usando Aspose.Cells Cloud SDK para C# para guardar el archivo de formato XLS como archivo de formato XLSX.
 url: /es/net/saveas/xls-to-xlsx/
 ---

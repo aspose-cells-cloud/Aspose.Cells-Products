@@ -1,5 +1,5 @@
 ﻿---
-title:  TSV zu MD Konvertieren API für NodeJS
+title:  TSV in MD konvertieren API für NodeJS
 description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im TSV-Format in eine Datei im MD-Format.
 url: /de/nodejs/conversion/tsv-to-md/
 ---

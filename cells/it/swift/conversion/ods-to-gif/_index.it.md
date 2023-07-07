@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da ODS a GIF API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato ODS in un file in formato GIF.
 url: /it/swift/conversion/ods-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  HTML in PNG Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im Format HTML in eine Datei im Format PNG zu konvertieren.
 url: /de/swift/conversion/html-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

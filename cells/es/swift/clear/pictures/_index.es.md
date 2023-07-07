@@ -4,7 +4,7 @@ description: API y SDK en la nube para borrar imágenes en Microsoft Excel y Ope
 url: /es/swift/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" h2="Swift Clear para borrar imágenes en la hoja de cálculo local Microsoft Excel y OpenOffice Calc" p="Use Cells Borrar REST API para borrar imágenes en flujos de trabajo de hoja de cálculo locales Microsoft Excel y OpenOffice Calc en Swift. Esta solución profesional borra imágenes en el Microsoft Excel local y la hoja de cálculo de OpenOffice Calc usando Swift." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Imágenes claras en el Microsoft local Excel y en la hoja de cálculo OpenOffice Calc - Swift REST API" >}}

@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren ein
 url: /de/java/conversion/mhtml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um MHTML in EMF zu konvertieren" h2="Java-Bibliothek zum Konvertieren von MHTML in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um MHTML in EMF und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/mhtml-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von MHTML in EMF" h2="Java-Bibliothek zum Konvertieren von MHTML in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um MHTML in EMF und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/mhtml-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in EMF in Java" >}}

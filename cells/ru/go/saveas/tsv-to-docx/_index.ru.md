@@ -10,7 +10,7 @@ url: /ru/go/saveas/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как DOCX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения TSV в виде файлов DOCX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
+Сохранение форматов файлов из TSV в виде DOCX — сложная задача. Все переходы формата TSV в формат DOCX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для сохранения TSV в виде файлов DOCX онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения TSV в формате DOCX" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM till DIF Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+title: XLTM till DIF Konvertera API för Swift
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLTM-format till fil i DIF-format.
 url: /sv/swift/conversion/xltm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

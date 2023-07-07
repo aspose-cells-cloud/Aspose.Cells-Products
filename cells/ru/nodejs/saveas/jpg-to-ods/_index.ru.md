@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/jpg-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JPG как ODS в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JPG в виде ODS — сложная задача. Все переходы между форматами JPG и ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для сохранения JPG в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из JPG в виде ODS — сложная задача. Все переходы из формата JPG в формат ODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для сохранения JPG в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения JPG в формате ODS" gistPath="" %}}

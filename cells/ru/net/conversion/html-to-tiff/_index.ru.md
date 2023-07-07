@@ -10,7 +10,7 @@ url: /ru/net/conversion/html-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в TIFF в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в TIFF — сложная задача. Все переходы форматов с HTML на TIFF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в TIFF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
+Преобразование форматов файлов из HTML в TIFF — сложная задача. Все переходы форматов с HTML на TIFF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов HTML в TIFF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования формата HTML в формат TIFF" gistPath="" %}}

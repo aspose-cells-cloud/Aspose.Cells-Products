@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 url: /ar/android/saveas/emf-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ EMF كـ PDF" h2="مكتبة Android لحفظ EMF كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ EMF كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/emf-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ EMF كـ PDF" h2="مكتبة Android لحفظ EMF كـ PDF" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ EMF كـ PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/emf-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف EMF بالشكل PDF في Android" >}}

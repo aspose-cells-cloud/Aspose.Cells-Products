@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/ods-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف ODS إلى TSV في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من ODS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات ODS إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من ODS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات ODS إلى TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل ODS إلى تنسيق TSV" gistPath="" %}}

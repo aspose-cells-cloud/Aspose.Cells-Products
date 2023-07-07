@@ -7,7 +7,7 @@ url: /ru/go/saveas/html-to-emf/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить HTML как EMF." h2="Перейти в библиотеку, чтобы сохранить HTML как EMF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения HTML как EMF и других форматов документов в Интернете с помощью Go." urlsection="saveas/html-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как EMF в Go." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как EMF в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов с HTML как EMF — сложная задача. Все переходы форматов с HTML на EMF выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека Go — это профессиональное решение для сохранения файлов HTML как EMF онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод EMF.

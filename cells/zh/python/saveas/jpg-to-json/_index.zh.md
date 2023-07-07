@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Python将JPG格式文件保存为J
 url: /zh/python/saveas/jpg-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 JPG 保存为 JSON" h2="Python 将 JPG 保存为 JSON 的库" p="使用 Cells SaveAs REST API 在 Python 中创建自定义电子表格工作流程。这是使用 Python 在线将 JPG 保存为 JSON 和其他文档格式的专业解决方案。" urlsection="saveas/jpg-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 JPG 保存为 JSON" h2="Python 将 JPG 保存为 JSON 的库" p="使用Cells SaveAs REST API在Python中创建自定义电子表格工作流程。这是使用Python在线将JPG保存为JSON和其他文档格式的专业解决方案。" urlsection="saveas/jpg-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 JPG 文件另存为 Python 中的 JSON" >}}

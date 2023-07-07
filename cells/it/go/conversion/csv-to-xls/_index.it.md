@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da CSV a XLS API per Go
+title:  Conversione da CSV a XLS API per andare
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato CSV in un file in formato XLS.
 url: /it/go/conversion/csv-to-xls/
 ---

@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/conversion/csv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в XLSB" h2="C# библиотека для преобразования CSV в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации CSV в XLSB и других форматов документов по телефону C#." urlsection="conversion/csv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования CSV в XLSB" h2="C# библиотека для преобразования CSV в XLSB" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации CSV в XLSB и другие форматы документов по телефону C#." urlsection="conversion/csv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в XLSB в C#" >}}

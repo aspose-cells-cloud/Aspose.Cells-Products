@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
 url: /ru/ruby/saveas/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как XLS" h2="Библиотека Ruby для сохранения XLTM как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как XLS и других форматов документов онлайн с использованием Ruby." urlsection="saveas/xltm-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLTM как XLS" h2="Библиотека Ruby для сохранения XLTM как XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLTM как XLS и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xltm-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как XLS в Ruby" >}}

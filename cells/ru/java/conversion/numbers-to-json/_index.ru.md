@@ -10,7 +10,7 @@ url: /ru/java/conversion/numbers-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в JSON в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в JSON — сложная задача. Все переходы NUMBERS в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
+Преобразование форматов файлов из NUMBERS в JSON — сложная задача. Все преобразования формата NUMBERS в формат JSON выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в JSON. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат JSON" gistPath="" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ XLTX API لـ C#
+title:  احفظ الأرقام كـ XLTX API مقابل C#
 description: استخدام Aspose.Cells Cloud SDK لـ C# لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLTX.
 url: /ar/net/saveas/numbers-to-xltx/
 ---

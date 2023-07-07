@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel &
 url: /ar/go/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Go. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Go." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="اذهب API لمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="اذهب مسح لمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول بيانات Go. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Go." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Go REST API" >}}

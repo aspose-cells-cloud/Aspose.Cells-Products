@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xltx-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTX как TXT в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTX в TXT — сложная задача. Все переходы формата XLTX в TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLTX в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
+Сохранение форматов файлов из XLTX в TXT — сложная задача. Все переходы форматов XLTX в TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLTX в формате TXT онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTX в формате TXT" gistPath="" %}}

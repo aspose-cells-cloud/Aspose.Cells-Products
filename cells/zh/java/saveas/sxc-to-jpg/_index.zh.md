@@ -7,7 +7,7 @@ url: /zh/java/saveas/sxc-to-jpg/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Java API 将SXC另存为JPG" h2="Java 将 SXC 保存为 JPG 的库" p="使用 Cells SaveAs REST API 在 Java 中创建自定义电子表格工作流程。这是使用 Java 在线将 SXC 保存为 JPG 和其他文档格式的专业解决方案。" urlsection="saveas/sxc-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Java 中将 SXC 文件另存为 JPG" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 SXC 文件另存为 JPG Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 SXC 文件格式另存为 JPG 是一项复杂的任务。所有 SXC 到 JPG 格式的转换均由我们的 Java SDK 执行，同时保留源 SXC 电子表格的主要结构和逻辑内容。我们的 Java 库是在线将 SXC 保存为 JPG 文件的专业解决方案。该Cloud SDK为Java开发者提供了强大的功能和完美的JPG输出。

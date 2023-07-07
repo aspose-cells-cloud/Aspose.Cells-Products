@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xml-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в XLTM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в XLTM — сложная задача. Все переходы формата XML в формат XLTM выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
+Преобразование форматов файлов из XML в XLTM — сложная задача. Все переходы между форматами XML и XLTM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XML в XLTM. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XML в формат XLTM" gistPath="" %}}

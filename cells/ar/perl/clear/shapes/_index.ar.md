@@ -10,7 +10,7 @@ url: /ar/perl/clear/shapes/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Perl REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الأشكال على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبتنا Perl هي حل احترافي لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية و API مثاليًا.
+يعد مسح الأشكال على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Perl حلاً احترافيًا لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Perl كود لمسح الأشكال في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/f82a3a00251e34ff8766116282c8c9ca.js?file=Example-Clear-Shape.pl" %}}

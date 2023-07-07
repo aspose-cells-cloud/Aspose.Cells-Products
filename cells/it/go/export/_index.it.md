@@ -1,10 +1,10 @@
 ﻿---
-title:  Esporta con Go
-description: Aspose.Cells Cloud REST API supporta l'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati con Go. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Esporta utilizzando Vai
+description: Aspose.Cells Cloud REST API supporta l'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati utilizzando Go. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/go/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta con Go" h2="Aspose.Cells Cloud SDK supporta l\'esportazione di cartelle di lavoro e oggetti interni in oltre 30 formati di file." p="Aspose.Cells Cloud REST API supporta l\'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati con Go. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta utilizzando Vai" h2="Aspose.Cells Cloud SDK supporta l\'esportazione di cartelle di lavoro e oggetti interni in oltre 30 formati di file." p="Aspose.Cells Cloud REST API supporta l\'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati utilizzando Go. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /it/go/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Esporta con link Go Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Esporta utilizzando i link Go Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

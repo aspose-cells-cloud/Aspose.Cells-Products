@@ -1,16 +1,16 @@
 ﻿---
-title:  Yerel e-tabloyu Bulutta şifreyle şifreleyin
-description:  Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffice Calc. Yerel elektronik tabloları Cells Cloud API ile parola ile şifreleyin. SDK, geliştirme dillerini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Bulutta Swift ile yerel e-tabloyu şifreyle şifreleyin
+description:  Microsoft Excel ve OpenOffice Calc ile Swift'i Korumak için Bulut API'leri ve SDK'lar. Swift için Cells Cloud API SDK ile yerel e-tabloları şifreyle şifreleyin.
 url: /tr/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için Swift kitaplığı" p="Swift\'de parola iş akışlarıyla yerel Microsoft Excel ve OpenOffice Calc hesap tablosunu korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan şifrelerle Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosunu parola ile korumak için Swift kitaplığı" p="Swift\'de parola iş akışlarıyla yerel Microsoft Excel ve OpenOffice Calc hesap tablosunu korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan şifrelerle Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunu parola ile koruyun - Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel bir e-tabloyu parola geçişleriyle koruma, kaynak e-tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, yerel elektronik tabloları çevrimiçi bir parolayla korumak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
+Yerel bir e-tabloyu parolayla korumak karmaşık bir iştir. Yerel elektronik tabloyu parola geçişleriyle koruma, kaynak elektronik tablonun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, yerel elektronik tabloları çevrimiçi bir parolayla korumak için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel API sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Yerel elektronik tabloları şifrelemek için REST API kullanan Swift kod örneği" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Protect.swift" %}}

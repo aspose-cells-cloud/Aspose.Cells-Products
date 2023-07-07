@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/xlsm-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSM dosyasını Ruby\'de MHTML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSM'den MHTML olarak kaydetmek karmaşık bir görevdir. Tüm XLSM'den MHTML formatına geçişler, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLSM'yi çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
+Dosya biçimlerini XLSM'den MHTML olarak kaydetmek karmaşık bir görevdir. Tüm XLSM'den MHTML'ye biçim geçişleri, kaynak XLSM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLSM'yi çevrimiçi MHTML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel MHTML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de XLSM\'yi MHTML formatı olarak kaydetmek için REST API kullanan kod örneği" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als XLSX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als XLSX-Formatdatei zu speichern.
 url: /de/swift/saveas/bmp-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP'den GIF'e Dönüştürme API for Swift
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: BMP'den GIF'e Dönüştürme API for Swift
+description:  BMP biçimindeki dosyayı GIF biçimindeki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/bmp-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

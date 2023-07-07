@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить TSV как JPG API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата TSV в виде файла формата JPG.
 url: /ru/swift/saveas/tsv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

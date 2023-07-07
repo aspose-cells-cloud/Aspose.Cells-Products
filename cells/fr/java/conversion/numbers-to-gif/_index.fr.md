@@ -13,7 +13,7 @@ url: /fr/java/conversion/numbers-to-gif/
 La conversion des formats de fichiers de NUMBERS en GIF est une tâche complexe. Toutes les transitions de format NUMBERS vers GIF sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Java est une solution professionnelle pour convertir des NUMBERS en fichiers GIF en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie GIF parfaite.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour convertir NUMBERS au format GIF" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour convertir les NUMBERS au format GIF" gistPath="" %}}
  
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/

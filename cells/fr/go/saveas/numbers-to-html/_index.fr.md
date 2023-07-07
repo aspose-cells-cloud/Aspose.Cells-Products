@@ -10,7 +10,7 @@ url: /fr/go/saveas/numbers-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS sous le nom HTML dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme HTML est une tâche complexe. Toutes les transitions de format NUMBERS vers HTML sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers NUMBERS sous la forme HTML en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie HTML parfaite.
+L'enregistrement des formats de fichiers à partir de NUMBERS sous la forme HTML est une tâche complexe. Toutes les transitions de format NUMBERS vers HTML sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour enregistrer des fichiers NUMBERS en tant que HTML en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie HTML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer NUMBERS au format HTML" gistPath="" %}}

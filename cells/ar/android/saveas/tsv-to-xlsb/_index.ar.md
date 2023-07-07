@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TSV كـ XLSB API لنظام Android
-description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف بتنسيق TSV كملف بتنسيق XLSB.
+description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ ملف تنسيق TSV كملف بتنسيق XLSB.
 url: /ar/android/saveas/tsv-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

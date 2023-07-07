@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in BMP Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLTX-Formatdatei in eine Datei im BMP-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im XLTX-Format in eine Datei im Format BMP zu konvertieren.
 url: /de/net/conversion/xltx-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /it/android/conversion/mhtml-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file MHTML in XLS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da MHTML a XLS è un compito complesso. Tutte le transizioni dal formato MHTML al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo MHTML di origine. La nostra libreria Android è una soluzione professionale per convertire file MHTML in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLS.
+La conversione dei formati di file da MHTML a XLS è un compito complesso. Tutte le transizioni dal formato MHTML al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo MHTML di origine. La nostra libreria Android è una soluzione professionale per convertire file MHTML in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output XLS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire MHTML in formato XLS" gistPath="" %}}

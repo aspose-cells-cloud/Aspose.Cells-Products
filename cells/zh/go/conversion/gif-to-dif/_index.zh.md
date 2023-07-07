@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Go将GIF格式文件转换为DIF�
 url: /zh/go/conversion/gif-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="去 API 将GIF转换为DIF" h2="Go库将GIF转换为DIF" p="使用 Cells Conversion REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 GIF 转换为 DIF 等文档格式的专业解决方案。" urlsection="conversion/gif-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="去API将GIF转换为DIF" h2="Go库将GIF转换为DIF" p="使用 Cells Conversion REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 GIF 转换为 DIF 等文档格式的专业解决方案。" urlsection="conversion/gif-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 GIF 文件转换为 DIF" >}}

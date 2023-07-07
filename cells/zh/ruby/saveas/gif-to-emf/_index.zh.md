@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Ruby将GIF格式文件保存为EMF
 url: /zh/ruby/saveas/gif-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 GIF 保存为 EMF" h2="将 GIF 保存为 EMF 的 Ruby 库" p="使用 Cells SaveAs REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 GIF 保存为 EMF 等文档格式的专业解决方案。" urlsection="saveas/gif-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 GIF 保存为 EMF" h2="将 GIF 保存为 EMF 的 Ruby 库" p="使用 Cells SaveAs REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用Ruby在线将GIF保存为EMF和其他文档格式的专业解决方案。" urlsection="saveas/gif-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 GIF 文件另存为 EMF" >}}

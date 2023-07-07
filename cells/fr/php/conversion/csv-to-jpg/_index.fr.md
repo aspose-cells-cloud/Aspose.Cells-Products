@@ -4,7 +4,7 @@ description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier
 url: /fr/php/conversion/csv-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir CSV en JPG" h2="PHP bibliothèque pour convertir CSV en JPG" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir CSV en JPG et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/csv-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir CSV en JPG" h2="PHP bibliothèque pour convertir CSV en JPG" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir CSV en JPG et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/csv-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en JPG en PHP" >}}

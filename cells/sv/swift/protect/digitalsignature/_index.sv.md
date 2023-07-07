@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc di
 url: /sv/swift/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Swift-bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i Swift. Denna professionella lösning digitala signaturmoln Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord och digital signaturfil med Swift." urlsection="protect/digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" h2="Swift-bibliotek till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digital signaturfil" p="Använd Cells Digital signatur REST API till digitalt signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord och digitala signaturfilarbetsflöden i Swift. Denna professionella lösning digitala signaturmoln Microsoft Excel och OpenOffice Calc kalkylblad online med lösenord och digital signaturfil med Swift." urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Digital signaturmoln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord - Swift REST API" >}}

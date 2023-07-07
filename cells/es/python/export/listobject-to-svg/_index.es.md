@@ -13,7 +13,7 @@ url: /es/python/export/listobject-to-svg/
 Exportar el objeto LISTOBJECT al archivo SVG desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato SVG se realiza mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Python es una solución profesional para exportar objetos LISTOBJECT a archivos de formato SVG en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y un resultado SVG perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para exportar LISTOBJECT al formato SVG desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para exportar LISTOBJECT al formato SVG desde la hoja de cálculo" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/

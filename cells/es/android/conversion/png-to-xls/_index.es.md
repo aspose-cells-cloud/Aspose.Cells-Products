@@ -10,7 +10,7 @@ url: /es/android/conversion/png-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo PNG a XLS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de PNG a XLS es una tarea compleja. Todas las transiciones de formato PNG a XLS se realizan mediante nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca de Android es una solución profesional para convertir PNG a archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
+Convertir formatos de archivo de PNG a XLS es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato PNG a XLS mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente PNG. Nuestra biblioteca de Android es una solución profesional para convertir PNG a archivos XLS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XLS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir PNG a formato XLS" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XML إلى DOCX - تحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description: استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق XML إلى ملف بتنسيق DOCX.
 url: /ar/swift/conversion/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى DOCX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل XML إلى ملفات DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
+يعد تحويل تنسيقات الملفات من XML إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى DOCX بواسطة Swift SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. مكتبة Swift الخاصة بنا هي حل احترافي لتحويل XML إلى ملفات DOCX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل XML إلى تنسيق DOCX" gistPath="" %}}

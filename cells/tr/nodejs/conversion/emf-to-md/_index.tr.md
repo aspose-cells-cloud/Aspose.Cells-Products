@@ -13,7 +13,7 @@ url: /tr/nodejs/conversion/emf-to-md/
 Dosya formatlarını EMF'den MD'ye dönüştürmek karmaşık bir iştir. Tüm EMF'den MD biçimine geçişler, kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, EMF'i çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i MD formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="EMF\'i MD biçimine dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

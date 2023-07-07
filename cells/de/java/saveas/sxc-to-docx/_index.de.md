@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als DOCX API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer SXC-Formatdatei als DOCX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern von SXC-Formatdateien als DOCX-Formatdateien.
 url: /de/java/saveas/sxc-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

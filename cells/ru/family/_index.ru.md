@@ -39,7 +39,7 @@ Python REST SDK для доступа к облачным Excel листам и 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Node.js" imgSrc="/sdk/aspose_cells-for-node.svg" productLink="/cells/nodejs/" >}}
-Легко интегрируйте функции обработки электронных таблиц Microsoft Excel и OpenOffice в ваши облачные приложения Node.js via REST API.
+Легко интегрируйте Microsoft Excel и функции обработки электронных таблиц OpenOffice в ваши облачные приложения Node.js via REST API.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Облачный SDK для Perl" imgSrc="/sdk/aspose_cells-for-perl.svg" productLink="/cells/perl/" >}}

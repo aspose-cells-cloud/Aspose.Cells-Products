@@ -10,7 +10,7 @@ url: /it/go/export/picture-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto IMMAGINE in un file in formato JPG in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto IMMAGINE in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da PICTURE a formato JPG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo PICTURE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti IMMAGINE in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
+Esportare l'oggetto IMMAGINE in un file JPG dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da IMMAGINE a formato JPG viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo IMMAGINE di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti IMMAGINE in file in formato JPG online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output JPG perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per esportare IMMAGINE in formato JPG dal foglio di calcolo" gistPath="" %}}

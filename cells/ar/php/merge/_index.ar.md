@@ -1,10 +1,10 @@
 ﻿---
-title:  ادمج مع PHP
-description: Aspose.Cells Cloud REST API يدعم دمج ملفات Excel متعددة في ملف Excel مع PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  ادمج باستخدام PHP
+description: Aspose.Cells Cloud REST API يدعم دمج ملفات Excel متعددة في ملف Excel باستخدام PHP. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/php/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="ادمج مع PHP" h2="Aspose.Cells Cloud SDK يدعم دمج ملفات Excel متعددة في ملف Excel .." p="Aspose.Cells Cloud REST API يدعم دمج ملفات Excel متعددة في ملف Excel مع PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="ادمج باستخدام PHP" h2="Aspose.Cells Cloud SDK يدعم دمج ملفات Excel متعددة في ملف Excel .." p="Aspose.Cells Cloud REST API يدعم دمج ملفات Excel متعددة في ملف Excel باستخدام PHP. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ar/php/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="الدمج مع PHP وصلات الامتداد" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="الدمج باستخدام PHP وصلات الامتداد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

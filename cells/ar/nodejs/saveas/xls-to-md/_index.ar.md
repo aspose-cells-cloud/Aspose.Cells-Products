@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ XLS كـ MD API لـ NodeJS
+title:  احفظ XLS باسم MD API لـ NodeJS
 description: استخدام Aspose.Cells Cloud SDK لـ NodeJS لحفظ ملف بتنسيق XLS كملف بتنسيق MD.
 url: /ar/nodejs/saveas/xls-to-md/
 ---

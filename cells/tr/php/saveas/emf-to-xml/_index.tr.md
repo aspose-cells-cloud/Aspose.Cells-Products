@@ -10,7 +10,7 @@ url: /tr/php/saveas/emf-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="EMF dosyasını PHP\'de XML olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya biçimlerini XML olarak kaydetmek karmaşık bir görevdir. Tüm EMF'den XML formatına geçişler, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
+EMF'den dosya biçimlerini XML olarak kaydetmek karmaşık bir iştir. Tüm EMF'den XML formatına geçişler, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi XML dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XML formatı olarak kaydetmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}

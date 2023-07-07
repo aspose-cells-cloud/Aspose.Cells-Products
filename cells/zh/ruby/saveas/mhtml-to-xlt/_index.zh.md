@@ -10,7 +10,7 @@ url: /zh/ruby/saveas/mhtml-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 MHTML 文件另存为 XLT" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 MHTML 文件格式保存为 XLT 是一项复杂的任务。所有 MHTML 到 XLT 格式的转换均由我们的 Ruby SDK 执行，同时保留源 MHTML 电子表格的主要结构和逻辑内容。我们的 Ruby 库是在线将 MHTML 保存为 XLT 文件的专业解决方案。该 Cloud SDK 为 Ruby 开发人员提供了强大的功能和完美的 XLT 输出。
+将 MHTML 文件格式保存为 XLT 是一项复杂的任务。所有 MHTML 到 XLT 格式的转换均由我们的 Ruby SDK 执行，同时保留源 MHTML 电子表格的主要结构和逻辑内容。我们的 Ruby 库是将 MHTML 在线保存为 XLT 文件的专业解决方案。该 Cloud SDK 为 Ruby 开发人员提供了强大的功能和完美的 XLT 输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby 中使用 REST API 将 MHTML 保存为 XLT 格式的代码示例" gistPath="" %}}

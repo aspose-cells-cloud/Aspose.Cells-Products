@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1}
 url: /zh/net/export/listobject-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 LISTOBJECT 导出到 JPG 文件" h2="C# 将 LISTOBJECT 导出到 JPG 文件的库" p="使用 Cells Export REST API 导出 Net 中的电子表格内部对象工作流程。这是使用 C# 在线电子表格将 LISTOBJECT 导出为 JPG 格式文件的专业解决方案。" urlsection="export/listobject-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 LISTOBJECT 导出到 JPG 文件" h2="C# 将 LISTOBJECT 导出为 JPG 文件的库" p="使用 Cells Export REST API 导出 Net 中的电子表格内部对象工作流程。这是使用 C# 在线电子表格将 LISTOBJECT 导出为 JPG 格式文件的专业解决方案。" urlsection="export/listobject-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 LISTOBJECT 对象导出为 C# 中的 JPG 格式文件" >}}

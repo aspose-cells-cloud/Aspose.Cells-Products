@@ -7,7 +7,7 @@ url: /fr/android/saveas/xml-to-csv/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XML au format CSV" h2="Bibliothèque Android pour enregistrer XML au format CSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XML au format CSV et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xml-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format CSV dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format CSV sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers XML au format CSV est une tâche complexe. Toutes les transitions de format XML vers CSV sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers XML sous forme de fichiers CSV en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie CSV parfaite.

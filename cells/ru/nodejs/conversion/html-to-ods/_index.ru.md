@@ -35,7 +35,7 @@ url: /ru/nodejs/conversion/html-to-ods/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать узел API для преобразования HTML в ODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Node API для преобразования HTML в ODS" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод CellsWorkbookPutConvertWorkbook, чтобы получить результирующий поток</li>

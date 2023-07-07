@@ -4,7 +4,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上内容的云 AP
 url: /zh/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的内容。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容。" urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的内容。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容。" urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的内容 - Swift REST API" >}}

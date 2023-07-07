@@ -7,7 +7,7 @@ url: /fr/go/conversion/numbers-to-xltx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir les NUMBERS en XLTX" h2="Aller à la bibliothèque pour convertir des NUMBERS en XLTX" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir des NUMBERS en XLTX et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/numbers-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en XLTX en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en XLTX dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers de NUMBERS en XLTX est une tâche complexe. Toutes les transitions de format NUMBERS vers XLTX sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers NUMBERS en XLTX en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTX parfaite.

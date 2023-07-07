@@ -1,5 +1,5 @@
 ﻿---
-title:  Enregistrer XML sous XLSB API for Java
+title:  Enregistrer XML au format XLSB API for Java
 description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le fichier au format XML en tant que fichier au format XLSB.
 url: /fr/java/saveas/xml-to-xlsb/
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als PPTX API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der XML-Formatdatei als PPTX-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XML-Formatdatei als PPTX-Formatdatei.
 url: /de/java/saveas/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

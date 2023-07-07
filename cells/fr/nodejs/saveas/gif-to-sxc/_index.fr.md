@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/gif-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier GIF au format SXC dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de GIF en tant que SXC est une tâche complexe. Toutes les transitions de format GIF vers SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
+L'enregistrement de formats de fichiers à partir de GIF en tant que SXC est une tâche complexe. Toutes les transitions de format GIF à SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul GIF source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers GIF en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer GIF au format SXC" gistPath="" %}}

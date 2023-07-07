@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для NodeJS д
 url: /ru/nodejs/conversion/xlsx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSX в SVG" h2="Библиотека NodeJS для преобразования XLSX в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSX в SVG и другие форматы документов онлайн с помощью NodeJS." urlsection="conversion/xlsx-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLSX в SVG" h2="Библиотека NodeJS для преобразования XLSX в SVG" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для преобразования XLSX в SVG и другие форматы документов онлайн с использованием NodeJS." urlsection="conversion/xlsx-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в SVG в NodeJS" >}}

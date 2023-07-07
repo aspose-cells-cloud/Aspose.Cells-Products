@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als MHTML API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im EMF-Format als MHTML-Formatdatei zu speichern.
 url: /de/swift/saveas/emf-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

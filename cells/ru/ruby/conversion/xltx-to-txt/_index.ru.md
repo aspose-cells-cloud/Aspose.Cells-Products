@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xltx-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в TXT в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в TXT — сложная задача. Все переходы формата XLTX в TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в TXT. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
+Преобразование форматов файлов из XLTX в TXT — сложная задача. Все переходы форматов XLTX в TXT выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в TXT. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TXT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования формата XLTX в формат TXT" gistPath="" %}}

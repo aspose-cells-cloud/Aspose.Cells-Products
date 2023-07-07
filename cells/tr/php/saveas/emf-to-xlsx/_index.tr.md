@@ -10,7 +10,7 @@ url: /tr/php/saveas/emf-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını PHP\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-EMF'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+EMF'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XLSX formatı olarak kaydetmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}

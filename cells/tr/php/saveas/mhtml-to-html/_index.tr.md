@@ -1,5 +1,5 @@
 ﻿---
-title:  PHP için MHTML'yi HTML API olarak kaydedin
+title:  MHTML'yi PHP için HTML API olarak kaydedin
 description:  MHTML biçim dosyasını HTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-html/
 ---

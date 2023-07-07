@@ -1,5 +1,5 @@
 ﻿---
-title:  PNG in XLSM Konvertieren Sie API in for Java
+title:  PNG in XLSM konvertieren API for Java
 description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren einer Datei im Format PNG in eine Datei im XLSM-Format.
 url: /de/java/conversion/png-to-xlsm/
 ---

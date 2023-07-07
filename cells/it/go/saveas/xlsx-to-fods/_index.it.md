@@ -31,7 +31,7 @@ Il salvataggio dei formati di file da XLSX come FODS è un compito complesso. Tu
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Go API per salvare XLSX come FODS" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come usare Go API per salvare XLSX come FODS" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiamare il metodo CellsSaveAsPostDocumentSaveAs per ottenere il flusso risultante</li>

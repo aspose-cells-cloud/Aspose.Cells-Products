@@ -4,7 +4,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren e
 url: /de/perl/conversion/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von XLTX in MHTML" h2="Perl-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLTX online mit Perl in MHTML und andere Dokumentformate zu konvertieren." urlsection="conversion/xltx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Konvertieren von XLTX in MHTML" h2="Perl-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in MHTML und andere Dokumentformate mit Perl." urlsection="conversion/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in MHTML in Perl" >}}

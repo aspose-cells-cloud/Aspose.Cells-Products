@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi EMF API olarak kaydedin
+title:  MHTML'yi Perl için EMF API olarak kaydedin
 description:  MHTML biçim dosyasını EMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-emf/
 ---

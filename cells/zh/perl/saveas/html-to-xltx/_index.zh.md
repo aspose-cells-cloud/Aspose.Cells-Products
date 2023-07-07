@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Perl将HTML格式文件保存为XL
 url: /zh/perl/saveas/html-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API 将 HTML 保存为 XLTX" h2="Perl库将HTML保存为XLTX" p="使用Cells SaveAs REST API在Perl中创建自定义电子表格工作流程。这是使用Perl在线将HTML保存为XLTX和其他文档格式的专业解决方案。" urlsection="saveas/html-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API 将 HTML 保存为 XLTX" h2="Perl库将HTML保存为XLTX" p="使用 Cells SaveAs REST API 在 Perl 中创建自定义电子表格工作流程。这是使用 Perl 在线将 HTML 保存为 XLTX 和其他文档格式的专业解决方案。" urlsection="saveas/html-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 HTML 文件另存为 Perl 中的 XLTX" >}}

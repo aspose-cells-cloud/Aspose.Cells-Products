@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xlsx-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в XLSM в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в XLSM — сложная задача. Все переходы между форматами XLSX и XLSM выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в XLSM. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLSM.
+Преобразование форматов файлов из XLSX в XLSM — сложная задача. Все переходы между форматами XLSX и XLSM выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в XLSM. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLSX в формат XLSM" gistPath="" %}}

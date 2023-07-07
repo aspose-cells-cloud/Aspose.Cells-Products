@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP 到 DOCX 转换 API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将BMP格式文件转换为DOCX格式文件。
 url: /zh/swift/conversion/bmp-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: 将XLSX另存为PPTX API for Java
+title: 将 XLSX 保存为 PPTX API for Java
 description: 使用Aspose.Cells Cloud SDK for Java将XLSX格式文件另存为PPTX格式文件。
 url: /zh/java/saveas/xlsx-to-pptx/
 ---

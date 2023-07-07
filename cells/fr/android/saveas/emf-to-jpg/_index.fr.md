@@ -10,7 +10,7 @@ url: /fr/android/saveas/emf-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier EMF au format JPG sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de EMF en tant que JPG est une tâche complexe. Toutes les transitions du format EMF vers le format JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque Android est une solution professionnelle pour enregistrer EMF sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
+L'enregistrement des formats de fichiers à partir de EMF en tant que JPG est une tâche complexe. Toutes les transitions du format EMF au format JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source EMF. Notre bibliothèque Android est une solution professionnelle pour enregistrer EMF sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer EMF au format JPG" gistPath="" %}}

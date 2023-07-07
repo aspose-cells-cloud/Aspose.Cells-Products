@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um Dateien im XL
 url: /de/net/saveas/xlt-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLT als JPG zu speichern" h2="C#-Bibliothek zum Speichern von XLT als JPG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLT als JPG und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xlt-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLT als JPG zu speichern" h2="C#-Bibliothek zum Speichern von XLT als JPG" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLT als JPG und anderen Dokumentformaten unter C#." urlsection="saveas/xlt-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLT-Datei als JPG unter C#" >}}

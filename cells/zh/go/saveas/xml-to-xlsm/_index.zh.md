@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Go将XML格式文件保存为XLSM�
 url: /zh/go/saveas/xml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="去API将XML另存为XLSM" h2="Go 库将 XML 保存为 XLSM" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用Go在线将XML保存为XLSM和其他文档格式的专业解决方案。" urlsection="saveas/xml-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="去API将XML另存为XLSM" h2="Go 库将 XML 保存为 XLSM" p="使用 Cells SaveAs REST API 在 Go 中创建自定义电子表格工作流程。这是使用 Go 在线将 XML 保存为 XLSM 和其他文档格式的专业解决方案。" urlsection="saveas/xml-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Go 中将 XML 文件保存为 XLSM" >}}

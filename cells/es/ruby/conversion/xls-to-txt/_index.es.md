@@ -10,7 +10,7 @@ url: /es/ruby/conversion/xls-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLS a TXT en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de XLS a TXT es una tarea compleja. Todas las transiciones de formato XLS a TXT se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLS a TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida TXT perfecta.
+Convertir formatos de archivo de XLS a TXT es una tarea compleja. Todas las transiciones de formato XLS a TXT son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLS de origen. Nuestra biblioteca Ruby es una solución profesional para convertir archivos XLS a TXT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida TXT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir formato XLS a TXT" gistPath="" %}}

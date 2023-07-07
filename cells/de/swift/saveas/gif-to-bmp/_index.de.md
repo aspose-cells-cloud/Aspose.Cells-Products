@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als BMP API für Swift speichern
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im GIF-Format als Datei im Format BMP zu speichern.
 url: /de/swift/saveas/gif-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

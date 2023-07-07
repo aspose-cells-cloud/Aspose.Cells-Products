@@ -10,7 +10,7 @@ url: /es/ruby/conversion/emf-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo EMF a SQL en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de EMF a SQL es una tarea compleja. Todas las transiciones de formato EMF a SQL las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca Ruby es una solución profesional para convertir EMF a archivos SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida SQL perfecta.
+Convertir formatos de archivo de EMF a SQL es una tarea compleja. Todas las transiciones de formato EMF a SQL las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo EMF de origen. Nuestra biblioteca Ruby es una solución profesional para convertir EMF a archivos SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida SQL perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para convertir EMF a formato SQL" gistPath="" %}}

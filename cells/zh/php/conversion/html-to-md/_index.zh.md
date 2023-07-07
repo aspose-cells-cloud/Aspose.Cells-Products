@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for PHP将HTML格式文件转换为MD�
 url: /zh/php/conversion/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 HTML 转换为MD" h2="PHP库将HTML转换为MD" p="使用Cells转换REST API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将HTML转换为MD和其他文档格式的专业解决方案。" urlsection="conversion/html-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 HTML 转换为 MD" h2="PHP库将HTML转换为MD" p="使用Cells转换REST API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将HTML转换为MD和其他文档格式的专业解决方案。" urlsection="conversion/html-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将HTML文件转换为PHP中的MD" >}}

@@ -10,7 +10,7 @@ url: /ru/go/conversion/xlsb-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XLSX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в XLSX — сложная задача. Все переходы между форматами XLSB и XLSX выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в XLSX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSX.
+Преобразование форматов файлов из XLSB в XLSX — сложная задача. Все переходы между форматами XLSB и XLSX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLSB в XLSX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLSB в формат XLSX" gistPath="" %}}

@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for PHP将XLTM格式文件保存为TXT
 url: /zh/php/saveas/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将XLTM另存为TXT" h2="PHP 库将 XLTM 保存为 TXT" p="使用 Cells SaveAs REST API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 XLTM 保存为 TXT 和其他文档格式的专业解决方案。" urlsection="saveas/xltm-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将XLTM另存为TXT" h2="PHP 库将 XLTM 保存为 TXT" p="使用Cells SaveAs REST API在PHP中创建自定义电子表格工作流程。这是使用PHP在线将XLTM保存为TXT和其他文档格式的专业解决方案。" urlsection="saveas/xltm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 XLTM 文件另存为 PHP 中的 TXT" >}}

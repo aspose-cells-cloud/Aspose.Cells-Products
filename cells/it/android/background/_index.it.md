@@ -1,14 +1,14 @@
 ﻿---
-title:  Imposta lo sfondo con Android
-description: Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel con Android. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Imposta lo sfondo usando Android
+description: Aspose.Cells Cloud REST API supporta l'impostazione dello sfondo per il file Excel utilizzando Android. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/android/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Imposta lo sfondo con Android" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel con Android. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Imposta lo sfondo usando Android" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta l\'impostazione dello sfondo per il file Excel utilizzando Android. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Imposta lo sfondo con i link dell\'estensione Android" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Imposta lo sfondo utilizzando i link dell\'estensione Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -10,7 +10,7 @@ url: /ru/java/saveas/numbers-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как TIFF в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как TIFF — сложная задача. Все преобразования форматов NUMBERS в TIFF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов TIFF онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
+Сохранение форматов файлов из NUMBERS как TIFF — сложная задача. Все преобразования форматов NUMBERS в TIFF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для сохранения NUMBERS в виде файлов TIFF онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения NUMBERS в формате TIFF" gistPath="" %}}

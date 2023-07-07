@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK for Java para convertir un archivo d
 url: /es/java/conversion/xlsb-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir XLSB a JPG" h2="Java biblioteca para convertir XLSB a JPG" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir XLSB a JPG y otros formatos de documentos en línea usando Java." urlsection="conversion/xlsb-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir XLSB a JPG" h2="Java biblioteca para convertir XLSB a JPG" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir XLSB a JPG y otros formatos de documentos en línea usando Java." urlsection="conversion/xlsb-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo XLSB a JPG en Java" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTX als XLSX API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die XLTX-Formatdatei als XLSX-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um die Datei im XLTX-Format als Datei im XLSX-Format zu speichern.
 url: /de/go/saveas/xltx-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

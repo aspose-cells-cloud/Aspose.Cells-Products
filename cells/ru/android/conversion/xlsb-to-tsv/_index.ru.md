@@ -7,7 +7,7 @@ url: /ru/android/conversion/xlsb-to-tsv/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLSB в TSV" h2="Библиотека Android для преобразования XLSB в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLSB в TSV и другие форматы документов онлайн с помощью Android." urlsection="conversion/xlsb-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в TSV на Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в TSV в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLSB в TSV — сложная задача. Все переходы между форматами XLSB и TSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSB в TSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод TSV.

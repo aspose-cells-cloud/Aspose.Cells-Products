@@ -1,14 +1,14 @@
 ﻿---
-title:  Establecer fondo con NodeJS
-description: Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel con NodeJS. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Establecer fondo usando NodeJS
+description: Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel mediante NodeJS. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/nodejs/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Establecer fondo con NodeJS" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel con NodeJS. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Establecer fondo usando NodeJS" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel mediante NodeJS. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Establecer fondo con enlaces de extensión de NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Establecer fondo usando enlaces de extensión NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

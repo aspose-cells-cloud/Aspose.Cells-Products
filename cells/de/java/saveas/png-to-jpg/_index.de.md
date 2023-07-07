@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie PNG als JPG API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format PNG als Datei im JPG-Format zu speichern.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine Datei im Format PNG als JPG-Formatdatei zu speichern.
 url: /de/java/saveas/png-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

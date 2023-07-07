@@ -10,7 +10,7 @@ url: /ru/java/conversion/numbers-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в SQL в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации NUMBERS в файлы SQL. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из NUMBERS в SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации NUMBERS в файлы SQL. Этот Cloud SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат SQL" gistPath="" %}}

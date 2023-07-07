@@ -10,7 +10,7 @@ url: /zh/nodejs/saveas/gif-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 NodeJS 中将 GIF 文件另存为 PPTX" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-将 GIF 文件格式另存为 PPTX 是一项复杂的任务。所有 GIF 到 PPTX 格式的转换均由我们的 NodeJS SDK 执行，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 GIF 保存为 PPTX 文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的PPTX输出。
+将 GIF 文件格式另存为 PPTX 是一项复杂的任务。所有 GIF 到 PPTX 格式的转换均由我们的 NodeJS SDK 执行，同时保留源 GIF 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是将 GIF 在线保存为 PPTX 文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的PPTX输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS 中使用 REST API 将 GIF 保存为 PPTX 格式的代码示例" gistPath="" %}}

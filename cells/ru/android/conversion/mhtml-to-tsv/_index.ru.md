@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Android �
 url: /ru/android/conversion/mhtml-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования MHTML в TSV" h2="Библиотека Android для преобразования MHTML в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования MHTML в TSV и другие форматы документов онлайн с помощью Android." urlsection="conversion/mhtml-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования MHTML в TSV" h2="Библиотека Android для преобразования MHTML в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для онлайн-конвертации MHTML в TSV и другие форматы документов с помощью Android." urlsection="conversion/mhtml-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в TSV в Android" >}}

@@ -10,7 +10,7 @@ url: /ar/ruby/saveas/txt-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TXT بتنسيق XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من TXT كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ ملفات TXT كملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد حفظ تنسيقات الملفات من TXT كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق TXT إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات TXT المصدر. تعد مكتبة Ruby الخاصة بنا حلاً احترافيًا لحفظ ملفات TXT كملفات XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ TXT بتنسيق XLTM" gistPath="" %}}

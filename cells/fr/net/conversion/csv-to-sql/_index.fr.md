@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV en SQL Convertir API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format CSV en fichier au format SQL.
+description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format CSV en fichier au format SQL.
 url: /fr/net/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

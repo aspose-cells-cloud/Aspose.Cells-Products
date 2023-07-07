@@ -10,7 +10,7 @@ url: /ru/go/saveas/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSM в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения MHTML в формате XLSM" gistPath="" %}}

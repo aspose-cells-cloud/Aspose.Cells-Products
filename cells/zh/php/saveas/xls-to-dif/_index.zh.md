@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for PHP将XLS格式文件保存为DIF�
 url: /zh/php/saveas/xls-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 XLS 保存为 DIF" h2="PHP 库将 XLS 保存为 DIF" p="使用 Cells SaveAs REST API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 XLS 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API 将 XLS 保存为 DIF" h2="PHP 将 XLS 保存为 DIF 的库" p="使用 Cells SaveAs REST API 在 PHP 中创建自定义电子表格工作流程。这是使用 PHP 在线将 XLS 保存为 DIF 和其他文档格式的专业解决方案。" urlsection="saveas/xls-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 PHP 中将 XLS 文件另存为 DIF" >}}

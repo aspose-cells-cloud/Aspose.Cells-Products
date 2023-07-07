@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/ods-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS в формате GIF в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в формате GIF — сложная задача. Все переходы форматов ODS в GIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод GIF.
+Сохранение форматов файлов из ODS в формате GIF — сложная задача. Все переходы форматов ODS в GIF выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в формате GIF онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения ODS в формате GIF" gistPath="" %}}

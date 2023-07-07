@@ -1,5 +1,5 @@
 ﻿---
-title:  PHP için MHTML'yi TIFF API olarak kaydedin
+title:  MHTML'yi PHP için TIFF API olarak kaydedin
 description:  MHTML biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-tiff/
 ---

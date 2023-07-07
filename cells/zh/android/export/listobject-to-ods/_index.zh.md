@@ -1,5 +1,5 @@
 ﻿---
-title: 使用 Android 将 LISTOBJECT 从电子表格导出到 ODS API
+title: 使用 Android API 将电子表格中的 LISTOBJECT 导出到 ODS
 description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1} 格式文件。
 url: /zh/android/export/listobject-to-ods/
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title:  Converti da XLSX a FODS API per NodeJS
-description:  Utilizzo di Aspose.Cells Cloud SDK for NodeJS per convertire il file in formato XLSX in un file in formato FODS.
+description:  Utilizzo di Aspose.Cells Cloud SDK per NodeJS per convertire il file in formato XLSX in un file in formato FODS.
 url: /it/nodejs/conversion/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

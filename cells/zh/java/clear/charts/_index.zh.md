@@ -13,7 +13,7 @@ url: /zh/java/clear/charts/
 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图表是一项复杂的任务。清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格转换上的图表由我们的 Java SDK 执行，同时保留源电子表格的主要结构和逻辑内容。我们的 Java 库是一个专业的解决方案，用于清除本地 Microsoft Excel 和 OpenOffice Calc 在线电子表格上的图表。此Cloud SDK为Java开发者提供了强大的功能和完善的API。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Java 清除本地电子表格上图表的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Clear-Chart.java" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java 清除本地电子表格上的图表的代码" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Example-Clear-Chart.java" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/bmp-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تحويل ملف BMP إلى JSON في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى JSON بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل BMP إلى ملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من BMP إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى JSON بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل BMP إلى تنسيق JSON" gistPath="" %}}

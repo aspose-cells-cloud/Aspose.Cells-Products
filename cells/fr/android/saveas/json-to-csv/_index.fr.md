@@ -7,7 +7,7 @@ url: /fr/android/saveas/json-to-csv/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer JSON au format CSV" h2="Bibliothèque Android pour enregistrer JSON au format CSV" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer JSON au format CSV et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/json-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON au format CSV dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON au format CSV sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de JSON au format CSV est une tâche complexe. Toutes les transitions de format JSON vers CSV sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Android est une solution professionnelle pour enregistrer des fichiers JSON sous forme de fichiers CSV en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie CSV parfaite.

@@ -4,7 +4,7 @@ description: JSON biçim dosyasını SQL biçim dosyasına dönüştürmek için
 url: /tr/android/conversion/json-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u SQL\'e dönüştürmek için Android API" h2="JSON\'u SQL\'e dönüştürmek için Android kitaplığı" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JSON\'u Android kullanarak çevrimiçi olarak SQL\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="JSON\'u SQL\'e dönüştürmek için Android API" h2="JSON\'u SQL\'e dönüştürmek için Android kütüphanesi" p="Android\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, JSON\'u Android kullanarak çevrimiçi olarak SQL\'e ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/json-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir JSON dosyasını SQL\'e dönüştürün" >}}

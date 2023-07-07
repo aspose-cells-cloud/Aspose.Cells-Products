@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLSB en WMF API pour Android
-description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLSB en fichier au format WMF.
+description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLSB en fichier au format WMF.
 url: /fr/android/conversion/xlsb-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

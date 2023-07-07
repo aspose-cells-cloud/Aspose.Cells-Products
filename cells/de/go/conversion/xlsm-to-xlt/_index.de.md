@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM in XLT konvertieren API für Go
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine XLSM-Formatdatei in eine XLT-Formatdatei zu konvertieren.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im XLSM-Format in eine Datei im XLT-Format zu konvertieren.
 url: /de/go/conversion/xlsm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

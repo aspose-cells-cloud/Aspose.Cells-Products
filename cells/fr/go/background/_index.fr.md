@@ -1,14 +1,14 @@
 ﻿---
-title:  Définir l'arrière-plan avec Go
-description: Aspose.Cells Cloud REST API prend en charge l'arrière-plan défini pour le fichier Excel avec Go. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Définir l'arrière-plan à l'aide de Go
+description: Aspose.Cells Cloud REST API prend en charge l'arrière-plan défini pour le fichier Excel à l'aide de Go. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/go/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir l\'arrière-plan avec Go" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge l\'arrière-plan défini pour le fichier Excel avec Go. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Définir l\'arrière-plan à l\'aide de Go" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge l\'arrière-plan défini pour le fichier Excel à l\'aide de Go. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Définir l\'arrière-plan avec les liens d\'extension Go" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Définir l\'arrière-plan à l\'aide des liens Go Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

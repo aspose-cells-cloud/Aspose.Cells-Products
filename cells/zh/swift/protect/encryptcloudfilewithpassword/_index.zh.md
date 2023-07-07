@@ -4,7 +4,7 @@ description: 用于保护的云 API 和 SDK Microsoft Excel 和 OpenOffice Calc�
 url: /zh/swift/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API，用于保护云 Microsoft Excel 和带密码的 OpenOffice Calc 电子表格" h2="用于保护云 Microsoft Excel 和 OpenOffice Calc 电子表格（带密码）的 Swift 库" p="使用 Cells Protect REST API 保护云 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Swift 中的密码工作流程。这个专业的解决方案使用 Swift 通过密码在线保护云 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API，用于保护云 Microsoft Excel 和带密码的 OpenOffice Calc 电子表格" h2="用于保护云 Microsoft Excel 和 OpenOffice Calc 电子表格（带密码）的 Swift 库" p="使用 Cells Protect REST API 保护云 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Swift 中的密码工作流程。这个专业的解决方案使用 Swift 使用密码在线保护云 Microsoft Excel 和 OpenOffice Calc 电子表格。" urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用密码保护云 Microsoft Excel 和 OpenOffice Calc 电子表格 - Swift REST API" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Löschen Sie doppelte Zeilen in der lokalen Arbeitsmappe in der Cloud
-description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen auf Microsoft Excel und OpenOffice Calc. Löschen Sie doppelte Zeilen in lokalen Tabellenkalkulationen mit der Cells Cloud API. Das SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title: Löschen Sie doppelte Zeilen in der lokalen Arbeitsmappe mit Swift in Cloud
+description:  Cloud-APIs und SDKs zum Löschen doppelter Zeilen auf Microsoft Excel und OpenOffice Calc mit Swift. Löschen Sie doppelte Zeilen in lokalen Tabellenkalkulationen mit dem Cells Cloud API SDK für Swift
 url: /de/swift/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen doppelter Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen doppelter Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um doppelte Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht doppelte Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen doppelter Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen doppelter Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um doppelte Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht doppelte Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie doppelte Zeilen in der lokalen Microsoft Excel und der OpenOffice Calc-Tabelle – Swift REST API" >}}

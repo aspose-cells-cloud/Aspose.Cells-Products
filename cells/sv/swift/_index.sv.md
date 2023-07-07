@@ -13,7 +13,7 @@ url: /sv/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK för Swift hjälper programmerare att sömlöst integrera Microsoft Excel & OpenOffice kalkylbladsvy och bearbetningsfunktioner i deras molnbaserade applikationer utvecklade i Swift. Aspose.Cells Cloud SDK för Swift är licensierad under MIT.</p>
-<p>Aspose.Cells Cloud SDK för Swift gör att dina Swift-appar kan hämta kalkylblad, kalkylblad och arbetsböcker lagrade i molnet samt skapa nya kalkylblad. Du kan också justera din Swift-kod för att bearbeta och modifiera villkorlig formatering, diagram, uppgifter, former, filter, OleObjects, ranges, ListObjects och pivottabeller, inifrån dina applikationer utan att installera någon programvara från tredje part.</p>
+<p>Aspose.Cells Cloud SDK för Swift gör att dina Swift-appar kan hämta kalkylblad, kalkylblad och arbetsböcker lagrade i molnet samt skapa nya kalkylblad. Du kan också justera din Swift-kod för att bearbeta och ändra villkorlig formatering, diagram, uppgifter, former, filter, OleObjects, ranges, ListObjects och pivottabeller, inifrån dina applikationer utan att installera någon programvara från tredje part.</p>
 <p>Använd Aspose.Cells Cloud SDK för Swift för att konvertera Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) & OpenOffice (ODS) kalkylblad till andra populära format, som XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited) ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF & Markdown (MD). Du kan också arbeta med SXC- och FODS-formaten med Aspose.Cells Cloud SDK för Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -235,7 +235,7 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose för Cloud
      </a>
- och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
+och få din ansökningsinformation. När du har appens SID &amp; nyckel är du redo att använda Aspose.Cells Cloud SDK för Swift på vilken plattform som helst som stöder REST API:er. Aspose.Cells Cloud SDK för Swift ger dig alla funktioner för att skapa, redigera och konvertera kalkylblad. Det låter dig också extrahera data från kalkylbladen för vidare bearbetning eller lagring.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,7 +243,7 @@ Sammanfatta data för stora ListObject eller tabell med pivottabell
  Bearbetar arbetsböcker via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK för Swift låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
+ Aspose.Cells Cloud SDK för Swift låter dig skapa, dela, slå samman, söka och ersätta text, lösenordsskydd, exportera till filformat som stöds, läsa arbetsbokens textobjekt, automatiskt anpassa arbetsboksrader samtidigt som du ignorerar dolda element, kryptera arbetsbokens lösenord och tillhandahålla krypteringsnyckel längd, importera data till arbetsboken, beräkna alla formler i arbetsboken, ange inställningar för formelberäkning genom att tillhandahålla precisionsstrategi etc., använd smart markör, konvertera arbetsboken från begäran om innehåll till ett annat format, använd lösenord för att tillåta innehållsändring.
     </p>
    </div>
    <div class="col-lg-12">

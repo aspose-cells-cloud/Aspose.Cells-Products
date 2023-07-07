@@ -1,6 +1,6 @@
 ﻿---
 title: 将 XLSM 保存为 SXC API 以用于 Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用Aspose.Cells Cloud SDK for Swift将XLSM格式文件保存为SXC格式文件。
 url: /zh/swift/saveas/xlsm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

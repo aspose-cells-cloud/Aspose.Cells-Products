@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in PNG Konvertieren Sie API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLTX-Formatdatei in eine Datei im PNG-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um eine Datei im XLTX-Format in eine Datei im Format PNG zu konvertieren.
 url: /de/perl/conversion/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

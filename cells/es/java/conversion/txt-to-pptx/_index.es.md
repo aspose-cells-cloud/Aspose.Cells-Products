@@ -7,7 +7,7 @@ url: /es/java/conversion/txt-to-pptx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Java API para convertir TXT a PPTX" h2="Java biblioteca para convertir TXT a PPTX" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Java. Esta es una solución profesional para convertir TXT a PPTX y otros formatos de documentos en línea usando Java." urlsection="conversion/txt-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo TXT a PPTX en Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo TXT a PPTX en Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de TXT a PPTX es una tarea compleja. Todas las transiciones de formato TXT a PPTX se realizan mediante nuestro SDK Java mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo TXT de origen. Nuestra biblioteca Java es una solución profesional para convertir archivos TXT a PPTX en línea. Este Cloud SDK ofrece a los desarrolladores de Java una potente funcionalidad y una salida PPTX perfecta.

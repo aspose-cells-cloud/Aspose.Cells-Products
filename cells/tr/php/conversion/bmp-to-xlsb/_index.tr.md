@@ -1,6 +1,6 @@
 ﻿---
-title:  BMP'den XLSB'ye Dönüştürme API, PHP için
-description:  BMP formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
+title:  BMP'den XLSB'ye Dönüştürme API için PHP
+description:  BMP biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

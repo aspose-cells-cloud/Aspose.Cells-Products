@@ -10,7 +10,7 @@ url: /ru/python/conversion/html-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл HTML в JPG в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в JPG — сложная задача. Все переходы HTML в формат JPG выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации HTML в файлы JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и отличный вывод в формате JPG.
+Преобразование форматов файлов из HTML в JPG — сложная задача. Все переходы HTML в формат JPG выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации HTML в файлы JPG. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования HTML в формат JPG" gistPath="" %}}

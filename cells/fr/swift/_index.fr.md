@@ -13,7 +13,7 @@ url: /fr/swift
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>Aspose.Cells Cloud SDK pour Swift aide les programmeurs à intégrer de manière transparente Microsoft Excel et les fonctionnalités d'affichage et de traitement des feuilles de calcul OpenOffice dans leurs applications basées sur le cloud développées dans Swift. Aspose.Cells Le SDK Cloud pour Swift est sous licence MIT.</p>
-<p>Aspose.Cells Cloud SDK pour Swift permet à vos applications Swift de récupérer des feuilles de calcul, des feuilles de calcul et des classeurs stockés dans le cloud ainsi que de générer une nouvelle feuille de calcul. Vous pouvez également modifier votre code Swift pour traiter et modifier la mise en forme conditionnelle, les graphiques, les tâches, les formes, les filtres, les OleObjects, les plages, les ListObjects et les tableaux croisés dynamiques, depuis vos applications sans installer de logiciel tiers.</p>
+<p>Aspose.Cells Cloud SDK pour Swift permet à vos applications Swift de récupérer des feuilles de calcul, des feuilles de calcul et des classeurs stockés dans le cloud, ainsi que de générer une nouvelle feuille de calcul. Vous pouvez également modifier votre code Swift pour traiter et modifier la mise en forme conditionnelle, les graphiques, les tâches, les formes, les filtres, les OleObjects, les plages, les ListObjects et les tableaux croisés dynamiques, depuis vos applications sans installer de logiciel tiers.</p>
 <p>Utilisez Aspose.Cells Cloud SDK pour Swift pour convertir les feuilles de calcul Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) et OpenOffice (ODS) vers d'autres formats populaires, tels que XML (SpreadsheetML), TSV, CSV, TXT (TabDelimited ), HTML, MHTML, DIF, TIFF, SVG, XPS, PDF et Markdown (MD). Vous pouvez également travailler avec les formats SXC et FODS à l'aide du SDK Cloud Aspose.Cells pour Swift.</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -235,7 +235,7 @@ Résumer les données d'un grand ListObject ou d'une table avec un tableau crois
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
- et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Swift vous offre toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells Cloud SDK pour Swift sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Swift vous offre toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,7 +243,7 @@ Résumer les données d'un grand ListObject ou d'une table avec un tableau crois
  Traitement des classeurs via SDK Cloud
     </h2>
     <p>
-Aspose.Cells Cloud SDK pour Swift vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protection par mot de passe, exportation vers un format de fichier pris en charge, lecture des éléments de texte du classeur, ajustement automatique des lignes du classeur tout en ignorant les éléments masqués, cryptage du mot de passe du classeur et fourniture de la clé de cryptage longueur, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
+ Aspose.Cells Cloud SDK pour Swift vous permet de créer, diviser, fusionner, rechercher et remplacer du texte, protection par mot de passe, exportation vers un format de fichier pris en charge, lecture des éléments de texte du classeur, ajustement automatique des lignes du classeur tout en ignorant les éléments masqués, cryptage du mot de passe du classeur et fourniture de la clé de cryptage longueur, importer des données dans le classeur, calculer toutes les formules dans le classeur, définir les paramètres de calcul de la formule en fournissant une stratégie de précision, etc., utiliser un marqueur intelligent, convertir le classeur du contenu de la demande dans un autre format, appliquer un mot de passe pour permettre la modification du contenu.
     </p>
    </div>
    <div class="col-lg-12">

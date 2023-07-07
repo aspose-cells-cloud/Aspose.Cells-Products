@@ -10,7 +10,7 @@ url: /ru/android/conversion/csv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в WMF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в WMF — сложная задача. Все переходы форматов CSV в WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов CSV в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате WMF.
+Преобразование форматов файлов из CSV в WMF — сложная задача. Все переходы форматов CSV в WMF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов CSV в WMF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования CSV в формат WMF" gistPath="" %}}

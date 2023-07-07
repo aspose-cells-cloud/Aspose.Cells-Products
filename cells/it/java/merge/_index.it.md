@@ -1,10 +1,10 @@
 ﻿---
-title:  Unisciti a Java
-description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel con Java. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Unisci usando Java
+description: Aspose.Cells Cloud REST API supporta l'unione di più file Excel in un file Excel utilizzando Java. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/java/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisciti a Java" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel con Java. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Unisci usando Java" h2="Aspose.Cells Cloud SDK supporta l\'unione di più file Excel in un file Excel.." p="Aspose.Cells Cloud REST API supporta l\'unione di più file Excel in un file Excel utilizzando Java. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /it/java/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Unisci con i collegamenti di estensione Java" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Unisci utilizzando i collegamenti di estensione Java" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

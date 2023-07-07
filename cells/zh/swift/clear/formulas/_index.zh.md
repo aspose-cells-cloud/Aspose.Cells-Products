@@ -4,7 +4,7 @@ description: 用于在 Microsoft Excel 和 OpenOffice Calc 上清除公式的云
 url: /zh/swift/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的公式。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式。" urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的公式。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式。" urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的公式 - Swift REST API" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLT au format GIF API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLT en tant que fichier au format GIF.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLT en tant que fichier au format GIF.
 url: /fr/net/saveas/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

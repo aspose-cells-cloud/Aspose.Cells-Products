@@ -10,7 +10,7 @@ url: /de/go/conversion/xlsm-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLSM-Datei in Go in BMP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von XLSM in BMP ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das BMP-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM in BMP-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte BMP-Ausgabe.
+Das Konvertieren von Dateiformaten von XLSM in BMP ist eine komplexe Aufgabe. Alle XLSM-Formatübergänge in das BMP-Format werden von unserem Go SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLSM-Quelltabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung zum Online-Konvertieren von XLSM-Dateien in BMP-Dateien. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und eine perfekte BMP-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Konvertieren von XLSM in das Format BMP" gistPath="" %}}

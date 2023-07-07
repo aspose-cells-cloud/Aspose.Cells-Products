@@ -10,7 +10,7 @@ url: /tr/android/export/workbook-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="WORKBOOK nesnesini Android\'de WMF formatındaki dosyaya aktarın" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-ÇALIŞMA KİTABI nesnesini elektronik tablodan WMF dosyasına aktarma karmaşık bir görevdir. ÇALIŞMA KİTABI'nı WMF formatına aktarma geçişleri, kaynak ÇALIŞMA KİTABI elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak WMF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
+ÇALIŞMA KİTABI nesnesini elektronik tablodan WMF dosyasına aktarma karmaşık bir görevdir. ÇALIŞMA KİTABI'nı WMF biçimine aktarma geçişleri, kaynak ÇALIŞMA KİTABI elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, ÇALIŞMA KİTABI nesnelerini çevrimiçi olarak WMF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ÇALIŞMA KİTABI\'nı e-tablodan WMF formatına dışa aktarmak için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

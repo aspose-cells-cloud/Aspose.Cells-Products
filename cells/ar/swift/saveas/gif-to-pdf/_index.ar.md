@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ GIF باسم PDF API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق GIF كملف بتنسيق PDF.
 url: /ar/swift/saveas/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

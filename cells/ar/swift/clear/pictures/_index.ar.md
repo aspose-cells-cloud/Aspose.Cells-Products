@@ -1,10 +1,10 @@
 ﻿---
 title:  امسح الصور على المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الصور على Microsoft Excel & OpenOffice Calc. امسح الصور على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمحو الصور على Microsoft Excel & OpenOffice Calc. امسح الصور على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي صورًا واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الصور على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الصور في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي صورًا واضحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصور على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Swift REST API" >}}

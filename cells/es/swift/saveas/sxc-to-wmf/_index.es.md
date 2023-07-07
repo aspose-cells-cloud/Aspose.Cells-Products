@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar SXC como WMF API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato SXC como archivo de formato WMF.
 url: /es/swift/saveas/sxc-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /es/swift/saveas/sxc-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guardar un archivo SXC como WMF en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de SXC como WMF es una tarea compleja. Todas las transiciones de formato SXC a WMF son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para guardar SXC como archivos WMF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida WMF perfecta.
+Guardar formatos de archivo de SXC como WMF es una tarea compleja. Todas las transiciones de formato SXC a WMF las realiza nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo SXC de origen. Nuestra biblioteca Swift es una solución profesional para guardar SXC como archivos WMF en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida WMF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Swift usando REST API para guardar SXC como formato WMF" gistPath="" %}}

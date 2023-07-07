@@ -4,7 +4,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的数据透视
 url: /zh/swift/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 上的数据透视表和 Swift 中的 OpenOffice Calc 电子表格工作流程。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表。" urlsection="clear/pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" h2="Swift Clear 可清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 上的数据透视表和 Swift 中的 OpenOffice Calc 电子表格工作流程。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表。" urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的数据透视表 - Swift REST API" >}}

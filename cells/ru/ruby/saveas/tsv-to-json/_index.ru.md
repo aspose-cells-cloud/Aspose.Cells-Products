@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/tsv-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как JSON в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде JSON — сложная задача. Все переходы TSV в формат JSON выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из TSV в виде JSON — сложная задача. Все переходы TSV в формат JSON выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в виде файлов JSON в Интернете. Этот Cloud SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для сохранения TSV в формате JSON" gistPath="" %}}

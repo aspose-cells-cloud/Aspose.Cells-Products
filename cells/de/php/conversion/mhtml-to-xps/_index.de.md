@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um eine MHTML-F
 url: /de/php/conversion/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, um MHTML in XPS zu konvertieren" h2="PHP-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um MHTML in XPS und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/mhtml-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von MHTML in XPS" h2="PHP-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um MHTML in XPS und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/mhtml-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in XPS in PHP" >}}

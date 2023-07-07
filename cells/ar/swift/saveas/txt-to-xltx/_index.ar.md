@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT كـ XLTX API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق TXT كملف بتنسيق XLTX.
 url: /ar/swift/saveas/txt-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

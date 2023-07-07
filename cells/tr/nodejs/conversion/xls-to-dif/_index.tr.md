@@ -10,7 +10,7 @@ url: /tr/nodejs/conversion/xls-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS\'de bir XLS dosyasını DIF\'e dönüştürme" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den DIF'e biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
+Dosya formatlarını XLS'den DIF'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den DIF'e biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLS'yi çevrimiçi olarak DIF dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel DIF çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi DIF formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

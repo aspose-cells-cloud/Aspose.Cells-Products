@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK para PHP para convertir un archivo d
 url: /es/php/conversion/xlsm-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSM a MHTML" h2="PHP biblioteca para convertir XLSM a MHTML" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSM a MHTML y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsm-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API para convertir XLSM a MHTML" h2="PHP biblioteca para convertir XLSM a MHTML" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en PHP. Esta es una solución profesional para convertir XLSM a MHTML y otros formatos de documentos en línea usando PHP." urlsection="conversion/xlsm-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSM a MHTML en PHP" >}}

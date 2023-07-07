@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Ruby将GIF格式文件保存为PDF
 url: /zh/ruby/saveas/gif-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 GIF 保存为 PDF" h2="将 GIF 保存为 PDF 的 Ruby 库" p="使用 Cells SaveAs REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 GIF 保存为 PDF 等文档格式的专业解决方案。" urlsection="saveas/gif-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 GIF 保存为 PDF" h2="将 GIF 保存为 PDF 的 Ruby 库" p="使用 Cells SaveAs REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用Ruby在线将GIF保存为PDF和其他文档格式的专业解决方案。" urlsection="saveas/gif-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 GIF 文件另存为 PDF" >}}

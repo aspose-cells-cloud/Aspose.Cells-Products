@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/sxc-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования SXC в TSV" h2="Python библиотека для преобразования SXC в TSV" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации SXC в TSV и другие форматы документов с использованием Python." urlsection="conversion/sxc-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования SXC в TSV" h2="Python библиотека для преобразования SXC в TSV" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации SXC в TSV и другие форматы документов с использованием Python." urlsection="conversion/sxc-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла SXC в TSV в Python" >}}

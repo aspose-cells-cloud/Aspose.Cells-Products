@@ -1,6 +1,6 @@
 ﻿---
 title:  Guarde XLT como SXC API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato XLT como archivo de formato SXC.
 url: /es/swift/saveas/xlt-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

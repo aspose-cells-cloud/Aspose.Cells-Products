@@ -234,7 +234,7 @@ Pour démarrer avec Aspose.Cells Cloud SDK for Node.js, vous n'avez rien à inst
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose pour le Cloud
      </a>
- et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser le SDK Cloud Aspose.Cells pour Node.js sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Node.js vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
+ et obtenez les informations de votre candidature. Une fois que vous avez l'App SID &amp; clé, vous êtes prêt à utiliser Aspose.Cells SDK Cloud pour Node.js sur n'importe quelle plate-forme prenant en charge les API REST. Aspose.Cells Le SDK Cloud pour Node.js vous fournit toutes les fonctionnalités pour créer, modifier et convertir des feuilles de calcul. Il vous permet également d'extraire des données des feuilles de calcul pour un traitement ou un stockage ultérieur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -258,7 +258,7 @@ SDK Cloud pour traiter les feuilles de calcul
  Tirez parti de la puissance des tableaux croisés dynamiques &amp; Gammes
     </h2>
     <p>
- Aspose.Cells Le SDK Cloud pour Node.js vous permet d'ajouter un tableau croisé dynamique dans la feuille de calcul, d'ajouter ou de supprimer des champs croisés dynamiques dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule pour le tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules. .
+ Aspose.Cells Le SDK Cloud pour Node.js vous permet d'ajouter un tableau croisé dynamique dans la feuille de calcul, d'ajouter ou de supprimer des champs croisés dynamiques dans le tableau croisé dynamique, d'ajouter ou de supprimer un filtre croisé dynamique pour l'index du tableau croisé dynamique, de mettre à jour le style de cellule du tableau croisé dynamique et de calculer les données du tableau croisé dynamique dans les cellules. .
     </p>
     <p>
 Aspose.Cells Le SDK Cloud pour Node.js peut également être utilisé pour obtenir une liste de cellules dans une plage par nom de plage ou index de colonne de ligne, définir la largeur de colonne de la plage, combiner une plage de cellules en une seule cellule, déplacer la plage actuelle vers la plage de destination , définit la bordure de contour autour d'une plage de cellules., définit la hauteur de ligne de la plage, définit le style de la plage, dissocie les cellules fusionnées de cette plage, met une valeur dans la plage et convertit son type de données, et copie la plage dans la feuille de calcul.

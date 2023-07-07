@@ -10,7 +10,7 @@ url: /ru/python/conversion/xlsb-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в SQL в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в SQL — сложная задача. Все переходы из формата XLSB в формат SQL выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в SQL. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Преобразование форматов файлов из XLSB в SQL — сложная задача. Все переходы из формата XLSB в формат SQL выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в SQL. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSB в формат SQL" gistPath="" %}}

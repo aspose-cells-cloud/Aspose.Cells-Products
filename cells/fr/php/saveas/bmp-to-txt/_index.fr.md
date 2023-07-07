@@ -7,7 +7,7 @@ url: /fr/php/saveas/bmp-to-txt/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer BMP en TXT" h2="Bibliothèque PHP pour enregistrer BMP au format TXT" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer BMP au format TXT et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/bmp-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP au format TXT dans PHP" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier BMP au format TXT dans PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers à partir de BMP en tant que TXT est une tâche complexe. Toutes les transitions du format BMP vers le format TXT sont effectuées par notre SDK PHP tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque PHP est une solution professionnelle pour enregistrer BMP sous forme de fichiers TXT en ligne. Ce SDK Cloud offre aux développeurs PHP des fonctionnalités puissantes et une sortie TXT parfaite.

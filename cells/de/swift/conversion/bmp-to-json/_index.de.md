@@ -1,6 +1,6 @@
 ﻿---
 title:  BMP in JSON Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer Datei im BMP-Format in eine JSON-Formatdatei.
 url: /de/swift/conversion/bmp-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

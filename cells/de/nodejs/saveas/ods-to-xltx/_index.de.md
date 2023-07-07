@@ -4,7 +4,7 @@ description: Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei 
 url: /de/nodejs/saveas/ods-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von ODS als XLTX" h2="NodeJS-Bibliothek zum Speichern von ODS als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um ODS als XLTX und andere Dokumentformate online mit NodeJS zu speichern." urlsection="saveas/ods-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Speichern von ODS als XLTX" h2="NodeJS-Bibliothek zum Speichern von ODS als XLTX" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von ODS als XLTX und anderen Dokumentformaten mit NodeJS." urlsection="saveas/ods-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine ODS-Datei als XLTX in NodeJS" >}}

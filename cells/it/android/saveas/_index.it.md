@@ -1,10 +1,10 @@
 ﻿---
-title:  Salva come con Android
-description: Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato con Android. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Salva come utilizzando Android
+description: Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato utilizzando Android. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/android/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva come con Android" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato con Android. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Salva come utilizzando Android" h2="Aspose.Cells Cloud SDK supporta il salvataggio delle cartelle di lavoro in altri formati. I formati di file supportati hanno più di 30+ formati di file." p="Aspose.Cells Cloud REST API supporta il salvataggio di file excel come tipi di file di formato utilizzando Android. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /it/android/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Salva con nome con i link dell\'estensione Android" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Salva con nome utilizzando i collegamenti dell\'estensione Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS in JPG Konvertieren Sie API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im NUMBERS-Format in eine JPG-Formatdatei zu konvertieren.
 url: /de/swift/conversion/numbers-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

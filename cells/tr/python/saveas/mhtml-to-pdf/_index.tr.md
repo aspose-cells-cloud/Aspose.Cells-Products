@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi PDF API olarak kaydedin
+title:  MHTML'yi Python için PDF API olarak kaydedin
 description:  MHTML biçim dosyasını PDF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-pdf/
 ---

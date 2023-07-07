@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le 
 url: /fr/net/saveas/sxc-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer SXC en XLTX" h2="Bibliothèque C# pour enregistrer SXC en XLTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format XLTX et d\'autres formats de documents en ligne à l\'aide du C#." urlsection="saveas/sxc-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API pour enregistrer SXC en XLTX" h2="Bibliothèque C# pour enregistrer SXC en XLTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Net. Il s\'agit d\'une solution professionnelle pour enregistrer SXC au format XLTX et d\'autres formats de documents en ligne en utilisant C#." urlsection="saveas/sxc-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier SXC sous XLTX dans C#" >}}

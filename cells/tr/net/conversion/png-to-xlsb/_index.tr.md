@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG'den XLSB'ye Dönüştürme API, C# için
-description:  PNG formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
+title:  PNG'den XLSB'ye Dönüştürme API için C#
+description:  PNG biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

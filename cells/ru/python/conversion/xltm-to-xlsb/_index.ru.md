@@ -10,7 +10,7 @@ url: /ru/python/conversion/xltm-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в XLSB в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в XLSB — сложная задача. Все переходы между форматами XLTM и XLSB выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTM в XLSB. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Преобразование форматов файлов из XLTM в XLSB — сложная задача. Все переходы от формата XLTM к формату XLSB выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTM в XLSB. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLTM в формат XLSB" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/python/conversion/xltx-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в DOCX по номеру Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в DOCX — сложная задача. Все переходы из формата XLTX в формат DOCX выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTX в DOCX. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLTX в DOCX — сложная задача. Все переходы из формата XLTX в формат DOCX выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLTX в DOCX. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLTX в формат DOCX" gistPath="" %}}

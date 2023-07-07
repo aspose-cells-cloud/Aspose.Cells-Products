@@ -10,7 +10,7 @@ url: /de/java/conversion/bmp-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine BMP-Datei in MD in Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle Übergänge vom BMP- zum MD-Format werden von unserem Java-SDK durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP online in MD-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
+Das Konvertieren von Dateiformaten von BMP in MD ist eine komplexe Aufgabe. Alle Übergänge vom Format BMP zum MD-Format werden von unserem SDK Java durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quelltabelle BMP erhalten bleibt. Unsere Java-Bibliothek ist eine professionelle Lösung, um BMP online in MD-Dateien zu konvertieren. Dieses Cloud SDK bietet Java Entwicklern leistungsstarke Funktionalität und perfekte MD-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Java mit REST API zur Konvertierung von BMP in das MD-Format" gistPath="" %}}

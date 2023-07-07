@@ -4,7 +4,7 @@ description: Koruma için Bulut API'leri ve SDK'lar Microsoft Excel ve OpenOffic
 url: /tr/swift/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için Swift API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulutu korumak için hızlı kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Swift\'de parola iş akışlarıyla bulut Microsoft Excel\'i ve OpenOffice Calc elektronik tablosunu korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan şifrelerle bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulutu korumak için Swift API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulutu korumak için hızlı kitaplık Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Swift\'de parola iş akışlarıyla bulut Microsoft Excel\'i ve OpenOffice Calc elektronik tablosunu korumak için Cells Protect REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan şifrelerle bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunu çevrimiçi olarak korur." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulutu koruyun Microsoft Excel ve OpenOffice Calc e-tablosunu şifreyle - Swift REST API" >}}

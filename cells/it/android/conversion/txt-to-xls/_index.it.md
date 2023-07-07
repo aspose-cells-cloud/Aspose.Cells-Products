@@ -10,7 +10,7 @@ url: /it/android/conversion/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file TXT in XLS in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da TXT a XLS è un'attività complessa. Tutte le transizioni dal formato TXT al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TXT di origine. La nostra libreria Android è una soluzione professionale per convertire file TXT in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLS.
+La conversione dei formati di file da TXT a XLS è un'attività complessa. Tutte le transizioni dal formato TXT al formato XLS vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo TXT di origine. La nostra libreria Android è una soluzione professionale per convertire file TXT in XLS online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output XLS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire TXT in formato XLS" gistPath="" %}}

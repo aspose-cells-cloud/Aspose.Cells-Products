@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/saveas/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения GIF в формате XLS" h2="Java библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения GIF в формате XLS и других форматов документов в Интернете с использованием Java." urlsection="saveas/gif-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения GIF в формате XLS" h2="Java библиотека для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения GIF в формате XLS и других форматах документов в Интернете с использованием Java." urlsection="saveas/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате XLS по номеру Java." >}}

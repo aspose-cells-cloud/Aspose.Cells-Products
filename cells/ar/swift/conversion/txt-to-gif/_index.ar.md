@@ -1,6 +1,6 @@
 ﻿---
 title:  TXT إلى GIF - تحويل API إلى Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق TXT إلى ملف بتنسيق GIF.
 url: /ar/swift/conversion/txt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

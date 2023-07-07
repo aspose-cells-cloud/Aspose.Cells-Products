@@ -10,7 +10,7 @@ url: /ru/net/conversion/bmp-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в XPS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов BMP в XPS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из BMP в XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов BMP в XPS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования формата BMP в формат XPS" gistPath="" %}}

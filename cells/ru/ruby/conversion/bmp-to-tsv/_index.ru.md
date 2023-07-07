@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/bmp-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в TSV в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в TSV — сложная задача. Все переходы формата BMP в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов BMP в TSV. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из BMP в TSV — сложная задача. Все переходы BMP в формат TSV выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов BMP в TSV. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования BMP в формат TSV" gistPath="" %}}

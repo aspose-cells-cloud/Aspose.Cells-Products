@@ -4,7 +4,7 @@ description:  Cloud-APIs und SDKs zum Löschen von Inhalten auf Microsoft Excel 
 url: /de/perl/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Löschen zum Löschen von Inhalten auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Perl zu löschen. Diese professionelle Lösung löscht Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows mit Perl." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Perl Löschen zum Löschen von Inhalten auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows in Perl zu löschen. Diese professionelle Lösung löscht Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellenkalkulations-Workflows mit Perl." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Perl REST API" >}}

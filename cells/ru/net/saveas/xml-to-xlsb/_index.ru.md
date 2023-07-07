@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/saveas/xml-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XML как XLSB" h2="C# библиотека для сохранения XML в формате XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в виде XLSB и других форматов документов в Интернете с использованием C#." urlsection="saveas/xml-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, чтобы сохранить XML как XLSB" h2="C# библиотека для сохранения XML в формате XLSB" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в формате XLSB и других форматов документов в Интернете с использованием C#." urlsection="saveas/xml-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как XLSB в C#." >}}

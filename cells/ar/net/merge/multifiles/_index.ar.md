@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة مع C#
 url: /ar/net/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لدمج ملفات Excel متعددة في ملف." h2="C# مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في C#. يقوم هذا الحل الاحترافي بدمج ملفات Excel متعددة في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام C#." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API لدمج ملفات Excel متعددة في ملف." h2="C# مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في C#. هذا الحل الاحترافي يدمج عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام C#." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - C# REST API" >}}

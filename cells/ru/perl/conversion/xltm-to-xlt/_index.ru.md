@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/conversion/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLTM в XLT" h2="Perl библиотека для преобразования XLTM в XLT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-преобразования XLTM в XLT и другие форматы документов с использованием Perl." urlsection="conversion/xltm-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования XLTM в XLT" h2="Perl библиотека для преобразования XLTM в XLT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования XLTM в XLT и другие форматы документов онлайн с использованием Perl." urlsection="conversion/xltm-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в XLT в Perl" >}}

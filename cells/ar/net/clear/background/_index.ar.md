@@ -1,6 +1,6 @@
 ﻿---
 title:  مسح الخلفية في المصنف المحلي في Cloud
-description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description: Cloud APIs & SDKs لمسح الخلفية على Microsoft Excel & OpenOffice Calc. مسح الخلفية على جداول البيانات المحلية بواسطة Cells Cloud API. تدعم SDK أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/net/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/net/clear/background/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الخلفية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - C# REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الخلفية على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الخلفية على Excel Microsoft محلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبتنا C# هي حل احترافي لمسح الخلفية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثاليًا.
+يعد مسح الخلفية على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الخلفية على Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة C# SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبتنا C# هي حل احترافي لمسح الخلفية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="صافي كود لمسح الخلفية على جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Background.cs" %}}

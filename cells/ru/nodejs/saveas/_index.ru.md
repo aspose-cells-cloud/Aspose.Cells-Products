@@ -1,10 +1,10 @@
 ﻿---
-title:  Сохранить как с NodeJS
-description: Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в виде файлов форматирования с помощью NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Сохранить как с помощью NodeJS
+description: Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в виде файлов формата с использованием NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/nodejs/saveas/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить как с NodeJS" h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в других форматах. Поддерживаемые форматы файлов имеют более 30 форматов файлов." p="Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в виде файлов форматирования с помощью NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="saveas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Сохранить как с помощью NodeJS" h2="Aspose.Cells Cloud SDK поддерживает сохранение книг в других форматах. Поддерживаемые форматы файлов имеют более 30 форматов файлов." p="Aspose.Cells Cloud REST API поддерживает сохранение файлов Excel в виде файлов формата с использованием NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="saveas/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ru/nodejs/saveas/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Облачный SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Сохранить как со ссылками расширения NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Сохранить как с помощью ссылок расширения NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/saveas" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

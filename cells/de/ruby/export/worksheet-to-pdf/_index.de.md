@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/ruby/export/worksheet-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren des Arbeitsblatts in die Datei PDF" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in die Datei PDF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im Format PDF aus einer Tabellenkalkulation online mit Ruby." urlsection="export/worksheet-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Exportieren des Arbeitsblatts in die Datei PDF" h2="Ruby-Bibliothek zum Exportieren von WORKSHEET in die Datei PDF" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Ruby zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKSHEET in eine Datei im PDF-Format aus einer Tabellenkalkulation online mit Ruby." urlsection="export/worksheet-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKSHEET-Objekt in eine Datei im Format PDF in Ruby" >}}

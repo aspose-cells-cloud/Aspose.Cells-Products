@@ -1,5 +1,5 @@
 ﻿---
-title:  JPG in CSV konvertieren API für PHP
+title:  JPG in CSV konvertieren API in PHP
 description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren einer JPG-Formatdatei in eine CSV-Formatdatei.
 url: /de/php/conversion/jpg-to-csv/
 ---

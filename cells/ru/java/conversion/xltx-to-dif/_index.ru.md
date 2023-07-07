@@ -10,7 +10,7 @@ url: /ru/java/conversion/xltx-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в DIF по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в DIF — сложная задача. Все переходы формата XLTX в формат DIF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTX в DIF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из XLTX в DIF — сложная задача. Все переходы формата XLTX в формат DIF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLTX в DIF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLTX в формат DIF" gistPath="" %}}

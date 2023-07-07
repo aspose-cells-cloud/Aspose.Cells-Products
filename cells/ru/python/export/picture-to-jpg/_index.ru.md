@@ -1,5 +1,5 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с использованием Python API
+title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с помощью Python API
 description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/python/export/picture-to-jpg/
 ---

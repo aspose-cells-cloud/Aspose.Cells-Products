@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف ب�
 url: /ar/java/saveas/sxc-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ SXC كـ BMP" h2="مكتبة Java لحفظ SXC كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ SXC كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/sxc-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ SXC كـ BMP" h2="مكتبة Java لحفظ SXC كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ SXC كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/sxc-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كـ BMP في Java" >}}

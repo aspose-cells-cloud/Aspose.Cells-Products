@@ -1,5 +1,5 @@
 ﻿---
-title:  Android için XLTM'yi WMF API olarak kaydedin
+title:  XLTM'yi Android için WMF API olarak kaydedin
 description: XLTM biçim dosyasını WMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Android'i kullanma.
 url: /tr/android/saveas/xltm-to-wmf/
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS в HTML Преобразование API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLS в файл формата HTML.
 url: /ru/swift/conversion/xls-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения NUMBERS как SQL" h2="Perl библиотека для сохранения NUMBERS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения NUMBERS в формате SQL и других форматов документов в Интернете с использованием Perl." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для сохранения NUMBERS как SQL" h2="Perl библиотека для сохранения NUMBERS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения NUMBERS в виде SQL и других форматов документов в Интернете с использованием Perl." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SQL в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Perl — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Perl разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения NUMBERS в формате SQL" gistPath="" %}}

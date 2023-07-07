@@ -1,10 +1,10 @@
 ﻿---
-title:  Mit Ruby verschmelzen
-description:  Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit Ruby. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Mit Ruby zusammenführen
+description:  Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von Ruby. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/ruby/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Ruby verschmelzen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit Ruby. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Ruby zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von Ruby. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /de/ruby/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Mit Ruby-Erweiterungslinks zusammenführen" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Zusammenführen mithilfe von Ruby-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

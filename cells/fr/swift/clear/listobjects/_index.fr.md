@@ -4,7 +4,7 @@ description: API Cloud et SDK pour effacer les objets de la liste sur Microsoft 
 url: /fr/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Swift Clear pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les objets de la liste sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Swift. Cette solution professionnelle répertorie les objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc à l\'aide de Swift." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Swift Clear pour effacer les objets de la liste sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les objets de la liste sur les workflows locaux Microsoft Excel et de feuille de calcul OpenOffice Calc dans Swift. Cette solution professionnelle répertorie les objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc à l\'aide de Swift." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer la liste des objets sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Swift REST API" >}}

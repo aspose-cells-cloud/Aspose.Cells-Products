@@ -4,7 +4,7 @@ description: Cloud API och SDK för att rensa bakgrund på Microsoft Excel & Ope
 url: /sv/swift/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning tydlig bakgrund på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" h2="Swift Clear för att rensa bakgrunden på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa bakgrunden på lokala arbetsflöden Microsoft Excel och OpenOffice Calc-kalkylblad i Swift. Denna professionella lösning tydlig bakgrund på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa bakgrund på lokal Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}

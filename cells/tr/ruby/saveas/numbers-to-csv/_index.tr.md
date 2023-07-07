@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/numbers-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir NUMBERS dosyasını Ruby\'de CSV olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-NUMBERS dosya biçimlerini CSV olarak kaydetmek karmaşık bir görevdir. NUMBERS'tan CSV formatına geçişlerin tümü, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
+NUMBERS dosya biçimlerini CSV olarak kaydetmek karmaşık bir iştir. NUMBERS'tan CSV formatına geçişlerin tümü, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriği korunurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi CSV dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel CSV çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de REST API kullanarak NUMARALARI CSV formatında kaydetmek için kod örneği" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
 title:  احفظ ODS كـ XLT API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق ODS كملف بتنسيق XLT.
 url: /ar/swift/saveas/ods-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ ODS كـ XLT" h2="مكتبة سريعة لحفظ ODS كـ XLT" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ ODS كـ XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/ods-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لحفظ ODS كـ XLT" h2="مكتبة سريعة لحفظ ODS كـ XLT" p="استخدم Cells SaveAs REST API لتكوين مسارات عمل جدول بيانات مهيأة في Swift. هذا حل احترافي لحفظ ODS بتنسيق XLT وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Swift." urlsection="saveas/ods-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS بتنسيق XLT في Swift" >}}

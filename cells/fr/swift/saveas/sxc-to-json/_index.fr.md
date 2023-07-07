@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer SXC sous JSON API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation de Aspose.Cells Cloud SDK for Swift pour enregistrer le fichier au format SXC en tant que fichier au format JSON.
 url: /fr/swift/saveas/sxc-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/java/conversion/html-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в BMP в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из HTML в BMP — сложная задача. Все переходы форматов с HTML на BMP выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов HTML в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования формата HTML в формат BMP" gistPath="" %}}

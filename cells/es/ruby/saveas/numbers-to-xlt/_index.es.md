@@ -10,7 +10,7 @@ url: /es/ruby/saveas/numbers-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo NUMBERS como XLT en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de NUMBERS como XLT es una tarea compleja. Todas las transiciones de formato NUMBERS a XLT son realizadas por nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar NÚMEROS como archivos XLT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLT perfecta.
+Guardar formatos de archivo de NUMBERS como XLT es una tarea compleja. Todas las transiciones de formato NUMBERS a XLT se realizan mediante nuestro Ruby SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo NUMBERS de origen. Nuestra biblioteca Ruby es una solución profesional para guardar NÚMEROS como archivos XLT en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida XLT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar NÚMEROS como formato XLT" gistPath="" %}}

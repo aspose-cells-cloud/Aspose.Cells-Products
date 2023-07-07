@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/conversion/gif-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования GIF в MHTML" h2="Java библиотека для преобразования GIF в MHTML" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации GIF в MHTML и другие форматы документов с использованием Java." urlsection="conversion/gif-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для преобразования GIF в MHTML" h2="Java библиотека для преобразования GIF в MHTML" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для онлайн-конвертации GIF в MHTML и другие форматы документов с использованием Java." urlsection="conversion/gif-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в MHTML в Java" >}}

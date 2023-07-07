@@ -10,7 +10,7 @@ url: /es/android/saveas/emf-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo EMF como TXT en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde EMF como TXT es una tarea compleja. Todas las transiciones de formato EMF a TXT son realizadas por nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca de Android es una solución profesional para guardar EMF como archivos TXT en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TXT perfecta.
+Guardar formatos de archivo desde EMF como TXT es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato EMF a TXT mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca de Android es una solución profesional para guardar EMF como archivos TXT en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TXT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar EMF como formato TXT" gistPath="" %}}

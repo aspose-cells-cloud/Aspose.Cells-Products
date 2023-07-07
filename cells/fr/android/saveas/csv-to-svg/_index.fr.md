@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez CSV sous SVG API pour Android
-description: Utiliser Aspose.Cells Cloud SDK pour Android pour enregistrer le fichier au format CSV en tant que fichier au format SVG.
+description: Utilisation du SDK Cloud Aspose.Cells pour Android pour enregistrer le fichier au format CSV en tant que fichier au format SVG.
 url: /fr/android/saveas/csv-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

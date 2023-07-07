@@ -10,7 +10,7 @@ url: /ru/go/conversion/jpg-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в DOCX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в DOCX — сложная задача. Все переходы формата JPG в формат DOCX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JPG в DOCX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из JPG в DOCX — сложная задача. Все переходы из формата JPG в формат DOCX выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JPG в DOCX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования JPG в формат DOCX" gistPath="" %}}

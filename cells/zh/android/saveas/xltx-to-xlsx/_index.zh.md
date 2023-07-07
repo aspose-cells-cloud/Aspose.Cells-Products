@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Android将XLTX格式文件保存�
 url: /zh/android/saveas/xltx-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将 XLTX 保存为 XLSX" h2="将 XLTX 保存为 XLSX 的 Android 库" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 XLSX 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将 XLTX 保存为 XLSX" h2="Android 库将 XLTX 保存为 XLSX" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是使用 Android 在线将 XLTX 保存为 XLSX 和其他文档格式的专业解决方案。" urlsection="saveas/xltx-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Android 中将 XLTX 文件另存为 XLSX" >}}

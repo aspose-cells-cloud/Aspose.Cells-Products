@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ BMP كـ XLSB API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق BMP كملف بتنسيق XLSB.
 url: /ar/swift/saveas/bmp-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/saveas/bmp-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP كـ XLSB في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من BMP كـ XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى XLSB بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجداول البيانات BMP المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات XLSB عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XLSB مثالي.
+يعد حفظ تنسيقات الملفات من BMP كـ XLSB مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق BMP إلى XLSB بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لحفظ BMP كملفات XLSB عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج XLSB مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لحفظ BMP بتنسيق XLSB" gistPath="" %}}

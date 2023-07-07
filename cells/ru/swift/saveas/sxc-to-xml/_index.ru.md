@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как XML API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата SXC в виде файла формата XML.
 url: /ru/swift/saveas/sxc-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

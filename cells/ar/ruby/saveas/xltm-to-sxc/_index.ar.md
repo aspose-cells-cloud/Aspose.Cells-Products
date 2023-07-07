@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLTM كـ SXC API من أجل Ruby
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق XLTM كملف بتنسيق SXC.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف تنسيق XLTM كملف بتنسيق SXC.
 url: /ar/ruby/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

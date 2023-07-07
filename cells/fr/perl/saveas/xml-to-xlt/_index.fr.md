@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XML sous XLT API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XML en tant que fichier au format XLT.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XML en tant que fichier au format XLT.
 url: /fr/perl/saveas/xml-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

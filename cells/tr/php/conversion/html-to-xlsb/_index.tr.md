@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML'den XLSB'ye Dönüştürme API, PHP için
-description:  HTML formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
+title:  HTML'den XLSB'ye Dönüştürme API için PHP
+description:  HTML biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

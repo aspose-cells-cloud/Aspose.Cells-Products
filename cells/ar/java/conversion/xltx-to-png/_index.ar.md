@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTX إلى PNG" h2="مكتبة Java لتحويل XLTX إلى PNG" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLTX إلى PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltx-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTX إلى PNG" h2="مكتبة Java لتحويل XLTX إلى PNG" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLTX إلى PNG وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltx-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى PNG في Java" >}}

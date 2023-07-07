@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für C#
-description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
+description:  Verwenden des Cloud SDK Aspose.Cells für C# zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
 url: /de/net/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

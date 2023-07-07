@@ -1,10 +1,10 @@
 ﻿---
-title:  تصدير مع روبي
+title:  تصدير باستخدام روبي
 description:  Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/ruby/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير مع روبي" h2="Aspose.Cells Cloud SDK يدعم تصدير المصنفات والعناصر الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تصدير باستخدام روبي" h2="Aspose.Cells Cloud SDK يدعم تصدير المصنفات والعناصر الداخلية إلى أكثر من 30 تنسيق ملف." p="Aspose.Cells Cloud REST API يدعم تصدير المصنفات والعناصر الداخلية لجميع أنواع التنسيقات باستخدام Ruby. يدعم SDK لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /ar/ruby/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>سحابة SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="تصدير مع روابط ملحق روبي" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="تصدير باستخدام روابط ملحق روبي" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

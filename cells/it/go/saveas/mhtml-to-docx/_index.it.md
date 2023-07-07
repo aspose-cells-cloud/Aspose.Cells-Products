@@ -10,7 +10,7 @@ url: /it/go/saveas/mhtml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file MHTML come DOCX in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da MHTML come DOCX è un compito complesso. Tutte le transizioni dal formato MHTML al formato DOCX vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo MHTML di origine. La nostra libreria Go è una soluzione professionale per salvare MHTML come file DOCX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output DOCX perfetto.
+Salvare i formati di file da MHTML come DOCX è un compito complesso. Tutte le transizioni dal formato MHTML al formato DOCX vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo MHTML di origine. La nostra libreria Go è una soluzione professionale per salvare MHTML come file DOCX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output DOCX perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Go utilizzando REST API per salvare MHTML come formato DOCX" gistPath="" %}}

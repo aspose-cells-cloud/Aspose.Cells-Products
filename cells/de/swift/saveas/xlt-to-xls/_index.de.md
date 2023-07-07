@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLT als XLS API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLT-Formatdateien als XLS-Formatdateien.
 url: /de/swift/saveas/xlt-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

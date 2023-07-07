@@ -7,7 +7,7 @@ url: /zh/net/saveas/tsv-to-xml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API 将 TSV 保存为 XML" h2="C# 将 TSV 保存为 XML 的库" p="使用 Cells SaveAs REST API 在 Net 中创建自定义电子表格工作流程。这是使用 C# 在线将 TSV 保存为 XML 和其他文档格式的专业解决方案。" urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 TSV 文件另存为 XML 格式：C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 TSV 文件另存为 C# 中的 XML" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 TSV 中的文件格式保存为 XML 是一项复杂的任务。所有 TSV 到 XML 格式的转换均由我们的 C# SDK 执行，同时保留源 TSV 电子表格的主要结构和逻辑内容。我们的 C# 库是在线将 TSV 保存为 XML 文件的专业解决方案。该Cloud SDK为C#开发人员提供了强大的功能和完美的XML输出。

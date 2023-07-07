@@ -10,7 +10,7 @@ url: /tr/go/conversion/xls-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını Go\'da XLSB\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLS'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den XLSB'ye format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLS'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıkışı sağlar.
+Dosya formatlarını XLS'den XLSB'ye dönüştürmek karmaşık bir iştir. Tüm XLS'den XLSB'ye format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLS'yi çevrimiçi olarak XLSB dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel XLSB çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi XLSB formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

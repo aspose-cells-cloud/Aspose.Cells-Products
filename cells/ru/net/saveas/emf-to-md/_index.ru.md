@@ -10,7 +10,7 @@ url: /ru/net/saveas/emf-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как MD в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как MD — сложная задача. Все переходы формата EMF в формат MD выполняются нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для сохранения EMF в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MD.
+Сохранение форматов файлов с EMF как MD — сложная задача. Все переходы формата EMF в формат MD выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для сохранения EMF в виде файлов MD в Интернете. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения EMF в формате MD" gistPath="" %}}

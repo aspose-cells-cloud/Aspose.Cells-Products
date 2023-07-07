@@ -10,7 +10,7 @@ url: /ru/go/conversion/xlt-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в XLTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLT в XLTX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
+Преобразование форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLT в XLTX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLT в формат XLTX" gistPath="" %}}

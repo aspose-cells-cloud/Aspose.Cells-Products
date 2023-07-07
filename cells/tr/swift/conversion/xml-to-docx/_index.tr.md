@@ -1,6 +1,6 @@
 ﻿---
 title:  Swift için XML'den DOCX'e Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description: XML biçim dosyasını DOCX biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /tr/swift/conversion/xml-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını Swift\'de DOCX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya biçimlerini XML'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm XML'den DOCX'e biçim geçişleri, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XML'i çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
+Dosya biçimlerini XML'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm XML'den DOCX'e biçim geçişleri, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Swift SDK'mız tarafından gerçekleştirilir. Swift kitaplığımız, XML'i çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Swift geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i DOCX formatına dönüştürmek için REST API kullanan Swift\'deki kod örneği" gistPath="" %}}

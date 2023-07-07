@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie NUMBERS als PPTX API for Java
-description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um die Datei im NUMBERS-Format als Datei im PPTX-Format zu speichern.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der Datei im NUMBERS-Format als Datei im PPTX-Format.
 url: /de/java/saveas/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

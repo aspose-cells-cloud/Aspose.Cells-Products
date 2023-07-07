@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara CSV som XLT API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara CSV-formatfil som XLT-formatfil.
 url: /sv/swift/saveas/csv-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

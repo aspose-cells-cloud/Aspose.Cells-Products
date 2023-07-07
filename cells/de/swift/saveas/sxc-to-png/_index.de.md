@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie SXC als PNG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im SXC-Format als Datei im Format PNG zu speichern.
 url: /de/swift/saveas/sxc-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

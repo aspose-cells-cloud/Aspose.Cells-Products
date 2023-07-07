@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/csv-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в SXC в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в SXC — сложная задача. Все переходы формата CSV в формат SXC выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов CSV в SXC. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод SXC.
+Преобразование форматов файлов из CSV в SXC — сложная задача. Все переходы между форматами CSV и SXC выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов CSV в SXC. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования CSV в формат SXC" gistPath="" %}}

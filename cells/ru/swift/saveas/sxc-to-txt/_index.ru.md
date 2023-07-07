@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните SXC как TXT API для Swift.
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата SXC в виде файла формата TXT.
 url: /ru/swift/saveas/sxc-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить SXC как TXT" h2="Библиотека Swift для сохранения SXC как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения SXC как TXT и других форматов документов онлайн с использованием Swift." urlsection="saveas/sxc-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API, чтобы сохранить SXC как TXT" h2="Библиотека Swift для сохранения SXC как TXT" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения SXC как TXT и других форматов документов онлайн с помощью Swift." urlsection="saveas/sxc-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как TXT в Swift" >}}

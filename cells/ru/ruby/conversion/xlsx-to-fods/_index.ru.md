@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xlsx-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в FODS — сложная задача. Все переходы формата XLSX в формат FODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Преобразование форматов файлов из XLSX в FODS — сложная задача. Все переходы формата XLSX в формат FODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLSX в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLSX в формат FODS" gistPath="" %}}

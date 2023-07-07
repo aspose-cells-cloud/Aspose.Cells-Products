@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ SQL API لـ Python
+title:  احفظ الأرقام باسم SQL API لـ Python
 description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق NUMBERS كملف بتنسيق SQL.
 url: /ar/python/saveas/numbers-to-sql/
 ---

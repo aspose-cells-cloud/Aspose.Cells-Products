@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie EMF als SVG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format EMF als Datei im Format SVG zu speichern.
 url: /de/swift/saveas/emf-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/net/saveas/sxc-to-png/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как PNG в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как PNG — сложная задача. Все переходы формата SXC в формат PNG выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов PNG в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
+Сохранение форматов файлов из SXC как PNG — сложная задача. Все переходы формата SXC в формат PNG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека C# — это профессиональное решение для сохранения SXC в виде файлов PNG в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PNG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения SXC в формате PNG" gistPath="" %}}

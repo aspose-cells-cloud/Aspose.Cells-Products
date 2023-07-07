@@ -4,7 +4,7 @@ description: Usando Aspose.Cells Cloud SDK para Python para convertir un archivo
 url: /es/python/conversion/bmp-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir BMP a XLTM" h2="Python biblioteca para convertir BMP a XLTM" p="Use Cells Conversión REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir BMP a XLTM y otros formatos de documentos en línea usando Python." urlsection="conversion/bmp-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API para convertir BMP a XLTM" h2="Python biblioteca para convertir BMP a XLTM" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Python. Esta es una solución profesional para convertir BMP a XLTM y otros formatos de documentos en línea usando Python." urlsection="conversion/bmp-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo BMP a XLTM en Python" >}}

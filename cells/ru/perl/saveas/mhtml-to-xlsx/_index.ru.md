@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить MHTML как XLSX" h2="Perl библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения документов MHTML в формате XLSX и других форматов в Интернете с использованием Perl." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, чтобы сохранить MHTML как XLSX" h2="Perl библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для сохранения документов MHTML как XLSX и других форматов в Интернете с использованием Perl." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSX в Perl." >}}

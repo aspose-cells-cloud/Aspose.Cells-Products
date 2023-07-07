@@ -1,5 +1,5 @@
 ﻿---
-title:  BMP لتحويل XLS API for Java
+title:  BMP إلى XLS تحويل API for Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق BMP إلى ملف بتنسيق XLS.
 url: /ar/java/conversion/bmp-to-xls/
 ---

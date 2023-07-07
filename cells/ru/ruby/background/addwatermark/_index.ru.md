@@ -4,7 +4,7 @@ description:  Облачные API и SDK для добавления водян
 url: /ru/ruby/background/add-watermark/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, чтобы добавить водяной знак для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Библиотека Ruby для добавления водяных знаков для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте водяной знак Cells REST API, чтобы добавить водяной знак для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение добавляет водяной знак для Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с использованием Ruby." urlsection="background/Add-watermark/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для добавления водяного знака для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Библиотека Ruby для добавления водяных знаков для локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc." p="Используйте водяной знак Cells REST API, чтобы добавить водяной знак для локальных рабочих процессов электронных таблиц Microsoft Excel и OpenOffice Calc в Ruby. Это профессиональное решение добавляет водяной знак для Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с использованием Ruby." urlsection="background/Add-watermark/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Добавить водяной знак для локального Microsoft Excel и электронной таблицы OpenOffice Calc — Ruby REST API" >}}

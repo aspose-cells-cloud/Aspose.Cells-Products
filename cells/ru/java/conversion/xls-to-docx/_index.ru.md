@@ -10,7 +10,7 @@ url: /ru/java/conversion/xls-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в DOCX по номеру Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в DOCX — сложная задача. Все переходы между форматами XLS и DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLS в DOCX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLS в DOCX — сложная задача. Все переходы между форматами XLS и DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLS в DOCX. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLS в формат DOCX" gistPath="" %}}

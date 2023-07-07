@@ -10,7 +10,7 @@ url: /ru/net/saveas/numbers-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как XPS в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS как XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов XPS онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов из NUMBERS как XPS — сложная задача. Все преобразования форматов NUMBERS в XPS выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека C# — это профессиональное решение для сохранения NUMBERS в виде файлов XPS онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения NUMBERS в формате XPS" gistPath="" %}}

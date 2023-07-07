@@ -1,6 +1,6 @@
 ﻿---
 title:  Bulutta C# ile yerel e-tabloyu şifreyle şifreleyin
-description:  Microsoft Excel ve OpenOffice Calc ile C#'i Korumak için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, C# için Cells Cloud API SDK ile şifreyle şifreleyin.
+description:  Microsoft Excel ve C# ile OpenOffice Calc Koruması için Bulut API'leri ve SDK'lar. Yerel elektronik tabloları, C# için Cells Cloud API SDK ile şifreyle şifreleyin.
 url: /tr/net/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

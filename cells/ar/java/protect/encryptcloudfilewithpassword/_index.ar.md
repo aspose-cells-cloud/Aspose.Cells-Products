@@ -10,7 +10,7 @@ url: /ar/java/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Java REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Java حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية و API مثالي.
+تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Java SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Java حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية و API مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Java كود لجداول بيانات سحابة التشفير" gistPath="https://gist.github.com/aspose-cells-cloud-gists/c59aa5c02f735466a5e34751cee73f5f.js?file=Examples-Java-workbook-EncryptWorkbook-encrypt-workbook.java" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title: Convertir XLT en XML API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format XLT en fichier au format XML.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format XLT en fichier au format XML.
 url: /fr/python/conversion/xlt-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

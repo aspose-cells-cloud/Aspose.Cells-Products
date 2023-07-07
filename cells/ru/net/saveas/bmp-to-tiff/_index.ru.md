@@ -10,7 +10,7 @@ url: /ru/net/saveas/bmp-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как TIFF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как TIFF — сложная задача. Все переходы форматов с BMP на TIFF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения файлов BMP как TIFF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
+Сохранение форматов файлов с BMP как TIFF — сложная задача. Все переходы форматов с BMP на TIFF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения файлов BMP как TIFF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения BMP в формате TIFF" gistPath="" %}}

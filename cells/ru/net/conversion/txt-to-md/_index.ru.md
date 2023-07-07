@@ -10,7 +10,7 @@ url: /ru/net/conversion/txt-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TXT в MD в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TXT в MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TXT в MD. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
+Преобразование форматов файлов из TXT в MD — сложная задача. Все переходы формата TXT в формат MD выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов TXT в MD. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования TXT в формат MD" gistPath="" %}}

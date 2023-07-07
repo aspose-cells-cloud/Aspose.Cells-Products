@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc kilidi için Bulut API'leri ve 
 url: /tr/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel şifresini çözmek için Swift API ve parola ile OpenOffice Calc elektronik tablosu" h2="Yerel Microsoft Excel şifresini çözmek için Swift kütüphanesi ve şifreli OpenOffice Calc elektronik tablosu" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Swift\'te parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifrelerini Swift kullanarak çevrimiçi olarak şifrelerle çözer." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel şifresini çözmek için Swift API ve parola ile OpenOffice Calc elektronik tablosu" h2="Yerel Microsoft Excel şifresini çözmek için Swift kütüphanesi ve şifreli OpenOffice Calc elektronik tablosu" p="Yerel Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Swift\'te parola iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifrelerini Swift kullanarak çevrimiçi olarak şifrelerle çözer." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Swift REST API" >}}

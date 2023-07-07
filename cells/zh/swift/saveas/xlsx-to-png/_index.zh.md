@@ -1,6 +1,6 @@
 ﻿---
 title: 将 XLSX 保存为 PNG API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用 Aspose.Cells Cloud SDK for Swift 将 XLSX 格式文件保存为 PNG 格式文件。
 url: /zh/swift/saveas/xlsx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

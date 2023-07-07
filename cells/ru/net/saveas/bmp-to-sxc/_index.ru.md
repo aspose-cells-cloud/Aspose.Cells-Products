@@ -10,7 +10,7 @@ url: /ru/net/saveas/bmp-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как SXC в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как SXC — сложная задача. Все переходы формата BMP в формат SXC выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения BMP в виде файлов SXC в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
+Сохранение форматов файлов с BMP как SXC — сложная задача. Все переходы формата BMP в формат SXC выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для сохранения BMP в виде файлов SXC в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения BMP в формате SXC" gistPath="" %}}

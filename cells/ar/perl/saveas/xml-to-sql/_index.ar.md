@@ -10,7 +10,7 @@ url: /ar/perl/saveas/xml-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XML كملف SQL في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XML كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Perl SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SQL مثالي.
+يعد حفظ تنسيقات الملفات من XML كـ SQL مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى SQL بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعتبر مكتبة Perl الخاصة بنا حلاً احترافيًا لحفظ XML كملفات SQL عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج SQL مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لحفظ XML كتنسيق SQL" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ JSON باسم SXC API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق JSON كملف بتنسيق SXC.
 url: /ar/swift/saveas/json-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

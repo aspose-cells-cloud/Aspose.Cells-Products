@@ -10,7 +10,7 @@ url: /fr/perl/conversion/xltm-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTM en XLSX en Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLTM en XLSX est une tâche complexe. Toutes les transitions de format XLTM vers XLSX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Perl est une solution professionnelle pour convertir en ligne des fichiers XLTM vers XLSX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLSX parfaite.
+La conversion des formats de fichiers de XLTM en XLSX est une tâche complexe. Toutes les transitions de format XLTM à XLSX sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Perl est une solution professionnelle pour convertir en ligne des fichiers XLTM vers XLSX. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie XLSX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Perl utilisant REST API pour convertir XLTM au format XLSX" gistPath="" %}}

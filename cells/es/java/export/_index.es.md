@@ -1,10 +1,10 @@
 ﻿---
-title: Exportar con Java
-description:  Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos con Java. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title: Exportar usando Java
+description:  Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos utilizando Java. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/java/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar con Java" h2="Aspose.Cells Cloud SDK admite la exportación de libros de trabajo y objetos internos a más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos con Java. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportar usando Java" h2="Aspose.Cells Cloud SDK admite la exportación de libros de trabajo y objetos internos a más de 30 formatos de archivo." p="Aspose.Cells Cloud REST API admite la exportación de libros de trabajo y objetos internos a todo tipo de formatos utilizando Java. SDK admite lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /es/java/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Exportar con enlaces de extensión Java" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exportar usando Java Enlaces de extensión" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/java/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

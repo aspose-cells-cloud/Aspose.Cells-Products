@@ -1,6 +1,6 @@
 ﻿---
 title:  XML in PPTX konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description: Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XML-Formatdateien in PPTX-Formatdateien.
 url: /de/swift/conversion/xml-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

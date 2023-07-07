@@ -1,6 +1,6 @@
 ﻿---
-title:  Swift için XLTM'den JSON'a Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Swift için XLTM'den JSON'a Dönüştürme API
+description:  XLTM biçim dosyasını JSON biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/xltm-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

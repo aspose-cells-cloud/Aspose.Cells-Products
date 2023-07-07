@@ -1,10 +1,10 @@
 ﻿---
-title: 与 Python 转换
-description: Aspose.Cells Cloud REST API 支持将excel文件转换为Python各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Python 进行转换
+description: Aspose.Cells Cloud REST API 支持使用Python将excel文件转换为各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/python/conversion/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="与 Python 转换" h2="Aspose.Cells Cloud SDK支持文件格式转换。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持将excel文件转换为Python各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Python 进行转换" h2="Aspose.Cells Cloud SDK支持文件格式转换。支持的文件格式有30多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用Python将excel文件转换为各种格式文件。SDK支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

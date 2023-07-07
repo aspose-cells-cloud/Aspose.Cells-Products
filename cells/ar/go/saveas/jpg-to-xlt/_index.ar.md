@@ -10,7 +10,7 @@ url: /ar/go/saveas/jpg-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG بتنسيق XLT في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من JPG مثل XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
+يعد حفظ تنسيقات الملفات من JPG مثل XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ ملفات JPG كملفات XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ JPG بتنسيق XLT" gistPath="" %}}

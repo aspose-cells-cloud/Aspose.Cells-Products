@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel &
 url: /ar/java/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Java مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير العمل في Java. هذا الحل الاحترافي يمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Java مسح لمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Java. هذا الحل الاحترافي يمسح المحتوى على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Java." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Java REST API" >}}

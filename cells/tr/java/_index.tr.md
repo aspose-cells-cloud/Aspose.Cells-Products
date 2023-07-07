@@ -251,7 +251,7 @@ ve uygulama bilgilerinizi alın. Uygulama SID'sine sahip olduğunuzda &amp; anah
 Çalışma Sayfalarını İşlemek için Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyala, çalışma sayfası satırlarını ve sütunlarını gruplandır, çalışma sayfası satırlarını ve sütunlarını gizle, çalışma sayfası sütun ve satır stillerini ayarla, HTMLSTRING değerini hücreye ayarla, hücre aralığı değerini ayarla ve diğer birçok çalışma sayfası ayarını değiştir.
+Aspose.Cells Cloud SDK for Java'i kullanarak çalışma sayfasındaki belirli satırı veya tüm satırları silebilir, çalışma sayfası hücre verilerini veya hücre stilini hücre adına göre getirebilir, çalışma sayfası satırını veya sütun verilerini dizinine göre okuyabilir, hücre formülünü hesaplayabilir, hücre içeriğini temizleyebilir, hücreyi başka bir hücreye kopyalayabilirsiniz. hücre, çalışma sayfası sütunlarını ve satırlarını kopyalayın, çalışma sayfası satırlarını ve sütunlarını gruplandırın, çalışma sayfası satırlarını ve sütunlarını gizleyin, çalışma sayfası sütunu ve satır stillerini ayarlayın, HTMLSTRING değerini hücreye ayarlayın, hücre aralığı değerini ayarlayın ve diğer birçok çalışma sayfası ayarını değiştirin.
     </p>
    </div>
    <div class="col-lg-12">

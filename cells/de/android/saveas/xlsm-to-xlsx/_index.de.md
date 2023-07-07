@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSM als XLSX API für Android
-description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um Dateien im XLSM-Format als Dateien im XLSX-Format zu speichern.
+description: Verwenden Sie das Cloud SDK Aspose.Cells für Android, um die XLSM-Formatdatei als XLSX-Formatdatei zu speichern.
 url: /de/android/saveas/xlsm-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

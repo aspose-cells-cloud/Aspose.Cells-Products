@@ -1,10 +1,10 @@
 ﻿---
 title:  XLTM в TIFF Конвертировать API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLTM в файл формата TIFF.
 url: /ru/swift/conversion/xltm-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в TIFF" h2="Библиотека Swift для преобразования XLTM в TIFF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLTM в TIFF и другие форматы документов онлайн с помощью Swift." urlsection="conversion/xltm-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в TIFF" h2="Библиотека Swift для преобразования XLTM в TIFF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для преобразования XLTM в TIFF и другие форматы документов онлайн с использованием Swift." urlsection="conversion/xltm-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в TIFF в Swift" >}}

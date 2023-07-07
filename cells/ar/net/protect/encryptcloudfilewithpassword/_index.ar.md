@@ -10,7 +10,7 @@ url: /ar/net/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - C# REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا C# حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثالي.
+تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة C# SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا C# حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="C# كود لجداول بيانات سحابة التشفير" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Examples-DotNET-CSharp-Workbook-EncryptWorkbook-1.cs" %}}

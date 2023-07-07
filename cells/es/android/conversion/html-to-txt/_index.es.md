@@ -10,7 +10,7 @@ url: /es/android/conversion/html-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a TXT en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a TXT es una tarea compleja. Todas las transiciones de formato HTML a TXT son realizadas por nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos TXT en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TXT perfecta.
+Convertir formatos de archivo de HTML a TXT es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a TXT mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para convertir HTML a archivos TXT en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TXT perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir HTML a formato TXT" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/php/conversion/numbers-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в TIFF в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в TIFF — сложная задача. Все преобразования форматов NUMBERS в TIFF выполняются с помощью нашего SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TIFF. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат TIFF.
+Преобразование форматов файлов из NUMBERS в TIFF — сложная задача. Все преобразования форматов NUMBERS в TIFF выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека PHP — это профессиональное решение для онлайн-конвертации файлов NUMBERS в TIFF. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для преобразования NUMBERS в формат TIFF" gistPath="" %}}
@@ -39,7 +39,7 @@ url: /ru/php/conversion/numbers-to-tiff/
 {{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать PHP API для преобразования ЧИСЕЛ в TIFF" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
-<li>Вызовите метод CellsWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
+<li>Вызовите метод cellWorkbookPutConvertWorkBook, чтобы получить результирующий поток</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

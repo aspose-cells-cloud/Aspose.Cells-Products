@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG'den XLSB'ye Dönüştürme API, PHP için
-description:  PNG formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
+title:  PNG'den XLSB'ye Dönüştürme API için PHP
+description:  PNG biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -10,7 +10,7 @@ url: /ru/go/saveas/xlt-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как XLTX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения файлов XLT в формате XLTX в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
+Сохранение форматов файлов из XLT в XLTX — сложная задача. Все переходы между форматами XLT и XLTX выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLT. Наша библиотека Go — это профессиональное решение для сохранения файлов XLT в формате XLTX в Интернете. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения XLT в формате XLTX" gistPath="" %}}

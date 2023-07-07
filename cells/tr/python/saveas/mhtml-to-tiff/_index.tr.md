@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi TIFF API olarak kaydedin
+title:  MHTML'yi Python için TIFF API olarak kaydedin
 description:  MHTML biçim dosyasını TIFF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-tiff/
 ---

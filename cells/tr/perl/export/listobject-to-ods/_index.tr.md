@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API, {0} dosyalarını {2} kullanarak {1} 
 url: /tr/perl/export/listobject-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="LISTOBJECT\'i ODS dosyasına aktarmak için Perl API" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Perl kitaplığı" p="Perl\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Perl kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS biçim dosyasına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, LISTOBJECT\'i ODS dosyasına aktarmak için" h2="LISTOBJECT\'i ODS dosyasına aktarmak için Perl kitaplığı" p="Perl\'deki elektronik tablo dahili nesne iş akışlarını dışa aktarmak için Cells Export REST API\'i kullanın. Bu, Perl kullanarak çevrimiçi elektronik tablodan LISTOBJECT\'i ODS biçim dosyasına dışa aktarmak için profesyonel bir çözümdür." urlsection="export/listobject-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="LISTOBJECT nesnesini Perl\'de ODS biçim dosyasına aktarın" >}}

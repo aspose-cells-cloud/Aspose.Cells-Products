@@ -10,7 +10,7 @@ url: /ru/go/saveas/json-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл JSON как CSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из JSON в виде CSV — сложная задача. Все переходы между форматами JSON и CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для сохранения файлов JSON в формате CSV онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение форматов файлов из JSON в виде CSV — сложная задача. Все переходы форматов JSON в CSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для сохранения файлов JSON в формате CSV онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения JSON в формате CSV" gistPath="" %}}

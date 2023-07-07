@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить PNG как JSON API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата PNG в виде файла формата JSON.
 url: /ru/swift/saveas/png-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

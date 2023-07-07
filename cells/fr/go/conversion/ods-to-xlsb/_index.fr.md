@@ -7,7 +7,7 @@ url: /fr/go/conversion/ods-to-xlsb/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir ODS en XLSB" h2="Accédez à la bibliothèque pour convertir ODS en XLSB" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir ODS en XLSB et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/ods-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en XLSB en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en XLSB dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers d'ODS en XLSB est une tâche complexe. Toutes les transitions de format ODS vers XLSB sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Go est une solution professionnelle pour convertir en ligne des fichiers ODS en XLSB. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLSB parfaite.

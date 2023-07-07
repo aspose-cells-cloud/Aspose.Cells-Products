@@ -10,7 +10,7 @@ url: /fr/go/conversion/numbers-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier NUMBERS en XLTM dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de NUMBERS en XLTM est une tâche complexe. Toutes les transitions de format NUMBERS vers XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers NUMBERS en XLTM en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
+La conversion des formats de fichiers de NUMBERS en XLTM est une tâche complexe. Toutes les transitions de format NUMBERS vers XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul NUMBERS source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers NUMBERS en fichiers XLTM en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour convertir NUMBERS au format XLTM" gistPath="" %}}

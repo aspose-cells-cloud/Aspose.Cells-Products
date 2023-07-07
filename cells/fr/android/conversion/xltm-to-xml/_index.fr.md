@@ -7,7 +7,7 @@ url: /fr/android/conversion/xltm-to-xml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour convertir XLTM en XML" h2="Bibliothèque Android pour convertir XLTM en XML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour convertir XLTM en XML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="conversion/xltm-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTM en XML dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTM en XML sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion de formats de fichiers XLTM en XML est une tâche complexe. Toutes les transitions de format XLTM vers XML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLTM. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne des fichiers XLTM en XML. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XML parfaite.

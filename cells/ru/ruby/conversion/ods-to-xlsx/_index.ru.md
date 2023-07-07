@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/ods-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в XLSX в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в XLSX — сложная задача. Все переходы от формата ODS к формату XLSX выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов ODS в XLSX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
+Преобразование форматов файлов из ODS в XLSX — сложная задача. Все переходы формата ODS в формат XLSX выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов ODS в XLSX. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод в формате XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования ODS в формат XLSX" gistPath="" %}}

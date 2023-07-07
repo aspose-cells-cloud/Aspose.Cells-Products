@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en GIF API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format JPG en fichier au format GIF.
 url: /fr/swift/conversion/jpg-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  XML in MD Konvertieren Sie API in Python
-description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
+title:  XML in MD konvertieren API für Python
+description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer XML-Formatdatei in eine MD-Formatdatei.
 url: /de/python/conversion/xml-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

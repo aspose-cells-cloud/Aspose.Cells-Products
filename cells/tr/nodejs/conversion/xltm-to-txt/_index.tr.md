@@ -4,7 +4,7 @@ description:  XLTM biçim dosyasını TXT biçim dosyasına dönüştürmek içi
 url: /tr/nodejs/conversion/xltm-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTM\'yi TXT\'ye dönüştürmek için NodeJS API" h2="XLTM\'yi TXT\'ye dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, XLTM\'yi TXT\'ye ve diğer belge formatlarını NodeJS kullanarak çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltm-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XLTM\'yi TXT\'ye dönüştürmek için NodeJS API" h2="XLTM\'yi TXT\'ye dönüştürmek için NodeJS kitaplığı" p="NodeJS\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, XLTM\'yi NodeJS kullanarak çevrimiçi olarak TXT\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/xltm-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS\'de bir XLTM dosyasını TXT\'ye dönüştürme" >}}
@@ -13,7 +13,7 @@ url: /tr/nodejs/conversion/xltm-to-txt/
 Dosya formatlarını XLTM'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den TXT formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XLTM'yi çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi TXT biçimine dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi TXT formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

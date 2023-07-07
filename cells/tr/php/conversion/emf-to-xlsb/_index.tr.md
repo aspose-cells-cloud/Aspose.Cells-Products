@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF'den XLSB'ye Dönüştürme API, PHP için
-description:  EMF formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
+title:  EMF'den XLSB'ye Dönüştürme API için PHP
+description:  EMF biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için PHP için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/php/conversion/emf-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

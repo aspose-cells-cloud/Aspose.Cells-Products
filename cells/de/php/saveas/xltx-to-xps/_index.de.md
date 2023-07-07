@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter XPS API für PHP
+title:  Speichern Sie XLTX als XPS API für PHP
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im XLTX-Format als Datei im Format XPS zu speichern.
 url: /de/php/saveas/xltx-to-xps/
 ---

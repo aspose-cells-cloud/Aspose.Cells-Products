@@ -1,5 +1,5 @@
 ﻿---
-title:  XLTX'i JPG olarak kaydet API for Java
+title:  XLTX'i JPG olarak kaydedin API for Java
 description:  XLTX biçim dosyasını JPG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Java'i kullanma.
 url: /tr/java/saveas/xltx-to-jpg/
 ---

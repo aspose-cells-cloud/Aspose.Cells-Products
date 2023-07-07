@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer ODS sous DIF API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format ODS en tant que fichier au format DIF.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format ODS en tant que fichier au format DIF.
 url: /fr/go/saveas/ods-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

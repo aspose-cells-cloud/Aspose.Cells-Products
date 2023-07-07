@@ -7,7 +7,7 @@ url: /fr/java/saveas/ods-to-sxc/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer ODS en tant que SXC" h2="Bibliothèque Java pour enregistrer ODS en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format SXC et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/ods-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS en tant que SXC dans Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS en tant que SXC dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir d'ODS en tant que SXC est une tâche complexe. Toutes les transitions de format ODS vers SXC sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Java est une solution professionnelle pour enregistrer ODS en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie SXC parfaite.

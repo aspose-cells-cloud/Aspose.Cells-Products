@@ -10,7 +10,7 @@ url: /ru/android/conversion/json-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в JPG на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в JPG — сложная задача. Все переходы формата JSON в формат JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов JSON в JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
+Преобразование форматов файлов из JSON в JPG — сложная задача. Все переходы между форматами JSON и JPG выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов JSON в JPG. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования JSON в формат JPG" gistPath="" %}}

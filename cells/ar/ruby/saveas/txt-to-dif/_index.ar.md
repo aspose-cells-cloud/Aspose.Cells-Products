@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ TXT كـ DIF API لـ Ruby
+title:  احفظ TXT كـ DIF API من أجل Ruby
 description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لحفظ ملف بتنسيق TXT كملف بتنسيق DIF.
 url: /ar/ruby/saveas/txt-to-dif/
 ---

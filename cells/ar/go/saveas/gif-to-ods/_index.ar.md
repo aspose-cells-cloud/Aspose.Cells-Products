@@ -10,7 +10,7 @@ url: /ar/go/saveas/gif-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف GIF كملف ODS في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من GIF مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى ODS بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. مكتبة Go لدينا هي حل احترافي لحفظ GIF كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج ODS مثالي.
+يعد حفظ تنسيقات الملفات من GIF مثل ODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق GIF إلى ODS بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات GIF المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لحفظ GIF كملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Go وظائف قوية وإخراج ODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لحفظ GIF كتنسيق ODS" gistPath="" %}}

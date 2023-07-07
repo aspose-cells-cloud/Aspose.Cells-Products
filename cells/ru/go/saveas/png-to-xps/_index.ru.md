@@ -7,7 +7,7 @@ url: /ru/go/saveas/png-to-xps/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Введите API, чтобы сохранить PNG как XPS." h2="Перейти в библиотеку, чтобы сохранить PNG как XPS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для сохранения PNG как XPS и других форматов документов в Интернете с помощью Go." urlsection="saveas/png-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XPS в Go." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как XPS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов с PNG как XPS — сложная задача. Все переходы форматов с PNG на XPS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Go — это профессиональное решение для сохранения файлов PNG как XPS онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XPS.

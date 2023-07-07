@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSX als SVG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im XLSX-Format als Datei im Format SVG zu speichern.
 url: /de/swift/saveas/xlsx-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

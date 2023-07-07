@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als PPTX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der Datei im ODS-Format als Datei im PPTX-Format.
 url: /de/swift/saveas/ods-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als BMP API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern der XML-Formatdatei als BMP-Formatdatei.
 url: /de/swift/saveas/xml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

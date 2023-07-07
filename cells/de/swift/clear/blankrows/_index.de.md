@@ -4,7 +4,7 @@ description: Cloud-APIs und SDKs zum Löschen leerer Zeilen unter Microsoft Exce
 url: /de/swift/clear/blank-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/blank-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen leerer Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um leere Zeilen in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht leere Zeilen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Blank-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie leere Zeilen in der lokalen Tabelle Microsoft Excel und in der OpenOffice Calc-Tabelle – Swift REST API" >}}

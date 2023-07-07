@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi BMP API olarak kaydedin
+title:  MHTML'yi Perl için BMP API olarak kaydedin
 description:  MHTML biçim dosyasını BMP biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-bmp/
 ---

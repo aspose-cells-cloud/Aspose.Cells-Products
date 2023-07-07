@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/json-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل JSON إلى XLTX" h2="Java مكتبة لتحويل JSON إلى XLTX" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل JSON إلى XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/json-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل JSON إلى XLTX" h2="Java مكتبة لتحويل JSON إلى XLTX" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل JSON إلى XLTX وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/json-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JSON إلى XLTX في Java" >}}

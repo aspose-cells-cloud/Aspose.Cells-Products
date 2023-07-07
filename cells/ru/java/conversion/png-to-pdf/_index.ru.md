@@ -10,7 +10,7 @@ url: /ru/java/conversion/png-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в PDF в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в PDF — сложная задача. Все переходы форматов с PNG на PDF выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы PNG. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов PNG в PDF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PDF.
+Преобразование форматов файлов из PNG в PDF — сложная задача. Все переходы форматов с PNG на PDF выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов PNG в PDF. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования формата PNG в формат PDF" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLT als XLSX API für PHP
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die XLT-Formatdatei als XLSX-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für PHP, um die Datei im XLT-Format als Datei im XLSX-Format zu speichern.
 url: /de/php/saveas/xlt-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

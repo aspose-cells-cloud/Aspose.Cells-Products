@@ -10,7 +10,7 @@ url: /de/perl/saveas/json-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine JSON-Datei als XLSM unter Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus JSON als XLSM ist eine komplexe Aufgabe. Alle Übergänge von JSON zum XLSM-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um JSON als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
+Das Speichern von Dateiformaten von JSON als XLSM ist eine komplexe Aufgabe. Alle Übergänge von JSON zum XLSM-Format werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der Quell-JSON-Tabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um JSON als XLSM-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte XLSM-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Perl mit REST API zum Speichern von JSON im XLSM-Format" gistPath="" %}}

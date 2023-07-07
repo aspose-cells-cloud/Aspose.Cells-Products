@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTX als XPS API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im XLTX-Format als Datei im Format XPS zu speichern.
 url: /de/swift/saveas/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

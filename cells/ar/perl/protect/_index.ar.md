@@ -1,14 +1,14 @@
 ﻿---
-title:  احم بـ Perl
-description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع Perl. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  احم باستخدام Perl
+description:  Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام Perl. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/perl/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="احم بـ Perl" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي مع Perl. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="احم باستخدام Perl" h2="Aspose.Cells Cloud SDK يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي." p="Aspose.Cells Cloud REST API يدعم فك التشفير والتشفير ومصنفات التوقيع الرقمي باستخدام Perl. SDK يدعم لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="قم بالحماية باستخدام روابط التمديد Perl" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="الحماية باستخدام Perl روابط الامتداد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

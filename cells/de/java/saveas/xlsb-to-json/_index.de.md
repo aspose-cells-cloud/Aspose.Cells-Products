@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSB als JSON API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XLSB-Formatdatei als JSON-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern der XLSB-Formatdatei als JSON-Formatdatei.
 url: /de/java/saveas/xlsb-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

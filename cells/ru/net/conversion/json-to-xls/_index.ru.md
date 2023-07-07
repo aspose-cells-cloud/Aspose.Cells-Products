@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/conversion/json-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в XLS" h2="C# библиотека для преобразования JSON в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования JSON в XLS и другие форматы документов онлайн с использованием C#." urlsection="conversion/json-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования JSON в XLS" h2="C# библиотека для преобразования JSON в XLS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования JSON в XLS и другие форматы документов онлайн с помощью C#." urlsection="conversion/json-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в XLS в C#" >}}

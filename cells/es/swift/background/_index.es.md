@@ -1,14 +1,14 @@
 ﻿---
-title:  Fondo
-description:  Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Establecer fondo usando Swift
+description:  Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel usando Swift. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Fondo" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Establecer fondo usando Swift" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel usando Swift. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Enlaces de extensión de fondo" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Establecer fondo usando enlaces de extensión Swift" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

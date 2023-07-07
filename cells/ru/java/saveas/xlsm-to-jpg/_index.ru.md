@@ -10,7 +10,7 @@ url: /ru/java/saveas/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM в формате JPG по адресу Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSM в виде JPG — сложная задача. Все переходы из формата XLSM в формат JPG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для сохранения XLSM в виде файлов JPG онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
+Сохранение форматов файлов из XLSM в виде JPG — сложная задача. Все переходы XLSM в формат JPG выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Java — это профессиональное решение для сохранения XLSM в виде файлов JPG онлайн. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и превосходный вывод в формате JPG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения XLSM в формате JPG" gistPath="" %}}

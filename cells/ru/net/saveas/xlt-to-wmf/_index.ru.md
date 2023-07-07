@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlt-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как WMF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде WMF — сложная задача. Все переходы между форматами XLT и WMF выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения XLT в виде файлов WMF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из XLT в виде WMF — сложная задача. Все переходы между форматами XLT и WMF выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека C# — это профессиональное решение для сохранения XLT в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLT в формате WMF" gistPath="" %}}

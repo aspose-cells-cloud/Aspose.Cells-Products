@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlsb-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSB как SXC в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSB в виде SXC — сложная задача. Все переходы форматов XLSB в SXC выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLSB в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод SXC.
+Сохранение форматов файлов из XLSB в виде SXC — сложная задача. Все переходы форматов XLSB в SXC выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека NodeJS — это профессиональное решение для сохранения XLSB в виде файлов SXC в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLSB в формате SXC" gistPath="" %}}

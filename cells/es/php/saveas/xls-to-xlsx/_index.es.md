@@ -1,5 +1,5 @@
 ﻿---
-title: Guardar XLS como XLSX API para PHP
+title: Guarde XLS como XLSX API para PHP
 description:  Usando Aspose.Cells Cloud SDK para PHP para guardar el archivo de formato XLS como archivo de formato XLSX.
 url: /es/php/saveas/xls-to-xlsx/
 ---

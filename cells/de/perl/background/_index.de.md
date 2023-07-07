@@ -1,14 +1,14 @@
 ﻿---
-title:  Hintergrund mit Perl einstellen
+title:  Stellen Sie den Hintergrund mit Perl ein
 description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Perl. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/perl/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Hintergrund mit Perl einstellen" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Perl. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Stellen Sie den Hintergrund mit Perl ein" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Perl. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mit den Erweiterungslinks Perl fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe der Erweiterungslinks Perl fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

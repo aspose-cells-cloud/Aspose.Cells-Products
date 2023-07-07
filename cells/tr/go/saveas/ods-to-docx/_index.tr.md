@@ -10,7 +10,7 @@ url: /tr/go/saveas/ods-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını Go\'da DOCX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini ODS'den DOCX olarak kaydetmek karmaşık bir iştir. Tüm ODS'den DOCX'e format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi DOCX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
+Dosya biçimlerini ODS'den DOCX olarak kaydetmek karmaşık bir iştir. Tüm ODS'den DOCX'e format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi DOCX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi DOCX formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

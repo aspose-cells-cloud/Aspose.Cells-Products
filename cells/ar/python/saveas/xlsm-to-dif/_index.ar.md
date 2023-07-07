@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف 
 url: /ar/python/saveas/xlsm-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLSM كـ DIF" h2="مكتبة Python لحفظ XLSM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLSM كـ DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xlsm-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLSM كـ DIF" h2="مكتبة Python لحفظ XLSM كـ DIF" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLSM بتنسيق DIF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xlsm-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSM كملف DIF في Python" >}}

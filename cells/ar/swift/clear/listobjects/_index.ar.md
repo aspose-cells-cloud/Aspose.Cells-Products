@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح عناصر القائمة على Microso
 url: /ar/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح عناصر القائمة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح كائنات القائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح عناصر القائمة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح كائنات القائمة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح كائنات قائمة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح كائنات القائمة على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc - Swift REST API" >}}

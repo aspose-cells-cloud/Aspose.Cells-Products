@@ -1,5 +1,5 @@
 ﻿---
-title:  C# için MHTML'yi EMF API olarak kaydedin
+title:  MHTML'yi C# için EMF API olarak kaydedin
 description:  MHTML biçim dosyasını EMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-emf/
 ---

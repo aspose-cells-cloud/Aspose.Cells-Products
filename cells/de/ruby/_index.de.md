@@ -1,5 +1,5 @@
 ﻿---
-title:  Cloud Excel-Dateien lesen, anzeigen und konvertieren (via Ruby REST SDK)
+title:  Lesen, Anzeigen und Konvertieren von Cloud Excel-Dateien (via Ruby REST SDK)
 description: Erweitert Ihre Ruby-Anwendungen um die Verarbeitung und Bearbeitung von Microsoft Excel- und OpenOffice-Tabellen in der Cloud
 weight: 120
 url: /de/ruby

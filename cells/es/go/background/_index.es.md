@@ -1,14 +1,14 @@
 ﻿---
-title:  Establecer fondo con Ir
-description: Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Establecer fondo usando Ir
+description: Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel usando Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/go/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Establecer fondo con Ir" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Establecer fondo usando Ir" h2="Aspose.Cells Cloud SDK admite contenido claro, estilo, gráfico, tabla, fondo, etc. en archivos Excel." p="Aspose.Cells Cloud REST API admite establecer el fondo para el archivo Excel usando Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Establecer fondo con enlaces de extensión Go" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Establecer fondo usando los enlaces de la extensión Go" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/saveas/xlt-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XLT как ODS" h2="C# библиотека для сохранения XLT как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLT в виде ODS и других форматов документов в Интернете с использованием C#." urlsection="saveas/xlt-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XLT как ODS" h2="C# библиотека для сохранения XLT как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XLT как ODS и других форматов документов в Интернете с использованием C#." urlsection="saveas/xlt-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как ODS по адресу C#." >}}

@@ -1,6 +1,6 @@
 ﻿---
-title:  Exportar IMAGEN a TIFF desde hoja de cálculo usando Swift API
-description:  Aspose.Cells Cloud REST API admite la exportación de archivos Excel y objetos internos a tipos de archivos de formato. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title: Exportar IMAGEN a TIFF desde hoja de cálculo usando Swift API
+description:  Aspose.Cells Cloud REST API admite la exportación de archivos de formato {0} a {1} mediante {2}.
 url: /es/swift/export/picture-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

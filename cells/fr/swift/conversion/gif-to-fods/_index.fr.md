@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir GIF en FODS API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format GIF en fichier au format FODS.
 url: /fr/swift/conversion/gif-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

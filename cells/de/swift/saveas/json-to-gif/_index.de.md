@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JSON als GIF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im JSON-Format als Datei im GIF-Format zu speichern.
 url: /de/swift/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

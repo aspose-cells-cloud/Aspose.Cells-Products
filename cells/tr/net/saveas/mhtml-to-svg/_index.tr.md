@@ -1,5 +1,5 @@
 ﻿---
-title:  C# için MHTML'yi SVG API olarak kaydedin
+title:  MHTML'yi C# için SVG API olarak kaydedin
 description:  MHTML biçim dosyasını SVG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for C#'i kullanma.
 url: /tr/net/saveas/mhtml-to-svg/
 ---

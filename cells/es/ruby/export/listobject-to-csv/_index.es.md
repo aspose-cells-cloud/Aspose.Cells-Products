@@ -10,7 +10,7 @@ url: /es/ruby/export/listobject-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportar objeto LISTOBJECT a archivo de formato CSV en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar un objeto LISTOBJECT a un archivo CSV desde una hoja de cálculo es una tarea compleja. Nuestro Ruby SDK realiza la exportación de LISTOBJECT a las transiciones de formato CSV mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
+Exportar un objeto LISTOBJECT a un archivo CSV desde una hoja de cálculo es una tarea compleja. Nuestro SDK de Ruby realiza la exportación de LISTOBJECT a las transiciones de formato CSV mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato CSV en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para exportar LISTOBJECT a formato CSV desde una hoja de cálculo" gistPath="" %}}

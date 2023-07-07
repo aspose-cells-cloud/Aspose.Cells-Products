@@ -1,14 +1,14 @@
 ﻿---
-title:  Hintergrund mit NodeJS festlegen
-description: Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Legen Sie den Hintergrund mit NodeJS fest
+description: Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mithilfe von NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/nodejs/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Hintergrund mit NodeJS festlegen" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Legen Sie den Hintergrund mit NodeJS fest" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mithilfe von NodeJS. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mit NodeJS-Erweiterungslinks fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe von NodeJS-Erweiterungslinks fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

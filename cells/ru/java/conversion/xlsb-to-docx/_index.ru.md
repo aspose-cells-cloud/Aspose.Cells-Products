@@ -10,7 +10,7 @@ url: /ru/java/conversion/xlsb-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в DOCX в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в DOCX — сложная задача. Все переходы из формата XLSB в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в DOCX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из XLSB в DOCX — сложная задача. Все переходы из формата XLSB в формат DOCX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в DOCX. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSB в формат DOCX" gistPath="" %}}

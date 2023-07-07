@@ -10,7 +10,7 @@ url: /fr/nodejs/conversion/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier BMP en FODS dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de BMP en FODS est une tâche complexe. Toutes les transitions du format BMP vers le format FODS sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne les fichiers BMP en fichiers FODS. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie FODS parfaite.
+La conversion des formats de fichiers de BMP en FODS est une tâche complexe. Toutes les transitions de format BMP vers FODS sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne les fichiers BMP en fichiers FODS. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir BMP au format FODS" gistPath="" %}}

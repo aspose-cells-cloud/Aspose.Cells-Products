@@ -10,7 +10,7 @@ url: /ru/android/export/workbook-to-markdown/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата MARKDOWN в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл MARKDOWN из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат MARKDOWN выполняется нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKBOOK. Наша библиотека Android — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата MARKDOWN онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MARKDOWN.
+Экспорт объекта WORKBOOK в файл MARKDOWN из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат MARKDOWN выполняется нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Android — это профессиональное решение для экспорта объектов WORKBOOK в файлы формата MARKDOWN онлайн. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод MARKDOWN.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для экспорта WORKBOOK в формат MARKDOWN из электронной таблицы" gistPath="" %}}

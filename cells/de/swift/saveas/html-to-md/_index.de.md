@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als MD API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im HTML-Format als MD-Formatdatei zu speichern.
 url: /de/swift/saveas/html-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

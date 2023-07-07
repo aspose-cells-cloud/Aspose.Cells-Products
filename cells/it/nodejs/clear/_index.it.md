@@ -1,14 +1,14 @@
 ﻿---
-title:  Cancella oggetti con NodeJS
-description:  Aspose.Cells Cloud REST API supporta oggetti interni chiari in un file Excel con NodeJS. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Cancella gli oggetti usando NodeJS
+description:  Aspose.Cells Cloud REST API supporta oggetti interni chiari in un file Excel utilizzando NodeJS. L'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/nodejs/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Cancella oggetti con NodeJS" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta oggetti interni chiari in un file Excel con NodeJS. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cancella gli oggetti usando NodeJS" h2="Aspose.Cells Cloud SDK supporta contenuti chiari, stile, grafico, tabella, sfondo e così via nei file Excel." p="Aspose.Cells Cloud REST API supporta oggetti interni chiari in un file Excel utilizzando NodeJS. L\'SDK supporta più linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Cancella oggetti con i collegamenti NodeJS Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Cancella gli oggetti utilizzando i collegamenti dell\'estensione NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

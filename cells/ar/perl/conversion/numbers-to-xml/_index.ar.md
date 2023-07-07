@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل مل�
 url: /ar/perl/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل الأرقام إلى XML" h2="Perl مكتبة لتحويل الأرقام إلى XML" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل الأرقام إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل الأرقام إلى XML" h2="Perl مكتبة لتحويل الأرقام إلى XML" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل الأرقام إلى XML وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى XML في Perl" >}}

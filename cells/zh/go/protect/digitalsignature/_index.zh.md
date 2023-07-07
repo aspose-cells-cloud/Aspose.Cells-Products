@@ -4,7 +4,7 @@ description: 适用于 Microsoft Excel 和 OpenOffice Calc 数字签名的云 AP
 url: /zh/go/protect/digital-signature/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="转到 API 到数字签名云 Microsoft Excel 和带有密码和数字签名文件的 OpenOffice Calc 电子表格" h2="转到数字签名云库 Microsoft Excel 和带有密码和数字签名文件的 OpenOffice Calc 电子表格" p="使用 Cells 数字签名 REST API 到数字签名云 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Go 中的密码和数字签名文件工作流程。这个专业的解决方案数字签名云 Microsoft Excel 和 OpenOffice Calc 在线电子表格，使用 Go 提供密码和数字签名文件。" urlsection="protect/Digital-signature/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="转到 API 到数字签名云 Microsoft Excel 和带有密码和数字签名文件的 OpenOffice Calc 电子表格" h2="转到库到数字签名云 Microsoft Excel 和带有密码和数字签名文件的 OpenOffice Calc 电子表格" p="使用 Cells 数字签名 REST API 到数字签名云 Microsoft Excel 和 OpenOffice Calc 电子表格以及 Go 中的密码和数字签名文件工作流程。这个专业的解决方案数字签名云 Microsoft Excel 和 OpenOffice Calc 在线电子表格，使用 Go 提供密码和数字签名文件。" urlsection="protect/Digital-signature/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="数字签名云 Microsoft Excel 和带密码的 OpenOffice Calc 电子表格 - Go REST API" >}}

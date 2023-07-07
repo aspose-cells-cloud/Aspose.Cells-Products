@@ -10,7 +10,7 @@ url: /ru/android/conversion/xlsm-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в XML в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в XML — сложная задача. Все переходы форматов XLSM в XML выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSM в XML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из XLSM в XML — сложная задача. Все переходы формата XLSM в формат XML выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSM. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSM в XML. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLSM в формат XML" gistPath="" %}}

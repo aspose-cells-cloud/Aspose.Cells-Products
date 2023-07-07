@@ -10,7 +10,7 @@ url: /ru/java/conversion/numbers-to-bmp/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в BMP в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в BMP — сложная задача. Все преобразования форматов NUMBERS в BMP выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
+Преобразование форматов файлов из NUMBERS в BMP — сложная задача. Все преобразования форматов NUMBERS в BMP выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержание исходной электронной таблицы NUMBERS. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов NUMBERS в BMP. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат BMP.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования NUMBERS в формат BMP" gistPath="" %}}

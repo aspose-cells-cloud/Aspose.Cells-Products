@@ -10,7 +10,7 @@ url: /ru/php/saveas/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSM в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы между форматами MHTML и XLSM выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLSM.
+Сохранение форматов файлов из MHTML в виде XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK PHP, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека PHP — это профессиональное решение для сохранения файлов MHTML в виде файлов XLSM в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения MHTML в формате XLSM" gistPath="" %}}

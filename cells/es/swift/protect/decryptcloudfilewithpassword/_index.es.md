@@ -4,7 +4,7 @@ description:  API y SDK en la nube para Microsoft Excel y OpenOffice Calc descif
 url: /es/swift/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca Swift para descifrar la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Swift. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Swift." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" h2="Biblioteca Swift para descifrar la nube Microsoft Excel y hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Decrypt REST API para descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Swift. Esta solución profesional descifra la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Swift." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Descifrar la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña - Swift REST API" >}}

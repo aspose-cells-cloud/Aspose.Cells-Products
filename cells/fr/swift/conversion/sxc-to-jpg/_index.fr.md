@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir SXC en JPG API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utiliser Aspose.Cells Cloud SDK for Swift pour convertir le fichier au format SXC en fichier au format JPG.
 url: /fr/swift/conversion/sxc-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

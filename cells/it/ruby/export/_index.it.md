@@ -1,10 +1,10 @@
 ﻿---
-title:  Esporta con Ruby
-description:  Aspose.Cells Cloud REST API supporta l'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati con Ruby. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Esporta usando Ruby
+description:  Aspose.Cells Cloud REST API supporta l'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati utilizzando Ruby. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/ruby/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta con Ruby" h2="Aspose.Cells Cloud SDK supporta l\'esportazione di cartelle di lavoro e oggetti interni in oltre 30 formati di file." p="Aspose.Cells Cloud REST API supporta l\'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati con Ruby. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Esporta usando Ruby" h2="Aspose.Cells Cloud SDK supporta l\'esportazione di cartelle di lavoro e oggetti interni in oltre 30 formati di file." p="Aspose.Cells Cloud REST API supporta l\'esportazione di cartelle di lavoro e oggetti interni in tutti i tipi di formati utilizzando Ruby. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /it/ruby/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK cloud</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Esporta con collegamenti Ruby Extension" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Esporta utilizzando i link dell\'estensione Ruby" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/ruby/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

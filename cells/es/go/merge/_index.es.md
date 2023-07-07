@@ -1,10 +1,10 @@
 ﻿---
-title:  Combinar con Ir
-description: Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+title:  Combinar usando Ir
+description: Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel mediante Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/go/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Combinar con Ir" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel con Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Combinar usando Ir" h2="Aspose.Cells Cloud SDK admite la combinación de varios archivos Excel en un archivo Excel." p="Aspose.Cells Cloud REST API admite la combinación de varios archivos Excel en un archivo Excel mediante Go. SDK admite múltiples lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /es/go/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>SDK de la nube</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Combinar con los enlaces de la extensión Go" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Fusionar usando enlaces de extensión Go" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

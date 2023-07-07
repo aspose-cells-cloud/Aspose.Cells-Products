@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как WMF в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из XML в виде WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Perl — это профессиональное решение для сохранения XML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XML в формате WMF" gistPath="" %}}

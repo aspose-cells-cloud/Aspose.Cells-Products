@@ -13,7 +13,7 @@ url: /es/perl/export/listobject-to-xps/
 Exportar el objeto LISTOBJECT al archivo XPS desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato XPS se realiza mediante nuestro SDK Perl mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Perl es una solución profesional para exportar objetos LISTOBJECT a archivos de formato XPS en línea. Este SDK de Cloud ofrece a los desarrolladores de Perl una potente funcionalidad y un resultado XPS perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Perl usando REST API para exportar LISTOBJECT al formato XPS desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Perl usando REST API para exportar LISTOBJECT al formato XPS desde la hoja de cálculo" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/

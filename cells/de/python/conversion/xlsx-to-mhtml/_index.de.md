@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in MHTML Konvertieren Sie API in Python
-description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
 url: /de/python/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

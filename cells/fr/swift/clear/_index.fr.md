@@ -1,14 +1,14 @@
 ﻿---
-title:  Effacer les objets
-description:  Aspose.Cells Cloud REST API prend en charge les objets internes clairs dans un fichier Excel. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Effacer des objets à l'aide de Swift
+description:  Aspose.Cells Cloud REST API prend en charge les objets internes clairs dans un fichier Excel à l'aide de Swift. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/swift/clear/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Effacer les objets" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge les objets internes clairs dans un fichier Excel. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="clear/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Effacer des objets à l\'aide de Swift" h2="Aspose.Cells Le SDK Cloud prend en charge le contenu clair, le style, le graphique, le tableau, l\'arrière-plan, etc. dans les fichiers Excel." p="Aspose.Cells Cloud REST API prend en charge les objets internes clairs dans un fichier Excel à l\'aide de Swift. SDK prend en charge plusieurs langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="clear/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Effacer les liens d\'extension d\'objets" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Effacer les objets à l\'aide des liens d\'extension Swift" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

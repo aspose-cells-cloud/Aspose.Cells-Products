@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie BMP als WMF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Aspose.Cells Cloud SDK für Swift, um die Datei im BMP-Format als WMF-Formatdatei zu speichern.
 url: /de/swift/saveas/bmp-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

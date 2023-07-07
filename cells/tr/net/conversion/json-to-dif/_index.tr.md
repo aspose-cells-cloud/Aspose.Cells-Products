@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan DIF'ye Dönüştürme API için C#
-description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
+description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

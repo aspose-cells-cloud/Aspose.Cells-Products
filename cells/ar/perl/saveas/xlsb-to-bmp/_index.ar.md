@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف ب
 url: /ar/perl/saveas/xlsb-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSB كـ BMP" h2="مكتبة Perl لحفظ XLSB كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSB كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsb-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لحفظ XLSB كـ BMP" h2="مكتبة Perl لحفظ XLSB كـ BMP" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لحفظ XLSB كـ BMP وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="saveas/xlsb-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB بالشكل BMP في Perl" >}}

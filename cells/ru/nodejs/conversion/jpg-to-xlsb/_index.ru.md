@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/jpg-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JPG в XLSB в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JPG в XLSB — сложная задача. Все переходы формата JPG в формат XLSB выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов JPG в XLSB. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLSB.
+Преобразование форматов файлов из JPG в XLSB — сложная задача. Все переходы между форматами JPG и XLSB выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы JPG. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов JPG в XLSB. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования JPG в формат XLSB" gistPath="" %}}

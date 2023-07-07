@@ -1,10 +1,10 @@
 ﻿---
 title:  Swift için SXC'yi XLSM API olarak kaydedin
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  SXC biçim dosyasını XLSM biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/saveas/sxc-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSM olarak kaydetmek için Swift API" h2="SXC\'yi XLSM olarak kaydetmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak SXC\'yi XLSM ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="SXC\'yi XLSM olarak kaydetmek için Swift API" h2="SXC\'yi XLSM olarak kaydetmek için Swift kütüphanesi" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Swift kullanarak çevrimiçi olarak SXC\'yi XLSM ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/sxc-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir SXC dosyasını Swift\'de XLSM olarak kaydedin" >}}

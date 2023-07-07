@@ -10,7 +10,7 @@ url: /es/android/saveas/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como XLTX en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como XLTX es una tarea compleja. Todas las transiciones de formato HTML a XLTX las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para guardar HTML como archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLTX perfecta.
+Guardar formatos de archivo desde HTML como XLTX es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato HTML a XLTX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca de Android es una solución profesional para guardar HTML como archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLTX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar HTML como formato XLTX" gistPath="" %}}

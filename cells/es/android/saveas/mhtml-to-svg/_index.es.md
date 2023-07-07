@@ -10,7 +10,7 @@ url: /es/android/saveas/mhtml-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo MHTML como SVG en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de MHTML como SVG es una tarea compleja. Todas las transiciones de formato MHTML a SVG las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar archivos MHTML como SVG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida SVG perfecta.
+Guardar formatos de archivo de MHTML como SVG es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato MHTML a SVG mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar archivos MHTML como SVG en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida SVG perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar MHTML como formato SVG" gistPath="" %}}

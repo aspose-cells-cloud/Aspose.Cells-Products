@@ -1,13 +1,13 @@
 ﻿---
 title:  JPG a XLT Convertir API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato JPG a un archivo de formato XLT.
 url: /es/swift/conversion/jpg-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir JPG a XLT" h2="Biblioteca Swift para convertir JPG a XLT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir JPG a XLT y otros formatos de documentos en línea usando Swift." urlsection="conversion/jpg-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo JPG a XLT en Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo JPG a XLT en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de JPG a XLT es una tarea compleja. Nuestro Swift SDK realiza todas las transiciones de formato JPG a XLT mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo JPG de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos JPG a XLT en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida XLT perfecta.

@@ -1,6 +1,6 @@
 ﻿---
 title:  Guardar XLS como TIFF API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para guardar el archivo de formato XLS como archivo de formato TIFF.
 url: /es/swift/saveas/xls-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

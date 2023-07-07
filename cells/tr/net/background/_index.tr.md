@@ -1,14 +1,14 @@
 ﻿---
-title:  C# ile arka planı ayarla
-description:  Aspose.Cells Cloud REST API, C# ile Excel dosyası için ayarlanan arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  C# kullanarak arka planı ayarla
+description:  Aspose.Cells Cloud REST API, C# kullanan Excel dosyası için arka plan ayarlamayı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/net/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# ile arka planı ayarla" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, C# ile Excel dosyası için ayarlanan arka planı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# kullanarak arka planı ayarla" h2="Aspose.Cells Cloud SDK, Excel dosyalarındaki net içeriği, stili, grafiği, tabloyu, arka planı vb. destekler." p="Aspose.Cells Cloud REST API, C# kullanan Excel dosyası için arka plan ayarlamayı destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="C# Uzantı bağlantıları ile arka planı ayarla" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="C# Uzantı bağlantılarını kullanarak arka planı ayarlayın" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

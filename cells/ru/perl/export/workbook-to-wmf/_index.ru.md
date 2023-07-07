@@ -10,7 +10,7 @@ url: /ru/perl/export/workbook-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKBOOK в файл формата WMF в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKBOOK в файл WMF из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат WMF выполняется нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Экспорт объекта WORKBOOK в файл WMF из электронной таблицы — сложная задача. Экспорт переходов WORKBOOK в формат WMF выполняется нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKBOOK. Наша библиотека Perl — это профессиональное решение для онлайн-экспорта объектов WORKBOOK в файлы формата WMF. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для экспорта WORKBOOK в формат WMF из электронной таблицы" gistPath="" %}}

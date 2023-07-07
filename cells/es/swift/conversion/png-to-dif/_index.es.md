@@ -1,6 +1,6 @@
 ﻿---
-title: PNG a DIF Convertir API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+title:  PNG a DIF Convertir API para Swift
+description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato PNG a un archivo de formato DIF.
 url: /es/swift/conversion/png-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

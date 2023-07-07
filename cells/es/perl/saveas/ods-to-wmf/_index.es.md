@@ -1,5 +1,5 @@
 ﻿---
-title:  Guarde ODS como WMF API para Perl
+title:  Guardar ODS como WMF API para Perl
 description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato ODS como archivo de formato WMF.
 url: /es/perl/saveas/ods-to-wmf/
 ---

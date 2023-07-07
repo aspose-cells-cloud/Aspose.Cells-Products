@@ -7,7 +7,7 @@ url: /ru/nodejs/saveas/txt-to-xml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для сохранения TXT в формате XML" h2="Библиотека NodeJS для сохранения TXT в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для сохранения TXT в виде XML и других форматов документов в Интернете с использованием NodeJS." urlsection="saveas/txt-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT в формате XML в NodeJS." >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как XML в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из TXT в виде XML — сложная задача. Все переходы форматов TXT в XML выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека NodeJS — это профессиональное решение для сохранения TXT в виде файлов XML в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XML.

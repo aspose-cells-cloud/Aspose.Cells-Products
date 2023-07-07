@@ -7,7 +7,7 @@ url: /fr/go/conversion/txt-to-xls/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir TXT en XLS" h2="Accédez à la bibliothèque pour convertir TXT en XLS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir TXT en XLS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/txt-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TXT en XLS dans Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier TXT en XLS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 La conversion des formats de fichiers de TXT en XLS est une tâche complexe. Toutes les transitions de format TXT vers XLS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul TXT source. Notre bibliothèque Go est une solution professionnelle pour convertir des fichiers TXT en XLS en ligne. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLS parfaite.

@@ -10,7 +10,7 @@ url: /ar/python/conversion/xml-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XML إلى MD في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XML إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى MD بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات XML إلى ملفات MD عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج MD مثالي.
+يعد تحويل تنسيقات الملفات من XML إلى MD مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XML إلى MD بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات XML المصدر. تعد مكتبتنا Python حلاً احترافيًا لتحويل ملفات XML إلى ملفات MD عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج MD مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Python باستخدام REST API لتحويل XML إلى تنسيق MD" gistPath="" %}}

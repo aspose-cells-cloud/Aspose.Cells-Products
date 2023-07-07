@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSX som FODS API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara XLSX-formatfil som FODS-formatfil.
 url: /sv/swift/saveas/xlsx-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

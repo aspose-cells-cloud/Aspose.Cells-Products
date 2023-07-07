@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer l
 url: /fr/perl/saveas/csv-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer CSV sous PNG" h2="Perl bibliothèque pour enregistrer CSV sous PNG" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous PNG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/csv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer CSV sous PNG" h2="Bibliothèque Perl pour enregistrer CSV sous PNG" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer CSV sous PNG et d\'autres formats de documents en ligne à l\'aide de Perl." urlsection="saveas/csv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier CSV sous PNG dans Perl" >}}

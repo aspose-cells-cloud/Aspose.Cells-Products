@@ -10,7 +10,7 @@ url: /ru/perl/saveas/sxc-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как XPS в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как XPS — сложная задача. Все переходы формата SXC в формат XPS выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для сохранения SXC в виде файлов XPS в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов из SXC как XPS — сложная задача. Все переходы формата SXC в формат XPS выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Perl — это профессиональное решение для сохранения SXC в виде файлов XPS в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения SXC в формате XPS" gistPath="" %}}

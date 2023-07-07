@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir JPG en DOCX API pour Android
-description:  Utiliser Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format JPG en fichier au format DOCX.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir un fichier au format JPG en fichier au format DOCX.
 url: /fr/android/conversion/jpg-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

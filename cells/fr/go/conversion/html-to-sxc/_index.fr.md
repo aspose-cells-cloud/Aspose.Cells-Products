@@ -4,7 +4,7 @@ description: Utilisation du SDK Cloud Aspose.Cells pour Go pour convertir le fic
 url: /fr/go/conversion/html-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir HTML en SXC" h2="Accédez à la bibliothèque pour convertir HTML en SXC" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir HTML en SXC et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/html-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour convertir HTML en SXC" h2="Accédez à la bibliothèque pour convertir HTML en SXC" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour convertir HTML en SXC et autres formats de documents en ligne à l\'aide de Go." urlsection="conversion/html-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier HTML en SXC en Go" >}}

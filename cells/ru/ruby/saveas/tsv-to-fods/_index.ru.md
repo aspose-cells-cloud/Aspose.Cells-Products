@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/tsv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде FODS — сложная задача. Все переходы форматов TSV в FODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в виде файлов FODS онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Сохранение форматов файлов из TSV в виде FODS — сложная задача. Все переходы форматов TSV в FODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения TSV в виде файлов FODS онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TSV в формате FODS" gistPath="" %}}

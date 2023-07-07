@@ -10,7 +10,7 @@ url: /ru/net/saveas/html-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как XLTX в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам C# мощную функциональность и превосходный результат XLTX.
+Сохранение форматов файлов с HTML как XLTX — сложная задача. Все переходы формата HTML в формат XLTX выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам C# мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате XLTX" gistPath="" %}}

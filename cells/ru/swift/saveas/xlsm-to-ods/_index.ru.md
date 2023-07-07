@@ -1,10 +1,10 @@
 ﻿---
 title:  Сохраните XLSM как ODS API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата XLSM в виде файла формата ODS.
 url: /ru/swift/saveas/xlsm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XLSM как ODS" h2="Библиотека Swift для сохранения XLSM как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLSM в виде ODS и других форматов документов в Интернете с использованием Swift." urlsection="saveas/xlsm-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для сохранения XLSM как ODS" h2="Библиотека Swift для сохранения XLSM как ODS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для сохранения XLSM в виде ODS и других форматов документов в Интернете с помощью Swift." urlsection="saveas/xlsm-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSM как ODS в Swift" >}}

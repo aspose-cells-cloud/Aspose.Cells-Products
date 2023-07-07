@@ -10,7 +10,7 @@ url: /tr/android/conversion/tsv-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Android\'de JSON\'a dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TSV'den JSON'a dönüştürmek karmaşık bir iştir. Tüm TSV'den JSON formatına geçişler, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
+Dosya formatlarını TSV'den JSON'a dönüştürmek karmaşık bir iştir. Tüm TSV'den JSON'a biçim geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak JSON dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi JSON biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

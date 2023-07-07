@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Perl لتحويل مل�
 url: /ar/perl/conversion/xltx-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLTX إلى PDF" h2="مكتبة Perl لتحويل XLTX إلى PDF" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLTX إلى PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xltx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لتحويل XLTX إلى PDF" h2="مكتبة Perl لتحويل XLTX إلى PDF" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Perl. هذا حل احترافي لتحويل XLTX إلى PDF وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Perl." urlsection="conversion/xltx-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى PDF في Perl" >}}

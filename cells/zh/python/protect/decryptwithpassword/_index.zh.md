@@ -4,7 +4,7 @@ description: Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK 解锁。电
 url: /zh/python/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="Python库解密本地Microsoft Excel和带有密码的OpenOffice Calc电子表格" p="使用 Cells Decrypt REST API 解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格（使用 Python 中的密码工作流程）。此专业解决方案使用 Python 解密本地 Microsoft Excel 和在线 OpenOffice Calc 电子表格（使用密码）。" urlsection="protect/Decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格" h2="Python 库，用于解密本地 Microsoft Excel 和带密码的 OpenOffice Calc 电子表格" p="使用 Cells Decrypt REST API 解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格（使用 Python 中的密码工作流程）。此专业解决方案使用 Python 解密本地 Microsoft Excel 和在线 OpenOffice Calc 电子表格（使用密码）。" urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="使用密码解密本地 Microsoft Excel 和 OpenOffice Calc 电子表格 - Python REST API" >}}

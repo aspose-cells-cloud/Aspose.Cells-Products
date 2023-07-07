@@ -10,7 +10,7 @@ url: /it/ruby/export/worksheet-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET in un file in formato MD in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET in un file MD dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da FOGLIO DI LAVORO a formato MD viene eseguita dal nostro Ruby SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti WORKSHEET in file in formato MD online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un perfetto output MD.
+Esportare l'oggetto WORKSHEET in un file MD dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da FOGLIO DI LAVORO a formato MD viene eseguita dal nostro SDK Ruby mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Ruby è una soluzione professionale per esportare oggetti WORKSHEET in file in formato MD online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un perfetto output MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per esportare WORKSHEET in formato MD dal foglio di calcolo" gistPath="" %}}

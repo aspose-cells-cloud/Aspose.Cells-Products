@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc üzerindeki yorumları temizlem
 url: /tr/swift/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizlemek için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları silmek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizlemek için Swift API" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizlemek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki yorumları temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanan yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları netleştirir." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki yorumları temizle - Swift REST API" >}}

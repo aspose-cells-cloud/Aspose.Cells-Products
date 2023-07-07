@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/csv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в FODS — сложная задача. Все переходы между форматами CSV и FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов CSV в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
+Преобразование форматов файлов из CSV в FODS — сложная задача. Все переходы между форматами CSV и FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов CSV в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования CSV в формат FODS" gistPath="" %}}

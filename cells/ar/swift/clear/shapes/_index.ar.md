@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأشكال على Microsoft Excel & 
 url: /ar/swift/clear/shapes/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="سويفت مسح لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/shapes/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="سويفت مسح لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells Clear REST API لمسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Shapes/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Swift REST API" >}}

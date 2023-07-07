@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSM zu XLTM Konvertieren API für NodeJS
-description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer XLSM-Formatdatei in eine XLTM-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im XLSM-Format in eine Datei im XLTM-Format.
 url: /de/nodejs/conversion/xlsm-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

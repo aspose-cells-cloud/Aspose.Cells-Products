@@ -10,7 +10,7 @@ url: /fr/android/conversion/ods-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en XML sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers d'ODS en XML est une tâche complexe. Toutes les transitions de format ODS vers XML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Android est une solution professionnelle pour convertir des ODS en fichiers XML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XML parfaite.
+La conversion des formats de fichiers d'ODS en XML est une tâche complexe. Toutes les transitions de format ODS vers XML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Android est une solution professionnelle pour convertir en ligne des fichiers ODS en XML. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie XML parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour convertir ODS au format XML" gistPath="" %}}

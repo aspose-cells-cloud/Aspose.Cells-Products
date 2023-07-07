@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS en MHTML Convertir API pour C#
-description:  Utiliser Aspose.Cells Cloud SDK pour C# pour convertir le fichier au format ODS en fichier au format MHTML.
+description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour convertir le fichier au format ODS en fichier au format MHTML.
 url: /fr/net/conversion/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le
 url: /fr/php/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer NUMBERS en SQL" h2="PHP bibliothèque pour enregistrer NUMBERS en SQL" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format SQL et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer NUMBERS en SQL" h2="PHP bibliothèque pour enregistrer NUMBERS en SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format SQL et d\'autres formats de document en ligne à l\'aide de PHP." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier NUMBERS en tant que SQL dans PHP" >}}

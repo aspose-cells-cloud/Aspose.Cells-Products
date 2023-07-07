@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/saveas/tsv-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения TSV как DIF" h2="Java библиотека для сохранения TSV как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения TSV в виде DIF и других форматов документов в Интернете с использованием Java." urlsection="saveas/tsv-to-dif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения TSV как DIF" h2="Java библиотека для сохранения TSV как DIF" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения TSV как DIF и других форматов документов в Интернете с использованием Java." urlsection="saveas/tsv-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как DIF в Java." >}}

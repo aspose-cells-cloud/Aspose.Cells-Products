@@ -1,5 +1,5 @@
 ﻿---
-title:  SXC zu XLTX Konvertieren Sie API für NodeJS
+title:  SXC zu XLTX Konvertieren API für NodeJS
 description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren einer Datei im SXC-Format in eine Datei im XLTX-Format.
 url: /de/nodejs/conversion/sxc-to-xltx/
 ---

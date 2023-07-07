@@ -10,7 +10,7 @@ url: /es/android/saveas/mhtml-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo MHTML como TIFF en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo de MHTML como TIFF es una tarea compleja. Todas las transiciones de formato MHTML a TIFF las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar archivos MHTML como TIFF en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TIFF perfecta.
+Guardar formatos de archivo de MHTML como TIFF es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato MHTML a TIFF mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo MHTML de origen. Nuestra biblioteca de Android es una solución profesional para guardar archivos MHTML como TIFF en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida TIFF perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para guardar MHTML como formato TIFF" gistPath="" %}}

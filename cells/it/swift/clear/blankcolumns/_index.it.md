@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare colonne vuote su Microsoft Excel e O
 url: /it/swift/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le colonne vuote nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare le colonne vuote nei flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cancella colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}
@@ -18,7 +18,7 @@ Cancellare le colonne vuote sul foglio di calcolo locale Microsoft Excel e OpenO
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Come utilizzare Swift API per cancellare le colonne vuote" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare Swift API per cancellare le colonne vuote" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo postClearObjects per ottenere il flusso risultante</li>

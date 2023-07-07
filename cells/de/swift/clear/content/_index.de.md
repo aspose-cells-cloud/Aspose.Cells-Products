@@ -4,7 +4,7 @@ description:  Cloud-APIs und SDKs zum Löschen von Inhalten auf Microsoft Excel 
 url: /de/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen von Inhalten in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Inhalte in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Löschen Sie Inhalte auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Swift REST API" >}}

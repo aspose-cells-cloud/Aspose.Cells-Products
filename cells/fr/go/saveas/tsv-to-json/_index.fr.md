@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrez TSV sous JSON API pour Go
-description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le fichier au format TSV en tant que fichier au format JSON.
+description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format TSV en tant que fichier au format JSON.
 url: /fr/go/saveas/tsv-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

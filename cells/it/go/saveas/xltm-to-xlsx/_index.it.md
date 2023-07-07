@@ -10,7 +10,7 @@ url: /it/go/saveas/xltm-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLTM come XLSX in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLTM come XLSX è un compito complesso. Tutte le transizioni di formato da XLTM a XLSX vengono eseguite dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLTM di origine. La nostra libreria Go è una soluzione professionale per salvare XLTM come file XLSX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSX.
+Salvare i formati di file da XLTM come XLSX è un compito complesso. Tutte le transizioni di formato da XLTM a XLSX vengono eseguite dal nostro Go SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLTM di origine. La nostra libreria Go è una soluzione professionale per salvare XLTM come file XLSX online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto output XLSX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Vai utilizzando REST API per salvare XLTM come formato XLSX" gistPath="" %}}

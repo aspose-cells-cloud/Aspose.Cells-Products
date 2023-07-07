@@ -4,7 +4,7 @@ description: استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ �
 url: /ar/android/saveas/jpg-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ MD" h2="مكتبة Android لحفظ JPG كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG كملف MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ JPG كـ MD" h2="مكتبة Android لحفظ JPG كـ MD" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ JPG كملف MD وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/jpg-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JPG كملف MD في Android" >}}

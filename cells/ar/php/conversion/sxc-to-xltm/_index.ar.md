@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 url: /ar/php/conversion/sxc-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل SXC إلى XLTM" h2="PHP مكتبة لتحويل SXC إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في PHP. هذا حل احترافي لتحويل SXC إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/sxc-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل SXC إلى XLTM" h2="PHP مكتبة لتحويل SXC إلى XLTM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل SXC إلى XLTM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/sxc-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف SXC إلى XLTM في PHP" >}}

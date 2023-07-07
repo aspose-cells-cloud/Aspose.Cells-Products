@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV unter EMF API für Swift speichern
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im TSV-Format als Datei im Format EMF zu speichern.
 url: /de/swift/saveas/tsv-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

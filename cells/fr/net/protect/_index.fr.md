@@ -1,14 +1,14 @@
 ﻿---
-title:  Protégez avec C#
-description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Protégez en utilisant C#
+description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/net/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez avec C#" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez en utilisant C#" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l\'aide de C#. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protégez avec les liens d\'extension C#" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protégez en utilisant les liens d\'extension C#" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

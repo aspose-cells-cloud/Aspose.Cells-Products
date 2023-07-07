@@ -10,7 +10,7 @@ url: /ru/java/conversion/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLSM в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLSM — сложная задача. Все переходы между форматами MHTML и XLSM выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в XLSM. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из MHTML в XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы MHTML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов MHTML в XLSM. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования MHTML в формат XLSM" gistPath="" %}}

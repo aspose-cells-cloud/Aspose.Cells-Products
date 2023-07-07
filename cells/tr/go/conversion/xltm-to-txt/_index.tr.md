@@ -10,7 +10,7 @@ url: /tr/go/conversion/xltm-to-txt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLTM dosyasını Go\'da TXT\'ye dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını XLTM'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den TXT formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTM'yi çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
+Dosya formatlarını XLTM'den TXT'ye dönüştürmek karmaşık bir iştir. Tüm XLTM'den TXT formatına geçişler, kaynak XLTM elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, XLTM'yi çevrimiçi olarak TXT dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel TXT çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLTM\'yi TXT formatına dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

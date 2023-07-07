@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح عمليات التحقق على Micros
 url: /ar/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح عمليات التحقق على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح عمليات التحقق على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells Clear REST API لمسح عمليات التحقق من صحة Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح عمليات التحقق من صحة Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح التحقق من صحة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Swift REST API" >}}

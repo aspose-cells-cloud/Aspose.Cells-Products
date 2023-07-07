@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer JSON sous WMF API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour enregistrer le fichier au format JSON en tant que fichier au format WMF.
 url: /fr/swift/saveas/json-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /fr/swift/saveas/json-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier JSON au format WMF dans Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de JSON en tant que WMF est une tâche complexe. Toutes les transitions de format JSON vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers JSON en tant que WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
+L'enregistrement de formats de fichiers à partir de JSON en tant que WMF est une tâche complexe. Toutes les transitions de format JSON vers WMF sont effectuées par notre SDK Swift tout en conservant le contenu structurel et logique principal de la feuille de calcul JSON source. Notre bibliothèque Swift est une solution professionnelle pour enregistrer des fichiers JSON en tant que fichiers WMF en ligne. Ce SDK Cloud offre aux développeurs Swift des fonctionnalités puissantes et une sortie WMF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Swift utilisant REST API pour enregistrer JSON au format WMF" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /tr/android/saveas/sxc-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir SXC dosyasını PPTX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini SXC'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm SXC'den PPTX'e biçim geçişleri, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+Dosya biçimlerini SXC'den PPTX olarak kaydetmek karmaşık bir iştir. Tüm SXC'den PPTX'e format geçişleri, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi PPTX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SXC\'yi PPTX formatı olarak kaydetmek için REST API kullanan Android\'deki kod örneği" gistPath="" %}}

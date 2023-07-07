@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/xlt-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLT dosyasını Ruby\'de WMF olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLT'den WMF olarak kaydetmek karmaşık bir iştir. Tüm XLT'den WMF'ye biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLT'yi çevrimiçi WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
+Dosya biçimlerini XLT'den WMF olarak kaydetmek karmaşık bir görevdir. Tüm XLT'den WMF'ye biçim geçişleri, kaynak XLT elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, XLT'yi çevrimiçi WMF dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel WMF çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLT\'yi WMF formatı olarak kaydetmek için REST API kullanan Ruby\'deki kod örneği" gistPath="" %}}

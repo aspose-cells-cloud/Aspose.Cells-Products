@@ -8,7 +8,7 @@ url: /sv/python/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med Python Förlängningslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med Python Tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -10,7 +10,7 @@ url: /tr/net/saveas/bmp-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir BMP dosyasını C#\'de XLSX olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+BMP'den dosya formatlarını XLSX olarak kaydetmek karmaşık bir iştir. BMP'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak BMP e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, BMP'i çevrimiçi XLSX dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="BMP\'i XLSX formatı olarak kaydetmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}

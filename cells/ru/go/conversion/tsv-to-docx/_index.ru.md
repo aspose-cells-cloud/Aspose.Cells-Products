@@ -10,7 +10,7 @@ url: /ru/go/conversion/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в DOCX в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из TSV в DOCX — сложная задача. Все переходы TSV в формат DOCX выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов TSV в DOCX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
+Преобразование форматов файлов из TSV в DOCX — сложная задача. Все переходы формата TSV в формат DOCX выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов TSV в DOCX. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод в формате DOCX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования TSV в формат DOCX" gistPath="" %}}

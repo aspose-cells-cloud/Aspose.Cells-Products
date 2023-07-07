@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как SXC API для Go
-description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата JPG в виде файла формата SXC.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата JPG в виде файла формата SXC.
 url: /ru/go/saveas/jpg-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

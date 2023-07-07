@@ -10,7 +10,7 @@ url: /ru/net/saveas/html-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл HTML как WMF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с HTML как WMF — сложная задача. Все переходы формата HTML в формат WMF выполняются нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов с HTML как WMF — сложная задача. Все переходы формата HTML в формат WMF выполняются нашим пакетом SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека C# — это профессиональное решение для сохранения HTML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения HTML в формате WMF" gistPath="" %}}

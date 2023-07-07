@@ -10,10 +10,10 @@ url: /es/ruby/export/listobject-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto LISTOBJECT al archivo de formato TIFF en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto LISTOBJECT al archivo TIFF desde la hoja de cálculo es una tarea compleja. Nuestro SDK de Ruby realiza la exportación de LISTOBJECT a las transiciones de formato TIFF mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato TIFF en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y un resultado TIFF perfecto.
+Exportar el objeto LISTOBJECT al archivo TIFF desde la hoja de cálculo es una tarea compleja. Nuestro Ruby SDK realiza la exportación de LISTOBJECT a las transiciones de formato TIFF mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca Ruby es una solución profesional para exportar objetos LISTOBJECT a archivos de formato TIFF en línea. Este SDK de Cloud ofrece a los desarrolladores de Ruby una potente funcionalidad y un resultado TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para exportar LISTOBJECT al formato TIFF desde la hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para exportar LISTOBJECT al formato TIFF desde una hoja de cálculo" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

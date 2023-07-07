@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الرسوم البيانية على Mi
 url: /ar/swift/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح الرسوم البيانية في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الرسوم البيانية على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift Clear لمسح الرسوم البيانية في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المخططات على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يوضح هذا الحل الاحترافي المخططات على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المخططات على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Swift REST API" >}}

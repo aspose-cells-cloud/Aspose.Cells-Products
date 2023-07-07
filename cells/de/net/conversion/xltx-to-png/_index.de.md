@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in PNG Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLTX-Formatdatei in eine Datei im PNG-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im XLTX-Format in eine Datei im Format PNG zu konvertieren.
 url: /de/net/conversion/xltx-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

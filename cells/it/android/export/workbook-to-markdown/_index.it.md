@@ -10,7 +10,7 @@ url: /it/android/export/workbook-to-markdown/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato MARKDOWN in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKBOOK nel file MARKDOWN dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato MARKDOWN viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato MARKDOWN online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output MARKDOWN perfetto.
+L'esportazione dell'oggetto WORKBOOK nel file MARKDOWN dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato MARKDOWN viene eseguita dal nostro SDK Android mantenendo il principale contenuto strutturale e logico del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato MARKDOWN online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output MARKDOWN perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per esportare WORKBOOK in formato MARKDOWN dal foglio di calcolo" gistPath="" %}}

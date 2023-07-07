@@ -1,5 +1,5 @@
 ﻿---
-title:  Guarde ODS como WMF API para Python
+title:  Guardar ODS como WMF API para Python
 description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato ODS como archivo de formato WMF.
 url: /es/python/saveas/ods-to-wmf/
 ---

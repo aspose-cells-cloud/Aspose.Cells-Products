@@ -10,7 +10,7 @@ url: /ar/perl/conversion/mhtml-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى XLTX في Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من MHTML إلى XLTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق MHTML إلى XLTX بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا Perl هي حل احترافي لتحويل ملفات MHTML إلى XLTX عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLTX مثالي.
+يعد تحويل تنسيقات الملفات من MHTML إلى XLTX مهمة معقدة. يتم إجراء جميع انتقالات تنسيق MHTML إلى XLTX بواسطة Perl SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات MHTML المصدر. مكتبتنا Perl هي حل احترافي لتحويل ملفات MHTML إلى XLTX عبر الإنترنت. يوفر Cloud SDK للمطورين Perl وظائف قوية وإخراج XLTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Perl باستخدام REST API لتحويل MHTML إلى تنسيق XLTX" gistPath="" %}}

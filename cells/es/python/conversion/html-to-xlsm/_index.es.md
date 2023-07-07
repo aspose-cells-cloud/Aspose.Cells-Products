@@ -10,7 +10,7 @@ url: /es/python/conversion/html-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo HTML a XLSM en Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de HTML a XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Python es una solución profesional para convertir HTML a archivos XLSM en línea. Este SDK de la nube ofrece a los desarrolladores de Python una potente funcionalidad y una salida XLSM perfecta.
+Convertir formatos de archivo de HTML a XLSM es una tarea compleja. Todas las transiciones de formato HTML a XLSM se realizan mediante nuestro SDK Python mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Python es una solución profesional para convertir HTML a archivos XLSM en línea. Este SDK de Cloud ofrece a los desarrolladores de Python una potente funcionalidad y una salida XLSM perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Python usando REST API para convertir HTML al formato XLSM" gistPath="" %}}

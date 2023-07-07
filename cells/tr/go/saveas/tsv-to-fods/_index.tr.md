@@ -10,7 +10,7 @@ url: /tr/go/saveas/tsv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir TSV dosyasını Go\'da FODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya formatlarını TSV'den FODS olarak kaydetmek karmaşık bir iştir. Tüm TSV'den FODS formatına geçişler, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, TSV'yi çevrimiçi olarak FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya formatlarını TSV'den FODS olarak kaydetmek karmaşık bir iştir. Tüm TSV'den FODS formatına geçişler, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, TSV'yi çevrimiçi olarak FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi FODS formatı olarak kaydetmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Git ile Birleştir
-description: Aspose.Cells Cloud REST API, birden çok Excel dosyasını Go ile bir Excel dosyasında birleştirmeyi destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
+title:  Go kullanarak birleştir
+description: Aspose.Cells Cloud REST API, birden çok Excel dosyasını Go kullanarak bir Excel dosyasında birleştirmeyi destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift'i içerir.
 url: /tr/go/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Git ile Birleştir" h2="Aspose.Cells Cloud SDK, birden çok Excel dosyasının bir Excel dosyasında birleştirilmesini destekler.." p="Aspose.Cells Cloud REST API, birden çok Excel dosyasını Go ile bir Excel dosyasında birleştirmeyi destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Go kullanarak birleştir" h2="Aspose.Cells Cloud SDK, birden çok Excel dosyasının bir Excel dosyasında birleştirilmesini destekler.." p="Aspose.Cells Cloud REST API, birden çok Excel dosyasını Go kullanarak bir Excel dosyasında birleştirmeyi destekler. SDK, birden çok geliştirme dilini destekler. Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby ve Swift\'i içerir." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /tr/go/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Bulut SDK'sı</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Go Uzantısı bağlantılarıyla birleştirin" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Go Extension bağlantılarını kullanarak birleştirme" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

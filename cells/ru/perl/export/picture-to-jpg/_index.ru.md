@@ -1,5 +1,5 @@
 ﻿---
-title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с использованием Perl API
+title:  Экспорт ИЗОБРАЖЕНИЯ в JPG из электронной таблицы с помощью Perl API
 description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/perl/export/picture-to-jpg/
 ---

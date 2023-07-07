@@ -12,9 +12,9 @@ url: /tr/php
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="/sdk/aspose_cells-for-php.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cells" directDownloadLink="https://github.com/aspose-cells-cloud/aspose-cells-cloud-php" liveDemosLink="https://products.aspose.app/cells/family" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Cells PHP için Bulut SDK'sı, geliştiricilerin PHP'de programlanan bulut tabanlı elektronik tablo oluşturucu, görüntüleyici ve dönüştürücü uygulamalarını geliştirmelerine yardımcı olmaları için oluşturulmuştur. Excel belge işlemci bulut SDK'mız, Aspose.Cells REST API'e dayanmaktadır. Aspose.Cells 076173 için Bulut SDK'sı 481 altında mevcuttur bir MIT lisansı.</p>
+<p>Aspose.Cells PHP için Bulut SDK'sı, geliştiricilerin PHP'de programlanan bulut tabanlı elektronik tablo oluşturucu, görüntüleyici ve dönüştürücü uygulamalarını geliştirmelerine yardımcı olmaları için oluşturulmuştur. Excel belge işlemci bulut SDK'mız, Aspose.Cells REST API'e dayanmaktadır. 481 altında mevcuttur bir MIT lisansı.</p>
 <p>PHP'de Excel sayfası oluşturun, otomatik şekiller, otomatik filtreler, çalışma kitapları, çalışma sayfaları, satırlar, hücreler, grafikler, koşullu biçimlendirme, ListObjects, hyperlinks, OleObjects, pivot tablolar, şekiller, aralıklar, görevler, güvenlik, çalışma sayfası doğrulamaları ve bulut ile çalışın tümü PHP için basit Aspose.Cells Cloud SDK kullanan dosya depolama.</p>
-<p>Ayrıca PHP kodunuzun Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) ve OpenOffice (ODS) elektronik tablo belgelerini PDF, XPS, TIFF, SVG, DIF ve MD'ye dönüştürmesini sağlar (İşaretleme).</p>
+<p>Ayrıca PHP kodunuzun Microsoft Excel (XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM) ve OpenOffice (ODS) elektronik tablo belgelerini PDF, XPS, TIFF, SVG, DIF ve MD'ye dönüştürmesine olanak tanır (İşaretleme).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->

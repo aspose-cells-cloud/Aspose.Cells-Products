@@ -10,7 +10,7 @@ url: /ru/java/saveas/tsv-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как WMF в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде WMF — сложная задача. Все переходы между форматами TSV и WMF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Java — это профессиональное решение для сохранения TSV в виде файлов WMF в Интернете. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из TSV в виде WMF — сложная задача. Все переходы между форматами TSV и WMF выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Java — это профессиональное решение для сохранения TSV в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Java мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения TSV в формате WMF" gistPath="" %}}

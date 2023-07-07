@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als XLT API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLS-Formatdateien als XLT-Formatdateien.
 url: /de/swift/saveas/xls-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /de/swift/saveas/xls-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als XLT in Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten von XLS als XLT ist eine komplexe Aufgabe. Alle XLS-zu-XLT-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-XLS-Tabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLS als XLT-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
+Das Speichern von Dateiformaten von XLS als XLT ist eine komplexe Aufgabe. Alle XLS-zu-XLT-Formatübergänge werden von unserem Swift SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der XLS-Quelltabelle erhalten bleiben. Unsere Swift-Bibliothek ist eine professionelle Lösung, um XLS als XLT-Dateien online zu speichern. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte XLT-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Swift mit REST API zum Speichern von XLS als XLT-Format" gistPath="" %}}

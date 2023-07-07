@@ -7,7 +7,7 @@ url: /fr/android/saveas/bmp-to-mhtml/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer BMP en MHTML" h2="Bibliothèque Android pour enregistrer BMP en MHTML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer BMP au format MHTML et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/bmp-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP au format MHTML dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier BMP au format MHTML sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement des formats de fichiers à partir de BMP en tant que MHTML est une tâche complexe. Toutes les transitions de format BMP vers MHTML sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source BMP. Notre bibliothèque Android est une solution professionnelle pour enregistrer BMP sous forme de fichiers MHTML en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie MHTML parfaite.

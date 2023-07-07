@@ -10,7 +10,7 @@ url: /ru/android/conversion/bmp-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл BMP в GIF в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в GIF — сложная задача. Все переходы BMP в формат GIF выполняются нашим Android SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации BMP в файлы GIF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из BMP в GIF — сложная задача. Все переходы BMP в формат GIF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека для Android — это профессиональное решение для онлайн-конвертации BMP в файлы GIF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования BMP в формат GIF" gistPath="" %}}

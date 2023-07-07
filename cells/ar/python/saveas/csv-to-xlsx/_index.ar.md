@@ -7,7 +7,7 @@ url: /ar/python/saveas/csv-to-xlsx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ CSV كـ XLSX" h2="مكتبة Python لحفظ CSV كـ XLSX" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ CSV كـ XLSX وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/csv-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV بتنسيق XLSX في Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV كملف XLSX في Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 يعد حفظ تنسيقات الملفات من CSV مثل XLSX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLSX بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعتبر مكتبة Python الخاصة بنا حلاً احترافيًا لحفظ CSV كملفات XLSX عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية وإخراج XLSX مثالي.

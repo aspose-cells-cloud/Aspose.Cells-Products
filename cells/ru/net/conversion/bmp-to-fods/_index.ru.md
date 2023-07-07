@@ -10,7 +10,7 @@ url: /ru/net/conversion/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в FODS в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат FODS.
+Преобразование форматов файлов из BMP в FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации BMP в файлы FODS. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и отличные результаты FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования BMP в формат FODS" gistPath="" %}}

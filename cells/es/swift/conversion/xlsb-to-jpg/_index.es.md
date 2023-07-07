@@ -1,13 +1,13 @@
 ﻿---
 title:  XLSB a JPG Convertir API para Swift
-description: API y SDK en la nube para Microsoft Excel y OpenOffice Calc. Convierta la hoja de cálculo a otro archivo de formato.
+description:  Usando Aspose.Cells Cloud SDK para Swift para convertir un archivo de formato XLSB a un archivo de formato JPG.
 url: /es/swift/conversion/xlsb-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para convertir XLSB a JPG" h2="Biblioteca Swift para convertir XLSB a JPG" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Swift. Esta es una solución profesional para convertir XLSB a JPG y otros formatos de documentos en línea usando Swift." urlsection="conversion/xlsb-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierte un archivo XLSB a JPG en Swift" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XLSB a JPG en Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de XLSB a JPG es una tarea compleja. Todas las transiciones de formato XLSB a JPG son realizadas por nuestro Swift SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XLSB de origen. Nuestra biblioteca Swift es una solución profesional para convertir archivos XLSB a JPG en línea. Este SDK de Cloud brinda a los desarrolladores de Swift una funcionalidad poderosa y una salida JPG perfecta.

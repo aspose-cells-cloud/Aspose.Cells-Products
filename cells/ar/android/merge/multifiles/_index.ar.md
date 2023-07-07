@@ -10,7 +10,7 @@ url: /ar/android/merge/multi-files/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-يعد دمج ملفات Excel متعددة في ملف مهمة معقدة. يتم تنفيذ دمج ملفات Excel المتعددة في انتقالات ملف بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لدمج ملفات Excel متعددة في ملف عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
+يعد دمج ملفات Excel متعددة في ملف مهمة معقدة. يتم تنفيذ دمج ملفات Excel متعددة في انتقالات ملف بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لدمج ملفات Excel متعددة في ملف عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لدمج عدة ملفات Excel في ملف" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-PostMerge.java" %}}

@@ -13,7 +13,7 @@ url: /es/go/export/shape-to-emf/
 Exportar un objeto SHAPE al archivo EMF desde una hoja de cálculo es una tarea compleja. Nuestro Go SDK realiza la exportación de SHAPE a las transiciones de formato EMF mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo SHAPE de origen. Nuestra biblioteca Go es una solución profesional para exportar objetos SHAPE a archivos de formato EMF en línea. Este SDK de la nube ofrece a los desarrolladores de Go una potente funcionalidad y un resultado EMF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar SHAPE al formato EMF desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Go usando REST API para exportar SHAPE al formato EMF desde la hoja de cálculo" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/

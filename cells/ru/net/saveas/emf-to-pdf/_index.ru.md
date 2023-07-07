@@ -10,7 +10,7 @@ url: /ru/net/saveas/emf-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как PDF в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как PDF — сложная задача. Все переходы форматов с EMF на PDF выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для сохранения файлов EMF как PDF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PDF.
+Сохранение форматов файлов с EMF как PDF — сложная задача. Все переходы форматов с EMF на PDF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека C# — это профессиональное решение для сохранения файлов EMF как PDF онлайн. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат PDF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения EMF в формате PDF" gistPath="" %}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Kryptera lokalt kalkylblad med lösenord i molnet
-description: " Cloud API:er och SDK:er för att skydda Microsoft Excel & OpenOffice Calc. Kryptera lokala kalkylblad med lösenord med Cells Cloud API. SDK stöder olika utvecklingsspråk. De inkluderar Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby och swift."
+title:  Kryptera lokalt kalkylblad med lösenord med Swift in Cloud
+description:  Cloud API och SDK för att skydda Microsoft Excel & OpenOffice Calc med Swift. Kryptera lokala kalkylblad med lösenord med Cells Cloud API SDK för Swift.
 url: /sv/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" h2="Swift-bibliotek för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Swift. Denna professionella lösning skyddar Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med Swift." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord" h2="Swift-bibliotek för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Protect REST API för att skydda lokala Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Swift. Denna professionella lösning skyddar Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med Swift." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Skydda lokala Microsoft Excel och OpenOffice Calc kalkylblad med lösenord - Swift REST API" >}}

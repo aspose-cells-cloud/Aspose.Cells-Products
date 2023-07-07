@@ -10,7 +10,7 @@ url: /ru/go/saveas/ods-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как JSON в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде файлов JSON онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из ODS в виде JSON — сложная задача. Все переходы формата ODS в формат JSON выполняются нашим Go SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для сохранения ODS в виде файлов JSON онлайн. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для сохранения ODS в формате JSON" gistPath="" %}}

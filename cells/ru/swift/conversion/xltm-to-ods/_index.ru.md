@@ -1,10 +1,10 @@
 ﻿---
 title:  Преобразование XLTM в ODS API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description: Использование Aspose.Cells Cloud SDK для Swift для преобразования файла формата XLTM в файл формата ODS.
 url: /ru/swift/conversion/xltm-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в ODS" h2="Библиотека Swift для преобразования XLTM в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLTM в ODS и другие форматы документов с использованием Swift." urlsection="conversion/xltm-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для преобразования XLTM в ODS" h2="Библиотека Swift для преобразования XLTM в ODS" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Swift. Это профессиональное решение для онлайн-конвертации XLTM в ODS и другие форматы документов с помощью Swift." urlsection="conversion/xltm-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в ODS в Swift" >}}

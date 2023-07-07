@@ -10,7 +10,7 @@ url: /tr/java/saveas/json-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir JSON dosyasını Java\'de SXC olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini JSON'dan SXC olarak kaydetmek karmaşık bir iştir. Tüm JSON'dan SXC formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JSON'u çevrimiçi SXC dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
+Dosya biçimlerini JSON'dan SXC olarak kaydetmek karmaşık bir görevdir. Tüm JSON'dan SXC formatına geçişler, kaynak JSON e-tablosunun ana yapısal ve mantıksal içeriği korunurken Java SDK'mız tarafından gerçekleştirilir. Java kitaplığımız, JSON'u çevrimiçi SXC dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Java geliştiricilerine güçlü işlevsellik ve mükemmel SXC çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="JSON\'u SXC formatı olarak kaydetmek için REST API kullanan Java\'deki kod örneği" gistPath="" %}}

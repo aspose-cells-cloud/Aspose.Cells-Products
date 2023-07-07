@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren ein
 url: /de/java/conversion/mhtml-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API, um MHTML in TIFF zu konvertieren" h2="Java-Bibliothek zum Konvertieren von MHTML in TIFF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um MHTML in TIFF und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/mhtml-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von MHTML in TIFF" h2="Java-Bibliothek zum Konvertieren von MHTML in TIFF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um MHTML in TIFF und andere Dokumentformate online mit Java zu konvertieren." urlsection="conversion/mhtml-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in TIFF in Java" >}}

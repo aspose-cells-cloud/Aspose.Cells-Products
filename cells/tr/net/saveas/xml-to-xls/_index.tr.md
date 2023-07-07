@@ -4,7 +4,7 @@ description:  XML biçim dosyasını XLS biçim dosyası olarak kaydetmek için 
 url: /tr/net/saveas/xml-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i XLS olarak kaydetmek için C# API" h2="XML\'i XLS olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, C#\'i kullanarak XML\'i XLS ve diğer belge formatlarını çevrimiçi olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="XML\'i XLS olarak kaydetmek için C# API" h2="XML\'i XLS olarak kaydetmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, XML\'i C# kullanarak çevrimiçi olarak XLS ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını C#\'de XLS olarak kaydedin" >}}

@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour convertir un f
 url: /fr/php/conversion/gif-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir GIF en XLS" h2="PHP bibliothèque pour convertir GIF en XLS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir en ligne GIF en XLS et autres formats de documents à l\'aide de PHP." urlsection="conversion/gif-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir GIF en XLS" h2="PHP bibliothèque pour convertir GIF en XLS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir en ligne GIF en XLS et autres formats de documents à l\'aide de PHP." urlsection="conversion/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier GIF en XLS en PHP" >}}

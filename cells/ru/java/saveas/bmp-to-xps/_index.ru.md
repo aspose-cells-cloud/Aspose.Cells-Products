@@ -10,7 +10,7 @@ url: /ru/java/saveas/bmp-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как XPS в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK Java, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для сохранения файлов BMP как XPS онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат XPS.
+Сохранение форматов файлов с BMP как XPS — сложная задача. Все переходы форматов с BMP на XPS выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека Java — это профессиональное решение для сохранения файлов BMP как XPS онлайн. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения BMP в формате XPS" gistPath="" %}}

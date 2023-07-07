@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS in XML Konvertieren Sie API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im NUMBERS-Format in eine XML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XML-Format.
 url: /de/ruby/conversion/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

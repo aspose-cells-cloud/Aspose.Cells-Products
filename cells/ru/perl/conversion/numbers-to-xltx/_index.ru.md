@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/conversion/numbers-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для конвертации NUMBERS в XLTX" h2="Perl библиотека для преобразования NUMBERS в XLTX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации NUMBERS в XLTX и другие форматы документов с использованием Perl." urlsection="conversion/numbers-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для конвертации NUMBERS в XLTX" h2="Perl библиотека для преобразования NUMBERS в XLTX" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для преобразования NUMBERS в XLTX и другие форматы документов онлайн с использованием Perl." urlsection="conversion/numbers-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в XLTX в Perl" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLS en XLSB API pour Android
-description: Utiliser Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLS en fichier au format XLSB.
+description: Utilisation de Aspose.Cells Cloud SDK pour Android pour convertir le fichier au format XLS en fichier au format XLSB.
 url: /fr/android/conversion/xls-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

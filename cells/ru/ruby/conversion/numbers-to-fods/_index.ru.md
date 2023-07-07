@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/numbers-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла NUMBERS в FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из NUMBERS в FODS — сложная задача. Все переходы формата NUMBERS в формат FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
+Преобразование форматов файлов из NUMBERS в FODS — сложная задача. Все переходы формата NUMBERS в формат FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов NUMBERS в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования NUMBERS в формат FODS" gistPath="" %}}

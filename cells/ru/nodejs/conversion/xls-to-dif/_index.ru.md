@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xls-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в DIF в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в DIF — сложная задача. Все переходы между форматами XLS и DIF выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLS в DIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
+Преобразование форматов файлов из XLS в DIF — сложная задача. Все переходы между форматами XLS и DIF выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLS в DIF. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод DIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLS в формат DIF" gistPath="" %}}

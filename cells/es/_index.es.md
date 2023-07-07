@@ -29,7 +29,7 @@ Cree la nube Excel y las aplicaciones de exportador y generador de hojas de cál
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Las API de código alto incluyen" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="/product-logos/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
-Acelere el desarrollo de aplicaciones de escritorio o basadas en web para la manipulación de hojas de cálculo via API. Compatible con las plataformas .NET, .NET Core y Xamarin.
+Acelere el desarrollo de aplicaciones de escritorio o basadas en web para la manipulación de hojas de cálculo via API. Admite las plataformas .NET, .NET Core y Xamarin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="/product-logos/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
@@ -50,7 +50,7 @@ Cree fácilmente aplicaciones C++ para crear, analizar, ver y convertir document
 Aplicación en línea gratuita para convertir sus hojas de cálculo a HTML, PDF, CSV y otros formatos sobre la marcha.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells " title="metadatos" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadatos" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
 Aplicación gratuita en línea para ver y modificar metadatos de sus Microsoft Excel hojas de cálculo y libros de trabajo en el navegador.
 {{< /blocks/products/pf/product >}}
 

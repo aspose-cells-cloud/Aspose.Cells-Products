@@ -13,7 +13,7 @@ url: /tr/ruby/conversion/numbers-to-xml/
 Dosya biçimlerini NUMBERS'den XML'e dönüştürmek karmaşık bir iştir. Tüm NUMBERS'tan XML formatına geçişler, kaynak NUMBERS e-tablonun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, NUMBERS'i çevrimiçi olarak XML dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XML çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de REST API kullanarak NUMBERS\'ı XML biçimine dönüştüren kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de REST API kullanarak NUMBERS\'i XML biçimine dönüştüren kod örneği" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

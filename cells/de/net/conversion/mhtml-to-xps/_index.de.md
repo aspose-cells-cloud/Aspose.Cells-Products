@@ -4,7 +4,7 @@ description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine MHTML-Fo
 url: /de/net/conversion/mhtml-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um MHTML in XPS zu konvertieren" h2="C#-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in XPS und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API zum Konvertieren von MHTML in XPS" h2="C#-Bibliothek zum Konvertieren von MHTML in XPS" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Konvertieren von MHTML in XPS und andere Dokumentformate online mit C#." urlsection="conversion/mhtml-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine MHTML-Datei in XPS in C#" >}}

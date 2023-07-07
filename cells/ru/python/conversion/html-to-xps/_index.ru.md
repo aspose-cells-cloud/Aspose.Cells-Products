@@ -10,7 +10,7 @@ url: /ru/python/conversion/html-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в XPS в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в XPS — сложная задача. Все переходы форматов с HTML на XPS выполняются нашим SDK Python, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов HTML в XPS. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат XPS.
+Преобразование форматов файлов из HTML в XPS — сложная задача. Все переходы форматов с HTML на XPS выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов HTML в XPS. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования формата HTML в формат XPS" gistPath="" %}}

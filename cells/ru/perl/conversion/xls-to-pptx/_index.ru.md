@@ -10,7 +10,7 @@ url: /ru/perl/conversion/xls-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в PPTX в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLS в PPTX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод PPTX.
+Преобразование форматов файлов из XLS в PPTX — сложная задача. Все переходы между форматами XLS и PPTX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов XLS в PPTX. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод PPTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования XLS в формат PPTX" gistPath="" %}}

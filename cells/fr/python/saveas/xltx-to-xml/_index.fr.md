@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLTX sous XML API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format XLTX en tant que fichier au format XML.
+description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format XLTX en tant que fichier au format XML.
 url: /fr/python/saveas/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

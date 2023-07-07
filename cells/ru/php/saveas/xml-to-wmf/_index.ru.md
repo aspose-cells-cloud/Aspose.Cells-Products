@@ -10,7 +10,7 @@ url: /ru/php/saveas/xml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как WMF в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML в виде WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из XML в виде WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK PHP с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека PHP — это профессиональное решение для сохранения XML в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения XML в формате WMF" gistPath="" %}}

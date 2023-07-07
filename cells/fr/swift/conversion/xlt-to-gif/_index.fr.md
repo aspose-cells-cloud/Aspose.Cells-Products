@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir XLT en GIF API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description: Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir un fichier au format XLT en fichier au format GIF.
 url: /fr/swift/conversion/xlt-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

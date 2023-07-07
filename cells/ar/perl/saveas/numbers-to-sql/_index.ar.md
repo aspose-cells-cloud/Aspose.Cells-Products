@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ SQL API لـ Perl
+title:  احفظ الأرقام باسم SQL API لـ Perl
 description:  استخدام Aspose.Cells Cloud SDK لـ Perl لحفظ ملف بتنسيق NUMBERS كملف بتنسيق SQL.
 url: /ar/perl/saveas/numbers-to-sql/
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title:  XLSB in PPTX konvertieren API für Go
+title:  XLSB zu PPTX Konvertieren API für Go
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Go, um eine Datei im XLSB-Format in eine Datei im PPTX-Format zu konvertieren.
 url: /de/go/conversion/xlsb-to-pptx/
 ---

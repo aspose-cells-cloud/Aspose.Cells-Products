@@ -10,7 +10,7 @@ url: /it/android/conversion/xlsx-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file XLSX in JSON in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da XLSX a JSON è un'attività complessa. Tutte le transizioni dal formato XLSX a JSON vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo XLSX di origine. La nostra libreria Android è una soluzione professionale per convertire file XLSX in JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
+La conversione dei formati di file da XLSX a JSON è un'attività complessa. Tutte le transizioni dal formato XLSX a JSON vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria Android è una soluzione professionale per convertire file XLSX in JSON online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output JSON perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per convertire XLSX in formato JSON" gistPath="" %}}

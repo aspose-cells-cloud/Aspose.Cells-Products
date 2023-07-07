@@ -10,7 +10,7 @@ url: /fr/go/saveas/xlsb-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB au format XLTM dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLSB au format XLTM est une tâche complexe. Toutes les transitions de format XLSB vers XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLSB au format XLTM. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
+L'enregistrement des formats de fichiers de XLSB au format XLTM est une tâche complexe. Toutes les transitions de format XLSB à XLTM sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLSB au format XLTM. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XLTM parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer XLSB au format XLTM" gistPath="" %}}

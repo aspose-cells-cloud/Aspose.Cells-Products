@@ -1,14 +1,14 @@
 ﻿---
-title:  تعيين الخلفية مع PHP
-description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel مع PHP يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  تعيين الخلفية باستخدام PHP
+description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/php/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية مع PHP" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel مع PHP يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية باستخدام PHP" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام PHP. SDK يدعم لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="تعيين الخلفية مع PHP وصلات التمديد" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="تعيين الخلفية باستخدام PHP وصلات الامتداد" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/php/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

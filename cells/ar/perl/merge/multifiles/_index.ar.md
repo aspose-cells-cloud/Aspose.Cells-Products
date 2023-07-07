@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة مع Perl
 url: /ar/perl/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لدمج ملفات Excel متعددة في ملف." h2="Perl مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Perl. يقوم هذا الحل الاحترافي بدمج ملفات Excel متعددة في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Perl." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API لدمج ملفات Excel متعددة في ملف." h2="Perl مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في Perl. هذا الحل الاحترافي يدمج عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام Perl." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - Perl REST API" >}}

@@ -4,7 +4,7 @@ description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fi
 url: /fr/python/saveas/tsv-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer TSV en tant que MD" h2="Bibliothèque Python pour enregistrer TSV en tant que MD" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant que MD et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/tsv-to-md/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer TSV en tant que MD" h2="Bibliothèque Python pour enregistrer TSV en tant que MD" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer TSV en tant que MD et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/tsv-to-md/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier TSV en tant que MD dans Python" >}}

@@ -34,7 +34,7 @@ url: /de/android/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Konvertierung mit Android-Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Konvertierung mithilfe von Android-Erweiterungslinks" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

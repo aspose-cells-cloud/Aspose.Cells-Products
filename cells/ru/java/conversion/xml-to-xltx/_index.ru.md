@@ -10,7 +10,7 @@ url: /ru/java/conversion/xml-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в XLTX в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в XLTX — сложная задача. Все преобразования формата XML в формат XLTX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XML в XLTX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLTX.
+Преобразование форматов файлов из XML в XLTX — сложная задача. Все переходы между форматами XML и XLTX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XML в XLTX. Этот облачный SDK предоставляет Java разработчикам мощную функциональность и отличный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XML в формат XLTX" gistPath="" %}}

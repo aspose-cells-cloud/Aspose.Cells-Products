@@ -1,6 +1,6 @@
 ﻿---
-title:  HTML'den XLSB'ye Dönüştürme API, C# için
-description:  HTML formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for C#'i kullanma.
+title:  HTML'den XLSB'ye Dönüştürme API için C#
+description:  HTML biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için C# için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/net/conversion/html-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

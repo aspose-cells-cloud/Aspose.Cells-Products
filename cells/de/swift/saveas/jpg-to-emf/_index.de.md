@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JPG unter EMF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um eine Datei im JPG-Format als Datei im Format EMF zu speichern.
 url: /de/swift/saveas/jpg-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

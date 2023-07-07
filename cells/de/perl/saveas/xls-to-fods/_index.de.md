@@ -7,7 +7,7 @@ url: /de/perl/saveas/xls-to-fods/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API, um XLS als FODS zu speichern" h2="Perl-Bibliothek zum Speichern von XLS als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Perl zu erstellen. Dies ist eine professionelle Lösung, um XLS als FODS und andere Dokumentformate online mit Perl zu speichern." urlsection="saveas/xls-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als FODS in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als FODS unter Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Das Speichern von Dateiformaten aus XLS als FODS ist eine komplexe Aufgabe. Alle XLS-zu-FODS-Formatübergänge werden von unserem SDK Perl durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLS-Quelltabelle erhalten bleibt. Unsere Perl-Bibliothek ist eine professionelle Lösung, um XLS als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet Perl Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.

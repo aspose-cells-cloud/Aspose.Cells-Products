@@ -1,6 +1,6 @@
 ﻿---
 title:  ODS en MHTML Convertir API pour Perl
-description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour convertir le fichier au format ODS en fichier au format MHTML.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour convertir le fichier au format ODS en fichier au format MHTML.
 url: /fr/perl/conversion/ods-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

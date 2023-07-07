@@ -1,10 +1,10 @@
 ﻿---
 title:  PNG'den SVG'e Swift için API'i dönüştürün
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+description:  PNG biçim dosyasını SVG biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Swift'i kullanma.
 url: /tr/swift/conversion/png-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i SVG\'e dönüştürmek için Swift API" h2="PNG\'i SVG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak PNG\'i SVG\'e ve diğer belge formatlarını çevrim içi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i SVG\'e dönüştürmek için Swift API" h2="PNG\'i SVG\'e dönüştürmek için Swift kitaplığı" p="Swift\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, Swift kullanarak PNG\'i SVG\'e ve diğer belge biçimlerini çevrimiçi olarak dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/png-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir PNG dosyasını Swift\'de SVG\'e dönüştürün" >}}

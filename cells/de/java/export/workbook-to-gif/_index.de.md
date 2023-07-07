@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/java/export/workbook-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Exportieren der Arbeitsmappe in eine GIF-Datei" h2="Java-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Cells REST API exportieren, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit Java." urlsection="export/workbook-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Exportieren der Arbeitsmappe in eine GIF-Datei" h2="Java-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in Java zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBUCH in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit Java." urlsection="export/workbook-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die GIF-Formatdatei Java" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить SXC как ODS API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата SXC в виде файла формата ODS.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата SXC в качестве файла формата ODS.
 url: /ru/android/saveas/sxc-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

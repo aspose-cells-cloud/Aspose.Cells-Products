@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف 
 url: /ar/python/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ TSV على هيئة XML" h2="Python مكتبة لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ TSV على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ TSV على هيئة XML" h2="مكتبة Python لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ TSV على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق XML في Python" >}}

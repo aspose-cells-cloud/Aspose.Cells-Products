@@ -10,7 +10,7 @@ url: /ar/net/saveas/sxc-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف SXC كـ FODS في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من SXC كـ FODS مهمة معقدة. يتم إجراء جميع انتقالات تنسيق SXC إلى FODS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبتنا C# هي حل احترافي لحفظ SXC كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
+يعد حفظ تنسيقات الملفات من SXC كـ FODS مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق SXC إلى FODS بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SXC المصدر. مكتبتنا C# هي حل احترافي لحفظ SXC كملفات FODS عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج FODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لحفظ SXC كتنسيق FODS" gistPath="" %}}

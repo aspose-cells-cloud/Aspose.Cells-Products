@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки проверок
 url: /ru/java/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки проверки локальной Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Java Очистить, чтобы очистить проверки для локальной Microsoft Excel и электронной таблицы OpenOffice Calc" p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает проверки для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с использованием Java." urlsection="clear/Validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для очистки проверки локальной Microsoft Excel и электронной таблицы OpenOffice Calc" h2="Java Очистить, чтобы очистить проверки для локальной Microsoft Excel и электронной таблицы OpenOffice Calc" p="Используйте Cells Очистить REST API, чтобы очистить проверки для локальных рабочих процессов Microsoft Excel и электронных таблиц OpenOffice Calc в Java. Это профессиональное решение очищает проверки для локальных Microsoft Excel и электронных таблиц OpenOffice Calc с помощью Java." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить валидацию на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Java REST API" >}}

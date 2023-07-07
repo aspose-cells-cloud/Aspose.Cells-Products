@@ -1,14 +1,14 @@
 ﻿---
-title:  Protégez avec Python
-description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec Python. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
+title:  Protégez en utilisant Python
+description:  Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l'aide de Python. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift.
 url: /fr/python/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez avec Python" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique avec Python. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protégez en utilisant Python" h2="Aspose.Cells Le SDK Cloud prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique." p="Aspose.Cells Cloud REST API prend en charge les classeurs de déchiffrement, de chiffrement et de signature numérique à l\'aide de Python. Le SDK prend en charge les langages de développement. Ils incluent Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby et Swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protégez avec les liens d\'extension Python" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protégez en utilisant les liens d\'extension Python" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/python/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

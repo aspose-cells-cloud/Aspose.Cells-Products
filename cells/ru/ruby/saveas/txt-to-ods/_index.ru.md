@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/txt-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TXT как ODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TXT в виде ODS — сложная задача. Все переходы формата TXT в формат ODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для сохранения TXT в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из TXT в виде ODS — сложная задача. Все переходы формата TXT в формат ODS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TXT. Наша библиотека Ruby — это профессиональное решение для сохранения TXT в виде файлов ODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TXT в формате ODS" gistPath="" %}}

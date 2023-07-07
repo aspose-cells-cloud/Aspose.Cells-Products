@@ -10,7 +10,7 @@ url: /ru/perl/saveas/gif-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате WMF по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Perl — это профессиональное решение для сохранения GIF в виде файлов WMF в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов из GIF в виде WMF — сложная задача. Все переходы формата GIF в WMF выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека Perl — это профессиональное решение для сохранения GIF в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения GIF в формате WMF" gistPath="" %}}

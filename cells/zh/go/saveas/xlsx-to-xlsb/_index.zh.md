@@ -31,7 +31,7 @@ url: /zh/go/saveas/xlsx-to-xlsb/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用 Go API 将 XLSX 保存为 XLSB" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="如何使用Go API将XLSX保存为XLSB" >}}
 <li>创建一个帐户<a href="https://dashboard.aspose.cloud/">仪表板</a>获取免费API配额和授权详细信息</li>
 <li>使用客户端 ID、客户端密码、基本 URL 和 API 版本初始化 CellsApi</li>
 <li>调用 CellsSaveAsPostDocumentSaveAs 方法获取结果流</li>

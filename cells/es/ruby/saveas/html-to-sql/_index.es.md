@@ -10,7 +10,7 @@ url: /es/ruby/saveas/html-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Guarde un archivo HTML como SQL en Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Guardar formatos de archivo desde HTML como SQL es una tarea compleja. Todas las transiciones de formato HTML a SQL las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente HTML. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida SQL perfecta.
+Guardar formatos de archivo desde HTML como SQL es una tarea compleja. Todas las transiciones de formato HTML a SQL las realiza nuestro SDK de Ruby mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo HTML de origen. Nuestra biblioteca Ruby es una solución profesional para guardar HTML como archivos SQL en línea. Este SDK de Cloud brinda a los desarrolladores de Ruby una funcionalidad poderosa y una salida SQL perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Ruby usando REST API para guardar HTML como formato SQL" gistPath="" %}}

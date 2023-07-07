@@ -7,7 +7,7 @@ url: /de/net/saveas/xls-to-fods/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLS als FODS zu speichern" h2="C#-Bibliothek zum Speichern von XLS als FODS" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLS als FODS und anderen Dokumentformaten unter C#." urlsection="saveas/xls-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als FODS in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLS-Datei als FODS unter C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Das Speichern von Dateiformaten aus XLS als FODS ist eine komplexe Aufgabe. Alle XLS-zu-FODS-Formatübergänge werden von unserem SDK C# durchgeführt, wobei der strukturelle und logische Hauptinhalt der XLS-Quelltabelle erhalten bleibt. Unsere C#-Bibliothek ist eine professionelle Lösung, um XLS als FODS-Dateien online zu speichern. Dieses Cloud SDK bietet C# Entwicklern leistungsstarke Funktionalität und perfekte FODS-Ausgabe.

@@ -4,13 +4,13 @@ description: Облачные API и SDK для очистки формул на
 url: /ru/swift/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение четких формул на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API для очистки формул в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение четких формул на локальном Microsoft Excel и электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие формулы на локальном Microsoft Excel и электронной таблице OpenOffice Calc — Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-Очистка формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка формул для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Swift — это профессиональное решение для очистки формул на локальном телефоне Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и совершенный API.
+Очистка формул в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc является сложной задачей. Очистка формул для локальных переходов электронной таблицы Microsoft Excel и OpenOffice Calc выполняется нашим Swift SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека Swift — это профессиональное решение для очистки формул в локальной таблице Microsoft Excel и онлайн-таблице OpenOffice Calc. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и совершенный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Swift для очистки формул в локальных электронных таблицах" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-Clear-Formula.swift" %}}

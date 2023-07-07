@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi PNG API olarak kaydedin
+title:  MHTML'yi Perl için PNG API olarak kaydedin
 description:  MHTML biçim dosyasını PNG biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-png/
 ---

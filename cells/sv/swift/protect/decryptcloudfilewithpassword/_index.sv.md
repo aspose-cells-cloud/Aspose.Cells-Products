@@ -4,7 +4,7 @@ description:  Cloud API och SDK för Microsoft Excel & OpenOffice Calc dekrypter
 url: /sv/swift/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att dekryptera molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Swift-bibliotek för att dekryptera moln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Dekryptera REST API för att dekryptera molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Swift. Denna professionella lösning dekrypterar molnet Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med Swift." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att dekryptera molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" h2="Swift-bibliotek för att dekryptera moln Microsoft Excel och OpenOffice Calc-kalkylblad med lösenord" p="Använd Cells Dekryptera REST API för att dekryptera molnet Microsoft Excel och OpenOffice Calc-kalkylblad med lösenordsarbetsflöden i Swift. Denna professionella lösning dekrypterar molnet Microsoft Excel och OpenOffice Calc-kalkylblad online med lösenord med Swift." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Dekryptera molnet Microsoft Excel och OpenOffice Calc kalkylblad med lösenord - Swift REST API" >}}

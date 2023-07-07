@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/tsv-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как XPS в Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV как XPS — сложная задача. Все переходы формата TSV в формат XPS выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения файлов TSV в формате XPS онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XPS.
+Сохранение форматов файлов из TSV как XPS — сложная задача. Все переходы формата TSV в формат XPS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека Ruby — это профессиональное решение для сохранения файлов TSV в формате XPS онлайн. Этот Cloud SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод XPS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения TSV в формате XPS" gistPath="" %}}

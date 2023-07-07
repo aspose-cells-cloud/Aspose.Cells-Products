@@ -10,7 +10,7 @@ url: /ru/python/conversion/xml-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование XML-файла в WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XML в WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XML в WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XML в WMF — сложная задача. Все переходы между форматами XML и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XML. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XML в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XML в формат WMF" gistPath="" %}}

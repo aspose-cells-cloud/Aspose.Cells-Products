@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS unter EMF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im XLS-Format als Datei im Format EMF zu speichern.
 url: /de/swift/saveas/xls-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

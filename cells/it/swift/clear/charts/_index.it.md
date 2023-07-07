@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare i grafici su Microsoft Excel e Open
 url: /it/swift/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare i grafici sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Clear REST API per cancellare i grafici sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella i grafici sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Grafici chiari sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/bmp-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف BMP إلى ODS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من BMP إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات BMP إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل BMP إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يعد تحويل تنسيقات الملفات من BMP إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات BMP إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات BMP المصدر. تعتبر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل BMP إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل BMP إلى تنسيق ODS" gistPath="" %}}

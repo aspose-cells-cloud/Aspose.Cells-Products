@@ -8,7 +8,7 @@ url: /de/android/background/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mit Android-Erweiterungslinks fest" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe von Android-Erweiterungslinks fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrer XML au format CSV API pour Perl
-description:  Utilisation du SDK Cloud Aspose.Cells pour Perl pour enregistrer le fichier au format XML en tant que fichier au format CSV.
+description:  Utiliser Aspose.Cells Cloud SDK pour Perl pour enregistrer le fichier au format XML en tant que fichier au format CSV.
 url: /fr/perl/saveas/xml-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

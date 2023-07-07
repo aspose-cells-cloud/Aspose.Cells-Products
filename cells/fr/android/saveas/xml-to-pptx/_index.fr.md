@@ -7,7 +7,7 @@ url: /fr/android/saveas/xml-to-pptx/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API pour enregistrer XML au format PPTX" h2="Bibliothèque Android pour enregistrer XML au format PPTX" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Android. Il s\'agit d\'une solution professionnelle pour enregistrer XML au format PPTX et d\'autres formats de documents en ligne à l\'aide d\'Android." urlsection="saveas/xml-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format PPTX dans Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XML au format PPTX sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir de XML en tant que PPTX est une tâche complexe. Toutes les transitions de format XML vers PPTX sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul XML source. Notre bibliothèque Android est une solution professionnelle pour enregistrer en ligne des fichiers XML sous forme de fichiers PPTX. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie PPTX parfaite.

@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK für PHP zum Konvertieren ein
 url: /de/php/conversion/gif-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von GIF in JSON" h2="PHP-Bibliothek zum Konvertieren von GIF in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung, um GIF in JSON und andere Dokumentformate online mit PHP zu konvertieren." urlsection="conversion/gif-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Konvertieren von GIF in JSON" h2="PHP-Bibliothek zum Konvertieren von GIF in JSON" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in PHP zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von GIF in JSON und andere Dokumentformate mit PHP." urlsection="conversion/gif-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine GIF-Datei in JSON in PHP" >}}

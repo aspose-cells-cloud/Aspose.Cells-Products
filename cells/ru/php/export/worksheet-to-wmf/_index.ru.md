@@ -10,7 +10,7 @@ url: /ru/php/export/worksheet-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата WMF в PHP" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат WMF выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата WMF. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный вывод WMF.
+Экспорт объекта WORKSHEET в файл WMF из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат WMF выполняется нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека PHP — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата WMF. Этот облачный SDK предоставляет разработчикам PHP мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для экспорта WORKSHEET в формат WMF из электронной таблицы" gistPath="" %}}

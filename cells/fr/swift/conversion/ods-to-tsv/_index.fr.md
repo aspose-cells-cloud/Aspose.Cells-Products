@@ -1,6 +1,6 @@
 ﻿---
 title:  Convertir ODS en TSV API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format ODS en fichier au format TSV.
 url: /fr/swift/conversion/ods-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

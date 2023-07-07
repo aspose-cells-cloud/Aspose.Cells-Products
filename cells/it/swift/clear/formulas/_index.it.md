@@ -4,7 +4,7 @@ description: API cloud e SDK per la cancellazione delle formule su Microsoft Exc
 url: /it/swift/clear/formulas/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare le formule sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/formulas/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare le formule sui flussi di lavoro locali Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le formule sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Formulas/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Formule chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

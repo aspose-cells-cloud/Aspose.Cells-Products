@@ -4,7 +4,7 @@ description:  Cloud-APIs und SDKs zum Löschen von Diagrammen unter Microsoft Ex
 url: /de/swift/clear/charts/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung erstellt Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit Swift." urlsection="clear/charts/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen von Diagrammen in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung erstellt Diagramme in lokalen Microsoft Excel und OpenOffice Calc-Tabellen mit Swift." urlsection="clear/Charts/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klare Diagramme auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle – Swift REST API" >}}

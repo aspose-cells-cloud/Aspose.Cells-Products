@@ -1,10 +1,10 @@
 ﻿---
-title: 设置背景Java
-description:  Aspose.Cells Cloud REST API支持Excel文件与Java设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Java 设置背景
+description: Aspose.Cells Cloud REST API支持使用Java为Excel文件设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/java/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="设置背景Java" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API支持Excel文件与Java设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Java 设置背景" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API支持使用Java为Excel文件设置背景。SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

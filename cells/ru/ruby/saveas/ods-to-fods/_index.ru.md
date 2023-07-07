@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/ods-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из ODS в виде FODS — сложная задача. Все переходы между форматами ODS и FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Сохранение форматов файлов из ODS в виде FODS — сложная задача. Все переходы между форматами ODS и FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Ruby — это профессиональное решение для сохранения ODS в виде файлов FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения ODS в формате FODS" gistPath="" %}}

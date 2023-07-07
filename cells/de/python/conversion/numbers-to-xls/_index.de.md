@@ -1,6 +1,6 @@
 ﻿---
 title:  ZAHLEN in XLS Konvertieren Sie API in Python
-description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XLS-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um eine Datei im NUMBERS-Format in eine Datei im XLS-Format zu konvertieren.
 url: /de/python/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

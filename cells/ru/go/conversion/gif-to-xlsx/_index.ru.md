@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Go для п
 url: /ru/go/conversion/gif-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать GIF в XLSX." h2="Библиотека Go для преобразования GIF в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для онлайн-конвертации GIF в XLSX и другие форматы документов с помощью Go." urlsection="conversion/gif-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Перейдите по номеру API, чтобы преобразовать GIF в XLSX." h2="Библиотека Go для преобразования GIF в XLSX" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Go. Это профессиональное решение для преобразования GIF в XLSX и другие форматы документов онлайн с помощью Go." urlsection="conversion/gif-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла GIF в XLSX в Go" >}}

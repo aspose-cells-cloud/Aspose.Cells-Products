@@ -10,7 +10,7 @@ url: /tr/ruby/saveas/csv-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir CSV dosyasını Ruby\'de XLTM olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini CSV'den XLTM olarak kaydetmek karmaşık bir iştir. Tüm CSV'den XLTM formatına geçişler, kaynak CSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
+Dosya biçimlerini CSV'den XLTM olarak kaydetmek karmaşık bir görevdir. Tüm CSV'den XLTM formatına geçişler, kaynak CSV elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Ruby SDK'mız tarafından gerçekleştirilir. Ruby kitaplığımız, CSV'yi çevrimiçi olarak XLTM dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Ruby geliştiricilerine güçlü işlevsellik ve mükemmel XLTM çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ruby\'de CSV\'yi XLTM formatı olarak kaydetmek için REST API kullanan kod örneği" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /tr/android/saveas/xls-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLS dosyasını Android\'de FODS olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLS'den FODS olarak kaydetmek karmaşık bir iştir. Tüm XLS'den FODS'ye biçim geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
+Dosya biçimlerini XLS'den FODS olarak kaydetmek karmaşık bir iştir. Tüm XLS'den FODS'ye format geçişleri, kaynak XLS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, XLS'yi çevrimiçi olarak FODS dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel FODS çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLS\'yi FODS formatı olarak kaydetmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

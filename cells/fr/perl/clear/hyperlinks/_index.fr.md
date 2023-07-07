@@ -4,7 +4,7 @@ description:  API Cloud et SDK pour effacer les hyperliens sur Microsoft Excel e
 url: /fr/perl/clear/hyperlinks/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer les hyperliens sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer les hyperliens sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les hyperliens sur les workflows locaux Microsoft Excel et OpenOffice Calc de tableur dans Perl. Cette solution professionnelle efface les hyperliens sur local Microsoft Excel et sur la feuille de calcul OpenOffice Calc à l\'aide de Perl." urlsection="clear/Hyperlinks/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour effacer les hyperliens sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" h2="Perl Effacer pour effacer les hyperliens sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc" p="Utilisez Cells Clear REST API pour effacer les hyperliens sur les flux de travail locaux Microsoft Excel et de tableur OpenOffice Calc dans Perl. Cette solution professionnelle efface les hyperliens sur les feuilles de calcul locales Microsoft Excel et OpenOffice Calc à l\'aide de Perl." urlsection="clear/Hyperlinks/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Effacer les hyperliens sur la feuille de calcul locale Microsoft Excel et OpenOffice Calc - Perl REST API" >}}

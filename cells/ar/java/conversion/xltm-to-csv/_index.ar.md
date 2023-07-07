@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTM إلى CSV" h2="Java مكتبة لتحويل XLTM إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل XLTM إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل XLTM إلى CSV" h2="Java مكتبة لتحويل XLTM إلى CSV" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل XLTM إلى CSV وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTM إلى CSV في Java" >}}

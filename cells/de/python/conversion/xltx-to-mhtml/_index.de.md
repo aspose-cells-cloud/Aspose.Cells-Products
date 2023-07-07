@@ -4,7 +4,7 @@ description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Konvertieren
 url: /de/python/conversion/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von XLTX in MHTML" h2="Python-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung, um XLTX online mit Python in MHTML und andere Dokumentformate zu konvertieren." urlsection="conversion/xltx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API zum Konvertieren von XLTX in MHTML" h2="Python-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Python zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in MHTML und andere Dokumentformate mit Python." urlsection="conversion/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in MHTML in Python" >}}

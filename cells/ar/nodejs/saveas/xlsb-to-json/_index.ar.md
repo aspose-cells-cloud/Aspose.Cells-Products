@@ -10,7 +10,7 @@ url: /ar/nodejs/saveas/xlsb-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLSB كملف JSON في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من XLSB كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى JSON بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLSB كملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JSON مثالي.
+يعد حفظ تنسيقات الملفات من XLSB كـ JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSB إلى JSON بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSB المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لحفظ XLSB كملفات JSON عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لحفظ XLSB بتنسيق JSON" gistPath="" %}}

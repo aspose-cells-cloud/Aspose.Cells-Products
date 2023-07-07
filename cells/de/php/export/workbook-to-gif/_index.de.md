@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/php/export/workbook-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren der Arbeitsmappe in eine GIF-Datei" h2="PHP-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Cells REST API exportieren, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/workbook-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API zum Exportieren der Arbeitsmappe in eine GIF-Datei" h2="PHP-Bibliothek zum Exportieren von WORKBOOK in eine GIF-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in PHP zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von ARBEITSBUCH in eine GIF-Formatdatei aus einer Tabellenkalkulation online mit PHP." urlsection="export/workbook-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in die GIF-Formatdatei PHP" >}}

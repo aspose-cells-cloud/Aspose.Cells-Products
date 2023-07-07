@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для NodeJS д�
 url: /ru/nodejs/conversion/xlt-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в XLTM" h2="Библиотека NodeJS для преобразования XLT в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLT в XLTM и других форматов документов с использованием NodeJS." urlsection="conversion/xlt-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API для преобразования XLT в XLTM" h2="Библиотека NodeJS для преобразования XLT в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в NodeJS. Это профессиональное решение для онлайн-конвертации XLT в XLTM и других форматов документов с помощью NodeJS." urlsection="conversion/xlt-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в XLTM в NodeJS" >}}

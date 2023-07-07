@@ -10,7 +10,7 @@ url: /zh/nodejs/export/shape-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="NodeJS中将SHAPE对象导出为WMF格式文件" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-将 SHAPE 对象从电子表格导出到 WMF 文件是一项复杂的任务。将 SHAPE 导出为 WMF 格式转换由我们的 NodeJS SDK 执行，同时保留源 SHAPE 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 SHAPE 对象导出为 WMF 格式文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的WMF输出。
+将 SHAPE 对象从电子表格导出到 WMF 文件是一项复杂的任务。将 SHAPE 导出到 WMF 格式转换由我们的 NodeJS SDK 执行，同时保留源 SHAPE 电子表格的主要结构和逻辑内容。我们的 NodeJS 库是在线将 SHAPE 对象导出为 WMF 格式文件的专业解决方案。该Cloud SDK为NodeJS开发人员提供了强大的功能和完美的WMF输出。
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS 中使用 REST API 将 SHAPE 从电子表格导出为 WMF 格式的代码示例" gistPath="" %}}

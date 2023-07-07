@@ -10,7 +10,7 @@ url: /fr/nodejs/conversion/xlsx-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSX en XLTX dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers de XLSX en XLTX est une tâche complexe. Toutes les transitions de format XLSX vers XLTX sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source XLSX. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLSX en XLTX. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie XLTX parfaite.
+La conversion des formats de fichiers de XLSX en XLTX est une tâche complexe. Toutes les transitions de format XLSX vers XLTX sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSX source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLSX en XLTX. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie XLTX parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir XLSX au format XLTX" gistPath="" %}}

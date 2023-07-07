@@ -10,7 +10,7 @@ url: /ar/android/conversion/csv-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى JSON في Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى JSON بواسطة Android SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج JSON مثالي.
+يعد تحويل تنسيقات الملفات من CSV إلى JSON مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى JSON بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات CSV المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لتحويل ملفات CSV إلى JSON عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية وإخراج JSON مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Android باستخدام REST API لتحويل CSV إلى تنسيق JSON" gistPath="" %}}

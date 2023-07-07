@@ -10,7 +10,7 @@ url: /ru/nodejs/merge/multi-files/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединение нескольких файлов Excel в файл — NodeJS REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/merge" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostMerge" apimethod="POST" %}}
 <br/>
-Объединение нескольких файлов Excel в один файл — сложная задача. Объединение нескольких файлов Excel в файловые переходы выполняется нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека NodeJS — это профессиональное решение для объединения нескольких файлов Excel в файл онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный API.
+Объединение нескольких файлов Excel в один файл — сложная задача. Объединение нескольких файлов Excel в файловые переходы выполняется нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы. Наша библиотека NodeJS — это профессиональное решение для объединения нескольких файлов Excel в файл онлайн. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Node с использованием REST API для объединения нескольких файлов Excel в файл" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-PostMerge.js" %}}

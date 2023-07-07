@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für Perl
-description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
+description:  Verwenden des Cloud SDK Aspose.Cells für Perl zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
 url: /de/perl/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

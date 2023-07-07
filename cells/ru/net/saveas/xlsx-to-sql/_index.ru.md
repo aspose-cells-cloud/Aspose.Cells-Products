@@ -10,7 +10,7 @@ url: /ru/net/saveas/xlsx-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как SQL в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде SQL — сложная задача. Все переходы между форматами XLSX и SQL выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения XLSX в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из XLSX в виде SQL — сложная задача. Все переходы из формата XLSX в формат SQL выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека C# — это профессиональное решение для сохранения XLSX в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XLSX в формате SQL" gistPath="" %}}

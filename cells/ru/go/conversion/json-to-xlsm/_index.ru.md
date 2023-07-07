@@ -10,7 +10,7 @@ url: /ru/go/conversion/json-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в XLSM в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в XLSM — сложная задача. Все переходы формата JSON в формат XLSM выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JSON в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Преобразование форматов файлов из JSON в XLSM — сложная задача. Все переходы между форматами JSON и XLSM выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов JSON в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования JSON в формат XLSM" gistPath="" %}}

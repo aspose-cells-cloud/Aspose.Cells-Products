@@ -10,7 +10,7 @@ url: /tr/android/conversion/sxc-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir SXC dosyasını PPTX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını SXC'den PPTX'e dönüştürmek karmaşık bir iştir. Tüm SXC'den PPTX'e biçim geçişleri, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi olarak PPTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
+Dosya formatlarını SXC'den PPTX'e dönüştürmek karmaşık bir iştir. Tüm SXC'den PPTX'e format geçişleri, kaynak SXC elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, SXC'yi çevrimiçi olarak PPTX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel PPTX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SXC\'yi PPTX formatına dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

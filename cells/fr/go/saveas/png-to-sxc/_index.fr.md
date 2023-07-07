@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le 
 url: /fr/go/saveas/png-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer PNG en tant que SXC" h2="Accédez à la bibliothèque pour enregistrer PNG en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format SXC et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/png-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer PNG en tant que SXC" h2="Accédez à la bibliothèque pour enregistrer PNG en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer PNG au format SXC et d\'autres formats de document en ligne à l\'aide de Go." urlsection="saveas/png-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG en tant que SXC dans Go" >}}

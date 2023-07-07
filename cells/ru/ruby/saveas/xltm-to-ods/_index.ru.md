@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xltm-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLTM как ODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLTM в виде ODS — сложная задача. Все переходы формата XLTM в формат ODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для сохранения XLTM в виде файлов ODS онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
+Сохранение форматов файлов из XLTM в виде ODS — сложная задача. Все переходы из формата XLTM в формат ODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Ruby — это профессиональное решение для сохранения XLTM в виде файлов ODS онлайн. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод ODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLTM в формате ODS" gistPath="" %}}

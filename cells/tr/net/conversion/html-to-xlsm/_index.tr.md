@@ -4,7 +4,7 @@ description:  HTML biçimindeki dosyayı XLSM biçimindeki dosyaya dönüştürm
 url: /tr/net/conversion/html-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i XLSM\'ye dönüştürmek için C# API" h2="HTML\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, HTML\'i C# kullanarak çevrimiçi olarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="HTML\'i XLSM\'ye dönüştürmek için C# API" h2="HTML\'i XLSM\'ye dönüştürmek için C# kitaplığı" p="Net\'te özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells Conversion REST API\'i kullanın. Bu, HTML\'i çevrimiçi olarak C# kullanarak XLSM\'ye ve diğer belge biçimlerine dönüştürmek için profesyonel bir çözümdür." urlsection="conversion/html-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını C#\'de XLSM\'ye dönüştürün" >}}

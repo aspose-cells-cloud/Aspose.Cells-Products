@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لنظام Android لحفظ 
 url: /ar/android/saveas/bmp-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ HTML" h2="مكتبة Android لحفظ BMP كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API لحفظ BMP كـ HTML" h2="مكتبة Android لحفظ BMP كـ HTML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جدول بيانات مخصصة في Android. هذا حل احترافي لحفظ BMP كـ HTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Android." urlsection="saveas/bmp-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف BMP بالشكل HTML في Android" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLTX'ten CSV'ye Dönüştürme API
-description:  XLTX biçim dosyasını CSV biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for NodeJS'yi kullanma.
+description:  XLTX formatındaki dosyayı CSV formatındaki dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xltx-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

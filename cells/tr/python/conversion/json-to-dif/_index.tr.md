@@ -1,6 +1,6 @@
 ﻿---
 title:  JSON'dan DIF'ye Dönüştürme API için Python
-description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
+description:  JSON biçim dosyasını DIF biçim dosyasına dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/json-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

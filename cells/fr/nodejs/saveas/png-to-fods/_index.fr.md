@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/png-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier PNG en tant que FODS dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de PNG en tant que FODS est une tâche complexe. Toutes les transitions du format PNG vers le format FODS sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer PNG en tant que fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie FODS parfaite.
+L'enregistrement des formats de fichiers à partir de PNG en tant que FODS est une tâche complexe. Toutes les transitions de format PNG vers FODS sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul source PNG. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer PNG en tant que fichiers FODS en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie FODS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer PNG au format FODS" gistPath="" %}}

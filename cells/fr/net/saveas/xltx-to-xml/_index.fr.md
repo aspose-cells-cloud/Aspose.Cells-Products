@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLTX sous XML API pour C#
-description:  Utilisation du SDK Cloud Aspose.Cells pour C# pour enregistrer le fichier au format XLTX en tant que fichier au format XML.
+description:  Utilisation de Aspose.Cells Cloud SDK pour C# pour enregistrer le fichier au format XLTX en tant que fichier au format XML.
 url: /fr/net/saveas/xltx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -4,7 +4,7 @@ description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc freis
 url: /de/swift/protect/decrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Entschlüsseln lokaler Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort" h2="Swift-Bibliothek zum Entschlüsseln lokaler Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort" p="Verwenden Sie Cells Decrypt REST API, um lokale Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu entschlüsseln. Diese professionelle Lösung entschlüsselt lokale Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mit Swift." urlsection="protect/decrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Entschlüsseln lokaler Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort" h2="Swift-Bibliothek zum Entschlüsseln lokaler Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort" p="Verwenden Sie Cells Decrypt REST API, um lokale Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu entschlüsseln. Diese professionelle Lösung entschlüsselt lokale Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mit Swift." urlsection="protect/Decrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Lokales Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort entschlüsseln – Swift REST API" >}}

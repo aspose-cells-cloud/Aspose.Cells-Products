@@ -1,6 +1,6 @@
 ﻿---
-title:  EMF'den XLSB'ye Dönüştürme API, Python için
-description:  EMF formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
+title:  EMF'den XLSB'ye Dönüştürme API için Python
+description:  EMF biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/emf-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

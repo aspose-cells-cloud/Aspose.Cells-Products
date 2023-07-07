@@ -1,6 +1,6 @@
 ﻿---
-title:  PNG'den XLSB'ye Dönüştürme API, Python için
-description:  PNG formatındaki dosyayı XLSB formatındaki dosyaya dönüştürmek için Aspose.Cells Cloud SDK for Python'i kullanma.
+title:  PNG'den XLSB'ye Dönüştürme API için Python
+description:  PNG biçimindeki dosyayı XLSB biçimindeki dosyaya dönüştürmek için Python için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/python/conversion/png-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

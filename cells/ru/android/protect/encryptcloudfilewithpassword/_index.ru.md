@@ -10,7 +10,7 @@ url: /ru/android/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защита облака Microsoft Excel и электронной таблицы OpenOffice Calc с помощью пароля — Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-Защита облачной таблицы паролем — сложная задача. Наш SDK для Android защищает облачную таблицу с переходами паролей, сохраняя при этом основное структурное и логическое содержимое исходной таблицы. Наша библиотека для Android — это профессиональное решение для защиты облачных таблиц паролем в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и совершенный API.
+Защита облачной таблицы паролем — сложная задача. Наш Android SDK защищает облачную таблицу с помощью переходов паролей, сохраняя при этом основное структурное и логическое содержимое исходной таблицы. Наша библиотека для Android — это профессиональное решение для защиты облачных таблиц паролем в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и совершенный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Android для шифрования облачных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Examples-Android-workbook-EncryptWorkbook-encrypt-workbook.java" %}}

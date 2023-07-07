@@ -1,6 +1,6 @@
 ﻿---
 title:  تصدير PICTURE إلى WMF من جدول بيانات باستخدام Swift API
-description:  Aspose.Cells Cloud REST API يدعم تصدير ملف Excel وكائنات داخلية لأنواع ملفات النسق. SDK يدعم أنواع لغات التطوير. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+description:  Aspose.Cells Cloud REST API يدعم تصدير {0} إلى {1} تنسيق الملفات باستخدام {2}.
 url: /ar/swift/export/picture-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/export/picture-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن PICTURE إلى ملف تنسيق WMF في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن PICTURE إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير PICTURE إلى تنسيق WMF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن PICTURE إلى ملف WMF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير PICTURE إلى تنسيق WMF بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات PICTURE. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتصدير كائنات PICTURE إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج WMF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتصدير PICTURE إلى تنسيق WMF من جدول البيانات" gistPath="" %}}

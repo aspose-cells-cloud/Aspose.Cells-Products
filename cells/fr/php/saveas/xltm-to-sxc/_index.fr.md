@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le
 url: /fr/php/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLTM en tant que SXC" h2="Bibliothèque PHP pour enregistrer XLTM en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM en tant que SXC et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour enregistrer XLTM en tant que SXC" h2="Bibliothèque PHP pour enregistrer XLTM en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM en tant que SXC et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="saveas/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM sous SXC dans PHP" >}}

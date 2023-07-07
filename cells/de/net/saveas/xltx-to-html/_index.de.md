@@ -1,10 +1,10 @@
 ﻿---
-title:  Speichern Sie XLTX unter HTML API für C#
+title:  Speichern Sie XLTX als HTML API für C#
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um die Datei im XLTX-Format als Datei im Format HTML zu speichern.
 url: /de/net/saveas/xltx-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als HTML zu speichern" h2="C#-Bibliothek, um XLTX als HTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX unter HTML und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API, um XLTX als HTML zu speichern" h2="C#-Bibliothek, um XLTX als HTML zu speichern" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Net zu erstellen. Dies ist eine professionelle Lösung, um XLTX als HTML und andere Dokumentformate online unter C# zu speichern." urlsection="saveas/xltx-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTX-Datei unter HTML in C#" >}}

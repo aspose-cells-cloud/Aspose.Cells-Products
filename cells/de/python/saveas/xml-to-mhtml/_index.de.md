@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für Python
-description:  Verwendung des Cloud SDK Aspose.Cells für Python zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
+description:  Verwenden des Cloud SDK Aspose.Cells für Python zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
 url: /de/python/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

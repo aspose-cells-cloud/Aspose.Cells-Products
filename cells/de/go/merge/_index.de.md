@@ -1,10 +1,10 @@
 ﻿---
 title:  Mit Go zusammenführen
-description: Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+description: Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/go/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Go zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mit Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Mit Go zusammenführen" h2="Aspose.Cells Cloud SDK unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei." p="Aspose.Cells Cloud REST API unterstützt das Zusammenführen mehrerer Excel-Dateien zu einer Excel-Datei mithilfe von Go. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /de/go/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Mit Go-Erweiterungslinks zusammenführen" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Führen Sie mithilfe von Go-Erweiterungslinks zusammen" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/go/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

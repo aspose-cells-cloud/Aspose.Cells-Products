@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC إلى PNG قم بتحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق SXC إلى ملف بتنسيق PNG.
 url: /ar/swift/conversion/sxc-to-png/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

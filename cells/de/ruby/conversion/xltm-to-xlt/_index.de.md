@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM zu XLT Konvertieren Sie API für Ruby
-description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer XLTM-Formatdatei in eine XLT-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Konvertieren einer Datei im XLTM-Format in eine Datei im XLT-Format.
 url: /de/ruby/conversion/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

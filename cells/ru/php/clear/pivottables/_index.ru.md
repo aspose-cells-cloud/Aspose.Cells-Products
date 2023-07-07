@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки сводных т
 url: /ru/php/clear/pivot-tables/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для очистки сводных таблиц в локальной Microsoft Excel и электронной таблице OpenOffice Calc" h2="PHP Clear для очистки сводных таблиц в локальной Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Clear REST API для очистки сводных таблиц в локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает сводные таблицы в локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью PHP." urlsection="clear/Pivot-tables/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API для очистки сводных таблиц в локальной Microsoft Excel и электронной таблице OpenOffice Calc" h2="PHP Clear для очистки сводных таблиц в локальной Microsoft Excel и электронной таблице OpenOffice Calc" p="Используйте Cells Очистить REST API для очистки сводных таблиц на локальных рабочих процессах Microsoft Excel и электронных таблиц OpenOffice Calc в PHP. Это профессиональное решение очищает сводные таблицы на локальных Microsoft Excel и электронных таблицах OpenOffice Calc с помощью PHP." urlsection="clear/Pivot-tables/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить сводные таблицы на локальном компьютере Microsoft Excel и электронной таблице OpenOffice Calc — PHP REST API" >}}

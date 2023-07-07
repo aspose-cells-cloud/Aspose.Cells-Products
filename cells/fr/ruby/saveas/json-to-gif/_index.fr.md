@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer JSON en tant que GIF API pour Ruby
-description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format JSON en tant que fichier au format GIF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Ruby pour enregistrer le fichier au format JSON en tant que fichier au format GIF.
 url: /fr/ruby/saveas/json-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

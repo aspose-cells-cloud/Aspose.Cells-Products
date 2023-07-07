@@ -10,7 +10,7 @@ url: /sv/android/conversion/numbers-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en NUMBERS-fil till XLTM i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från NUMBERS till XLTM är en komplex uppgift. Alla NUMBERS till XLTM formatövergångar utförs av vår Android SDK samtidigt som källnumrets NUMBERS kalkylblads huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera NUMBERS till XLTM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
+Att konvertera filformat från NUMBERS till XLTM är en komplex uppgift. Alla NUMBERS till XLTM formatövergångar utförs av vår Android SDK samtidigt som källnumret NUMBERS kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera NUMBERS till XLTM-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLTM-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera NUMBERS till XLTM-format" gistPath="" %}}

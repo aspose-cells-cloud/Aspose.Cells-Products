@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ TXT باسم WMF API من أجل Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق TXT كملف بتنسيق WMF.
 url: /ar/swift/saveas/txt-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

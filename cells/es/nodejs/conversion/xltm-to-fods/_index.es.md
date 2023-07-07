@@ -1,5 +1,5 @@
 ﻿---
-title: XLTM a FODS Convertir API para NodeJS
+title: Convertir XLTM a FODS API para NodeJS
 description:  Usando Aspose.Cells Cloud SDK para NodeJS para convertir un archivo de formato XLTM a un archivo de formato FODS.
 url: /es/nodejs/conversion/xltm-to-fods/
 ---

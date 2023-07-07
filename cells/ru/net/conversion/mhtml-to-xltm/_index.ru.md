@@ -4,7 +4,7 @@ description: Использование Aspose.Cells Cloud SDK для C# для 
 url: /ru/net/conversion/mhtml-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в XLTM" h2="C# библиотека для преобразования MHTML в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для онлайн-конвертации MHTML в XLTM и другие форматы документов по телефону C#." urlsection="conversion/mhtml-to-xltm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для преобразования MHTML в XLTM" h2="C# библиотека для преобразования MHTML в XLTM" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для преобразования MHTML в XLTM и другие форматы документов онлайн с помощью C#." urlsection="conversion/mhtml-to-xltm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLTM в C#" >}}

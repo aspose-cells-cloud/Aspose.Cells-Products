@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB zu TXT Konvertieren API für Android
-description:  Verwenden von Aspose.Cells Cloud SDK für Android zum Konvertieren einer Datei im XLSB-Format in eine Datei im TXT-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Android, um eine Datei im XLSB-Format in eine Datei im TXT-Format zu konvertieren.
 url: /de/android/conversion/xlsb-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLS als TXT API for Java speichern
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XLS-Formatdatei als TXT-Formatdatei.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um XLS-Formatdateien als TXT-Formatdateien zu speichern.
 url: /de/java/saveas/xls-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

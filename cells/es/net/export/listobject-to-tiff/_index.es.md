@@ -13,7 +13,7 @@ url: /es/net/export/listobject-to-tiff/
 Exportar el objeto LISTOBJECT al archivo TIFF desde la hoja de cálculo es una tarea compleja. Exportar LISTOBJECT a transiciones de formato TIFF se realiza mediante nuestro SDK C# mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo LISTOBJECT de origen. Nuestra biblioteca C# es una solución profesional para exportar objetos LISTOBJECT a archivos de formato TIFF en línea. Este SDK de Cloud ofrece a los desarrolladores de C# una potente funcionalidad y un resultado TIFF perfecto.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para exportar LISTOBJECT al formato TIFF desde una hoja de cálculo" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en C# usando REST API para exportar LISTOBJECT al formato TIFF desde la hoja de cálculo" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/

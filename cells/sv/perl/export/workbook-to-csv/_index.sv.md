@@ -10,7 +10,7 @@ url: /sv/perl/export/workbook-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportera WORKBOOK-objekt till CSV-formatfil i Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportera WORKBOOK-objekt till CSV-fil från kalkylblad är en komplex uppgift. Export av WORKBOOK till CSV-formatövergångar utförs av vår Perl SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera ARBETSBOK-objekt till CSV-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
+Exportera WORKBOOK-objekt till CSV-fil från kalkylblad är en komplex uppgift. Export av WORKBOOK till CSV-formatövergångar utförs av vår Perl SDK samtidigt som källarbetsbokens huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Perl-bibliotek är en professionell lösning för att exportera WORKBOOK-objekt till CSV-formatfiler online. Denna Cloud SDK ger Perl utvecklare kraftfull funktionalitet och perfekt CSV-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Perl med REST API för att exportera ARBETSBOK till CSV-format från kalkylark" gistPath="" %}}

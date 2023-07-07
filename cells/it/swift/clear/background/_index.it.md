@@ -4,7 +4,7 @@ description: API cloud e SDK per cancellare lo sfondo su Microsoft Excel e OpenO
 url: /it/swift/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare lo sfondo sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare lo sfondo sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella lo sfondo sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Sfondo chiaro sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

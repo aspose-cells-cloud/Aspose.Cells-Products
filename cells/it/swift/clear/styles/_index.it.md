@@ -4,7 +4,7 @@ description:  API cloud e SDK per cancellare gli stili su Microsoft Excel e Open
 url: /it/swift/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare gli stili sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Usa Cells Cancella REST API per cancellare gli stili sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Stili chiari sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

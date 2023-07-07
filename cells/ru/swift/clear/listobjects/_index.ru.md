@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки объектов 
 url: /ru/swift/clear/list-objects/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки объектов списка на локальном Microsoft Excel и электронной таблице OpenOffice Calc" h2="Swift Clear для очистки объектов списка в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки объектов списка в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение позволяет очистить список объектов на локальном Microsoft Excel и в электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/list-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки объектов списка на локальном Microsoft Excel и электронной таблице OpenOffice Calc" h2="Swift Clear для очистки объектов списка в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки объектов списка в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение позволяет очистить список объектов на локальном Microsoft Excel и в электронной таблице OpenOffice Calc с использованием Swift." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить объекты списка на локальном Microsoft Excel и электронной таблице OpenOffice Calc - Swift REST API" >}}

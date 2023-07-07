@@ -10,7 +10,7 @@ url: /tr/net/saveas/xlsb-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XLSB dosyasını C#\'de JSON olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XLSB'den JSON olarak kaydetmek karmaşık bir görevdir. Tüm XLSB'den JSON biçimine geçişler, kaynak XLSB e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, XLSB'yi çevrimiçi JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıkışı sağlar.
+Dosya biçimlerini XLSB'den JSON olarak kaydetmek karmaşık bir iştir. Tüm XLSB'den JSON biçimine geçişler, kaynak XLSB e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, XLSB'yi çevrimiçi JSON dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel JSON çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XLSB\'yi JSON formatı olarak kaydetmek için REST API kullanan C#\'deki kod örneği" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/go/conversion/ods-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла ODS в MHTML в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из ODS в MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов ODS в MHTML. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MHTML.
+Преобразование форматов файлов из ODS в MHTML — сложная задача. Все переходы формата ODS в формат MHTML выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы ODS. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов ODS в MHTML. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод MHTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования ODS в формат MHTML" gistPath="" %}}

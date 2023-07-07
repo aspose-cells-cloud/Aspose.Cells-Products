@@ -10,7 +10,7 @@ url: /ar/ruby/conversion/html-to-ods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف HTML إلى ODS في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من HTML إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات HTML إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل HTML إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
+يعد تحويل تنسيقات الملفات من HTML إلى ODS مهمة معقدة. يتم تنفيذ جميع التحولات HTML إلى تنسيق ODS بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات HTML المصدر. تعتبر مكتبة Ruby الخاصة بنا حلاً احترافيًا لتحويل HTML إلى ملفات ODS عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج ODS مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Ruby باستخدام REST API لتحويل HTML إلى تنسيق ODS" gistPath="" %}}

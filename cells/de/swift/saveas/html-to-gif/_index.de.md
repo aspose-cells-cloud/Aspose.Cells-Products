@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als GIF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format HTML als Datei im GIF-Format zu speichern.
 url: /de/swift/saveas/html-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

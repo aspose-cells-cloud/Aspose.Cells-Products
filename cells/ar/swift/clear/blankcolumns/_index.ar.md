@@ -4,7 +4,7 @@ description: Cloud APIs & SDKs لمسح الأعمدة الفارغة على Mic
 url: /ar/swift/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح الأعمدة الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الأعمدة الفارغة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="Swift امسح لمسح الأعمدة الفارغة في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الأعمدة الفارغة على Excel Microsoft المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح الأعمدة الفارغة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأعمدة الفارغة على Excel Microsoft محلي وجدول بيانات OpenOffice Calc - Swift REST API" >}}
@@ -18,7 +18,7 @@ url: /ar/swift/clear/blank-columns/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" كيفية استخدام Swift API لمسح الأعمدة الفارغة" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="كيفية استخدام Swift API لمسح الأعمدة الفارغة" >}}
 <li> قم بإنشاء حساب على<a href="https://dashboard.aspose.cloud/">لوحة القيادة</a> للحصول على تفاصيل الحصص والتفويض API المجانية</li>
 <li>تهيئة CellsApi باستخدام معرف العميل وسر العميل وعنوان URL الأساسي وإصدار API</li>
 <li>استدعاء طريقة postClearObjects للحصول على التدفق الناتج</li>

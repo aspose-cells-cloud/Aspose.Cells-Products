@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Ruby дл
 url: /ru/ruby/saveas/xlsx-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLSX в формате XML" h2="Библиотека Ruby для сохранения XLSX в виде XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSX в формате XML и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlsx-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API для сохранения XLSX в формате XML" h2="Библиотека Ruby для сохранения XLSX в формате XML" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Ruby. Это профессиональное решение для сохранения XLSX в формате XML и других форматов документов в Интернете с использованием Ruby." urlsection="saveas/xlsx-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как XML в Ruby" >}}

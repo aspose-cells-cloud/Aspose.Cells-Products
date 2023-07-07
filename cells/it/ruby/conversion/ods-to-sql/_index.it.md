@@ -10,7 +10,7 @@ url: /it/ruby/conversion/ods-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file ODS in SQL in Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da ODS a SQL è un'attività complessa. Tutte le transizioni dal formato ODS al formato SQL vengono eseguite dal nostro SDK Ruby mantenendo il contenuto strutturale e logico principale del foglio di calcolo ODS di origine. La nostra libreria Ruby è una soluzione professionale per convertire file ODS in SQL online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output SQL perfetto.
+La conversione dei formati di file da ODS a SQL è un'attività complessa. Tutte le transizioni dal formato ODS al formato SQL vengono eseguite dal nostro Ruby SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo ODS di origine. La nostra libreria Ruby è una soluzione professionale per convertire file ODS in SQL online. Questo Cloud SDK offre agli sviluppatori Ruby potenti funzionalità e un output SQL perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Ruby utilizzando REST API per convertire ODS in formato SQL" gistPath="" %}}

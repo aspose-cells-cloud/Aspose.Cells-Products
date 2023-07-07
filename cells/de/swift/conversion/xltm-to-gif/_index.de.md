@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTM zu GIF Konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+title: XLTM zu GIF Konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von XLTM-Formatdateien in GIF-Formatdateien.
 url: /de/swift/conversion/xltm-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

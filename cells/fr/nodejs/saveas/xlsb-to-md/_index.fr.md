@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/xlsb-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLSB en tant que MD dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que MD est une tâche complexe. Toutes les transitions de format XLSB vers MD sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que MD. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie MD parfaite.
+L'enregistrement de formats de fichiers à partir de XLSB en tant que MD est une tâche complexe. Toutes les transitions du format XLSB vers MD sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que MD. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie MD parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer XLSB au format MD" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/mhtml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل MHTML إلى TXT" h2="Java مكتبة لتحويل MHTML إلى TXT" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Java. هذا حل احترافي لتحويل MHTML إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/mhtml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل MHTML إلى TXT" h2="Java مكتبة لتحويل MHTML إلى TXT" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل MHTML إلى TXT وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Java." urlsection="conversion/mhtml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف MHTML إلى TXT في Java" >}}

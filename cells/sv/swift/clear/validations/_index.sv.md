@@ -4,7 +4,7 @@ description: " Cloud API:er och SDK:er för att rensa valideringar på Microsoft
 url: /sv/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Swift. Denna professionella lösning klarar valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc kalkylblad" h2="Swift Clear för att rensa valideringar på lokalt Microsoft Excel och OpenOffice Calc-kalkylblad" p="Använd Cells Rensa REST API för att rensa valideringar på lokala Microsoft Excel och OpenOffice Calc kalkylbladsarbetsflöden i Swift. Denna professionella lösning klarar valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad med Swift." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Rensa valideringar på lokala Microsoft Excel och OpenOffice Calc-kalkylblad - Swift REST API" >}}

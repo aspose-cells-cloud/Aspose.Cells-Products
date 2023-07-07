@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK für NodeJS zum Konvertieren 
 url: /de/nodejs/conversion/png-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von PNG in EMF" h2="NodeJS-Bibliothek zum Konvertieren von PNG in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung, um PNG in EMF und andere Dokumentformate online mit NodeJS zu konvertieren." urlsection="conversion/png-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Konvertieren von PNG in EMF" h2="NodeJS-Bibliothek zum Konvertieren von PNG in EMF" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in NodeJS zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von PNG in EMF und anderen Dokumentformaten mit NodeJS." urlsection="conversion/png-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine PNG-Datei in EMF in NodeJS" >}}

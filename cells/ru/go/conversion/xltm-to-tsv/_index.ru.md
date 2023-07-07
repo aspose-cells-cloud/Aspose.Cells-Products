@@ -10,7 +10,7 @@ url: /ru/go/conversion/xltm-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTM в TSV в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTM в TSV — сложная задача. Все переходы формата XLTM в формат TSV выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLTM в TSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TSV.
+Преобразование форматов файлов из XLTM в TSV — сложная задача. Все переходы от формата XLTM к формату TSV выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы XLTM. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов XLTM в TSV. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод TSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования XLTM в формат TSV" gistPath="" %}}

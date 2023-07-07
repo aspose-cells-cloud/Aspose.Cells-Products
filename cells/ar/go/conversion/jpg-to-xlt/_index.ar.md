@@ -10,7 +10,7 @@ url: /ar/go/conversion/jpg-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف JPG إلى XLT في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من JPG إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
+يعد تحويل تنسيقات الملفات من JPG إلى XLT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JPG إلى XLT بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات JPG المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات JPG إلى XLT عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج XLT مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل JPG إلى تنسيق XLT" gistPath="" %}}

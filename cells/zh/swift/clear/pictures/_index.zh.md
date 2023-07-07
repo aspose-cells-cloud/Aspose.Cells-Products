@@ -4,7 +4,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的图片的云
 url: /zh/swift/clear/pictures/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流程上的图片。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片。" urlsection="clear/pictures/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流程上的图片。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片。" urlsection="clear/Pictures/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的图片 - Swift REST API" >}}

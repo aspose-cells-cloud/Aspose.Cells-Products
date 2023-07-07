@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter TIFF API für Perl
+title:  Speichern Sie XLTX als TIFF API für Perl
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um die Datei im XLTX-Format als Datei im Format TIFF zu speichern.
 url: /de/perl/saveas/xltx-to-tiff/
 ---

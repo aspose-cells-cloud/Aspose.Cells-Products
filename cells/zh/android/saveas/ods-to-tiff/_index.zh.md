@@ -7,7 +7,7 @@ url: /zh/android/saveas/ods-to-tiff/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API 将 ODS 保存为 TIFF" h2="Android库将ODS保存为TIFF" p="使用 Cells SaveAs REST API 在 Android 中创建自定义电子表格工作流程。这是使用Android在线将ODS保存为TIFF等文档格式的专业解决方案。" urlsection="saveas/ods-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Android 中将 ODS 文件另存为 TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="在Android中将ODS文件另存为TIFF" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 将 ODS 中的文件格式保存为 TIFF 是一项复杂的任务。所有 ODS 到 TIFF 格式的转换均由我们的 Android SDK 执行，同时保留源 ODS 电子表格的主要结构和逻辑内容。我们的Android库是在线将ODS保存为TIFF文件的专业解决方案。此Cloud SDK为Android开发者提供了强大的功能和完美的TIFF输出。

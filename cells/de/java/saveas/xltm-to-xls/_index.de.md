@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTM als XLS API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XLTM-Formatdatei als XLS-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern von XLTM-Formatdateien als XLS-Formatdateien.
 url: /de/java/saveas/xltm-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

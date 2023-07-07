@@ -1,6 +1,6 @@
 ﻿---
 title:  ZAHLEN in XLS Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer Datei im NUMBERS-Format in eine Datei im XLS-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für C#, um eine Datei im NUMBERS-Format in eine Datei im XLS-Format zu konvertieren.
 url: /de/net/conversion/numbers-to-xls/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

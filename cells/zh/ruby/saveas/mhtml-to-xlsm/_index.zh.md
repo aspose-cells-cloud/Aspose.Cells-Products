@@ -13,7 +13,7 @@ url: /zh/ruby/saveas/mhtml-to-xlsm/
 将 MHTML 文件格式保存为 XLSM 是一项复杂的任务。所有 MHTML 到 XLSM 格式的转换均由我们的 Ruby SDK 执行，同时保留源 MHTML 电子表格的主要结构和逻辑内容。我们的 Ruby 库是将 MHTML 在线保存为 XLSM 文件的专业解决方案。此 Cloud SDK 为 Ruby 开发人员提供了强大的功能和完美的 XLSM 输出。
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中的代码示例，使用 REST API 将 MHTML 保存为 XLSM 格式" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby 中使用 REST API 将 MHTML 保存为 XLSM 格式的代码示例" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

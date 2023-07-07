@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. Cells Cloud API ile yerel e-ta
 url: /tr/swift/clear/styles/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için API\'i kaydırın" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/styles/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için API\'i kaydırın" h2="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizlemek için Swift Clear" p="Swift\'de yerel Microsoft Excel ve OpenOffice Calc elektronik tablo iş akışlarındaki stilleri temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, Swift kullanarak yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizler." urlsection="clear/Styles/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki stilleri temizle - Swift REST API" >}}

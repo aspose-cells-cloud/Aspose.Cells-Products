@@ -10,7 +10,7 @@ url: /fr/nodejs/conversion/xltx-to-pdf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLTX en PDF dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversion des formats de fichiers XLTX en PDF est une tâche complexe. Toutes les transitions de format XLTX vers PDF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLTX en fichiers PDF. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PDF parfaite.
+La conversion des formats de fichiers XLTX en PDF est une tâche complexe. Toutes les transitions de format XLTX vers PDF sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque NodeJS est une solution professionnelle pour convertir en ligne des fichiers XLTX vers PDF. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie PDF parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour convertir XLTX au format PDF" gistPath="" %}}

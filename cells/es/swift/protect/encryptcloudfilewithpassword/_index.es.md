@@ -1,10 +1,10 @@
 ﻿---
 title:  Cifrar hoja de cálculo en la nube con contraseña en la nube
-description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifre la hoja de cálculo en la nube con la contraseña de Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
+description: API y SDK en la nube para proteger Microsoft Excel y OpenOffice Calc. Cifre la hoja de cálculo en la nube con contraseña por Cells Cloud API. SDK admite tipos de lenguajes de desarrollo. Incluyen Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby y Swift.
 url: /es/swift/protect/encrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para proteger la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc con contraseña" h2="Biblioteca Swift para proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en Swift. Esta solución profesional protege la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Swift." urlsection="protect/encrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API para proteger la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc con contraseña" h2="Biblioteca Swift para proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en Swift. Esta solución profesional protege la nube Microsoft Excel y la hoja de cálculo de OpenOffice Calc en línea con contraseñas usando Swift." urlsection="protect/Encrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteger la nube Microsoft Excel y la hoja de cálculo OpenOffice Calc con contraseña - Swift REST API" >}}

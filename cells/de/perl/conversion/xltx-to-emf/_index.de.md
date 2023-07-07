@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTX in EMF Konvertieren Sie API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLTX-Formatdatei in eine Datei im EMF-Format.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Perl, um eine Datei im XLTX-Format in eine Datei im Format EMF zu konvertieren.
 url: /de/perl/conversion/xltx-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

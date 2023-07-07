@@ -10,7 +10,7 @@ url: /tr/go/conversion/ods-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir ODS dosyasını Go\'da DOCX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını ODS'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm ODS'den DOCX'e format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
+Dosya formatlarını ODS'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm ODS'den DOCX'e format geçişleri, kaynak ODS elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken Go SDK'mız tarafından gerçekleştirilir. Go kitaplığımız, ODS'yi çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Go geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="ODS\'yi DOCX biçimine dönüştürmek için REST API kullanan Go\'daki kod örneği" gistPath="" %}}

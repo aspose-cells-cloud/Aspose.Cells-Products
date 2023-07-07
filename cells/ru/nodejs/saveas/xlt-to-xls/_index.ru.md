@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/xlt-to-xls/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLT как XLS в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLT в виде XLS — сложная задача. Все переходы между форматами XLT и XLS выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для сохранения файлов XLT в виде файлов XLS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLS.
+Сохранение форматов файлов из XLT в виде XLS — сложная задача. Все переходы между форматами XLT и XLS выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для сохранения XLT в виде файлов XLS в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный вывод XLS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения XLT в формате XLS" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لدمج ملفات Excel متعددة مع PHP
 url: /ar/php/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لدمج ملفات Excel متعددة في ملف." h2="PHP مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في PHP. يقوم هذا الحل الاحترافي بدمج ملفات Excel متعددة في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام PHP." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لدمج ملفات Excel متعددة في ملف." h2="PHP مكتبة لدمج ملفات Excel متعددة في ملف." p="استخدم Cells Merge REST API لدمج عدة ملفات Excel في ملف في PHP. هذا الحل الاحترافي يدمج عدة ملفات Excel في Microsoft Excel أو جدول بيانات OpenOffice Calc باستخدام PHP." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="دمج ملفات Excel متعددة في ملف - PHP REST API" >}}

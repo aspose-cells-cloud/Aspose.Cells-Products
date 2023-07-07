@@ -10,7 +10,7 @@ url: /ar/go/conversion/xlsm-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى JPG في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من XLSM إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى JPG بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى JPG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج JPG مثالي.
+يعد تحويل تنسيقات الملفات من XLSM إلى JPG مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق XLSM إلى JPG بواسطة Go SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات XLSM المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتحويل ملفات XLSM إلى JPG عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج JPG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Go باستخدام REST API لتحويل XLSM إلى تنسيق JPG" gistPath="" %}}

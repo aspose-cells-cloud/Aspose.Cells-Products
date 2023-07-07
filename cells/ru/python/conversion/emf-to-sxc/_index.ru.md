@@ -10,7 +10,7 @@ url: /ru/python/conversion/emf-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла EMF в SXC в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из EMF в SXC — сложная задача. Все переходы формата EMF в формат SXC выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
+Преобразование форматов файлов из EMF в SXC — сложная задача. Все переходы формата EMF в формат SXC выполняются нашим пакетом SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Python — это профессиональное решение для онлайн-конвертации EMF в файлы SXC. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и отличный результат SXC.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования EMF в формат SXC" gistPath="" %}}

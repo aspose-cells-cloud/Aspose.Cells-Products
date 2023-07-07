@@ -1,5 +1,5 @@
 ﻿---
-title:  Экспорт CHART в PDF из электронной таблицы с помощью NodeJS API
+title:  Экспорт CHART в PDF из электронной таблицы с использованием NodeJS API
 description:  Aspose.Cells Cloud REST API поддерживает экспорт {0} в файлы формата {1} с использованием {2}.
 url: /ru/nodejs/export/chart-to-pdf/
 ---

@@ -4,7 +4,7 @@ description:  Облачные API и SDK для объединения неск
 url: /ru/android/merge/multi-files/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для объединения нескольких файлов Excel в файл." h2="Библиотека Android для объединения нескольких файлов Excel в файл." p="Используйте Cells Merge REST API, чтобы объединить несколько файлов Excel в файл в Android. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с помощью Android." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для объединения нескольких файлов Excel в файл." h2="Библиотека Android для объединения нескольких файлов Excel в файл." p="Используйте Cells Merge REST API для объединения нескольких файлов Excel в файл в Android. Это профессиональное решение объединяет несколько файлов Excel в электронную таблицу Microsoft Excel или OpenOffice Calc с помощью Android." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Объединение нескольких файлов Excel в один файл — Android REST API" >}}

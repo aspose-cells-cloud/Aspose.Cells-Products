@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSB till DIF Konvertera API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att konvertera fil i XLSB-format till fil i DIF-format.
 url: /sv/swift/conversion/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/swift/conversion/xlsb-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en XLSB-fil till DIF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från XLSB till DIF är en komplex uppgift. Alla XLSB till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSB till DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
+Att konvertera filformat från XLSB till DIF är en komplex uppgift. Alla XLSB- till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att konvertera XLSB till DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att konvertera XLSB till DIF-format" gistPath="" %}}

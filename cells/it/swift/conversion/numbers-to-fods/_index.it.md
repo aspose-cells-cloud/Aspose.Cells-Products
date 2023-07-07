@@ -1,6 +1,6 @@
 ﻿---
-title:  NUMBERS in FODS Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+title: NUMBERS in FODS Converti API per Swift
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato NUMBERS in un file in formato FODS.
 url: /it/swift/conversion/numbers-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

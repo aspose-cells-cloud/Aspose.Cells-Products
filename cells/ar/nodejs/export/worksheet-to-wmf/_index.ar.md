@@ -10,7 +10,7 @@ url: /ar/nodejs/export/worksheet-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKSHEET إلى ملف بتنسيق WMF في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن WORKSHEET إلى ملف WMF من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تصدير WORKSHEET إلى تنسيق WMF بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج WMF مثالي.
+يعد تصدير كائن WORKSHEET إلى ملف WMF من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تصدير WORKSHEET إلى تنسيق WMF بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات WORKSHEET المصدر. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKSHEET إلى ملفات بتنسيق WMF عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج WMF مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتصدير WORKSHEET إلى تنسيق WMF من جدول البيانات" gistPath="" %}}

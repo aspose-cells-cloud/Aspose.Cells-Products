@@ -1,6 +1,6 @@
 ﻿---
 title:  NodeJS için XLT'den XLSB'ye Dönüştürme API
-description: XLT biçim dosyasını XLSB biçim dosyasına dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
+description: XLT biçimli dosyayı XLSB biçimli dosyaya dönüştürmek için NodeJS için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/nodejs/conversion/xlt-to-xlsb/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

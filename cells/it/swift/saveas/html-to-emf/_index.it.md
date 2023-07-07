@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva HTML come EMF API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato HTML come file in formato EMF.
 url: /it/swift/saveas/html-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

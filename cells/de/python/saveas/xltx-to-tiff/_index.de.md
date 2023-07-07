@@ -1,5 +1,5 @@
 ﻿---
-title:  Speichern Sie XLTX unter TIFF API für Python
+title:  Speichern Sie XLTX als TIFF API für Python
 description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die Datei im XLTX-Format als Datei im Format TIFF zu speichern.
 url: /de/python/saveas/xltx-to-tiff/
 ---

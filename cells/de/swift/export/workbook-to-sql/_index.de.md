@@ -1,6 +1,6 @@
 ﻿---
-title:  Exportieren Sie WORKBOOK aus einer Tabellenkalkulation nach SQL mit Swift API
-description:  Aspose.Cells Cloud REST API unterstützt den Export von Excel Dateien und internen Objekten in verschiedene Formatdateien. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title: Exportieren Sie WORKBOOK aus einer Tabellenkalkulation nach SQL mit Swift API
+description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im {0}-Format in {1} mit {2}.
 url: /de/swift/export/workbook-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

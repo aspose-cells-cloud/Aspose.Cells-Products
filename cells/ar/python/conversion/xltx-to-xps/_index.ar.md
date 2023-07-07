@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لتحويل م�
 url: /ar/python/conversion/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLTX إلى XPS" h2="مكتبة Python لتحويل XLTX إلى XPS" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل XLTX إلى XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xltx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل XLTX إلى XPS" h2="مكتبة Python لتحويل XLTX إلى XPS" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل XLTX إلى XPS وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/xltx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLTX إلى XPS في Python" >}}

@@ -13,7 +13,7 @@ url: /tr/nodejs/conversion/html-to-md/
 Dosya formatlarını HTML'den MD'ye dönüştürmek karmaşık bir iştir. Tüm HTML'den MD biçimine geçişler, kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, HTML'i çevrimiçi olarak MD dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i MD formatına dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="HTML\'i MD biçimine dönüştürmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/

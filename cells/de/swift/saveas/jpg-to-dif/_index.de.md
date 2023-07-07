@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie JPG als DIF API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von JPG-Formatdateien als DIF-Formatdateien.
 url: /de/swift/saveas/jpg-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

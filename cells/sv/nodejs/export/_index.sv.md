@@ -32,7 +32,7 @@ url: /sv/nodejs/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Exportera med NodeJS Extension-länkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exportera med hjälp av NodeJS Extension-länkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

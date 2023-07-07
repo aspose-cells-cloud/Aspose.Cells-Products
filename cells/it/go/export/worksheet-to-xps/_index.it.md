@@ -7,7 +7,7 @@ url: /it/go/export/worksheet-to-xps/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vai API per esportare il FOGLIO DI LAVORO nel file XPS" h2="Vai alla libreria per esportare il FOGLIO DI LAVORO nel file XPS" p="Utilizzare Cells Esporta REST API per esportare i flussi di lavoro degli oggetti interni del foglio di calcolo in Go. Questa è una soluzione professionale per esportare FOGLIO DI LAVORO in file in formato XPS dal foglio di calcolo online utilizzando Go." urlsection="export/worksheet-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file in formato XPS in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET nel file di formato XPS in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
 Esportare l'oggetto WORKSHEET nel file XPS dal foglio di calcolo è un'attività complessa. L'esportazione del FOGLIO DI LAVORO nelle transizioni di formato XPS viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Go è una soluzione professionale per esportare oggetti WORKSHEET in file in formato XPS online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un output XPS perfetto.

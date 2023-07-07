@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لحفظ ملف ب�
 url: /ar/java/saveas/tsv-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV على هيئة XML" h2="Java مكتبة لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لحفظ TSV على هيئة XML" h2="مكتبة Java لحفظ TSV على هيئة XML" p="استخدم Cells SaveAs REST API لإنشاء مسارات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لحفظ TSV على هيئة XML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="saveas/tsv-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف TSV بتنسيق XML في Java" >}}

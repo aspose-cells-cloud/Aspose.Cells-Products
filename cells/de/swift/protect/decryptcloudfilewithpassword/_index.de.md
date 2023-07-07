@@ -4,13 +4,13 @@ description:  Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc entsc
 url: /de/swift/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Entschlüsseln der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Decrypt REST API, um Cloud-Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu entschlüsseln. Diese professionelle Lösung entschlüsselt Cloud Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mit Swift." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Entschlüsseln der Cloud Microsoft Excel und der OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Entschlüsseln von Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Decrypt REST API, um Cloud-Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu entschlüsseln. Diese professionelle Lösung entschlüsselt Cloud Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mit Swift." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Cloud Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort entschlüsseln – Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/DeleteDecryptWorkbook" apimethod="DELETE" %}}
 <br/>
-Das Entschlüsseln einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufgabe. Die Entschlüsselung einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem Swift SDK durchgeführt, während der Hauptstruktur- und logische Inhalt der Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Entschlüsseln von Cloud-Tabellen mit einem Passwort online. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte API.
+Das Entschlüsseln einer Cloud-Tabelle mit einem Passwort ist eine komplexe Aufgabe. Die Entschlüsselung einer lokalen Kalkulationstabelle mit Passwortübergängen wird von unserem Swift SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quelltabelle erhalten bleibt. Unsere Swift-Bibliothek ist eine professionelle Lösung zum Entschlüsseln von Cloud-Tabellen mit einem Passwort online. Dieses Cloud SDK bietet Swift-Entwicklern leistungsstarke Funktionalität und perfekte API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="SWITFT-Code zum Entschlüsseln von Cloud-Tabellen" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-DeleteDecryptDocument.swift" %}}

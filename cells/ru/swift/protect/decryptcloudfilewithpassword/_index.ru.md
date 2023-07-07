@@ -4,13 +4,13 @@ description:  Облачные API и SDK для Microsoft Excel и OpenOffice C
 url: /ru/swift/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Swift для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей с помощью Swift." urlsection="protect/decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" h2="Библиотека Swift для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с паролем" p="Используйте Cells Decrypt REST API для расшифровки облака Microsoft Excel и электронной таблицы OpenOffice Calc с рабочими процессами паролей в Swift. Это профессиональное решение расшифровывает облако Microsoft Excel и электронную таблицу OpenOffice Calc онлайн с помощью паролей с помощью Swift." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Расшифровать облако Microsoft Excel и электронную таблицу OpenOffice Calc с паролем — Swift REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/DeleteDecryptWorkbook" apimethod="DELETE" %}}
 <br/>
-Расшифровка облачной таблицы с помощью пароля — сложная задача. Наш Swift SDK выполняет расшифровку локальной электронной таблицы с переходами паролей, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы. Наша библиотека Swift — это профессиональное решение для онлайн-расшифровки облачных таблиц с паролем. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и совершенный API.
+Расшифровка облачной таблицы с помощью пароля — сложная задача. Наш Swift SDK выполняет расшифровку локальной электронной таблицы с переходами паролей, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы. Наша библиотека Swift — это профессиональное решение для расшифровки облачных таблиц с помощью пароля онлайн. Этот облачный SDK предоставляет разработчикам Swift мощную функциональность и совершенный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Код Switft для расшифровки облачных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8fc58a24a7afa9406ef61e1b40c55727.js?file=Example-DeleteDecryptDocument.swift" %}}

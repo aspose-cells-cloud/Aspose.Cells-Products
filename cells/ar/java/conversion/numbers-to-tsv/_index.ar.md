@@ -4,13 +4,13 @@ description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف
 url: /ar/java/conversion/numbers-to-tsv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى TSV" h2="Java مكتبة لتحويل الأرقام إلى TSV" p="استخدم Cells Conversion REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API لتحويل الأرقام إلى TSV" h2="Java مكتبة لتحويل الأرقام إلى TSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Java. هذا حل احترافي لتحويل NUMBERS إلى TSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Java." urlsection="conversion/numbers-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى TSV في Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى TSV مهمة معقدة. يتم إجراء جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى ملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة Java SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا Java حلاً احترافيًا لتحويل NUMBERS إلى ملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين Java وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Java باستخدام REST API لتحويل الأرقام إلى تنسيق TSV" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /tr/nodejs/saveas/xml-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını NodeJS\'de MD olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XML'den MD olarak kaydetmek karmaşık bir iştir. Tüm XML'den MD biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XML'i çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
+Dosya biçimlerini XML'den MD olarak kaydetmek karmaşık bir görevdir. Tüm XML'den MD biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriğini korurken NodeJS SDK'mız tarafından gerçekleştirilir. NodeJS kitaplığımız, XML'i çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, NodeJS geliştiricilerine güçlü işlevsellik ve mükemmel MD çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i MD biçimi olarak kaydetmek için REST API kullanan NodeJS\'deki kod örneği" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/php/saveas/bmp-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл BMP как FODS в PHP." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с BMP как FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для сохранения BMP в виде файлов FODS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощную функциональность и идеальный результат FODS.
+Сохранение форматов файлов с BMP как FODS — сложная задача. Все переходы формата BMP в формат FODS выполняются нашим SDK PHP при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека PHP — это профессиональное решение для сохранения BMP в виде файлов FODS онлайн. Этот облачный SDK предоставляет PHP разработчикам мощные функциональные возможности и отличные результаты FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в PHP с использованием REST API для сохранения BMP в формате FODS" gistPath="" %}}

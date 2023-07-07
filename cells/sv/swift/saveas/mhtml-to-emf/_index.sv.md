@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara MHTML som EMF API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara fil i MHTML-format som fil i EMF-format.
 url: /sv/swift/saveas/mhtml-to-emf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

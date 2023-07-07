@@ -10,7 +10,7 @@ url: /fr/java/saveas/xlsm-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSM sous SVG dans Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLSM sous le nom SVG est une tâche complexe. Toutes les transitions de format XLSM vers SVG sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Java est une solution professionnelle pour enregistrer en ligne des fichiers XLSM au format SVG. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie SVG parfaite.
+L'enregistrement des formats de fichiers à partir de XLSM sous le nom SVG est une tâche complexe. Toutes les transitions de format XLSM vers SVG sont effectuées par notre SDK Java tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSM source. Notre bibliothèque Java est une solution professionnelle pour enregistrer des fichiers XLSM sous SVG en ligne. Ce SDK Cloud offre aux développeurs Java des fonctionnalités puissantes et une sortie SVG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Java utilisant REST API pour enregistrer XLSM au format SVG" gistPath="" %}}

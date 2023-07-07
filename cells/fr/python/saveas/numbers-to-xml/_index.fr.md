@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer
 url: /fr/python/saveas/numbers-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer les NUMÉROS au format XML" h2="Python bibliothèque pour enregistrer les NUMÉROS au format XML" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format XML et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/numbers-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer les NUMÉROS au format XML" h2="Python bibliothèque pour enregistrer les NUMÉROS au format XML" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer des NUMBERS au format XML et d\'autres formats de document en ligne à l\'aide de Python." urlsection="saveas/numbers-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier NUMBERS au format XML dans Python" >}}

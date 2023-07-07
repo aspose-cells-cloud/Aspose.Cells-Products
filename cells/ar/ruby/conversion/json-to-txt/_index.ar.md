@@ -13,7 +13,7 @@ url: /ar/ruby/conversion/json-to-txt/
 يعد تحويل تنسيقات الملفات من JSON إلى TXT مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق JSON إلى TXT بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات JSON المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لتحويل ملفات JSON إلى TXT عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج TXT مثالي.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل تنسيق JSON إلى تنسيق TXT" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لتحويل JSON إلى تنسيق TXT" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/

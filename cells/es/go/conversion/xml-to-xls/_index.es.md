@@ -7,7 +7,7 @@ url: /es/go/conversion/xml-to-xls/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Vaya API para convertir XML a XLS" h2="Ir a la biblioteca para convertir XML a XLS" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Go. Esta es una solución profesional para convertir XML a XLS y otros formatos de documentos en línea usando Go." urlsection="conversion/xml-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XML a XLS en Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo XML a XLS en Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Convertir formatos de archivo de XML a XLS es una tarea compleja. Todas las transiciones de formato XML a XLS se realizan mediante nuestro Go SDK mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo XML de origen. Nuestra biblioteca Go es una solución profesional para convertir archivos XML a XLS en línea. Este SDK de Cloud brinda a los desarrolladores de Go una funcionalidad poderosa y una salida XLS perfecta.

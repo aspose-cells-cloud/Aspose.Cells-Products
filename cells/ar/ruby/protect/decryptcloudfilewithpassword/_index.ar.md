@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لـ Microsoft Excel وفك تشفير OpenOffic
 url: /ar/ruby/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells فك تشفير REST API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel و OpenOffice Calc جدول البيانات عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" h2="مكتبة روبي لفك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور" p="استخدم Cells Decrypt REST API لفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc مع مهام سير عمل كلمات المرور في Ruby. يقوم هذا الحل الاحترافي بفك تشفير السحابة Microsoft Excel وجداول بيانات OpenOffice Calc عبر الإنترنت باستخدام كلمات مرور باستخدام Ruby." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="فك تشفير السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Ruby REST API" >}}

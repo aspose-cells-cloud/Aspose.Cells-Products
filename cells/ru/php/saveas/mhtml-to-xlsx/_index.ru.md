@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для PHP дл�
 url: /ru/php/saveas/mhtml-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить MHTML как XLSX" h2="PHP библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения документов MHTML в формате XLSX и других форматов в Интернете с использованием PHP." urlsection="saveas/mhtml-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API, чтобы сохранить MHTML как XLSX" h2="PHP библиотека для сохранения MHTML как XLSX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в PHP. Это профессиональное решение для сохранения документов MHTML как XLSX и других форматов в Интернете с использованием PHP." urlsection="saveas/mhtml-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл MHTML как XLSX в PHP." >}}

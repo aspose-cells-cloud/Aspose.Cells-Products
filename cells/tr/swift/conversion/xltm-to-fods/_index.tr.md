@@ -1,6 +1,6 @@
 ﻿---
-title:  Swift için XLTM'den FODS'ye Dönüştürme API
-description: Microsoft Excel ve OpenOffice Hesaplama için Bulut API'leri ve SDK'lar Elektronik tabloyu diğer biçim dosyasına dönüştürün.
+title: Swift için XLTM'den FODS'ye Dönüştürme API
+description:  XLTM biçim dosyasını FODS biçim dosyasına dönüştürmek için Swift için Aspose.Cells Cloud SDK'yı kullanma.
 url: /tr/swift/conversion/xltm-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

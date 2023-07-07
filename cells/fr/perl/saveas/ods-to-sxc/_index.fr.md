@@ -7,7 +7,7 @@ url: /fr/perl/saveas/ods-to-sxc/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API pour enregistrer ODS en tant que SXC" h2="Bibliothèque Perl pour enregistrer ODS en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Perl. Il s\'agit d\'une solution professionnelle pour enregistrer ODS au format SXC et d\'autres formats de document en ligne à l\'aide de Perl." urlsection="saveas/ods-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier ODS en tant que SXC dans Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier ODS en tant que SXC dans Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 L'enregistrement de formats de fichiers à partir d'ODS en tant que SXC est une tâche complexe. Toutes les transitions de format ODS vers SXC sont effectuées par notre SDK Perl tout en conservant le contenu structurel et logique principal de la feuille de calcul ODS source. Notre bibliothèque Perl est une solution professionnelle pour enregistrer ODS en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs Perl des fonctionnalités puissantes et une sortie SXC parfaite.

@@ -10,7 +10,7 @@ url: /es/android/export/workbook-to-xps/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exporte el objeto WORKBOOK al archivo de formato XPS en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Exportar el objeto WORKBOOK al archivo XPS desde la hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de WORKBOOK a transiciones de formato XPS mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos WORKBOOK a archivos de formato XPS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XPS perfecta.
+Exportar el objeto WORKBOOK al archivo XPS desde la hoja de cálculo es una tarea compleja. Nuestro SDK de Android realiza la exportación de WORKBOOK a transiciones de formato XPS mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo WORKBOOK de origen. Nuestra biblioteca de Android es una solución profesional para exportar objetos de WORKBOOK a archivos de formato XPS en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida XPS perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para exportar WORKBOOK al formato XPS desde una hoja de cálculo" gistPath="" %}}

@@ -44,7 +44,7 @@ Esportare l'oggetto PICTURE nel file EMF dal foglio di calcolo è un'attività c
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per esportare IMMAGINE in EMF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare C# API per esportare IMMAGINE a EMF" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo PostExport per ottenere il flusso risultante</li>

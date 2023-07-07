@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc. üzerindeki içeriği temizlem
 url: /tr/php/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için PHP API" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için temizleyin" p="Cells Yerel Microsoft Excel ve OpenOffice Calc hesap tablosu iş akışlarındaki içeriği PHP\'de temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği PHP kullanarak temizler." urlsection="clear/Content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için PHP API" h2="PHP Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizlemek için temizleyin" p="Yerel Microsoft Excel ve PHP\'deki OpenOffice Calc hesap tablosu iş akışlarındaki içeriği temizlemek için Cells Clear REST API\'i kullanın. Bu profesyonel çözüm, yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği PHP kullanarak temizler." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Yerel Microsoft Excel ve OpenOffice Calc elektronik tablosundaki içeriği temizle - PHP REST API" >}}

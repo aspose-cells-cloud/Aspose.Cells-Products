@@ -10,7 +10,7 @@ url: /ru/android/saveas/xlsx-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как CSV в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде CSV — сложная задача. Все переходы между форматами XLSX и CSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате CSV онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Сохранение форматов файлов из XLSX в виде CSV — сложная задача. Все переходы между форматами XLSX и CSV выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для сохранения файлов XLSX в формате CSV онлайн. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для сохранения XLSX в формате CSV" gistPath="" %}}

@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/xlsm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSM в WMF" h2="Python библиотека для преобразования XLSM в WMF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSM в WMF и другие форматы документов с использованием Python." urlsection="conversion/xlsm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования XLSM в WMF" h2="Python библиотека для преобразования XLSM в WMF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации XLSM в WMF и другие форматы документов с использованием Python." urlsection="conversion/xlsm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSM в WMF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSM в WMF — сложная задача. Все переходы между форматами XLSM и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSM в WMF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XLSM в WMF — сложная задача. Все переходы между форматами XLSM и WMF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSM. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSM в WMF. Этот облачный SDK предоставляет разработчикам Python мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSM в формат WMF" gistPath="" %}}

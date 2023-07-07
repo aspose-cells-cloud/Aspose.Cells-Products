@@ -1,5 +1,5 @@
 ﻿---
-title:  Enregistrer JSON sous DIF API pour Go
+title:  Enregistrez JSON sous DIF API pour Go
 description:  Utilisation de Aspose.Cells Cloud SDK for Go pour enregistrer le fichier au format JSON en tant que fichier au format DIF.
 url: /fr/go/saveas/json-to-dif/
 ---

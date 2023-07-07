@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/conversion/gif-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования GIF в TXT" h2="Python библиотека для преобразования GIF в TXT" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации GIF в TXT и другие форматы документов с использованием Python." urlsection="conversion/gif-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для преобразования GIF в TXT" h2="Python библиотека для преобразования GIF в TXT" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для онлайн-конвертации GIF в TXT и другие форматы документов с использованием Python." urlsection="conversion/gif-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Конвертируйте файл GIF в TXT по номеру Python." >}}

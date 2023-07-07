@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف 
 url: /ar/python/saveas/xltm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLTM كملف CSV" h2="مكتبة Python لحفظ XLTM كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLTM كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ XLTM كملف CSV" h2="مكتبة Python لحفظ XLTM كملف CSV" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ XLTM كملف CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/xltm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف XLTM كملف CSV في Python" >}}

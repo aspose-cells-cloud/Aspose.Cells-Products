@@ -4,7 +4,7 @@ description: Cloud-APIs und SDKs zum Löschen des Hintergrunds auf Microsoft Exc
 url: /de/swift/clear/background/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen des Hintergrunds in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen des Hintergrunds in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um den Hintergrund für lokale Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht den Hintergrund auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Löschen des Hintergrunds in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" h2="Swift Clear zum Löschen des Hintergrunds in der lokalen Microsoft Excel und OpenOffice Calc-Tabelle" p="Verwenden Sie Cells Clear REST API, um den Hintergrund für lokale Microsoft Excel und OpenOffice Calc-Tabellen-Workflows in Swift zu löschen. Diese professionelle Lösung löscht den Hintergrund auf lokaler Microsoft Excel und OpenOffice Calc-Tabelle mit Swift." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Klarer Hintergrund für lokale Microsoft Excel und OpenOffice Calc-Tabelle – Swift REST API" >}}

@@ -7,7 +7,7 @@ url: /ru/android/conversion/xlsb-to-dif/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для преобразования XLSB в DIF" h2="Библиотека Android для преобразования XLSB в DIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для преобразования XLSB в DIF и другие форматы документов онлайн с помощью Android." urlsection="conversion/xlsb-to-dif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в DIF в Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в DIF на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
 Преобразование форматов файлов из XLSB в DIF — сложная задача. Все переходы формата XLSB в формат DIF выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSB. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSB в DIF. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод DIF.

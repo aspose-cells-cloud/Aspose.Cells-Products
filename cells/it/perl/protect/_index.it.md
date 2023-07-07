@@ -1,14 +1,14 @@
 ﻿---
-title:  Proteggi con Perl
-description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con Perl. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
+title:  Proteggi usando Perl
+description:  Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando Perl. L'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift.
 url: /it/perl/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi con Perl" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale con Perl. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Proteggi usando Perl" h2="Aspose.Cells Cloud SDK supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale." p="Aspose.Cells Cloud REST API supporta la decrittografia, la crittografia e le cartelle di lavoro con firma digitale utilizzando Perl. L\'SDK supporta i linguaggi di sviluppo. Includono Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby e swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Proteggi con i collegamenti di estensione Perl" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Proteggi utilizzando i collegamenti di estensione Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

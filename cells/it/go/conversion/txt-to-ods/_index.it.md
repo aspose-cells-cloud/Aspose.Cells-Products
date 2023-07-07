@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da TXT a ODS API per Go
+title:  Conversione da TXT a ODS API per andare
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato TXT in un file in formato ODS.
 url: /it/go/conversion/txt-to-ods/
 ---

@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Ruby将JSON格式文件转换为PD
 url: /zh/ruby/conversion/json-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 JSON 转换为 PDF" h2="将 JSON 转换为 PDF 的 Ruby 库" p="使用 Cells Conversion REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用Ruby在线将JSON转换为PDF和其他文档格式的专业解决方案。" urlsection="conversion/json-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 JSON 转换为 PDF" h2="将 JSON 转换为 PDF 的 Ruby 库" p="使用 Cells Conversion REST API 在 Ruby 中创建自定义电子表格工作流程。这是一个使用Ruby在线将JSON转换为PDF和其他文档格式的专业解决方案。" urlsection="conversion/json-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 JSON 文件转换为 PDF" >}}

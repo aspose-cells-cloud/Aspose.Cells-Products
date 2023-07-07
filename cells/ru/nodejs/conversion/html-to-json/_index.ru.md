@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/html-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла HTML в JSON в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из HTML в JSON — сложная задача. Все переходы HTML в формат JSON выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы HTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации HTML в файлы JSON. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JSON.
+Преобразование форматов файлов из HTML в JSON — сложная задача. Все переходы HTML в формат JSON выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы HTML. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации HTML в файлы JSON. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования HTML в формат JSON" gistPath="" %}}

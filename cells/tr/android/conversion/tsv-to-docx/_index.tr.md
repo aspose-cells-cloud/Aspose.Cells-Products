@@ -10,7 +10,7 @@ url: /tr/android/conversion/tsv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Android\'de bir TSV dosyasını DOCX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını TSV'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm TSV'den DOCX'e biçim geçişleri, kaynak TSV elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
+Dosya formatlarını TSV'den DOCX'e dönüştürmek karmaşık bir iştir. Tüm TSV'den DOCX'e biçim geçişleri, kaynak TSV e-tablosunun ana yapısal ve mantıksal içeriği korunurken Android SDK'mız tarafından gerçekleştirilir. Android kitaplığımız, TSV'yi çevrimiçi olarak DOCX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, Android geliştiricilerine güçlü işlevsellik ve mükemmel DOCX çıktısı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="TSV\'yi DOCX biçimine dönüştürmek için REST API kullanan Android\'de kod örneği" gistPath="" %}}

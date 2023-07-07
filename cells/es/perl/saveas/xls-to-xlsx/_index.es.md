@@ -1,5 +1,5 @@
 ﻿---
-title: Guardar XLS como XLSX API para Perl
+title: Guarde XLS como XLSX API para Perl
 description:  Usando Aspose.Cells Cloud SDK para Perl para guardar el archivo de formato XLS como archivo de formato XLSX.
 url: /es/perl/saveas/xls-to-xlsx/
 ---

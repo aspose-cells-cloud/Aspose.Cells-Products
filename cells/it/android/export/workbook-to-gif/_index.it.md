@@ -10,7 +10,7 @@ url: /it/android/export/workbook-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKBOOK in un file in formato GIF in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-L'esportazione dell'oggetto WORKBOOK in un file GIF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato GIF viene eseguita dal nostro Android SDK mantenendo il contenuto strutturale e logico principale del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato GIF online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output GIF perfetto.
+L'esportazione dell'oggetto WORKBOOK in un file GIF dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni da WORKBOOK a formato GIF viene eseguita dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di lavoro WORKBOOK di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKBOOK in file in formato GIF online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output GIF perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per esportare WORKBOOK in formato GIF dal foglio di calcolo" gistPath="" %}}

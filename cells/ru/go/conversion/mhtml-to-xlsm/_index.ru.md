@@ -10,7 +10,7 @@ url: /ru/go/conversion/mhtml-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLSM в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов MHTML в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
+Преобразование форматов файлов из MHTML в XLSM — сложная задача. Все переходы форматов MHTML в XLSM выполняются нашим SDK Go при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов MHTML в XLSM. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования MHTML в формат XLSM" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie MHTML als SXC API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von MHTML-Formatdateien als SXC-Formatdateien.
 url: /de/swift/saveas/mhtml-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

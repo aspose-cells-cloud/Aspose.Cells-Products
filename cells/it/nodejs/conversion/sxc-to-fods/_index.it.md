@@ -10,7 +10,7 @@ url: /it/nodejs/conversion/sxc-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Converti un file SXC in FODS in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-La conversione dei formati di file da SXC a FODS è un'attività complessa. Tutte le transizioni di formato da SXC a FODS vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria NodeJS è una soluzione professionale per convertire file SXC in FODS online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output FODS perfetto.
+La conversione dei formati di file da SXC a FODS è un'attività complessa. Tutte le transizioni di formato da SXC a FODS vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo SXC di origine. La nostra libreria NodeJS è una soluzione professionale per convertire file SXC in FODS online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output FODS perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per convertire SXC in formato FODS" gistPath="" %}}

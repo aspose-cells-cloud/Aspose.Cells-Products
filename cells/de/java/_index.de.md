@@ -231,7 +231,7 @@ Fassen Sie Daten eines großen ListObjects oder einer großen Tabelle mit einer 
  Beginnen Sie mit dem Excel Spreadsheet Processing SDK
     </h2>
     <p>
- Um mit Aspose.Cells Cloud SDK for Java zu beginnen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
+ Um mit dem Aspose.Cells Cloud SDK for Java zu beginnen, müssen Sie nichts installieren. Sie müssen lediglich ein Konto bei erstellen
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose für Cloud
      </a>

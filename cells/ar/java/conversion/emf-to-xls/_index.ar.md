@@ -1,5 +1,5 @@
 ﻿---
-title:  EMF لتحويل XLS API for Java
+title:  EMF إلى XLS تحويل API for Java
 description:  استخدام Aspose.Cells Cloud SDK for Java لتحويل ملف تنسيق EMF إلى ملف بتنسيق XLS.
 url: /ar/java/conversion/emf-to-xls/
 ---

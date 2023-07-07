@@ -10,7 +10,7 @@ url: /ru/android/conversion/xlsx-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSX в CSV на Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSX в CSV — сложная задача. Все переходы между форматами XLSX и CSV выполняются нашим Android SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSX в CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
+Преобразование форматов файлов из XLSX в CSV — сложная задача. Все переходы между форматами XLSX и CSV выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Android — это профессиональное решение для онлайн-конвертации файлов XLSX в CSV. Этот облачный SDK предоставляет разработчикам Android мощные функциональные возможности и идеальный вывод в формате CSV.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для преобразования XLSX в формат CSV" gistPath="" %}}

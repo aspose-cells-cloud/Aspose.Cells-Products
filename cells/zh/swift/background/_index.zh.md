@@ -1,14 +1,14 @@
 ﻿---
-title: 背景
-description: Aspose.Cells Cloud REST API 支持为 Excel 文件设置背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
+title: 使用 Swift 设置背景
+description: Aspose.Cells Cloud REST API 支持使用 Swift 设置 Excel 文件的背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="背景" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持为 Excel 文件设置背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="使用 Swift 设置背景" h2="Aspose.Cells Cloud SDK支持Excel文件中清晰的内容、样式、图表、表格、背景等。" p="Aspose.Cells Cloud REST API 支持使用 Swift 设置 Excel 文件的背景。 SDK支持多种开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="后台扩展链接" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Swift 扩展链接设置背景" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

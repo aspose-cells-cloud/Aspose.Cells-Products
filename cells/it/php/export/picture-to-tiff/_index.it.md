@@ -36,7 +36,7 @@ Esportare l'oggetto PICTURE nel file TIFF dal foglio di calcolo è un'attività 
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare PHP API per esportare IMMAGINE in TIFF" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Come utilizzare PHP API per esportare IMMAGINE a TIFF" >}}
 <li> Crea un account su<a href="https://dashboard.aspose.cloud/">Pannello di controllo</a> per ottenere gratuitamente quota API e dettagli di autorizzazione</li>
 <li>Inizializza CellsApi con ID client, segreto client, URL di base e versione API</li>
 <li>Chiama il metodo postExport per ottenere il flusso risultante</li>

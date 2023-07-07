@@ -4,7 +4,7 @@ description:  Облачные API и SDK для очистки коммента
 url: /ru/swift/clear/comments/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить комментарии к локальным рабочим процессам электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение четко комментирует локальные Microsoft Excel и электронные таблицы OpenOffice Calc с использованием Swift." urlsection="clear/comments/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки комментариев к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Очистить REST API, чтобы очистить комментарии к локальным рабочим процессам электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение четко комментирует локальные Microsoft Excel и электронные таблицы OpenOffice Calc с использованием Swift." urlsection="clear/Comments/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Четкие комментарии к локальному номеру Microsoft Excel и электронной таблице OpenOffice Calc — Swift REST API" >}}

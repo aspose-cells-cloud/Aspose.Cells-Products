@@ -10,7 +10,7 @@ url: /fr/ruby/saveas/xltx-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTX au format JSON dans Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers de XLTX au format JSON est une tâche complexe. Toutes les transitions de format XLTX vers JSON sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer en ligne des fichiers XLTX au format JSON. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JSON parfaite.
+L'enregistrement de formats de fichiers à partir de XLTX au format JSON est une tâche complexe. Toutes les transitions de format XLTX vers JSON sont effectuées par notre SDK Ruby tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Ruby est une solution professionnelle pour enregistrer en ligne des fichiers XLTX au format JSON. Ce SDK Cloud offre aux développeurs Ruby des fonctionnalités puissantes et une sortie JSON parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Ruby utilisant REST API pour enregistrer XLTX au format JSON" gistPath="" %}}

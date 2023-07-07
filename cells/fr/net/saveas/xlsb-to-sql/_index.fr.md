@@ -10,7 +10,7 @@ url: /fr/net/saveas/xlsb-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLSB en tant que SQL dans C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de XLSB en tant que SQL est une tâche complexe. Toutes les transitions de format XLSB vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLSB en tant que SQL. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
+L'enregistrement de formats de fichiers à partir de XLSB en tant que SQL est une tâche complexe. Toutes les transitions de format XLSB vers SQL sont effectuées par notre SDK C# tout en conservant le contenu structurel et logique principal de la feuille de calcul XLSB source. Notre bibliothèque C# est une solution professionnelle pour enregistrer en ligne des fichiers XLSB sous forme de fichiers SQL. Ce SDK Cloud offre aux développeurs C# des fonctionnalités puissantes et une sortie SQL parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans C# utilisant REST API pour enregistrer XLSB au format SQL" gistPath="" %}}

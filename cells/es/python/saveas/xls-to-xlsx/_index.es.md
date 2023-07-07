@@ -1,5 +1,5 @@
 ﻿---
-title: Guardar XLS como XLSX API para Python
+title: Guarde XLS como XLSX API para Python
 description:  Usando Aspose.Cells Cloud SDK para Python para guardar el archivo de formato XLS como archivo de formato XLSX.
 url: /es/python/saveas/xls-to-xlsx/
 ---

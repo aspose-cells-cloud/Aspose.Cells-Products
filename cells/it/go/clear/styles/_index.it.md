@@ -13,7 +13,7 @@ url: /it/go/clear/styles/
 Cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc è un compito complesso. La cancellazione degli stili sulle transizioni del foglio di calcolo locale Microsoft Excel e OpenOffice Calc viene eseguita dal nostro Go SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo di origine. La nostra libreria Go è una soluzione professionale per cancellare gli stili sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc online. Questo Cloud SDK offre agli sviluppatori Go potenti funzionalità e un perfetto API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Vai al codice per cancellare gli stili sui fogli di calcolo locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Style.go" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Vai al codice per cancellare gli stili sui fogli di lavoro locali" gistPath="https://gist.github.com/aspose-cells-cloud-gists/2b824d4e13644368d12682856aa49185.js?file=Example-Clear-Style.go" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>

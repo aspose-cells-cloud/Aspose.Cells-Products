@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez TSV sous SXC API pour PHP
-description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format TSV en tant que fichier au format SXC.
+description:  Utiliser Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format TSV en tant que fichier au format SXC.
 url: /fr/php/saveas/tsv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

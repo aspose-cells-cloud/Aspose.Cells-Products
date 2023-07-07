@@ -1,6 +1,6 @@
 ﻿---
-title:  XLTX in DIF Konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+title: XLTX in DIF Konvertieren API für Swift
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren einer XLTX-Formatdatei in eine DIF-Formatdatei.
 url: /de/swift/conversion/xltx-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

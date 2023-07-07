@@ -4,7 +4,7 @@ description:  API y SDK en la nube para proteger Microsoft Excel y OpenOffice Ca
 url: /es/ruby/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" h2="Biblioteca Ruby para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y la hoja de cálculo de OpenOffice Calc con flujos de trabajo de contraseña en Ruby. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Ruby." urlsection="protect/Encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" h2="Biblioteca Ruby para proteger la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña" p="Use Cells Protect REST API para proteger Microsoft Excel local y la hoja de cálculo OpenOffice Calc con flujos de trabajo de contraseña en Ruby. Esta solución profesional protege Microsoft Excel y la hoja de cálculo OpenOffice Calc en línea con contraseñas usando Ruby." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Proteja la hoja de cálculo local Microsoft Excel y OpenOffice Calc con contraseña - Ruby REST API" >}}

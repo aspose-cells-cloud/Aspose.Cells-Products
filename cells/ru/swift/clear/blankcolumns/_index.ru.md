@@ -4,7 +4,7 @@ description: Облачные API и SDK для очистки пустых ст
 url: /ru/swift/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки пустых столбцов в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Swift." urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." h2="Swift Clear для очистки пустых столбцов в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc." p="Используйте Cells Clear REST API для очистки пустых столбцов в локальных рабочих процессах электронных таблиц Microsoft Excel и OpenOffice Calc в Swift. Это профессиональное решение очищает пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc с помощью Swift." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Очистить пустые столбцы в локальной таблице Microsoft Excel и электронной таблице OpenOffice Calc — Swift REST API" >}}
@@ -18,7 +18,7 @@ url: /ru/swift/clear/blank-columns/
 {{% /blocks/products/cells/cells-cloud-code-div %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title=" Как использовать Swift API для очистки пустых столбцов" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true" title="Как использовать Swift API для очистки пустых столбцов" >}}
 <li> Создайте учетную запись на<a href="https://dashboard.aspose.cloud/">Панель приборов</a> чтобы получить бесплатную информацию о квоте и авторизации API</li>
 <li>Инициализировать CellsApi с идентификатором клиента, секретом клиента, базовым URL-адресом и версией API.</li>
 <li>Вызовите метод postClearObjects, чтобы получить результирующий поток</li>

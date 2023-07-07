@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM zu WMF Konvertieren Sie API in Perl
-description:  Verwenden von Aspose.Cells Cloud SDK für Perl zum Konvertieren einer XLTM-Formatdatei in eine WMF-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für Perl zum Konvertieren einer Datei im XLTM-Format in eine Datei im WMF-Format.
 url: /de/perl/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title: 将 TSV 保存为 TIFF API for Swift
-description: 适用于 Microsoft Excel 和 OpenOffice Calc 的云 API 和 SDK。将电子表格转换为其他格式文件。
+description: 使用 Aspose.Cells Cloud SDK for Swift 将 TSV 格式文件保存为 TIFF 格式文件。
 url: /zh/swift/saveas/tsv-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

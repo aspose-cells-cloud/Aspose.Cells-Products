@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XML как XLSM API для Ruby
-description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XML в виде файла формата XLSM.
+description:  Использование Aspose.Cells Cloud SDK для Ruby для сохранения файла формата XML как файла формата XLSM.
 url: /ru/ruby/saveas/xml-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

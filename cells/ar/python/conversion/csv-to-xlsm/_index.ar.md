@@ -4,7 +4,7 @@ description: استخدام Aspose.Cells Cloud SDK لـ Python لتحويل مل
 url: /ar/python/conversion/csv-to-xlsm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل CSV إلى XLSM" h2="Python مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء جداول سير عمل مخصصة لجداول البيانات في Python. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات المستندات الأخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-xlsm/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لتحويل CSV إلى XLSM" h2="Python مكتبة لتحويل CSV إلى XLSM" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لتحويل CSV إلى XLSM وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="conversion/csv-to-xlsm/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى XLSM في Python" >}}

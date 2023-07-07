@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ PHP لتحويل ملف
 url: /ar/php/conversion/xlsm-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSM إلى CSV" h2="مكتبة PHP لتحويل XLSM إلى CSV" p="استخدم Cells Conversion REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLSM إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-csv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API لتحويل XLSM إلى CSV" h2="مكتبة PHP لتحويل XLSM إلى CSV" p="استخدم Cells Conversion REST API لإنشاء مسارات عمل جداول بيانات مخصصة في PHP. هذا حل احترافي لتحويل XLSM إلى CSV وتنسيقات مستندات أخرى عبر الإنترنت باستخدام PHP." urlsection="conversion/xlsm-to-csv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف XLSM إلى CSV في PHP" >}}

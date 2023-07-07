@@ -1,5 +1,5 @@
 ﻿---
-title:  احفظ الأرقام كـ XLTX API لـ Python
+title:  احفظ الأرقام كـ XLTX API مقابل Python
 description: استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLTX.
 url: /ar/python/saveas/numbers-to-xltx/
 ---

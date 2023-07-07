@@ -10,7 +10,7 @@ url: /ru/net/conversion/mhtml-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла MHTML в XLT в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из MHTML в XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов MHTML в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
+Преобразование форматов файлов из MHTML в XLT — сложная задача. Все переходы между форматами MHTML и XLT выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы MHTML. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов MHTML в XLT. Этот облачный SDK предоставляет C# разработчикам мощные функциональные возможности и превосходный результат в формате XLT.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования MHTML в формат XLT" gistPath="" %}}

@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح المحتوى على Microsoft Excel &
 url: /ar/swift/clear/content/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح المحتوى في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Swift امسح لمسح المحتوى في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Swift." urlsection="clear/content/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="سويفت API لمسح المحتوى في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" h2="Swift امسح لمسح المحتوى في جدول بيانات Microsoft Excel المحلي و OpenOffice Calc" p="استخدم Cells مسح REST API لمسح المحتوى على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Swift. يقوم هذا الحل الاحترافي بمسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc باستخدام Swift." urlsection="clear/Content/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح المحتوى على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Swift REST API" >}}

@@ -10,7 +10,7 @@ url: /ru/nodejs/conversion/xlt-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLT в FODS в NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLT в FODS — сложная задача. Все переходы между форматами XLT и FODS выполняются нашим NodeJS SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLT в FODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат FODS.
+Преобразование форматов файлов из XLT в FODS — сложная задача. Все переходы между форматами XLT и FODS выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLT. Наша библиотека NodeJS — это профессиональное решение для онлайн-конвертации файлов XLT в FODS. Этот облачный SDK предоставляет разработчикам NodeJS мощную функциональность и идеальный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для преобразования XLT в формат FODS" gistPath="" %}}

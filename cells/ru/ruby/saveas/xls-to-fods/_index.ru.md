@@ -10,7 +10,7 @@ url: /ru/ruby/saveas/xls-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLS как FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLS в виде FODS — сложная задача. Все переходы между форматами XLS и FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Сохранение форматов файлов из XLS в виде FODS — сложная задача. Все переходы между форматами XLS и FODS выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека Ruby — это профессиональное решение для сохранения файлов XLS в формате FODS в Интернете. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для сохранения XLS в формате FODS" gistPath="" %}}

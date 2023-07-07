@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/saveas/xml-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML в формате DOCX" h2="C# библиотека для сохранения XML в формате DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в формате DOCX и других форматов документов в Интернете с использованием C#." urlsection="saveas/xml-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения XML в формате DOCX" h2="C# библиотека для сохранения XML в формате DOCX" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения XML в формате DOCX и других форматах документов в Интернете с использованием C#." urlsection="saveas/xml-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните XML-файл как DOCX по адресу C#." >}}

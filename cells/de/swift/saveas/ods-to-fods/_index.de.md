@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie ODS als FODS API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im ODS-Format als Datei im FODS-Format zu speichern.
 url: /de/swift/saveas/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

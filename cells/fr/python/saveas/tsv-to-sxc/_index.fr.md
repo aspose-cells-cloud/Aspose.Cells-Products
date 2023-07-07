@@ -1,6 +1,6 @@
 ﻿---
 title: Enregistrez TSV sous SXC API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour enregistrer le fichier au format TSV en tant que fichier au format SXC.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour enregistrer le fichier au format TSV en tant que fichier au format SXC.
 url: /fr/python/saveas/tsv-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,10 +1,10 @@
 ﻿---
-title:  Verschlüsseln Sie die lokale Tabelle mit einem Passwort in der Cloud
-description:  Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc. Verschlüsseln Sie lokale Tabellenkalkulationen mit dem Passwort Cells Cloud API. SDK unterstützt verschiedene Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Verschlüsseln Sie die lokale Tabelle mit einem Passwort mit Swift in der Cloud
+description:  Cloud-APIs und SDKs zum Schutz von Microsoft Excel und OpenOffice Calc mit Swift. Verschlüsseln Sie lokale Tabellenkalkulationen mit einem Passwort mit dem Cells Cloud API SDK für Swift.
 url: /de/swift/protect/encrypt-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Schutz der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Schutz der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um lokale Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu schützen. Diese professionelle Lösung schützt Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mithilfe von Swift." urlsection="protect/encrypt-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API zum Schutz der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" h2="Swift-Bibliothek zum Schutz der lokalen Microsoft Excel und OpenOffice Calc-Tabelle mit Passwort" p="Verwenden Sie Cells Protect REST API, um lokale Microsoft Excel und OpenOffice Calc-Tabellen mit Passwort-Workflows in Swift zu schützen. Diese professionelle Lösung schützt Microsoft Excel und OpenOffice Calc-Tabellen online mit Passwörtern mithilfe von Swift." urlsection="protect/Encrypt-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Schützen Sie die lokale Microsoft Excel und die OpenOffice Calc-Tabelle mit dem Passwort – Swift REST API" >}}

@@ -13,7 +13,7 @@ url: /de/android/export/workbook-to-csv/
 Das Exportieren eines WORKBOOK-Objekts aus einer Tabellenkalkulation in eine CSV-Datei ist eine komplexe Aufgabe. Übergänge beim Exportieren von WORKBOOK in das CSV-Format werden von unserem Android SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-WORKBOOK-Tabelle erhalten bleiben. Unsere Android-Bibliothek ist eine professionelle Lösung zum Online-Export von WORKBOOK-Objekten in Dateien im CSV-Format. Dieses Cloud SDK bietet Android-Entwicklern leistungsstarke Funktionen und eine perfekte CSV-Ausgabe.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK aus einer Tabellenkalkulation in das CSV-Format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Android mit REST API zum Exportieren von WORKBOOK in das CSV-Format aus einer Tabellenkalkulation" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/

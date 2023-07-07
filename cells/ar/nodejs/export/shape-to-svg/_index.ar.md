@@ -10,7 +10,7 @@ url: /ar/nodejs/export/shape-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن SHAPE إلى ملف تنسيق SVG في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن SHAPE إلى ملف SVG من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى SVG بواسطة NodeJS SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول بيانات SHAPE. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SVG مثالي.
+يعد تصدير كائن SHAPE إلى ملف SVG من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق تصدير SHAPE إلى SVG بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات SHAPE. تعد مكتبة NodeJS الخاصة بنا حلاً احترافيًا لتصدير كائنات SHAPE إلى ملفات بتنسيق SVG عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج SVG مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في NodeJS باستخدام REST API لتصدير الشكل إلى تنسيق SVG من جدول البيانات" gistPath="" %}}

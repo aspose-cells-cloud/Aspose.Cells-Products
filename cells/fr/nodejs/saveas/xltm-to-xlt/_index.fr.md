@@ -4,7 +4,7 @@ description: Utilisation du SDK Cloud Aspose.Cells pour NodeJS pour enregistrer 
 url: /fr/nodejs/saveas/xltm-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLTM en tant que XLT" h2="Bibliothèque NodeJS pour enregistrer XLTM en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLT et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltm-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API pour enregistrer XLTM en XLT" h2="Bibliothèque NodeJS pour enregistrer XLTM en XLT" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans NodeJS. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM au format XLT et d\'autres formats de documents en ligne à l\'aide de NodeJS." urlsection="saveas/xltm-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM au format XLT dans NodeJS" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Enregistrer XLS au format GIF API pour PHP
-description:  Utilisation de Aspose.Cells Cloud SDK pour PHP pour enregistrer le fichier au format XLS en tant que fichier au format GIF.
+description:  Utilisation du SDK Cloud Aspose.Cells pour PHP pour enregistrer le fichier au format XLS en tant que fichier au format GIF.
 url: /fr/php/saveas/xls-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

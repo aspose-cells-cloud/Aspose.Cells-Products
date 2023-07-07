@@ -10,7 +10,7 @@ url: /ru/android/protect/encrypt-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Защита локальной таблицы Microsoft Excel и электронной таблицы OpenOffice Calc с помощью пароля — Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/protect" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostProtect" apimethod="POST" %}}
 <br/>
-Защита локальной электронной таблицы паролем — сложная задача. Наш Android SDK защищает локальную электронную таблицу с помощью переходов паролей, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы. Наша библиотека Android — это профессиональное решение для защиты локальных электронных таблиц паролем в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и совершенный API.
+Защита локальной электронной таблицы паролем — сложная задача. Наш SDK для Android защищает локальную электронную таблицу с помощью переходов паролей, сохраняя при этом основное структурное и логическое содержимое исходной электронной таблицы. Наша библиотека Android — это профессиональное решение для защиты локальных электронных таблиц паролем в Интернете. Этот Cloud SDK предоставляет разработчикам Android мощные функциональные возможности и совершенный API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Android с использованием REST API для шифрования локальных электронных таблиц" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Protect.java" %}}

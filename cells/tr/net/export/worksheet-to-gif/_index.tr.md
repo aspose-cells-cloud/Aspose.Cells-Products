@@ -13,7 +13,7 @@ url: /tr/net/export/worksheet-to-gif/
 WORKSHEET nesnesini e-tablodan GIF dosyasına aktarma karmaşık bir iştir. WORKSHEET'i GIF formatına aktarma geçişleri, kaynak WORKSHEET e-tablosunun ana yapısal ve mantıksal içeriği korunurken C# SDK'mız tarafından gerçekleştirilir. C# kitaplığımız, WORKSHEET nesnelerini çevrimiçi olarak GIF formatındaki dosyalara dışa aktarmak için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel GIF çıktısı sağlar.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF biçimine aktarmak için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="WORKSHEET\'i e-tablodan GIF biçimine dışa aktarmak için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/

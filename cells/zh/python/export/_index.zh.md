@@ -1,10 +1,10 @@
 ﻿---
-title: 出口号：Python
+title: 出口使用Python
 description:  Aspose.Cells Cloud REST API 支持使用 Python 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。
 url: /zh/python/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="出口号：Python" h2="Aspose.Cells Cloud SDK 支持将工作簿和内部对象导出为 30 多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 Python 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="出口使用Python" h2="Aspose.Cells Cloud SDK 支持将工作簿和内部对象导出为 30 多种文件格式。" p="Aspose.Cells Cloud REST API 支持使用 Python 将工作簿和内部对象导出为各种格式。SDK 支持开发语言。它们包括 Android、C#、Go、Java、NodeJS、Perl、PHP、Python、Ruby 和 swift。" urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 

@@ -4,7 +4,7 @@ description:  Microsoft Excel ve OpenOffice Calc için Bulut API'leri ve SDK'lar
 url: /tr/android/protect/decrypt-cloud-file-with-password/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulut şifresini çözmek için Android API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Android kitaplığı Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Android\'de şifre iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Android kullanarak şifrelerle bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini çözer." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Bulut şifresini çözmek için Android API Microsoft Excel ve şifreli OpenOffice Calc elektronik tablosu" h2="Bulut şifresini çözmek için Android kitaplığı Microsoft Excel ve şifreli OpenOffice Calc hesap tablosu" p="Bulut Microsoft Excel şifresini çözmek için Cells Decrypt REST API\'i ve Android\'de şifre iş akışlarıyla OpenOffice Calc elektronik tablosunu kullanın. Bu profesyonel çözüm, Android kullanarak şifrelerle bulut Microsoft Excel ve OpenOffice Calc elektronik tablosunun şifresini çözer." urlsection="protect/Decrypt-cloud-file-with-password/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bulut Microsoft Excel ve OpenOffice Calc e-tablosunun şifresini şifreyle çözün - Android REST API" >}}

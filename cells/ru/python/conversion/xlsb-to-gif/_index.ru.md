@@ -10,7 +10,7 @@ url: /ru/python/conversion/xlsb-to-gif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в GIF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в GIF — сложная задача. Все переходы формата XLSB в формат GIF выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод GIF.
+Преобразование форматов файлов из XLSB в GIF — сложная задача. Все переходы между форматами XLSB и GIF выполняются нашим SDK Python с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Python — это профессиональное решение для онлайн-конвертации файлов XLSB в GIF. Этот облачный SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод GIF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для преобразования XLSB в формат GIF" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/perl/saveas/png-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл PNG как WMF в Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с PNG как WMF — сложная задача. Все переходы формата PNG в формат WMF выполняются нашим пакетом SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для сохранения PNG в виде файлов WMF в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощную функциональность и идеальный вывод WMF.
+Сохранение форматов файлов с PNG как WMF — сложная задача. Все переходы формата PNG в формат WMF выполняются нашим пакетом SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для сохранения PNG в виде файлов WMF в Интернете. Этот облачный SDK предоставляет разработчикам Perl мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения PNG в формате WMF" gistPath="" %}}

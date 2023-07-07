@@ -1,5 +1,5 @@
 ﻿---
-title:  Perl için MHTML'yi HTML API olarak kaydedin
+title:  MHTML'yi Perl için HTML API olarak kaydedin
 description:  MHTML biçim dosyasını HTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Perl'i kullanma.
 url: /tr/perl/saveas/mhtml-to-html/
 ---

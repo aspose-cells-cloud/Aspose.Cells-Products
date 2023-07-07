@@ -10,7 +10,7 @@ url: /de/go/saveas/sxc-to-mhtml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine SXC-Datei als MHTML in Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Das Speichern von Dateiformaten aus SXC als MHTML ist eine komplexe Aufgabe. Alle SXC-zu-MHTML-Formatübergänge werden von unserem Go SDK durchgeführt, während der strukturelle und logische Hauptinhalt der Quell-SXC-Tabelle erhalten bleibt. Unsere Go-Bibliothek ist eine professionelle Lösung, um SXC als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
+Das Speichern von Dateiformaten aus SXC als MHTML ist eine komplexe Aufgabe. Alle SXC-zu-MHTML-Formatübergänge werden von unserem Go SDK durchgeführt, während die wichtigsten strukturellen und logischen Inhalte der Quell-SXC-Tabelle erhalten bleiben. Unsere Go-Bibliothek ist eine professionelle Lösung, um SXC als MHTML-Dateien online zu speichern. Dieses Cloud SDK bietet Go-Entwicklern leistungsstarke Funktionalität und perfekte MHTML-Ausgabe.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Codebeispiel in Go mit REST API zum Speichern von SXC im MHTML-Format" gistPath="" %}}

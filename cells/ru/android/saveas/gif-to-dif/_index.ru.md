@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить GIF как DIF API для Android
-description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата GIF в виде файла формата DIF.
+description: Использование Aspose.Cells Cloud SDK для Android для сохранения файла формата GIF в формате файла DIF.
 url: /ru/android/saveas/gif-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

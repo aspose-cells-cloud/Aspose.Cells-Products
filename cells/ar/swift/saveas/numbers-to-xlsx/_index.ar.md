@@ -1,6 +1,6 @@
 ﻿---
-title:  احفظ الأرقام كـ XLSX API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+title:  احفظ NUMBERS كـ XLSX API لـ Swift
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق NUMBERS كملف بتنسيق XLSX.
 url: /ar/swift/saveas/numbers-to-xlsx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

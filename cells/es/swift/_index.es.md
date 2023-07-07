@@ -216,7 +216,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Agregar, actualizar o eliminar formas de una hoja de trabajo
+ Agregar, actualizar o eliminar formas de una hoja de cálculo
     </p>
    </div>
    <div class="col-lg-4">
@@ -235,7 +235,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
      <a href="https://dashboard.aspose.cloud/#/apps">
  Aspose para la nube
      </a>
- y obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Swift en cualquier plataforma que admita API REST. Aspose.Cells Cloud SDK for Swift le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
+ obtenga la información de su solicitud. Una vez que tenga el SID de la aplicación &amp; clave, está listo para usar Aspose.Cells Cloud SDK for Swift en cualquier plataforma que admita REST API. Aspose.Cells Cloud SDK for Swift le brinda todas las funciones para crear, editar y convertir hojas de cálculo. También le permite extraer datos de las hojas de cálculo para su posterior procesamiento o almacenamiento.
     </p>
    </div>
    <div class="col-lg-12">
@@ -243,7 +243,7 @@ Resumir datos de ListObject o Table grandes con Pivot Table
  Procesamiento de libros de trabajo via Cloud SDK
     </h2>
     <p>
-Aspose.Cells Cloud SDK para Swift le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a un formato de archivo compatible, leer elementos de texto del libro de trabajo, ajustar automáticamente las filas del libro de trabajo ignorando los elementos ocultos, cifrar la contraseña del libro de trabajo y proporcionar la clave de cifrado longitud, importar datos al libro de trabajo, calcular todas las fórmulas en el libro de trabajo, establecer la configuración de cálculo de fórmula proporcionando una estrategia de precisión, etc., usar un marcador inteligente, convertir el libro de trabajo del contenido de la solicitud a otro formato, aplicar una contraseña para permitir la modificación del contenido.
+ Aspose.Cells Cloud SDK para Swift le permite crear, dividir, fusionar, buscar y reemplazar texto, proteger con contraseña, exportar a un formato de archivo compatible, leer elementos de texto del libro de trabajo, ajustar automáticamente las filas del libro de trabajo ignorando los elementos ocultos, cifrar la contraseña del libro de trabajo y proporcionar la clave de cifrado longitud, importar datos al libro de trabajo, calcular todas las fórmulas en el libro de trabajo, establecer la configuración de cálculo de fórmula proporcionando una estrategia de precisión, etc., usar un marcador inteligente, convertir el libro de trabajo del contenido de la solicitud a otro formato, aplicar una contraseña para permitir la modificación del contenido.
     </p>
    </div>
    <div class="col-lg-12">

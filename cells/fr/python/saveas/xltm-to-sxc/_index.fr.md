@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK pour Python pour enregistrer
 url: /fr/python/saveas/xltm-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTM en tant que SXC" h2="Bibliothèque Python pour enregistrer XLTM en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM en tant que SXC et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltm-to-sxc/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour enregistrer XLTM en tant que SXC" h2="Bibliothèque Python pour enregistrer XLTM en tant que SXC" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour enregistrer XLTM en tant que SXC et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="saveas/xltm-to-sxc/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier XLTM sous SXC dans Python" >}}

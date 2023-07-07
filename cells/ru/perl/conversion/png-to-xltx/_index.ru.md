@@ -10,7 +10,7 @@ url: /ru/perl/conversion/png-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла PNG в XLTX в Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из PNG в XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим SDK Perl при сохранении основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов PNG в XLTX. Этот Cloud SDK предоставляет разработчикам Perl мощную функциональность и превосходный результат XLTX.
+Преобразование форматов файлов из PNG в XLTX — сложная задача. Все переходы формата PNG в формат XLTX выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы PNG. Наша библиотека Perl — это профессиональное решение для онлайн-конвертации файлов PNG в XLTX. Этот Cloud SDK предоставляет разработчикам Perl мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для преобразования PNG в формат XLTX" gistPath="" %}}

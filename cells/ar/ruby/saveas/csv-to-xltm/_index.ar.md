@@ -10,7 +10,7 @@ url: /ar/ruby/saveas/csv-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف CSV باسم XLTM في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من CSV كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ CSV كملفات XLTM عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج XLTM مثالي.
+يعد حفظ تنسيقات الملفات من CSV كـ XLTM مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى XLTM بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ CSV كملفات XLTM عبر الإنترنت. يوفر Cloud SDK لمطوري Ruby وظائف قوية وإخراج XLTM مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ CSV بتنسيق XLTM" gistPath="" %}}

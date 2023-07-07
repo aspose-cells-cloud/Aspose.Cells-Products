@@ -1,6 +1,6 @@
 ﻿---
 title:  CSV en SQL Convertir API pour Python
-description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir le fichier au format CSV en fichier au format SQL.
+description:  Utiliser Aspose.Cells Cloud SDK pour Python pour convertir le fichier au format CSV en fichier au format SQL.
 url: /fr/python/conversion/csv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

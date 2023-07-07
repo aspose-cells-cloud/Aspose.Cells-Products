@@ -4,7 +4,7 @@ description:  Cloud APIs & SDKs لمسح الصفوف المكررة على Micr
 url: /ar/ruby/clear/duplicate-rows/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="روبي مسح لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف المكررة على Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="روبي API لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" h2="روبي مسح لمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc" p="استخدم Cells مسح REST API لمسح الصفوف المكررة في Microsoft Excel المحلي و OpenOffice Calc جداول سير عمل جداول البيانات في Ruby. يقوم هذا الحل الاحترافي بمسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc باستخدام Ruby." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الصفوف المكررة على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc - Ruby REST API" >}}

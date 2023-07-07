@@ -4,7 +4,7 @@ description: 用于清除 Microsoft Excel 和 OpenOffice Calc 上的空白列的
 url: /zh/swift/clear/blank-columns/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的空白列。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列。" urlsection="clear/blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列" h2="Swift Clear 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列" p="使用 Cells Clear REST API 清除本地 Microsoft Excel 和 Swift 中的 OpenOffice Calc 电子表格工作流上的空白列。这个专业的解决方案使用 Swift 清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列。" urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="清除本地 Microsoft Excel 和 OpenOffice Calc 电子表格上的空白列 - Swift REST API" >}}

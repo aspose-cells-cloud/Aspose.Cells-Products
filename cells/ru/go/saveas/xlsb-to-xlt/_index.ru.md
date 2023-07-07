@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как XLT API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLSB в виде файла формата XLT.
+description:  Использование Aspose.Cells Cloud SDK для Go для сохранения файла формата XLSB как файла формата XLT.
 url: /ru/go/saveas/xlsb-to-xlt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  SXC zu MD Konvertieren API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Konvertieren von Dateien im SXC-Format in Dateien im MD-Format.
 url: /de/swift/conversion/sxc-to-md/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

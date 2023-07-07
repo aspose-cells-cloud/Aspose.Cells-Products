@@ -10,7 +10,7 @@ url: /ar/android/clear/hyperlinks/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الارتباطات التشعبية على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - Android REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الارتباطات التشعبية الموجودة في جدول بيانات OpenOffice Calc المحلي Microsoft Microsoft و OpenOffice Calc مهمة معقدة. مسح الارتباطات التشعبية على Excel Microsoft المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول بيانات OpenOffice Calc بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لمسح الارتباطات التشعبية الموجودة على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
+يعد مسح الارتباطات التشعبية الموجودة في جدول بيانات OpenOffice Calc المحلي Microsoft Microsoft و OpenOffice Calc مهمة معقدة. مسح الارتباطات التشعبية على Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول بيانات OpenOffice Calc بواسطة Android SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبة Android الخاصة بنا حلاً احترافيًا لمسح الارتباطات التشعبية الموجودة على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK لمطوري Android وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="كود Android لمسح الارتباطات التشعبية في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/75ea6b5d2f6d82f9c2f9279fb37ebbdf.js?file=Example-Clear-Hyperlink.java" %}}

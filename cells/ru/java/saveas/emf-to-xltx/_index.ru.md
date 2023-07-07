@@ -10,7 +10,7 @@ url: /ru/java/saveas/emf-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл EMF как XLTX в Java." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов с EMF как XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим SDK Java при сохранении основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощную функциональность и превосходный результат XLTX.
+Сохранение форматов файлов с EMF как XLTX — сложная задача. Все переходы формата EMF в формат XLTX выполняются нашим SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы EMF. Наша библиотека Java — это профессиональное решение для сохранения EMF в виде файлов XLTX в Интернете. Этот Cloud SDK предоставляет разработчикам Java мощную функциональность и превосходный результат XLTX.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для сохранения EMF в формате XLTX" gistPath="" %}}

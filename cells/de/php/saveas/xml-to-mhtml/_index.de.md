@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als MHTML API für PHP
-description:  Verwendung des Cloud SDK Aspose.Cells für PHP zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
+description:  Verwenden des Cloud SDK Aspose.Cells für PHP zum Speichern der XML-Formatdatei als MHTML-Formatdatei.
 url: /de/php/saveas/xml-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

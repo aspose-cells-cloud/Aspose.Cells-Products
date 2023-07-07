@@ -14,7 +14,7 @@ url: /ar/php
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>تم تصميم Aspose.Cells Cloud SDK لـ PHP للمطورين لمساعدتهم في تحسين مولد جداول البيانات المستندة إلى مجموعة النظراء وتطبيقات العارض والمحول المبرمجة في PHP. تستند SDK الخاصة بمعالج المستندات Excel على Aspose.Cells REST API. يتوفر Aspose.Cells Cloud SDK لـ PHP ضمن ترخيص معهد ماساتشوستس للتكنولوجيا.</p>
 <p>قم بإنشاء ورقة Excel في PHP ، واعمل مع الأشكال التلقائية ، والمرشحات التلقائية ، والمصنفات ، وأوراق العمل ، والصفوف ، والخلايا ، والمخططات ، والتنسيق الشرطي ، و ListObjects ، والارتباطات التشعبية ، و OleObjects ، والجداول المحورية ، والأشكال ، والنطاقات ، والمهام ، والأمان ، وعمليات التحقق من صحة ورقة العمل ، والسحابة تخزين الملفات ، كل ذلك باستخدام Aspose.Cells Cloud SDK لـ PHP.</p>
-<p>كما يسمح لكود PHP بتحويل Microsoft Excel (XLS و XLSX و XLSB و XLSM و XLT و XLTX و XLTM) و OpenOffice (ODS) إلى PDF، XPS، TIFF، 076163 & MD481 (DIF).</p>
+<p>كما يسمح لكود PHP الخاص بك بتحويل Microsoft Excel (XLS ، XLSX ، XLSB ، XLSM ، XLT ، XLTX ، XLTM) و OpenOffice (ODS) مستندات جداول البيانات إلى PDF ، XPS ، TIFF ، 076163 و MD481 (DIF).</p>
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->

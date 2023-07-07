@@ -1,6 +1,6 @@
 ﻿---
 title:  TSV als TXT API für Swift speichern
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von TSV-Formatdateien als TXT-Formatdateien.
 url: /de/swift/saveas/tsv-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

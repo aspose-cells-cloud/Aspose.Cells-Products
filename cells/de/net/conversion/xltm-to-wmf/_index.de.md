@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM zu WMF Konvertieren Sie API in C#
-description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLTM-Formatdatei in eine WMF-Formatdatei.
+description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Konvertieren einer Datei im XLTM-Format in eine Datei im WMF-Format.
 url: /de/net/conversion/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

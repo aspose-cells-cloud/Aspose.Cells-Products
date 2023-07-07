@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить XLSB как SXC API для Go
-description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLSB как файла формата SXC.
+description:  Использование Aspose.Cells Cloud SDK for Go для сохранения файла формата XLSB в виде файла формата SXC.
 url: /ru/go/saveas/xlsb-to-sxc/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

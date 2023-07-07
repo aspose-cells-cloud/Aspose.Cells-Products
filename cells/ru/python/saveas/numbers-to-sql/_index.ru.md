@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для Python д
 url: /ru/python/saveas/numbers-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения NUMBERS как SQL" h2="Python библиотека для сохранения NUMBERS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения NUMBERS в формате SQL и других форматов документов в Интернете с использованием Python." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API для сохранения NUMBERS как SQL" h2="Python библиотека для сохранения NUMBERS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Python. Это профессиональное решение для сохранения NUMBERS в виде SQL и других форматов документов в Интернете с использованием Python." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл NUMBERS как SQL в Python." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из NUMBERS в виде SQL — сложная задача. Все переходы формата NUMBERS в формат SQL выполняются с помощью нашего SDK Python с сохранением основного структурного и логического содержания исходной электронной таблицы NUMBERS. Наша библиотека Python — это профессиональное решение для сохранения NUMBERS в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет Python разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для сохранения NUMBERS в формате SQL" gistPath="" %}}

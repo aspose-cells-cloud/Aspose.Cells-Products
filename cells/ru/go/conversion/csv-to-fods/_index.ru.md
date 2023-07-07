@@ -10,7 +10,7 @@ url: /ru/go/conversion/csv-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла CSV в FODS в Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из CSV в FODS — сложная задача. Все переходы между форматами CSV и FODS выполняются нашим SDK Go, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов CSV в FODS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
+Преобразование форматов файлов из CSV в FODS — сложная задача. Все переходы между форматами CSV и FODS выполняются нашим SDK Go с сохранением основного структурного и логического содержимого исходной электронной таблицы CSV. Наша библиотека Go — это профессиональное решение для онлайн-конвертации файлов CSV в FODS. Этот облачный SDK предоставляет разработчикам Go мощные функциональные возможности и идеальный вывод FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Go с использованием REST API для преобразования CSV в формат FODS" gistPath="" %}}

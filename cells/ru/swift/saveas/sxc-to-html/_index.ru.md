@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните SXC как HTML API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата SXC как файла формата HTML.
 url: /ru/swift/saveas/sxc-to-html/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ru/swift/saveas/sxc-to-html/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл SXC как HTML в Swift." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из SXC как HTML — сложная задача. Все переходы формата SXC в формат HTML выполняются нашим Swift SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для сохранения файлов SXC в формате HTML в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
+Сохранение форматов файлов из SXC как HTML — сложная задача. Все переходы формата SXC на HTML выполняются нашим Swift SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы SXC. Наша библиотека Swift — это профессиональное решение для сохранения файлов SXC в формате HTML в Интернете. Этот облачный SDK предоставляет разработчикам Swift мощные функциональные возможности и идеальный вывод HTML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Swift с использованием REST API для сохранения SXC в формате HTML" gistPath="" %}}

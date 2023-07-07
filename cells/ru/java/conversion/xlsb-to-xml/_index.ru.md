@@ -10,7 +10,7 @@ url: /ru/java/conversion/xlsb-to-xml/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLSB в XML в Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLSB в XML — сложная задача. Все переходы формата XLSB в формат XML выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
+Преобразование форматов файлов из XLSB в XML — сложная задача. Все переходы форматов XLSB в XML выполняются с помощью нашего SDK Java с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSB. Наша библиотека Java — это профессиональное решение для онлайн-конвертации файлов XLSB в XML. Этот облачный SDK предоставляет Java разработчикам мощные функциональные возможности и идеальный вывод XML.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Java с использованием REST API для преобразования XLSB в формат XML" gistPath="" %}}

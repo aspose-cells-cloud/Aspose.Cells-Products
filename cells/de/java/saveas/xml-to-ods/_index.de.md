@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XML als ODS API for Java
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer XML-Formatdatei als ODS-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern von XML-Formatdateien als ODS-Formatdateien.
 url: /de/java/saveas/xml-to-ods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

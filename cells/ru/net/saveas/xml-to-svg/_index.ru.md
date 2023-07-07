@@ -10,7 +10,7 @@ url: /ru/net/saveas/xml-to-svg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XML как SVG в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XML как SVG — сложная задача. Все переходы между форматами XML и SVG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека C# — это профессиональное решение для сохранения XML-файлов в формате SVG в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат SVG.
+Сохранение форматов файлов из XML как SVG — сложная задача. Все переходы между форматами XML и SVG выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XML. Наша библиотека C# — это профессиональное решение для сохранения XML в виде файлов SVG в Интернете. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный результат SVG.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения XML в формате SVG" gistPath="" %}}

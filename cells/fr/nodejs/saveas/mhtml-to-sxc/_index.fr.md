@@ -10,7 +10,7 @@ url: /fr/nodejs/saveas/mhtml-to-sxc/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier MHTML en tant que SXC dans NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement de formats de fichiers à partir de MHTML en tant que SXC est une tâche complexe. Toutes les transitions de format MHTML vers SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer en ligne des fichiers MHTML en tant que fichiers SXC. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
+L'enregistrement de formats de fichiers à partir de MHTML en tant que SXC est une tâche complexe. Toutes les transitions de format MHTML vers SXC sont effectuées par notre SDK NodeJS tout en conservant le contenu structurel et logique principal de la feuille de calcul MHTML source. Notre bibliothèque NodeJS est une solution professionnelle pour enregistrer des fichiers MHTML en tant que fichiers SXC en ligne. Ce SDK Cloud offre aux développeurs NodeJS des fonctionnalités puissantes et une sortie SXC parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans NodeJS utilisant REST API pour enregistrer MHTML au format SXC" gistPath="" %}}

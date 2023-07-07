@@ -1,6 +1,6 @@
 ﻿---
 title:  Spara XLSB som DIF API för Swift
-description: "Cloud API:er och SDK:er för Microsoft Excel & OpenOffice Calc. Konvertera kalkylark till fil i annat format."
+description:  Använder Aspose.Cells Cloud SDK för Swift för att spara XLSB-formatfil som DIF-formatfil.
 url: /sv/swift/saveas/xlsb-to-dif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /sv/swift/saveas/xlsb-to-dif/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Spara en XLSB-fil som DIF i Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Att spara filformat från XLSB som DIF är en komplex uppgift. Alla XLSB till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSB som DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
+Att spara filformat från XLSB som DIF är en komplex uppgift. Alla XLSB- till DIF-formatövergångar utförs av vår Swift SDK samtidigt som käll-XLSB-kalkylbladets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Swift-bibliotek är en professionell lösning för att spara XLSB som DIF-filer online. Denna Cloud SDK ger Swift-utvecklare kraftfull funktionalitet och perfekt DIF-utdata.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Swift med REST API för att spara XLSB som DIF-format" gistPath="" %}}

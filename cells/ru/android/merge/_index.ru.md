@@ -1,10 +1,10 @@
 ﻿---
-title:  Слияние с Android
-description:  Aspose.Cells Cloud REST API поддерживает объединение нескольких файлов Excel в файл Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Слияние с помощью Android
+description:  Aspose.Cells Cloud REST API поддерживает объединение нескольких файлов Excel в файл Excel с помощью Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/android/merge/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Слияние с Android" h2="Aspose.Cells Cloud SDK поддерживает объединение нескольких файлов Excel в файл Excel." p="Aspose.Cells Cloud REST API поддерживает объединение нескольких файлов Excel в файл Excel с Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Слияние с помощью Android" h2="Aspose.Cells Cloud SDK поддерживает объединение нескольких файлов Excel в файл Excel." p="Aspose.Cells Cloud REST API поддерживает объединение нескольких файлов Excel в файл Excel с помощью Android. SDK поддерживает несколько языков разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /ru/android/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Облачный SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Объединение со ссылками расширения Android" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Объединить с помощью ссылок расширения Android" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: 将 XLSX 保存为 Go 的 TSV API
+title: 将 XLSX 保存为 TSV API 用于 Go
 description: 使用Aspose.Cells Cloud SDK for Go将XLSX格式文件保存为TSV格式文件。
 url: /zh/go/saveas/xlsx-to-tsv/
 ---

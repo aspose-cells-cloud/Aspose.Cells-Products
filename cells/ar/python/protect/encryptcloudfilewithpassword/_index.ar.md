@@ -10,7 +10,7 @@ url: /ar/python/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - Python REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Python SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Python حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية و API مثالي.
+تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة Python SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا Python حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين Python وظائف قوية و API مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Python كود لجداول بيانات سحابة التشفير" gistPath="https://gist.github.com/aspose-cells-cloud-gists/61e922de11e6e7144db88adcad6501c1.js?file=EncryptCloudFileWithPassword.py" %}}

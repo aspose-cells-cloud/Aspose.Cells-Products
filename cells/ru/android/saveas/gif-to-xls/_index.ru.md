@@ -7,7 +7,7 @@ url: /ru/android/saveas/gif-to-xls/
 {{< blocks/products/cells/cells-cloud-upper-banner h1="Android API для сохранения GIF в формате XLS" h2="Библиотека Android для сохранения GIF в формате XLS" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Android. Это профессиональное решение для сохранения GIF в формате XLS и других форматах документов онлайн с помощью Android." urlsection="saveas/gif-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение GIF-файла в формате XLS на Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохранение GIF-файла в формате XLS в Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
 Сохранение форматов файлов из GIF в виде XLS — сложная задача. Все переходы формата GIF в формат XLS выполняются нашим Android SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека для Android — это профессиональное решение для сохранения файлов GIF в формате XLS онлайн. Этот облачный SDK предоставляет разработчикам Android мощную функциональность и идеальный вывод XLS.

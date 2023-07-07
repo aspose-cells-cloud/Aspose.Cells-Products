@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als JPG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um Dateien im XLS-Format als Dateien im JPG-Format zu speichern.
 url: /de/swift/saveas/xls-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

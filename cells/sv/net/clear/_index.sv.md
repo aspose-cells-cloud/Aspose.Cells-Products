@@ -8,7 +8,7 @@ url: /sv/net/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med C# Förlängningslänkar" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Rensa objekt med C# Tilläggslänkar" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/net/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

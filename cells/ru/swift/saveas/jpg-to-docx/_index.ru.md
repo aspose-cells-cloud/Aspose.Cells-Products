@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохранить JPG как DOCX API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата JPG в виде файла формата DOCX.
 url: /ru/swift/saveas/jpg-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

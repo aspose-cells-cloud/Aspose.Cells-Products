@@ -1,14 +1,14 @@
 ﻿---
-title:  خلفية
-description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
+title:  تعيين الخلفية باستخدام Swift
+description:  Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift.
 url: /ar/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="خلفية" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="تعيين الخلفية باستخدام Swift" h2="Aspose.Cells Cloud SDK يدعم المحتوى الواضح والنمط والمخطط والجدول والخلفية وما إلى ذلك في ملفات Excel." p="Aspose.Cells Cloud REST API يدعم تعيين الخلفية لملف Excel باستخدام Swift. يدعم SDK لغات تطوير متعددة. وهي تشمل Android و C# و Go و Java و NodeJS و Perl و PHP و Python و Ruby و swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="روابط امتداد الخلفية" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="قم بتعيين الخلفية باستخدام روابط Swift Extension" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

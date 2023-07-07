@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als XLTM API für Python speichern
-description:  Verwenden Sie das Cloud SDK Aspose.Cells für Python, um die GIF-Formatdatei als XLTM-Formatdatei zu speichern.
+description:  Verwenden von Aspose.Cells Cloud SDK für Python zum Speichern von GIF-Formatdateien als XLTM-Formatdateien.
 url: /de/python/saveas/gif-to-xltm/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

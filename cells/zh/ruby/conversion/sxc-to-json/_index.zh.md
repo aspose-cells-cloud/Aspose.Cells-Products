@@ -4,7 +4,7 @@ description: 使用Aspose.Cells Cloud SDK for Ruby将SXC格式文件转换为JSO
 url: /zh/ruby/conversion/sxc-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 SXC 转换为 JSON" h2="用于将 SXC 转换为 JSON 的 Ruby 库" p="使用 Cells Conversion REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 SXC 转换为 JSON 和其他文档格式的专业解决方案。" urlsection="conversion/sxc-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API 将 SXC 转换为 JSON" h2="将 SXC 转换为 JSON 的 Ruby 库" p="使用 Cells Conversion REST API 在 Ruby 中创建自定义电子表格工作流程。这是使用 Ruby 在线将 SXC 转换为 JSON 和其他文档格式的专业解决方案。" urlsection="conversion/sxc-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="在 Ruby 中将 SXC 文件转换为 JSON" >}}

@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK for Java для 
 url: /ru/java/saveas/ods-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения ODS как SQL" h2="Java библиотека для сохранения ODS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения ODS в виде SQL и других форматов документов в Интернете с использованием Java." urlsection="saveas/ods-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API для сохранения ODS как SQL" h2="Java библиотека для сохранения ODS как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Java. Это профессиональное решение для сохранения ODS как SQL и других форматов документов в Интернете с использованием Java." urlsection="saveas/ods-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл ODS как SQL в Java." >}}

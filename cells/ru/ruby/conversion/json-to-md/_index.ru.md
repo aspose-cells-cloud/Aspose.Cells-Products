@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/json-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла JSON в MD в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из JSON в MD — сложная задача. Все переходы формата JSON в формат MD выполняются нашим Ruby SDK при сохранении основного структурного и логического содержимого исходной электронной таблицы JSON. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JSON в MD. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MD.
+Преобразование форматов файлов из JSON в MD — сложная задача. Все переходы формата JSON в формат MD выполняются нашим Ruby SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы JSON. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов JSON в MD. Этот облачный SDK предоставляет разработчикам Ruby мощные функциональные возможности и идеальный вывод MD.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Ruby с использованием REST API для преобразования JSON в формат MD" gistPath="" %}}

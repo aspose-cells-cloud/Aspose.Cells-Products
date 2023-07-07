@@ -1,6 +1,6 @@
 ﻿---
 title:  NUMBERS إلى PPTX قم بتحويل API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لتحويل ملف تنسيق NUMBERS إلى ملف بتنسيق PPTX.
 url: /ar/swift/conversion/numbers-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -10,7 +10,7 @@ url: /ar/swift/conversion/numbers-to-pptx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى PPTX في Swift" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول البيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى PPTX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى PPTX بواسطة Swift SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبة Swift الخاصة بنا حلاً احترافيًا لتحويل الأرقام إلى ملفات PPTX عبر الإنترنت. يمنح Cloud SDK مطوري Swift وظائف قوية وإخراج PPTX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Swift باستخدام REST API لتحويل الأرقام إلى تنسيق PPTX" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ar/net/clear/shapes/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="مسح الأشكال على جدول بيانات Microsoft Excel المحلي و OpenOffice Calc - C# REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/clear" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects" apimethod="POST" %}}
 <br/>
-يعد مسح الأشكال على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. مكتبتنا C# هي حل احترافي لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثاليًا.
+يعد مسح الأشكال على Excel Microsoft المحلي وجدول بيانات OpenOffice Calc مهمة معقدة. مسح الأشكال في Microsoft Excel المحلي و OpenOffice Calc يتم تنفيذ انتقالات جداول البيانات بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا C# حلاً احترافيًا لمسح الأشكال على Microsoft Excel المحلي وجدول بيانات OpenOffice Calc عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية و API مثاليًا.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="رمز صافي لمسح الأشكال في جداول البيانات المحلية" gistPath="https://gist.github.com/aspose-cells-cloud-gists/8a5b324fdf3e574dbd747c1a1e24b05d.js?file=Example-Clear-Shape.cs" %}}

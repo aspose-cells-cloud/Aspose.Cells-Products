@@ -10,7 +10,7 @@ url: /ru/net/export/worksheet-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта WORKSHEET в файл формата SQL в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта WORKSHEET в файл SQL из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат SQL выполняется нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы WORKSHEET. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Экспорт объекта WORKSHEET в файл SQL из электронной таблицы является сложной задачей. Экспорт переходов WORKSHEET в формат SQL выполняется нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы WORKSHEET. Наша библиотека C# — это профессиональное решение для онлайн-экспорта объектов WORKSHEET в файлы формата SQL. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для экспорта WORKSHEET в формат SQL из электронной таблицы" gistPath="" %}}

@@ -1,6 +1,6 @@
 ﻿---
 title:  Salva PNG come FODS API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description:  Utilizzo di Aspose.Cells Cloud SDK for Swift per salvare il file in formato PNG come file in formato FODS.
 url: /it/swift/saveas/png-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

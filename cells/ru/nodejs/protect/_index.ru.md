@@ -1,14 +1,14 @@
 ﻿---
-title:  Защитите с помощью NodeJS
-description:  Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и цифровые подписи книг с помощью NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
+title:  Защита с помощью NodeJS
+description:  Aspose.Cells Cloud REST API поддерживает книги по расшифровке, шифрованию и цифровой подписи с использованием NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift.
 url: /ru/nodejs/protect/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Защитите с помощью NodeJS" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает расшифровку, шифрование и цифровые подписи книг с помощью NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Защита с помощью NodeJS" h2="Aspose.Cells Cloud SDK поддерживает книги для расшифровки, шифрования и цифровой подписи." p="Aspose.Cells Cloud REST API поддерживает книги по расшифровке, шифрованию и цифровой подписи с использованием NodeJS. SDK поддерживает языки разработки. Среди них Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby и swift." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Защитите с помощью ссылок расширения NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Защита с помощью ссылок расширения NodeJS" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/nodejs/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

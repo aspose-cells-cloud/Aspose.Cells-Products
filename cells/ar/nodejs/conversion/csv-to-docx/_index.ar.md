@@ -10,7 +10,7 @@ url: /ar/nodejs/conversion/csv-to-docx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف CSV إلى DOCX في NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من CSV إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى DOCX بواسطة NodeJS SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات CSV المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات CSV إلى DOCX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DOCX مثالي.
+يعد تحويل تنسيقات الملفات من CSV إلى DOCX مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق CSV إلى DOCX بواسطة NodeJS SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات CSV المصدر. مكتبة NodeJS الخاصة بنا هي حل احترافي لتحويل ملفات CSV إلى DOCX عبر الإنترنت. يمنح Cloud SDK مطوري NodeJS وظائف قوية وإخراج DOCX مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في NodeJS باستخدام REST API لتحويل CSV إلى تنسيق DOCX" gistPath="" %}}

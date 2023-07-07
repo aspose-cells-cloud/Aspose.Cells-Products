@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLS als JSON API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLS-Formatdateien als JSON-Formatdateien.
 url: /de/swift/saveas/xls-to-json/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

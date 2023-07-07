@@ -1,6 +1,6 @@
 ﻿---
 title:  GIF als XLTX API for Java speichern
-description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Speichern einer GIF-Formatdatei als XLTX-Formatdatei.
+description:  Verwenden Sie Aspose.Cells Cloud SDK for Java, um eine GIF-Formatdatei als XLTX-Formatdatei zu speichern.
 url: /de/java/saveas/gif-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

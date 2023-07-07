@@ -10,7 +10,7 @@ url: /ar/net/conversion/numbers-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="قم بتحويل ملف NUMBERS إلى TSV في C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-يعد تحويل تنسيقات الملفات من NUMBERS إلى TSV مهمة معقدة. يتم إجراء جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل NUMBERS إلى ملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج TSV مثالي.
+يعد تحويل تنسيقات الملفات من NUMBERS إلى TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق NUMBERS إلى TSV بواسطة C# SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات NUMBERS المصدر. تعد مكتبتنا C# حلاً احترافيًا لتحويل NUMBERS إلى ملفات TSV عبر الإنترنت. يوفر Cloud SDK للمطورين C# وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في C# باستخدام REST API لتحويل الأرقام إلى تنسيق TSV" gistPath="" %}}

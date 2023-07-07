@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als CSV API für NodeJS
-description:  Verwenden Sie das Aspose.Cells Cloud SDK für NodeJS, um die Datei im HTML-Format als CSV-Formatdatei zu speichern.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für NodeJS, um die Datei im HTML-Format als CSV-Formatdatei zu speichern.
 url: /de/nodejs/saveas/html-to-csv/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

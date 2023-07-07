@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK für Ruby zum Speichern von X
 url: /de/ruby/saveas/xltm-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API, um XLTM als WMF zu speichern" h2="Ruby-Bibliothek zum Speichern von XLTM als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLTM als WMF und anderen Dokumentformaten mit Ruby." urlsection="saveas/xltm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API zum Speichern von XLTM als WMF" h2="Ruby-Bibliothek zum Speichern von XLTM als WMF" p="Verwenden Sie Cells SaveAs REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Ruby zu erstellen. Dies ist eine professionelle Lösung zum Online-Speichern von XLTM als WMF und anderen Dokumentformaten mit Ruby." urlsection="saveas/xltm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Speichern Sie eine XLTM-Datei als WMF in Ruby" >}}

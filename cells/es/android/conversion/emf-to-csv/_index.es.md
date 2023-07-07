@@ -10,7 +10,7 @@ url: /es/android/conversion/emf-to-csv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo EMF a CSV en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de EMF a CSV es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato EMF a CSV mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo EMF de origen. Nuestra biblioteca de Android es una solución profesional para convertir EMF a archivos CSV en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida CSV perfecta.
+Convertir formatos de archivo de EMF a CSV es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato EMF a CSV mientras mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente EMF. Nuestra biblioteca de Android es una solución profesional para convertir EMF a archivos CSV en línea. Este SDK de la nube brinda a los desarrolladores de Android una funcionalidad poderosa y una salida CSV perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir EMF a formato CSV" gistPath="" %}}

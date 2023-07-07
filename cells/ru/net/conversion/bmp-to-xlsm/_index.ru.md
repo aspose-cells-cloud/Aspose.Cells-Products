@@ -10,7 +10,7 @@ url: /ru/net/conversion/bmp-to-xlsm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла BMP в XLSM в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из BMP в XLSM — сложная задача. Все переходы формата BMP в формат XLSM выполняются нашим SDK C# при сохранении основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов BMP в XLSM. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат XLSM.
+Преобразование форматов файлов из BMP в XLSM — сложная задача. Все переходы формата BMP в формат XLSM выполняются нашим пакетом SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы BMP. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов BMP в XLSM. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и отличный результат XLSM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования BMP в формат XLSM" gistPath="" %}}

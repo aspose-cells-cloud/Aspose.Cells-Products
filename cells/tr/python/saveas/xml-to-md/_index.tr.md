@@ -10,7 +10,7 @@ url: /tr/python/saveas/xml-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir XML dosyasını Python\'de MD olarak kaydedin" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Dosya biçimlerini XML'den MD olarak kaydetmek karmaşık bir iştir. Tüm XML'den MD biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XML'i çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel MD çıkışı sağlar.
+Dosya biçimlerini XML'den MD olarak kaydetmek karmaşık bir görevdir. Tüm XML'den MD biçimine geçişler, kaynak XML elektronik tablosunun ana yapısal ve mantıksal içeriği korunurken Python SDK'mız tarafından gerçekleştirilir. Python kitaplığımız, XML'i çevrimiçi olarak MD dosyaları olarak kaydetmek için profesyonel bir çözümdür. Bu Cloud SDK, Python geliştiricilerine güçlü işlevsellik ve mükemmel MD çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="XML\'i MD formatı olarak kaydetmek için REST API kullanan Python\'deki kod örneği" gistPath="" %}}

@@ -4,7 +4,7 @@ description: Utiliser Aspose.Cells Cloud SDK pour PHP pour convertir le fichier 
 url: /fr/php/conversion/ods-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir les ODS en FODS" h2="bibliothèque PHP pour convertir ODS en FODS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir ODS en FODS et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/ods-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API pour convertir les ODS en FODS" h2="bibliothèque PHP pour convertir ODS en FODS" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans PHP. Il s\'agit d\'une solution professionnelle pour convertir ODS en FODS et d\'autres formats de documents en ligne à l\'aide de PHP." urlsection="conversion/ods-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier ODS en FODS en PHP" >}}

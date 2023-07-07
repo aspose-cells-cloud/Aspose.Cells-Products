@@ -10,7 +10,7 @@ url: /ar/ruby/saveas/ods-to-tsv/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف ODS كملف TSV في Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-يعد حفظ تنسيقات الملفات من ODS مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات ODS المصدر. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ ODS كملفات TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
+يعد حفظ تنسيقات الملفات من ODS مثل TSV مهمة معقدة. يتم تنفيذ جميع انتقالات تنسيق ODS إلى TSV بواسطة Ruby SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول بيانات ODS. مكتبة Ruby الخاصة بنا هي حل احترافي لحفظ ODS كملفات TSV عبر الإنترنت. يمنح Cloud SDK مطوري Ruby وظائف قوية وإخراج TSV مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال رمز في Ruby باستخدام REST API لحفظ ODS بتنسيق TSV" gistPath="" %}}

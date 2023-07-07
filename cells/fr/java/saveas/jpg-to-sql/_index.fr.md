@@ -4,7 +4,7 @@ description:  Utilisation de Aspose.Cells Cloud SDK for Java pour enregistrer le
 url: /fr/java/saveas/jpg-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer JPG en SQL" h2="Java bibliothèque pour enregistrer JPG en SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer JPG en tant que SQL et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/jpg-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API pour enregistrer JPG en SQL" h2="Java bibliothèque pour enregistrer JPG en SQL" p="Utilisez Cells SaveAs REST API pour créer des flux de travail de feuille de calcul personnalisés dans Java. Il s\'agit d\'une solution professionnelle pour enregistrer JPG au format SQL et d\'autres formats de document en ligne à l\'aide de Java." urlsection="saveas/jpg-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier JPG en tant que SQL dans Java" >}}

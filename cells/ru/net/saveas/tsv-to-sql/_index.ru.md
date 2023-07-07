@@ -4,13 +4,13 @@ description:  Использование Aspose.Cells Cloud SDK для C# для
 url: /ru/net/saveas/tsv-to-sql/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения TSV как SQL" h2="C# библиотека для сохранения TSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения TSV в виде SQL и других форматов документов в Интернете с использованием C#." urlsection="saveas/tsv-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API для сохранения TSV как SQL" h2="C# библиотека для сохранения TSV как SQL" p="Используйте Cells SaveAs REST API для создания настраиваемых рабочих процессов электронных таблиц в Net. Это профессиональное решение для сохранения TSV как SQL и других форматов документов в Интернете с использованием C#." urlsection="saveas/tsv-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл TSV как SQL в C#." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из TSV в виде SQL — сложная задача. Все переходы TSV в формат SQL выполняются нашим SDK C#, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
+Сохранение форматов файлов из TSV в виде SQL — сложная задача. Все переходы между форматами TSV и SQL выполняются с помощью нашего SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы TSV. Наша библиотека C# — это профессиональное решение для сохранения TSV в виде файлов SQL в Интернете. Этот Cloud SDK предоставляет C# разработчикам мощные функциональные возможности и идеальный вывод SQL.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для сохранения TSV в формате SQL" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /ru/net/conversion/xls-to-wmf/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLS в WMF в C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLS в WMF — сложная задача. Все переходы между форматами XLS и WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLS в WMF. Этот облачный SDK предоставляет C# разработчикам мощную функциональность и идеальный вывод WMF.
+Преобразование форматов файлов из XLS в WMF — сложная задача. Все переходы между форматами XLS и WMF выполняются нашим SDK C# с сохранением основного структурного и логического содержимого исходной электронной таблицы XLS. Наша библиотека C# — это профессиональное решение для онлайн-конвертации файлов XLS в WMF. Этот облачный SDK предоставляет разработчикам C# мощную функциональность и идеальный вывод WMF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в C# с использованием REST API для преобразования XLS в формат WMF" gistPath="" %}}

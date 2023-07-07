@@ -10,7 +10,7 @@ url: /es/android/conversion/bmp-to-xltx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convierta un archivo BMP a XLTX en Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Convertir formatos de archivo de BMP a XLTX es una tarea compleja. Todas las transiciones de formato BMP a XLTX las realiza nuestro SDK de Android mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca de Android es una solución profesional para convertir BMP a archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLTX perfecta.
+Convertir formatos de archivo de BMP a XLTX es una tarea compleja. Nuestro SDK de Android realiza todas las transiciones de formato BMP a XLTX mientras se mantiene el contenido estructural y lógico principal de la hoja de cálculo fuente BMP. Nuestra biblioteca de Android es una solución profesional para convertir BMP a archivos XLTX en línea. Este Cloud SDK ofrece a los desarrolladores de Android una potente funcionalidad y una salida XLTX perfecta.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Ejemplo de código en Android usando REST API para convertir BMP a formato XLTX" gistPath="" %}}

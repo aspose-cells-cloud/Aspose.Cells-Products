@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xlsx-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как XLSB по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде XLSB — сложная задача. Все переходы формата XLSX в формат XLSB выполняются нашим SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLSX в виде файлов XLSB в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
+Сохранение форматов файлов из XLSX в виде XLSB — сложная задача. Все переходы формата XLSX в формат XLSB выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения файлов XLSX в виде файлов XLSB в Интернете. Этот облачный SDK предоставляет Perl разработчикам мощные функциональные возможности и превосходный результат в формате XLSB.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLSX в формате XLSB" gistPath="" %}}

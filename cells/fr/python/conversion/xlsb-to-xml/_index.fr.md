@@ -4,7 +4,7 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Python pour convertir l
 url: /fr/python/conversion/xlsb-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLSB en XML" h2="bibliothèque Python pour convertir XLSB en XML" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XML et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xlsb-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API pour convertir XLSB en XML" h2="bibliothèque Python pour convertir XLSB en XML" p="Utilisez Cells Conversion REST API pour créer des flux de travail de feuille de calcul personnalisés dans Python. Il s\'agit d\'une solution professionnelle pour convertir XLSB en XML et d\'autres formats de documents en ligne à l\'aide de Python." urlsection="conversion/xlsb-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier XLSB en XML en Python" >}}

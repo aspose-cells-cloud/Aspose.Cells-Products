@@ -10,7 +10,7 @@ url: /it/android/saveas/json-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file JSON come XLTM in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Il salvataggio dei formati di file da JSON come XLTM è un'attività complessa. Tutte le transizioni dal formato JSON a XLTM vengono eseguite dal nostro Android SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo JSON di origine. La nostra libreria Android è una soluzione professionale per salvare JSON come file XLTM online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLTM.
+Il salvataggio dei formati di file da JSON come XLTM è un'attività complessa. Tutte le transizioni dal formato JSON a XLTM vengono eseguite dal nostro Android SDK mantenendo il principale contenuto strutturale e logico del foglio di calcolo JSON di origine. La nostra libreria Android è una soluzione professionale per salvare JSON come file XLTM online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un perfetto output XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android che utilizza REST API per salvare JSON come formato XLTM" gistPath="" %}}

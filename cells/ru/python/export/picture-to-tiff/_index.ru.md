@@ -10,7 +10,7 @@ url: /ru/python/export/picture-to-tiff/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Экспорт объекта PICTURE в файл формата TIFF в Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Экспорт объекта ИЗОБРАЖЕНИЕ в файл TIFF из электронной таблицы является сложной задачей. Экспорт ИЗОБРАЖЕНИЯ в переходы формата TIFF выполняется нашим SDK Python при сохранении основного структурного и логического содержимого исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Python — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата TIFF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат TIFF.
+Экспорт объекта ИЗОБРАЖЕНИЕ в файл TIFF из электронной таблицы является сложной задачей. Экспорт ИЗОБРАЖЕНИЯ в переходы формата TIFF выполняется нашим SDK Python при сохранении основного структурного и логического содержания исходной электронной таблицы ИЗОБРАЖЕНИЯ. Наша библиотека Python — это профессиональное решение для онлайн-экспорта объектов PICTURE в файлы формата TIFF. Этот облачный SDK предоставляет Python разработчикам мощную функциональность и идеальный результат TIFF.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Python с использованием REST API для экспорта ИЗОБРАЖЕНИЯ в формат TIFF из электронной таблицы" gistPath="" %}}

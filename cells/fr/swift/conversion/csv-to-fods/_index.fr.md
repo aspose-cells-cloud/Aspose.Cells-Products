@@ -1,10 +1,10 @@
 ﻿---
 title:  Convertir CSV en FODS API pour Swift
-description: API Cloud et SDK pour Microsoft Excel et OpenOffice Calc. Convertir une feuille de calcul en un autre format de fichier.
+description:  Utilisation du SDK Cloud Aspose.Cells pour Swift pour convertir le fichier au format CSV en fichier au format FODS.
 url: /fr/swift/conversion/csv-to-fods/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir CSV en FODS" h2="Bibliothèque Swift pour convertir CSV en FODS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir CSV en FODS et autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/csv-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API pour convertir CSV en FODS" h2="Bibliothèque Swift pour convertir CSV en FODS" p="Utilisez Cells Conversion REST API pour créer des workflows de feuille de calcul personnalisés dans Swift. Il s\'agit d\'une solution professionnelle pour convertir CSV en FODS et d\'autres formats de documents en ligne à l\'aide de Swift." urlsection="conversion/csv-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un fichier CSV en FODS dans Swift" >}}

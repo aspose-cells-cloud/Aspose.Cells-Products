@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLSB als DOCX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um Dateien im XLSB-Format als Dateien im DOCX-Format zu speichern.
 url: /de/swift/saveas/xlsb-to-docx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

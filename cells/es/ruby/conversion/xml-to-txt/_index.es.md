@@ -4,7 +4,7 @@ description:  Usando Aspose.Cells Cloud SDK para Ruby para convertir un archivo 
 url: /es/ruby/conversion/xml-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XML a TXT" h2="Biblioteca Ruby para convertir XML a TXT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XML a TXT y otros formatos de documentos en línea utilizando Ruby." urlsection="conversion/xml-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API para convertir XML a TXT" h2="Biblioteca Ruby para convertir XML a TXT" p="Use Cells Conversion REST API para crear flujos de trabajo de hojas de cálculo personalizados en Ruby. Esta es una solución profesional para convertir XML a TXT y otros formatos de documentos en línea usando Ruby." urlsection="conversion/xml-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convertir un archivo XML a TXT en Ruby" >}}

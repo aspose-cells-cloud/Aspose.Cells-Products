@@ -4,7 +4,7 @@ description:  PNG biçim dosyasını WMF biçim dosyası olarak kaydetmek için 
 url: /tr/ruby/saveas/png-to-wmf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i WMF olarak kaydetmek için Ruby API" h2="PNG\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak PNG\'i WMF ve diğer belge formatları olarak çevrimiçi kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="PNG\'i WMF olarak kaydetmek için Ruby API" h2="PNG\'i WMF olarak kaydetmek için Ruby kitaplığı" p="Ruby\'de özelleştirilmiş elektronik tablo iş akışları oluşturmak için Cells SaveAs REST API\'i kullanın. Bu, Ruby kullanarak çevrimiçi olarak PNG\'i WMF ve diğer belge biçimleri olarak kaydetmek için profesyonel bir çözümdür." urlsection="saveas/png-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="PNG dosyasını Ruby\'de WMF olarak kaydedin" >}}

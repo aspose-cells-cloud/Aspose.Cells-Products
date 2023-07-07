@@ -4,7 +4,7 @@ description:  استخدام Aspose.Cells Cloud SDK لـ Python لحفظ ملف 
 url: /ar/python/saveas/json-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ JSON كـ MHTML" h2="مكتبة Python لحفظ JSON كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء تدفقات عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ JSON كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/json-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API لحفظ JSON كـ MHTML" h2="مكتبة Python لحفظ JSON كـ MHTML" p="استخدم Cells SaveAs REST API لإنشاء مهام سير عمل جداول بيانات مخصصة في Python. هذا حل احترافي لحفظ JSON كـ MHTML وتنسيقات مستندات أخرى عبر الإنترنت باستخدام Python." urlsection="saveas/json-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="احفظ ملف JSON باسم MHTML في Python" >}}

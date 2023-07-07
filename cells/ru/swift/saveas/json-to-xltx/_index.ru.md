@@ -1,6 +1,6 @@
 ﻿---
 title:  Сохраните JSON как XLTX API для Swift
-description: Облачные API и SDK для Microsoft Excel и OpenOffice Calc. Преобразование электронной таблицы в файл другого формата.
+description:  Использование Aspose.Cells Cloud SDK для Swift для сохранения файла формата JSON в виде файла формата XLTX.
 url: /ru/swift/saveas/json-to-xltx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

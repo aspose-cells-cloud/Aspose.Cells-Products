@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ MHTML كـ BMP API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف تنسيق MHTML كملف تنسيق BMP.
 url: /ar/swift/saveas/mhtml-to-bmp/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

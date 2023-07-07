@@ -1,10 +1,10 @@
 ﻿---
-title: Exportieren mit Perl
+title: Exportieren Sie mit Perl
 description:  Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/perl/export/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren mit Perl" h2="Aspose.Cells Cloud SDK unterstützt den Export von Arbeitsmappen und internen Objekten in mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Exportieren Sie mit Perl" h2="Aspose.Cells Cloud SDK unterstützt den Export von Arbeitsmappen und internen Objekten in mehr als 30 Dateiformate." p="Aspose.Cells Cloud REST API unterstützt den Export von Arbeitsmappen und internen Objekten in alle Arten von Formaten mit Perl. SDK unterstützt Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /de/perl/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud-SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Export mit Perl Erweiterungslinks" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Exportieren Sie mit den Erweiterungslinks Perl" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/perl/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

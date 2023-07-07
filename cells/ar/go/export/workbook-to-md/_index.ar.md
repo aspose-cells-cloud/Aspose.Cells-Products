@@ -10,7 +10,7 @@ url: /ar/go/export/workbook-to-md/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="تصدير كائن WORKBOOK إلى ملف بتنسيق MD في Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-يعد تصدير كائن كتاب العمل إلى ملف MD من جدول البيانات مهمة معقدة. يتم إجراء انتقالات تنسيق تصدير كتاب العمل إلى MD بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MD عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج MD مثالي.
+يعد تصدير كائن كتاب العمل إلى ملف MD من جدول البيانات مهمة معقدة. يتم تنفيذ انتقالات تنسيق التصدير إلى MD بواسطة Go SDK مع الحفاظ على المحتوى الهيكلي والمنطقي الرئيسي لجدول بيانات WORKBOOK المصدر. تعد مكتبة Go الخاصة بنا حلاً احترافيًا لتصدير كائنات WORKBOOK إلى ملفات بتنسيق MD عبر الإنترنت. يمنح Cloud SDK مطوري Go وظائف قوية وإخراج MD مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="مثال التعليمات البرمجية في Go باستخدام REST API لتصدير WORKBOOK إلى تنسيق MD من جدول البيانات" gistPath="" %}}

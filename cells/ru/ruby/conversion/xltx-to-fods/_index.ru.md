@@ -10,7 +10,7 @@ url: /ru/ruby/conversion/xltx-to-fods/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла XLTX в FODS в Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Преобразование форматов файлов из XLTX в FODS — сложная задача. Все переходы формата XLTX в формат FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и идеальный вывод FODS.
+Преобразование форматов файлов из XLTX в FODS — сложная задача. Все переходы формата XLTX в формат FODS выполняются нашим Ruby SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы XLTX. Наша библиотека Ruby — это профессиональное решение для онлайн-конвертации файлов XLTX в FODS. Этот облачный SDK предоставляет разработчикам Ruby мощную функциональность и отличный результат FODS.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода на Ruby с использованием REST API для преобразования XLTX в формат FODS" gistPath="" %}}

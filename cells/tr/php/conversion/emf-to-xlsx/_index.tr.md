@@ -10,7 +10,7 @@ url: /tr/php/conversion/emf-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir EMF dosyasını PHP\'de XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını EMF'den XLSX'e dönüştürmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+Dosya formatlarını EMF'den XLSX'e dönüştürmek karmaşık bir iştir. EMF'den XLSX formatına geçişlerin tümü, PHP SDK'mız tarafından gerçekleştirilir ve kaynak EMF e-tablosunun ana yapısal ve mantıksal içeriği korunur. PHP kitaplığımız, EMF'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, PHP geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="EMF\'i XLSX formatına dönüştürmek için REST API\'i kullanan PHP\'deki kod örneği" gistPath="" %}}

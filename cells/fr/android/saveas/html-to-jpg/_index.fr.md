@@ -10,7 +10,7 @@ url: /fr/android/saveas/html-to-jpg/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrer un fichier HTML au format JPG sous Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de HTML en tant que JPG est une tâche complexe. Toutes les transitions du format HTML vers le format JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Android est une solution professionnelle pour enregistrer HTML sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
+L'enregistrement des formats de fichiers à partir de HTML en tant que JPG est une tâche complexe. Toutes les transitions du format HTML au format JPG sont effectuées par notre SDK Android tout en conservant le contenu structurel et logique principal de la feuille de calcul source HTML. Notre bibliothèque Android est une solution professionnelle pour enregistrer HTML sous forme de fichiers JPG en ligne. Ce SDK Cloud offre aux développeurs Android des fonctionnalités puissantes et une sortie JPG parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Android utilisant REST API pour enregistrer HTML au format JPG" gistPath="" %}}

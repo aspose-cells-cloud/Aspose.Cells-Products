@@ -10,7 +10,7 @@ url: /ru/perl/saveas/xlsx-to-xltm/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл XLSX как XLTM по адресу Perl." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из XLSX в виде XLTM — сложная задача. Все переходы от формата XLSX к формату XLTM выполняются с помощью нашего SDK Perl с сохранением основного структурного и логического содержимого исходной электронной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения XLSX в виде файлов XLTM в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощную функциональность и превосходный результат в формате XLTM.
+Сохранение форматов файлов из XLSX в виде XLTM — сложная задача. Все переходы формата XLSX в формат XLTM выполняются нашим SDK Perl, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы XLSX. Наша библиотека Perl — это профессиональное решение для сохранения XLSX в виде файлов XLTM в Интернете. Этот Cloud SDK предоставляет разработчикам Perl мощную функциональность и превосходный результат в формате XLTM.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в Perl с использованием REST API для сохранения XLSX в формате XLTM" gistPath="" %}}

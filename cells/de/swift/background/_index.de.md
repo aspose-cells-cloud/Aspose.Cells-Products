@@ -1,14 +1,14 @@
 ﻿---
-title:  Hintergrund
-description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
+title:  Hintergrund mit Swift festlegen
+description:  Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Swift. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift.
 url: /de/swift/background/
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Hintergrund" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Hintergrund mit Swift festlegen" h2="Aspose.Cells Cloud SDK unterstützt klare Inhalte, Stile, Diagramme, Tabellen, Hintergründe usw. in Excel-Dateien." p="Aspose.Cells Cloud REST API unterstützt das Festlegen des Hintergrunds für die Datei Excel mit Swift. SDK unterstützt mehrere Entwicklungssprachen. Dazu gehören Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby und Swift." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Links zur Hintergrunderweiterung" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Legen Sie den Hintergrund mithilfe von Swift-Erweiterungslinks fest" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/swift/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

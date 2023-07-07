@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API 支持使用 {2} 将 {0} 导出为 {1}
 url: /zh/python/export/listobject-to-jpg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 LISTOBJECT 导出到 JPG 文件" h2="Python 将 LISTOBJECT 导出到 JPG 文件的库" p="使用Cells导出REST API导出Python中的电子表格内部对象工作流程。这是使用Python在线将电子表格中的LISTOBJECT导出为JPG格式文件的专业解决方案。" urlsection="export/listobject-to-jpg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API 将 LISTOBJECT 导出到 JPG 文件" h2="Python 将 LISTOBJECT 导出为 JPG 文件的库" p="使用Cells导出REST API导出Python中的电子表格内部对象工作流程。这是使用Python在线将电子表格中的LISTOBJECT导出为JPG格式文件的专业解决方案。" urlsection="export/listobject-to-jpg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="将 LISTOBJECT 对象导出为 Python 中的 JPG 格式文件" >}}

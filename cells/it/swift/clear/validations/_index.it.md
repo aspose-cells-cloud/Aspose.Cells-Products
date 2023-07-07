@@ -4,7 +4,7 @@ description:  API cloud e SDK per la cancellazione delle convalide su Microsoft 
 url: /it/swift/clear/validations/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/validations/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Swift API per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" h2="Swift Clear per cancellare le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc" p="Utilizzare Cells Cancella REST API per cancellare le convalide sui flussi di lavoro del foglio di calcolo locale Microsoft Excel e OpenOffice Calc in Swift. Questa soluzione professionale cancella le convalide sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc utilizzando Swift." urlsection="clear/Validations/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Convalide chiare sul foglio di calcolo locale Microsoft Excel e OpenOffice Calc - Swift REST API" >}}

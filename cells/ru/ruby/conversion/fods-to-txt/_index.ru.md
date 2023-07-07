@@ -1,5 +1,5 @@
 ﻿---
-title:  Преобразовать Excel FODS в TXT via Ruby
+title:  Конвертировать Excel FODS в TXT via Ruby
 description: Создавайте, редактируйте или конвертируйте Excel файлы с REST API и Ruby SDK с открытым исходным кодом
 url: /ru/ruby/conversion/fods-to-txt/
 family: cells

@@ -1,6 +1,6 @@
 ﻿---
 title:  XLSX in MHTML Konvertieren Sie API in C#
-description:  Verwendung des Cloud SDK Aspose.Cells für C# zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für C# zum Konvertieren einer XLSX-Formatdatei in eine MHTML-Formatdatei.
 url: /de/net/conversion/xlsx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

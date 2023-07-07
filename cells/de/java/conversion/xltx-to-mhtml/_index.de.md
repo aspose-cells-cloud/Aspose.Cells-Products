@@ -4,7 +4,7 @@ description:  Verwenden von Aspose.Cells Cloud SDK for Java zum Konvertieren ein
 url: /de/java/conversion/xltx-to-mhtml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von XLTX in MHTML" h2="Java-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung, um XLTX online mit Java in MHTML und andere Dokumentformate zu konvertieren." urlsection="conversion/xltx-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API zum Konvertieren von XLTX in MHTML" h2="Java-Bibliothek zum Konvertieren von XLTX in MHTML" p="Verwenden Sie Cells Conversion REST API, um benutzerdefinierte Tabellenkalkulations-Workflows in Java zu erstellen. Dies ist eine professionelle Lösung zum Online-Konvertieren von XLTX in MHTML und andere Dokumentformate mit Java." urlsection="conversion/xltx-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertieren Sie eine XLTX-Datei in MHTML in Java" >}}

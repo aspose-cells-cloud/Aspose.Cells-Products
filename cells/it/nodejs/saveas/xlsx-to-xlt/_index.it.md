@@ -10,7 +10,7 @@ url: /it/nodejs/saveas/xlsx-to-xlt/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Salva un file XLSX come XLT in NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Salvare i formati di file da XLSX come XLT è un compito complesso. Tutte le transizioni di formato da XLSX a XLT vengono eseguite dal nostro SDK NodeJS mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria NodeJS è una soluzione professionale per salvare XLSX come file XLT online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output XLT perfetto.
+Salvare i formati di file da XLSX come XLT è un compito complesso. Tutte le transizioni di formato da XLSX a XLT vengono eseguite dal nostro NodeJS SDK mantenendo il contenuto strutturale e logico principale del foglio di calcolo XLSX di origine. La nostra libreria NodeJS è una soluzione professionale per salvare XLSX come file XLT online. Questo Cloud SDK offre agli sviluppatori NodeJS potenti funzionalità e un output XLT perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in NodeJS utilizzando REST API per salvare XLSX come formato XLT" gistPath="" %}}

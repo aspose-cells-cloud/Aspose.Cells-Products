@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie XLTX als PPTX API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden von Aspose.Cells Cloud SDK für Swift zum Speichern von XLTX-Formatdateien als PPTX-Formatdateien.
 url: /de/swift/saveas/xltx-to-pptx/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

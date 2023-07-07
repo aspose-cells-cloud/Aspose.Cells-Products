@@ -1,6 +1,6 @@
 ﻿---
 title:  Speichern Sie HTML als SVG API für Swift
-description: Cloud-APIs und SDKs für Microsoft Excel und OpenOffice Calc. Konvertieren Sie die Tabellenkalkulation in eine andere Formatdatei.
+description:  Verwenden Sie das Cloud SDK Aspose.Cells für Swift, um die Datei im Format HTML als Datei im Format SVG zu speichern.
 url: /de/swift/saveas/html-to-svg/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

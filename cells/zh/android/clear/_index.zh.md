@@ -8,7 +8,7 @@ url: /zh/android/clear/
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="清除带有 Android 扩展链接的对象" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="使用 Android 扩展链接清除对象" >}}
 {{< blocks/products/cells/cells-cloud-children-list contentFolder="content/cells/en/android/clear" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

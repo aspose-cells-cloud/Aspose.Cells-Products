@@ -1,5 +1,5 @@
 ﻿---
-title:  PHP için MHTML'yi EMF API olarak kaydedin
+title:  MHTML'yi PHP için EMF API olarak kaydedin
 description:  MHTML biçim dosyasını EMF biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for PHP'i kullanma.
 url: /tr/php/saveas/mhtml-to-emf/
 ---

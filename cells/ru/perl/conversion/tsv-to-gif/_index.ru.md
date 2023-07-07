@@ -4,7 +4,7 @@ description:  Использование Aspose.Cells Cloud SDK для Perl дл
 url: /ru/perl/conversion/tsv-to-gif/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TSV в GIF" h2="Perl библиотека для преобразования TSV в GIF" p="Используйте Cells Conversion REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации TSV в GIF и другие форматы документов с использованием Perl." urlsection="conversion/tsv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API для преобразования TSV в GIF" h2="Perl библиотека для преобразования TSV в GIF" p="Используйте Cells Преобразование REST API для создания настраиваемых рабочих процессов электронных таблиц в Perl. Это профессиональное решение для онлайн-конвертации TSV в GIF и другие форматы документов с использованием Perl." urlsection="conversion/tsv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Преобразование файла TSV в GIF в Perl" >}}

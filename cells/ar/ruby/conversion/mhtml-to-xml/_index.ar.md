@@ -1,6 +1,6 @@
 ﻿---
 title:  MHTML إلى XML Convert API لروبي
-description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق MHTML إلى ملف تنسيق XML.
+description:  استخدام Aspose.Cells Cloud SDK لـ Ruby لتحويل ملف تنسيق MHTML إلى ملف بتنسيق XML.
 url: /ar/ruby/conversion/mhtml-to-xml/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

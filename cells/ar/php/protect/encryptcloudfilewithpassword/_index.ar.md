@@ -10,7 +10,7 @@ url: /ar/php/protect/encrypt-cloud-file-with-password/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="حماية السحابة Microsoft Excel وجدول بيانات OpenOffice Calc بكلمة مرور - PHP REST API" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/encryption" apireferenceurl="https://apireference.aspose.cloud/cells/#/Workbook/PostEncryptWorkbook" apimethod="POST" %}}
 <br/>
-تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة PHP SDK مع الحفاظ على المحتوى الإنشائي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية و API مثالي.
+تعد حماية جدول بيانات سحابي بكلمة مرور مهمة معقدة. يتم تنفيذ حماية جدول البيانات السحابي باستخدام انتقالات كلمة المرور بواسطة PHP SDK مع الحفاظ على المحتوى البنيوي والمنطقي الرئيسي لجدول البيانات المصدر. تعد مكتبتنا PHP حلاً احترافيًا لحماية جداول البيانات السحابية بكلمة مرور عبر الإنترنت. يوفر Cloud SDK للمطورين PHP وظائف قوية و API مثالي.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="PHP كود لجداول بيانات سحابة التشفير" gistPath="https://gist.github.com/aspose-cells-cloud-gists/84283c8ba766ed815f47e6dfb0891152.js?file=Examples-PHP-Workbook-PostEncryptDocument-.php" %}}

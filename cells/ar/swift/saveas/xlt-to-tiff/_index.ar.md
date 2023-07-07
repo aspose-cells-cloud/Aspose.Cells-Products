@@ -1,6 +1,6 @@
 ﻿---
 title:  احفظ XLT كـ TIFF API لـ Swift
-description: Cloud APIs & SDKs لـ Microsoft Excel & OpenOffice Calc. تحويل جدول البيانات إلى ملف تنسيق آخر.
+description:  استخدام Aspose.Cells Cloud SDK لـ Swift لحفظ ملف بتنسيق XLT كملف بتنسيق TIFF.
 url: /ar/swift/saveas/xlt-to-tiff/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

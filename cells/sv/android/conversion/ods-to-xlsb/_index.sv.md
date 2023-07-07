@@ -10,7 +10,7 @@ url: /sv/android/conversion/ods-to-xlsb/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Konvertera en ODS-fil till XLSB i Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Att konvertera filformat från ODS till XLSB är en komplex uppgift. Alla ODS- till XLSB-formatövergångar utförs av vår Android SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera ODS till XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
+Att konvertera filformat från ODS till XLSB är en komplex uppgift. Alla ODS- till XLSB-formatövergångar utförs av vår Android-SDK samtidigt som käll-ODS-kalkylarkets huvudsakliga strukturella och logiska innehåll bibehålls. Vårt Android-bibliotek är en professionell lösning för att konvertera ODS till XLSB-filer online. Denna Cloud SDK ger Android-utvecklare kraftfull funktionalitet och perfekt XLSB-utgång.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Kodexempel i Android med REST API för att konvertera ODS till XLSB-format" gistPath="" %}}

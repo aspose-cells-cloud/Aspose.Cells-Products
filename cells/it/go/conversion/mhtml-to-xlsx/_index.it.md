@@ -1,5 +1,5 @@
 ﻿---
-title:  Conversione da MHTML a XLSX API per andare
+title:  Conversione da MHTML a XLSX API per Go
 description:  Utilizzo di Aspose.Cells Cloud SDK for Go per convertire il file in formato MHTML in un file in formato XLSX.
 url: /it/go/conversion/mhtml-to-xlsx/
 ---

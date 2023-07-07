@@ -1,5 +1,5 @@
 ﻿---
-title:  Python için MHTML'yi HTML API olarak kaydedin
+title:  MHTML'yi Python için HTML API olarak kaydedin
 description:  MHTML biçim dosyasını HTML biçim dosyası olarak kaydetmek için Aspose.Cells Cloud SDK for Python'i kullanma.
 url: /tr/python/saveas/mhtml-to-html/
 ---

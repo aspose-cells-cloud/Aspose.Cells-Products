@@ -10,7 +10,7 @@ url: /ru/nodejs/saveas/gif-to-json/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Сохраните файл GIF в формате JSON в NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-Сохранение форматов файлов из GIF в виде JSON — сложная задача. Все переходы формата GIF в формат JSON выполняются нашим NodeJS SDK, при этом сохраняется основное структурное и логическое содержимое исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения GIF в виде файлов JSON в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JSON.
+Сохранение форматов файлов из GIF в виде JSON — сложная задача. Все переходы формата GIF в формат JSON выполняются нашим NodeJS SDK с сохранением основного структурного и логического содержимого исходной электронной таблицы GIF. Наша библиотека NodeJS — это профессиональное решение для сохранения GIF в виде файлов JSON в Интернете. Этот облачный SDK предоставляет разработчикам NodeJS мощные функциональные возможности и идеальный вывод JSON.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Пример кода в NodeJS с использованием REST API для сохранения GIF в формате JSON" gistPath="" %}}

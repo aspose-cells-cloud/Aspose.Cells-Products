@@ -4,13 +4,13 @@ description:  Utilisation du SDK Cloud Aspose.Cells pour Go pour enregistrer le 
 url: /fr/go/saveas/xltx-to-xps/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer XLTX sous XPS" h2="Accédez à la bibliothèque pour enregistrer XLTX sous XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous XPS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/xltx-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Allez API pour enregistrer XLTX sous XPS" h2="Aller à la bibliothèque pour enregistrer XLTX sous XPS" p="Utilisez Cells SaveAs REST API pour créer des workflows de feuille de calcul personnalisés dans Go. Il s\'agit d\'une solution professionnelle pour enregistrer XLTX sous XPS et d\'autres formats de documents en ligne à l\'aide de Go." urlsection="saveas/xltx-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Enregistrez un fichier XLTX sous XPS dans Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/{name}/SaveAs" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PostWorkbookSaveAs" apimethod="POST" %}}
 <br/>
-L'enregistrement des formats de fichiers à partir de XLTX sous le nom XPS est une tâche complexe. Toutes les transitions de format XLTX vers XPS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne les fichiers XLTX sous le format XPS. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XPS parfaite.
+L'enregistrement des formats de fichiers à partir de XLTX sous le nom XPS est une tâche complexe. Toutes les transitions de format XLTX vers XPS sont effectuées par notre SDK Go tout en conservant le contenu structurel et logique principal de la feuille de calcul XLTX source. Notre bibliothèque Go est une solution professionnelle pour enregistrer en ligne des fichiers XLTX sous le format XPS. Ce SDK Cloud offre aux développeurs Go des fonctionnalités puissantes et une sortie XPS parfaite.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Exemple de code dans Go utilisant REST API pour enregistrer XLTX au format XPS" gistPath="" %}}

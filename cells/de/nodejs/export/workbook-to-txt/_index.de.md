@@ -4,7 +4,7 @@ description:  Aspose.Cells Cloud REST API unterstützt den Export von Dateien im
 url: /de/nodejs/export/workbook-to-txt/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren von WORKBOOK in eine TXT-Datei" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in eine TXT-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im TXT-Format aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API zum Exportieren der Arbeitsmappe in eine TXT-Datei" h2="NodeJS-Bibliothek zum Exportieren von WORKBOOK in eine TXT-Datei" p="Verwenden Sie Cells Export REST API, um Arbeitsabläufe interner Tabellenkalkulationsobjekte in NodeJS zu exportieren. Dies ist eine professionelle Lösung zum Exportieren von WORKBOOK in eine Datei im TXT-Format aus einer Tabellenkalkulation online mit NodeJS." urlsection="export/workbook-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Exportieren Sie das WORKBOOK-Objekt in eine TXT-Formatdatei in NodeJS" >}}

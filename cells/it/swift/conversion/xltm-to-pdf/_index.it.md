@@ -1,6 +1,6 @@
 ﻿---
 title:  XLTM in PDF Converti API per Swift
-description: API cloud e SDK per Microsoft Excel e OpenOffice Calc. Converti foglio di calcolo in un altro file di formato.
+description: Utilizzo di Aspose.Cells Cloud SDK for Swift per convertire il file in formato XLTM nel file in formato PDF.
 url: /it/swift/conversion/xltm-to-pdf/
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

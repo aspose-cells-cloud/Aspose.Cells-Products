@@ -10,7 +10,7 @@ url: /it/android/export/worksheet-to-sql/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Esporta l\'oggetto WORKSHEET in un file in formato SQL in Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/export" apireferenceurl="https://apireference.aspose.cloud/cells/#/LightCells/PostExport" apimethod="POST" %}}
 <br/>
-Esportare l'oggetto WORKSHEET in un file SQL dal foglio di calcolo è un'attività complessa. Le transizioni di esportazione del FOGLIO DI LAVORO nel formato SQL vengono eseguite dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato SQL online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SQL perfetto.
+Esportare l'oggetto WORKSHEET in un file SQL dal foglio di calcolo è un'attività complessa. L'esportazione delle transizioni del FOGLIO DI LAVORO nel formato SQL viene eseguita dal nostro SDK Android mantenendo il contenuto strutturale e logico principale del foglio di calcolo del FOGLIO DI LAVORO di origine. La nostra libreria Android è una soluzione professionale per esportare oggetti WORKSHEET in file in formato SQL online. Questo Cloud SDK offre agli sviluppatori Android potenti funzionalità e un output SQL perfetto.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Esempio di codice in Android utilizzando REST API per esportare WORKSHEET in formato SQL dal foglio di calcolo" gistPath="" %}}

@@ -10,7 +10,7 @@ url: /tr/net/conversion/html-to-xlsx/
 {{< blocks/products/cells/cells-cloud-section isGrey="true" title="Bir HTML dosyasını C#\'de XLSX\'e dönüştürün" >}}
 {{% blocks/products/cells/cells-cloud-api-reference apiurl="https://api.aspose.cloud/v3.0/cells/convert" apireferenceurl="https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel" apimethod="PUT" %}}
 <br/>
-Dosya formatlarını HTML'den XLSX'e dönüştürmek karmaşık bir iştir. HTML'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, HTML'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıktısı sağlar.
+Dosya formatlarını HTML'den XLSX'e dönüştürmek karmaşık bir iştir. HTML'den XLSX formatına geçişlerin tümü, C# SDK'mız tarafından gerçekleştirilir ve kaynak HTML e-tablosunun ana yapısal ve mantıksal içeriği korunur. C# kitaplığımız, HTML'i çevrimiçi olarak XLSX dosyalarına dönüştürmek için profesyonel bir çözümdür. Bu Cloud SDK, C# geliştiricilerine güçlü işlevsellik ve mükemmel XLSX çıkışı sağlar.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="HTML\'i XLSX formatına dönüştürmek için REST API\'i kullanan C#\'deki kod örneği" gistPath="" %}}
