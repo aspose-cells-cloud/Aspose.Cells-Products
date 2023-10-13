@@ -1,18 +1,18 @@
 ---
-title: Export LISTOBJECT to PPTX from spreadsheet using Ruby  API 
+title: Export LISTOBJECT to PPTX from Excel using Cells Cloud SDK for Ruby  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /ruby/export/listobject-to-pptx/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to export LISTOBJECT to PPTX file" h2="Ruby library to export LISTOBJECT to PPTX file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Ruby. This is a professional solution to export LISTOBJECT to PPTX format file from spreadsheet online using Ruby." urlsection="export/listobject-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export LISTOBJECT to PPTX from Excel" h2="Ruby library for exporting LISTOBJECT to PPTX file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Ruby. This is a professional solution to export LISTOBJECT to PPTX format file from spreadsheet online using Ruby." urlsection="export/listobject-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to PPTX format file in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to PPTX format file using Cells Cloud SDK for Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export LISTOBJECT object to PPTX file from spreadsheet is a complex task. Export LISTOBJECT to PPTX format transitions is performed by our Ruby SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Ruby library is a professional solution to export LISTOBJECT objects to PPTX format files online. This Cloud SDK gives Ruby developers powerful functionality and perfect PPTX output.
+Export LISTOBJECT object to PPTX file from Excel file is a complex task. Export LISTOBJECT to PPTX format transitions is performed by our Ruby SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Ruby library is a professional solution to export LISTOBJECT objects to PPTX format files online. This Cloud SDK gives Ruby developers powerful functionality and perfect PPTX output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to export LISTOBJECT to PPTX format from spreadsheet" gistPath="" %}}
@@ -37,9 +37,9 @@ Export LISTOBJECT object to PPTX file from spreadsheet is a complex task. Export
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to export  LISTOBJECT to PPTX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to export objects from Excel LISTOBJECT to PPTX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call post_export method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

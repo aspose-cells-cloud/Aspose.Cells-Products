@@ -1,12 +1,12 @@
 ---
-title: Save TSV as XLSB API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save TSV format file as XLSB format file. 
-url: /nodejs/saveas/tsv-to-xlsb/
+title: Save TSV as XLSB using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save TSV format file as XLSB format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save TSV as XLSB" h2="NodeJS library to save TSV as XLSB" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save TSV as XLSB and other document formats online using NodeJS." urlsection="saveas/tsv-to-xlsb/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as XLSB" h2="NodeJS library for saving TSV as XLSB" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save TSV as XLSB and other document formats online using NodeJS." urlsection="saveas/tsv-to-xlsb/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as XLSB in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/tsv-to-xlsb/
 Saving file formats from TSV as XLSB is a complex task. All TSV to XLSB format transitions is performed by our NodeJS SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save TSV as XLSB files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect XLSB output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save TSV as XLSB format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving TSV as XLSB using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from TSV as XLSB is a complex task. All TSV to XLSB format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  TSV as XLSB" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats TSV as XLSB" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

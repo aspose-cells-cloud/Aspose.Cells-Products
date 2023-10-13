@@ -1,7 +1,7 @@
 ---
 title: Encrypt cloud spreadsheet with password in Cloud 
 description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt cloud spreadsheet with password by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /android/protect/encrypt-cloud-file-with-password/
+
 ---
 
 
@@ -20,7 +20,7 @@ Protecting a cloud spreadsheet with a password is a complex task. Protecting a c
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to encrypt " >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to encrypt Excel file" >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call cellsWorkbookPostEncryptDocument method to get the resultant stream</li>

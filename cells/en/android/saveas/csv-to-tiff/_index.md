@@ -1,12 +1,12 @@
 ---
-title: Save CSV as TIFF API for Android 
-description: Using Aspose.Cells Cloud SDK for Android to save CSV format file as TIFF format file. 
-url: /android/saveas/csv-to-tiff/
+title: Save CSV as TIFF using Android 
+description: Utilizing Aspose.Cells Cloud SDK for Android to save CSV format file as TIFF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to save CSV as TIFF" h2="Android library to save CSV as TIFF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Android. This is a professional solution to save CSV as TIFF and other document formats online using Android." urlsection="saveas/csv-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save CSV as TIFF" h2="Android library for saving CSV as TIFF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save CSV as TIFF and other document formats online using Android." urlsection="saveas/csv-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as TIFF in Android" >}}
@@ -15,7 +15,7 @@ url: /android/saveas/csv-to-tiff/
 Saving file formats from CSV as TIFF is a complex task. All CSV to TIFF format transitions is performed by our Android SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our Android library is a professional solution to save CSV as TIFF files online. This Cloud SDK gives Android developers powerful functionality and perfect TIFF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to save CSV as TIFF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving CSV as TIFF using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -37,10 +37,10 @@ Saving file formats from CSV as TIFF is a complex task. All CSV to TIFF format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  CSV as TIFF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats CSV as TIFF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

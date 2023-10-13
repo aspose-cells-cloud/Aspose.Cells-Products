@@ -1,7 +1,7 @@
 ---
 title: Cloud spreadsheets digital signature in Cloud 
 description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc digital signature. Spreadsheets digital signature by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /ruby/protect/digital-signature/
+
 ---
 
 
@@ -20,7 +20,7 @@ Digitaling signature a cloud spreadsheet with a password and digital signature f
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to digital signature " >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize the Cells Cloud SDK for Ruby to digitally sign an Excel file." >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call cells_workbook_post_digital_signature method to get the resultant stream</li>

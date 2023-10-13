@@ -1,12 +1,12 @@
 ---
-title: Save XLSB as BMP API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save XLSB format file as BMP format file. 
-url: /nodejs/saveas/xlsb-to-bmp/
+title: Save XLSB as BMP using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save XLSB format file as BMP format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save XLSB as BMP" h2="NodeJS library to save XLSB as BMP" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLSB as BMP and other document formats online using NodeJS." urlsection="saveas/xlsb-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSB as BMP" h2="NodeJS library for saving XLSB as BMP" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLSB as BMP and other document formats online using NodeJS." urlsection="saveas/xlsb-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSB file as BMP in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/xlsb-to-bmp/
 Saving file formats from XLSB as BMP is a complex task. All XLSB to BMP format transitions is performed by our NodeJS SDK while maintaining the source XLSB spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save XLSB as BMP files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect BMP output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save XLSB as BMP format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving XLSB as BMP using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from XLSB as BMP is a complex task. All XLSB to BMP format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  XLSB as BMP" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats XLSB as BMP" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

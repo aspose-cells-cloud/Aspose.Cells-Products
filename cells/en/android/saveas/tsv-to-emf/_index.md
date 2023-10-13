@@ -1,12 +1,12 @@
 ---
-title: Save TSV as EMF API for Android 
-description: Using Aspose.Cells Cloud SDK for Android to save TSV format file as EMF format file. 
-url: /android/saveas/tsv-to-emf/
+title: Save TSV as EMF using Android 
+description: Utilizing Aspose.Cells Cloud SDK for Android to save TSV format file as EMF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to save TSV as EMF" h2="Android library to save TSV as EMF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Android. This is a professional solution to save TSV as EMF and other document formats online using Android." urlsection="saveas/tsv-to-emf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as EMF" h2="Android library for saving TSV as EMF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save TSV as EMF and other document formats online using Android." urlsection="saveas/tsv-to-emf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as EMF in Android" >}}
@@ -15,7 +15,7 @@ url: /android/saveas/tsv-to-emf/
 Saving file formats from TSV as EMF is a complex task. All TSV to EMF format transitions is performed by our Android SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our Android library is a professional solution to save TSV as EMF files online. This Cloud SDK gives Android developers powerful functionality and perfect EMF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to save TSV as EMF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving TSV as EMF using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -37,10 +37,10 @@ Saving file formats from TSV as EMF is a complex task. All TSV to EMF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  TSV as EMF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats TSV as EMF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

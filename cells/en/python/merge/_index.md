@@ -1,10 +1,10 @@
 ---
-title: Merge using Python 
-description: Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file using Python. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /python/merge/
+title: Merge Excel files using Python 
+description: Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using Python, and offers SDKs for various programming languages. 
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Merge using Python" h2="Aspose.Cells Cloud SDK supports merge multiple Excel files into an Excel file.." p="Aspose.Cells Cloud REST API supports merge multiple Excel files into an Excel file using Python. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="merge/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Merge Excel files using Python" h2="Aspose.Cells Cloud SDK supports merging multiple Excel files into a single Excel file." p="Aspose.Cells Cloud REST API supports merging multiple Excel files into a single Excel file using Python, and offers SDKs for various programming languages." urlsection="merge/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /python/merge/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Merge using Python Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Merge Excel files using Python Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/python/merge" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

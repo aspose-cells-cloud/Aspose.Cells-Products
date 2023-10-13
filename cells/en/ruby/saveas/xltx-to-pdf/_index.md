@@ -1,12 +1,12 @@
 ---
-title: Save XLTX as PDF API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to save XLTX format file as PDF format file. 
-url: /ruby/saveas/xltx-to-pdf/
+title: Save XLTX as PDF using Ruby 
+description: Utilizing Aspose.Cells Cloud SDK for Ruby to save XLTX format file as PDF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to save XLTX as PDF" h2="Ruby library to save XLTX as PDF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to save XLTX as PDF and other document formats online using Ruby." urlsection="saveas/xltx-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLTX as PDF" h2="Ruby library for saving XLTX as PDF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Ruby. This is a professional solution to save XLTX as PDF and other document formats online using Ruby." urlsection="saveas/xltx-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTX file as PDF in Ruby" >}}
@@ -15,7 +15,7 @@ url: /ruby/saveas/xltx-to-pdf/
 Saving file formats from XLTX as PDF is a complex task. All XLTX to PDF format transitions is performed by our Ruby SDK while maintaining the source XLTX spreadsheet's main structural and logical content. Our Ruby library is a professional solution to save XLTX as PDF files online. This Cloud SDK gives Ruby developers powerful functionality and perfect PDF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to save XLTX as PDF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for saving XLTX as PDF using REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +35,10 @@ Saving file formats from XLTX as PDF is a complex task. All XLTX to PDF format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to save  XLTX as PDF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to save Excel files as other formats XLTX as PDF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

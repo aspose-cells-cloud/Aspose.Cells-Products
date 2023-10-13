@@ -1,7 +1,7 @@
 ---
 title: Add watermark for local workbook with NodeJS in Cloud 
 description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc with NodeJS. Adding watermark for local spreadsheets by the Cells Cloud API SDK for NodeJS.  
-url: /nodejs/background/add-watermark/
+
 ---
 
 
@@ -20,7 +20,7 @@ Adding watermark for a local spreadsheet with NodeJS is a complex task. Adding w
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to add watermark" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to add a watermark to an Excel file." >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call postWatermark method to get the resultant stream</li>

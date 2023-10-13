@@ -1,12 +1,12 @@
 ---
-title: Save JSON as PDF API for Android 
-description: Using Aspose.Cells Cloud SDK for Android to save JSON format file as PDF format file. 
-url: /android/saveas/json-to-pdf/
+title: Save JSON as PDF using Android 
+description: Utilizing Aspose.Cells Cloud SDK for Android to save JSON format file as PDF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to save JSON as PDF" h2="Android library to save JSON as PDF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Android. This is a professional solution to save JSON as PDF and other document formats online using Android." urlsection="saveas/json-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JSON as PDF" h2="Android library for saving JSON as PDF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save JSON as PDF and other document formats online using Android." urlsection="saveas/json-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as PDF in Android" >}}
@@ -15,7 +15,7 @@ url: /android/saveas/json-to-pdf/
 Saving file formats from JSON as PDF is a complex task. All JSON to PDF format transitions is performed by our Android SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our Android library is a professional solution to save JSON as PDF files online. This Cloud SDK gives Android developers powerful functionality and perfect PDF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to save JSON as PDF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving JSON as PDF using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -37,10 +37,10 @@ Saving file formats from JSON as PDF is a complex task. All JSON to PDF format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  JSON as PDF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats JSON as PDF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

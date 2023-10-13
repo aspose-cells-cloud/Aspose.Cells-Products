@@ -1,18 +1,18 @@
 ---
-title: Clear duplicate rows on the local workbook with NodeJS in Cloud 
-description: Cloud APIs & SDKs for clearing duplicate row on Microsoft Excel & OpenOffice Calc with NodeJS. Clear duplicate rows on local spreadsheets by the Cells Cloud API SDK for NodeJS 
-url: /nodejs/clear/duplicate-rows/
+title: Remove duplicate rows from the local workbook using NodeJS within Aspose Cells Cloud environment. 
+description: Cloud APIs and SDKs for clearing duplicate rows in Microsoft Excel and OpenOffice Calc using NodeJS. Clear duplicate rows in local spreadsheets with the Cells Cloud SDK for NodeJS. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="NodeJS Clear to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in NodeJS. This professional solution clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet using NodeJS." urlsection="clear/Duplicate-rows/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Removing duplicate rows in local Microsoft Excel and OpenOffice Calc spreadsheets." h2="NodeJS library for removing duplicate rows from local Microsoft Excel and OpenOffice Calc spreadsheets." p="Utilize the Cells Clear REST API to remove duplicate rows from local Microsoft Excel and OpenOffice Calc spreadsheets within NodeJS workflows. This professional solution efficiently clears duplicate rows from local Microsoft Excel and OpenOffice Calc spreadsheets using NodeJS." urlsection="clear/Duplicate-rows/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet - NodeJS REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear duplicate rows in local Microsoft Excel and OpenOffice Calc spreadsheets using Cells Cloud SDK for NodeJS." >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/clear  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostClearObjects  apimethod=POST %}}
 <br/>
-Clearing duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet is a complex task. Clearing duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet transitions is performed by our NodeJS SDK while maintaining the source spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to Clear duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet online. This Cloud SDK gives NodeJS developers powerful functionality and perfect API.
+Clearing duplicate rows from local Microsoft Excel and OpenOffice Calc spreadsheets is complex, and our Cells Cloud SDK for NodeJS handles this transition while preserving the structural and logical content of the source spreadsheet. Our NodeJS library is a professional solution for efficiently clearing duplicate rows online in local Microsoft Excel and OpenOffice Calc spreadsheets. This Cloud SDK empowers NodeJS developers with robust functionality and a powerful API.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="NodeJS code for clearing duplicate rows on local spreadsheets" gistPath="https://gist.github.com/aspose-cells-cloud-gists/e82de2e4189bc27ae92abf73c36b4df0.js?file=Example-Clear-DuplicateRows.js" %}}
@@ -20,10 +20,10 @@ Clearing duplicate rows on local Microsoft Excel and OpenOffice Calc spreadsheet
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to clear duplicate rows " >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call postClearObjects method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize Cells Cloud SDK for Node to clear duplicate rows" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postClearObjects` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

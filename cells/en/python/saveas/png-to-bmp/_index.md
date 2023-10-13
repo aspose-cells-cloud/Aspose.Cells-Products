@@ -1,12 +1,12 @@
 ---
-title: Save PNG as BMP API for Python 
-description: Using Aspose.Cells Cloud SDK for Python to save PNG format file as BMP format file. 
-url: /python/saveas/png-to-bmp/
+title: Save PNG as BMP using Python 
+description: Utilizing Aspose.Cells Cloud SDK for Python to save PNG format file as BMP format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to save PNG as BMP" h2="Python library to save PNG as BMP" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Python. This is a professional solution to save PNG as BMP and other document formats online using Python." urlsection="saveas/png-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save PNG as BMP" h2="Python library for saving PNG as BMP" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Python. This is a professional solution to save PNG as BMP and other document formats online using Python." urlsection="saveas/png-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a PNG file as BMP in Python" >}}
@@ -15,7 +15,7 @@ url: /python/saveas/png-to-bmp/
 Saving file formats from PNG as BMP is a complex task. All PNG to BMP format transitions is performed by our Python SDK while maintaining the source PNG spreadsheet's main structural and logical content. Our Python library is a professional solution to save PNG as BMP files online. This Cloud SDK gives Python developers powerful functionality and perfect BMP output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to save PNG as BMP format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Code Example for saving PNG as BMP using REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -32,10 +32,10 @@ Saving file formats from PNG as BMP is a complex task. All PNG to BMP format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to save  PNG as BMP" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to save Excel files as other formats PNG as BMP" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,18 +1,18 @@
 ---
-title: Export WORKBOOK to GIF from spreadsheet using Go  API 
+title: Export WORKBOOK to GIF from Excel using Cells Cloud SDK for Go  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /go/export/workbook-to-gif/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to export WORKBOOK to GIF file" h2="Go library to export WORKBOOK to GIF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Go. This is a professional solution to export WORKBOOK to GIF format file from spreadsheet online using Go." urlsection="export/workbook-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export WORKBOOK to GIF from Excel" h2="Go library for exporting WORKBOOK to GIF file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Go. This is a professional solution to export WORKBOOK to GIF format file from spreadsheet online using Go." urlsection="export/workbook-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKBOOK object to GIF format file in Go" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKBOOK object to GIF format file using Cells Cloud SDK for Go" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export WORKBOOK object to GIF file from spreadsheet is a complex task. Export WORKBOOK to GIF format transitions is performed by our Go SDK while maintaining the source WORKBOOK spreadsheet's main structural and logical content. Our Go library is a professional solution to export WORKBOOK objects to GIF format files online. This Cloud SDK gives Go developers powerful functionality and perfect GIF output.
+Export WORKBOOK object to GIF file from Excel file is a complex task. Export WORKBOOK to GIF format transitions is performed by our Go SDK while maintaining the source WORKBOOK spreadsheet's main structural and logical content. Our Go library is a professional solution to export WORKBOOK objects to GIF format files online. This Cloud SDK gives Go developers powerful functionality and perfect GIF output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Go using REST API to export WORKBOOK to GIF format from spreadsheet" gistPath="" %}}
@@ -58,10 +58,10 @@ Export WORKBOOK object to GIF file from spreadsheet is a complex task. Export WO
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Go API to export  WORKBOOK to GIF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call PostExport method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Go to export objects from Excel WORKBOOK to GIF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postExport` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

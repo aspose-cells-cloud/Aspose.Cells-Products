@@ -1,12 +1,12 @@
 ---
-title: Save XML as ODS API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save XML format file as ODS format file. 
-url: /nodejs/saveas/xml-to-ods/
+title: Save XML as ODS using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save XML format file as ODS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save XML as ODS" h2="NodeJS library to save XML as ODS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XML as ODS and other document formats online using NodeJS." urlsection="saveas/xml-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XML as ODS" h2="NodeJS library for saving XML as ODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XML as ODS and other document formats online using NodeJS." urlsection="saveas/xml-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XML file as ODS in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/xml-to-ods/
 Saving file formats from XML as ODS is a complex task. All XML to ODS format transitions is performed by our NodeJS SDK while maintaining the source XML spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save XML as ODS files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect ODS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save XML as ODS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving XML as ODS using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from XML as ODS is a complex task. All XML to ODS format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  XML as ODS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats XML as ODS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

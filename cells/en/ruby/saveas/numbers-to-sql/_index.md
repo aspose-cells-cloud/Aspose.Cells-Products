@@ -1,12 +1,12 @@
 ---
-title: Save NUMBERS as SQL API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to save NUMBERS format file as SQL format file. 
-url: /ruby/saveas/numbers-to-sql/
+title: Save NUMBERS as SQL using Ruby 
+description: Utilizing Aspose.Cells Cloud SDK for Ruby to save NUMBERS format file as SQL format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to save NUMBERS as SQL" h2="Ruby library to save NUMBERS as SQL" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to save NUMBERS as SQL and other document formats online using Ruby." urlsection="saveas/numbers-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save NUMBERS as SQL" h2="Ruby library for saving NUMBERS as SQL" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Ruby. This is a professional solution to save NUMBERS as SQL and other document formats online using Ruby." urlsection="saveas/numbers-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a NUMBERS file as SQL in Ruby" >}}
@@ -15,7 +15,7 @@ url: /ruby/saveas/numbers-to-sql/
 Saving file formats from NUMBERS as SQL is a complex task. All NUMBERS to SQL format transitions is performed by our Ruby SDK while maintaining the source NUMBERS spreadsheet's main structural and logical content. Our Ruby library is a professional solution to save NUMBERS as SQL files online. This Cloud SDK gives Ruby developers powerful functionality and perfect SQL output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to save NUMBERS as SQL format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for saving NUMBERS as SQL using REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +35,10 @@ Saving file formats from NUMBERS as SQL is a complex task. All NUMBERS to SQL fo
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to save  NUMBERS as SQL" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to save Excel files as other formats NUMBERS as SQL" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

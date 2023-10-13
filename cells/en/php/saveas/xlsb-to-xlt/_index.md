@@ -1,12 +1,12 @@
 ---
-title: Save XLSB as XLT API for PHP 
-description: Using Aspose.Cells Cloud SDK for PHP to save XLSB format file as XLT format file. 
-url: /php/saveas/xlsb-to-xlt/
+title: Save XLSB as XLT using PHP 
+description: Utilizing Aspose.Cells Cloud SDK for PHP to save XLSB format file as XLT format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to save XLSB as XLT" h2="PHP library to save XLSB as XLT" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in PHP. This is a professional solution to save XLSB as XLT and other document formats online using PHP." urlsection="saveas/xlsb-to-xlt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSB as XLT" h2="PHP library for saving XLSB as XLT" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save XLSB as XLT and other document formats online using PHP." urlsection="saveas/xlsb-to-xlt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSB file as XLT in PHP" >}}
@@ -15,7 +15,7 @@ url: /php/saveas/xlsb-to-xlt/
 Saving file formats from XLSB as XLT is a complex task. All XLSB to XLT format transitions is performed by our PHP SDK while maintaining the source XLSB spreadsheet's main structural and logical content. Our PHP library is a professional solution to save XLSB as XLT files online. This Cloud SDK gives PHP developers powerful functionality and perfect XLT output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to save XLSB as XLT format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for saving XLSB as XLT using REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -33,10 +33,10 @@ Saving file formats from XLSB as XLT is a complex task. All XLSB to XLT format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to save  XLSB as XLT" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to save Excel files as other formats XLSB as XLT" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

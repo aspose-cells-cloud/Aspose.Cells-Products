@@ -1,12 +1,12 @@
 ---
-title: Save JPG as XLS API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save JPG format file as XLS format file. 
-url: /perl/saveas/jpg-to-xls/
+title: Save JPG as XLS using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save JPG format file as XLS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save JPG as XLS" h2="Perl library to save JPG as XLS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save JPG as XLS and other document formats online using Perl." urlsection="saveas/jpg-to-xls/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JPG as XLS" h2="Perl library for saving JPG as XLS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save JPG as XLS and other document formats online using Perl." urlsection="saveas/jpg-to-xls/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JPG file as XLS in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/jpg-to-xls/
 Saving file formats from JPG as XLS is a complex task. All JPG to XLS format transitions is performed by our Perl SDK while maintaining the source JPG spreadsheet's main structural and logical content. Our Perl library is a professional solution to save JPG as XLS files online. This Cloud SDK gives Perl developers powerful functionality and perfect XLS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save JPG as XLS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving JPG as XLS using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from JPG as XLS is a complex task. All JPG to XLS format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  JPG as XLS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats JPG as XLS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

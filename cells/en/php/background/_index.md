@@ -1,14 +1,14 @@
 ---
-title: Set background using PHP 
-description: Aspose.Cells Cloud REST API supports set background for Excel file using PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /php/background/
+title: Set a background for Excel files using PHP 
+description: Aspose.Cells Cloud REST API supports setting the background for Excel files using PHP, and offers SDKs for various programming languages. 
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Set background using PHP" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file using PHP. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Set a background for Excel files using PHP" h2="Aspose.Cells Cloud SDK supports setting backgrounds in Excel files." p="Aspose.Cells Cloud REST API supports setting the background for Excel files using PHP, and offers SDKs for various programming languages." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Set background using PHP Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Set a background for Excel files using PHP Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/php/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

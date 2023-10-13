@@ -1,21 +1,21 @@
 ---
-title: SXC to SVG Convert API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to convert SXC format file to SVG format file. 
-url: /perl/conversion/sxc-to-svg/
+title: Convert SXC to SVG using Perl 
+description: Utilizing the Aspose.Cells Cloud SDK for Perl to convert a SXC format file to a SVG format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to convert SXC to SVG" h2="Perl library to convert SXC to SVG" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Perl. This is a professional solution to convert SXC to SVG and other document formats online using Perl." urlsection="conversion/sxc-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert SXC to SVG" h2="Perl library for converting SXC to SVG" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Perl projects. This is a professional solution to convert SXC to SVG and other document formats online using Perl." urlsection="conversion/sxc-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a SXC file to SVG in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert SXC to SVG using Cells Cloud SDK for Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
-Converting file formats from SXC to SVG is a complex task. All SXC to SVG format transitions is performed by our Perl SDK while maintaining the source SXC spreadsheet's main structural and logical content. Our Perl library is a professional solution to convert SXC to SVG files online. This Cloud SDK gives Perl developers powerful functionality and perfect SVG output.
+Converting file formats from SXC to SVG can be a complex task. Our Perl SDK handles all SXC to SVG format conversions while preserving the main structural and logical content of the source SXC spreadsheet. Our Perl library provides a professional solution for converting SXC to SVG files online. This Cloud SDK empowers Perl developers with powerful functionality and ensures high-quality SVG output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to convert SXC to SVG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for converting SXC to SVG using Cells Cloud SDK" gistPath="" %}}
  
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -45,10 +45,10 @@ Converting file formats from SXC to SVG is a complex task. All SXC to SVG format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to convert  SXC to SVG" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_workbook_put_convert_workbook method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl SDK to convert  SXC to SVG" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `put_convert_workbook` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

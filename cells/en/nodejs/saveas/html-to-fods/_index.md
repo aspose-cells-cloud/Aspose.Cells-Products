@@ -1,12 +1,12 @@
 ---
-title: Save HTML as FODS API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save HTML format file as FODS format file. 
-url: /nodejs/saveas/html-to-fods/
+title: Save HTML as FODS using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save HTML format file as FODS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save HTML as FODS" h2="NodeJS library to save HTML as FODS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save HTML as FODS and other document formats online using NodeJS." urlsection="saveas/html-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save HTML as FODS" h2="NodeJS library for saving HTML as FODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save HTML as FODS and other document formats online using NodeJS." urlsection="saveas/html-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a HTML file as FODS in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/html-to-fods/
 Saving file formats from HTML as FODS is a complex task. All HTML to FODS format transitions is performed by our NodeJS SDK while maintaining the source HTML spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save HTML as FODS files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect FODS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save HTML as FODS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving HTML as FODS using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from HTML as FODS is a complex task. All HTML to FODS format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  HTML as FODS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats HTML as FODS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

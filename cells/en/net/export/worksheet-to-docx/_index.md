@@ -1,18 +1,18 @@
 ---
-title: Export WORKSHEET to DOCX from spreadsheet using C#  API 
+title: Export WORKSHEET to DOCX from Excel using Cells Cloud SDK for C#  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /net/export/worksheet-to-docx/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to export WORKSHEET to DOCX file" h2="C# library to export WORKSHEET to DOCX file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Net. This is a professional solution to export WORKSHEET to DOCX format file from spreadsheet online using C#." urlsection="export/worksheet-to-docx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export WORKSHEET to DOCX from Excel" h2="C# library for exporting WORKSHEET to DOCX file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Net. This is a professional solution to export WORKSHEET to DOCX format file from spreadsheet online using C#." urlsection="export/worksheet-to-docx/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to DOCX format file in C#" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to DOCX format file using Cells Cloud SDK for C#" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export WORKSHEET object to DOCX file from spreadsheet is a complex task. Export WORKSHEET to DOCX format transitions is performed by our C# SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our C# library is a professional solution to export WORKSHEET objects to DOCX format files online. This Cloud SDK gives C# developers powerful functionality and perfect DOCX output.
+Export WORKSHEET object to DOCX file from Excel file is a complex task. Export WORKSHEET to DOCX format transitions is performed by our C# SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our C# library is a professional solution to export WORKSHEET objects to DOCX format files online. This Cloud SDK gives C# developers powerful functionality and perfect DOCX output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to export WORKSHEET to DOCX format from spreadsheet" gistPath="" %}}
@@ -46,10 +46,10 @@ Export WORKSHEET object to DOCX file from spreadsheet is a complex task. Export 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to export  WORKSHEET to DOCX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call PostExport method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to export objects from Excel WORKSHEET to DOCX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postExport` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,12 +1,12 @@
 ---
-title: Save XLSM as WMF API for Android 
-description: Using Aspose.Cells Cloud SDK for Android to save XLSM format file as WMF format file. 
-url: /android/saveas/xlsm-to-wmf/
+title: Save XLSM as WMF using Android 
+description: Utilizing Aspose.Cells Cloud SDK for Android to save XLSM format file as WMF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to save XLSM as WMF" h2="Android library to save XLSM as WMF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Android. This is a professional solution to save XLSM as WMF and other document formats online using Android." urlsection="saveas/xlsm-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSM as WMF" h2="Android library for saving XLSM as WMF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save XLSM as WMF and other document formats online using Android." urlsection="saveas/xlsm-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSM file as WMF in Android" >}}
@@ -15,7 +15,7 @@ url: /android/saveas/xlsm-to-wmf/
 Saving file formats from XLSM as WMF is a complex task. All XLSM to WMF format transitions is performed by our Android SDK while maintaining the source XLSM spreadsheet's main structural and logical content. Our Android library is a professional solution to save XLSM as WMF files online. This Cloud SDK gives Android developers powerful functionality and perfect WMF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to save XLSM as WMF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving XLSM as WMF using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -37,10 +37,10 @@ Saving file formats from XLSM as WMF is a complex task. All XLSM to WMF format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  XLSM as WMF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats XLSM as WMF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

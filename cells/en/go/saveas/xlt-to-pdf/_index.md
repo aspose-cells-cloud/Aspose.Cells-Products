@@ -1,12 +1,12 @@
 ---
-title: Save XLT as PDF API for Go 
-description: Using Aspose.Cells Cloud SDK for Go to save XLT format file as PDF format file. 
-url: /go/saveas/xlt-to-pdf/
+title: Save XLT as PDF using Go 
+description: Utilizing Aspose.Cells Cloud SDK for Go to save XLT format file as PDF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to save XLT as PDF" h2="Go library to save XLT as PDF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Go. This is a professional solution to save XLT as PDF and other document formats online using Go." urlsection="saveas/xlt-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLT as PDF" h2="Go library for saving XLT as PDF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Go. This is a professional solution to save XLT as PDF and other document formats online using Go." urlsection="saveas/xlt-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLT file as PDF in Go" >}}
@@ -15,7 +15,7 @@ url: /go/saveas/xlt-to-pdf/
 Saving file formats from XLT as PDF is a complex task. All XLT to PDF format transitions is performed by our Go SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our Go library is a professional solution to save XLT as PDF files online. This Cloud SDK gives Go developers powerful functionality and perfect PDF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Go using REST API to save XLT as PDF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Example for saving XLT as PDF using REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -33,10 +33,10 @@ Saving file formats from XLT as PDF is a complex task. All XLT to PDF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Go API to save  XLT as PDF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Go to save Excel files as other formats XLT as PDF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

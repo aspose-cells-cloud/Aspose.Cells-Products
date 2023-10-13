@@ -1,12 +1,12 @@
 ---
-title: Save JSON as TSV API for Java 
-description: Using Aspose.Cells Cloud SDK for Java to save JSON format file as TSV format file. 
-url: /java/saveas/json-to-tsv/
+title: Save JSON as TSV using Java 
+description: Utilizing Aspose.Cells Cloud SDK for Java to save JSON format file as TSV format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to save JSON as TSV" h2="Java library to save JSON as TSV" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Java. This is a professional solution to save JSON as TSV and other document formats online using Java." urlsection="saveas/json-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JSON as TSV" h2="Java library for saving JSON as TSV" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Java. This is a professional solution to save JSON as TSV and other document formats online using Java." urlsection="saveas/json-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as TSV in Java" >}}
@@ -15,7 +15,7 @@ url: /java/saveas/json-to-tsv/
 Saving file formats from JSON as TSV is a complex task. All JSON to TSV format transitions is performed by our Java SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our Java library is a professional solution to save JSON as TSV files online. This Cloud SDK gives Java developers powerful functionality and perfect TSV output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to save JSON as TSV format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Code Example for saving JSON as TSV using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -37,10 +37,10 @@ Saving file formats from JSON as TSV is a complex task. All JSON to TSV format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  JSON as TSV" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Java to save Excel files as other formats JSON as TSV" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

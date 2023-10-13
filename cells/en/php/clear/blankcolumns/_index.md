@@ -1,12 +1,12 @@
 ---
-title: Clear blank columns on the local workbook in Cloud 
+title: Remove blank columns from the local workbook using Cells Cloud SDK for PHP. 
 description: Cloud APIs & SDKs for clearing blank columns on Microsoft Excel & OpenOffice Calc. Clear blank columns on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /php/clear/blank-columns/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="PHP Clear to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in PHP. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using PHP." urlsection="clear/Blank-columns/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Removing empty columns from local Microsoft Excel and OpenOffice Calc spreadsheets." h2="PHP library for removing empty columns from local Microsoft Excel and OpenOffice Calc spreadsheets." p="Use Cells Clear REST API to clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in PHP. This professional solution clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet using PHP." urlsection="clear/Blank-columns/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet - PHP REST API" >}}
@@ -20,9 +20,9 @@ Clearing blank columns on local Microsoft Excel and OpenOffice Calc spreadsheet 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to clear blank columns " >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize Cells Cloud SDK for PHP to clear blank columns" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call postClearObjects method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

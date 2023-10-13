@@ -1,27 +1,16 @@
 ---
-title: Conversion 
-description: Aspose.Cells Cloud REST API supports the conversion of excel files to different kinds of format files. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /conversion/
+title: Convert EXcel file to other format file 
+description: Aspose.Cells Cloud REST API facilitates Excel file conversion to various formats and offers SDKs for multiple programming languages, including Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and Swift. 
+
 ---
-{{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/cells/upper-banner h1="Conversion" h2="Aspose.Cells Cloud SDK supports file format conversion. The supported file format has more than 30+ file formats." uploadmsg="Choose file or drop file" options="HTML,jpg,XML" logoImageSrc="/cells/app-logos/aspose_cells-for-cloud.svg" pfName="Aspose.Cells Cloud" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert EXcel file to other format file" h2="Aspose.Cells Cloud supports conversion between 30+ file formats." p="Aspose.Cells Cloud REST API facilitates Excel file conversion to various formats and offers SDKs for multiple programming languages, including Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and Swift." urlsection="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertWorkbook  apimethod=PUT  apiname="Conversion" %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/product-card-row title="Required parameters" >}}
-{{< blocks/products/cells/cells-cloud-upload>}}
-{{< blocks/products/cells/cells-cloud-parameters itName="format" ptName="The format to convert:" required="true" prompt="Please enter format">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="password" ptName="The password:" prompt="Please enter password">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="saveresult" ptName="Path to save result:" prompt="Please enter save result">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="storagename" ptName="Storage name:" prompt="Please enter name">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="checkex" ptName="checkExcelRestriction:" prompt="Please enter true or false">}}
-{{< blocks/products/cells/cells-cloud-parameters itName="streamformat" ptName="stream Format:" prompt="Please enter stream Format">}}
-
-{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-button btName="Convert">}}
 	{{< blocks/products/pf/product-card-row title="Supported File Formats" >}}
 	<div class="diagram1 d2  d1-cloud">
 	<div class="d1-row">
@@ -49,7 +38,6 @@ url: /conversion/
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
 {{< blocks/products/pf/product-card-row title="Popular Operates" >}}
-
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Pdf" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-pdf/" >}}
 
 {{< blocks/products/cells/cells-cloud-card-popular pfName="Aspose.Cells Cloud SDK for Net" title="Conversion Xlsx to Json" imgSrc="/cells/app-logos/cells_cloud_conversion.svg" productLink="/cells/net/conversion/xlsx-to-json/" >}}

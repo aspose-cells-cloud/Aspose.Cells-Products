@@ -1,7 +1,7 @@
 ---
 title: Decrypt cloud spreadsheets with password in Cloud 
 description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc decrypt with password on cloud files. Decrypt cloud spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /python/protect/decrypt-cloud-file-with-password/
+
 ---
 
 
@@ -20,7 +20,7 @@ Decrypting a cloud spreadsheet with a password is a complex task. Decrypting a l
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to decrypt " >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to decrypt Excel file" >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call cells_workbook_delete_decrypt_document method to get the resultant stream</li>

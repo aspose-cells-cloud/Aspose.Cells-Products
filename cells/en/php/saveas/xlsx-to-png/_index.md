@@ -1,12 +1,12 @@
 ---
-title: Save XLSX as PNG API for PHP 
-description: Using Aspose.Cells Cloud SDK for PHP to save XLSX format file as PNG format file. 
-url: /php/saveas/xlsx-to-png/
+title: Save XLSX as PNG using PHP 
+description: Utilizing Aspose.Cells Cloud SDK for PHP to save XLSX format file as PNG format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to save XLSX as PNG" h2="PHP library to save XLSX as PNG" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in PHP. This is a professional solution to save XLSX as PNG and other document formats online using PHP." urlsection="saveas/xlsx-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSX as PNG" h2="PHP library for saving XLSX as PNG" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save XLSX as PNG and other document formats online using PHP." urlsection="saveas/xlsx-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSX file as PNG in PHP" >}}
@@ -15,7 +15,7 @@ url: /php/saveas/xlsx-to-png/
 Saving file formats from XLSX as PNG is a complex task. All XLSX to PNG format transitions is performed by our PHP SDK while maintaining the source XLSX spreadsheet's main structural and logical content. Our PHP library is a professional solution to save XLSX as PNG files online. This Cloud SDK gives PHP developers powerful functionality and perfect PNG output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to save XLSX as PNG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for saving XLSX as PNG using REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -33,10 +33,10 @@ Saving file formats from XLSX as PNG is a complex task. All XLSX to PNG format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to save  XLSX as PNG" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to save Excel files as other formats XLSX as PNG" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

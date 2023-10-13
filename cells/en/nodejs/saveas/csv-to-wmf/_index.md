@@ -1,12 +1,12 @@
 ---
-title: Save CSV as WMF API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save CSV format file as WMF format file. 
-url: /nodejs/saveas/csv-to-wmf/
+title: Save CSV as WMF using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save CSV format file as WMF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save CSV as WMF" h2="NodeJS library to save CSV as WMF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save CSV as WMF and other document formats online using NodeJS." urlsection="saveas/csv-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save CSV as WMF" h2="NodeJS library for saving CSV as WMF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save CSV as WMF and other document formats online using NodeJS." urlsection="saveas/csv-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as WMF in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/csv-to-wmf/
 Saving file formats from CSV as WMF is a complex task. All CSV to WMF format transitions is performed by our NodeJS SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save CSV as WMF files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect WMF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save CSV as WMF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving CSV as WMF using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from CSV as WMF is a complex task. All CSV to WMF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  CSV as WMF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats CSV as WMF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

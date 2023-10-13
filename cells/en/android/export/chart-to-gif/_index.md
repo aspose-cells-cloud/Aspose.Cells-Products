@@ -1,18 +1,18 @@
 ---
-title: Export CHART to GIF from spreadsheet using Android  API 
+title: Export CHART to GIF from Excel using Cells Cloud SDK for Android  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /android/export/chart-to-gif/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to export CHART to GIF file" h2="Android library to export CHART to GIF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Android. This is a professional solution to export CHART to GIF format file from spreadsheet online using Android." urlsection="export/chart-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export CHART to GIF from Excel" h2="Android library for exporting CHART to GIF file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Android. This is a professional solution to export CHART to GIF format file from spreadsheet online using Android." urlsection="export/chart-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export CHART object to GIF format file in Android" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export CHART object to GIF format file using Cells Cloud SDK for Android" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export CHART object to GIF file from spreadsheet is a complex task. Export CHART to GIF format transitions is performed by our Android SDK while maintaining the source CHART spreadsheet's main structural and logical content. Our Android library is a professional solution to export CHART objects to GIF format files online. This Cloud SDK gives Android developers powerful functionality and perfect GIF output.
+Export CHART object to GIF file from Excel file is a complex task. Export CHART to GIF format transitions is performed by our Android SDK while maintaining the source CHART spreadsheet's main structural and logical content. Our Android library is a professional solution to export CHART objects to GIF format files online. This Cloud SDK gives Android developers powerful functionality and perfect GIF output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to export CHART to GIF format from spreadsheet" gistPath="" %}}
@@ -53,10 +53,10 @@ Export CHART object to GIF file from spreadsheet is a complex task. Export CHART
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to export  CHART to GIF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call postExport method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to export objects from Excel CHART to GIF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postExport` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

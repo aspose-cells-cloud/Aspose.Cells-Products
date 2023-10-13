@@ -1,12 +1,12 @@
 ---
-title: Save PNG as TXT API for PHP 
-description: Using Aspose.Cells Cloud SDK for PHP to save PNG format file as TXT format file. 
-url: /php/saveas/png-to-txt/
+title: Save PNG as TXT using PHP 
+description: Utilizing Aspose.Cells Cloud SDK for PHP to save PNG format file as TXT format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to save PNG as TXT" h2="PHP library to save PNG as TXT" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in PHP. This is a professional solution to save PNG as TXT and other document formats online using PHP." urlsection="saveas/png-to-txt/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save PNG as TXT" h2="PHP library for saving PNG as TXT" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save PNG as TXT and other document formats online using PHP." urlsection="saveas/png-to-txt/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a PNG file as TXT in PHP" >}}
@@ -15,7 +15,7 @@ url: /php/saveas/png-to-txt/
 Saving file formats from PNG as TXT is a complex task. All PNG to TXT format transitions is performed by our PHP SDK while maintaining the source PNG spreadsheet's main structural and logical content. Our PHP library is a professional solution to save PNG as TXT files online. This Cloud SDK gives PHP developers powerful functionality and perfect TXT output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to save PNG as TXT format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for saving PNG as TXT using REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -33,10 +33,10 @@ Saving file formats from PNG as TXT is a complex task. All PNG to TXT format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to save  PNG as TXT" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to save Excel files as other formats PNG as TXT" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

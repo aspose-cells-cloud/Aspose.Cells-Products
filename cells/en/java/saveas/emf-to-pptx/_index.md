@@ -1,12 +1,12 @@
 ---
-title: Save EMF as PPTX API for Java 
-description: Using Aspose.Cells Cloud SDK for Java to save EMF format file as PPTX format file. 
-url: /java/saveas/emf-to-pptx/
+title: Save EMF as PPTX using Java 
+description: Utilizing Aspose.Cells Cloud SDK for Java to save EMF format file as PPTX format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to save EMF as PPTX" h2="Java library to save EMF as PPTX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Java. This is a professional solution to save EMF as PPTX and other document formats online using Java." urlsection="saveas/emf-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save EMF as PPTX" h2="Java library for saving EMF as PPTX" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Java. This is a professional solution to save EMF as PPTX and other document formats online using Java." urlsection="saveas/emf-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a EMF file as PPTX in Java" >}}
@@ -15,7 +15,7 @@ url: /java/saveas/emf-to-pptx/
 Saving file formats from EMF as PPTX is a complex task. All EMF to PPTX format transitions is performed by our Java SDK while maintaining the source EMF spreadsheet's main structural and logical content. Our Java library is a professional solution to save EMF as PPTX files online. This Cloud SDK gives Java developers powerful functionality and perfect PPTX output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to save EMF as PPTX format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Code Example for saving EMF as PPTX using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -37,10 +37,10 @@ Saving file formats from EMF as PPTX is a complex task. All EMF to PPTX format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  EMF as PPTX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Java to save Excel files as other formats EMF as PPTX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

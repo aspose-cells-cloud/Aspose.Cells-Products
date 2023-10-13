@@ -1,12 +1,12 @@
 ---
-title: Save CSV as ODS API for Java 
-description: Using Aspose.Cells Cloud SDK for Java to save CSV format file as ODS format file. 
-url: /java/saveas/csv-to-ods/
+title: Save CSV as ODS using Java 
+description: Utilizing Aspose.Cells Cloud SDK for Java to save CSV format file as ODS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to save CSV as ODS" h2="Java library to save CSV as ODS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Java. This is a professional solution to save CSV as ODS and other document formats online using Java." urlsection="saveas/csv-to-ods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save CSV as ODS" h2="Java library for saving CSV as ODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Java. This is a professional solution to save CSV as ODS and other document formats online using Java." urlsection="saveas/csv-to-ods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as ODS in Java" >}}
@@ -15,7 +15,7 @@ url: /java/saveas/csv-to-ods/
 Saving file formats from CSV as ODS is a complex task. All CSV to ODS format transitions is performed by our Java SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our Java library is a professional solution to save CSV as ODS files online. This Cloud SDK gives Java developers powerful functionality and perfect ODS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to save CSV as ODS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Code Example for saving CSV as ODS using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -37,10 +37,10 @@ Saving file formats from CSV as ODS is a complex task. All CSV to ODS format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  CSV as ODS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Java to save Excel files as other formats CSV as ODS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

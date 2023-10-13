@@ -1,12 +1,12 @@
 ---
-title: Save JSON as XLTX API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to save JSON format file as XLTX format file. 
-url: /ruby/saveas/json-to-xltx/
+title: Save JSON as XLTX using Ruby 
+description: Utilizing Aspose.Cells Cloud SDK for Ruby to save JSON format file as XLTX format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to save JSON as XLTX" h2="Ruby library to save JSON as XLTX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to save JSON as XLTX and other document formats online using Ruby." urlsection="saveas/json-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JSON as XLTX" h2="Ruby library for saving JSON as XLTX" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Ruby. This is a professional solution to save JSON as XLTX and other document formats online using Ruby." urlsection="saveas/json-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as XLTX in Ruby" >}}
@@ -15,7 +15,7 @@ url: /ruby/saveas/json-to-xltx/
 Saving file formats from JSON as XLTX is a complex task. All JSON to XLTX format transitions is performed by our Ruby SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our Ruby library is a professional solution to save JSON as XLTX files online. This Cloud SDK gives Ruby developers powerful functionality and perfect XLTX output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to save JSON as XLTX format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for saving JSON as XLTX using REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +35,10 @@ Saving file formats from JSON as XLTX is a complex task. All JSON to XLTX format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to save  JSON as XLTX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to save Excel files as other formats JSON as XLTX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

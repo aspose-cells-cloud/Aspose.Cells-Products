@@ -1,12 +1,12 @@
 ---
-title: Save JSON as XLTX API for C# 
-description: Using Aspose.Cells Cloud SDK for C# to save JSON format file as XLTX format file. 
-url: /net/saveas/json-to-xltx/
+title: Save JSON as XLTX using C# 
+description: Utilizing Aspose.Cells Cloud SDK for C# to save JSON format file as XLTX format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save JSON as XLTX" h2="C# library to save JSON as XLTX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save JSON as XLTX and other document formats online using C#." urlsection="saveas/json-to-xltx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JSON as XLTX" h2="C# library for saving JSON as XLTX" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save JSON as XLTX and other document formats online using C#." urlsection="saveas/json-to-xltx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as XLTX in C#" >}}
@@ -15,7 +15,7 @@ url: /net/saveas/json-to-xltx/
 Saving file formats from JSON as XLTX is a complex task. All JSON to XLTX format transitions is performed by our C# SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our C# library is a professional solution to save JSON as XLTX files online. This Cloud SDK gives C# developers powerful functionality and perfect XLTX output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save JSON as XLTX format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving JSON as XLTX using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -29,10 +29,10 @@ Saving file formats from JSON as XLTX is a complex task. All JSON to XLTX format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  JSON as XLTX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats JSON as XLTX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

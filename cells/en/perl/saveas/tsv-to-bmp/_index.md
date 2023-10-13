@@ -1,12 +1,12 @@
 ---
-title: Save TSV as BMP API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save TSV format file as BMP format file. 
-url: /perl/saveas/tsv-to-bmp/
+title: Save TSV as BMP using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save TSV format file as BMP format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save TSV as BMP" h2="Perl library to save TSV as BMP" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save TSV as BMP and other document formats online using Perl." urlsection="saveas/tsv-to-bmp/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as BMP" h2="Perl library for saving TSV as BMP" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save TSV as BMP and other document formats online using Perl." urlsection="saveas/tsv-to-bmp/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as BMP in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/tsv-to-bmp/
 Saving file formats from TSV as BMP is a complex task. All TSV to BMP format transitions is performed by our Perl SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our Perl library is a professional solution to save TSV as BMP files online. This Cloud SDK gives Perl developers powerful functionality and perfect BMP output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save TSV as BMP format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving TSV as BMP using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from TSV as BMP is a complex task. All TSV to BMP format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  TSV as BMP" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats TSV as BMP" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

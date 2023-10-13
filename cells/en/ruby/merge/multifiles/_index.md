@@ -1,29 +1,29 @@
 ---
-title: Merge multiple Excel files into a file with Ruby. 
-description: Cloud APIs & SDKs for merging multiple Excel files with Ruby 
-url: /ruby/merge/multi-files/
+title: Merge multiple Excel files into a single file using Ruby. 
+description: Cloud APIs and SDKs for merging multiple Excel files using Ruby. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to merge multiple Excel files into a file." h2="Ruby library to merge multi Excel files into a file." p="Use Cells Merge REST API to merge multiple Excel files into a file in Ruby. This professional solution merge multiple Excel files into a Microsoft Excel or OpenOffice Calc spreadsheet using Ruby." urlsection="merge/Multi-files/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Cells Cloud SDK for Ruby to merge multiple Excel files into a single file." h2="Ruby library for merging multiple Excel files into a single file." p="Utilize Cells Cloud SDK to merge multiple Excel files into a single file in Ruby. This professional solution allows you to combine multiple Excel files into a Microsoft Excel or OpenOffice Calc spreadsheet using Ruby." urlsection="merge/Multi-files/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Merge multiple Excel files into a file - Ruby REST API" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Merge multiple Excel files into a single file using Cells Cloud SDK for Ruby." >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/merge  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostMerge  apimethod=POST %}}
 <br/>
-Merging multiple Excel files into a file is a complex task. Merging multiple Excel files into a file transitions is performed by our Ruby SDK while maintaining the source spreadsheet's main structural and logical content. Our Ruby library is a professional solution to merge multiple Excel files into a file online. This Cloud SDK gives Ruby developers powerful functionality and perfect API.
+Merging multiple Excel files into a single file can be a complex task. Our Ruby SDK handles this process, ensuring the main structural and logical content of the source spreadsheets is preserved. Our Ruby library is a professional solution for merging multiple Excel files into one online. This Cloud SDK empowers Ruby developers with powerful functionality and a robust API.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to merging multiple Excel files into a file" gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to merge multiple Excel files into a single file." gistPath="https://gist.github.com/aspose-cells-cloud-gists/36ed8b8727561b92692939513d365fca.js?file=Example-PostMerge.rb" %}}
   
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to merge" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call post_merge method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize Cells Cloud SDK for Python API for merging" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_merge` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

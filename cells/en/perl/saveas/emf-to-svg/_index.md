@@ -1,12 +1,12 @@
 ---
-title: Save EMF as SVG API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save EMF format file as SVG format file. 
-url: /perl/saveas/emf-to-svg/
+title: Save EMF as SVG using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save EMF format file as SVG format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save EMF as SVG" h2="Perl library to save EMF as SVG" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save EMF as SVG and other document formats online using Perl." urlsection="saveas/emf-to-svg/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save EMF as SVG" h2="Perl library for saving EMF as SVG" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save EMF as SVG and other document formats online using Perl." urlsection="saveas/emf-to-svg/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a EMF file as SVG in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/emf-to-svg/
 Saving file formats from EMF as SVG is a complex task. All EMF to SVG format transitions is performed by our Perl SDK while maintaining the source EMF spreadsheet's main structural and logical content. Our Perl library is a professional solution to save EMF as SVG files online. This Cloud SDK gives Perl developers powerful functionality and perfect SVG output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save EMF as SVG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving EMF as SVG using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from EMF as SVG is a complex task. All EMF to SVG format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  EMF as SVG" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats EMF as SVG" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

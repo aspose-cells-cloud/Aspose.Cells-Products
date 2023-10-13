@@ -1,18 +1,18 @@
 ---
-title: Export WORKSHEET to HTML from spreadsheet using Python  API 
+title: Export WORKSHEET to HTML from Excel using Cells Cloud SDK for Python  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /python/export/worksheet-to-html/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to export WORKSHEET to HTML file" h2="Python library to export WORKSHEET to HTML file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Python. This is a professional solution to export WORKSHEET to HTML format file from spreadsheet online using Python." urlsection="export/worksheet-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export WORKSHEET to HTML from Excel" h2="Python library for exporting WORKSHEET to HTML file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Python. This is a professional solution to export WORKSHEET to HTML format file from spreadsheet online using Python." urlsection="export/worksheet-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to HTML format file in Python" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to HTML format file using Cells Cloud SDK for Python" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export WORKSHEET object to HTML file from spreadsheet is a complex task. Export WORKSHEET to HTML format transitions is performed by our Python SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Python library is a professional solution to export WORKSHEET objects to HTML format files online. This Cloud SDK gives Python developers powerful functionality and perfect HTML output.
+Export WORKSHEET object to HTML file from Excel file is a complex task. Export WORKSHEET to HTML format transitions is performed by our Python SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Python library is a professional solution to export WORKSHEET objects to HTML format files online. This Cloud SDK gives Python developers powerful functionality and perfect HTML output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to export WORKSHEET to HTML format from spreadsheet" gistPath="" %}}
@@ -39,9 +39,9 @@ Export WORKSHEET object to HTML file from spreadsheet is a complex task. Export 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to export  WORKSHEET to HTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to export objects from Excel WORKSHEET to HTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call post_export method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

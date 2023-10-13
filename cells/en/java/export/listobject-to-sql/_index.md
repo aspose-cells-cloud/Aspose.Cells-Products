@@ -1,18 +1,18 @@
 ---
-title: Export LISTOBJECT to SQL from spreadsheet using Java  API 
+title: Export LISTOBJECT to SQL from Excel using Cells Cloud SDK for Java  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /java/export/listobject-to-sql/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to export LISTOBJECT to SQL file" h2="Java library to export LISTOBJECT to SQL file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Java. This is a professional solution to export LISTOBJECT to SQL format file from spreadsheet online using Java." urlsection="export/listobject-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export LISTOBJECT to SQL from Excel" h2="Java library for exporting LISTOBJECT to SQL file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Java. This is a professional solution to export LISTOBJECT to SQL format file from spreadsheet online using Java." urlsection="export/listobject-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to SQL format file in Java" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to SQL format file using Cells Cloud SDK for Java" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export LISTOBJECT object to SQL file from spreadsheet is a complex task. Export LISTOBJECT to SQL format transitions is performed by our Java SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Java library is a professional solution to export LISTOBJECT objects to SQL format files online. This Cloud SDK gives Java developers powerful functionality and perfect SQL output.
+Export LISTOBJECT object to SQL file from Excel file is a complex task. Export LISTOBJECT to SQL format transitions is performed by our Java SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Java library is a professional solution to export LISTOBJECT objects to SQL format files online. This Cloud SDK gives Java developers powerful functionality and perfect SQL output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to export LISTOBJECT to SQL format from spreadsheet" gistPath="" %}}
@@ -53,10 +53,10 @@ Export LISTOBJECT object to SQL file from spreadsheet is a complex task. Export 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to export  LISTOBJECT to SQL" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call postExport method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Java to export objects from Excel LISTOBJECT to SQL" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postExport` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

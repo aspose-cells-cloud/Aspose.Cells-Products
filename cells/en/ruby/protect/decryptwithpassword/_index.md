@@ -1,7 +1,7 @@
 ---
 title: Decrypt local spreadsheets with password in Cloud 
 description: Cloud APIs & SDKs for Microsoft Excel & OpenOffice Calc unlock. Spreadsheets decrypt by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /ruby/protect/decrypt-with-password/
+
 ---
 
 
@@ -20,7 +20,7 @@ Decrypting a local spreadsheet with a password is a complex task. Decrypting a l
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to decrypt " >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to unlock Excel file" >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call post_unlock method to get the resultant stream</li>

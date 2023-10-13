@@ -1,12 +1,12 @@
 ---
-title: Save TSV as PNG API for C# 
-description: Using Aspose.Cells Cloud SDK for C# to save TSV format file as PNG format file. 
-url: /net/saveas/tsv-to-png/
+title: Save TSV as PNG using C# 
+description: Utilizing Aspose.Cells Cloud SDK for C# to save TSV format file as PNG format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save TSV as PNG" h2="C# library to save TSV as PNG" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save TSV as PNG and other document formats online using C#." urlsection="saveas/tsv-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as PNG" h2="C# library for saving TSV as PNG" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save TSV as PNG and other document formats online using C#." urlsection="saveas/tsv-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as PNG in C#" >}}
@@ -15,7 +15,7 @@ url: /net/saveas/tsv-to-png/
 Saving file formats from TSV as PNG is a complex task. All TSV to PNG format transitions is performed by our C# SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our C# library is a professional solution to save TSV as PNG files online. This Cloud SDK gives C# developers powerful functionality and perfect PNG output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save TSV as PNG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving TSV as PNG using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -29,10 +29,10 @@ Saving file formats from TSV as PNG is a complex task. All TSV to PNG format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  TSV as PNG" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats TSV as PNG" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

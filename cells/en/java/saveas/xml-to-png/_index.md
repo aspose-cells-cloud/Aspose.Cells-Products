@@ -1,12 +1,12 @@
 ---
-title: Save XML as PNG API for Java 
-description: Using Aspose.Cells Cloud SDK for Java to save XML format file as PNG format file. 
-url: /java/saveas/xml-to-png/
+title: Save XML as PNG using Java 
+description: Utilizing Aspose.Cells Cloud SDK for Java to save XML format file as PNG format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Java API to save XML as PNG" h2="Java library to save XML as PNG" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Java. This is a professional solution to save XML as PNG and other document formats online using Java." urlsection="saveas/xml-to-png/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XML as PNG" h2="Java library for saving XML as PNG" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Java. This is a professional solution to save XML as PNG and other document formats online using Java." urlsection="saveas/xml-to-png/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XML file as PNG in Java" >}}
@@ -15,7 +15,7 @@ url: /java/saveas/xml-to-png/
 Saving file formats from XML as PNG is a complex task. All XML to PNG format transitions is performed by our Java SDK while maintaining the source XML spreadsheet's main structural and logical content. Our Java library is a professional solution to save XML as PNG files online. This Cloud SDK gives Java developers powerful functionality and perfect PNG output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Java using REST API to save XML as PNG format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Java Code Example for saving XML as PNG using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-java/
@@ -37,10 +37,10 @@ Saving file formats from XML as PNG is a complex task. All XML to PNG format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  XML as PNG" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Java to save Excel files as other formats XML as PNG" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

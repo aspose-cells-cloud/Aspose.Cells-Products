@@ -1,10 +1,10 @@
 ---
-title: Export using Go 
+title: Export Excel objects using Go 
 description: Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /go/export/
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Export using Go" h2="Aspose.Cells Cloud SDK supports exporting workbooks and internal objects to more than 30+ file formats." p="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="export/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export Excel objects using Go" h2="Aspose.Cells Cloud SDK supports exporting workbooks and internal objects to more than 30+ file formats." p="Aspose.Cells Cloud REST API supports exporting workbook and internal objects to all kinds of formats using Go. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="export/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -32,7 +32,7 @@ url: /go/export/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Export using Go Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Export Excel objects using Go Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/go/export" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

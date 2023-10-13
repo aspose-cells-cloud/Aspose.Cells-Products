@@ -1,12 +1,12 @@
 ---
 title: Clear background on the local workbook in Cloud 
 description: Cloud APIs & SDKs for clearing background on Microsoft Excel & OpenOffice Calc. Clear background on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /net/clear/background/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear background on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Removing background on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="C# Clear to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear background on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in C#. This professional solution clear background on local Microsoft Excel and OpenOffice Calc spreadsheet using C#." urlsection="clear/Background/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear background on local Microsoft Excel and OpenOffice Calc spreadsheet - C# REST API" >}}
@@ -20,9 +20,9 @@ Clearing background on local Microsoft Excel and OpenOffice Calc spreadsheet is 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to clear background " >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize Cells Cloud SDK for Net to clear background" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call PostClearObjects method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

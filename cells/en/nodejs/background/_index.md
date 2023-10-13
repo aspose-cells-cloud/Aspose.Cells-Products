@@ -1,14 +1,14 @@
 ---
-title: Set background using NodeJS 
-description: Aspose.Cells Cloud REST API supports set background for Excel file using NodeJS. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /nodejs/background/
+title: Set a background for Excel files using NodeJS 
+description: Aspose.Cells Cloud REST API supports setting the background for Excel files using NodeJS, and offers SDKs for various programming languages. 
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Set background using NodeJS" h2="Aspose.Cells Cloud SDK supports clear content, style, chart, table, background, and so on in Excel files." p="Aspose.Cells Cloud REST API supports set background for Excel file using NodeJS. SDK supports multiple development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="background/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Set a background for Excel files using NodeJS" h2="Aspose.Cells Cloud SDK supports setting backgrounds in Excel files." p="Aspose.Cells Cloud REST API supports setting the background for Excel files using NodeJS, and offers SDKs for various programming languages." urlsection="background/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Set background using NodeJS Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Set a background for Excel files using NodeJS Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/nodejs/background" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

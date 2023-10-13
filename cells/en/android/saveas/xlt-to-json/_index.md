@@ -1,12 +1,12 @@
 ---
-title: Save XLT as JSON API for Android 
-description: Using Aspose.Cells Cloud SDK for Android to save XLT format file as JSON format file. 
-url: /android/saveas/xlt-to-json/
+title: Save XLT as JSON using Android 
+description: Utilizing Aspose.Cells Cloud SDK for Android to save XLT format file as JSON format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Android API to save XLT as JSON" h2="Android library to save XLT as JSON" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Android. This is a professional solution to save XLT as JSON and other document formats online using Android." urlsection="saveas/xlt-to-json/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLT as JSON" h2="Android library for saving XLT as JSON" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Android. This is a professional solution to save XLT as JSON and other document formats online using Android." urlsection="saveas/xlt-to-json/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLT file as JSON in Android" >}}
@@ -15,7 +15,7 @@ url: /android/saveas/xlt-to-json/
 Saving file formats from XLT as JSON is a complex task. All XLT to JSON format transitions is performed by our Android SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our Android library is a professional solution to save XLT as JSON files online. This Cloud SDK gives Android developers powerful functionality and perfect JSON output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Android using REST API to save XLT as JSON format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Android Code Example for saving XLT as JSON using REST API" gistPath="" %}}
   
 ```java
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-android/
@@ -37,10 +37,10 @@ Saving file formats from XLT as JSON is a complex task. All XLT to JSON format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Java API to save  XLT as JSON" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Android to save Excel files as other formats XLT as JSON" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `postWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,12 +1,12 @@
 ---
-title: Save XLT as GIF API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save XLT format file as GIF format file. 
-url: /perl/saveas/xlt-to-gif/
+title: Save XLT as GIF using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save XLT format file as GIF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save XLT as GIF" h2="Perl library to save XLT as GIF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save XLT as GIF and other document formats online using Perl." urlsection="saveas/xlt-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLT as GIF" h2="Perl library for saving XLT as GIF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save XLT as GIF and other document formats online using Perl." urlsection="saveas/xlt-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLT file as GIF in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/xlt-to-gif/
 Saving file formats from XLT as GIF is a complex task. All XLT to GIF format transitions is performed by our Perl SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our Perl library is a professional solution to save XLT as GIF files online. This Cloud SDK gives Perl developers powerful functionality and perfect GIF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save XLT as GIF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving XLT as GIF using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from XLT as GIF is a complex task. All XLT to GIF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  XLT as GIF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats XLT as GIF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

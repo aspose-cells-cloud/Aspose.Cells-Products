@@ -1,7 +1,7 @@
 ---
 title: Add watermark for local workbook with C# in Cloud 
 description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc with C#. Adding watermark for local spreadsheets by the Cells Cloud API SDK for C#.  
-url: /net/background/add-watermark/
+
 ---
 
 
@@ -20,7 +20,7 @@ Adding watermark for a local spreadsheet with C# is a complex task. Adding water
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to add watermark" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to add a watermark to an Excel file." >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call PostWatermark method to get the resultant stream</li>

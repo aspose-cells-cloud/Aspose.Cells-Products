@@ -1,12 +1,12 @@
 ---
-title: Save EMF as TIFF API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to save EMF format file as TIFF format file. 
-url: /ruby/saveas/emf-to-tiff/
+title: Save EMF as TIFF using Ruby 
+description: Utilizing Aspose.Cells Cloud SDK for Ruby to save EMF format file as TIFF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to save EMF as TIFF" h2="Ruby library to save EMF as TIFF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to save EMF as TIFF and other document formats online using Ruby." urlsection="saveas/emf-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save EMF as TIFF" h2="Ruby library for saving EMF as TIFF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Ruby. This is a professional solution to save EMF as TIFF and other document formats online using Ruby." urlsection="saveas/emf-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a EMF file as TIFF in Ruby" >}}
@@ -15,7 +15,7 @@ url: /ruby/saveas/emf-to-tiff/
 Saving file formats from EMF as TIFF is a complex task. All EMF to TIFF format transitions is performed by our Ruby SDK while maintaining the source EMF spreadsheet's main structural and logical content. Our Ruby library is a professional solution to save EMF as TIFF files online. This Cloud SDK gives Ruby developers powerful functionality and perfect TIFF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to save EMF as TIFF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for saving EMF as TIFF using REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +35,10 @@ Saving file formats from EMF as TIFF is a complex task. All EMF to TIFF format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to save  EMF as TIFF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to save Excel files as other formats EMF as TIFF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

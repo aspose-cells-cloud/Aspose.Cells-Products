@@ -1,7 +1,7 @@
 ---
 title: Add watermark for local workbook with PHP in Cloud 
 description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc with PHP. Adding watermark for local spreadsheets by the Cells Cloud API SDK for PHP.  
-url: /php/background/add-watermark/
+
 ---
 
 
@@ -20,7 +20,7 @@ Adding watermark for a local spreadsheet with PHP is a complex task. Adding wate
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to add watermark" >}}
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to add a watermark to an Excel file." >}}
 <li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
 <li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
 <li>Call postWatermark method to get the resultant stream</li>

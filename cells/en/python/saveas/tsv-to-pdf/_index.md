@@ -1,12 +1,12 @@
 ---
-title: Save TSV as PDF API for Python 
-description: Using Aspose.Cells Cloud SDK for Python to save TSV format file as PDF format file. 
-url: /python/saveas/tsv-to-pdf/
+title: Save TSV as PDF using Python 
+description: Utilizing Aspose.Cells Cloud SDK for Python to save TSV format file as PDF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to save TSV as PDF" h2="Python library to save TSV as PDF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Python. This is a professional solution to save TSV as PDF and other document formats online using Python." urlsection="saveas/tsv-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as PDF" h2="Python library for saving TSV as PDF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Python. This is a professional solution to save TSV as PDF and other document formats online using Python." urlsection="saveas/tsv-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as PDF in Python" >}}
@@ -15,7 +15,7 @@ url: /python/saveas/tsv-to-pdf/
 Saving file formats from TSV as PDF is a complex task. All TSV to PDF format transitions is performed by our Python SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our Python library is a professional solution to save TSV as PDF files online. This Cloud SDK gives Python developers powerful functionality and perfect PDF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to save TSV as PDF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Code Example for saving TSV as PDF using REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -32,10 +32,10 @@ Saving file formats from TSV as PDF is a complex task. All TSV to PDF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to save  TSV as PDF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to save Excel files as other formats TSV as PDF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

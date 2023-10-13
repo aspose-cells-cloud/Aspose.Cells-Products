@@ -1,14 +1,14 @@
 ---
-title: Protect using NodeJS 
-description: Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks using NodeJS. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /nodejs/protect/
+title: Protect Excel files using NodeJS 
+description: Aspose.Cells Cloud REST API supports encrypting, decrypting, and adding digital signatures to workbooks using NodeJS, and offers SDKs for various programming languages. 
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Protect using NodeJS" h2="Aspose.Cells Cloud SDK supports decryption, encryption, and digital signature workbooks." p="Aspose.Cells Cloud REST API supports decryption, encryption, and digital signature workbooks using NodeJS. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="protect/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Protect Excel files using NodeJS" h2="Aspose.Cells Cloud SDK supports decrypting, encrypting, and digitally signing workbooks." p="Aspose.Cells Cloud REST API supports encrypting, decrypting, and adding digital signatures to workbooks using NodeJS, and offers SDKs for various programming languages." urlsection="protect/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
-{{< blocks/products/cells/cells-cloud-card-row title="Protect using NodeJS Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Protect Excel files using NodeJS Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/nodejs/protect" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

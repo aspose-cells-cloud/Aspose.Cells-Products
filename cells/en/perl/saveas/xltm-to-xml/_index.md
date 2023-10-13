@@ -1,12 +1,12 @@
 ---
-title: Save XLTM as XML API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save XLTM format file as XML format file. 
-url: /perl/saveas/xltm-to-xml/
+title: Save XLTM as XML using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save XLTM format file as XML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save XLTM as XML" h2="Perl library to save XLTM as XML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save XLTM as XML and other document formats online using Perl." urlsection="saveas/xltm-to-xml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLTM as XML" h2="Perl library for saving XLTM as XML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save XLTM as XML and other document formats online using Perl." urlsection="saveas/xltm-to-xml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTM file as XML in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/xltm-to-xml/
 Saving file formats from XLTM as XML is a complex task. All XLTM to XML format transitions is performed by our Perl SDK while maintaining the source XLTM spreadsheet's main structural and logical content. Our Perl library is a professional solution to save XLTM as XML files online. This Cloud SDK gives Perl developers powerful functionality and perfect XML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save XLTM as XML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving XLTM as XML using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from XLTM as XML is a complex task. All XLTM to XML format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  XLTM as XML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats XLTM as XML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

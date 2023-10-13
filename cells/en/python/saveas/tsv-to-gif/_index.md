@@ -1,12 +1,12 @@
 ---
-title: Save TSV as GIF API for Python 
-description: Using Aspose.Cells Cloud SDK for Python to save TSV format file as GIF format file. 
-url: /python/saveas/tsv-to-gif/
+title: Save TSV as GIF using Python 
+description: Utilizing Aspose.Cells Cloud SDK for Python to save TSV format file as GIF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to save TSV as GIF" h2="Python library to save TSV as GIF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Python. This is a professional solution to save TSV as GIF and other document formats online using Python." urlsection="saveas/tsv-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save TSV as GIF" h2="Python library for saving TSV as GIF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Python. This is a professional solution to save TSV as GIF and other document formats online using Python." urlsection="saveas/tsv-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a TSV file as GIF in Python" >}}
@@ -15,7 +15,7 @@ url: /python/saveas/tsv-to-gif/
 Saving file formats from TSV as GIF is a complex task. All TSV to GIF format transitions is performed by our Python SDK while maintaining the source TSV spreadsheet's main structural and logical content. Our Python library is a professional solution to save TSV as GIF files online. This Cloud SDK gives Python developers powerful functionality and perfect GIF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to save TSV as GIF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Code Example for saving TSV as GIF using REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -32,10 +32,10 @@ Saving file formats from TSV as GIF is a complex task. All TSV to GIF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to save  TSV as GIF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to save Excel files as other formats TSV as GIF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

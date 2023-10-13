@@ -1,12 +1,12 @@
 ---
-title: Save CSV as XPS API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save CSV format file as XPS format file. 
-url: /nodejs/saveas/csv-to-xps/
+title: Save CSV as XPS using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save CSV format file as XPS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save CSV as XPS" h2="NodeJS library to save CSV as XPS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save CSV as XPS and other document formats online using NodeJS." urlsection="saveas/csv-to-xps/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save CSV as XPS" h2="NodeJS library for saving CSV as XPS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save CSV as XPS and other document formats online using NodeJS." urlsection="saveas/csv-to-xps/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a CSV file as XPS in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/csv-to-xps/
 Saving file formats from CSV as XPS is a complex task. All CSV to XPS format transitions is performed by our NodeJS SDK while maintaining the source CSV spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save CSV as XPS files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect XPS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save CSV as XPS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving CSV as XPS using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from CSV as XPS is a complex task. All CSV to XPS format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  CSV as XPS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats CSV as XPS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,21 +1,21 @@
 ---
-title: JPG to PDF Convert API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to convert JPG format file to PDF format file. 
-url: /nodejs/conversion/jpg-to-pdf/
+title: Convert JPG to PDF using NodeJS 
+description: Utilizing the Aspose.Cells Cloud SDK for NodeJS to convert a JPG format file to a PDF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to convert JPG to PDF" h2="NodeJS library to convert JPG to PDF" p="Use Cells Conversion REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to convert JPG to PDF and other document formats online using NodeJS." urlsection="conversion/jpg-to-pdf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert JPG to PDF" h2="NodeJS library for converting JPG to PDF" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in NodeJS projects. This is a professional solution to convert JPG to PDF and other document formats online using NodeJS." urlsection="conversion/jpg-to-pdf/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a JPG file to PDF in NodeJS" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert JPG to PDF using Cells Cloud SDK for NodeJS" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
-Converting file formats from JPG to PDF is a complex task. All JPG to PDF format transitions is performed by our NodeJS SDK while maintaining the source JPG spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to convert JPG to PDF files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect PDF output.
+Converting file formats from JPG to PDF can be a complex task. Our NodeJS SDK handles all JPG to PDF format conversions while preserving the main structural and logical content of the source JPG spreadsheet. Our NodeJS library provides a professional solution for converting JPG to PDF files online. This Cloud SDK empowers NodeJS developers with powerful functionality and ensures high-quality PDF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to convert JPG to PDF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for converting JPG to PDF using Cells Cloud SDK" gistPath="" %}}
  
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -37,10 +37,10 @@ Converting file formats from JPG to PDF is a complex task. All JPG to PDF format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to convert  JPG to PDF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsWorkbookPutConvertWorkbook method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to convert Excel files to other formats JPG to PDF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `putConvertWorkbook` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

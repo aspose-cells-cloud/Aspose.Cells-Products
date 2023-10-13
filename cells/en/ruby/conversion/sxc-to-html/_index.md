@@ -1,21 +1,21 @@
 ---
-title: SXC to HTML Convert API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to convert SXC format file to HTML format file. 
-url: /ruby/conversion/sxc-to-html/
+title: Convert SXC to HTML using Ruby 
+description: Utilizing the Aspose.Cells Cloud SDK for Ruby to convert a SXC format file to a HTML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to convert SXC to HTML" h2="Ruby library to convert SXC to HTML" p="Use Cells Conversion REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to convert SXC to HTML and other document formats online using Ruby." urlsection="conversion/sxc-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Convert SXC to HTML" h2="Ruby library for converting SXC to HTML" p="Use the Conversion API of of Cells Cloud to create customized spreadsheet workflows in Ruby projects. This is a professional solution to convert SXC to HTML and other document formats online using Ruby." urlsection="conversion/sxc-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert a SXC file to HTML in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Convert SXC to HTML using Cells Cloud SDK for Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/convert  apireferenceurl=https://apireference.aspose.cloud/cells/#/Conversion/PutConvertExcel  apimethod=PUT %}}
 <br/>
-Converting file formats from SXC to HTML is a complex task. All SXC to HTML format transitions is performed by our Ruby SDK while maintaining the source SXC spreadsheet's main structural and logical content. Our Ruby library is a professional solution to convert SXC to HTML files online. This Cloud SDK gives Ruby developers powerful functionality and perfect HTML output.
+Converting file formats from SXC to HTML can be a complex task. Our Ruby SDK handles all SXC to HTML format conversions while preserving the main structural and logical content of the source SXC spreadsheet. Our Ruby library provides a professional solution for converting SXC to HTML files online. This Cloud SDK empowers Ruby developers with powerful functionality and ensures high-quality HTML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to convert SXC to HTML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for converting SXC to HTML using Cells Cloud SDK" gistPath="" %}}
  
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -32,10 +32,10 @@ Converting file formats from SXC to HTML is a complex task. All SXC to HTML form
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to convert  SXC to HTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_workbook_put_convert_workbook method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to convert Excel files to other formats SXC to HTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `put_convert_workbook` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

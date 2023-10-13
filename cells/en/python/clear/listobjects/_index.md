@@ -1,12 +1,12 @@
 ---
 title: Clear list objects on the local workbook in Cloud 
 description: Cloud APIs & SDKs for clearing list objects on Microsoft Excel & OpenOffice Calc. Clear list objects on local spreadsheets by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /python/clear/list-objects/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Python Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Python. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Python." urlsection="clear/List-objects/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Removing list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" h2="Python Clear to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet" p="Use Cells Clear REST API to clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet workflows in Python. This professional solution clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet using Python." urlsection="clear/List-objects/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Clear list objects on local Microsoft Excel and OpenOffice Calc spreadsheet - Python REST API" >}}
@@ -20,9 +20,9 @@ Clearing list objects on local Microsoft Excel and OpenOffice Calc spreadsheet i
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to clear list objects " >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to utilize Cells Cloud SDK for Python to clear list objects" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call post_clear_objects method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

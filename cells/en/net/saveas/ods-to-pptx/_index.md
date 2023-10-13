@@ -1,12 +1,12 @@
 ---
-title: Save ODS as PPTX API for C# 
-description: Using Aspose.Cells Cloud SDK for C# to save ODS format file as PPTX format file. 
-url: /net/saveas/ods-to-pptx/
+title: Save ODS as PPTX using C# 
+description: Utilizing Aspose.Cells Cloud SDK for C# to save ODS format file as PPTX format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save ODS as PPTX" h2="C# library to save ODS as PPTX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save ODS as PPTX and other document formats online using C#." urlsection="saveas/ods-to-pptx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save ODS as PPTX" h2="C# library for saving ODS as PPTX" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save ODS as PPTX and other document formats online using C#." urlsection="saveas/ods-to-pptx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a ODS file as PPTX in C#" >}}
@@ -15,7 +15,7 @@ url: /net/saveas/ods-to-pptx/
 Saving file formats from ODS as PPTX is a complex task. All ODS to PPTX format transitions is performed by our C# SDK while maintaining the source ODS spreadsheet's main structural and logical content. Our C# library is a professional solution to save ODS as PPTX files online. This Cloud SDK gives C# developers powerful functionality and perfect PPTX output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save ODS as PPTX format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving ODS as PPTX using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -29,10 +29,10 @@ Saving file formats from ODS as PPTX is a complex task. All ODS to PPTX format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  ODS as PPTX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats ODS as PPTX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

@@ -1,12 +1,12 @@
 ---
-title: Save XLT as WMF API for Ruby 
-description: Using Aspose.Cells Cloud SDK for Ruby to save XLT format file as WMF format file. 
-url: /ruby/saveas/xlt-to-wmf/
+title: Save XLT as WMF using Ruby 
+description: Utilizing Aspose.Cells Cloud SDK for Ruby to save XLT format file as WMF format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to save XLT as WMF" h2="Ruby library to save XLT as WMF" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Ruby. This is a professional solution to save XLT as WMF and other document formats online using Ruby." urlsection="saveas/xlt-to-wmf/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLT as WMF" h2="Ruby library for saving XLT as WMF" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Ruby. This is a professional solution to save XLT as WMF and other document formats online using Ruby." urlsection="saveas/xlt-to-wmf/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLT file as WMF in Ruby" >}}
@@ -15,7 +15,7 @@ url: /ruby/saveas/xlt-to-wmf/
 Saving file formats from XLT as WMF is a complex task. All XLT to WMF format transitions is performed by our Ruby SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our Ruby library is a professional solution to save XLT as WMF files online. This Cloud SDK gives Ruby developers powerful functionality and perfect WMF output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to save XLT as WMF format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Ruby Code Example for saving XLT as WMF using REST API" gistPath="" %}}
   
 ```ruby
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-ruby/
@@ -35,10 +35,10 @@ Saving file formats from XLT as WMF is a complex task. All XLT to WMF format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to save  XLT as WMF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to save Excel files as other formats XLT as WMF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

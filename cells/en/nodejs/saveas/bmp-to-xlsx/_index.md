@@ -1,12 +1,12 @@
 ---
-title: Save BMP as XLSX API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save BMP format file as XLSX format file. 
-url: /nodejs/saveas/bmp-to-xlsx/
+title: Save BMP as XLSX using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save BMP format file as XLSX format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save BMP as XLSX" h2="NodeJS library to save BMP as XLSX" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save BMP as XLSX and other document formats online using NodeJS." urlsection="saveas/bmp-to-xlsx/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save BMP as XLSX" h2="NodeJS library for saving BMP as XLSX" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save BMP as XLSX and other document formats online using NodeJS." urlsection="saveas/bmp-to-xlsx/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a BMP file as XLSX in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/bmp-to-xlsx/
 Saving file formats from BMP as XLSX is a complex task. All BMP to XLSX format transitions is performed by our NodeJS SDK while maintaining the source BMP spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save BMP as XLSX files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect XLSX output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save BMP as XLSX format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving BMP as XLSX using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from BMP as XLSX is a complex task. All BMP to XLSX format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  BMP as XLSX" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats BMP as XLSX" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

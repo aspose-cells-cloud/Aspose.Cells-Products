@@ -1,12 +1,12 @@
 ---
-title: Save XLT as HTML API for C# 
-description: Using Aspose.Cells Cloud SDK for C# to save XLT format file as HTML format file. 
-url: /net/saveas/xlt-to-html/
+title: Save XLT as HTML using C# 
+description: Utilizing Aspose.Cells Cloud SDK for C# to save XLT format file as HTML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save XLT as HTML" h2="C# library to save XLT as HTML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save XLT as HTML and other document formats online using C#." urlsection="saveas/xlt-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLT as HTML" h2="C# library for saving XLT as HTML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save XLT as HTML and other document formats online using C#." urlsection="saveas/xlt-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLT file as HTML in C#" >}}
@@ -15,7 +15,7 @@ url: /net/saveas/xlt-to-html/
 Saving file formats from XLT as HTML is a complex task. All XLT to HTML format transitions is performed by our C# SDK while maintaining the source XLT spreadsheet's main structural and logical content. Our C# library is a professional solution to save XLT as HTML files online. This Cloud SDK gives C# developers powerful functionality and perfect HTML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save XLT as HTML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving XLT as HTML using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -29,10 +29,10 @@ Saving file formats from XLT as HTML is a complex task. All XLT to HTML format t
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  XLT as HTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats XLT as HTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

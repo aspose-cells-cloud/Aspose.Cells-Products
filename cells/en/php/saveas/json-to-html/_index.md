@@ -1,12 +1,12 @@
 ---
-title: Save JSON as HTML API for PHP 
-description: Using Aspose.Cells Cloud SDK for PHP to save JSON format file as HTML format file. 
-url: /php/saveas/json-to-html/
+title: Save JSON as HTML using PHP 
+description: Utilizing Aspose.Cells Cloud SDK for PHP to save JSON format file as HTML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="PHP API to save JSON as HTML" h2="PHP library to save JSON as HTML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in PHP. This is a professional solution to save JSON as HTML and other document formats online using PHP." urlsection="saveas/json-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save JSON as HTML" h2="PHP library for saving JSON as HTML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in PHP. This is a professional solution to save JSON as HTML and other document formats online using PHP." urlsection="saveas/json-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a JSON file as HTML in PHP" >}}
@@ -15,7 +15,7 @@ url: /php/saveas/json-to-html/
 Saving file formats from JSON as HTML is a complex task. All JSON to HTML format transitions is performed by our PHP SDK while maintaining the source JSON spreadsheet's main structural and logical content. Our PHP library is a professional solution to save JSON as HTML files online. This Cloud SDK gives PHP developers powerful functionality and perfect HTML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in PHP using REST API to save JSON as HTML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="PHP Code Example for saving JSON as HTML using REST API" gistPath="" %}}
   
 ```php
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-php/
@@ -33,10 +33,10 @@ Saving file formats from JSON as HTML is a complex task. All JSON to HTML format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use PHP API to save  JSON as HTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for PHP to save Excel files as other formats JSON as HTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

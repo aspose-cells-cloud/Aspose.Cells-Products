@@ -1,18 +1,18 @@
 ---
-title: Export LISTOBJECT to GIF from spreadsheet using Perl  API 
+title: Export LISTOBJECT to GIF from Excel using Cells Cloud SDK for Perl  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /perl/export/listobject-to-gif/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to export LISTOBJECT to GIF file" h2="Perl library to export LISTOBJECT to GIF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Perl. This is a professional solution to export LISTOBJECT to GIF format file from spreadsheet online using Perl." urlsection="export/listobject-to-gif/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export LISTOBJECT to GIF from Excel" h2="Perl library for exporting LISTOBJECT to GIF file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Perl. This is a professional solution to export LISTOBJECT to GIF format file from spreadsheet online using Perl." urlsection="export/listobject-to-gif/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to GIF format file in Perl" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export LISTOBJECT object to GIF format file using Cells Cloud SDK for Perl" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export LISTOBJECT object to GIF file from spreadsheet is a complex task. Export LISTOBJECT to GIF format transitions is performed by our Perl SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Perl library is a professional solution to export LISTOBJECT objects to GIF format files online. This Cloud SDK gives Perl developers powerful functionality and perfect GIF output.
+Export LISTOBJECT object to GIF file from Excel file is a complex task. Export LISTOBJECT to GIF format transitions is performed by our Perl SDK while maintaining the source LISTOBJECT spreadsheet's main structural and logical content. Our Perl library is a professional solution to export LISTOBJECT objects to GIF format files online. This Cloud SDK gives Perl developers powerful functionality and perfect GIF output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to export LISTOBJECT to GIF format from spreadsheet" gistPath="" %}}
@@ -39,9 +39,9 @@ Export LISTOBJECT object to GIF file from spreadsheet is a complex task. Export 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to export  LISTOBJECT to GIF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to export objects from Excel LISTOBJECT to GIF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call post_export method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

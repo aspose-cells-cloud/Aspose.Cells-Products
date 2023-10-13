@@ -1,7 +1,7 @@
 ---
 title: Encrypt cloud spreadsheet with password in Cloud 
 description: Cloud APIs & SDKs for Protecting Microsoft Excel & OpenOffice Calc. Encrypt cloud spreadsheet with password by the Cells Cloud API. SDK support kinds of development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /perl/protect/encrypt-cloud-file-with-password/
+
 ---
 
 

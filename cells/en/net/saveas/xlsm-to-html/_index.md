@@ -1,12 +1,12 @@
 ---
-title: Save XLSM as HTML API for C# 
-description: Using Aspose.Cells Cloud SDK for C# to save XLSM format file as HTML format file. 
-url: /net/saveas/xlsm-to-html/
+title: Save XLSM as HTML using C# 
+description: Utilizing Aspose.Cells Cloud SDK for C# to save XLSM format file as HTML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="C# API to save XLSM as HTML" h2="C# library to save XLSM as HTML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Net. This is a professional solution to save XLSM as HTML and other document formats online using C#." urlsection="saveas/xlsm-to-html/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSM as HTML" h2="C# library for saving XLSM as HTML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Net. This is a professional solution to save XLSM as HTML and other document formats online using C#." urlsection="saveas/xlsm-to-html/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSM file as HTML in C#" >}}
@@ -15,7 +15,7 @@ url: /net/saveas/xlsm-to-html/
 Saving file formats from XLSM as HTML is a complex task. All XLSM to HTML format transitions is performed by our C# SDK while maintaining the source XLSM spreadsheet's main structural and logical content. Our C# library is a professional solution to save XLSM as HTML files online. This Cloud SDK gives C# developers powerful functionality and perfect HTML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in C# using REST API to save XLSM as HTML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="C# Code Example for saving XLSM as HTML using REST API" gistPath="" %}}
   
 ```cs
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-dotnet/
@@ -29,10 +29,10 @@ Saving file formats from XLSM as HTML is a complex task. All XLSM to HTML format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use C# API to save  XLSM as HTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Net to save Excel files as other formats XLSM as HTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

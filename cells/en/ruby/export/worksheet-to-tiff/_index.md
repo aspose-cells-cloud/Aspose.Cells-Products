@@ -1,18 +1,18 @@
 ---
-title: Export WORKSHEET to TIFF from spreadsheet using Ruby  API 
+title: Export WORKSHEET to TIFF from Excel using Cells Cloud SDK for Ruby  
 description: Aspose.Cells Cloud REST API support exporting {0} to {1} format files using {2}. 
-url: /ruby/export/worksheet-to-tiff/
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Ruby API to export WORKSHEET to TIFF file" h2="Ruby library to export WORKSHEET to TIFF file" p="Use Cells Export REST API to export spreadsheet internal object workflows in Ruby. This is a professional solution to export WORKSHEET to TIFF format file from spreadsheet online using Ruby." urlsection="export/worksheet-to-tiff/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Export WORKSHEET to TIFF from Excel" h2="Ruby library for exporting WORKSHEET to TIFF file" p="Use Export API of Cells Cloud to export Excel file internal object workflows in Ruby. This is a professional solution to export WORKSHEET to TIFF format file from spreadsheet online using Ruby." urlsection="export/worksheet-to-tiff/" >}}
 {{< blocks/products/pf/main-container >}}
 
-{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to TIFF format file in Ruby" >}}
+{{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Export WORKSHEET object to TIFF format file using Cells Cloud SDK for Ruby" >}}
 {{% blocks/products/cells/cells-cloud-api-reference  apiurl=https://api.aspose.cloud/v3.0/cells/export  apireferenceurl=https://apireference.aspose.cloud/cells/#/LightCells/PostExport  apimethod=POST %}}
 <br/>
-Export WORKSHEET object to TIFF file from spreadsheet is a complex task. Export WORKSHEET to TIFF format transitions is performed by our Ruby SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Ruby library is a professional solution to export WORKSHEET objects to TIFF format files online. This Cloud SDK gives Ruby developers powerful functionality and perfect TIFF output.
+Export WORKSHEET object to TIFF file from Excel file is a complex task. Export WORKSHEET to TIFF format transitions is performed by our Ruby SDK while maintaining the source WORKSHEET spreadsheet's main structural and logical content. Our Ruby library is a professional solution to export WORKSHEET objects to TIFF format files online. This Cloud SDK gives Ruby developers powerful functionality and perfect TIFF output.
 <br/>
 <br/>
 {{% blocks/products/cells/cells-cloud-code-div title="Code example in Ruby using REST API to export WORKSHEET to TIFF format from spreadsheet" gistPath="" %}}
@@ -37,9 +37,9 @@ Export WORKSHEET object to TIFF file from spreadsheet is a complex task. Export 
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Ruby API to export  WORKSHEET to TIFF" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Ruby to export objects from Excel WORKSHEET to TIFF" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
 <li>Call post_export method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>

@@ -1,12 +1,12 @@
 ---
-title: Save GIF as TSV API for Go 
-description: Using Aspose.Cells Cloud SDK for Go to save GIF format file as TSV format file. 
-url: /go/saveas/gif-to-tsv/
+title: Save GIF as TSV using Go 
+description: Utilizing Aspose.Cells Cloud SDK for Go to save GIF format file as TSV format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Go API to save GIF as TSV" h2="Go library to save GIF as TSV" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Go. This is a professional solution to save GIF as TSV and other document formats online using Go." urlsection="saveas/gif-to-tsv/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save GIF as TSV" h2="Go library for saving GIF as TSV" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Go. This is a professional solution to save GIF as TSV and other document formats online using Go." urlsection="saveas/gif-to-tsv/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a GIF file as TSV in Go" >}}
@@ -15,7 +15,7 @@ url: /go/saveas/gif-to-tsv/
 Saving file formats from GIF as TSV is a complex task. All GIF to TSV format transitions is performed by our Go SDK while maintaining the source GIF spreadsheet's main structural and logical content. Our Go library is a professional solution to save GIF as TSV files online. This Cloud SDK gives Go developers powerful functionality and perfect TSV output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Go using REST API to save GIF as TSV format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Go Code Example for saving GIF as TSV using REST API" gistPath="" %}}
   
 ```go
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-go/
@@ -33,10 +33,10 @@ Saving file formats from GIF as TSV is a complex task. All GIF to TSV format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Go API to save  GIF as TSV" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call CellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Go to save Excel files as other formats GIF as TSV" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

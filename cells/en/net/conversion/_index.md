@@ -1,10 +1,10 @@
 ---
-title: Conversion using C# 
-description: Aspose.Cells Cloud REST API supports the conversion of excel files to different kinds of format files using C#. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift. 
-url: /net/conversion/
+title: Converting Excel file formats using C# 
+description: Aspose.Cells Cloud REST API supports Excel file format conversion using C# and offers SDKs for multiple programming languages. 
+
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Conversion using C#" h2="Aspose.Cells Cloud SDK supports file format conversion. The supported file format has more than 30+ file formats." p="Aspose.Cells Cloud REST API supports the conversion of excel files to different kinds of format files using C#. SDK supports development languages. They include Android, C#, Go, Java, NodeJS, Perl, PHP, Python, Ruby, and swift." urlsection="conversion/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Converting Excel file formats using C#" h2="Aspose.Cells Cloud SDK supports conversion between 30+ file formats." p="Aspose.Cells Cloud REST API supports Excel file format conversion using C# and offers SDKs for multiple programming languages." urlsection="conversion/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells Cloud" subTitlepfName="Cells Cloud Feature" >}}
 
@@ -34,7 +34,7 @@ url: /net/conversion/
 	<div class="d1-logo"><img src="/product-logos/aspose_cells-for-cloud.svg" alt="Conversion SDK"><header>Aspose.Cells</header><footer>Cloud SDK</footer></div>
 	</div>
 	{{< /blocks/products/pf/product-card-row >}}
-{{< blocks/products/cells/cells-cloud-card-row title="Conversion using C# Extension links" >}}
+{{< blocks/products/cells/cells-cloud-card-row title="Converting Excel file formats using C# Extension links" >}}
 {{< blocks/products/cells/cells-cloud-children-list  contentFolder="content/cells/en/net/conversion" >}} 
 {{< /blocks/products/cells/cells-cloud-card-row >}}
 

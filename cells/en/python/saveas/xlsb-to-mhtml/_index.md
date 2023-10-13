@@ -1,12 +1,12 @@
 ---
-title: Save XLSB as MHTML API for Python 
-description: Using Aspose.Cells Cloud SDK for Python to save XLSB format file as MHTML format file. 
-url: /python/saveas/xlsb-to-mhtml/
+title: Save XLSB as MHTML using Python 
+description: Utilizing Aspose.Cells Cloud SDK for Python to save XLSB format file as MHTML format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Python API to save XLSB as MHTML" h2="Python library to save XLSB as MHTML" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Python. This is a professional solution to save XLSB as MHTML and other document formats online using Python." urlsection="saveas/xlsb-to-mhtml/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLSB as MHTML" h2="Python library for saving XLSB as MHTML" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Python. This is a professional solution to save XLSB as MHTML and other document formats online using Python." urlsection="saveas/xlsb-to-mhtml/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLSB file as MHTML in Python" >}}
@@ -15,7 +15,7 @@ url: /python/saveas/xlsb-to-mhtml/
 Saving file formats from XLSB as MHTML is a complex task. All XLSB to MHTML format transitions is performed by our Python SDK while maintaining the source XLSB spreadsheet's main structural and logical content. Our Python library is a professional solution to save XLSB as MHTML files online. This Cloud SDK gives Python developers powerful functionality and perfect MHTML output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Python using REST API to save XLSB as MHTML format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Python Code Example for saving XLSB as MHTML using REST API" gistPath="" %}}
   
 ```python
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-python/
@@ -32,10 +32,10 @@ Saving file formats from XLSB as MHTML is a complex task. All XLSB to MHTML form
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Python API to save  XLSB as MHTML" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Python to save Excel files as other formats XLSB as MHTML" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `post_workbook_save_as` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

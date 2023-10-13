@@ -1,7 +1,7 @@
 ---
 title: Add watermark for local workbook with Go in Cloud 
 description: Cloud APIs & SDKs for adding watermark for Microsoft Excel & OpenOffice Calc with Go. Adding watermark for local spreadsheets by the Cells Cloud API SDK for Go.  
-url: /go/background/add-watermark/
+
 ---
 
 

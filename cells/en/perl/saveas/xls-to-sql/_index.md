@@ -1,12 +1,12 @@
 ---
-title: Save XLS as SQL API for Perl 
-description: Using Aspose.Cells Cloud SDK for Perl to save XLS format file as SQL format file. 
-url: /perl/saveas/xls-to-sql/
+title: Save XLS as SQL using Perl 
+description: Utilizing Aspose.Cells Cloud SDK for Perl to save XLS format file as SQL format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="Perl API to save XLS as SQL" h2="Perl library to save XLS as SQL" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in Perl. This is a professional solution to save XLS as SQL and other document formats online using Perl." urlsection="saveas/xls-to-sql/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLS as SQL" h2="Perl library for saving XLS as SQL" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in Perl. This is a professional solution to save XLS as SQL and other document formats online using Perl." urlsection="saveas/xls-to-sql/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLS file as SQL in Perl" >}}
@@ -15,7 +15,7 @@ url: /perl/saveas/xls-to-sql/
 Saving file formats from XLS as SQL is a complex task. All XLS to SQL format transitions is performed by our Perl SDK while maintaining the source XLS spreadsheet's main structural and logical content. Our Perl library is a professional solution to save XLS as SQL files online. This Cloud SDK gives Perl developers powerful functionality and perfect SQL output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in Perl using REST API to save XLS as SQL format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="Perl Code Example for saving XLS as SQL using REST API" gistPath="" %}}
   
 ```perl
 # For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-perl/
@@ -31,10 +31,10 @@ Saving file formats from XLS as SQL is a complex task. All XLS to SQL format tra
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Perl API to save  XLS as SQL" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cells_save_as_post_document_save_as method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Perl to save Excel files as other formats XLS as SQL" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Call post_workbook_save_as method to get the resultant stream</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>

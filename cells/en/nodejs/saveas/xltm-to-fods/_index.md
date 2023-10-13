@@ -1,12 +1,12 @@
 ---
-title: Save XLTM as FODS API for NodeJS 
-description: Using Aspose.Cells Cloud SDK for NodeJS to save XLTM format file as FODS format file. 
-url: /nodejs/saveas/xltm-to-fods/
+title: Save XLTM as FODS using NodeJS 
+description: Utilizing Aspose.Cells Cloud SDK for NodeJS to save XLTM format file as FODS format file. 
+
 ---
 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/cells/cells-cloud-upper-banner h1="NodeJS API to save XLTM as FODS" h2="NodeJS library to save XLTM as FODS" p="Use Cells SaveAs REST API to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLTM as FODS and other document formats online using NodeJS." urlsection="saveas/xltm-to-fods/" >}}
+{{< blocks/products/cells/cells-cloud-upper-banner h1="Save XLTM as FODS" h2="NodeJS library for saving XLTM as FODS" p="Use SaveAs API of Cells Cloud to create customized spreadsheet workflows in NodeJS. This is a professional solution to save XLTM as FODS and other document formats online using NodeJS." urlsection="saveas/xltm-to-fods/" >}}
 {{< blocks/products/pf/main-container >}}
 
 {{< blocks/products/cells/cells-cloud-section isGrey="true"  title="Save a XLTM file as FODS in NodeJS" >}}
@@ -15,7 +15,7 @@ url: /nodejs/saveas/xltm-to-fods/
 Saving file formats from XLTM as FODS is a complex task. All XLTM to FODS format transitions is performed by our NodeJS SDK while maintaining the source XLTM spreadsheet's main structural and logical content. Our NodeJS library is a professional solution to save XLTM as FODS files online. This Cloud SDK gives NodeJS developers powerful functionality and perfect FODS output.
 <br/>
 <br/>
-{{% blocks/products/cells/cells-cloud-code-div title="Code example in NodeJS using REST API to save XLTM as FODS format" gistPath="" %}}
+{{% blocks/products/cells/cells-cloud-code-div title="NodeJS Code Example for saving XLTM as FODS using REST API" gistPath="" %}}
   
 ```js
 // For complete examples and data files, please go to https://github.com/aspose-cells-cloud/aspose-cells-cloud-node/
@@ -35,10 +35,10 @@ Saving file formats from XLTM as FODS is a complex task. All XLTM to FODS format
 {{% /blocks/products/cells/cells-cloud-code-div  %}}
 <br/>
 <br/>
-{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Node API to save  XLTM as FODS" >}}
-<li>Create an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
-<li>Initialize CellsApi with Client Id, Client Secret, Base URL & API version</li>
-<li>Call cellsSaveAsPostDocumentSaveAs method to get the resultant stream</li>
+{{< blocks/products/cells/cells-cloud-section-list isGrey="true"  title="How to use Cells Cloud SDK for Node to save Excel files as other formats XLTM as FODS" >}}
+<li>Register an account at <a href="https://dashboard.aspose.cloud/">Dashboard</a> to get free API quota & authorization details</li>
+<li>Initialize the Cells API with your Client ID, Client Secret, Base URL, and API version.</li>
+<li>Use the `PostWorkbookSaveAs` method to retrieve the resulting stream.</li>
 {{< /blocks/products/cells/cells-cloud-section-list >}}
 <br/>
 <br/>
